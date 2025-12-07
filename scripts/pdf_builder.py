@@ -188,7 +188,7 @@ class SpanishLearningPDF:
             fontSize=14,
             textColor=MEDIUM_GRAY,
             alignment=TA_CENTER,
-            spaceAfter=4
+            spaceAfter=12
         ))
 
         styles.add(ParagraphStyle(
