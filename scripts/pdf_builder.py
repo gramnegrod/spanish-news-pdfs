@@ -179,7 +179,7 @@ class SpanishLearningPDF:
             fontSize=32,
             textColor=SPANISH_RED,
             alignment=TA_CENTER,
-            spaceAfter=8
+            spaceAfter=25
         ))
 
         styles.add(ParagraphStyle(
