@@ -1,0 +1,66 @@
+name: Generate Daily Spanish PDF
+
+on:
+  schedule:
+    # Run at 3:00 AM Central Time (9:00 AM UTC)
+    - cron: '0 9 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install anthropic requests reportlab pillow
+
+      - name: Generate Spanish PDF
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+        run: |
+          cd scripts
+          python generate_spanish_pdf.py
+
+      - name: Clean up temporary images
+        run: |
+          rm -f pdfs/story_*_image.jpg
+
+      - name: Commit and push PDF
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add pdfs/*.pdf index.json
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📚 Daily Spanish lesson - $(date +'%Y-%m-%d')"
+            git push
+          fi
+
+      - name: Summary
+        run: |
+          echo "## 📚 Spanish PDF Generated!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: $(date +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
+          echo "- **File**: pdfs/spanish_lesson_$(date +'%Y-%m-%d').pdf" >> $GITHUB_STEP_SUMMARY
