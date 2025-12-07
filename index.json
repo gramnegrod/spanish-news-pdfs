@@ -1,6 +1,32 @@
 {
-  "pdfs": [],
-  "last_updated": null,
+  "pdfs": [
+    {
+      "date": "2025-12-07",
+      "filename": "spanish_lesson_2025-12-07.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-07.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso trabaja en nuevo presupuesto federal",
+          "headline_en": "Congress works on new federal budget"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La Reserva Federal estudia la economía estadounidense",
+          "headline_en": "Federal Reserve studies American economy"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas presentan nueva inteligencia artificial",
+          "headline_en": "Tech companies present new artificial intelligence"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-07T14:32:56.276070"
+    }
+  ],
+  "last_updated": "2025-12-07T14:32:56.276081",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
