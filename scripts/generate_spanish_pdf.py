@@ -36,13 +36,12 @@ INDEX_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'index.jso
 
 
 # =============================================================================
-# NEWS FETCHING (Google News RSS - No API Key Required)
+# NEWS FETCHING (RSS + Claude Selection)
 # =============================================================================
-def fetch_news_stories() -> List[Dict]:
+def fetch_rss_candidates() -> Dict[str, List[Dict]]:
     """
-    Fetch current US news stories from Google News RSS feeds.
-    No API key required - completely free.
-    Returns list of raw news stories with title, summary, category.
+    Fetch multiple news candidates from Google News RSS feeds.
+    Returns dict of category -> list of story candidates.
     """
     import xml.etree.ElementTree as ET
     import html
@@ -50,83 +49,168 @@ def fetch_news_stories() -> List[Dict]:
 
     # Google News RSS feeds for different topics
     feeds = [
-        ("https://news.google.com/rss/search?q=US+politics+congress+government&hl=en-US&gl=US&ceid=US:en", "Política"),
-        ("https://news.google.com/rss/search?q=US+economy+business+markets&hl=en-US&gl=US&ceid=US:en", "Economía"),
-        ("https://news.google.com/rss/search?q=technology+AI+tech+companies&hl=en-US&gl=US&ceid=US:en", "Tecnología"),
+        ("https://news.google.com/rss/search?q=US+politics+congress+government+when:1d&hl=en-US&gl=US&ceid=US:en", "Política"),
+        ("https://news.google.com/rss/search?q=US+economy+business+markets+when:1d&hl=en-US&gl=US&ceid=US:en", "Economía"),
+        ("https://news.google.com/rss/search?q=technology+AI+tech+companies+when:1d&hl=en-US&gl=US&ceid=US:en", "Tecnología"),
     ]
 
-    stories = []
+    candidates = {}
 
     for feed_url, category in feeds:
+        candidates[category] = []
         try:
             response = requests.get(feed_url, timeout=15, headers={
                 'User-Agent': 'Mozilla/5.0 (compatible; SpanishNewsPDF/1.0)'
             })
             response.raise_for_status()
 
-            # Parse RSS XML
             root = ET.fromstring(response.content)
-
-            # Find items in RSS feed
             items = root.findall('.//item')
 
-            if items:
-                # Get the first (most recent) item
-                item = items[0]
+            # Get up to 8 items per category for Claude to choose from
+            for item in items[:8]:
                 title = item.find('title')
                 description = item.find('description')
                 source = item.find('source')
+                pub_date = item.find('pubDate')
 
                 title_text = html.unescape(title.text) if title is not None and title.text else ""
 
-                # Clean up description (remove HTML tags)
                 desc_text = ""
                 if description is not None and description.text:
                     desc_text = html.unescape(description.text)
-                    desc_text = re.sub(r'<[^>]+>', '', desc_text)  # Remove HTML tags
+                    desc_text = re.sub(r'<[^>]+>', '', desc_text)
 
                 source_text = source.text if source is not None and source.text else "News"
+                date_text = pub_date.text if pub_date is not None else ""
 
-                # Combine title and description for content
-                raw_content = f"{title_text}\n\n{desc_text}" if desc_text else title_text
+                if title_text:
+                    candidates[category].append({
+                        "title": title_text,
+                        "description": desc_text,
+                        "source": source_text,
+                        "date": date_text
+                    })
 
-                stories.append({
-                    "category": category,
-                    "raw_content": raw_content,
-                    "source": source_text
-                })
-                print(f"  ✓ {category}: {title_text[:60]}...")
-            else:
-                print(f"  ✗ {category}: No items found in feed")
+            print(f"  ✓ {category}: Found {len(candidates[category])} candidates")
 
         except Exception as e:
             print(f"  ✗ {category} RSS error: {e}")
-            continue
 
-    # If we got at least one story, return what we have
-    if stories:
-        return stories
+    return candidates
 
-    # Ultimate fallback - should rarely happen
-    print("  ⚠ All feeds failed, using fallback content")
-    today = datetime.now().strftime("%B %d, %Y")
-    return [
-        {
-            "category": "Política",
-            "raw_content": f"Congress continues legislative work on {today}. Lawmakers discuss key policy priorities.",
-            "source": "Government News"
-        },
-        {
-            "category": "Economía",
-            "raw_content": f"Markets respond to economic data on {today}. Investors monitor financial indicators.",
-            "source": "Financial News"
-        },
-        {
-            "category": "Tecnología",
-            "raw_content": f"Tech industry developments continue on {today}. Companies advance innovation efforts.",
-            "source": "Tech News"
-        }
-    ]
+
+def fetch_news_stories() -> List[Dict]:
+    """
+    Fetch news using RSS feeds, then let Claude pick the best story per category.
+    Combines free RSS with intelligent Claude selection.
+    """
+    # Step 1: Get RSS candidates
+    print("  Fetching RSS candidates...")
+    candidates = fetch_rss_candidates()
+
+    # Step 2: Let Claude pick the best story from each category
+    print("  Asking Claude to select best stories...")
+
+    if not ANTHROPIC_API_KEY:
+        print("  ⚠ No Anthropic key - using first RSS item per category")
+        return _fallback_first_items(candidates)
+
+    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+
+    # Build prompt for Claude to select stories
+    selection_prompt = """You are a news editor selecting stories for a Spanish language learning PDF.
+
+For each category below, I'll give you several news candidates. Pick the ONE best story that:
+1. Is most newsworthy and significant
+2. Has clear, concrete facts (names, numbers, events)
+3. Would be interesting for Spanish learners in the US
+4. Is NOT a duplicate or slight variation of another story
+
+CANDIDATES BY CATEGORY:
+
+"""
+    for category, items in candidates.items():
+        selection_prompt += f"\n## {category}\n"
+        for i, item in enumerate(items, 1):
+            selection_prompt += f"{i}. [{item['source']}] {item['title']}\n"
+            if item['description']:
+                selection_prompt += f"   Summary: {item['description'][:200]}...\n"
+
+    selection_prompt += """
+
+RESPOND WITH JSON ONLY - pick one story number per category:
+{
+    "Política": {"pick": 1, "reason": "brief reason"},
+    "Economía": {"pick": 2, "reason": "brief reason"},
+    "Tecnología": {"pick": 1, "reason": "brief reason"}
+}
+"""
+
+    try:
+        response = client.messages.create(
+            model="claude-sonnet-4-20250514",
+            max_tokens=500,
+            messages=[{"role": "user", "content": selection_prompt}]
+        )
+
+        response_text = response.content[0].text
+
+        # Clean up JSON response
+        if "```" in response_text:
+            response_text = response_text.split("```")[1]
+            if response_text.startswith("json"):
+                response_text = response_text[4:]
+        response_text = response_text.strip()
+
+        selections = json.loads(response_text)
+
+        # Build final stories list based on Claude's picks
+        stories = []
+        for category in ["Política", "Economía", "Tecnología"]:
+            if category in selections and category in candidates:
+                pick_idx = selections[category].get("pick", 1) - 1  # Convert to 0-indexed
+                if 0 <= pick_idx < len(candidates[category]):
+                    item = candidates[category][pick_idx]
+                    stories.append({
+                        "category": category,
+                        "raw_content": f"{item['title']}\n\n{item['description']}",
+                        "source": item['source']
+                    })
+                    print(f"  ✓ {category}: Claude picked #{pick_idx+1} - {item['title'][:50]}...")
+                    print(f"    Reason: {selections[category].get('reason', 'N/A')}")
+
+        if stories:
+            return stories
+
+    except Exception as e:
+        print(f"  ⚠ Claude selection error: {e}")
+
+    # Fallback to first items
+    return _fallback_first_items(candidates)
+
+
+def _fallback_first_items(candidates: Dict[str, List[Dict]]) -> List[Dict]:
+    """Fallback: just use first RSS item per category."""
+    stories = []
+    for category in ["Política", "Economía", "Tecnología"]:
+        if category in candidates and candidates[category]:
+            item = candidates[category][0]
+            stories.append({
+                "category": category,
+                "raw_content": f"{item['title']}\n\n{item['description']}",
+                "source": item['source']
+            })
+
+    if not stories:
+        today = datetime.now().strftime("%B %d, %Y")
+        stories = [
+            {"category": "Política", "raw_content": f"US political developments on {today}.", "source": "News"},
+            {"category": "Economía", "raw_content": f"Economic news on {today}.", "source": "News"},
+            {"category": "Tecnología", "raw_content": f"Technology updates on {today}.", "source": "News"},
+        ]
+
+    return stories
 
 
 # =============================================================================
