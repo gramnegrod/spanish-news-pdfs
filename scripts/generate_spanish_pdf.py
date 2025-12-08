@@ -29,145 +29,101 @@ from pdf_builder import SpanishLearningPDF, fetch_unsplash_image
 # =============================================================================
 ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY')
 UNSPLASH_API_KEY = os.environ.get('UNSPLASH_ACCESS_KEY')
-PERPLEXITY_API_KEY = os.environ.get('PERPLEXITY_API_KEY')
+# Note: News fetching uses Google News RSS - no API key needed
 
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'pdfs')
 INDEX_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'index.json')
 
 
 # =============================================================================
-# NEWS FETCHING
+# NEWS FETCHING (Google News RSS - No API Key Required)
 # =============================================================================
 def fetch_news_stories() -> List[Dict]:
     """
-    Fetch current US news stories using Perplexity API or fallback.
+    Fetch current US news stories from Google News RSS feeds.
+    No API key required - completely free.
     Returns list of raw news stories with title, summary, category.
     """
-    if PERPLEXITY_API_KEY:
-        return fetch_news_perplexity()
-    else:
-        return fetch_news_fallback()
+    import xml.etree.ElementTree as ET
+    import html
+    import re
 
-
-def fetch_news_perplexity() -> List[Dict]:
-    """Fetch news using Perplexity API."""
-    headers = {
-        "Authorization": f"Bearer {PERPLEXITY_API_KEY}",
-        "Content-Type": "application/json"
-    }
-
-    categories = [
-        ("politics government", "Política"),
-        ("economy business finance", "Economía"),
-        ("technology science", "Tecnología")
+    # Google News RSS feeds for different topics
+    feeds = [
+        ("https://news.google.com/rss/search?q=US+politics+congress+government&hl=en-US&gl=US&ceid=US:en", "Política"),
+        ("https://news.google.com/rss/search?q=US+economy+business+markets&hl=en-US&gl=US&ceid=US:en", "Economía"),
+        ("https://news.google.com/rss/search?q=technology+AI+tech+companies&hl=en-US&gl=US&ceid=US:en", "Tecnología"),
     ]
 
     stories = []
 
-    for search_term, category in categories:
-        payload = {
-            "model": "sonar",
-            "messages": [
-                {
-                    "role": "user",
-                    "content": f"What is the most important {search_term} news in the United States today? Give me ONE specific news story with: 1) A clear headline, 2) A 2-3 sentence summary of what happened. Be specific with names, numbers, and facts."
-                }
-            ]
-        }
-
+    for feed_url, category in feeds:
         try:
-            response = requests.post(
-                "https://api.perplexity.ai/chat/completions",
-                headers=headers,
-                json=payload,
-                timeout=30
-            )
-            response.raise_for_status()
-            data = response.json()
-            content = data['choices'][0]['message']['content']
-
-            stories.append({
-                "category": category,
-                "raw_content": content,
-                "search_term": search_term
+            response = requests.get(feed_url, timeout=15, headers={
+                'User-Agent': 'Mozilla/5.0 (compatible; SpanishNewsPDF/1.0)'
             })
+            response.raise_for_status()
+
+            # Parse RSS XML
+            root = ET.fromstring(response.content)
+
+            # Find items in RSS feed
+            items = root.findall('.//item')
+
+            if items:
+                # Get the first (most recent) item
+                item = items[0]
+                title = item.find('title')
+                description = item.find('description')
+                source = item.find('source')
+
+                title_text = html.unescape(title.text) if title is not None and title.text else ""
+
+                # Clean up description (remove HTML tags)
+                desc_text = ""
+                if description is not None and description.text:
+                    desc_text = html.unescape(description.text)
+                    desc_text = re.sub(r'<[^>]+>', '', desc_text)  # Remove HTML tags
+
+                source_text = source.text if source is not None and source.text else "News"
+
+                # Combine title and description for content
+                raw_content = f"{title_text}\n\n{desc_text}" if desc_text else title_text
+
+                stories.append({
+                    "category": category,
+                    "raw_content": raw_content,
+                    "source": source_text
+                })
+                print(f"  ✓ {category}: {title_text[:60]}...")
+            else:
+                print(f"  ✗ {category}: No items found in feed")
+
         except Exception as e:
-            print(f"Perplexity error for {category}: {e}")
+            print(f"  ✗ {category} RSS error: {e}")
             continue
 
-    return stories
+    # If we got at least one story, return what we have
+    if stories:
+        return stories
 
-
-def fetch_news_fallback() -> List[Dict]:
-    """
-    Fallback news fetching using NewsAPI or hardcoded recent stories.
-    """
-    newsapi_key = os.environ.get('NEWSAPI_KEY')
-
-    if newsapi_key:
-        try:
-            response = requests.get(
-                "https://newsapi.org/v2/top-headlines",
-                params={
-                    "country": "us",
-                    "pageSize": 10,
-                    "apiKey": newsapi_key
-                },
-                timeout=15
-            )
-            response.raise_for_status()
-            articles = response.json().get('articles', [])
-
-            # Categorize and select 3 diverse stories
-            stories = []
-            categories_used = set()
-
-            category_keywords = {
-                "Política": ["congress", "president", "senate", "government", "election", "trump", "biden", "political"],
-                "Economía": ["economy", "market", "stock", "business", "finance", "fed", "inflation", "jobs"],
-                "Tecnología": ["tech", "ai", "apple", "google", "microsoft", "software", "app", "digital"]
-            }
-
-            for article in articles:
-                if len(stories) >= 3:
-                    break
-
-                title = (article.get('title') or '').lower()
-                desc = (article.get('description') or '').lower()
-                combined = title + ' ' + desc
-
-                for cat, keywords in category_keywords.items():
-                    if cat not in categories_used:
-                        if any(kw in combined for kw in keywords):
-                            stories.append({
-                                "category": cat,
-                                "raw_content": f"{article.get('title')}\n\n{article.get('description', '')}",
-                                "source": article.get('source', {}).get('name', 'News')
-                            })
-                            categories_used.add(cat)
-                            break
-
-            return stories
-
-        except Exception as e:
-            print(f"NewsAPI error: {e}")
-
-    # Ultimate fallback - use date-based placeholder
+    # Ultimate fallback - should rarely happen
+    print("  ⚠ All feeds failed, using fallback content")
     today = datetime.now().strftime("%B %d, %Y")
     return [
         {
             "category": "Política",
-            "raw_content": f"Congress continues budget negotiations on {today}. Lawmakers are working to reach a bipartisan agreement on federal spending priorities.",
+            "raw_content": f"Congress continues legislative work on {today}. Lawmakers discuss key policy priorities.",
             "source": "Government News"
         },
         {
             "category": "Economía",
-            "raw_content": f"Federal Reserve monitors economic indicators as of {today}. Markets respond to latest employment and inflation data.",
+            "raw_content": f"Markets respond to economic data on {today}. Investors monitor financial indicators.",
             "source": "Financial News"
         },
         {
             "category": "Tecnología",
-            "raw_content": f"Tech companies announce new AI developments on {today}. Industry leaders showcase latest innovations in artificial intelligence.",
+            "raw_content": f"Tech industry developments continue on {today}. Companies advance innovation efforts.",
             "source": "Tech News"
         }
     ]
