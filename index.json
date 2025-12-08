@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-08",
+      "filename": "spanish_lesson_2025-12-08.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-08.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso trabaja en nuevo presupuesto federal",
+          "headline_en": "Congress works on new federal budget",
+          "body_es": "El 8 de diciembre de 2025, el Congreso estadounidense continúa las negociaciones sobre el presupuesto federal. Los políticos de ambos partidos trabajan juntos para crear un plan de gastos. Quieren llegar a un acuerdo bipartidista antes del final del año. Las discusiones incluyen temas como educación, salud y defensa nacional. Los líderes políticos dicen que es importante encontrar soluciones que beneficien a todos los americanos. Las negociaciones son complicadas porque cada partido tiene diferentes prioridades. Sin embargo, todos están comprometidos a encontrar una solución. El presupuesto final debe ser aprobado por ambas cámaras del Congreso. Los ciudadanos esperan que los políticos tomen decisiones responsables con el dinero público.",
+          "body_en": "On December 8, 2025, the US Congress continues negotiations on the federal budget. Politicians from both parties work together to create a spending plan. They want to reach a bipartisan agreement before the end of the year. Discussions include topics like education, health, and national defense. Political leaders say it's important to find solutions that benefit all Americans. Negotiations are complicated because each party has different priorities. However, everyone is committed to finding a solution. The final budget must be approved by both chambers of Congress. Citizens hope that politicians make responsible decisions with public money.",
+          "source": "US News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La Reserva Federal estudia la situación económica del país",
+          "headline_en": "Federal Reserve studies the country's economic situation",
+          "body_es": "El 8 de diciembre de 2025, la Reserva Federal de Estados Unidos observa cuidadosamente los indicadores económicos. Los expertos analizan los datos más recientes sobre empleo e inflación. Estos números son muy importantes para entender cómo está la economía americana. Los mercados financieros responden rápidamente a esta nueva información. Cuando los datos son buenos, las acciones suben. Cuando son malos, bajan. La inflación ha sido un tema preocupante durante los últimos meses. Los precios de los productos básicos como comida y gasolina afectan la vida diaria de las familias. El empleo también es fundamental para la economía. Cuando más personas tienen trabajo, la economía crece mejor. Los economistas esperan que los próximos meses traigan estabilidad económica.",
+          "body_en": "On December 8, 2025, the US Federal Reserve carefully observes economic indicators. Experts analyze the latest data on employment and inflation. These numbers are very important for understanding how the American economy is doing. Financial markets respond quickly to this new information. When data is good, stocks go up. When it's bad, they go down. Inflation has been a concerning topic during recent months. Prices of basic products like food and gasoline affect families' daily lives. Employment is also fundamental for the economy. When more people have jobs, the economy grows better. Economists hope the coming months will bring economic stability.",
+          "source": "Financial News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas presentan avances en inteligencia artificial",
+          "headline_en": "Tech companies present advances in artificial intelligence",
+          "body_es": "El 8 de diciembre de 2025, importantes empresas de tecnología anunciaron nuevos desarrollos en inteligencia artificial. Los líderes de la industria mostraron sus últimas innovaciones al público. Estas nuevas tecnologías pueden cambiar la forma en que trabajamos y vivimos. La inteligencia artificial ahora puede ayudar en medicina, educación y transporte. Algunas empresas presentaron robots más inteligentes y programas de computadora más avanzados. Estos avances prometen hacer la vida más fácil para las personas. Sin embargo, también existen preocupaciones sobre el futuro del trabajo humano. Los expertos dicen que es importante usar esta tecnología de manera responsable. Las empresas aseguran que la inteligencia artificial será una herramienta para ayudar a las personas, no para reemplazarlas completamente.",
+          "body_en": "On December 8, 2025, major technology companies announced new developments in artificial intelligence. Industry leaders showed their latest innovations to the public. These new technologies can change the way we work and live. Artificial intelligence can now help in medicine, education, and transportation. Some companies presented smarter robots and more advanced computer programs. These advances promise to make life easier for people. However, concerns also exist about the future of human work. Experts say it's important to use this technology responsibly. Companies assure that artificial intelligence will be a tool to help people, not to completely replace them.",
+          "source": "Tech Weekly"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "negociaciones",
+          "syllables": "ne-go-cia-CIO-nes",
+          "pos": "sustantivo",
+          "context": "El Congreso continúa las negociaciones del presupuesto.",
+          "definition_es": "Conversaciones para llegar a un acuerdo",
+          "definition_en": "Negotiations, discussions to reach an agreement"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "Los políticos discuten el presupuesto federal.",
+          "definition_es": "Plan de gastos de dinero del gobierno",
+          "definition_en": "Budget, government spending plan"
+        },
+        {
+          "word": "bipartidista",
+          "syllables": "bi-par-ti-DIS-ta",
+          "pos": "adjetivo",
+          "context": "Buscan un acuerdo bipartidista en el Congreso.",
+          "definition_es": "Entre dos partidos políticos diferentes",
+          "definition_en": "Bipartisan, involving two political parties"
+        },
+        {
+          "word": "indicadores",
+          "syllables": "in-di-ca-DO-res",
+          "pos": "sustantivo",
+          "context": "La Reserva Federal observa los indicadores económicos.",
+          "definition_es": "Datos que muestran cómo está la economía",
+          "definition_en": "Indicators, data showing economic conditions"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "Los mercados responden a los datos de inflación.",
+          "definition_es": "Cuando los precios suben mucho",
+          "definition_en": "Inflation, when prices increase significantly"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Los datos de empleo son importantes para la economía.",
+          "definition_es": "Trabajo que tiene una persona",
+          "definition_en": "Employment, jobs that people have"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Las empresas presentan nuevos desarrollos en inteligencia artificial.",
+          "definition_es": "Tecnología que hace que las máquinas piensen",
+          "definition_en": "Artificial intelligence, technology that makes machines think"
+        },
+        {
+          "word": "innovaciones",
+          "syllables": "i-no-va-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Los líderes muestran las últimas innovaciones tecnológicas.",
+          "definition_es": "Cosas nuevas y creativas",
+          "definition_en": "Innovations, new and creative developments"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'negociaciones'?",
+          "options": [
+            "Conversaciones para llegar a un acuerdo",
+            "Documentos legales",
+            "Reuniones familiares",
+            "Actividades deportivas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es un acuerdo 'bipartidista'?",
+          "options": [
+            "Entre una sola persona",
+            "Entre dos partidos políticos",
+            "Entre tres países",
+            "Entre empresas privadas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'indicadores económicos'?",
+          "options": [
+            "Mapas geográficos",
+            "Datos que muestran cómo está la economía",
+            "Libros de historia",
+            "Programas de televisión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inteligencia artificial'?",
+          "options": [
+            "Un tipo de animal",
+            "Tecnología que hace que las máquinas piensen",
+            "Una película de ciencia ficción",
+            "Un deporte nuevo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿cuándo continúa el Congreso las negociaciones?",
+          "options": [
+            "8 de diciembre de 2025",
+            "8 de enero de 2025",
+            "8 de noviembre de 2025",
+            "8 de febrero de 2025"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué temas incluyen las negociaciones del presupuesto?",
+          "options": [
+            "Solo deportes",
+            "Educación, salud y defensa nacional",
+            "Solo entretenimiento",
+            "Solo agricultura"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué analiza la Reserva Federal según la historia económica?",
+          "options": [
+            "Datos sobre empleo e inflación",
+            "Solo datos sobre deportes",
+            "Solo datos sobre clima",
+            "Datos sobre música"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cómo responden los mercados financieros a los datos económicos?",
+          "options": [
+            "No responden nunca",
+            "Responden rápidamente",
+            "Solo responden los lunes",
+            "Responden muy lentamente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿En qué áreas puede ayudar la inteligencia artificial según la historia?",
+          "options": [
+            "Solo en cocina",
+            "En medicina, educación y transporte",
+            "Solo en deportes",
+            "Solo en música"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la promesa de los avances en inteligencia artificial?",
+          "options": [
+            "Hacer la vida más difícil",
+            "Hacer la vida más fácil para las personas",
+            "Solo entretener",
+            "Solo crear problemas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-08T03:06:40.378615"
+    },
+    {
       "date": "2025-12-07",
       "filename": "spanish_lesson_2025-12-07.pdf",
       "path": "pdfs/spanish_lesson_2025-12-07.pdf",
@@ -26,7 +248,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-07T15:51:03.528272",
+  "last_updated": "2025-12-08T03:06:40.378626",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
