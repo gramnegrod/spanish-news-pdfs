@@ -364,7 +364,7 @@ def update_index(date_str: str, pdf_path: str, lesson_content: Dict):
     else:
         index = {"pdfs": [], "generated": datetime.now().isoformat()}
 
-    # Add new entry
+    # Add new entry with full lesson content
     entry = {
         "date": date_str,
         "filename": os.path.basename(pdf_path),
@@ -373,10 +373,15 @@ def update_index(date_str: str, pdf_path: str, lesson_content: Dict):
             {
                 "category": s.get('category'),
                 "headline_es": s.get('headline_es'),
-                "headline_en": s.get('headline_en')
+                "headline_en": s.get('headline_en'),
+                "body_es": s.get('body_es'),
+                "body_en": s.get('body_en'),
+                "source": s.get('source')
             }
             for s in lesson_content.get('stories', [])
         ],
+        "vocabulary": lesson_content.get('vocabulary', []),
+        "quiz": lesson_content.get('quiz', []),
         "vocabulary_count": len(lesson_content.get('vocabulary', [])),
         "quiz_count": len(lesson_content.get('quiz', [])),
         "generated_at": datetime.now().isoformat()
