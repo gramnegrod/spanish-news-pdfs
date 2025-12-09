@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-09",
+      "filename": "spanish_lesson_2025-12-09.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-09.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso aprobará presupuesto militar de 900 mil millones",
+          "headline_en": "Congress will approve 900 billion military budget",
+          "body_es": "El Congreso de Estados Unidos está preparado para aprobar un nuevo presupuesto de defensa. Este presupuesto incluye 900 mil millones de dólares para el ejército y la seguridad nacional. Los legisladores dicen que este dinero es necesario para mantener fuerte al país. El presupuesto incluye dinero para nuevas armas, tecnología militar y salarios de soldados. Algunos políticos piensan que es demasiado dinero. Otros dicen que es importante para proteger a Estados Unidos. La votación será esta semana en Washington. Si el Congreso aprueba el presupuesto, el presidente lo firmará para convertirlo en ley. Este será uno de los presupuestos militares más grandes de la historia americana.",
+          "body_en": "The United States Congress is prepared to approve a new defense budget. This budget includes 900 billion dollars for the military and national security. Legislators say this money is necessary to keep the country strong. The budget includes money for new weapons, military technology and soldiers' salaries. Some politicians think it's too much money. Others say it's important to protect the United States. The vote will be this week in Washington. If Congress approves the budget, the president will sign it to make it law. This will be one of the largest military budgets in American history.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Agricultores estadounidenses critican rescate de 12 mil millones",
+          "headline_en": "American farmers criticize 12 billion bailout",
+          "body_es": "Muchos agricultores estadounidenses no están contentos con la ayuda económica del gobierno. Trump ofreció un rescate de 12 mil millones de dólares para ayudar a los granjeros. Sin embargo, muchos agricultores dicen que este dinero no es suficiente. Ellos tienen problemas económicos por la guerra comercial con China. Los precios de sus productos han bajado mucho. Un agricultor dijo que el rescate es 'una bofetada en la cara'. Los granjeros quieren que el gobierno termine la guerra comercial, no solo dar dinero. Muchos agricultores han perdido sus granjas porque no pueden pagar sus deudas. El rescate ayudará a algunos, pero no resolverá todos los problemas. Los agricultores esperan una solución más permanente del gobierno.",
+          "body_en": "Many American farmers are not happy with the government's economic aid. Trump offered a bailout of 12 billion dollars to help farmers. However, many farmers say this money is not enough. They have economic problems because of the trade war with China. The prices of their products have dropped a lot. One farmer said the bailout is 'a slap in the face'. Farmers want the government to end the trade war, not just give money. Many farmers have lost their farms because they can't pay their debts. The bailout will help some, but won't solve all problems. Farmers hope for a more permanent solution from the government.",
+          "source": "South China Morning Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump permite venta de chips de inteligencia artificial a China",
+          "headline_en": "Trump allows sale of artificial intelligence chips to China",
+          "body_es": "El presidente Trump ha decidido permitir la venta de chips avanzados de inteligencia artificial a China. La empresa Nvidia puede ahora vender sus productos más potentes al país asiático. Antes, el gobierno estadounidense prohibía estas ventas por razones de seguridad nacional. Los chips de Nvidia son muy importantes para desarrollar inteligencia artificial. Muchas empresas chinas los necesitan para sus computadoras y sistemas tecnológicos. Esta decisión puede mejorar las relaciones comerciales entre Estados Unidos y China. Sin embargo, algunos políticos piensan que es peligroso dar tecnología avanzada a China. Los chips de inteligencia artificial pueden usarse para fines militares. Trump dice que la decisión ayudará a las empresas estadounidenses a ganar más dinero. La venta comenzará el próximo mes.",
+          "body_en": "President Trump has decided to allow the sale of advanced artificial intelligence chips to China. The company Nvidia can now sell its most powerful products to the Asian country. Before, the American government prohibited these sales for national security reasons. Nvidia chips are very important for developing artificial intelligence. Many Chinese companies need them for their computers and technological systems. This decision may improve trade relations between the United States and China. However, some politicians think it's dangerous to give advanced technology to China. Artificial intelligence chips can be used for military purposes. Trump says the decision will help American companies earn more money. The sale will begin next month.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso aprobó un presupuesto de 900 mil millones de dólares para defensa.",
+          "definition_es": "Institución que hace las leyes de un país",
+          "definition_en": "Institution that makes the laws of a country"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El nuevo presupuesto incluye mucho dinero para el ejército.",
+          "definition_es": "Plan de gastos e ingresos para un período de tiempo",
+          "definition_en": "Plan of expenses and income for a period of time"
+        },
+        {
+          "word": "agricultores",
+          "syllables": "a-gri-cul-TO-res",
+          "pos": "sustantivo",
+          "context": "Los agricultores no están contentos con la ayuda económica recibida.",
+          "definition_es": "Personas que cultivan la tierra y producen alimentos",
+          "definition_en": "People who cultivate land and produce food"
+        },
+        {
+          "word": "rescate",
+          "syllables": "res-CA-te",
+          "pos": "sustantivo",
+          "context": "El gobierno ofreció un rescate de 12 mil millones de dólares.",
+          "definition_es": "Ayuda económica del gobierno en situaciones difíciles",
+          "definition_en": "Government financial aid in difficult situations"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología de inteligencia artificial es muy avanzada.",
+          "definition_es": "Aplicación de conocimientos científicos para resolver problemas",
+          "definition_en": "Application of scientific knowledge to solve problems"
+        },
+        {
+          "word": "chips",
+          "syllables": "chips",
+          "pos": "sustantivo",
+          "context": "Los chips de inteligencia artificial son muy importantes para las computadoras.",
+          "definition_es": "Pequeños componentes electrónicos que procesan información",
+          "definition_en": "Small electronic components that process information"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El Congreso va a aprobar el nuevo presupuesto esta semana.",
+          "definition_es": "Aceptar oficialmente una propuesta o ley",
+          "definition_en": "To officially accept a proposal or law"
+        },
+        {
+          "word": "venta",
+          "syllables": "VEN-ta",
+          "pos": "sustantivo",
+          "context": "Trump permitió la venta de chips avanzados a China.",
+          "definition_es": "Acción de vender o intercambiar productos por dinero",
+          "definition_en": "Action of selling or exchanging products for money"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'presupuesto'?",
+          "options": [
+            "Plan de gastos e ingresos",
+            "Tipo de comida",
+            "Edificio del gobierno",
+            "Persona que trabaja"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Los 'agricultores' son personas que:",
+          "options": [
+            "Trabajan en oficinas",
+            "Cultivan la tierra",
+            "Venden computadoras",
+            "Hacen leyes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'chips' en tecnología?",
+          "options": [
+            "Comida frita",
+            "Componentes electrónicos",
+            "Animales pequeños",
+            "Libros de ciencia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Aprobar' significa:",
+          "options": [
+            "Rechazar algo",
+            "Aceptar oficialmente",
+            "Cocinar bien",
+            "Estudiar mucho"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero incluye el presupuesto militar que aprobará el Congreso?",
+          "options": [
+            "12 mil millones",
+            "900 mil millones",
+            "100 millones",
+            "500 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué los agricultores no están contentos con el rescate?",
+          "options": [
+            "Es demasiado dinero",
+            "No es suficiente dinero",
+            "No les gusta Trump",
+            "Prefieren trabajar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa puede vender chips de inteligencia artificial a China?",
+          "options": [
+            "Microsoft",
+            "Apple",
+            "Nvidia",
+            "Google"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero ofreció Trump a los agricultores?",
+          "options": [
+            "900 mil millones",
+            "12 mil millones",
+            "5 mil millones",
+            "20 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué algunos políticos piensan que vender chips a China es peligroso?",
+          "options": [
+            "Son muy caros",
+            "China no los necesita",
+            "Pueden usarse para fines militares",
+            "No funcionan bien"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Dónde votará el Congreso sobre el presupuesto militar?",
+          "options": [
+            "Nueva York",
+            "California",
+            "Washington",
+            "Texas"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-09T09:03:36.672949"
+    },
+    {
       "date": "2025-12-08",
       "filename": "spanish_lesson_2025-12-08.pdf",
       "path": "pdfs/spanish_lesson_2025-12-08.pdf",
@@ -248,7 +470,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-08T12:55:39.410935",
+  "last_updated": "2025-12-09T09:03:36.672960",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
