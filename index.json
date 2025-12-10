@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-10",
+      "filename": "spanish_lesson_2025-12-10.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-10.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Representante de Texas busca llegar al Senado en medio de controversia electoral",
+          "headline_en": "Texas Representative seeks Senate seat amid electoral controversy",
+          "body_es": "La representante Jasmine Crockett ha anunciado su candidatura para el Senado de Estados Unidos. Crockett representa al estado de Texas en el Congreso. Su decisión llega en un momento difícil para la política de Texas. El estado tiene un nuevo mapa electoral que está causando muchas discusiones. Los mapas electorales deciden qué zonas puede representar cada político. Cuando cambian estos mapas, algunos políticos pierden poder y otros lo ganan. Crockett cree que puede ganar en las elecciones del Senado. Ella quiere representar a todos los ciudadanos de Texas. La campaña electoral será muy competitiva. Otros candidatos también quieren el mismo puesto en el Senado.",
+          "body_en": "Representative Jasmine Crockett has announced her candidacy for the U.S. Senate. Crockett represents the state of Texas in Congress. Her decision comes at a difficult time for Texas politics. The state has a new electoral map that is causing many discussions. Electoral maps decide which areas each politician can represent. When these maps change, some politicians lose power and others gain it. Crockett believes she can win in the Senate elections. She wants to represent all citizens of Texas. The electoral campaign will be very competitive. Other candidates also want the same Senate position.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "SpaceX de Elon Musk planea entrar en la bolsa con valoración histórica",
+          "headline_en": "Elon Musk's SpaceX plans stock market entry with historic valuation",
+          "body_es": "La empresa SpaceX de Elon Musk quiere entrar en la bolsa de valores. La compañía busca una valoración de 1.5 billones de dólares. Esta cantidad de dinero la convertiría en una de las empresas más valiosas del mundo. SpaceX se dedica a enviar cohetes al espacio y satélites a la órbita terrestre. También trabaja en misiones a la Luna y Marte. La empresa ha tenido mucho éxito en los últimos años. Sus cohetes pueden regresar a la Tierra y usarse otra vez. Esto hace que los viajes espaciales sean más baratos. Muchos inversionistas quieren comprar acciones de SpaceX. Creen que la industria espacial crecerá mucho en el futuro. La decisión final sobre entrar en la bolsa aún no está confirmada.",
+          "body_en": "Elon Musk's company SpaceX wants to enter the stock market. The company seeks a valuation of 1.5 trillion dollars. This amount of money would make it one of the most valuable companies in the world. SpaceX is dedicated to sending rockets to space and satellites to Earth's orbit. It also works on missions to the Moon and Mars. The company has been very successful in recent years. Its rockets can return to Earth and be used again. This makes space travel cheaper. Many investors want to buy SpaceX shares. They believe the space industry will grow a lot in the future. The final decision about entering the stock market is not yet confirmed.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Grandes empresas de IA crean organización para establecer reglas de seguridad",
+          "headline_en": "Major AI companies create organization to establish safety rules",
+          "body_es": "Las empresas OpenAI y Anthropic han creado una nueva fundación. Esta organización se llama AI Agent Standards Foundation. Su objetivo es crear reglas para la inteligencia artificial. La inteligencia artificial está creciendo muy rápido en todo el mundo. Cada vez más empresas usan esta tecnología en sus productos. Sin embargo, muchas personas están preocupadas por la seguridad. Quieren estar seguras de que la IA no causará problemas. La nueva fundación trabajará para crear estándares claros. Estos estándares dirán cómo las empresas deben usar la inteligencia artificial de manera segura. OpenAI es la empresa que creó ChatGPT. Anthropic también desarrolla sistemas de IA muy avanzados. Juntas, estas empresas quieren hacer la tecnología más confiable para todos.",
+          "body_en": "The companies OpenAI and Anthropic have created a new foundation. This organization is called AI Agent Standards Foundation. Its goal is to create rules for artificial intelligence. Artificial intelligence is growing very quickly around the world. More and more companies use this technology in their products. However, many people are worried about safety. They want to be sure that AI won't cause problems. The new foundation will work to create clear standards. These standards will say how companies should use artificial intelligence safely. OpenAI is the company that created ChatGPT. Anthropic also develops very advanced AI systems. Together, these companies want to make technology more reliable for everyone.",
+          "source": "The Tech Buzz"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "candidatura",
+          "syllables": "can-di-da-TU-ra",
+          "pos": "sustantivo",
+          "context": "La representante lanza su candidatura para el Senado.",
+          "definition_es": "Propuesta de una persona para ocupar un cargo político",
+          "definition_en": "Political candidacy or bid for office"
+        },
+        {
+          "word": "valoración",
+          "syllables": "va-lo-ra-CIÓN",
+          "pos": "sustantivo",
+          "context": "SpaceX busca una valoración de 1.5 billones de dólares.",
+          "definition_es": "El valor económico estimado de una empresa",
+          "definition_en": "Economic valuation or worth of a company"
+        },
+        {
+          "word": "bolsa",
+          "syllables": "BOL-sa",
+          "pos": "sustantivo",
+          "context": "La empresa planea entrar en la bolsa de valores.",
+          "definition_es": "Mercado donde se compran y venden acciones de empresas",
+          "definition_en": "Stock market or stock exchange"
+        },
+        {
+          "word": "fundación",
+          "syllables": "fun-da-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las empresas crean una fundación para establecer estándares.",
+          "definition_es": "Organización creada para un propósito específico",
+          "definition_en": "Foundation or organization established for a purpose"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial necesita reglas claras.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence, technology that mimics human thinking"
+        },
+        {
+          "word": "lanzar",
+          "syllables": "lan-ZAR",
+          "pos": "verbo",
+          "context": "La política decide lanzar su campaña electoral.",
+          "definition_es": "Comenzar o iniciar algo nuevo",
+          "definition_en": "To launch or start something new"
+        },
+        {
+          "word": "mapa electoral",
+          "syllables": "MA-pa e-lec-to-RAL",
+          "pos": "sustantivo",
+          "context": "El nuevo mapa electoral causa controversia en Texas.",
+          "definition_es": "División geográfica de las zonas de votación",
+          "definition_en": "Electoral or congressional map showing voting districts"
+        },
+        {
+          "word": "estándares",
+          "syllables": "es-TÁN-da-res",
+          "pos": "sustantivo",
+          "context": "La industria necesita estándares claros para la tecnología.",
+          "definition_es": "Reglas o normas que todos deben seguir",
+          "definition_en": "Standards or rules that everyone must follow"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'candidatura'?",
+          "options": [
+            "Una campaña publicitaria",
+            "Una propuesta para ocupar un cargo político",
+            "Un tipo de elección",
+            "Una encuesta política"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Dónde se compran y venden acciones de empresas?",
+          "options": [
+            "En el banco",
+            "En la bolsa",
+            "En la fundación",
+            "En el congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué palabra significa 'comenzar algo nuevo'?",
+          "options": [
+            "Valorar",
+            "Fundar",
+            "Lanzar",
+            "Mapear"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Los 'estándares' son:",
+          "options": [
+            "Tipos de tecnología",
+            "Reglas que todos deben seguir",
+            "Empresas importantes",
+            "Mapas electorales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué la candidatura de Jasmine Crockett es controvertida?",
+          "options": [
+            "Porque es muy joven",
+            "Porque hay un nuevo mapa electoral en Texas",
+            "Porque no tiene experiencia",
+            "Porque viene de otro estado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero busca SpaceX en su valoración?",
+          "options": [
+            "1.5 millones de dólares",
+            "1.5 billones de dólares",
+            "15 millones de dólares",
+            "15 billones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué hace especiales a los cohetes de SpaceX?",
+          "options": [
+            "Son más grandes",
+            "Pueden regresar a la Tierra y usarse otra vez",
+            "Son más rápidos",
+            "Usan menos combustible"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama la nueva fundación de IA?",
+          "options": [
+            "OpenAI Foundation",
+            "Anthropic Standards",
+            "AI Agent Standards Foundation",
+            "ChatGPT Foundation"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el objetivo principal de la fundación de IA?",
+          "options": [
+            "Crear nuevos productos",
+            "Ganar más dinero",
+            "Crear reglas de seguridad para la IA",
+            "Competir con otras empresas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tienen en común las tres noticias?",
+          "options": [
+            "Todas hablan de Texas",
+            "Todas mencionan nuevos proyectos o iniciativas",
+            "Todas hablan de dinero",
+            "Todas mencionan elecciones"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-10T09:03:54.103001"
+    },
+    {
       "date": "2025-12-09",
       "filename": "spanish_lesson_2025-12-09.pdf",
       "path": "pdfs/spanish_lesson_2025-12-09.pdf",
@@ -470,7 +692,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-09T09:03:36.672960",
+  "last_updated": "2025-12-10T09:03:54.103012",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
