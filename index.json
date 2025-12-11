@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-11",
+      "filename": "spanish_lesson_2025-12-11.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-11.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Termina el cierre de gobierno más largo de la historia estadounidense",
+          "headline_en": "Longest government shutdown in US history ends",
+          "body_es": "El cierre del gobierno estadounidense terminó después de 43 días. Este fue el cierre más largo en la historia del país. El presidente Trump firmó una ley de financiación temporal. Durante el cierre, muchos empleados del gobierno no trabajaron. Otros trabajaron sin recibir salario. Los parques nacionales cerraron y muchos servicios públicos se suspendieron. El cierre afectó a aproximadamente 800,000 trabajadores federales. Muchas familias tuvieron problemas económicos durante este tiempo. El Congreso y el presidente no podían ponerse de acuerdo sobre el presupuesto. Finalmente, llegaron a un acuerdo temporal. El gobierno volvió a funcionar normalmente después de más de un mes cerrado.",
+          "body_en": "The US government shutdown ended after 43 days. This was the longest shutdown in the country's history. President Trump signed a temporary funding bill. During the shutdown, many government employees didn't work. Others worked without receiving pay. National parks closed and many public services were suspended. The shutdown affected approximately 800,000 federal workers. Many families had economic problems during this time. Congress and the president couldn't agree on the budget. Finally, they reached a temporary agreement. The government returned to normal operation after more than a month closed.",
+          "source": "AP News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La Reserva Federal reduce las tasas de interés en medio de desacuerdos",
+          "headline_en": "Federal Reserve cuts interest rates amid disagreements",
+          "body_es": "La Reserva Federal de Estados Unidos redujo las tasas de interés en 0,25 puntos porcentuales. Esta decisión busca estimular la economía del país. Sin embargo, no todos los miembros del banco central están de acuerdo. Algunos piensan que la economía está fuerte y no necesita ayuda. Otros creen que hay señales de debilidad económica. Las tasas de interés más bajas hacen que sea más barato pedir dinero prestado. Esto puede ayudar a las empresas a invertir más dinero. También puede ayudar a las personas a comprar casas o coches. Los mercados financieros reaccionaron positivamente a la noticia. Los expertos dicen que la situación económica global influye en estas decisiones.",
+          "body_en": "The US Federal Reserve cut interest rates by 0.25 percentage points. This decision seeks to stimulate the country's economy. However, not all members of the central bank agree. Some think the economy is strong and doesn't need help. Others believe there are signs of economic weakness. Lower interest rates make it cheaper to borrow money. This can help companies invest more money. It can also help people buy houses or cars. Financial markets reacted positively to the news. Experts say the global economic situation influences these decisions.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Meta cambia su estrategia de inteligencia artificial para ganar más dinero",
+          "headline_en": "Meta changes its artificial intelligence strategy to earn more money",
+          "body_es": "La empresa Meta, propietaria de Facebook e Instagram, está cambiando su estrategia de inteligencia artificial. Antes, la compañía compartía su tecnología de forma gratuita como fuente abierta. Ahora quiere crear modelos comerciales para ganar dinero. Meta ha invertido miles de millones de dólares en tecnología de IA. Los ejecutivos de la empresa quieren recuperar esa inversión. El nuevo enfoque se centra en productos que generen ganancias directas. Esto marca un cambio importante en la filosofía de la empresa. Muchas compañías tecnológicas están buscando formas de monetizar la IA. Los usuarios podrían tener que pagar por algunos servicios de inteligencia artificial en el futuro. Este cambio refleja la presión para obtener beneficios de las inversiones en IA.",
+          "body_en": "Meta, owner of Facebook and Instagram, is changing its artificial intelligence strategy. Previously, the company shared its technology for free as open source. Now it wants to create commercial models to make money. Meta has invested billions of dollars in AI technology. Company executives want to recover that investment. The new approach focuses on products that generate direct profits. This marks an important change in the company's philosophy. Many tech companies are looking for ways to monetize AI. Users might have to pay for some artificial intelligence services in the future. This change reflects pressure to profit from AI investments.",
+          "source": "Bloomberg"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno duró 43 días.",
+          "definition_es": "Acción de cerrar o suspender operaciones",
+          "definition_en": "Shutdown, closure"
+        },
+        {
+          "word": "financiación",
+          "syllables": "fi-nan-cia-CIÓN",
+          "pos": "sustantivo",
+          "context": "Trump firmó la ley de financiación del gobierno.",
+          "definition_es": "Dinero necesario para pagar gastos",
+          "definition_en": "Funding, financing"
+        },
+        {
+          "word": "tasas de interés",
+          "syllables": "TA-sas de in-te-RÉS",
+          "pos": "sustantivo",
+          "context": "La Reserva Federal redujo las tasas de interés.",
+          "definition_es": "Porcentaje que se cobra por prestar dinero",
+          "definition_en": "Interest rates"
+        },
+        {
+          "word": "reducir",
+          "syllables": "re-du-CIR",
+          "pos": "verbo",
+          "context": "El banco central decidió reducir los tipos de interés.",
+          "definition_es": "Hacer algo más pequeño o menos",
+          "definition_en": "To reduce, to cut"
+        },
+        {
+          "word": "fuente abierta",
+          "syllables": "FUEN-te a-BIER-ta",
+          "pos": "sustantivo",
+          "context": "Meta cambió de fuente abierta a modelos comerciales.",
+          "definition_es": "Software que cualquier persona puede usar gratis",
+          "definition_en": "Open source"
+        },
+        {
+          "word": "ganancias",
+          "syllables": "ga-NAN-cias",
+          "pos": "sustantivo",
+          "context": "La empresa busca aumentar sus ganancias con IA.",
+          "definition_es": "Dinero que se obtiene de un negocio",
+          "definition_en": "Profits, earnings"
+        },
+        {
+          "word": "modelo",
+          "syllables": "mo-DE-lo",
+          "pos": "sustantivo",
+          "context": "Meta desarrolló un nuevo modelo de inteligencia artificial.",
+          "definition_es": "Sistema o ejemplo a seguir",
+          "definition_en": "Model"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "Los expertos no están de acuerdo sobre la economía estadounidense.",
+          "definition_es": "Sistema de producción y consumo de un país",
+          "definition_en": "Economy"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'cierre' en el contexto gubernamental?",
+          "options": [
+            "Abrir oficinas",
+            "Suspender operaciones",
+            "Contratar empleados",
+            "Aumentar presupuesto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'tasas de interés'?",
+          "options": [
+            "Impuestos sobre ventas",
+            "Porcentaje que se cobra por prestar dinero",
+            "Salarios de empleados",
+            "Precios de productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'fuente abierta' en tecnología?",
+          "options": [
+            "Software muy caro",
+            "Software que cualquier persona puede usar gratis",
+            "Software solo para empresas",
+            "Software muy complicado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significan las 'ganancias'?",
+          "options": [
+            "Gastos de una empresa",
+            "Dinero que se pierde",
+            "Dinero que se obtiene de un negocio",
+            "Deudas pendientes"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto tiempo duró el cierre del gobierno estadounidense?",
+          "options": [
+            "25 días",
+            "35 días",
+            "43 días",
+            "50 días"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos trabajadores federales se vieron afectados por el cierre?",
+          "options": [
+            "500,000",
+            "600,000",
+            "700,000",
+            "800,000"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿En cuánto redujo la Reserva Federal las tasas de interés?",
+          "options": [
+            "0,15 puntos",
+            "0,25 puntos",
+            "0,35 puntos",
+            "0,50 puntos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué busca la reducción de tasas de interés?",
+          "options": [
+            "Estimular la economía",
+            "Reducir empleos",
+            "Cerrar bancos",
+            "Aumentar impuestos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas posee Meta?",
+          "options": [
+            "Twitter y TikTok",
+            "Facebook e Instagram",
+            "YouTube y Google",
+            "WhatsApp y Telegram"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué Meta cambió su estrategia de IA?",
+          "options": [
+            "Para ayudar más gente",
+            "Para ganar dinero",
+            "Para cerrar la empresa",
+            "Para trabajar gratis"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-11T09:03:48.380343"
+    },
+    {
       "date": "2025-12-10",
       "filename": "spanish_lesson_2025-12-10.pdf",
       "path": "pdfs/spanish_lesson_2025-12-10.pdf",
@@ -692,7 +914,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-10T09:03:54.103012",
+  "last_updated": "2025-12-11T09:03:48.380354",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
