@@ -1,0 +1,62 @@
+name: Generate Daily Conversation Stories
+
+on:
+  schedule:
+    # Run at 3:00 AM Central Time (9:00 AM UTC)
+    - cron: '0 9 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stories:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install anthropic requests openai
+
+      - name: Generate conversation stories
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          cd scripts
+          python generate_conversation_stories.py
+
+      - name: Commit and push stories
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add conversation-stories-index.json
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📰 Daily conversation stories - $(date +'%Y-%m-%d')"
+            git push
+          fi
+
+      - name: Summary
+        run: |
+          echo "## 📰 Conversation Stories Generated!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: $(date +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
+          echo "- **File**: conversation-stories-index.json" >> $GITHUB_STEP_SUMMARY
