@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-12",
+      "filename": "spanish_lesson_2025-12-12.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-12.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Senado rechaza ayuda para seguro médico, precios subirán en 2026",
+          "headline_en": "Senate rejects health insurance aid, prices will rise in 2026",
+          "body_es": "El Senado de Estados Unidos rechazó dos propuestas importantes sobre subsidios para el seguro médico. Estas propuestas querían ayudar a las personas a pagar menos por su seguro de salud. Los senadores votaron en contra de ambas ideas. Sin esta ayuda del gobierno, las primas del seguro médico van a subir mucho en 2026. Esto significa que millones de estadounidenses tendrán que pagar más dinero cada mes por su seguro. Las familias de clase media serán las más afectadas por este aumento. Los expertos dicen que algunas personas no podrán pagar el seguro y se quedarán sin protección médica. Esta decisión del Senado es muy importante para el futuro del sistema de salud estadounidense.",
+          "body_en": "The US Senate rejected two important proposals about health insurance subsidies. These proposals wanted to help people pay less for their health insurance. The senators voted against both ideas. Without this government help, health insurance premiums will rise a lot in 2026. This means that millions of Americans will have to pay more money each month for their insurance. Middle-class families will be most affected by this increase. Experts say that some people won't be able to afford insurance and will be left without medical protection. This Senate decision is very important for the future of the American health system.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Jerome Powell habla sobre el auge estructural de la economía después de bajar tasas",
+          "headline_en": "Jerome Powell talks about structural boom in economy after lowering rates",
+          "body_es": "Jerome Powell, el jefe del banco central de Estados Unidos, bajó las tasas de interés esta semana. En una conferencia de prensa, Powell explicó que la economía estadounidense está viviendo un auge estructural muy importante. Esto significa que el crecimiento económico no es temporal, sino que puede continuar por mucho tiempo. Powell dijo que la productividad de los trabajadores está aumentando y las empresas están invirtiendo más dinero. Las tasas de interés más bajas ayudan a las personas y empresas a pedir préstamos más fácilmente. Sin embargo, Powell también advirtió que deben vigilar la inflación cuidadosamente. Los expertos económicos están optimistas sobre el futuro, pero dicen que es importante mantener un equilibrio entre el crecimiento y la estabilidad de precios.",
+          "body_en": "Jerome Powell, the head of the US central bank, lowered interest rates this week. In a press conference, Powell explained that the American economy is experiencing a very important structural boom. This means that economic growth is not temporary, but can continue for a long time. Powell said that worker productivity is increasing and companies are investing more money. Lower interest rates help people and businesses borrow money more easily. However, Powell also warned that they must watch inflation carefully. Economic experts are optimistic about the future, but say it's important to maintain a balance between growth and price stability.",
+          "source": "TheStreet"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump firma orden para eliminar leyes estatales sobre inteligencia artificial",
+          "headline_en": "Trump signs order to eliminate state laws about artificial intelligence",
+          "body_es": "El presidente Trump firmó una orden ejecutiva que busca neutralizar las leyes estatales sobre inteligencia artificial. Muchos estados habían creado sus propias reglas para controlar el uso de la IA en sus territorios. Trump cree que estas leyes estatales son muy estrictas y pueden dañar la innovación tecnológica. La nueva orden ejecutiva dice que solo el gobierno federal puede crear reglas sobre inteligencia artificial. Los gobernadores de varios estados están muy molestos con esta decisión. Ellos argumentan que los estados deben tener el derecho de proteger a sus ciudadanos. Las empresas de tecnología están divididas sobre este tema. Algunas apoyan la orden porque prefieren reglas uniformes en todo el país, mientras otras prefieren trabajar con cada estado individualmente.",
+          "body_en": "President Trump signed an executive order that seeks to neutralize state laws about artificial intelligence. Many states had created their own rules to control the use of AI in their territories. Trump believes these state laws are too strict and can harm technological innovation. The new executive order says that only the federal government can create rules about artificial intelligence. Governors from several states are very upset with this decision. They argue that states should have the right to protect their citizens. Technology companies are divided on this issue. Some support the order because they prefer uniform rules across the country, while others prefer to work with each state individually.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "subsidios",
+          "syllables": "sub-SI-dios",
+          "pos": "sustantivo",
+          "context": "El Senado rechazó los subsidios para el seguro médico.",
+          "definition_es": "Dinero que el gobierno da para ayudar a pagar algo",
+          "definition_en": "Money the government gives to help pay for something"
+        },
+        {
+          "word": "rechazar",
+          "syllables": "re-cha-SAR",
+          "pos": "verbo",
+          "context": "Los senadores decidieron rechazar las dos propuestas.",
+          "definition_es": "Decir que no a algo, no aceptar",
+          "definition_en": "To say no to something, to not accept"
+        },
+        {
+          "word": "tasas de interés",
+          "syllables": "TA-sas de in-te-RÉS",
+          "pos": "sustantivo",
+          "context": "El banco central bajó las tasas de interés.",
+          "definition_es": "El precio que se paga por pedir dinero prestado",
+          "definition_en": "The price paid for borrowing money"
+        },
+        {
+          "word": "estructural",
+          "syllables": "es-truc-tu-RAL",
+          "pos": "adjetivo",
+          "context": "La economía tiene un crecimiento estructural importante.",
+          "definition_es": "Que forma parte de la base o estructura de algo",
+          "definition_en": "That forms part of the base or structure of something"
+        },
+        {
+          "word": "orden ejecutiva",
+          "syllables": "OR-den e-je-cu-TI-va",
+          "pos": "sustantivo",
+          "context": "Trump firmó una orden ejecutiva sobre inteligencia artificial.",
+          "definition_es": "Documento oficial que firma el presidente para crear nuevas reglas",
+          "definition_en": "Official document signed by the president to create new rules"
+        },
+        {
+          "word": "neutralizar",
+          "syllables": "neu-tra-li-SAR",
+          "pos": "verbo",
+          "context": "La nueva ley busca neutralizar las regulaciones estatales.",
+          "definition_es": "Hacer que algo no tenga efecto o poder",
+          "definition_en": "To make something have no effect or power"
+        },
+        {
+          "word": "primas",
+          "syllables": "PRI-mas",
+          "pos": "sustantivo",
+          "context": "Las primas del seguro médico van a subir en 2026.",
+          "definition_es": "Dinero que se paga cada mes por el seguro",
+          "definition_en": "Money paid each month for insurance"
+        },
+        {
+          "word": "auge",
+          "syllables": "AU-ge",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense está en un período de auge.",
+          "definition_es": "Momento de gran crecimiento y éxito",
+          "definition_en": "Time of great growth and success"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'subsidios'?",
+          "options": [
+            "Dinero que el gobierno da para ayudar",
+            "Impuestos muy altos",
+            "Leyes nuevas",
+            "Precios de medicinas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'rechazar'?",
+          "options": [
+            "Aceptar",
+            "No aceptar",
+            "Votar",
+            "Proponer"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'primas' en el contexto del seguro médico?",
+          "options": [
+            "Mujeres de la familia",
+            "Dinero que se paga cada mes",
+            "Doctoras",
+            "Hospitales privados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa que algo es 'estructural'?",
+          "options": [
+            "Que es temporal",
+            "Que forma parte de la base",
+            "Que es muy caro",
+            "Que es nuevo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué pasará con las primas del seguro médico en 2026?",
+          "options": [
+            "Van a bajar",
+            "Van a subir",
+            "Van a desaparecer",
+            "No van a cambiar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Quién es Jerome Powell?",
+          "options": [
+            "Un senador",
+            "El jefe del banco central",
+            "Un empresario",
+            "Un gobernador"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué hizo Powell con las tasas de interés?",
+          "options": [
+            "Las subió",
+            "Las bajó",
+            "Las eliminó",
+            "Las mantuvo igual"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué firmó Trump sobre inteligencia artificial?",
+          "options": [
+            "Una ley",
+            "Una orden ejecutiva",
+            "Un contrato",
+            "Una propuesta"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Quién podrá crear reglas sobre IA según la orden de Trump?",
+          "options": [
+            "Solo los estados",
+            "Solo el gobierno federal",
+            "Solo las empresas",
+            "Solo los ciudadanos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cómo están las empresas de tecnología con la orden de Trump?",
+          "options": [
+            "Todas están contentas",
+            "Todas están molestas",
+            "Están divididas",
+            "No les importa"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-12T09:04:16.872357"
+    },
+    {
       "date": "2025-12-11",
       "filename": "spanish_lesson_2025-12-11.pdf",
       "path": "pdfs/spanish_lesson_2025-12-11.pdf",
@@ -914,7 +1136,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-11T09:03:48.380354",
+  "last_updated": "2025-12-12T09:04:16.872365",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
