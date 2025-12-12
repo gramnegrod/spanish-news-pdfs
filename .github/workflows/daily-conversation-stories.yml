@@ -46,6 +46,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
 
           git add conversation-stories-index.json
+          git add audio/conversation-stories/
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
@@ -60,3 +61,4 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "- **Date**: $(date +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
           echo "- **File**: conversation-stories-index.json" >> $GITHUB_STEP_SUMMARY
+          echo "- **Audio**: audio/conversation-stories/$(date +'%Y-%m-%d')/" >> $GITHUB_STEP_SUMMARY
