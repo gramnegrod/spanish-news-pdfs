@@ -239,7 +239,7 @@ def generate_tts_audio(stories: List[Dict], date_str: str) -> List[Dict]:
         try:
             # Generate TTS for the Spanish body text
             response = client.audio.speech.create(
-                model="tts-1",
+                model="tts-1-hd",
                 voice="nova",  # Good for Spanish
                 input=story["body_es"],
                 speed=0.9  # Slightly slower for learners
