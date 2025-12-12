@@ -7,6 +7,9 @@ Generates 6 daily conversation stories for Spanish practice:
 - 2 stories at B1 level (varied tenses, more complex)
 - 2 stories at B2 level (advanced vocab, subjunctive)
 
+Also generates two-host podcasts for 3 categories:
+- Economía, Medio Ambiente, Gastronomía
+
 Uses Google News RSS for story candidates, Claude for adaptation.
 """
 
@@ -17,11 +20,20 @@ import requests
 import xml.etree.ElementTree as ET
 import html
 import re
+import io
 from datetime import datetime
 from typing import List, Dict
 from pathlib import Path
 import anthropic
 from openai import OpenAI
+
+# Optional: pydub for audio concatenation (fallback to simple concatenation if not available)
+try:
+    from pydub import AudioSegment
+    HAS_PYDUB = True
+except ImportError:
+    HAS_PYDUB = False
+    print("  ⚠ pydub not installed - podcast audio will be concatenated without crossfades")
 
 # Configuration
 ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY')
@@ -48,6 +60,32 @@ DIFFICULTY_MAP = {
     "Economía": "B1",
     "Medio Ambiente": "B2",
     "Gastronomía": "B2",
+}
+
+# Categories that get two-host podcast versions
+PODCAST_CATEGORIES = ["Economía", "Medio Ambiente", "Gastronomía"]
+
+# Voice instructions for podcast hosts
+VOICE_INSTRUCTIONS = {
+    "LAURA": """Speak Spanish with a fun Mexican accent. You're Laura, an
+enthusiastic 28-year-old from Mexico City. You're bubbly, curious, and love
+sharing interesting news with friends. Use expressions like '¡No manches!',
+'¡Qué padre!', 'O sea...'. Sound like you're chatting at a café, not reading news.""",
+
+    "CARLOS": """Speak Spanish with a relaxed Mexican accent. You're Carlos, a
+chill 32-year-old from Guadalajara. You're thoughtful and often add interesting
+perspectives. Use expressions like 'Fíjate que...', 'La neta...', 'Pues sí...'.
+Sound like a friend who always has something interesting to add."""
+}
+
+# Category to filename slug mapping
+CATEGORY_SLUGS = {
+    "Tecnología": "tech",
+    "Deportes": "sports",
+    "Cultura": "culture",
+    "Economía": "economy",
+    "Medio Ambiente": "environment",
+    "Gastronomía": "gastronomy"
 }
 
 
@@ -259,6 +297,167 @@ def generate_tts_audio(stories: List[Dict], date_str: str) -> List[Dict]:
     return stories
 
 
+def generate_podcast_script(client: OpenAI, story: Dict) -> str:
+    """Generate a two-host podcast script from a story using GPT."""
+
+    prompt = f"""Create a fun, casual 60-second Spanish podcast script.
+
+Two friends discussing this news story:
+
+HEADLINE: {story.get('headline_es', '')}
+STORY: {story.get('body_es', '')}
+
+HOSTS:
+- LAURA: Bubbly, enthusiastic, starts the conversation
+- CARLOS: Chill, thoughtful, adds interesting takes
+
+STYLE:
+- Like friends chatting at a café, NOT news anchors
+- Playful banter and reactions ("¡No manches!", "¿En serio?", "¡Qué padre!")
+- Natural interruptions and back-and-forth
+- Keep it light and fun
+- Mexican Spanish with natural expressions
+- Include reactions to the news, not just facts
+
+FORMAT (IMPORTANT - use exactly this format):
+LAURA: [dialogue in Spanish]
+CARLOS: [dialogue in Spanish]
+LAURA: [dialogue in Spanish]
+...
+
+Keep it ~150-180 words total. 8-12 exchanges. End on a fun note."""
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            max_tokens=1000,
+            messages=[{"role": "user", "content": prompt}]
+        )
+        return response.choices[0].message.content
+    except Exception as e:
+        print(f"      Script generation error: {e}")
+        return ""
+
+
+def parse_podcast_script(script: str) -> List[Dict]:
+    """Parse a podcast script into speaker lines."""
+    lines = []
+    for line in script.strip().split('\n'):
+        line = line.strip()
+        if line.startswith('LAURA:'):
+            text = line[6:].strip()
+            if text:
+                lines.append({"speaker": "LAURA", "text": text})
+        elif line.startswith('CARLOS:'):
+            text = line[7:].strip()
+            if text:
+                lines.append({"speaker": "CARLOS", "text": text})
+    return lines
+
+
+def combine_audio_segments(segments: List[bytes], output_path: str) -> bool:
+    """Combine multiple MP3 audio segments into one file."""
+    if not segments:
+        return False
+
+    try:
+        if HAS_PYDUB:
+            # Use pydub for proper audio concatenation with small gaps
+            combined = AudioSegment.empty()
+            silence = AudioSegment.silent(duration=300)  # 300ms pause between speakers
+
+            for i, segment_data in enumerate(segments):
+                segment = AudioSegment.from_mp3(io.BytesIO(segment_data))
+                combined += segment
+                if i < len(segments) - 1:
+                    combined += silence
+
+            combined.export(output_path, format="mp3")
+        else:
+            # Simple concatenation fallback (works but no gaps)
+            with open(output_path, 'wb') as f:
+                for segment in segments:
+                    f.write(segment)
+
+        return True
+    except Exception as e:
+        print(f"      Audio combine error: {e}")
+        return False
+
+
+def generate_podcast_audio(stories: List[Dict], date_str: str) -> List[Dict]:
+    """Generate two-host podcast audio for selected categories."""
+
+    if not OPENAI_API_KEY:
+        print("  ⚠ Skipping podcast generation - no API key")
+        return stories
+
+    client = OpenAI(api_key=OPENAI_API_KEY)
+    audio_date_dir = os.path.join(AUDIO_DIR, date_str)
+    Path(audio_date_dir).mkdir(parents=True, exist_ok=True)
+
+    podcast_count = 0
+    for story in stories:
+        category = story.get("category", "")
+        if category not in PODCAST_CATEGORIES:
+            continue
+
+        print(f"    🎙️ {category}: Generating podcast...")
+
+        # 1. Generate two-host script with GPT
+        script = generate_podcast_script(client, story)
+        if not script:
+            print(f"      ✗ Script generation failed")
+            continue
+
+        # 2. Parse into speaker lines
+        lines = parse_podcast_script(script)
+        if len(lines) < 4:
+            print(f"      ✗ Script parsing failed (only {len(lines)} lines)")
+            continue
+
+        print(f"      Script: {len(lines)} exchanges")
+
+        # 3. Generate audio for each line
+        segments = []
+        for i, line in enumerate(lines):
+            voice = "nova" if line["speaker"] == "LAURA" else "onyx"
+            instruction = VOICE_INSTRUCTIONS[line["speaker"]]
+
+            try:
+                response = client.audio.speech.create(
+                    model="gpt-4o-mini-tts",
+                    voice=voice,
+                    input=line["text"],
+                    instructions=instruction
+                )
+                segments.append(response.content)
+            except Exception as e:
+                print(f"      ✗ TTS error for line {i}: {e}")
+                # Continue with partial audio if some lines fail
+
+        if len(segments) < len(lines) // 2:
+            print(f"      ✗ Too many TTS failures")
+            continue
+
+        # 4. Combine segments into one MP3
+        slug = CATEGORY_SLUGS.get(category, "story")
+        podcast_filename = f"{slug}-podcast.mp3"
+        podcast_path = os.path.join(audio_date_dir, podcast_filename)
+
+        if combine_audio_segments(segments, podcast_path):
+            # 5. Add podcast URL and transcript to story
+            story["podcast_url"] = f"{GITHUB_RAW_BASE}/audio/conversation-stories/{date_str}/{podcast_filename}"
+            story["podcast_transcript"] = script
+            podcast_count += 1
+            print(f"      ✓ {podcast_filename}")
+        else:
+            print(f"      ✗ Audio combination failed")
+
+    print(f"  Generated {podcast_count} podcasts")
+    return stories
+
+
 def generate_conversation_stories():
     """Main function to generate daily conversation stories."""
     print("=" * 60)
@@ -266,25 +465,29 @@ def generate_conversation_stories():
     print("=" * 60)
 
     # 1. Fetch RSS candidates
-    print("\n[1/4] Fetching news candidates...")
+    print("\n[1/5] Fetching news candidates...")
     candidates = fetch_rss_candidates()
 
     # 2. Generate stories with Claude
-    print("\n[2/4] Generating stories with Claude...")
+    print("\n[2/5] Generating stories with Claude...")
     stories = generate_stories_with_claude(candidates)
     print(f"  Generated {len(stories)} stories")
 
     for story in stories:
         print(f"    - {story['category']} ({story['difficulty']}): {story['headline_es'][:40]}...")
 
-    # 3. Generate TTS audio
+    # 3. Generate single-voice TTS audio
     today = datetime.now()
     date_str = today.strftime("%Y-%m-%d")
-    print("\n[3/4] Generating TTS audio...")
+    print("\n[3/5] Generating single-voice TTS audio...")
     stories = generate_tts_audio(stories, date_str)
 
-    # 4. Save to JSON
-    print("\n[4/4] Saving to conversation-stories-index.json...")
+    # 4. Generate two-host podcast audio for selected categories
+    print("\n[4/5] Generating two-host podcast audio...")
+    stories = generate_podcast_audio(stories, date_str)
+
+    # 5. Save to JSON
+    print("\n[5/5] Saving to conversation-stories-index.json...")
 
     today = datetime.now()
     output = {

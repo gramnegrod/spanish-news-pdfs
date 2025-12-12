@@ -30,7 +30,9 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install anthropic requests openai
+          pip install anthropic requests openai pydub
+          # Install ffmpeg for pydub audio processing
+          sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Generate conversation stories
         env:
@@ -86,5 +88,7 @@ jobs:
           echo "## 📰 Conversation Stories Generated!" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "- **Date**: $(date +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Stories**: 6 daily stories with TTS audio" >> $GITHUB_STEP_SUMMARY
+          echo "- **Podcasts**: 3 two-host podcasts (Economía, Medio Ambiente, Gastronomía)" >> $GITHUB_STEP_SUMMARY
           echo "- **File**: conversation-stories-index.json" >> $GITHUB_STEP_SUMMARY
           echo "- **Audio**: audio/conversation-stories/$(date +'%Y-%m-%d')/" >> $GITHUB_STEP_SUMMARY
