@@ -40,6 +40,32 @@ jobs:
           cd scripts
           python generate_conversation_stories.py
 
+      - name: Cleanup old audio files (keep 12 months)
+        run: |
+          echo "🧹 Cleaning up audio files older than 12 months..."
+          AUDIO_DIR="audio/conversation-stories"
+          CUTOFF_DATE=$(date -d '12 months ago' +%Y-%m-%d 2>/dev/null || date -v-12m +%Y-%m-%d)
+          
+          if [ -d "$AUDIO_DIR" ]; then
+            DELETED=0
+            for dir in "$AUDIO_DIR"/*/; do
+              if [ -d "$dir" ]; then
+                DIR_DATE=$(basename "$dir")
+                # Check if directory name is a valid date format (YYYY-MM-DD)
+                if [[ "$DIR_DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+                  if [[ "$DIR_DATE" < "$CUTOFF_DATE" ]]; then
+                    echo "  Removing: $dir"
+                    rm -rf "$dir"
+                    DELETED=$((DELETED + 1))
+                  fi
+                fi
+              fi
+            done
+            echo "  Deleted $DELETED old audio directories"
+          else
+            echo "  No audio directory found yet"
+          fi
+
       - name: Commit and push stories
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
