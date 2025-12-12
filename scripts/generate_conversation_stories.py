@@ -19,11 +19,16 @@ import html
 import re
 from datetime import datetime
 from typing import List, Dict
+from pathlib import Path
 import anthropic
+from openai import OpenAI
 
 # Configuration
 ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY')
+OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 OUTPUT_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'conversation-stories-index.json')
+AUDIO_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'audio', 'conversation-stories')
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main"
 
 # Category configuration with emoji and gradient
 CATEGORIES = [
@@ -202,6 +207,58 @@ Return ONLY the JSON, no other text."""
     return result.get("stories", [])
 
 
+def generate_tts_audio(stories: List[Dict], date_str: str) -> List[Dict]:
+    """Generate TTS audio for each story using OpenAI TTS API."""
+
+    if not OPENAI_API_KEY:
+        print("  ⚠ OPENAI_API_KEY not set - skipping TTS generation")
+        return stories
+
+    client = OpenAI(api_key=OPENAI_API_KEY)
+
+    # Create date-specific audio directory
+    audio_date_dir = os.path.join(AUDIO_DIR, date_str)
+    Path(audio_date_dir).mkdir(parents=True, exist_ok=True)
+
+    # Category to filename mapping
+    category_slugs = {
+        "Tecnología": "tech",
+        "Deportes": "sports",
+        "Cultura": "culture",
+        "Economía": "economy",
+        "Medio Ambiente": "environment",
+        "Gastronomía": "gastronomy"
+    }
+
+    for story in stories:
+        category = story.get("category", "unknown")
+        slug = category_slugs.get(category, "story")
+        filename = f"{slug}.mp3"
+        filepath = os.path.join(audio_date_dir, filename)
+
+        try:
+            # Generate TTS for the Spanish body text
+            response = client.audio.speech.create(
+                model="tts-1",
+                voice="nova",  # Good for Spanish
+                input=story["body_es"],
+                speed=0.9  # Slightly slower for learners
+            )
+
+            # Save the audio file
+            response.stream_to_file(filepath)
+
+            # Update story with audio URL
+            story["audio_url"] = f"{GITHUB_RAW_BASE}/audio/conversation-stories/{date_str}/{filename}"
+            print(f"    ✓ {category}: {filename}")
+
+        except Exception as e:
+            print(f"    ✗ {category}: TTS error - {e}")
+            story["audio_url"] = ""
+
+    return stories
+
+
 def generate_conversation_stories():
     """Main function to generate daily conversation stories."""
     print("=" * 60)
@@ -209,19 +266,25 @@ def generate_conversation_stories():
     print("=" * 60)
 
     # 1. Fetch RSS candidates
-    print("\n[1/3] Fetching news candidates...")
+    print("\n[1/4] Fetching news candidates...")
     candidates = fetch_rss_candidates()
 
     # 2. Generate stories with Claude
-    print("\n[2/3] Generating stories with Claude...")
+    print("\n[2/4] Generating stories with Claude...")
     stories = generate_stories_with_claude(candidates)
     print(f"  Generated {len(stories)} stories")
 
     for story in stories:
         print(f"    - {story['category']} ({story['difficulty']}): {story['headline_es'][:40]}...")
 
-    # 3. Save to JSON
-    print("\n[3/3] Saving to conversation-stories-index.json...")
+    # 3. Generate TTS audio
+    today = datetime.now()
+    date_str = today.strftime("%Y-%m-%d")
+    print("\n[3/4] Generating TTS audio...")
+    stories = generate_tts_audio(stories, date_str)
+
+    # 4. Save to JSON
+    print("\n[4/4] Saving to conversation-stories-index.json...")
 
     today = datetime.now()
     output = {
