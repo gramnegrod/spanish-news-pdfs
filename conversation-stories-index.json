@@ -1,0 +1,123 @@
+{
+  "date": "2025-12-11",
+  "generated_at": "2025-12-11T09:00:00Z",
+  "description": "Daily conversation stories for Spanish practice",
+  "stories": [
+    {
+      "id": "tech-20251211",
+      "category": "Tecnología",
+      "difficulty": "A2",
+      "emoji": "🤖",
+      "gradient": "blue",
+      "headline_es": "Apple presenta nuevo teléfono con cámara increíble",
+      "headline_en": "Apple presents new phone with incredible camera",
+      "summary_es": "Apple muestra su nuevo iPhone con una cámara muy potente para hacer fotos y videos.",
+      "body_es": "Apple presentó hoy su nuevo teléfono iPhone. El teléfono tiene una cámara muy buena. Puedes tomar fotos muy bonitas. También puedes grabar videos en alta calidad. El teléfono es más rápido que antes. Tiene una pantalla grande y brillante. El precio es de ochocientos dólares. Muchas personas quieren comprarlo. Las tiendas están muy llenas. Apple dice que es el mejor iPhone de la historia.",
+      "body_en": "Apple presented its new iPhone phone today. The phone has a very good camera. You can take very beautiful photos. You can also record videos in high quality. The phone is faster than before. It has a big and bright screen. The price is eight hundred dollars. Many people want to buy it. The stores are very full. Apple says it's the best iPhone in history.",
+      "audio_url": "",
+      "key_vocabulary": [
+        {"word": "teléfono", "definition_es": "Aparato para hablar con otras personas", "definition_en": "Device to talk with other people"},
+        {"word": "cámara", "definition_es": "Parte del teléfono para tomar fotos", "definition_en": "Part of the phone to take photos"},
+        {"word": "pantalla", "definition_es": "Parte del teléfono donde ves las imágenes", "definition_en": "Part of the phone where you see images"},
+        {"word": "precio", "definition_es": "Cuánto dinero cuesta algo", "definition_en": "How much money something costs"}
+      ]
+    },
+    {
+      "id": "sports-20251211",
+      "category": "Deportes",
+      "difficulty": "A2",
+      "emoji": "⚽",
+      "gradient": "green",
+      "headline_es": "México gana partido importante de fútbol",
+      "headline_en": "Mexico wins important soccer match",
+      "summary_es": "La selección mexicana de fútbol ganó tres a uno contra Estados Unidos.",
+      "body_es": "México jugó un partido de fútbol muy importante anoche. El partido fue contra Estados Unidos. México ganó tres a uno. Los jugadores mexicanos jugaron muy bien. El primer gol fue en el minuto veinte. El segundo gol fue en el minuto cuarenta y cinco. Estados Unidos marcó un gol en el minuto sesenta. Pero México marcó otro gol al final. Los aficionados mexicanos están muy felices. El próximo partido es la semana que viene.",
+      "body_en": "Mexico played a very important soccer match last night. The match was against the United States. Mexico won three to one. The Mexican players played very well. The first goal was in the twentieth minute. The second goal was in the forty-fifth minute. The United States scored a goal in the sixtieth minute. But Mexico scored another goal at the end. Mexican fans are very happy. The next match is next week.",
+      "audio_url": "",
+      "key_vocabulary": [
+        {"word": "partido", "definition_es": "Cuando dos equipos juegan uno contra otro", "definition_en": "When two teams play against each other"},
+        {"word": "gol", "definition_es": "Cuando la pelota entra en la portería", "definition_en": "When the ball goes into the goal"},
+        {"word": "jugadores", "definition_es": "Personas que juegan en un equipo", "definition_en": "People who play on a team"},
+        {"word": "aficionados", "definition_es": "Personas que apoyan a un equipo", "definition_en": "People who support a team"}
+      ]
+    },
+    {
+      "id": "culture-20251211",
+      "category": "Cultura",
+      "difficulty": "B1",
+      "emoji": "🎬",
+      "gradient": "orange",
+      "headline_es": "Nueva película mexicana recibe premio internacional",
+      "headline_en": "New Mexican film receives international award",
+      "summary_es": "Una película sobre la vida en la Ciudad de México ganó un premio importante en Europa.",
+      "body_es": "Una nueva película mexicana ha ganado un premio muy importante en el Festival de Cine de Berlín. La película se llama 'Calles de México' y cuenta la historia de una familia que vive en la Ciudad de México. El director es un joven mexicano de treinta y dos años que estudió cine en Nueva York. Los críticos dicen que la película muestra la realidad de la vida cotidiana en México. Los actores principales son desconocidos pero muy talentosos. La película llegará a los cines mexicanos en febrero. También estará disponible en plataformas de streaming más tarde.",
+      "body_en": "A new Mexican film has won a very important award at the Berlin Film Festival. The film is called 'Streets of Mexico' and tells the story of a family living in Mexico City. The director is a young Mexican man who is thirty-two years old and studied film in New York. Critics say the film shows the reality of daily life in Mexico. The main actors are unknown but very talented. The film will arrive in Mexican cinemas in February. It will also be available on streaming platforms later.",
+      "audio_url": "",
+      "key_vocabulary": [
+        {"word": "premio", "definition_es": "Reconocimiento por hacer algo muy bien", "definition_en": "Recognition for doing something very well"},
+        {"word": "director", "definition_es": "Persona que controla cómo se hace una película", "definition_en": "Person who controls how a film is made"},
+        {"word": "críticos", "definition_es": "Personas que evalúan películas y arte", "definition_en": "People who evaluate films and art"},
+        {"word": "cotidiana", "definition_es": "Que pasa todos los días, normal", "definition_en": "That happens every day, normal"}
+      ]
+    },
+    {
+      "id": "economy-20251211",
+      "category": "Economía",
+      "difficulty": "B1",
+      "emoji": "💰",
+      "gradient": "yellow",
+      "headline_es": "El peso mexicano se fortalece frente al dólar",
+      "headline_en": "Mexican peso strengthens against the dollar",
+      "summary_es": "La moneda mexicana ha subido de valor esta semana por buenas noticias económicas.",
+      "body_es": "El peso mexicano ha tenido una semana muy positiva en los mercados financieros internacionales. La moneda nacional se ha fortalecido un tres por ciento frente al dólar estadounidense. Los economistas explican que esto se debe a varios factores. Primero, las exportaciones mexicanas han aumentado significativamente. Segundo, la inversión extranjera en México continúa creciendo. Tercero, la inflación en el país está bajo control. El Banco de México ha mantenido las tasas de interés estables. Los analistas predicen que esta tendencia positiva podría continuar durante las próximas semanas si las condiciones económicas globales siguen siendo favorables.",
+      "body_en": "The Mexican peso has had a very positive week in international financial markets. The national currency has strengthened three percent against the US dollar. Economists explain that this is due to several factors. First, Mexican exports have increased significantly. Second, foreign investment in Mexico continues to grow. Third, inflation in the country is under control. The Bank of Mexico has kept interest rates stable. Analysts predict that this positive trend could continue over the coming weeks if global economic conditions remain favorable.",
+      "audio_url": "",
+      "key_vocabulary": [
+        {"word": "fortalece", "definition_es": "Se hace más fuerte o tiene más valor", "definition_en": "Becomes stronger or has more value"},
+        {"word": "exportaciones", "definition_es": "Productos que un país vende a otros países", "definition_en": "Products that a country sells to other countries"},
+        {"word": "inversión", "definition_es": "Dinero que se pone en negocios para ganar más", "definition_en": "Money put into businesses to earn more"},
+        {"word": "inflación", "definition_es": "Cuando los precios de todo suben", "definition_en": "When prices of everything go up"}
+      ]
+    },
+    {
+      "id": "environment-20251211",
+      "category": "Medio Ambiente",
+      "difficulty": "B2",
+      "emoji": "🌳",
+      "gradient": "teal",
+      "headline_es": "Científicos descubren nueva especie en la selva amazónica",
+      "headline_en": "Scientists discover new species in the Amazon rainforest",
+      "summary_es": "Un equipo internacional de biólogos ha identificado una nueva especie de rana venenosa en Brasil.",
+      "body_es": "Un equipo de científicos de México, Brasil y Estados Unidos ha hecho un descubrimiento extraordinario en las profundidades de la selva amazónica brasileña. Han identificado una nueva especie de rana venenosa que posee características únicas nunca antes documentadas. La rana, que mide aproximadamente tres centímetros, presenta un patrón de colores brillantes que la distingue de otras especies conocidas. Los investigadores creen que el veneno de esta rana podría tener aplicaciones médicas importantes, particularmente en el desarrollo de nuevos analgésicos. Sin embargo, expresan preocupación por el hábitat de la especie, ya que la deforestación continúa amenazando la biodiversidad de la región. El estudio fue publicado en la prestigiosa revista científica Nature y ha generado gran interés en la comunidad científica internacional.",
+      "body_en": "A team of scientists from Mexico, Brazil, and the United States has made an extraordinary discovery in the depths of the Brazilian Amazon rainforest. They have identified a new species of poison dart frog that possesses unique characteristics never before documented. The frog, which measures approximately three centimeters, displays a pattern of bright colors that distinguishes it from other known species. Researchers believe the venom of this frog could have important medical applications, particularly in the development of new painkillers. However, they express concern for the species' habitat, as deforestation continues to threaten the region's biodiversity. The study was published in the prestigious scientific journal Nature and has generated great interest in the international scientific community.",
+      "audio_url": "",
+      "key_vocabulary": [
+        {"word": "descubrimiento", "definition_es": "Encontrar algo nuevo que nadie conocía", "definition_en": "Finding something new that nobody knew"},
+        {"word": "venenosa", "definition_es": "Que tiene veneno, sustancia peligrosa", "definition_en": "That has venom, dangerous substance"},
+        {"word": "deforestación", "definition_es": "Destrucción de los bosques y selvas", "definition_en": "Destruction of forests and jungles"},
+        {"word": "biodiversidad", "definition_es": "Variedad de plantas y animales en un lugar", "definition_en": "Variety of plants and animals in a place"}
+      ]
+    },
+    {
+      "id": "food-20251211",
+      "category": "Gastronomía",
+      "difficulty": "B2",
+      "emoji": "🌮",
+      "gradient": "red-orange",
+      "headline_es": "Chef mexicana revoluciona la cocina tradicional con técnicas modernas",
+      "headline_en": "Mexican chef revolutionizes traditional cuisine with modern techniques",
+      "summary_es": "Una chef de Oaxaca combina recetas ancestrales con gastronomía molecular en su nuevo restaurante.",
+      "body_es": "La reconocida chef oaxaqueña María Elena Gutiérrez ha inaugurado un restaurante innovador en la Ciudad de México que está transformando la manera en que el mundo percibe la cocina mexicana tradicional. Su establecimiento, llamado 'Raíces Modernas', fusiona técnicas de gastronomía molecular con recetas ancestrales que han sido transmitidas de generación en generación en su familia. Gutiérrez utiliza ingredientes autóctonos como el chapulín, el huitlacoche y diversos chiles oaxaqueños, pero los presenta de formas completamente inesperadas. Por ejemplo, su famoso mole negro se sirve en forma de espuma acompañado de nitrógeno líquido. Los críticos gastronómicos internacionales han elogiado su enfoque vanguardista mientras respeta profundamente las tradiciones culinarias mexicanas. El restaurante ya ha recibido dos estrellas Michelin y se considera uno de los mejores de Latinoamérica.",
+      "body_en": "Renowned Oaxacan chef María Elena Gutiérrez has opened an innovative restaurant in Mexico City that is transforming the way the world perceives traditional Mexican cuisine. Her establishment, called 'Modern Roots', fuses molecular gastronomy techniques with ancestral recipes that have been passed down from generation to generation in her family. Gutiérrez uses native ingredients such as grasshoppers, corn fungus, and various Oaxacan chilies, but presents them in completely unexpected ways. For example, her famous black mole is served in foam form accompanied by liquid nitrogen. International food critics have praised her avant-garde approach while deeply respecting Mexican culinary traditions. The restaurant has already received two Michelin stars and is considered one of the best in Latin America.",
+      "audio_url": "",
+      "key_vocabulary": [
+        {"word": "inaugurado", "definition_es": "Abierto oficialmente por primera vez", "definition_en": "Officially opened for the first time"},
+        {"word": "ancestrales", "definition_es": "Que viene de los antepasados, muy antiguo", "definition_en": "That comes from ancestors, very old"},
+        {"word": "autóctonos", "definition_es": "Originario del lugar, nativo", "definition_en": "Originally from the place, native"},
+        {"word": "vanguardista", "definition_es": "Que está adelante de su tiempo, innovador", "definition_en": "Ahead of its time, innovative"}
+      ]
+    }
+  ],
+  "last_updated": "2025-12-11T09:00:00Z",
+  "generated_by": "GitHub Actions + Anthropic API + OpenAI TTS"
+}
