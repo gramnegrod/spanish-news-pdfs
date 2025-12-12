@@ -237,12 +237,12 @@ def generate_tts_audio(stories: List[Dict], date_str: str) -> List[Dict]:
         filepath = os.path.join(audio_date_dir, filename)
 
         try:
-            # Generate TTS for the Spanish body text
+            # Generate TTS for the Spanish body text with Mexican accent
             response = client.audio.speech.create(
-                model="tts-1-hd",
-                voice="nova",  # Good for Spanish
+                model="gpt-4o-mini-tts",
+                voice="coral",
                 input=story["body_es"],
-                speed=0.9  # Slightly slower for learners
+                instructions="Speak with a natural Mexican Spanish accent. Use clear pronunciation at a moderate pace suitable for Spanish language learners. Warm and friendly tone."
             )
 
             # Save the audio file
