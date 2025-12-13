@@ -8,7 +8,7 @@ Generates 6 daily conversation stories for Spanish practice:
 - 2 stories at B2 level (advanced vocab, subjunctive)
 
 Also generates two-host podcasts for 3 categories:
-- Economía, Medio Ambiente, Gastronomía
+- Tecnología, Cultura, Medio Ambiente (one per CEFR level)
 
 Uses Google News RSS for story candidates, Claude for adaptation.
 """
@@ -62,20 +62,22 @@ DIFFICULTY_MAP = {
     "Gastronomía": "B2",
 }
 
-# Categories that get two-host podcast versions
-PODCAST_CATEGORIES = ["Economía", "Medio Ambiente", "Gastronomía"]
+# Categories that get two-host podcast versions (one per CEFR level: A2, B1, B2)
+PODCAST_CATEGORIES = ["Tecnología", "Cultura", "Medio Ambiente"]
 
 # Voice instructions for podcast hosts
 VOICE_INSTRUCTIONS = {
-    "LAURA": """Speak Spanish with a fun Mexican accent. You're Laura, an
-enthusiastic 28-year-old from Mexico City. You're bubbly, curious, and love
+    "LAURA": """Speak Spanish with a fun Mexican accent at a SLOWER pace for language learners.
+You're Laura, an enthusiastic 28-year-old from Mexico City. You're bubbly, curious, and love
 sharing interesting news with friends. Use expressions like '¡No manches!',
-'¡Qué padre!', 'O sea...'. Sound like you're chatting at a café, not reading news.""",
+'¡Qué padre!', 'O sea...'. Sound like you're chatting at a café, not reading news.
+Speak clearly and slightly slower than normal conversation speed.""",
 
-    "CARLOS": """Speak Spanish with a relaxed Mexican accent. You're Carlos, a
-chill 32-year-old from Guadalajara. You're thoughtful and often add interesting
+    "CARLOS": """Speak Spanish with a relaxed Mexican accent at a SLOWER pace for language learners.
+You're Carlos, a chill 32-year-old from Guadalajara. You're thoughtful and often add interesting
 perspectives. Use expressions like 'Fíjate que...', 'La neta...', 'Pues sí...'.
-Sound like a friend who always has something interesting to add."""
+Sound like a friend who always has something interesting to add.
+Speak clearly and slightly slower than normal conversation speed."""
 }
 
 # Category to filename slug mapping
