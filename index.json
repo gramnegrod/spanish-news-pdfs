@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-13",
+      "filename": "spanish_lesson_2025-12-13.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-13.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Nuevas fotografías revelan conexiones políticas controvertidas",
+          "headline_en": "New photos reveal controversial political connections",
+          "body_es": "NBC News publicó nuevas fotografías que muestran a políticos y empresarios famosos. Las imágenes revelan conexiones con Jeffrey Epstein, un hombre de negocios controvertido. En las fotografías aparecen Donald Trump, Bill Clinton, Bill Gates y otros personajes importantes. También se ve a Woody Allen, Steve Bannon y Larry Summers en diferentes eventos sociales. Estas fotografías fueron tomadas en fiestas y reuniones privadas durante varios años. Los medios de comunicación analizan estas imágenes para entender mejor las relaciones políticas del pasado. Las fotografías generan muchas preguntas sobre las conexiones entre el poder político y empresarial en Estados Unidos.",
+          "body_en": "NBC News published new photographs showing famous politicians and businessmen. The images reveal connections with Jeffrey Epstein, a controversial businessman. The photographs show Donald Trump, Bill Clinton, Bill Gates and other important figures. Woody Allen, Steve Bannon and Larry Summers also appear at different social events. These photographs were taken at parties and private meetings over several years. The media analyzes these images to better understand past political relationships. The photographs generate many questions about connections between political and business power in the United States.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Expertos pronostican una fuerte caída del mercado en 2026",
+          "headline_en": "Experts forecast sharp market drop in 2026",
+          "body_es": "Un analista de Wall Street advierte sobre una posible crisis económica. Según sus predicciones, el índice S&P 500 podría caer un 20% si hay recesión en 2026. Esta caída sería rápida y afectaría a muchos inversores. El pronóstico se basa en varios indicadores económicos actuales. Los expertos observan señales de debilidad en diferentes sectores de la economía. Si las predicciones son correctas, millones de personas perderían dinero en sus inversiones. Las empresas también sufrirían problemas financieros importantes. Los economistas recomiendan prepararse para esta posible crisis. Sin embargo, otros analistas tienen opiniones diferentes sobre el futuro económico del país.",
+          "body_en": "A Wall Street analyst warns about a possible economic crisis. According to predictions, the S&P 500 index could fall 20% if there's a recession in 2026. This drop would be rapid and affect many investors. The forecast is based on various current economic indicators. Experts observe signs of weakness in different sectors of the economy. If predictions are correct, millions of people would lose money on their investments. Companies would also suffer significant financial problems. Economists recommend preparing for this possible crisis. However, other analysts have different opinions about the country's economic future.",
+          "source": "Business Insider"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump cambia las leyes sobre inteligencia artificial",
+          "headline_en": "Trump changes artificial intelligence laws",
+          "body_es": "El presidente Trump firmó una orden ejecutiva importante sobre inteligencia artificial. Esta decisión busca anular las regulaciones estatales que controlan el desarrollo de la IA. La orden ejecutiva permite que las empresas tecnológicas tengan más libertad para desarrollar sus proyectos. Algunos estados habían creado leyes estrictas para regular la inteligencia artificial. Estas regulaciones buscaban proteger la privacidad y seguridad de los ciudadanos. Sin embargo, las empresas consideraban que estas leyes limitaban la innovación tecnológica. La nueva orden ejecutiva elimina muchas de estas restricciones. Los defensores del cambio dicen que ayudará al progreso tecnológico. Los críticos temen que la falta de regulación pueda crear problemas de seguridad.",
+          "body_en": "President Trump signed an important executive order on artificial intelligence. This decision seeks to nullify state regulations that control AI development. The executive order allows technology companies more freedom to develop their projects. Some states had created strict laws to regulate artificial intelligence. These regulations sought to protect citizens' privacy and security. However, companies considered these laws limited technological innovation. The new executive order eliminates many of these restrictions. Supporters of the change say it will help technological progress. Critics fear that lack of regulation could create security problems.",
+          "source": "Hawaii Tribune-Herald"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "fotografías",
+          "syllables": "fo-to-gra-FÍ-as",
+          "pos": "sustantivo",
+          "context": "Nuevas fotografías muestran a políticos famosos en una fiesta.",
+          "definition_es": "Imágenes capturadas con una cámara",
+          "definition_en": "Photos, pictures"
+        },
+        {
+          "word": "revelar",
+          "syllables": "re-ve-LAR",
+          "pos": "verbo",
+          "context": "Las fotografías revelan conexiones importantes entre políticos.",
+          "definition_es": "Mostrar algo que estaba oculto o secreto",
+          "definition_en": "To reveal, to show"
+        },
+        {
+          "word": "recesión",
+          "syllables": "re-ce-SIÓN",
+          "pos": "sustantivo",
+          "context": "Los expertos predicen una recesión económica en 2026.",
+          "definition_es": "Período de crisis económica con menos actividad comercial",
+          "definition_en": "Recession"
+        },
+        {
+          "word": "caída",
+          "syllables": "ca-Í-da",
+          "pos": "sustantivo",
+          "context": "Habrá una caída del 20% en el mercado de valores.",
+          "definition_es": "Descenso rápido de algo hacia abajo",
+          "definition_en": "Drop, fall"
+        },
+        {
+          "word": "pronosticar",
+          "syllables": "pro-nos-ti-CAR",
+          "pos": "verbo",
+          "context": "Los analistas pronostican problemas económicos futuros.",
+          "definition_es": "Predecir lo que va a pasar en el futuro",
+          "definition_en": "To forecast, to predict"
+        },
+        {
+          "word": "orden ejecutiva",
+          "syllables": "OR-den e-je-cu-TI-va",
+          "pos": "sustantivo",
+          "context": "Trump firmó una orden ejecutiva sobre inteligencia artificial.",
+          "definition_es": "Decisión oficial del presidente de un país",
+          "definition_en": "Executive order"
+        },
+        {
+          "word": "anular",
+          "syllables": "a-nu-LAR",
+          "pos": "verbo",
+          "context": "La nueva ley busca anular las regulaciones estatales.",
+          "definition_es": "Cancelar o eliminar algo que existía antes",
+          "definition_en": "To cancel, to nullify"
+        },
+        {
+          "word": "regulaciones",
+          "syllables": "re-gu-la-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las regulaciones controlan el desarrollo de la inteligencia artificial.",
+          "definition_es": "Reglas y leyes que controlan una actividad",
+          "definition_en": "Regulations"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'revelar'?",
+          "options": [
+            "Ocultar información",
+            "Mostrar algo secreto",
+            "Tomar fotografías",
+            "Escribir noticias"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una 'recesión' es:",
+          "options": [
+            "Un período de crecimiento económico",
+            "Una crisis económica",
+            "Un tipo de inversión",
+            "Una empresa exitosa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'orden ejecutiva'?",
+          "options": [
+            "Una empresa privada",
+            "Una decisión presidencial",
+            "Un tipo de fotografía",
+            "Una regulación estatal"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'pronosticar'?",
+          "options": [
+            "Recordar el pasado",
+            "Predecir el futuro",
+            "Analizar el presente",
+            "Cambiar las leyes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la primera historia, ¿qué muestran las nuevas fotografías?",
+          "options": [
+            "Conexiones políticas controvertidas",
+            "Reuniones de negocios normales",
+            "Eventos deportivos",
+            "Conferencias de prensa"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuándo predicen los expertos que podría ocurrir la recesión?",
+          "options": [
+            "En 2024",
+            "En 2025",
+            "En 2026",
+            "En 2027"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje de caída pronostican para el S&P 500?",
+          "options": [
+            "10%",
+            "15%",
+            "20%",
+            "25%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué busca anular la orden ejecutiva de Trump?",
+          "options": [
+            "Las leyes federales",
+            "Las regulaciones estatales sobre IA",
+            "Los impuestos tecnológicos",
+            "Las inversiones privadas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Quién publicó las fotografías controvertidas?",
+          "options": [
+            "Business Insider",
+            "Hawaii Tribune-Herald",
+            "NBC News",
+            "Wall Street Journal"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué temen los críticos de la nueva orden ejecutiva sobre IA?",
+          "options": [
+            "Más regulaciones",
+            "Problemas de seguridad",
+            "Menos innovación",
+            "Mayor competencia"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-13T09:02:05.927716"
+    },
+    {
       "date": "2025-12-12",
       "filename": "spanish_lesson_2025-12-12.pdf",
       "path": "pdfs/spanish_lesson_2025-12-12.pdf",
@@ -1136,7 +1358,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-12T09:04:16.872365",
+  "last_updated": "2025-12-13T09:02:05.927725",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
