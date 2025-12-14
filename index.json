@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-14",
+      "filename": "spanish_lesson_2025-12-14.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-14.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Los republicanos presentan nuevo plan de salud sin ayuda económica",
+          "headline_en": "Republicans present new health plan without economic assistance",
+          "body_es": "Los republicanos de la Cámara de Representantes revelaron esta semana un nuevo paquete de reformas de salud. El plan no incluye la extensión de los subsidios del Obamacare, que ayudan a millones de americanos a pagar su seguro médico. La votación está programada para la próxima semana. Los demócratas critican fuertemente esta propuesta. Dicen que muchas familias perderán su ayuda económica para la salud. Los republicanos argumentan que el sistema actual es muy caro para el gobierno. También quieren reducir los gastos federales en salud. El debate promete ser muy intenso en el Congreso. Esta decisión afectará a millones de ciudadanos americanos que dependen de estos subsidios para acceder a servicios médicos básicos.",
+          "body_en": "House Republicans revealed this week a new health reform package. The plan does not include extending Obamacare subsidies, which help millions of Americans pay for their health insurance. The vote is scheduled for next week. Democrats strongly criticize this proposal. They say many families will lose their economic assistance for health. Republicans argue that the current system is too expensive for the government. They also want to reduce federal health spending. The debate promises to be very intense in Congress. This decision will affect millions of American citizens who depend on these subsidies to access basic medical services.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El mercado de trabajo estadounidense se vuelve más exclusivo",
+          "headline_en": "The US job market becomes more exclusive",
+          "body_es": "El mercado laboral americano está cambiando de manera importante. Ahora es como una sala VIP de aeropuerto: solo algunas personas pueden entrar. Los empleadores buscan trabajadores con habilidades muy específicas. Las personas sin educación universitaria encuentran menos oportunidades de trabajo. Los salarios para trabajos básicos no suben mucho. Mientras tanto, los profesionales especializados ganan mucho dinero. Esta situación crea más desigualdad económica en el país. Los expertos dicen que la tecnología está cambiando todo. Muchos trabajos tradicionales desaparecen cada año. Las empresas prefieren contratar a personas con experiencia en tecnología. Los jóvenes necesitan estudiar carreras técnicas para encontrar buenos empleos. El gobierno estudia nuevas políticas para ayudar a los trabajadores.",
+          "body_en": "The American job market is changing significantly. Now it's like an airport VIP lounge: only some people can enter. Employers look for workers with very specific skills. People without college education find fewer job opportunities. Wages for basic jobs don't rise much. Meanwhile, specialized professionals earn a lot of money. This situation creates more economic inequality in the country. Experts say technology is changing everything. Many traditional jobs disappear each year. Companies prefer to hire people with technology experience. Young people need to study technical careers to find good jobs. The government is studying new policies to help workers.",
+          "source": "Toledo Blade"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Gobierno acusa a empresa texana de enviar tecnología secreta a China",
+          "headline_en": "Government accuses Texas company of sending secret technology to China",
+          "body_es": "Las autoridades federales estadounidenses acusan a una empresa de Texas de enviar tecnología de inteligencia artificial a China. Esta tecnología puede ser muy importante para la seguridad nacional. El gobierno dice que la empresa violó las leyes de exportación. China y Estados Unidos compiten mucho en el desarrollo de inteligencia artificial. La tecnología de IA puede usarse en sistemas militares y de espionaje. Por eso, el gobierno controla estrictamente su exportación. La empresa texana niega las acusaciones del gobierno federal. Los abogados de la compañía dicen que siguieron todas las reglas legales. Este caso muestra la tensión entre los dos países. La investigación continúa y puede haber consecuencias legales graves. Las relaciones comerciales entre China y Estados Unidos siguen siendo muy complicadas en temas de tecnología avanzada.",
+          "body_en": "US federal authorities accuse a Texas company of sending artificial intelligence technology to China. This technology could be very important for national security. The government says the company violated export laws. China and the United States compete heavily in artificial intelligence development. AI technology can be used in military and espionage systems. Therefore, the government strictly controls its export. The Texas company denies the federal government's accusations. The company's lawyers say they followed all legal rules. This case shows the tension between the two countries. The investigation continues and there could be serious legal consequences. Trade relations between China and the United States remain very complicated regarding advanced technology issues.",
+          "source": "SlashGear"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "subsidios",
+          "syllables": "sub-SI-dios",
+          "pos": "sustantivo",
+          "context": "Los republicanos no quieren extender los subsidios de salud.",
+          "definition_es": "Dinero que el gobierno da para ayudar con los costos",
+          "definition_en": "Money the government provides to help with costs"
+        },
+        {
+          "word": "revelar",
+          "syllables": "re-ve-LAR",
+          "pos": "verbo",
+          "context": "Los republicanos revelan su nuevo plan de salud.",
+          "definition_es": "Mostrar o dar a conocer algo que estaba oculto",
+          "definition_en": "To show or make known something that was hidden"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral americano está cambiando mucho.",
+          "definition_es": "El sistema donde las personas buscan y encuentran trabajo",
+          "definition_en": "The system where people search for and find jobs"
+        },
+        {
+          "word": "exclusivo",
+          "syllables": "ex-clu-SI-vo",
+          "pos": "adjetivo",
+          "context": "Los mejores trabajos son muy exclusivos ahora.",
+          "definition_es": "Que solo permite la entrada a ciertas personas",
+          "definition_en": "That only allows entry to certain people"
+        },
+        {
+          "word": "acusar",
+          "syllables": "a-cu-SAR",
+          "pos": "verbo",
+          "context": "El gobierno acusa a la empresa de enviar tecnología a China.",
+          "definition_es": "Decir que alguien ha hecho algo malo o ilegal",
+          "definition_en": "To say that someone has done something wrong or illegal"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La empresa envió tecnología de inteligencia artificial a China.",
+          "definition_es": "Conocimientos y herramientas científicas avanzadas",
+          "definition_en": "Advanced scientific knowledge and tools"
+        },
+        {
+          "word": "paquete",
+          "syllables": "pa-QUE-te",
+          "pos": "sustantivo",
+          "context": "Los republicanos presentan un paquete de reformas de salud.",
+          "definition_es": "Un conjunto de propuestas o leyes relacionadas",
+          "definition_en": "A set of related proposals or laws"
+        },
+        {
+          "word": "federal",
+          "syllables": "fe-de-RAL",
+          "pos": "adjetivo",
+          "context": "Las autoridades federales investigan a la empresa texana.",
+          "definition_es": "Relacionado con el gobierno nacional de un país",
+          "definition_en": "Related to the national government of a country"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'subsidios'?",
+          "options": [
+            "Dinero del gobierno para ayudar con costos",
+            "Impuestos que pagan los ciudadanos",
+            "Préstamos bancarios",
+            "Salarios de empleados públicos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'revelar'?",
+          "options": [
+            "Ocultar",
+            "Mostrar",
+            "Comprar",
+            "Vender"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'acusar'?",
+          "options": [
+            "Felicitar a alguien",
+            "Ayudar a una persona",
+            "Decir que alguien hizo algo malo",
+            "Dar dinero a alguien"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un mercado laboral 'exclusivo'?",
+          "options": [
+            "Donde todos pueden trabajar",
+            "Solo para ciertas personas",
+            "Muy barato",
+            "Muy grande"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿cuándo será la votación del plan de salud?",
+          "options": [
+            "Esta semana",
+            "La próxima semana",
+            "El próximo mes",
+            "No se menciona"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Con qué comparan el mercado laboral americano?",
+          "options": [
+            "Una escuela",
+            "Una sala VIP de aeropuerto",
+            "Un hospital",
+            "Una tienda"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿De qué estado es la empresa acusada de enviar tecnología a China?",
+          "options": [
+            "California",
+            "Nueva York",
+            "Texas",
+            "Florida"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de tecnología envió la empresa a China?",
+          "options": [
+            "Tecnología médica",
+            "Inteligencia artificial",
+            "Tecnología agrícola",
+            "Tecnología deportiva"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué partido político presenta el nuevo plan de salud?",
+          "options": [
+            "Los demócratas",
+            "Los republicanos",
+            "Los independientes",
+            "No se menciona"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué necesitan estudiar los jóvenes para encontrar buenos empleos según la historia económica?",
+          "options": [
+            "Arte",
+            "Historia",
+            "Carreras técnicas",
+            "Deportes"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-14T09:02:17.606001"
+    },
+    {
       "date": "2025-12-13",
       "filename": "spanish_lesson_2025-12-13.pdf",
       "path": "pdfs/spanish_lesson_2025-12-13.pdf",
@@ -1358,7 +1580,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-13T09:02:05.927725",
+  "last_updated": "2025-12-14T09:02:17.606012",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
