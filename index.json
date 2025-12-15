@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-15",
+      "filename": "spanish_lesson_2025-12-15.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-15.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso trabaja contra el tiempo para evitar altos costos de salud",
+          "headline_en": "Congress works against time to avoid high health costs",
+          "body_es": "El Congreso de Estados Unidos tiene poco tiempo para solucionar un gran problema. Los costos de atención médica pueden aumentar mucho para millones de personas. Los políticos están trabajando día y noche para encontrar una solución. Si no actúan rápidamente, muchas familias tendrán que pagar más dinero por sus medicinas y doctores. Este problema afecta especialmente a las personas mayores y las familias con pocos recursos económicos. Los expertos dicen que es muy importante tomar una decisión pronto. El tiempo se está acabando y millones de americanos esperan una respuesta del gobierno.",
+          "body_en": "The US Congress has little time to solve a big problem. Healthcare costs could increase a lot for millions of people. Politicians are working day and night to find a solution. If they don't act quickly, many families will have to pay more money for their medicines and doctors. This problem especially affects elderly people and families with few economic resources. Experts say it's very important to make a decision soon. Time is running out and millions of Americans are waiting for a response from the government.",
+          "source": "CNN"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El dólar baja después de que el banco central reduce las tasas",
+          "headline_en": "The dollar falls after the central bank reduces rates",
+          "body_es": "El valor del dólar americano bajó esta semana después de una decisión importante. La Reserva Federal, que es el banco central de Estados Unidos, decidió reducir las tasas de interés. Esta decisión afecta a todos los bancos del país. Cuando las tasas bajan, es más fácil para las personas pedir dinero prestado. También significa que el dólar vale menos comparado con otras monedas del mundo. Los expertos en economía dicen que esta decisión puede ayudar a las empresas y a las personas que quieren comprar casas. Sin embargo, también puede crear inflación si los precios suben demasiado.",
+          "body_en": "The value of the American dollar fell this week after an important decision. The Federal Reserve, which is the central bank of the United States, decided to reduce interest rates. This decision affects all banks in the country. When rates go down, it's easier for people to borrow money. It also means the dollar is worth less compared to other world currencies. Economics experts say this decision can help businesses and people who want to buy houses. However, it can also create inflation if prices rise too much.",
+          "source": "Oman Observer"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La orden de Trump sobre inteligencia artificial enfrenta obstáculos políticos",
+          "headline_en": "Trump's order on artificial intelligence faces political obstacles",
+          "body_es": "El presidente Trump firmó una nueva orden sobre las leyes de inteligencia artificial en los estados. Sin embargo, esta orden está enfrentando muchos problemas políticos y legales. Algunos estados no están de acuerdo con las nuevas reglas. Ellos prefieren tener sus propias leyes sobre esta tecnología moderna. La inteligencia artificial es muy importante para el futuro de la tecnología. Muchas empresas la usan para hacer sus trabajos más eficientes. Los abogados dicen que va a ser difícil implementar esta orden. Algunos gobernadores de estados ya dijeron que no van a seguir las nuevas reglas federales.",
+          "body_en": "President Trump signed a new order about artificial intelligence laws in the states. However, this order is facing many political and legal problems. Some states don't agree with the new rules. They prefer to have their own laws about this modern technology. Artificial intelligence is very important for the future of technology. Many companies use it to make their work more efficient. Lawyers say it's going to be difficult to implement this order. Some state governors already said they won't follow the new federal rules.",
+          "source": "The Hindu"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso trabaja rápidamente para solucionar el problema de salud.",
+          "definition_es": "Institución que hace las leyes de un país",
+          "definition_en": "Institution that makes the laws of a country"
+        },
+        {
+          "word": "costos",
+          "syllables": "COS-tos",
+          "pos": "sustantivo",
+          "context": "Los costos de salud están aumentando mucho.",
+          "definition_es": "El precio o dinero que se necesita pagar por algo",
+          "definition_en": "The price or money needed to pay for something"
+        },
+        {
+          "word": "dólar",
+          "syllables": "DÓ-lar",
+          "pos": "sustantivo",
+          "context": "El valor del dólar bajó después de la decisión del banco central.",
+          "definition_es": "Moneda oficial de Estados Unidos",
+          "definition_en": "Official currency of the United States"
+        },
+        {
+          "word": "tasas",
+          "syllables": "TA-sas",
+          "pos": "sustantivo",
+          "context": "El banco central decidió reducir las tasas de interés.",
+          "definition_es": "Porcentaje que se paga por un préstamo o crédito",
+          "definition_en": "Percentage paid for a loan or credit"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Las nuevas leyes sobre inteligencia artificial crean problemas.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "obstáculos",
+          "syllables": "obs-TÁ-cu-los",
+          "pos": "sustantivo",
+          "context": "La nueva orden presidencial enfrenta muchos obstáculos legales.",
+          "definition_es": "Problemas o dificultades que impiden hacer algo",
+          "definition_en": "Problems or difficulties that prevent doing something"
+        },
+        {
+          "word": "reducir",
+          "syllables": "re-du-CIR",
+          "pos": "verbo",
+          "context": "El banco decidió reducir las tasas para ayudar la economía.",
+          "definition_es": "Hacer algo más pequeño o menos",
+          "definition_en": "To make something smaller or less"
+        },
+        {
+          "word": "enfrentar",
+          "syllables": "en-fren-TAR",
+          "pos": "verbo",
+          "context": "El gobierno debe enfrentar los problemas de salud pública.",
+          "definition_es": "Lidiar con una situación difícil",
+          "definition_en": "To deal with a difficult situation"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'congreso'?",
+          "options": [
+            "Una empresa privada",
+            "La institución que hace las leyes",
+            "Un hospital público",
+            "Una escuela secundaria"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es la definición de 'obstáculos'?",
+          "options": [
+            "Soluciones fáciles",
+            "Problemas que impiden hacer algo",
+            "Personas importantes",
+            "Lugares turísticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reducir las tasas'?",
+          "options": [
+            "Aumentar los precios",
+            "Hacer los porcentajes más pequeños",
+            "Cerrar los bancos",
+            "Comprar más dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La 'inteligencia artificial' es:",
+          "options": [
+            "Una persona muy inteligente",
+            "Tecnología que permite a las máquinas pensar",
+            "Un tipo de medicina",
+            "Una escuela especial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿qué problema enfrenta el Congreso?",
+          "options": [
+            "Los costos de salud pueden aumentar",
+            "No hay suficientes doctores",
+            "Los hospitales están cerrados",
+            "Las medicinas están prohibidas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con el dólar según la historia de economía?",
+          "options": [
+            "Subió mucho de valor",
+            "Se mantuvo igual",
+            "Bajó de valor",
+            "Desapareció del mercado"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Quién tomó la decisión sobre las tasas de interés?",
+          "options": [
+            "El presidente",
+            "La Reserva Federal",
+            "Los bancos privados",
+            "El Congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué firmó el presidente Trump según la historia de tecnología?",
+          "options": [
+            "Una ley sobre hospitales",
+            "Una orden sobre inteligencia artificial",
+            "Un documento sobre el dólar",
+            "Una carta para el Congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué algunos estados no están de acuerdo con la orden de Trump?",
+          "options": [
+            "Cuesta mucho dinero",
+            "Prefieren sus propias leyes",
+            "No entienden la tecnología",
+            "No tienen computadoras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es un efecto positivo de reducir las tasas de interés?",
+          "options": [
+            "El dólar vale más",
+            "Es más fácil pedir dinero prestado",
+            "Los precios bajan",
+            "Hay menos inflación"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-15T09:05:14.560328"
+    },
+    {
       "date": "2025-12-14",
       "filename": "spanish_lesson_2025-12-14.pdf",
       "path": "pdfs/spanish_lesson_2025-12-14.pdf",
@@ -1580,7 +1802,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-14T09:02:17.606012",
+  "last_updated": "2025-12-15T09:05:14.560341",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
