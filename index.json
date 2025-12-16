@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-16",
+      "filename": "spanish_lesson_2025-12-16.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-16.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Pelosi se opuso a prohibir el comercio de acciones mientras su riqueza crecía",
+          "headline_en": "Pelosi opposed stock trading ban while her wealth grew",
+          "body_es": "Nancy Pelosi, una importante política estadounidense, resistió durante años las propuestas para prohibir que los políticos compren y vendan acciones. Durante este tiempo, su riqueza personal creció significativamente. Muchas personas comenzaron a sospechar que los políticos usan información secreta del gobierno para hacer inversiones exitosas. Los críticos dicen que esto no es justo para los ciudadanos normales. Pelosi defendió su derecho a invertir en el mercado de valores. Sin embargo, la presión pública aumentó. Finalmente, ella cambió su posición sobre este tema. Ahora apoya algunas restricciones sobre el comercio de acciones para los miembros del Congreso. Este caso ha generado un debate nacional sobre la ética en la política.",
+          "body_en": "Nancy Pelosi, an important American politician, resisted for years proposals to ban politicians from buying and selling stocks. During this time, her personal wealth grew significantly. Many people began to suspect that politicians use secret government information to make successful investments. Critics say this is not fair to normal citizens. Pelosi defended her right to invest in the stock market. However, public pressure increased. Finally, she changed her position on this issue. Now she supports some restrictions on stock trading for members of Congress. This case has generated a national debate about ethics in politics.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El sistema para hacer la vida más asequible en Estados Unidos está roto",
+          "headline_en": "The system to make life more affordable in the United States is broken",
+          "body_es": "Muchas familias estadounidenses luchan para pagar gastos básicos como vivienda, comida y atención médica. Los precios han subido mucho en los últimos años. El gobierno ha tratado de ayudar con diferentes programas y políticas. Sin embargo, estas soluciones no funcionan bien. Los expertos dicen que el sistema para hacer la vida más asequible está roto. Las casas cuestan demasiado dinero para la mayoría de las personas jóvenes. Los salarios no han crecido al mismo ritmo que los precios. Algunas ciudades han implementado controles de alquiler, pero esto puede crear otros problemas. Los economistas buscan nuevas ideas para solucionar esta crisis. Es un problema complejo que afecta a millones de personas en todo el país.",
+          "body_en": "Many American families struggle to pay for basic expenses like housing, food, and healthcare. Prices have risen a lot in recent years. The government has tried to help with different programs and policies. However, these solutions are not working well. Experts say the system to make life more affordable is broken. Houses cost too much money for most young people. Wages have not grown at the same pace as prices. Some cities have implemented rent controls, but this can create other problems. Economists are looking for new ideas to solve this crisis. It is a complex problem that affects millions of people across the country.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump creará un 'Tech Force' y contratará mil especialistas en inteligencia artificial",
+          "headline_en": "Trump will create a 'Tech Force' and hire a thousand artificial intelligence specialists",
+          "body_es": "La administración de Trump anunció planes para contratar mil especialistas en tecnología. Estas personas trabajarán en un nuevo grupo llamado 'Tech Force'. Su trabajo será desarrollar proyectos de inteligencia artificial y finanzas para el gobierno. El objetivo es mejorar la tecnología del gobierno federal. Estados Unidos quiere competir mejor con otros países en tecnología avanzada. Los especialistas trabajarán en diferentes agencias gubernamentales. Buscan personas con experiencia en programación, análisis de datos y inteligencia artificial. El salario será competitivo para atraer a los mejores talentos. Esta iniciativa muestra la importancia creciente de la tecnología en el gobierno. Muchas empresas tecnológicas están interesadas en colaborar con este nuevo programa federal.",
+          "body_en": "The Trump administration announced plans to hire a thousand technology specialists. These people will work in a new group called 'Tech Force'. Their job will be to develop artificial intelligence and finance projects for the government. The goal is to improve federal government technology. The United States wants to compete better with other countries in advanced technology. The specialists will work in different government agencies. They are looking for people with experience in programming, data analysis, and artificial intelligence. The salary will be competitive to attract the best talent. This initiative shows the growing importance of technology in government. Many tech companies are interested in collaborating with this new federal program.",
+          "source": "CNBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "riqueza",
+          "syllables": "ri-QUE-za",
+          "pos": "sustantivo",
+          "context": "La riqueza de la política creció durante su carrera.",
+          "definition_es": "Gran cantidad de dinero y propiedades que tiene una persona",
+          "definition_en": "Wealth, riches"
+        },
+        {
+          "word": "sospecha",
+          "syllables": "sos-PE-cha",
+          "pos": "sustantivo",
+          "context": "Su riqueza causó sospecha entre los ciudadanos.",
+          "definition_es": "Desconfianza o duda sobre algo o alguien",
+          "definition_en": "Suspicion, distrust"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "Las inversiones en acciones pueden ser problemáticas para los políticos.",
+          "definition_es": "Dinero que se pone en algo para ganar más dinero",
+          "definition_en": "Investment"
+        },
+        {
+          "word": "asequible",
+          "syllables": "a-se-QUI-ble",
+          "pos": "adjetivo",
+          "context": "La vivienda debe ser asequible para todas las familias.",
+          "definition_es": "Que tiene un precio que se puede pagar fácilmente",
+          "definition_en": "Affordable"
+        },
+        {
+          "word": "contratar",
+          "syllables": "con-tra-TAR",
+          "pos": "verbo",
+          "context": "El gobierno va a contratar mil especialistas en tecnología.",
+          "definition_es": "Dar trabajo a alguien pagándole un salario",
+          "definition_en": "To hire"
+        },
+        {
+          "word": "especialista",
+          "syllables": "es-pe-cia-LIS-ta",
+          "pos": "sustantivo",
+          "context": "Los especialistas en inteligencia artificial son muy demandados.",
+          "definition_es": "Persona experta en un área específica de conocimiento",
+          "definition_en": "Specialist"
+        },
+        {
+          "word": "prohibición",
+          "syllables": "pro-hi-bi-CIÓN",
+          "pos": "sustantivo",
+          "context": "Pelosi se opuso a la prohibición del comercio de acciones.",
+          "definition_es": "Acción de no permitir algo por ley o regla",
+          "definition_en": "Ban, prohibition"
+        },
+        {
+          "word": "financiero",
+          "syllables": "fi-nan-CIE-ro",
+          "pos": "adjetivo",
+          "context": "Los proyectos financieros necesitan especialistas capacitados.",
+          "definition_es": "Relacionado con el dinero y las finanzas",
+          "definition_en": "Financial"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'riqueza'?",
+          "options": [
+            "Pobreza extrema",
+            "Gran cantidad de dinero y propiedades",
+            "Trabajo difícil",
+            "Problema económico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Si algo es 'asequible', significa que:",
+          "options": [
+            "Es muy caro",
+            "No se puede comprar",
+            "Tiene un precio que se puede pagar",
+            "Está prohibido"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'contratar' a alguien?",
+          "options": [
+            "Despedir a un empleado",
+            "Dar trabajo pagando un salario",
+            "Prohibir algo",
+            "Invertir dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Una 'sospecha' es:",
+          "options": [
+            "Una certeza absoluta",
+            "Desconfianza o duda",
+            "Una inversión exitosa",
+            "Un proyecto tecnológico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué hizo Nancy Pelosi con respecto al comercio de acciones?",
+          "options": [
+            "Siempre apoyó las prohibiciones",
+            "Primero se opuso, luego cambió su posición",
+            "Nunca invirtió en acciones",
+            "Creó nuevas leyes inmediatamente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según el texto sobre economía, ¿cuál es el principal problema en Estados Unidos?",
+          "options": [
+            "Hay demasiados empleos",
+            "Los precios han subido pero los salarios no",
+            "La tecnología es muy avanzada",
+            "El gobierno gasta poco dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántos especialistas quiere contratar la administración Trump?",
+          "options": [
+            "Cien",
+            "Quinientos",
+            "Mil",
+            "Dos mil"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama el nuevo grupo tecnológico del gobierno?",
+          "options": [
+            "AI Force",
+            "Tech Force",
+            "Government Tech",
+            "Digital Team"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué las personas sospechan de los políticos que invierten en acciones?",
+          "options": [
+            "Porque es ilegal",
+            "Porque pueden usar información secreta del gobierno",
+            "Porque no tienen dinero",
+            "Porque no entienden de finanzas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el objetivo principal del 'Tech Force'?",
+          "options": [
+            "Reducir el gobierno",
+            "Desarrollar proyectos de inteligencia artificial y finanzas",
+            "Controlar los precios",
+            "Prohibir las inversiones"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-16T09:04:41.151307"
+    },
+    {
       "date": "2025-12-15",
       "filename": "spanish_lesson_2025-12-15.pdf",
       "path": "pdfs/spanish_lesson_2025-12-15.pdf",
@@ -1802,7 +2024,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-15T09:05:14.560341",
+  "last_updated": "2025-12-16T09:04:41.151317",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
