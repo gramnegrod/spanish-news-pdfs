@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-17",
+      "filename": "spanish_lesson_2025-12-17.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-17.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Los republicanos cancelan votación sobre seguros de salud",
+          "headline_en": "Republicans cancel vote on health insurance",
+          "body_es": "Los líderes republicanos de la Cámara de Representantes cancelaron una votación importante sobre el financiamiento de seguros de salud. Esta decisión significa que los precios de los seguros médicos van a subir para millones de estadounidenses. La votación era sobre el Obamacare, un programa que ayuda a las personas a pagar sus seguros médicos. Sin este financiamiento del gobierno, las compañías de seguros tendrán que cobrar más dinero a sus clientes. Los republicanos no pudieron ponerse de acuerdo sobre el tema. Muchas familias estadounidenses van a pagar más dinero por sus seguros médicos el próximo año. Esta situación afecta especialmente a las personas que no tienen mucho dinero.",
+          "body_en": "Republican leaders in the House of Representatives canceled an important vote on health insurance funding. This decision means that medical insurance prices will rise for millions of Americans. The vote was about Obamacare, a program that helps people pay for their health insurance. Without this government funding, insurance companies will have to charge more money to their customers. Republicans could not agree on the issue. Many American families will pay more money for their health insurance next year. This situation especially affects people who don't have much money.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía de Estados Unidos crea pocos empleos en noviembre",
+          "headline_en": "The US economy creates few jobs in November",
+          "body_es": "La economía estadounidense creó solamente 64,000 empleos nuevos en noviembre. Este número es mucho más bajo de lo que esperaban los expertos. Al mismo tiempo, la tasa de desempleo subió al nivel más alto en cuatro años. Esto significa que más personas están buscando trabajo pero no pueden encontrarlo. Los economistas pensaban que iba a haber más empleos nuevos este mes. Sin embargo, muchas empresas no están contratando a tantas personas como antes. Esta situación preocupa a los expertos porque muestra que la economía no está creciendo tan rápido. El gobierno está observando estos números muy de cerca para decidir qué hacer en el futuro.",
+          "body_en": "The US economy created only 64,000 new jobs in November. This number is much lower than what experts expected. At the same time, the unemployment rate rose to the highest level in four years. This means more people are looking for work but cannot find it. Economists thought there would be more new jobs this month. However, many companies are not hiring as many people as before. This situation worries experts because it shows the economy is not growing as fast. The government is watching these numbers very closely to decide what to do in the future.",
+          "source": "Axios"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La inteligencia artificial causa problemas en la red eléctrica",
+          "headline_en": "Artificial intelligence causes problems in the electrical grid",
+          "body_es": "El rápido crecimiento de la inteligencia artificial está causando problemas serios en la red eléctrica de Estados Unidos. Las empresas tecnológicas están expandiendo sus operaciones muy rápidamente para desarrollar más tecnología de inteligencia artificial. Sin embargo, estos sistemas necesitan enormes cantidades de electricidad para funcionar correctamente. La red eléctrica del país no fue diseñada para manejar tanta demanda de energía. Esto está creando dificultades para proveer electricidad a todas las ciudades y empresas. Los expertos en energía están preocupados porque la situación puede empeorar en los próximos años. Las empresas tecnológicas necesitan encontrar maneras de usar menos electricidad o el país tendrá que mejorar toda su red eléctrica.",
+          "body_en": "The rapid growth of artificial intelligence is causing serious problems in the US electrical grid. Technology companies are expanding their operations very quickly to develop more AI technology. However, these systems need enormous amounts of electricity to function properly. The country's electrical grid was not designed to handle so much energy demand. This is creating difficulties in providing electricity to all cities and companies. Energy experts are worried because the situation may get worse in the coming years. Technology companies need to find ways to use less electricity or the country will have to improve its entire electrical grid.",
+          "source": "thestreet.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "votación",
+          "syllables": "vo-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "Los líderes republicanos cancelaron la votación sobre el financiamiento de salud.",
+          "definition_es": "Proceso de votar para tomar una decisión",
+          "definition_en": "The process of voting to make a decision"
+        },
+        {
+          "word": "financiamiento",
+          "syllables": "fi-nan-cia-MIEN-to",
+          "pos": "sustantivo",
+          "context": "El gobierno necesita aprobar el financiamiento para los seguros de salud.",
+          "definition_es": "Dinero que se da para pagar algo",
+          "definition_en": "Money provided to pay for something"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "de-sem-PLE-o",
+          "pos": "sustantivo",
+          "context": "La tasa de desempleo aumentó al nivel más alto en cuatro años.",
+          "definition_es": "Situación de no tener trabajo",
+          "definition_en": "The state of not having a job"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense creó 64,000 empleos en noviembre.",
+          "definition_es": "Trabajo que una persona tiene para ganar dinero",
+          "definition_en": "Work that a person does to earn money"
+        },
+        {
+          "word": "red eléctrica",
+          "syllables": "red e-LÉC-tri-ca",
+          "pos": "sustantivo",
+          "context": "El crecimiento de la inteligencia artificial causa problemas en la red eléctrica.",
+          "definition_es": "Sistema que distribuye electricidad a las ciudades",
+          "definition_en": "System that distributes electricity to cities"
+        },
+        {
+          "word": "operaciones",
+          "syllables": "o-pe-ra-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas expanden sus operaciones rápidamente.",
+          "definition_es": "Actividades y trabajos que hace una empresa",
+          "definition_en": "Activities and work that a company does"
+        },
+        {
+          "word": "seguros",
+          "syllables": "se-GU-ros",
+          "pos": "sustantivo",
+          "context": "Los precios de los seguros médicos van a subir.",
+          "definition_es": "Protección que se paga para cubrir gastos médicos o otros",
+          "definition_en": "Protection that is paid for to cover medical or other expenses"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial necesita mucha electricidad para funcionar.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'financiamiento'?",
+          "options": [
+            "Dinero que se da para pagar algo",
+            "Un tipo de trabajo",
+            "Una votación política",
+            "Un problema eléctrico"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es la definición de 'desempleo'?",
+          "options": [
+            "Tener mucho trabajo",
+            "Situación de no tener trabajo",
+            "Crear empleos nuevos",
+            "Ganar mucho dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'red eléctrica'?",
+          "options": [
+            "Una empresa tecnológica",
+            "Un tipo de inteligencia artificial",
+            "Sistema que distribuye electricidad",
+            "Un seguro médico"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'operaciones' en el contexto de empresas?",
+          "options": [
+            "Cirugías médicas",
+            "Actividades y trabajos de una empresa",
+            "Problemas eléctricos",
+            "Votaciones políticas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué va a pasar con los precios de los seguros médicos?",
+          "options": [
+            "Van a bajar",
+            "Van a subir",
+            "Van a quedarse igual",
+            "Van a desaparecer"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos nuevos creó la economía estadounidense en noviembre?",
+          "options": [
+            "64,000",
+            "640,000",
+            "6,400",
+            "4,000"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con la tasa de desempleo según la historia económica?",
+          "options": [
+            "Bajó mucho",
+            "Subió al nivel más alto en 4 años",
+            "Se quedó igual",
+            "Bajó un poco"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué la inteligencia artificial causa problemas eléctricos?",
+          "options": [
+            "Es muy cara",
+            "Necesita mucha electricidad",
+            "Es muy lenta",
+            "No funciona bien"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué cancelaron los republicanos la votación sobre seguros de salud?",
+          "options": [
+            "No tenían tiempo",
+            "No pudieron ponerse de acuerdo",
+            "Era muy cara",
+            "No era importante"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué necesitan hacer las empresas tecnológicas según la historia sobre inteligencia artificial?",
+          "options": [
+            "Contratar más empleados",
+            "Usar menos electricidad",
+            "Cancelar sus proyectos",
+            "Subir los precios"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-17T09:04:56.574724"
+    },
+    {
       "date": "2025-12-16",
       "filename": "spanish_lesson_2025-12-16.pdf",
       "path": "pdfs/spanish_lesson_2025-12-16.pdf",
@@ -2024,7 +2246,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-16T09:04:41.151317",
+  "last_updated": "2025-12-17T09:04:56.574734",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
