@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-18",
+      "filename": "spanish_lesson_2025-12-18.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-18.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos aprueba gran presupuesto militar con ayuda para Ucrania",
+          "headline_en": "United States approves large military budget with aid for Ukraine",
+          "body_es": "El Congreso de Estados Unidos aprobó un presupuesto de defensa de 901 mil millones de dólares. Este dinero incluye apoyo militar para Ucrania y países europeos. La decisión llegó después de muchas discusiones entre políticos. El presupuesto también destinará fondos para modernizar el ejército estadounidense. Los líderes políticos dijeron que este dinero es necesario para la seguridad nacional. Parte del apoyo ayudará a Ucrania en su conflicto con Rusia. Los países europeos también recibirán equipos militares. Esta decisión muestra el compromiso de Estados Unidos con sus aliados internacionales. El presupuesto entrará en efecto el próximo año fiscal.",
+          "body_en": "The US Congress approved a defense budget of $901 billion. This money includes military support for Ukraine and European countries. The decision came after many discussions among politicians. The budget will also allocate funds to modernize the US military. Political leaders said this money is necessary for national security. Part of the support will help Ukraine in its conflict with Russia. European countries will also receive military equipment. This decision shows the US commitment to its international allies. The budget will take effect next fiscal year.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Miles de trabajadores de oficina pierden sus empleos en Estados Unidos",
+          "headline_en": "Thousands of office workers lose their jobs in the United States",
+          "body_es": "Muchas empresas estadounidenses están haciendo despidos masivos de trabajadores de oficina. Los empleados que trabajan en computadoras y oficinas son los más afectados. Las empresas tecnológicas están eliminando miles de empleos cada mes. Los expertos dicen que hay una razón secreta detrás de estos despidos. Algunas compañías quieren reducir costos después de la pandemia. Otras empresas contrataron demasiados empleados durante los últimos años. Los trabajadores más jóvenes y los nuevos empleados son los primeros en perder sus trabajos. Esta situación está creando mucha preocupación en el mercado laboral. Muchas familias están enfrentando dificultades económicas por esta crisis.",
+          "body_en": "Many American companies are making massive layoffs of office workers. Employees who work on computers and in offices are the most affected. Technology companies are eliminating thousands of jobs each month. Experts say there is a secret reason behind these layoffs. Some companies want to reduce costs after the pandemic. Other companies hired too many employees during recent years. Younger workers and new employees are the first to lose their jobs. This situation is creating much concern in the job market. Many families are facing economic difficulties due to this crisis.",
+          "source": "Business Insider"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "China desarrolla proyecto secreto para competir en inteligencia artificial",
+          "headline_en": "China develops secret project to compete in artificial intelligence",
+          "body_es": "China ha creado un proyecto tecnológico secreto similar al famoso Proyecto Manhattan. El objetivo es desarrollar chips de inteligencia artificial para competir con Estados Unidos y Europa. Los científicos chinos trabajan en laboratorios secretos del gobierno. Quieren crear tecnología que sea tan buena como la occidental. Este proyecto comenzó hace varios años sin que otros países lo supieran. China invirtió miles de millones de dólares en esta investigación. Los expertos dicen que este desarrollo podría cambiar el futuro de la tecnología mundial. El gobierno chino quiere ser independiente en tecnología avanzada. Esta competencia tecnológica está creando tensiones entre China y otros países desarrollados.",
+          "body_en": "China has created a secret technology project similar to the famous Manhattan Project. The goal is to develop artificial intelligence chips to compete with the United States and Europe. Chinese scientists work in secret government laboratories. They want to create technology that is as good as Western technology. This project began several years ago without other countries knowing. China invested billions of dollars in this research. Experts say this development could change the future of world technology. The Chinese government wants to be independent in advanced technology. This technological competition is creating tensions between China and other developed countries.",
+          "source": "Reuters"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El Congreso aprobó un presupuesto de defensa de 901 mil millones de dólares.",
+          "definition_es": "Plan de gastos de dinero para un período determinado",
+          "definition_en": "Budget - a plan for spending money over a specific period"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El Congreso estadounidense aprobó el proyecto de ley de defensa.",
+          "definition_es": "Aceptar oficialmente una ley o decisión",
+          "definition_en": "To approve - to officially accept a law or decision"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Muchas empresas están haciendo despidos masivos de trabajadores de oficina.",
+          "definition_es": "Acción de terminar el trabajo de empleados",
+          "definition_en": "Layoffs - the action of terminating employees from their jobs"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "China desarrolla chips de inteligencia artificial para competir con Occidente.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence - technology that enables machines to think like humans"
+        },
+        {
+          "word": "competir",
+          "syllables": "com-pe-TIR",
+          "pos": "verbo",
+          "context": "China quiere competir con Estados Unidos en tecnología.",
+          "definition_es": "Luchar contra otros para ser el mejor",
+          "definition_en": "To compete - to struggle against others to be the best"
+        },
+        {
+          "word": "apoyo",
+          "syllables": "a-PO-yo",
+          "pos": "sustantivo",
+          "context": "El proyecto incluye apoyo militar para Ucrania y Europa.",
+          "definition_es": "Ayuda que se da a alguien",
+          "definition_en": "Support - help given to someone"
+        },
+        {
+          "word": "desarrollar",
+          "syllables": "de-sa-rro-LLAR",
+          "pos": "verbo",
+          "context": "China desarrolló su propio proyecto secreto de tecnología.",
+          "definition_es": "Crear o hacer crecer algo nuevo",
+          "definition_en": "To develop - to create or make something new grow"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas están eliminando muchos empleos.",
+          "definition_es": "Organizaciones que hacen negocios para ganar dinero",
+          "definition_en": "Companies - organizations that do business to make money"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'presupuesto'?",
+          "options": [
+            "Un plan de gastos de dinero",
+            "Un edificio del gobierno",
+            "Un tipo de soldado",
+            "Una máquina militar"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'despidos'?",
+          "options": [
+            "Contratar nuevos empleados",
+            "Terminar el trabajo de empleados",
+            "Aumentar salarios",
+            "Abrir nuevas oficinas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'competir'?",
+          "options": [
+            "Ayudar a otros",
+            "Luchar contra otros para ser el mejor",
+            "Trabajar en equipo",
+            "Estudiar en la universidad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es 'inteligencia artificial'?",
+          "options": [
+            "Un tipo de robot",
+            "Tecnología que permite a las máquinas pensar como humanos",
+            "Un videojuego",
+            "Una película de ciencia ficción"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero aprobó el Congreso estadounidense para defensa?",
+          "options": [
+            "801 mil millones de dólares",
+            "901 mil millones de dólares",
+            "701 mil millones de dólares",
+            "601 mil millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué países recibirán apoyo militar de Estados Unidos?",
+          "options": [
+            "Solo Ucrania",
+            "Solo países europeos",
+            "Ucrania y países europeos",
+            "Todos los países del mundo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de trabajadores están perdiendo más empleos según el texto económico?",
+          "options": [
+            "Trabajadores de fábricas",
+            "Trabajadores de oficina",
+            "Trabajadores de construcción",
+            "Trabajadores de restaurantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas están eliminando más empleos?",
+          "options": [
+            "Empresas de comida",
+            "Empresas tecnológicas",
+            "Empresas de ropa",
+            "Empresas de transporte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué quiere desarrollar China según el texto de tecnología?",
+          "options": [
+            "Armas nucleares",
+            "Chips de inteligencia artificial",
+            "Nuevos teléfonos",
+            "Videojuegos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Con qué proyecto histórico comparan el proyecto chino?",
+          "options": [
+            "Proyecto Apollo",
+            "Proyecto Manhattan",
+            "Proyecto Guerra de las Galaxias",
+            "Proyecto Internet"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-18T09:04:33.863152"
+    },
+    {
       "date": "2025-12-17",
       "filename": "spanish_lesson_2025-12-17.pdf",
       "path": "pdfs/spanish_lesson_2025-12-17.pdf",
@@ -2246,7 +2468,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-17T09:04:56.574734",
+  "last_updated": "2025-12-18T09:04:33.863165",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
