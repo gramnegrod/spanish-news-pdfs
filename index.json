@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-19",
+      "filename": "spanish_lesson_2025-12-19.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-19.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump respalda a ex gobernador para el Congreso de Estados Unidos",
+          "headline_en": "Trump backs former governor for US Congress",
+          "body_es": "Donald Trump dio su apoyo al ex gobernador de Maine, Paul LePage, para las elecciones del Congreso. LePage fue gobernador del estado de Maine durante varios años. Trump dijo que LePage es una buena opción para representar a la gente de Maine en Washington. Las elecciones para el Congreso son muy importantes en Estados Unidos. Los candidatos necesitan el apoyo de líderes políticos como Trump. LePage ahora tendrá más posibilidades de ganar porque Trump lo respalda. Los votantes de Maine decidirán si quieren a LePage en el Congreso. La política estadounidense está muy activa antes de las elecciones.",
+          "body_en": "Donald Trump gave his support to former Maine governor Paul LePage for the Congressional elections. LePage was governor of the state of Maine for several years. Trump said that LePage is a good choice to represent the people of Maine in Washington. Congressional elections are very important in the United States. Candidates need support from political leaders like Trump. LePage will now have better chances of winning because Trump backs him. Maine voters will decide if they want LePage in Congress. American politics is very active before the elections.",
+          "source": "Centralmaine.com"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La inflación baja en Estados Unidos pero los expertos piden precaución",
+          "headline_en": "Inflation drops in United States but experts urge caution",
+          "body_es": "La inflación en Estados Unidos bajó al 2.7% en noviembre. Esto significa que los precios subieron menos que en meses anteriores. Sin embargo, los economistas dicen que la gente no debe celebrar todavía. Ellos piensan que la inflación puede subir otra vez pronto. Los precios de la comida y la gasolina todavía están altos. Las familias estadounidenses siguen gastando mucho dinero en productos básicos. El gobierno está trabajando para controlar la inflación. Los expertos recomiendan esperar más tiempo para ver si la inflación realmente está mejorando. La economía estadounidense aún tiene algunos problemas que resolver.",
+          "body_en": "Inflation in the United States dropped to 2.7% in November. This means that prices rose less than in previous months. However, economists say that people should not celebrate yet. They think that inflation may rise again soon. Food and gasoline prices are still high. American families continue spending a lot of money on basic products. The government is working to control inflation. Experts recommend waiting more time to see if inflation is really improving. The American economy still has some problems to solve.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump Media se une con empresa nuclear para generar energía para inteligencia artificial",
+          "headline_en": "Trump Media joins with nuclear company to generate energy for artificial intelligence",
+          "body_es": "Trump Media va a unirse con TAE Technologies, una empresa de California que trabaja con energía nuclear. El acuerdo vale 6 mil millones de dólares. TAE Technologies quiere crear energía limpia usando fusión nuclear. Esta energía va a alimentar sistemas de inteligencia artificial. La inteligencia artificial necesita mucha electricidad para funcionar bien. La fusión nuclear es una tecnología nueva que puede producir energía sin contaminar el ambiente. Las dos empresas creen que juntas pueden crear mejor tecnología. Este tipo de acuerdo es común en Silicon Valley. La inteligencia artificial está creciendo muy rápido y necesita más energía cada año.",
+          "body_en": "Trump Media is going to join with TAE Technologies, a California company that works with nuclear energy. The deal is worth 6 billion dollars. TAE Technologies wants to create clean energy using nuclear fusion. This energy will power artificial intelligence systems. Artificial intelligence needs a lot of electricity to function well. Nuclear fusion is a new technology that can produce energy without polluting the environment. Both companies believe that together they can create better technology. This type of deal is common in Silicon Valley. Artificial intelligence is growing very fast and needs more energy each year.",
+          "source": "ABC7 San Francisco"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "respaldar",
+          "syllables": "res-pal-DAR",
+          "pos": "verbo",
+          "context": "Trump respalda al ex gobernador para el Congreso.",
+          "definition_es": "Apoyar o dar apoyo a alguien",
+          "definition_en": "To support or back someone"
+        },
+        {
+          "word": "gobernador",
+          "syllables": "go-ber-na-DOR",
+          "pos": "sustantivo",
+          "context": "Paul LePage es el ex gobernador de Maine.",
+          "definition_es": "Persona que gobierna un estado",
+          "definition_en": "Person who governs a state"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación bajó al 2.7% en noviembre.",
+          "definition_es": "Aumento general de precios",
+          "definition_en": "General increase in prices"
+        },
+        {
+          "word": "economistas",
+          "syllables": "e-co-no-MIS-tas",
+          "pos": "sustantivo",
+          "context": "Los economistas dicen que hay que tener cuidado.",
+          "definition_es": "Expertos que estudian la economía",
+          "definition_en": "Experts who study the economy"
+        },
+        {
+          "word": "fusión",
+          "syllables": "fu-SIÓN",
+          "pos": "sustantivo",
+          "context": "La empresa de fusión nuclear quiere generar energía.",
+          "definition_es": "Unión de dos o más elementos",
+          "definition_en": "Union of two or more elements"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "El acuerdo vale 6 mil millones de dólares.",
+          "definition_es": "Pacto o convenio entre partes",
+          "definition_en": "Agreement or deal between parties"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍA",
+          "pos": "sustantivo",
+          "context": "La tecnología de inteligencia artificial necesita energía.",
+          "definition_es": "Aplicación de conocimientos científicos",
+          "definition_en": "Application of scientific knowledge"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Trump Media es una empresa de comunicación.",
+          "definition_es": "Organización comercial o de negocios",
+          "definition_en": "Commercial or business organization"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'respaldar'?",
+          "options": [
+            "Criticar a alguien",
+            "Apoyar a alguien",
+            "Ignorar a alguien",
+            "Atacar a alguien"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'gobernador' es:",
+          "options": [
+            "Un presidente de país",
+            "Un líder de estado",
+            "Un alcalde de ciudad",
+            "Un senador nacional"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué estudian los 'economistas'?",
+          "options": [
+            "La medicina",
+            "Los precios y el dinero",
+            "La tecnología",
+            "Las elecciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Una 'fusión' es:",
+          "options": [
+            "Una separación",
+            "Una unión",
+            "Una explosión",
+            "Una elección"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿A quién respalda Trump para el Congreso?",
+          "options": [
+            "Al gobernador actual de Maine",
+            "A Paul LePage",
+            "A un senador de California",
+            "A un empresario nuclear"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál fue la tasa de inflación en noviembre?",
+          "options": [
+            "2.7%",
+            "6%",
+            "3.7%",
+            "1.7%"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué los economistas piden precaución sobre la inflación?",
+          "options": [
+            "Porque subió mucho",
+            "Porque puede subir otra vez",
+            "Porque está muy baja",
+            "Porque es perfecta"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto vale el acuerdo entre Trump Media y TAE Technologies?",
+          "options": [
+            "3 mil millones",
+            "6 mil millones",
+            "9 mil millones",
+            "1 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Para qué van a usar la energía nuclear?",
+          "options": [
+            "Para coches eléctricos",
+            "Para casas",
+            "Para inteligencia artificial",
+            "Para hospitales"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Dónde está ubicada la empresa TAE Technologies?",
+          "options": [
+            "En Maine",
+            "En Washington",
+            "En California",
+            "En Nueva York"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-19T09:03:23.955262"
+    },
+    {
       "date": "2025-12-18",
       "filename": "spanish_lesson_2025-12-18.pdf",
       "path": "pdfs/spanish_lesson_2025-12-18.pdf",
@@ -2468,7 +2690,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-18T09:04:33.863165",
+  "last_updated": "2025-12-19T09:03:23.955275",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
