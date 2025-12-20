@@ -331,7 +331,7 @@ Keep it ~150-180 words total. 8-12 exchanges. End on a fun note."""
 
     try:
         response = client.chat.completions.create(
-            model="gpt-4o",
+            model="gpt-5.2",
             max_tokens=1000,
             messages=[{"role": "user", "content": prompt}]
         )
