@@ -279,7 +279,7 @@ def generate_tts_audio(stories: List[Dict], date_str: str) -> List[Dict]:
         try:
             # Generate TTS for the Spanish body text with Mexican accent
             response = client.audio.speech.create(
-                model="gpt-4o-mini-tts",
+                model="gpt-4o-mini-tts-2025-12-15",
                 voice="coral",
                 input=story["body_es"],
                 instructions="Speak with a natural Mexican Spanish accent. Use clear pronunciation at a moderate pace suitable for Spanish language learners. Warm and friendly tone."
@@ -428,7 +428,7 @@ def generate_podcast_audio(stories: List[Dict], date_str: str) -> List[Dict]:
 
             try:
                 response = client.audio.speech.create(
-                    model="gpt-4o-mini-tts",
+                    model="gpt-4o-mini-tts-2025-12-15",
                     voice=voice,
                     input=line["text"],
                     instructions=instruction
