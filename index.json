@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-21",
+      "filename": "spanish_lesson_2025-12-21.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-21.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso no logra acuerdo sanitario y los precios suben",
+          "headline_en": "Congress fails to reach health agreement and prices rise",
+          "body_es": "El Congreso de Estados Unidos terminó sus sesiones sin llegar a un acuerdo sobre el sistema de salud. Los representantes se fueron de vacaciones hasta 2026. Esta situación significa que los precios del seguro médico van a aumentar para muchas familias americanas. El gobierno no pudo renovar los programas que ayudan a pagar el seguro de salud. Sin estos programas, las personas tendrán que pagar más dinero cada mes. Los expertos dicen que esto afectará especialmente a las familias de clase media. Muchos ciudadanos están preocupados porque el costo de la medicina ya es muy alto en el país.",
+          "body_en": "The US Congress ended its sessions without reaching an agreement on the health system. Representatives went on vacation until 2026. This situation means that medical insurance prices will increase for many American families. The government could not renew programs that help pay for health insurance. Without these programs, people will have to pay more money each month. Experts say this will especially affect middle-class families. Many citizens are worried because the cost of medicine is already very high in the country.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "China facilita visas para turistas indios en gran mercado de viajes",
+          "headline_en": "China eases visas for Indian tourists in large travel market",
+          "body_es": "China cambió sus reglas de visa para facilitar los viajes desde India. El gobierno chino quiere participar en el mercado turístico que vale 21.6 mil millones de dólares. Antes era difícil para los ciudadanos indios obtener una visa china. Ahora el proceso será más rápido y simple. Esta decisión puede aumentar el número de turistas indios que visitan China cada año. Los dos países quieren mejorar sus relaciones económicas a través del turismo. China espera que más visitantes indios vengan a conocer sus ciudades y cultura. Esta medida también puede crear más trabajos en la industria turística china.",
+          "body_en": "China changed its visa rules to facilitate travel from India. The Chinese government wants to participate in the tourism market worth 21.6 billion dollars. Before, it was difficult for Indian citizens to obtain a Chinese visa. Now the process will be faster and simpler. This decision can increase the number of Indian tourists visiting China each year. Both countries want to improve their economic relations through tourism. China hopes more Indian visitors will come to see its cities and culture. This measure can also create more jobs in the Chinese tourism industry.",
+          "source": "South China Morning Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nueva York aprueba ley para regular la inteligencia artificial",
+          "headline_en": "New York approves law to regulate artificial intelligence",
+          "body_es": "El gobernador de Nueva York firmó una nueva ley llamada RAISE Act. Esta ley crea regulaciones para controlar la inteligencia artificial en el estado. El objetivo es proteger a las personas de los posibles peligros de esta tecnología. La ley establece reglas sobre cómo las empresas pueden usar la inteligencia artificial. También requiere que las compañías informen sobre sus sistemas de IA. Los expertos dicen que esta es una medida importante para la seguridad digital. Nueva York es el primer estado en crear leyes tan específicas sobre este tema. Otros estados están observando este ejemplo para crear sus propias regulaciones.",
+          "body_en": "New York's governor signed a new law called the RAISE Act. This law creates regulations to control artificial intelligence in the state. The goal is to protect people from possible dangers of this technology. The law establishes rules about how companies can use artificial intelligence. It also requires companies to report on their AI systems. Experts say this is an important measure for digital security. New York is the first state to create such specific laws on this topic. Other states are watching this example to create their own regulations.",
+          "source": "WebProNews"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El congreso no llegó a un acuerdo sobre el sistema de salud.",
+          "definition_es": "Institución donde los representantes hacen las leyes del país",
+          "definition_en": "Institution where representatives make the country's laws"
+        },
+        {
+          "word": "aumentar",
+          "syllables": "au-men-TAR",
+          "pos": "verbo",
+          "context": "Los precios del seguro médico van a aumentar el próximo año.",
+          "definition_es": "Hacer que algo sea más grande o más caro",
+          "definition_en": "To make something bigger or more expensive"
+        },
+        {
+          "word": "visa",
+          "syllables": "VI-sa",
+          "pos": "sustantivo",
+          "context": "China cambió las reglas para obtener una visa más fácilmente.",
+          "definition_es": "Documento que permite viajar a otro país",
+          "definition_en": "Document that allows travel to another country"
+        },
+        {
+          "word": "facilitar",
+          "syllables": "fa-ci-li-TAR",
+          "pos": "verbo",
+          "context": "Las nuevas reglas van a facilitar los viajes entre países.",
+          "definition_es": "Hacer que algo sea más fácil de hacer",
+          "definition_en": "To make something easier to do"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Nueva York creó leyes para controlar la inteligencia artificial.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "regulación",
+          "syllables": "re-gu-la-CIÓN",
+          "pos": "sustantivo",
+          "context": "El gobierno estableció nuevas regulaciones para la tecnología.",
+          "definition_es": "Reglas oficiales que controlan una actividad",
+          "definition_en": "Official rules that control an activity"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "China quiere participar en el mercado turístico de 21.6 mil millones de dólares.",
+          "definition_es": "Lugar o sistema donde se compran y venden cosas",
+          "definition_en": "Place or system where things are bought and sold"
+        },
+        {
+          "word": "seguridad",
+          "syllables": "se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "Las nuevas leyes buscan mejorar la seguridad de la tecnología.",
+          "definition_es": "Protección contra peligros o riesgos",
+          "definition_en": "Protection against dangers or risks"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'facilitar'?",
+          "options": [
+            "Hacer algo más difícil",
+            "Hacer algo más fácil",
+            "Hacer algo más caro",
+            "Hacer algo más grande"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una 'regulación' es:",
+          "options": [
+            "Un tipo de tecnología",
+            "Un país asiático",
+            "Una regla oficial",
+            "Un documento de viaje"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'visa'?",
+          "options": [
+            "Un tipo de seguro médico",
+            "Un documento para viajar",
+            "Una ley nueva",
+            "Un mercado económico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La 'inteligencia artificial' es:",
+          "options": [
+            "Una ciudad de China",
+            "Una ley del gobierno",
+            "Tecnología que piensa como humanos",
+            "Un tipo de visa"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Hasta cuándo estarán de vacaciones los representantes del Congreso?",
+          "options": [
+            "Hasta 2025",
+            "Hasta 2026",
+            "Hasta 2027",
+            "Hasta 2024"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto vale el mercado turístico que China quiere desarrollar?",
+          "options": [
+            "21.6 millones de dólares",
+            "21.6 mil millones de dólares",
+            "216 millones de dólares",
+            "2.16 mil millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama la nueva ley de inteligencia artificial en Nueva York?",
+          "options": [
+            "AI Act",
+            "SMART Act",
+            "RAISE Act",
+            "TECH Act"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué va a pasar con los precios del seguro médico en Estados Unidos?",
+          "options": [
+            "Van a disminuir",
+            "Van a aumentar",
+            "Van a mantenerse igual",
+            "Van a desaparecer"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué países están mencionados en la historia sobre turismo?",
+          "options": [
+            "Estados Unidos y México",
+            "China e India",
+            "Nueva York y California",
+            "China y Japón"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el objetivo principal de la ley RAISE Act?",
+          "options": [
+            "Aumentar el turismo",
+            "Reducir los precios médicos",
+            "Proteger de los peligros de la IA",
+            "Facilitar las visas"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-21T09:02:12.687387"
+    },
+    {
       "date": "2025-12-20",
       "filename": "spanish_lesson_2025-12-20.pdf",
       "path": "pdfs/spanish_lesson_2025-12-20.pdf",
@@ -2912,7 +3134,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-20T09:02:09.896882",
+  "last_updated": "2025-12-21T09:02:12.687398",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
