@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-22",
+      "filename": "spanish_lesson_2025-12-22.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-22.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Stefanik abandona su candidatura para gobernadora de Nueva York",
+          "headline_en": "Stefanik abandons her candidacy for governor of New York",
+          "body_es": "La congresista Elise Stefanik decidió abandonar su candidatura para gobernadora de Nueva York. Esta decisión llegó después de que el expresidente Trump se mantuviera neutral en la carrera electoral. Stefanik tenía preocupaciones sobre una competencia muy difícil en las elecciones primarias. Trump no quiso apoyar públicamente a ningún candidato para este puesto. Esto creó problemas para la campaña de Stefanik. La congresista prefirió concentrarse en su trabajo actual en el Congreso. Otros políticos republicanos ahora tienen más posibilidades de ganar la nominación. La decisión sorprendió a muchos en el Partido Republicano de Nueva York.",
+          "body_en": "Congresswoman Elise Stefanik decided to abandon her candidacy for governor of New York. This decision came after former President Trump remained neutral in the electoral race. Stefanik had concerns about a very difficult competition in the primary elections. Trump did not want to publicly support any candidate for this position. This created problems for Stefanik's campaign. The congresswoman preferred to focus on her current work in Congress. Other Republican politicians now have more chances to win the nomination. The decision surprised many in the New York Republican Party.",
+          "source": "CBS News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los mercados suben porque la Reserva Federal puede reducir las tasas",
+          "headline_en": "Markets rise because the Federal Reserve may cut rates",
+          "body_es": "Los mercados financieros de Estados Unidos muestran números positivos esta semana. Los inversionistas esperan que la Reserva Federal reduzca las tasas de interés pronto. Esta expectativa está ayudando a las acciones a subir de precio. Cuando las tasas bajan, es más fácil para las empresas pedir dinero prestado. También es más barato para las personas comprar casas y autos. Los economistas piensan que esto puede ayudar a la economía a crecer más rápido. Las empresas tecnológicas y bancarias están mostrando los mejores resultados. Sin embargo, algunos expertos advierten que los cambios pueden tomar tiempo. Los inversionistas están observando cuidadosamente las próximas decisiones económicas.",
+          "body_en": "US financial markets are showing positive numbers this week. Investors expect the Federal Reserve to cut interest rates soon. This expectation is helping stocks rise in price. When rates go down, it's easier for companies to borrow money. It's also cheaper for people to buy houses and cars. Economists think this can help the economy grow faster. Technology and banking companies are showing the best results. However, some experts warn that changes may take time. Investors are carefully watching the next economic decisions.",
+          "source": "IOL"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La FTC investiga empresas que ofrecen chatbots de IA a niños",
+          "headline_en": "The FTC investigates companies that offer AI chatbots to children",
+          "body_es": "La Comisión Federal de Comercio (FTC) inició una investigación sobre empresas tecnológicas. Estas empresas están ofreciendo chatbots de inteligencia artificial especialmente para niños. La FTC quiere saber si estos programas son seguros para los menores. Los chatbots pueden conversar con los niños sobre diferentes temas. Sin embargo, existen preocupaciones sobre la privacidad y seguridad. Algunos padres piensan que estos programas pueden influir negativamente en sus hijos. La investigación examinará cómo las empresas protegen la información personal de los niños. También estudiará si los chatbots pueden causar problemas psicológicos. Las empresas tecnológicas deberán responder preguntas detalladas sobre sus servicios. Esta investigación puede resultar en nuevas regulaciones para proteger a los menores.",
+          "body_en": "The Federal Trade Commission (FTC) started an investigation into technology companies. These companies are offering artificial intelligence chatbots especially for children. The FTC wants to know if these programs are safe for minors. The chatbots can talk with children about different topics. However, there are concerns about privacy and safety. Some parents think these programs can negatively influence their children. The investigation will examine how companies protect children's personal information. It will also study if chatbots can cause psychological problems. Technology companies will have to answer detailed questions about their services. This investigation may result in new regulations to protect minors.",
+          "source": "Mashable"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "candidatura",
+          "syllables": "can-di-da-TU-ra",
+          "pos": "sustantivo",
+          "context": "Stefanik abandona su candidatura para gobernadora de Nueva York.",
+          "definition_es": "Propuesta de una persona para un cargo político",
+          "definition_en": "Candidacy for a political position"
+        },
+        {
+          "word": "neutral",
+          "syllables": "neu-TRAL",
+          "pos": "adjetivo",
+          "context": "Trump decidió mantenerse neutral en la elección.",
+          "definition_es": "Que no toma partido en un conflicto",
+          "definition_en": "Not taking sides in a conflict"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros muestran números positivos.",
+          "definition_es": "Lugares donde se compran y venden productos o acciones",
+          "definition_en": "Markets where products or stocks are bought and sold"
+        },
+        {
+          "word": "reducir",
+          "syllables": "re-du-CIR",
+          "pos": "verbo",
+          "context": "La Reserva Federal planea reducir las tasas de interés.",
+          "definition_es": "Hacer algo más pequeño o menor",
+          "definition_en": "To make something smaller or lower"
+        },
+        {
+          "word": "investigación",
+          "syllables": "in-ves-ti-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "La FTC inició una investigación sobre chatbots de inteligencia artificial.",
+          "definition_es": "Estudio detallado de un tema o problema",
+          "definition_en": "Detailed study of a topic or problem"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas ofrecen chatbots a los niños.",
+          "definition_es": "Organizaciones que producen bienes o servicios",
+          "definition_en": "Organizations that produce goods or services"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Los chatbots usan inteligencia artificial para conversar.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "abandonar",
+          "syllables": "a-ban-do-NAR",
+          "pos": "verbo",
+          "context": "Stefanik decidió abandonar la carrera política.",
+          "definition_es": "Dejar algo que se había comenzado",
+          "definition_en": "To leave something that had been started"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'candidatura'?",
+          "options": [
+            "Propuesta para un cargo político",
+            "Tipo de elección",
+            "Partido político",
+            "Campaña publicitaria"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'reducir'?",
+          "options": [
+            "Aumentar algo",
+            "Hacer algo más pequeño",
+            "Mantener igual",
+            "Cambiar completamente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'empresas'?",
+          "options": [
+            "Grupos de personas",
+            "Organizaciones que producen bienes",
+            "Lugares de trabajo",
+            "Instituciones educativas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'abandonar'?",
+          "options": [
+            "Comenzar algo nuevo",
+            "Continuar con un proyecto",
+            "Dejar algo que se había empezado",
+            "Mejorar una situación"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué Stefanik abandonó su candidatura?",
+          "options": [
+            "Trump la apoyó públicamente",
+            "Trump se mantuvo neutral",
+            "Ganó las elecciones",
+            "Cambió de partido político"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué esperan los inversionistas de la Reserva Federal?",
+          "options": [
+            "Que suba las tasas",
+            "Que reduzca las tasas",
+            "Que cierre los mercados",
+            "Que cambie las reglas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué investiga la FTC?",
+          "options": [
+            "Videojuegos para adultos",
+            "Chatbots de IA para niños",
+            "Redes sociales",
+            "Computadoras escolares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué puede pasar cuando bajan las tasas de interés?",
+          "options": [
+            "Es más difícil pedir dinero",
+            "Es más fácil para empresas pedir dinero",
+            "Los bancos cierran",
+            "Suben los precios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la principal preocupación sobre los chatbots para niños?",
+          "options": [
+            "Son muy caros",
+            "La privacidad y seguridad",
+            "No funcionan bien",
+            "Son muy lentos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores muestran mejores resultados en los mercados?",
+          "options": [
+            "Agricultura y pesca",
+            "Tecnología y banca",
+            "Turismo y hoteles",
+            "Construcción y minería"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-22T09:03:56.003816"
+    },
+    {
       "date": "2025-12-21",
       "filename": "spanish_lesson_2025-12-21.pdf",
       "path": "pdfs/spanish_lesson_2025-12-21.pdf",
@@ -3134,7 +3356,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-21T09:02:12.687398",
+  "last_updated": "2025-12-22T09:03:56.003828",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
