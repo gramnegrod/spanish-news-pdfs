@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-23",
+      "filename": "spanish_lesson_2025-12-23.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-23.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos tiene seis semanas para evitar el cierre del gobierno",
+          "headline_en": "United States has six weeks to avoid government shutdown",
+          "body_es": "El gobierno estadounidense enfrenta una crisis importante. Los políticos tienen solo seis semanas para encontrar una solución. Si no llegan a un acuerdo, el gobierno cerrará sus servicios. Esto significa que muchos empleados públicos no trabajarán. Los parques nacionales cerrarán. Los servicios gubernamentales se detendrán. El problema es el presupuesto nacional. Los demócratas y republicanos no están de acuerdo sobre el dinero. Necesitan votar por un nuevo presupuesto antes del plazo final. Si no lo hacen, millones de personas se verán afectadas. Esta situación ocurre frecuentemente en Estados Unidos cuando los partidos políticos no pueden cooperar.",
+          "body_en": "The US government faces an important crisis. Politicians have only six weeks to find a solution. If they don't reach an agreement, the government will shut down its services. This means many public employees won't work. National parks will close. Government services will stop. The problem is the national budget. Democrats and Republicans don't agree about the money. They need to vote for a new budget before the final deadline. If they don't, millions of people will be affected. This situation happens frequently in the United States when political parties cannot cooperate.",
+          "source": "Politico"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía sobrevivió 2025, pero muchos estadounidenses se tambalean",
+          "headline_en": "The economy survived 2025, but many Americans are reeling",
+          "body_es": "El año 2025 terminó y la economía de Estados Unidos no colapsó. Sin embargo, muchas familias estadounidenses tienen problemas financieros graves. Los precios de la comida y la vivienda siguen siendo muy altos. Los salarios no aumentaron lo suficiente para cubrir estos costos. Muchas personas trabajan dos empleos para pagar sus gastos. Las familias de clase media especialmente sufren esta situación económica. Aunque las estadísticas del gobierno muestran que la economía está bien, la realidad de las personas es diferente. Los expertos dicen que la recuperación económica es lenta e irregular. Algunas regiones del país están mejor que otras. La inflación sigue siendo un problema serio para millones de ciudadanos.",
+          "body_en": "The year 2025 ended and the US economy didn't collapse. However, many American families have serious financial problems. Food and housing prices remain very high. Wages didn't increase enough to cover these costs. Many people work two jobs to pay their expenses. Middle-class families especially suffer from this economic situation. Although government statistics show the economy is doing well, people's reality is different. Experts say economic recovery is slow and uneven. Some regions of the country are doing better than others. Inflation continues to be a serious problem for millions of citizens.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La inteligencia artificial impulsa los despidos tecnológicos en 2025",
+          "headline_en": "Artificial intelligence drives tech layoffs in 2025",
+          "body_es": "El sector tecnológico experimentó muchos despidos durante 2025. La inteligencia artificial fue la causa principal de esta situación. Las empresas tecnológicas utilizan cada vez más robots y programas inteligentes. Estos sistemas pueden hacer el trabajo que antes hacían las personas. Como resultado, muchos empleados perdieron sus trabajos. Las compañías dicen que necesitan reducir costos y ser más eficientes. Los trabajadores de programación, diseño y atención al cliente fueron los más afectados. Algunas empresas famosas despidieron a miles de empleados. Los expertos creen que esta tendencia continuará en los próximos años. Sin embargo, también se crearán nuevos tipos de trabajo relacionados con la inteligencia artificial.",
+          "body_en": "The tech sector experienced many layoffs during 2025. Artificial intelligence was the main cause of this situation. Tech companies increasingly use robots and smart programs. These systems can do work that people used to do. As a result, many employees lost their jobs. Companies say they need to reduce costs and be more efficient. Programming, design, and customer service workers were most affected. Some famous companies laid off thousands of employees. Experts believe this trend will continue in coming years. However, new types of AI-related jobs will also be created.",
+          "source": "The Indian Express"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El gobierno tiene seis semanas para evitar el cierre.",
+          "definition_es": "Acción de cerrar o suspender temporalmente las actividades",
+          "definition_en": "Shutdown, closure"
+        },
+        {
+          "word": "evitar",
+          "syllables": "e-vi-TAR",
+          "pos": "verbo",
+          "context": "Los políticos deben evitar una crisis económica.",
+          "definition_es": "Impedir que algo suceda",
+          "definition_en": "To avoid, to prevent"
+        },
+        {
+          "word": "supervivencia",
+          "syllables": "su-per-vi-VEN-cia",
+          "pos": "sustantivo",
+          "context": "La supervivencia económica es difícil para muchas familias.",
+          "definition_es": "Acción de mantenerse vivo o continuar existiendo",
+          "definition_en": "Survival"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Los despidos en tecnología aumentaron en 2025.",
+          "definition_es": "Acción de terminar el trabajo de un empleado",
+          "definition_en": "Layoffs, dismissals"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando el trabajo.",
+          "definition_es": "Tecnología que simula la inteligencia humana",
+          "definition_en": "Artificial intelligence"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El Congreso debe aprobar el presupuesto nacional.",
+          "definition_es": "Plan de gastos e ingresos del gobierno",
+          "definition_en": "Budget"
+        },
+        {
+          "word": "tambalearse",
+          "syllables": "tam-ba-le-AR-se",
+          "pos": "verbo",
+          "context": "Muchos estadounidenses se tambalean económicamente.",
+          "definition_es": "Estar inestable, moverse sin equilibrio",
+          "definition_en": "To reel, to stagger"
+        },
+        {
+          "word": "impulsar",
+          "syllables": "im-pul-SAR",
+          "pos": "verbo",
+          "context": "La tecnología impulsa los cambios laborales.",
+          "definition_es": "Dar fuerza o movimiento a algo",
+          "definition_en": "To drive, to boost"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'despidos'?",
+          "options": [
+            "Contrataciones nuevas",
+            "Terminar el empleo de trabajadores",
+            "Aumento de salario",
+            "Vacaciones pagadas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'evitar'?",
+          "options": [
+            "Permitir",
+            "Impedir",
+            "Acelerar",
+            "Ignorar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'presupuesto'?",
+          "options": [
+            "Un tipo de comida",
+            "Un plan de gastos e ingresos",
+            "Una máquina",
+            "Una celebración"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Si alguien se 'tambalea', está:",
+          "options": [
+            "Muy feliz",
+            "Bailando",
+            "Inestable",
+            "Corriendo rápido"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto tiempo tiene el gobierno estadounidense para evitar el cierre?",
+          "options": [
+            "Cuatro semanas",
+            "Seis semanas",
+            "Dos meses",
+            "Un año"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según el texto económico, ¿qué tipo de familias sufren especialmente?",
+          "options": [
+            "Familias ricas",
+            "Familias de clase media",
+            "Solo familias pobres",
+            "Familias de políticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué problema principal menciona el texto sobre la economía en 2025?",
+          "options": [
+            "Falta de empleos",
+            "Precios altos de comida y vivienda",
+            "Demasiado dinero",
+            "Pocos bancos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué causa principal tienen los despidos tecnológicos?",
+          "options": [
+            "Falta de dinero",
+            "La inteligencia artificial",
+            "Demasiados empleados",
+            "Problemas políticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué trabajadores fueron más afectados por los despidos tecnológicos?",
+          "options": [
+            "Doctores y enfermeros",
+            "Programadores y diseñadores",
+            "Profesores",
+            "Cocineros"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Si el gobierno estadounidense no llega a un acuerdo, ¿qué pasará?",
+          "options": [
+            "Habrá elecciones nuevas",
+            "Los parques nacionales cerrarán",
+            "Todos tendrán más dinero",
+            "Nada importante"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-23T09:04:05.245505"
+    },
+    {
       "date": "2025-12-22",
       "filename": "spanish_lesson_2025-12-22.pdf",
       "path": "pdfs/spanish_lesson_2025-12-22.pdf",
@@ -3356,7 +3578,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-22T09:03:56.003828",
+  "last_updated": "2025-12-23T09:04:05.245515",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
