@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-24",
+      "filename": "spanish_lesson_2025-12-24.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-24.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Ex-republicano se convierte en candidato demócrata",
+          "headline_en": "Ex-Republican becomes Democratic candidate",
+          "body_es": "George Conway es un abogado famoso que antes era republicano. Él siempre fue un crítico muy fuerte del expresidente Trump. Ahora Conway quiere cambiar de partido político. Él planea ser candidato demócrata para el Congreso de Estados Unidos. Conway trabajó en temas legales importantes durante muchos años. Su esposa también fue asesora de Trump en el pasado. Pero Conway nunca estuvo de acuerdo con las ideas de Trump. Ahora cree que el Partido Demócrata representa mejor sus valores. Conway piensa que puede ganar las elecciones. Él quiere ayudar a cambiar la política americana. Muchas personas están interesadas en su decisión política.",
+          "body_en": "George Conway is a famous lawyer who used to be Republican. He was always a very strong critic of former president Trump. Now Conway wants to change political parties. He plans to be a Democratic candidate for the US Congress. Conway worked on important legal issues for many years. His wife was also a Trump advisor in the past. But Conway never agreed with Trump's ideas. Now he believes the Democratic Party better represents his values. Conway thinks he can win the elections. He wants to help change American politics. Many people are interested in his political decision.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía de EE.UU. crece al ritmo más rápido en dos años",
+          "headline_en": "US economy grows at fastest pace in two years",
+          "body_es": "La economía estadounidense se expandió muy rápido el año pasado. Fue el crecimiento más rápido en dos años completos. Los americanos ricos fueron los principales gastadores durante este período. Ellos compraron muchos productos y servicios caros. Esto ayudó mucho al crecimiento económico del país. Las empresas vendieron más productos que antes. También crearon nuevos trabajos para muchas personas. Los expertos dicen que esta es una buena noticia. Sin embargo, no todos los americanos participaron igual en este crecimiento. Las personas con menos dinero no gastaron tanto como los ricos. Los economistas estudian si este crecimiento puede continuar en el futuro.",
+          "body_en": "The American economy expanded very quickly last year. It was the fastest growth in two full years. Rich Americans were the main spenders during this period. They bought many expensive products and services. This helped a lot with the country's economic growth. Companies sold more products than before. They also created new jobs for many people. Experts say this is good news. However, not all Americans participated equally in this growth. People with less money didn't spend as much as the rich. Economists are studying if this growth can continue in the future.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Google compra empresa de energía por 4.75 mil millones de dólares",
+          "headline_en": "Google buys energy company for 4.75 billion dollars",
+          "body_es": "Google adquirió una empresa llamada Intersect por una cantidad enorme de dinero. La compra costó 4.75 mil millones de dólares americanos. Intersect es una empresa que trabaja en infraestructura de energía. Ellos construyen sistemas para producir y distribuir electricidad. Google necesita mucha energía para sus centros de datos. Estos centros procesan información de internet las 24 horas del día. La compra ayudará a Google a tener energía más limpia y barata. También les dará más control sobre sus costos de electricidad. Esta es una de las compras más grandes que Google ha hecho. Muestra que las empresas tecnológicas están muy interesadas en el sector energético moderno.",
+          "body_en": "Google acquired a company called Intersect for a huge amount of money. The purchase cost 4.75 billion American dollars. Intersect is a company that works on energy infrastructure. They build systems to produce and distribute electricity. Google needs a lot of energy for its data centers. These centers process internet information 24 hours a day. The purchase will help Google have cleaner and cheaper energy. It will also give them more control over their electricity costs. This is one of the biggest purchases Google has made. It shows that technology companies are very interested in the modern energy sector.",
+          "source": "조선일보"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "crítico",
+          "syllables": "CRÍ-ti-co",
+          "pos": "sustantivo/adjetivo",
+          "context": "George Conway es un crítico de Trump.",
+          "definition_es": "Persona que expresa opiniones negativas sobre algo o alguien",
+          "definition_en": "Person who expresses negative opinions about something or someone"
+        },
+        {
+          "word": "candidato",
+          "syllables": "can-di-DA-to",
+          "pos": "sustantivo",
+          "context": "Conway quiere ser candidato demócrata.",
+          "definition_es": "Persona que se presenta para un puesto político",
+          "definition_en": "Person who runs for a political position"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense creció rápidamente.",
+          "definition_es": "Sistema de producción y comercio de un país",
+          "definition_en": "System of production and trade of a country"
+        },
+        {
+          "word": "expandir",
+          "syllables": "ex-pan-DIR",
+          "pos": "verbo",
+          "context": "La economía se expandió el año pasado.",
+          "definition_es": "Crecer o aumentar de tamaño",
+          "definition_en": "To grow or increase in size"
+        },
+        {
+          "word": "adquirir",
+          "syllables": "ad-qui-RIR",
+          "pos": "verbo",
+          "context": "Google adquirió una nueva empresa.",
+          "definition_es": "Comprar u obtener algo",
+          "definition_en": "To buy or obtain something"
+        },
+        {
+          "word": "infraestructura",
+          "syllables": "in-fra-es-truc-TU-ra",
+          "pos": "sustantivo",
+          "context": "La empresa trabaja en infraestructura energética.",
+          "definition_es": "Sistemas básicos de servicios públicos",
+          "definition_en": "Basic systems of public services"
+        },
+        {
+          "word": "gastadores",
+          "syllables": "gas-ta-DO-res",
+          "pos": "sustantivo",
+          "context": "Los gastadores ricos ayudaron a la economía.",
+          "definition_es": "Personas que compran muchas cosas",
+          "definition_en": "People who spend a lot of money"
+        },
+        {
+          "word": "ritmo",
+          "syllables": "RIT-mo",
+          "pos": "sustantivo",
+          "context": "El crecimiento fue al ritmo más rápido.",
+          "definition_es": "Velocidad con la que sucede algo",
+          "definition_en": "Speed at which something happens"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'crítico' en el contexto político?",
+          "options": [
+            "Persona que apoya todo",
+            "Persona que expresa opiniones negativas",
+            "Persona que no habla",
+            "Persona que escribe libros"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'candidato' es una persona que:",
+          "options": [
+            "Trabaja en un hospital",
+            "Se presenta para un puesto político",
+            "Vende productos",
+            "Estudia en la universidad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Cuando la economía se 'expande', significa que:",
+          "options": [
+            "Se reduce",
+            "Crece o aumenta",
+            "Desaparece",
+            "Se mantiene igual"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Adquirir' una empresa significa:",
+          "options": [
+            "Venderla",
+            "Cerrarla",
+            "Comprarla u obtenerla",
+            "Cambiarle el nombre"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿De qué partido político era George Conway antes?",
+          "options": [
+            "Demócrata",
+            "Republicano",
+            "Independiente",
+            "Socialista"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Durante cuánto tiempo fue el crecimiento económico el más rápido?",
+          "options": [
+            "Un año",
+            "Dos años",
+            "Tres años",
+            "Cinco años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Quiénes fueron los principales gastadores en la economía estadounidense?",
+          "options": [
+            "Los jóvenes",
+            "Los ancianos",
+            "Los americanos ricos",
+            "Los estudiantes"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero pagó Google por Intersect?",
+          "options": [
+            "3.75 mil millones",
+            "4.75 mil millones",
+            "5.75 mil millones",
+            "6.75 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿En qué tipo de infraestructura trabaja la empresa Intersect?",
+          "options": [
+            "Transporte",
+            "Comunicaciones",
+            "Energía",
+            "Agua"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué George Conway quiere cambiar de partido político?",
+          "options": [
+            "Por dinero",
+            "Porque el Partido Demócrata representa mejor sus valores",
+            "Por su familia",
+            "Por trabajo"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-24T09:04:31.738845"
+    },
+    {
       "date": "2025-12-23",
       "filename": "spanish_lesson_2025-12-23.pdf",
       "path": "pdfs/spanish_lesson_2025-12-23.pdf",
@@ -3578,7 +3800,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-23T09:04:05.245515",
+  "last_updated": "2025-12-24T09:04:31.738859",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
