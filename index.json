@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-25",
+      "filename": "spanish_lesson_2025-12-25.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-25.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso quiere más control sobre las decisiones de guerra",
+          "headline_en": "Congress wants more control over war decisions",
+          "body_es": "El Congreso de Estados Unidos está trabajando para recuperar el control sobre las decisiones de guerra. Los legisladores quieren cambiar las leyes que permiten al presidente usar la fuerza militar sin permiso del Congreso. Estas leyes se llaman AUMF y existen desde hace muchos años. Muchos políticos piensan que el presidente tiene demasiado poder militar. Quieren que el Congreso vote antes de enviar soldados a otros países. Este cambio podría afectar las futuras operaciones militares americanas. Los debates continúan en Washington sobre este tema importante. La Constitución dice que el Congreso debe decidir sobre la guerra, no solo el presidente.",
+          "body_en": "The US Congress is working to regain control over war decisions. Legislators want to change laws that allow the president to use military force without Congress's permission. These laws are called AUMF and have existed for many years. Many politicians think the president has too much military power. They want Congress to vote before sending soldiers to other countries. This change could affect future American military operations. Debates continue in Washington about this important topic. The Constitution says Congress should decide about war, not just the president.",
+          "source": "Hanford Sentinel"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía crece pero los americanos no están contentos",
+          "headline_en": "The economy grows but Americans are not happy",
+          "body_es": "La economía de Estados Unidos está creciendo muy rápido, pero muchos ciudadanos no están satisfechos. Los números económicos muestran que el país va bien. Hay más trabajos y las empresas ganan dinero. Sin embargo, los precios de la comida y la vivienda son muy altos. Muchas familias tienen dificultades para pagar sus gastos básicos. Los salarios no suben tan rápido como los precios. Por eso, aunque la economía crece, la gente se siente más pobre. Los economistas estudian esta situación extraña. Es difícil entender por qué los ciudadanos no se sienten mejor cuando los números económicos son buenos.",
+          "body_en": "The US economy is growing very fast, but many citizens are not satisfied. Economic numbers show the country is doing well. There are more jobs and companies are making money. However, food and housing prices are very high. Many families have difficulty paying their basic expenses. Wages don't rise as fast as prices. Therefore, although the economy grows, people feel poorer. Economists study this strange situation. It's difficult to understand why citizens don't feel better when economic numbers are good.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nvidia hace un acuerdo con Groq para chips de inteligencia artificial",
+          "headline_en": "Nvidia makes a deal with Groq for artificial intelligence chips",
+          "body_es": "La empresa Nvidia firmó un acuerdo importante con Groq, una compañía nueva que hace chips para inteligencia artificial. Groq es pequeña pero muy innovadora. Sus chips pueden procesar información muy rápidamente. Nvidia es la empresa más grande del mundo en chips para inteligencia artificial. Este acuerdo ayudará a Groq a crecer y competir mejor. Los chips de inteligencia artificial son muy importantes ahora. Muchas empresas los necesitan para sus programas de computadora. El mercado de estos chips vale miles de millones de dólares. Esta colaboración puede cambiar el futuro de la tecnología. Las dos empresas trabajarán juntas para desarrollar mejores productos.",
+          "body_en": "The company Nvidia signed an important deal with Groq, a new company that makes chips for artificial intelligence. Groq is small but very innovative. Its chips can process information very quickly. Nvidia is the world's largest company in artificial intelligence chips. This agreement will help Groq grow and compete better. Artificial intelligence chips are very important now. Many companies need them for their computer programs. The market for these chips is worth billions of dollars. This collaboration can change the future of technology. The two companies will work together to develop better products.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso quiere recuperar el control sobre las decisiones de guerra.",
+          "definition_es": "Institución que hace las leyes en un país",
+          "definition_en": "Institution that makes laws in a country"
+        },
+        {
+          "word": "guerra",
+          "syllables": "GUE-rra",
+          "pos": "sustantivo",
+          "context": "Los políticos debaten sobre los poderes de guerra.",
+          "definition_es": "Conflicto armado entre países o grupos",
+          "definition_en": "Armed conflict between countries or groups"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía de Estados Unidos crece rápidamente.",
+          "definition_es": "Sistema de producción y consumo de un país",
+          "definition_en": "System of production and consumption of a country"
+        },
+        {
+          "word": "crecimiento",
+          "syllables": "cre-ci-MIEN-to",
+          "pos": "sustantivo",
+          "context": "A pesar del crecimiento económico, muchos ciudadanos no están contentos.",
+          "definition_es": "Aumento o desarrollo de algo",
+          "definition_en": "Increase or development of something"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Nvidia firmó un acuerdo importante con la empresa Groq.",
+          "definition_es": "Decisión tomada entre dos o más partes",
+          "definition_en": "Decision made between two or more parties"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Las empresas de tecnología desarrollan chips más avanzados.",
+          "definition_es": "Conocimiento aplicado para crear herramientas útiles",
+          "definition_en": "Applied knowledge to create useful tools"
+        },
+        {
+          "word": "artificial",
+          "syllables": "ar-ti-fi-CIAL",
+          "pos": "adjetivo",
+          "context": "La inteligencia artificial necesita chips especiales para funcionar.",
+          "definition_es": "Hecho por humanos, no natural",
+          "definition_en": "Made by humans, not natural"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Groq es una empresa nueva que fabrica chips.",
+          "definition_es": "Organización que produce bienes o servicios",
+          "definition_en": "Organization that produces goods or services"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'acuerdo'?",
+          "options": [
+            "Decisión tomada entre dos o más partes",
+            "Conflicto entre países",
+            "Aumento de algo",
+            "Sistema económico"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'empresa'?",
+          "options": [
+            "Guerra",
+            "Compañía",
+            "Crecimiento",
+            "Congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "La palabra 'artificial' significa:",
+          "options": [
+            "Natural",
+            "Hecho por humanos",
+            "Muy caro",
+            "Muy rápido"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué institución hace las leyes en un país?",
+          "options": [
+            "La guerra",
+            "El crecimiento",
+            "El congreso",
+            "La tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto sobre política, ¿qué quiere cambiar el Congreso?",
+          "options": [
+            "Los impuestos",
+            "Las leyes sobre decisiones de guerra",
+            "La constitución completa",
+            "Los salarios de los soldados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué los americanos no están contentos con la economía?",
+          "options": [
+            "No hay trabajos",
+            "Los precios son muy altos",
+            "Las empresas no ganan dinero",
+            "La economía no crece"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de empresa es Groq?",
+          "options": [
+            "Una empresa de comida",
+            "Una empresa militar",
+            "Una empresa de chips de inteligencia artificial",
+            "Una empresa de vivienda"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué dice la Constitución sobre las decisiones de guerra?",
+          "options": [
+            "Solo el presidente puede decidir",
+            "Solo los militares pueden decidir",
+            "El Congreso debe decidir",
+            "Los ciudadanos deben votar"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el problema principal con el crecimiento económico actual?",
+          "options": [
+            "Los salarios suben muy rápido",
+            "No hay suficientes empresas",
+            "Los precios suben más rápido que los salarios",
+            "Hay demasiados trabajos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la empresa más grande en chips de inteligencia artificial?",
+          "options": [
+            "Groq",
+            "Nvidia",
+            "CNN",
+            "Microsoft"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-25T09:02:48.956215"
+    },
+    {
       "date": "2025-12-24",
       "filename": "spanish_lesson_2025-12-24.pdf",
       "path": "pdfs/spanish_lesson_2025-12-24.pdf",
@@ -3800,7 +4022,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-24T09:04:31.738859",
+  "last_updated": "2025-12-25T09:02:48.956225",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
