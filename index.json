@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-26",
+      "filename": "spanish_lesson_2025-12-26.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-26.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Políticos republicanos dejan el Congreso por ambiente tóxico",
+          "headline_en": "Republican politicians leave Congress due to toxic environment",
+          "body_es": "Muchos políticos republicanos están dejando la Cámara de Representantes. Quieren ser gobernadores en sus estados. Esta situación no ocurría desde hace muchas décadas. Los políticos dicen que están frustrados. El ambiente en Washington es muy tóxico para trabajar. Prefieren trabajar en sus estados como gobernadores. La Cámara de Representantes es parte del Congreso de Estados Unidos. Allí los políticos hacen las leyes del país. Pero ahora muchos republicanos no quieren quedarse. Buscan otros trabajos políticos. Esperan encontrar un ambiente mejor en sus estados. Esta tendencia preocupa a los líderes del partido republicano.",
+          "body_en": "Many Republican politicians are leaving the House of Representatives. They want to be governors in their states. This situation hasn't happened for many decades. The politicians say they are frustrated. The environment in Washington is very toxic to work in. They prefer to work in their states as governors. The House of Representatives is part of the US Congress. There politicians make the country's laws. But now many Republicans don't want to stay. They seek other political jobs. They hope to find a better environment in their states. This trend worries Republican party leaders.",
+          "source": "KESQ"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Empresas grandes contratan más mientras pequeñas reducen empleos",
+          "headline_en": "Large companies hire more while small ones reduce jobs",
+          "body_es": "Las empresas grandes de Estados Unidos están contratando más empleados. Al mismo tiempo, las empresas pequeñas están reduciendo empleos. Esta situación muestra una diferencia importante en la economía. Las compañías grandes tienen más dinero para contratar personas. Pueden pagar buenos salarios y beneficios. Las empresas pequeñas tienen menos recursos económicos. No pueden competir con las empresas grandes. Muchas empresas pequeñas están despidiendo trabajadores. Esta tendencia afecta a millones de americanos. Los expertos están preocupados por esta situación. Las empresas pequeñas son importantes para la economía. Crean muchos empleos en las comunidades locales. El gobierno está estudiando este problema.",
+          "body_en": "Large companies in the United States are hiring more employees. At the same time, small companies are reducing jobs. This situation shows an important difference in the economy. Large companies have more money to hire people. They can pay good salaries and benefits. Small companies have fewer economic resources. They cannot compete with large companies. Many small companies are firing workers. This trend affects millions of Americans. Experts are worried about this situation. Small companies are important for the economy. They create many jobs in local communities. The government is studying this problem.",
+          "source": "CHOSUNBIZ"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nvidia firma acuerdo de 20 mil millones con Groq para inteligencia artificial",
+          "headline_en": "Nvidia signs 20 billion agreement with Groq for artificial intelligence",
+          "body_es": "La compañía Nvidia firmó un acuerdo muy importante con Groq. El contrato vale 20 mil millones de dólares. Es para desarrollar tecnología de inteligencia artificial. Nvidia es famosa por hacer chips para computadoras. Groq es una empresa especializada en inteligencia artificial. Juntas van a crear nuevas tecnologías. La inteligencia artificial está creciendo muy rápido. Muchas empresas quieren usar esta tecnología. Puede ayudar en medicina, educación y negocios. Este acuerdo es uno de los más grandes en la historia de la tecnología. Los expertos dicen que va a cambiar la industria. Las dos empresas van a trabajar juntas por muchos años.",
+          "body_en": "The company Nvidia signed a very important agreement with Groq. The contract is worth 20 billion dollars. It's for developing artificial intelligence technology. Nvidia is famous for making computer chips. Groq is a company specialized in artificial intelligence. Together they will create new technologies. Artificial intelligence is growing very fast. Many companies want to use this technology. It can help in medicine, education and business. This agreement is one of the largest in technology history. Experts say it will change the industry. The two companies will work together for many years.",
+          "source": "tickernews.co"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "Más republicanos están dejando el Congreso para ser gobernadores.",
+          "definition_es": "Institución donde los políticos hacen las leyes",
+          "definition_en": "Institution where politicians make laws"
+        },
+        {
+          "word": "gobernador",
+          "syllables": "go-ber-na-DOR",
+          "pos": "sustantivo",
+          "context": "Quieren ser gobernadores de sus estados.",
+          "definition_es": "Persona que dirige un estado o región",
+          "definition_en": "Person who leads a state or region"
+        },
+        {
+          "word": "ambiente",
+          "syllables": "am-BIEN-te",
+          "pos": "sustantivo",
+          "context": "Están frustrados por el ambiente tóxico en Washington.",
+          "definition_es": "El clima o atmósfera de un lugar",
+          "definition_en": "The climate or atmosphere of a place"
+        },
+        {
+          "word": "contratar",
+          "syllables": "con-tra-TAR",
+          "pos": "verbo",
+          "context": "Las empresas grandes contratan más empleados.",
+          "definition_es": "Dar trabajo a una persona",
+          "definition_en": "To give work to a person"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las empresas pequeñas reducen empleos.",
+          "definition_es": "Organizaciones que hacen negocios",
+          "definition_en": "Organizations that do business"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Nvidia firmó un acuerdo de 20 mil millones de dólares.",
+          "definition_es": "Contrato o convenio entre dos partes",
+          "definition_en": "Contract or agreement between two parties"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Es un acuerdo para tecnología de inteligencia artificial.",
+          "definition_es": "Conocimiento científico aplicado a la industria",
+          "definition_en": "Scientific knowledge applied to industry"
+        },
+        {
+          "word": "firmar",
+          "syllables": "fir-MAR",
+          "pos": "verbo",
+          "context": "Las dos compañías firmaron el contrato ayer.",
+          "definition_es": "Escribir el nombre en un documento oficial",
+          "definition_en": "To write one's name on an official document"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'congreso'?",
+          "options": [
+            "Una empresa de tecnología",
+            "Institución donde se hacen las leyes",
+            "Un tipo de computadora",
+            "Una ciudad importante"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'contratar'?",
+          "options": [
+            "Despedir a alguien",
+            "Firmar un documento",
+            "Dar trabajo a una persona",
+            "Comprar una empresa"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Un 'acuerdo' es:",
+          "options": [
+            "Un problema difícil",
+            "Un contrato entre dos partes",
+            "Una computadora nueva",
+            "Un político famoso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'gobernador'?",
+          "options": [
+            "Una empresa grande",
+            "Persona que dirige un estado",
+            "Un tipo de tecnología",
+            "Un edificio importante"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué los republicanos están dejando el Congreso?",
+          "options": [
+            "Quieren más dinero",
+            "El ambiente es tóxico",
+            "Las empresas los contratan",
+            "Nvidia los necesita"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de empresas están contratando más empleados?",
+          "options": [
+            "Las empresas pequeñas",
+            "Las empresas grandes",
+            "Las empresas de tecnología",
+            "Las empresas del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto vale el acuerdo entre Nvidia y Groq?",
+          "options": [
+            "10 mil millones",
+            "15 mil millones",
+            "20 mil millones",
+            "25 mil millones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué quieren ser los políticos republicanos?",
+          "options": [
+            "Empresarios",
+            "Gobernadores",
+            "Ingenieros",
+            "Profesores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Para qué es el acuerdo de Nvidia y Groq?",
+          "options": [
+            "Para hacer carros",
+            "Para inteligencia artificial",
+            "Para construir casas",
+            "Para medicina tradicional"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué problema tienen las empresas pequeñas?",
+          "options": [
+            "Tienen mucho dinero",
+            "No pueden competir con las grandes",
+            "Contratan muchas personas",
+            "Son muy famosas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-26T09:02:35.539940"
+    },
+    {
       "date": "2025-12-25",
       "filename": "spanish_lesson_2025-12-25.pdf",
       "path": "pdfs/spanish_lesson_2025-12-25.pdf",
@@ -4022,7 +4244,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-25T09:02:48.956225",
+  "last_updated": "2025-12-26T09:02:35.539952",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
