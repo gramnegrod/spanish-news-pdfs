@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-27",
+      "filename": "spanish_lesson_2025-12-27.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-27.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Riesgo de Cierre del Gobierno Estadounidense Aumenta al 38% por Problemas de Presupuesto",
+          "headline_en": "US Government Shutdown Risk Increases to 38% Due to Budget Problems",
+          "body_es": "El gobierno de Estados Unidos puede cerrar en enero. Los expertos dicen que hay un 38% de probabilidad de que esto pase. El problema es el presupuesto nacional. Los políticos no pueden ponerse de acuerdo sobre el dinero. Cuando el gobierno cierra, muchos trabajadores federales no pueden trabajar. Los servicios públicos también se detienen. Esta situación afecta a millones de estadounidenses. Los líderes políticos están negociando para encontrar una solución. Necesitan aprobar el presupuesto antes de enero. Si no lo hacen, el gobierno cerrará temporalmente. Los ciudadanos están preocupados por esta posibilidad. Es importante resolver este conflicto pronto para evitar problemas mayores.",
+          "body_en": "The US government may shut down in January. Experts say there's a 38% chance this will happen. The problem is the national budget. Politicians cannot agree on the money. When the government shuts down, many federal workers cannot work. Public services also stop. This situation affects millions of Americans. Political leaders are negotiating to find a solution. They need to approve the budget before January. If they don't, the government will temporarily close. Citizens are worried about this possibility. It's important to resolve this conflict soon to avoid bigger problems.",
+          "source": "Coinpedia Fintech News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La Economía de Estados Unidos Creció Más de lo Esperado en el Tercer Trimestre",
+          "headline_en": "The US Economy Grew More Than Expected in the Third Quarter",
+          "body_es": "La economía estadounidense tuvo un crecimiento sorprendente en el tercer trimestre del año. Los números fueron mucho mejores de lo que esperaban los expertos económicos. Este crecimiento significa que el país está en buena situación financiera. Las empresas están vendiendo más productos y servicios. También hay más empleos disponibles para los trabajadores. Los consumidores están gastando dinero en tiendas y restaurantes. Esto ayuda a que la economía siga creciendo. Los analistas están contentos con estos resultados positivos. Sin embargo, todavía hay algunos desafíos económicos por resolver. Es importante mantener este crecimiento en los próximos meses. La buena economía beneficia a todos los ciudadanos del país.",
+          "body_en": "The US economy had surprising growth in the third quarter of the year. The numbers were much better than economic experts expected. This growth means the country is in good financial shape. Companies are selling more products and services. There are also more jobs available for workers. Consumers are spending money in stores and restaurants. This helps the economy continue growing. Analysts are happy with these positive results. However, there are still some economic challenges to solve. It's important to maintain this growth in the coming months. The good economy benefits all citizens of the country.",
+          "source": "MSN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nvidia Comprará Tecnología de Groq y Contratará sus Ejecutivos",
+          "headline_en": "Nvidia Will Buy Groq Technology and Hire Its Executives",
+          "body_es": "Nvidia, una empresa importante de tecnología, firmó un acuerdo con Groq. Nvidia va a comprar la licencia de tecnología de Groq. También va a contratar algunos ejecutivos de esta empresa. Este tipo de acuerdos son muy comunes entre las grandes empresas tecnológicas. Nvidia quiere usar la tecnología de Groq para mejorar sus productos. Groq tiene tecnología muy avanzada para computadoras rápidas. Los ejecutivos de Groq van a trabajar ahora en Nvidia. Esto les dará nuevas oportunidades de carrera. El acuerdo es beneficioso para ambas empresas. Nvidia puede crecer más rápido con esta nueva tecnología. Este tipo de colaboración ayuda a la innovación tecnológica. Los expertos dicen que veremos más acuerdos similares en el futuro.",
+          "body_en": "Nvidia, an important technology company, signed an agreement with Groq. Nvidia will buy Groq's technology license. It will also hire some executives from this company. These types of agreements are very common among big tech companies. Nvidia wants to use Groq's technology to improve its products. Groq has very advanced technology for fast computers. Groq's executives will now work at Nvidia. This will give them new career opportunities. The agreement benefits both companies. Nvidia can grow faster with this new technology. This type of collaboration helps technological innovation. Experts say we will see more similar agreements in the future.",
+          "source": "Reuters"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El gobierno no puede aprobar el presupuesto nacional.",
+          "definition_es": "Plan de gastos y ingresos del gobierno",
+          "definition_en": "Budget - government spending and income plan"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno es posible en enero.",
+          "definition_es": "Acción de cerrar o parar las operaciones",
+          "definition_en": "Shutdown - stopping operations"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense creció mucho este año.",
+          "definition_es": "Sistema de producción y comercio de un país",
+          "definition_en": "Economy - country's production and trade system"
+        },
+        {
+          "word": "crecimiento",
+          "syllables": "cre-ci-MIEN-to",
+          "pos": "sustantivo",
+          "context": "El crecimiento económico superó las expectativas.",
+          "definition_es": "Aumento o desarrollo de algo",
+          "definition_en": "Growth - increase or development"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Nvidia comprará nueva tecnología de Groq.",
+          "definition_es": "Aplicación de conocimientos científicos",
+          "definition_en": "Technology - application of scientific knowledge"
+        },
+        {
+          "word": "contratar",
+          "syllables": "con-tra-TAR",
+          "pos": "verbo",
+          "context": "La empresa va a contratar nuevos ejecutivos.",
+          "definition_es": "Dar trabajo a una persona",
+          "definition_en": "To hire - to give work to someone"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Las empresas firmaron un acuerdo importante.",
+          "definition_es": "Decisión tomada entre varias partes",
+          "definition_en": "Agreement/Deal - decision made between parties"
+        },
+        {
+          "word": "ejecutivo",
+          "syllables": "e-je-cu-TI-vo",
+          "pos": "sustantivo",
+          "context": "Los ejecutivos de Groq trabajarán en Nvidia.",
+          "definition_es": "Persona que dirige una empresa",
+          "definition_en": "Executive - person who manages a company"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'presupuesto'?",
+          "options": [
+            "Plan de gastos del gobierno",
+            "Tipo de tecnología",
+            "Grupo de políticos",
+            "Oficina gubernamental"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'crecimiento'?",
+          "options": [
+            "Disminución",
+            "Aumento o desarrollo",
+            "Problema económico",
+            "Tipo de empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'contratar'?",
+          "options": [
+            "Despedir a alguien",
+            "Comprar tecnología",
+            "Dar trabajo a una persona",
+            "Cerrar una empresa"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un 'ejecutivo' es:",
+          "options": [
+            "Un tipo de computadora",
+            "Una persona que dirige una empresa",
+            "Un problema político",
+            "Un servicio público"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la probabilidad de cierre del gobierno estadounidense?",
+          "options": [
+            "28%",
+            "38%",
+            "48%",
+            "58%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿En qué trimestre creció la economía estadounidense?",
+          "options": [
+            "Primer trimestre",
+            "Segundo trimestre",
+            "Tercer trimestre",
+            "Cuarto trimestre"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa va a comprar tecnología de Groq?",
+          "options": [
+            "Microsoft",
+            "Google",
+            "Apple",
+            "Nvidia"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué problema causa el posible cierre del gobierno?",
+          "options": [
+            "Problemas de tecnología",
+            "Conflictos de presupuesto",
+            "Crisis económica",
+            "Falta de ejecutivos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cómo fue el crecimiento económico comparado con las expectativas?",
+          "options": [
+            "Peor de lo esperado",
+            "Igual a lo esperado",
+            "Mejor de lo esperado",
+            "No hubo crecimiento"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Además de comprar tecnología, ¿qué más hará Nvidia con Groq?",
+          "options": [
+            "Cerrar la empresa",
+            "Vender sus productos",
+            "Contratar ejecutivos",
+            "Cambiar su nombre"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-27T09:02:12.883306"
+    },
+    {
       "date": "2025-12-26",
       "filename": "spanish_lesson_2025-12-26.pdf",
       "path": "pdfs/spanish_lesson_2025-12-26.pdf",
@@ -4244,7 +4466,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-26T09:02:35.539952",
+  "last_updated": "2025-12-27T09:02:12.883319",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
