@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-28",
+      "filename": "spanish_lesson_2025-12-28.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-28.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump cumple sus promesas sobre inmigración y comercio",
+          "headline_en": "Trump fulfills his promises on immigration and trade",
+          "body_es": "Donald Trump está en su segundo período como presidente de Estados Unidos. Está cumpliendo muchas de sus promesas de campaña. Las nuevas políticas de inmigración son más estrictas que antes. El gobierno quiere controlar mejor quién entra al país. También está cambiando las reglas del comercio internacional. Los aranceles sobre productos extranjeros son más altos ahora. Esto significa que los productos importados cuestan más dinero. Trump dice que estas medidas van a ayudar a los trabajadores estadounidenses. Sin embargo, muchas personas no están de acuerdo con estos cambios. Los críticos dicen que estas políticas pueden crear problemas económicos. El debate sobre estas decisiones continúa en el Congreso y en todo el país.",
+          "body_en": "Donald Trump is in his second term as president of the United States. He is fulfilling many of his campaign promises. The new immigration policies are stricter than before. The government wants to better control who enters the country. He is also changing international trade rules. Tariffs on foreign products are higher now. This means that imported products cost more money. Trump says these measures will help American workers. However, many people disagree with these changes. Critics say these policies could create economic problems. The debate about these decisions continues in Congress and throughout the country.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Aumentan las bancarrotas de empresas por inflación y aranceles",
+          "headline_en": "Company bankruptcies increase due to inflation and tariffs",
+          "body_es": "El número de empresas en bancarrota está creciendo rápidamente en Estados Unidos. La inflación es uno de los problemas principales. Los precios de todo están subiendo mucho. Las empresas tienen que pagar más dinero por sus materiales y empleados. Los nuevos aranceles también están creando dificultades. Importar productos cuesta mucho más que antes. Las empresas pequeñas sufren más que las grandes compañías. No tienen suficiente dinero para sobrevivir estos cambios económicos. Muchos negocios familiares están cerrando después de muchos años. Los expertos económicos están preocupados por esta situación. Dicen que puede afectar el empleo en todo el país. El gobierno está buscando soluciones para ayudar a las empresas en crisis.",
+          "body_en": "The number of companies in bankruptcy is growing rapidly in the United States. Inflation is one of the main problems. Prices for everything are rising a lot. Companies have to pay more money for their materials and employees. New tariffs are also creating difficulties. Importing products costs much more than before. Small companies suffer more than large companies. They don't have enough money to survive these economic changes. Many family businesses are closing after many years. Economic experts are worried about this situation. They say it could affect employment throughout the country. The government is looking for solutions to help companies in crisis.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas piden prestados $428 mil millones para inteligencia artificial",
+          "headline_en": "Tech companies borrow $428 billion for artificial intelligence",
+          "body_es": "Las empresas de tecnología están invirtiendo cantidades enormes de dinero en inteligencia artificial. Este año han vendido bonos por $428 mil millones de dólares. Esta cantidad es la más alta en la historia. Las compañías quieren desarrollar nuevos productos de inteligencia artificial antes que sus competidores. Creen que esta tecnología va a cambiar el mundo completamente. Sin embargo, estos proyectos tienen muchos riesgos financieros. No todas las inversiones van a tener éxito. Algunas empresas pueden perder mucho dinero si sus productos no funcionan bien. Los expertos dicen que es como una carrera muy costosa. Las empresas que lleguen primero van a ganar mucho dinero. Pero las que lleguen tarde pueden quebrar. Esta situación está creando mucha tensión en el sector tecnológico.",
+          "body_en": "Technology companies are investing enormous amounts of money in artificial intelligence. This year they have sold bonds worth $428 billion dollars. This amount is the highest in history. Companies want to develop new artificial intelligence products before their competitors. They believe this technology will completely change the world. However, these projects have many financial risks. Not all investments will be successful. Some companies could lose a lot of money if their products don't work well. Experts say it's like a very expensive race. Companies that arrive first will make a lot of money. But those that arrive late could go bankrupt. This situation is creating a lot of tension in the technology sector.",
+          "source": "WebProNews"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "promesas",
+          "syllables": "pro-ME-sas",
+          "pos": "sustantivo",
+          "context": "Trump está cumpliendo sus promesas de campaña sobre inmigración.",
+          "definition_es": "Compromisos que una persona hace para el futuro",
+          "definition_en": "Promises, commitments made for the future"
+        },
+        {
+          "word": "inmigración",
+          "syllables": "in-mi-gra-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las nuevas políticas de inmigración afectan a muchas familias.",
+          "definition_es": "Llegada de personas de otros países para vivir",
+          "definition_en": "Immigration, arrival of people from other countries"
+        },
+        {
+          "word": "bancarrota",
+          "syllables": "ban-ca-RRO-ta",
+          "pos": "sustantivo",
+          "context": "Muchas empresas están en bancarrota por la inflación.",
+          "definition_es": "Cuando una empresa no puede pagar sus deudas",
+          "definition_en": "Bankruptcy, when a company cannot pay its debts"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación hace que los productos cuesten más dinero.",
+          "definition_es": "Aumento general de los precios",
+          "definition_en": "Inflation, general increase in prices"
+        },
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Los aranceles nuevos afectan el comercio internacional.",
+          "definition_es": "Impuestos sobre productos importados",
+          "definition_en": "Tariffs, taxes on imported products"
+        },
+        {
+          "word": "tecnológicas",
+          "syllables": "tec-no-LÓ-gi-cas",
+          "pos": "adjetivo",
+          "context": "Las empresas tecnológicas invierten mucho dinero en inteligencia artificial.",
+          "definition_es": "Relacionado con la tecnología",
+          "definition_en": "Technological, related to technology"
+        },
+        {
+          "word": "bonos",
+          "syllables": "BO-nos",
+          "pos": "sustantivo",
+          "context": "Las compañías venden bonos para conseguir dinero rápido.",
+          "definition_es": "Documentos financieros para pedir dinero prestado",
+          "definition_en": "Bonds, financial documents to borrow money"
+        },
+        {
+          "word": "riesgos",
+          "syllables": "RIES-gos",
+          "pos": "sustantivo",
+          "context": "Invertir en nueva tecnología tiene muchos riesgos.",
+          "definition_es": "Posibilidades de que algo malo ocurra",
+          "definition_en": "Risks, possibilities that something bad might happen"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'promesas' en el contexto político?",
+          "options": [
+            "Mentiras que dicen los políticos",
+            "Compromisos para el futuro",
+            "Dinero para campañas",
+            "Votos de los ciudadanos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son los aranceles?",
+          "options": [
+            "Impuestos sobre productos importados",
+            "Salarios de trabajadores",
+            "Precios en supermercados",
+            "Bonos del gobierno"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Una empresa en bancarrota es una empresa que:",
+          "options": [
+            "Gana mucho dinero",
+            "No puede pagar sus deudas",
+            "Vende productos tecnológicos",
+            "Tiene muchos empleados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son los bonos en finanzas?",
+          "options": [
+            "Regalos para empleados",
+            "Documentos para pedir dinero prestado",
+            "Productos tecnológicos",
+            "Políticas de inmigración"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué está haciendo Trump en su segundo período presidencial?",
+          "options": [
+            "Eliminando todos los aranceles",
+            "Cumpliendo promesas de campaña",
+            "Cerrando todas las fronteras",
+            "Vendiendo bonos tecnológicos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué están aumentando las bancarrotas de empresas?",
+          "options": [
+            "Solo por la inflación",
+            "Por inflación y aranceles",
+            "Solo por los aranceles",
+            "Por falta de trabajadores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de empresas sufren más con la crisis económica?",
+          "options": [
+            "Las empresas grandes",
+            "Las empresas pequeñas",
+            "Las empresas tecnológicas",
+            "Las empresas extranjeras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero han pedido prestado las empresas tecnológicas para inteligencia artificial?",
+          "options": [
+            "$428 millones",
+            "$428 mil millones",
+            "$428 billones",
+            "$482 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué las inversiones en inteligencia artificial tienen riesgos?",
+          "options": [
+            "Porque son muy baratas",
+            "Porque no todas tendrán éxito",
+            "Porque son ilegales",
+            "Porque no hay competencia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cómo describen los expertos la situación de las empresas tecnológicas?",
+          "options": [
+            "Como una fiesta muy cara",
+            "Como una carrera muy costosa",
+            "Como un juego sin reglas",
+            "Como un problema sin solución"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-28T09:02:05.654220"
+    },
+    {
       "date": "2025-12-27",
       "filename": "spanish_lesson_2025-12-27.pdf",
       "path": "pdfs/spanish_lesson_2025-12-27.pdf",
@@ -4466,7 +4688,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-27T09:02:12.883319",
+  "last_updated": "2025-12-28T09:02:05.654234",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
