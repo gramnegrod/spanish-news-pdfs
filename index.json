@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-30",
+      "filename": "spanish_lesson_2025-12-30.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-30.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Familias pagarán más por seguro médico sin ayuda del gobierno",
+          "headline_en": "Families will pay more for health insurance without government help",
+          "body_es": "El Congreso de Estados Unidos terminó un programa de ayuda económica para el seguro médico. Este subsidio ayudaba a las familias a pagar menos por su seguro de salud. Ahora, millones de familias tendrán que pagar precios más altos. Will Bailey, un experto en política, dice que las familias serán las primeras en sentir este problema. El programa se llamaba ACA y daba dinero a personas que no podían pagar el seguro completo. Sin esta ayuda, muchas familias pueden perder su seguro médico. Los políticos discuten sobre qué hacer, pero por ahora no hay solución. Este cambio afectará especialmente a familias con menos dinero.",
+          "body_en": "The US Congress ended a financial assistance program for health insurance. This subsidy helped families pay less for their health insurance. Now, millions of families will have to pay higher prices. Will Bailey, a policy expert, says families will be the first to feel this problem. The program was called ACA and gave money to people who couldn't afford full insurance. Without this help, many families may lose their health insurance. Politicians are discussing what to do, but for now there is no solution. This change will especially affect families with less money.",
+          "source": "Honolulu Civil Beat"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La bolsa de valores baja por miedo a nuevos aranceles de Trump",
+          "headline_en": "Stock market drops due to fear of new Trump tariffs",
+          "body_es": "El índice Dow Jones cayó casi 650 puntos en un día. Los inversores están preocupados por los nuevos aranceles que quiere poner el presidente Trump. Los aranceles son impuestos sobre productos de otros países. Cuando los aranceles suben, los productos se vuelven más caros para los estadounidenses. Los expertos piensan que esto puede hacer más lenta la economía del país. Las empresas también pueden tener problemas porque sus productos costarán más. Los inversores vendieron muchas acciones porque tienen miedo de perder dinero. Esta situación muestra cómo las decisiones políticas afectan directamente a la economía y a las familias normales que invierten su dinero.",
+          "body_en": "The Dow Jones index fell almost 650 points in one day. Investors are worried about new tariffs that President Trump wants to impose. Tariffs are taxes on products from other countries. When tariffs go up, products become more expensive for Americans. Experts think this could slow down the country's economy. Companies may also have problems because their products will cost more. Investors sold many stocks because they are afraid of losing money. This situation shows how political decisions directly affect the economy and normal families who invest their money.",
+          "source": "MSN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Gobierno investiga empresas que ofrecen robots conversadores a niños",
+          "headline_en": "Government investigates companies offering chatbots to children",
+          "body_es": "La Comisión Federal de Comercio (FTC) comenzó una investigación sobre empresas de tecnología. Estas empresas ofrecen chatbots de inteligencia artificial especialmente para niños. Los chatbots son programas de computadora que pueden conversar como personas reales. La FTC quiere saber si estos robots son seguros para los niños. Les preocupa qué información recogen sobre los niños y cómo la usan. También quieren saber si los chatbots pueden influir negativamente en el desarrollo de los niños. Muchos padres no saben qué datos personales comparten sus hijos con estos programas. La investigación examinará si las empresas siguen las leyes de protección de menores. Esta es la primera investigación importante sobre inteligencia artificial para niños.",
+          "body_en": "The Federal Trade Commission (FTC) began an investigation into technology companies. These companies offer artificial intelligence chatbots especially for children. Chatbots are computer programs that can converse like real people. The FTC wants to know if these robots are safe for children. They are concerned about what information they collect about children and how they use it. They also want to know if chatbots can negatively influence children's development. Many parents don't know what personal data their children share with these programs. The investigation will examine whether companies follow child protection laws. This is the first major investigation into artificial intelligence for children.",
+          "source": "Mashable"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "subsidio",
+          "syllables": "sub-SI-dio",
+          "pos": "sustantivo",
+          "context": "Las familias perderán el subsidio para el seguro médico.",
+          "definition_es": "Dinero que el gobierno da para ayudar a pagar algo",
+          "definition_en": "Government financial assistance to help pay for something"
+        },
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Los nuevos aranceles pueden dañar la economía.",
+          "definition_es": "Impuestos que se pagan por productos de otros países",
+          "definition_en": "Taxes paid on products from other countries"
+        },
+        {
+          "word": "investigación",
+          "syllables": "in-ves-ti-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "La FTC comenzó una investigación sobre las empresas.",
+          "definition_es": "Estudio detallado para encontrar información sobre algo",
+          "definition_en": "Detailed study to find information about something"
+        },
+        {
+          "word": "chatbot",
+          "syllables": "CHAT-bot",
+          "pos": "sustantivo",
+          "context": "Los chatbots de inteligencia artificial hablan con niños.",
+          "definition_es": "Programa de computadora que puede conversar como una persona",
+          "definition_en": "Computer program that can have conversations like a person"
+        },
+        {
+          "word": "bolsa",
+          "syllables": "BOL-sa",
+          "pos": "sustantivo",
+          "context": "La bolsa de valores cayó mucho ayer.",
+          "definition_es": "Lugar donde se compran y venden acciones de empresas",
+          "definition_en": "Place where company stocks are bought and sold"
+        },
+        {
+          "word": "seguro",
+          "syllables": "se-GU-ro",
+          "pos": "sustantivo",
+          "context": "El seguro médico será más caro sin ayuda del gobierno.",
+          "definition_es": "Servicio que protege contra gastos médicos o problemas",
+          "definition_en": "Service that protects against medical costs or problems"
+        },
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso no renovó la ayuda económica.",
+          "definition_es": "Grupo de políticos que hace las leyes del país",
+          "definition_en": "Group of politicians who make the country's laws"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "Los aranceles pueden hacer más lenta la economía.",
+          "definition_es": "Sistema de dinero, trabajo y comercio de un país",
+          "definition_en": "System of money, work and trade in a country"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'subsidio'?",
+          "options": [
+            "Dinero que el gobierno da para ayudar",
+            "Un tipo de seguro médico",
+            "Una empresa privada",
+            "Un impuesto alto"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Los 'aranceles' son:",
+          "options": [
+            "Programas de computadora",
+            "Impuestos sobre productos extranjeros",
+            "Tipos de seguros",
+            "Investigaciones del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Un 'chatbot' es:",
+          "options": [
+            "Una persona real",
+            "Un programa que conversa",
+            "Un tipo de teléfono",
+            "Una empresa de tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Dónde se compran y venden acciones de empresas?",
+          "options": [
+            "En el Congreso",
+            "En la bolsa de valores",
+            "En los chatbots",
+            "En los subsidios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la primera historia, ¿quiénes serán los primeros en sentir el problema del fin de los subsidios?",
+          "options": [
+            "Los políticos",
+            "Las empresas",
+            "Las familias",
+            "Los expertos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos puntos cayó el índice Dow Jones?",
+          "options": [
+            "Casi 650 puntos",
+            "Exactamente 500 puntos",
+            "Más de 700 puntos",
+            "Menos de 600 puntos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué organismo investiga a las empresas de tecnología?",
+          "options": [
+            "El Congreso",
+            "La FTC",
+            "El Dow Jones",
+            "La ACA"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué están preocupados los inversores?",
+          "options": [
+            "Por los chatbots",
+            "Por los subsidios médicos",
+            "Por los nuevos aranceles",
+            "Por las investigaciones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿A quiénes están dirigidos especialmente los chatbots que investiga la FTC?",
+          "options": [
+            "A los adultos",
+            "A los niños",
+            "A los inversores",
+            "A las familias"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué pasará con el precio del seguro médico sin subsidios?",
+          "options": [
+            "Bajará mucho",
+            "Se mantendrá igual",
+            "Subirá para las familias",
+            "Será gratis"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-30T09:03:55.740206"
+    },
+    {
       "date": "2025-12-29",
       "filename": "spanish_lesson_2025-12-29.pdf",
       "path": "pdfs/spanish_lesson_2025-12-29.pdf",
@@ -4910,7 +5132,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-29T09:04:54.838727",
+  "last_updated": "2025-12-30T09:03:55.740220",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
