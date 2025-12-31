@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2025-12-31",
+      "filename": "spanish_lesson_2025-12-31.pdf",
+      "path": "pdfs/spanish_lesson_2025-12-31.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Ex senador de Arizona revela que tiene demencia",
+          "headline_en": "Former Arizona senator reveals he has dementia",
+          "body_es": "Jon Kyl, un ex senador republicano de Arizona, anunció que tiene demencia. Kyl, de 82 años, sirvió en el Senado durante muchos años. Fue una figura importante en la política estadounidense. La demencia es una enfermedad que afecta la memoria y el pensamiento. Kyl decidió hacer público su diagnóstico para ayudar a otras familias. Muchas personas mayores sufren de esta enfermedad. El ex senador trabajó en temas de defensa nacional y economía. Su familia pidió privacidad durante este momento difícil. Kyl es respetado por políticos de ambos partidos. Su carrera política duró más de tres décadas en Washington.",
+          "body_en": "Jon Kyl, a former Republican senator from Arizona, announced that he has dementia. Kyl, 82 years old, served in the Senate for many years. He was an important figure in American politics. Dementia is a disease that affects memory and thinking. Kyl decided to make his diagnosis public to help other families. Many elderly people suffer from this disease. The former senator worked on national defense and economic issues. His family asked for privacy during this difficult time. Kyl is respected by politicians from both parties. His political career lasted more than three decades in Washington.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Oficiales de la Fed muestran desacuerdos en reunión de diciembre",
+          "headline_en": "Fed officials show disagreements in December meeting",
+          "body_es": "Los oficiales de la Reserva Federal de Estados Unidos mostraron profundas divisiones en su reunión de diciembre. Las actas de la reunión revelaron diferentes opiniones sobre la economía. Algunos oficiales querían políticas más estrictas para controlar la inflación. Otros preferían un enfoque más cuidadoso para proteger el empleo. La Fed controla las tasas de interés en el país. Estas decisiones afectan los préstamos bancarios y la economía general. Los expertos analizan estas reuniones para entender el futuro económico. Las diferencias de opinión son normales en organizaciones grandes. La próxima reunión será en febrero. Los mercados financieros observan estas decisiones muy de cerca.",
+          "body_en": "Officials from the Federal Reserve of the United States showed deep divisions in their December meeting. The meeting minutes revealed different opinions about the economy. Some officials wanted stricter policies to control inflation. Others preferred a more careful approach to protect employment. The Fed controls interest rates in the country. These decisions affect bank loans and the general economy. Experts analyze these meetings to understand the economic future. Differences of opinion are normal in large organizations. The next meeting will be in February. Financial markets watch these decisions very closely.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "FTC investiga empresas que ofrecen chatbots de IA a niños",
+          "headline_en": "FTC investigates companies offering AI chatbots to children",
+          "body_es": "La Comisión Federal de Comercio (FTC) inició una investigación sobre empresas tecnológicas. Estas compañías ofrecen chatbots de inteligencia artificial especialmente para niños. Los chatbots son programas que pueden conversar como humanos. La FTC quiere proteger la privacidad y seguridad de los menores. Hay preocupaciones sobre cómo estos programas recopilan información personal. Los padres están preocupados por la influencia de la IA en sus hijos. Algunas empresas dicen que sus chatbots son educativos y seguros. La investigación examinará si las compañías siguen las leyes de protección infantil. Esta es la primera investigación importante sobre IA y niños. Los resultados podrían cambiar cómo funcionan estos servicios.",
+          "body_en": "The Federal Trade Commission (FTC) started an investigation into technology companies. These companies offer artificial intelligence chatbots especially for children. Chatbots are programs that can converse like humans. The FTC wants to protect the privacy and safety of minors. There are concerns about how these programs collect personal information. Parents are worried about the influence of AI on their children. Some companies say their chatbots are educational and safe. The investigation will examine whether companies follow child protection laws. This is the first major investigation about AI and children. The results could change how these services work.",
+          "source": "Mashable"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "demencia",
+          "syllables": "de-MEN-cia",
+          "pos": "sustantivo",
+          "context": "El ex senador Jon Kyl anunció que tiene demencia.",
+          "definition_es": "Enfermedad que afecta la memoria y el pensamiento",
+          "definition_en": "Disease that affects memory and thinking"
+        },
+        {
+          "word": "senador",
+          "syllables": "se-na-DOR",
+          "pos": "sustantivo",
+          "context": "Jon Kyl fue senador de Arizona durante muchos años.",
+          "definition_es": "Persona elegida para representar un estado en el Senado",
+          "definition_en": "Person elected to represent a state in the Senate"
+        },
+        {
+          "word": "divisiones",
+          "syllables": "di-vi-sio-NES",
+          "pos": "sustantivo",
+          "context": "Los oficiales de la Fed mostraron profundas divisiones en la reunión.",
+          "definition_es": "Diferencias de opinión o desacuerdos",
+          "definition_en": "Differences of opinion or disagreements"
+        },
+        {
+          "word": "reunión",
+          "syllables": "reu-NIÓN",
+          "pos": "sustantivo",
+          "context": "La reunión de diciembre reveló diferentes opiniones económicas.",
+          "definition_es": "Encuentro de personas para discutir temas importantes",
+          "definition_en": "Meeting of people to discuss important topics"
+        },
+        {
+          "word": "investigación",
+          "syllables": "in-ves-ti-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "La FTC inició una investigación sobre chatbots para niños.",
+          "definition_es": "Proceso de estudiar algo para encontrar información",
+          "definition_en": "Process of studying something to find information"
+        },
+        {
+          "word": "chatbots",
+          "syllables": "CHAT-bots",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas ofrecen chatbots de inteligencia artificial a niños.",
+          "definition_es": "Programas de computadora que pueden hablar con personas",
+          "definition_en": "Computer programs that can talk with people"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Varias empresas tecnológicas están bajo investigación.",
+          "definition_es": "Organizaciones que venden productos o servicios",
+          "definition_en": "Organizations that sell products or services"
+        },
+        {
+          "word": "anunciar",
+          "syllables": "a-nun-CIAR",
+          "pos": "verbo",
+          "context": "El político decidió anunciar públicamente su enfermedad.",
+          "definition_es": "Decir algo importante al público",
+          "definition_en": "To tell something important to the public"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'demencia'?",
+          "options": [
+            "Una celebración política",
+            "Una enfermedad que afecta la memoria",
+            "Un tipo de elección",
+            "Una reunión del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'chatbots'?",
+          "options": [
+            "Robots físicos",
+            "Programas que pueden conversar",
+            "Juegos para niños",
+            "Libros digitales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'divisiones' en el contexto de la reunión de la Fed?",
+          "options": [
+            "Operaciones matemáticas",
+            "Desacuerdos u opiniones diferentes",
+            "Separación física",
+            "Departamentos de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué hace un 'senador'?",
+          "options": [
+            "Enseña en universidades",
+            "Representa un estado en el Senado",
+            "Trabaja en hospitales",
+            "Dirige empresas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos años tiene Jon Kyl?",
+          "options": [
+            "75 años",
+            "80 años",
+            "82 años",
+            "85 años"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué Jon Kyl decidió hacer público su diagnóstico?",
+          "options": [
+            "Para ganar votos",
+            "Para ayudar a otras familias",
+            "Para escribir un libro",
+            "Para cambiar de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿En qué mes fue la reunión de la Fed mencionada en el artículo?",
+          "options": [
+            "Noviembre",
+            "Diciembre",
+            "Enero",
+            "Febrero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué controla la Reserva Federal?",
+          "options": [
+            "Las escuelas públicas",
+            "Las tasas de interés",
+            "Los hospitales",
+            "Las carreteras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué quiere proteger la FTC en su investigación?",
+          "options": [
+            "Las ganancias de las empresas",
+            "La privacidad y seguridad de los niños",
+            "Los derechos de los robots",
+            "Los secretos comerciales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de investigación es esta sobre IA y niños?",
+          "options": [
+            "La segunda investigación",
+            "Una investigación menor",
+            "La primera investigación importante",
+            "Una investigación internacional"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2025-12-31T09:03:19.109595"
+    },
+    {
       "date": "2025-12-30",
       "filename": "spanish_lesson_2025-12-30.pdf",
       "path": "pdfs/spanish_lesson_2025-12-30.pdf",
@@ -5132,7 +5354,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-30T09:03:55.740220",
+  "last_updated": "2025-12-31T09:03:19.109605",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
