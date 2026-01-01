@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-01",
+      "filename": "spanish_lesson_2026-01-01.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-01.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump veta dos leyes aprobadas por el Congreso",
+          "headline_en": "Trump vetoes two laws approved by Congress",
+          "body_es": "El expresidente Trump vetó dos propuestas de ley importantes. Estas leyes habían recibido apoyo de republicanos y demócratas en el Congreso. Es raro que un presidente rechace leyes que tienen apoyo de ambos partidos. Los políticos expresaron su sorpresa por esta decisión. Algunas de estas leyes trataban temas importantes para el país. El veto presidencial significa que las leyes no pueden entrar en vigor. El Congreso puede intentar anular el veto, pero necesita una mayoría especial. Esta situación muestra las tensiones políticas que existen en Washington. Los ciudadanos esperan que los políticos trabajen juntos para resolver los problemas del país.",
+          "body_en": "Former President Trump vetoed two important bills. These laws had received support from Republicans and Democrats in Congress. It's rare for a president to reject laws that have support from both parties. Politicians expressed their surprise at this decision. Some of these laws dealt with important issues for the country. The presidential veto means the laws cannot take effect. Congress can try to override the veto, but needs a special majority. This situation shows the political tensions that exist in Washington. Citizens hope politicians will work together to solve the country's problems.",
+          "source": "NPR"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía en forma de K continuará en 2026",
+          "headline_en": "The K-shaped economy will continue in 2026",
+          "body_es": "Los economistas hablan de una 'economía en forma de K'. Este término describe cómo diferentes grupos de personas tienen experiencias económicas muy diferentes. Algunas personas y empresas están mejorando su situación financiera. Al mismo tiempo, otros grupos están empeorando económicamente. Esta desigualdad comenzó durante la pandemia y continúa creciendo. Las personas con buenos trabajos y educación universitaria están ganando más dinero. Sin embargo, los trabajadores con salarios bajos enfrentan más dificultades. Los expertos predicen que esta situación continuará en 2026. El gobierno está buscando soluciones para reducir la desigualdad económica. Es importante crear oportunidades para todos los ciudadanos, no solo para algunos grupos privilegiados.",
+          "body_en": "Economists talk about a 'K-shaped economy'. This term describes how different groups of people have very different economic experiences. Some people and companies are improving their financial situation. At the same time, other groups are getting worse economically. This inequality began during the pandemic and continues to grow. People with good jobs and university education are earning more money. However, workers with low wages face more difficulties. Experts predict this situation will continue in 2026. The government is looking for solutions to reduce economic inequality. It's important to create opportunities for all citizens, not just for some privileged groups.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nueva ley obliga a revelar planes sobre riesgos de la inteligencia artificial",
+          "headline_en": "New law forces disclosure of plans about artificial intelligence risks",
+          "body_es": "California aprobó una nueva ley sobre inteligencia artificial. Esta ley obliga a las empresas tecnológicas a revelar sus planes de emergencia. Muchas personas están preocupadas por los riesgos de la inteligencia artificial. La tecnología puede causar problemas graves si no se controla adecuadamente. Las empresas deben explicar qué harán si algo sale mal con sus sistemas. Esta ley es la primera de su tipo en Estados Unidos. Los defensores dicen que es necesaria para proteger a los ciudadanos. Sin embargo, algunas empresas tecnológicas no están contentas con estas nuevas reglas. Creen que pueden limitar la innovación y el desarrollo tecnológico. El debate sobre la regulación de la inteligencia artificial continuará en otros estados del país.",
+          "body_en": "California passed a new law about artificial intelligence. This law forces technology companies to reveal their emergency plans. Many people are worried about the risks of artificial intelligence. The technology can cause serious problems if not properly controlled. Companies must explain what they will do if something goes wrong with their systems. This law is the first of its kind in the United States. Supporters say it's necessary to protect citizens. However, some technology companies are not happy with these new rules. They believe they can limit innovation and technological development. The debate about regulating artificial intelligence will continue in other states in the country.",
+          "source": "CalMatters"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "vetar",
+          "syllables": "ve-TAR",
+          "pos": "verbo",
+          "context": "El presidente decidió vetar las dos propuestas de ley.",
+          "definition_es": "Rechazar o prohibir oficialmente una ley o propuesta",
+          "definition_en": "To officially reject or prohibit a law or proposal"
+        },
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso aprobó las leyes con apoyo de ambos partidos.",
+          "definition_es": "El cuerpo legislativo del gobierno",
+          "definition_en": "The legislative body of government"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía en forma de K afecta a diferentes grupos.",
+          "definition_es": "Sistema de producción y distribución de riqueza",
+          "definition_en": "System of production and distribution of wealth"
+        },
+        {
+          "word": "desigualdad",
+          "syllables": "de-si-gual-DAD",
+          "pos": "sustantivo",
+          "context": "La desigualdad económica aumentó durante la pandemia.",
+          "definition_es": "Diferencia injusta entre personas o grupos",
+          "definition_en": "Unfair difference between people or groups"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial puede crear riesgos para la sociedad.",
+          "definition_es": "Tecnología que simula la inteligencia humana",
+          "definition_en": "Technology that simulates human intelligence"
+        },
+        {
+          "word": "revelar",
+          "syllables": "re-ve-LAR",
+          "pos": "verbo",
+          "context": "Las empresas deben revelar sus planes de emergencia.",
+          "definition_es": "Mostrar o hacer público algo secreto",
+          "definition_en": "To show or make public something secret"
+        },
+        {
+          "word": "apoyo",
+          "syllables": "a-PO-yo",
+          "pos": "sustantivo",
+          "context": "Las leyes recibieron apoyo de los dos partidos políticos.",
+          "definition_es": "Ayuda o respaldo que se da a algo o alguien",
+          "definition_en": "Help or backing given to something or someone"
+        },
+        {
+          "word": "riesgo",
+          "syllables": "RIES-go",
+          "pos": "sustantivo",
+          "context": "Existe un riesgo de desastres con la nueva tecnología.",
+          "definition_es": "Posibilidad de que ocurra algo malo",
+          "definition_en": "Possibility that something bad will happen"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'vetar' en el contexto político?",
+          "options": [
+            "Aprobar una ley",
+            "Rechazar oficialmente una propuesta",
+            "Votar a favor",
+            "Crear una nueva regla"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'desigualdad' económica?",
+          "options": [
+            "Cuando todos ganan lo mismo",
+            "Diferencias injustas entre grupos",
+            "Un tipo de impuesto",
+            "Una forma de ahorrar dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'revelar' información?",
+          "options": [
+            "Esconder secretos",
+            "Hacer público algo",
+            "Olvidar datos",
+            "Cambiar la información"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un 'riesgo' es:",
+          "options": [
+            "Una garantía de éxito",
+            "Posibilidad de algo malo",
+            "Un beneficio seguro",
+            "Una oportunidad perfecta"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto sobre política, ¿por qué fue sorprendente el veto de Trump?",
+          "options": [
+            "Porque las leyes eran muy polémicas",
+            "Porque tenían apoyo de ambos partidos",
+            "Porque el Congreso estaba cerrado",
+            "Porque era su primer veto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuándo comenzó la economía en forma de K según el texto?",
+          "options": [
+            "En 2026",
+            "Durante la pandemia",
+            "El año pasado",
+            "Hace una década"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué grupos están mejorando en la economía en forma de K?",
+          "options": [
+            "Trabajadores con salarios bajos",
+            "Personas con buena educación y trabajos",
+            "Todos los grupos por igual",
+            "Solo los jubilados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Dónde se aprobó la nueva ley sobre inteligencia artificial?",
+          "options": [
+            "En todo Estados Unidos",
+            "En Texas",
+            "En California",
+            "En Nueva York"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué deben hacer las empresas según la nueva ley de California?",
+          "options": [
+            "Parar sus investigaciones",
+            "Revelar planes de emergencia",
+            "Mudarse a otro estado",
+            "Contratar más empleados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cómo reaccionaron algunas empresas tecnológicas a la nueva ley?",
+          "options": [
+            "Estaban muy contentas",
+            "No les importó",
+            "No estaban contentas",
+            "Pidieron más regulaciones"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-01T09:03:21.560028"
+    },
+    {
       "date": "2025-12-31",
       "filename": "spanish_lesson_2025-12-31.pdf",
       "path": "pdfs/spanish_lesson_2025-12-31.pdf",
@@ -5354,7 +5576,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2025-12-31T09:03:19.109605",
+  "last_updated": "2026-01-01T09:03:21.560044",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
