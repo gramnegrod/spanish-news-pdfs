@@ -80,6 +80,8 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "📰 Daily conversation stories - $(date +'%Y-%m-%d')"
+            # Pull with rebase to handle parallel job commits
+            git pull --rebase origin main
             git push
           fi
 
@@ -92,3 +94,87 @@ jobs:
           echo "- **Podcasts**: 3 two-host podcasts (Economía, Medio Ambiente, Gastronomía)" >> $GITHUB_STEP_SUMMARY
           echo "- **File**: conversation-stories-index.json" >> $GITHUB_STEP_SUMMARY
           echo "- **Audio**: audio/conversation-stories/$(date +'%Y-%m-%d')/" >> $GITHUB_STEP_SUMMARY
+
+  # Parallel job for wound care stories
+  generate-wound-care:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install anthropic requests openai pydub
+          # Install ffmpeg for pydub audio processing
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Generate wound care stories
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          cd scripts
+          python generate_wound_care_stories.py
+
+      - name: Cleanup old audio files (keep 12 months)
+        run: |
+          echo "🧹 Cleaning up wound care audio files older than 12 months..."
+          AUDIO_DIR="audio/wound-care-stories"
+          CUTOFF_DATE=$(date -d '12 months ago' +%Y-%m-%d 2>/dev/null || date -v-12m +%Y-%m-%d)
+
+          if [ -d "$AUDIO_DIR" ]; then
+            DELETED=0
+            for dir in "$AUDIO_DIR"/*/; do
+              if [ -d "$dir" ]; then
+                DIR_DATE=$(basename "$dir")
+                # Check if directory name is a valid date format (YYYY-MM-DD)
+                if [[ "$DIR_DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+                  if [[ "$DIR_DATE" < "$CUTOFF_DATE" ]]; then
+                    echo "  Removing: $dir"
+                    rm -rf "$dir"
+                    DELETED=$((DELETED + 1))
+                  fi
+                fi
+              fi
+            done
+            echo "  Deleted $DELETED old audio directories"
+          else
+            echo "  No wound care audio directory found yet"
+          fi
+
+      - name: Commit and push wound care stories
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add wound-care-stories-index.json
+          git add audio/wound-care-stories/
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🩹 Daily wound care stories - $(date +'%Y-%m-%d')"
+            # Pull with rebase to handle parallel job commits
+            git pull --rebase origin main
+            git push
+          fi
+
+      - name: Summary
+        run: |
+          echo "## 🩹 Wound Care Stories Generated!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: $(date +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Stories**: 6 wound care stories for healthcare professionals" >> $GITHUB_STEP_SUMMARY
+          echo "- **Categories**: Chronic Wounds, Pressure Ulcers, Diabetic Foot, Burns, Surgical, Research" >> $GITHUB_STEP_SUMMARY
+          echo "- **File**: wound-care-stories-index.json" >> $GITHUB_STEP_SUMMARY
+          echo "- **Audio**: audio/wound-care-stories/$(date +'%Y-%m-%d')/" >> $GITHUB_STEP_SUMMARY
