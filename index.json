@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-02",
+      "filename": "spanish_lesson_2026-01-02.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-02.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Costos de seguro médico suben para millones de americanos",
+          "headline_en": "Health insurance costs rise for millions of Americans",
+          "body_es": "Los créditos fiscales que ayudaron a reducir el costo del seguro médico terminaron. Estos créditos especiales ayudaban a millones de familias americanas a pagar menos dinero por su seguro de salud. Ahora, al comenzar el nuevo año, las familias deben pagar más dinero por la misma cobertura médica. Los créditos fiscales eran parte del plan de salud del gobierno llamado Affordable Care Act. Sin esta ayuda del gobierno, muchas personas tendrán dificultades para pagar sus gastos médicos. Los expertos dicen que esto afectará principalmente a las familias de clase media. El gobierno necesita decidir si va a crear nuevos créditos fiscales o si las familias tendrán que pagar los costos completos de su seguro médico.",
+          "body_en": "Tax credits that helped reduce the cost of health insurance have ended. These special credits helped millions of American families pay less money for their health insurance. Now, at the start of the new year, families must pay more money for the same medical coverage. The tax credits were part of the government health plan called the Affordable Care Act. Without this government help, many people will have difficulties paying their medical expenses. Experts say this will mainly affect middle-class families. The government needs to decide if it will create new tax credits or if families will have to pay the full costs of their health insurance.",
+          "source": "facebook.com"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El dólar se debilita al comenzar el año 2025",
+          "headline_en": "The dollar weakens at the start of 2025",
+          "body_es": "El dólar estadounidense se debilitó mucho al comenzar el año 2025. Esta es la caída más grande de la moneda americana en ocho años. Los expertos en economía están observando esta situación con mucha atención. Cuando el dólar se debilita, significa que vale menos comparado con otras monedas del mundo. Esto puede afectar el precio de productos que Estados Unidos compra de otros países. Para los americanos que viajan al extranjero, sus vacaciones pueden costar más dinero. Sin embargo, para las empresas que venden productos a otros países, un dólar más débil puede ser bueno para sus negocios. Los economistas dicen que varios factores causaron esta situación. Están estudiando si esta tendencia va a continuar durante el resto del año o si el dólar va a recuperar su fuerza.",
+          "body_en": "The US dollar weakened significantly at the start of 2025. This is the biggest drop in the American currency in eight years. Economics experts are watching this situation very carefully. When the dollar weakens, it means it's worth less compared to other world currencies. This can affect the price of products that the United States buys from other countries. For Americans traveling abroad, their vacations may cost more money. However, for companies that sell products to other countries, a weaker dollar can be good for their business. Economists say several factors caused this situation. They are studying whether this trend will continue for the rest of the year or if the dollar will recover its strength.",
+          "source": "Shafaq News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "CES 2025 muestra nuevas innovaciones de inteligencia artificial",
+          "headline_en": "CES 2025 shows new artificial intelligence innovations",
+          "body_es": "La feria de tecnología CES 2025 va a presentar muchas innovaciones nuevas de inteligencia artificial. Las empresas tecnológicas más importantes del mundo van a mostrar sus productos más nuevos en este evento especial. La inteligencia artificial está cambiando rápidamente la forma en que vivimos y trabajamos. En CES, las compañías van a presentar robots más inteligentes, programas que pueden ayudar en el trabajo y dispositivos para la casa más avanzados. Muchos expertos dicen que 2025 será un año muy importante para el desarrollo de la inteligencia artificial. Los visitantes de la feria podrán ver y probar estos productos nuevos. Las empresas esperan que estas innovaciones hagan la vida más fácil para las personas. La feria CES siempre es muy popular entre las personas interesadas en tecnología y nuevos inventos.",
+          "body_en": "The CES 2025 technology fair will present many new artificial intelligence innovations. The most important technology companies in the world will show their newest products at this special event. Artificial intelligence is rapidly changing the way we live and work. At CES, companies will present smarter robots, programs that can help at work, and more advanced devices for the home. Many experts say that 2025 will be a very important year for artificial intelligence development. Fair visitors will be able to see and try these new products. Companies hope that these innovations will make life easier for people. The CES fair is always very popular among people interested in technology and new inventions.",
+          "source": "digitimes"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "créditos fiscales",
+          "syllables": "CRE-di-tos fis-CA-les",
+          "pos": "sustantivo",
+          "context": "Los créditos fiscales ayudaron a reducir el costo del seguro médico.",
+          "definition_es": "Descuentos en los impuestos que da el gobierno",
+          "definition_en": "Tax credits or tax breaks given by the government"
+        },
+        {
+          "word": "seguro médico",
+          "syllables": "se-GU-ro ME-di-co",
+          "pos": "sustantivo",
+          "context": "El seguro médico ahora cuesta más dinero para las familias.",
+          "definition_es": "Plan que paga los gastos de doctores y hospitales",
+          "definition_en": "Health insurance coverage for medical expenses"
+        },
+        {
+          "word": "debilitarse",
+          "syllables": "de-bi-li-TAR-se",
+          "pos": "verbo",
+          "context": "El dólar se debilita al inicio del año 2025.",
+          "definition_es": "Perder fuerza o valor",
+          "definition_en": "To weaken or lose strength"
+        },
+        {
+          "word": "moneda",
+          "syllables": "mo-NE-da",
+          "pos": "sustantivo",
+          "context": "La moneda estadounidense perdió valor este año.",
+          "definition_es": "Dinero oficial de un país",
+          "definition_en": "Currency or official money of a country"
+        },
+        {
+          "word": "innovaciones",
+          "syllables": "in-no-va-cio-NES",
+          "pos": "sustantivo",
+          "context": "Las innovaciones de inteligencia artificial son muy importantes.",
+          "definition_es": "Ideas o productos nuevos y creativos",
+          "definition_en": "New and creative ideas or products"
+        },
+        {
+          "word": "empresas tecnológicas",
+          "syllables": "em-PRE-sas tec-no-LO-gi-cas",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas presentan productos nuevos en la feria.",
+          "definition_es": "Compañías que hacen productos de tecnología",
+          "definition_en": "Technology companies that make tech products"
+        },
+        {
+          "word": "presentar",
+          "syllables": "pre-sen-TAR",
+          "pos": "verbo",
+          "context": "Las compañías van a presentar sus nuevos productos de inteligencia artificial.",
+          "definition_es": "Mostrar algo nuevo al público",
+          "definition_en": "To present or show something new to the public"
+        },
+        {
+          "word": "costos",
+          "syllables": "COS-tos",
+          "pos": "sustantivo",
+          "context": "Los costos de salud son más altos para millones de americanos.",
+          "definition_es": "El precio que hay que pagar por algo",
+          "definition_en": "The price that must be paid for something"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significan los 'créditos fiscales'?",
+          "options": [
+            "Descuentos en los impuestos del gobierno",
+            "Dinero que prestamos al banco",
+            "Tarjetas de crédito especiales",
+            "Seguros médicos baratos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Cuando una moneda se 'debilita', significa que:",
+          "options": [
+            "Vale más dinero",
+            "Pierde valor",
+            "Es más popular",
+            "Cuesta menos producir"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Las 'innovaciones' son:",
+          "options": [
+            "Productos viejos",
+            "Ideas nuevas y creativas",
+            "Empresas grandes",
+            "Problemas técnicos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué hacen las 'empresas tecnológicas'?",
+          "options": [
+            "Venden comida",
+            "Hacen productos de tecnología",
+            "Construyen casas",
+            "Enseñan idiomas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿qué pasó con los créditos fiscales?",
+          "options": [
+            "Aumentaron mucho",
+            "Terminaron al comenzar el año",
+            "Solo ayudan a personas ricas",
+            "Se hicieron permanentes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos años han pasado desde la última gran caída del dólar?",
+          "options": [
+            "Cinco años",
+            "Seis años",
+            "Ocho años",
+            "Diez años"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de productos van a mostrar en CES 2025?",
+          "options": [
+            "Carros nuevos",
+            "Ropa deportiva",
+            "Productos de inteligencia artificial",
+            "Comida orgánica"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿A qué familias afecta más el fin de los créditos fiscales?",
+          "options": [
+            "Familias muy ricas",
+            "Familias de clase media",
+            "Solo familias jóvenes",
+            "Familias sin hijos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Para las empresas que venden a otros países, un dólar débil es:",
+          "options": [
+            "Muy malo",
+            "Bueno para el negocio",
+            "Sin importancia",
+            "Imposible de manejar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué es importante el año 2025 para la inteligencia artificial?",
+          "options": [
+            "Es el último año para la tecnología",
+            "Será un año muy importante para su desarrollo",
+            "La inteligencia artificial va a desaparecer",
+            "Solo las empresas pequeñas pueden usarla"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-02T09:03:42.777486"
+    },
+    {
       "date": "2026-01-01",
       "filename": "spanish_lesson_2026-01-01.pdf",
       "path": "pdfs/spanish_lesson_2026-01-01.pdf",
@@ -5576,7 +5798,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-01T09:03:21.560044",
+  "last_updated": "2026-01-02T09:03:42.777500",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
