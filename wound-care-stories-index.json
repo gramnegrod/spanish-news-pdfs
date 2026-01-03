@@ -1,176 +1,141 @@
 {
-  "date": "2026-01-02",
-  "generated_at": "2026-01-02T09:08:44.625642Z",
+  "date": "2026-01-03",
+  "generated_at": "2026-01-03T09:06:47.309278Z",
   "description": "Daily wound care news for Spanish medical professionals",
   "content_type": "wound-care",
   "stories": [
     {
-      "id": "chronic-wounds-20250102",
+      "id": "chronic-wounds-20250103",
       "category": "Chronic Wounds",
       "difficulty": "A2",
       "emoji": "🩹",
       "gradient": "teal",
-      "headline_es": "Un nuevo especialista en heridas crónicas llega al hospital",
-      "headline_en": "New Wound Care Specialist Arrives at Hospital",
-      "summary_es": "Baptist Health Fort Smith contrata a una enfermera especializada en el cuidado de heridas crónicas. Esta profesional ayudará a los pacientes con úlceras y heridas difíciles de curar.",
-      "body_es": "Baptist Health Fort Smith recibe a una nueva enfermera especialista en heridas. Esta profesional tiene experiencia en el tratamiento de úlceras crónicas y lesiones complicadas. El hospital ofrece servicios de curación avanzada para pacientes con heridas que no sanan rápidamente. La enfermera trabaja con un equipo multidisciplinario. Ella evalúa cada herida cuidadosamente. Utiliza vendajes especiales y técnicas modernas de tratamiento. Los pacientes reciben cuidado personalizado. El objetivo es sanar las heridas completamente. La especialista también educa a los pacientes sobre el cuidado en casa. Este nuevo servicio mejora la atención médica en el hospital.",
-      "body_en": "Baptist Health Fort Smith welcomes a new wound care specialist nurse. This professional has experience treating chronic ulcers and complicated wounds. The hospital offers advanced wound healing services for patients with wounds that do not heal quickly. The nurse works with a multidisciplinary team. She carefully assesses each wound. She uses special dressings and modern treatment techniques. Patients receive personalized care. The goal is to completely heal the wounds. The specialist also educates patients about home care. This new service improves medical care at the hospital.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-02/chronic-wounds.mp3",
+      "headline_es": "La Importancia de las Culturas en las Úlceras del Pie Diabético",
+      "headline_en": "The Importance of Cultures in Diabetic Foot Ulcers",
+      "summary_es": "Un nuevo estudio muestra que las culturas bacterianas tempranas ayudan a los médicos a elegir el tratamiento correcto para las úlceras del pie diabético.",
+      "body_es": "Las úlceras del pie diabético son heridas graves que afectan a muchos pacientes. Las bacterias pueden infectar estas heridas y causar problemas serios. Los médicos ahora recomiendan hacer culturas bacterianas rápidamente. Una cultura identifica la bacteria exacta en la herida. Con esta información, el tratamiento es más efectivo. El antibiótico correcto mata la bacteria específica. Un estudio reciente mostró que algunos antibióticos ya no funcionan bien. Las bacterias desarrollan resistencia a estos medicamentos antiguos. Los médicos deben cambiar sus tratamientos. Cuando se usa el antibiótico correcto desde el principio, la herida sana mejor. La curación es más rápida y complicaciones graves se previenen.",
+      "body_en": "Diabetic foot ulcers are serious wounds that affect many patients. Bacteria can infect these wounds and cause serious problems. Doctors now recommend performing bacterial cultures quickly. A culture identifies the exact bacteria in the wound. With this information, treatment is more effective. The correct antibiotic kills the specific bacterium. A recent study showed that some antibiotics no longer work well. Bacteria develop resistance to these old medications. Doctors must change their treatments. When the correct antibiotic is used from the beginning, the wound heals better. Healing is faster and serious complications are prevented.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-03/chronic-wounds.mp3",
       "key_vocabulary": [
         {
-          "word": "herida crónica",
-          "definition_es": "lesión que tarda mucho tiempo en cicatrizar",
-          "definition_en": "chronic wound - injury that takes a long time to heal"
-        },
-        {
           "word": "úlcera",
-          "definition_es": "herida abierta en la piel o tejido",
-          "definition_en": "ulcer - open sore on skin or tissue"
+          "definition_es": "herida abierta en la piel que no sana rápidamente",
+          "definition_en": "ulcer - open wound on skin that does not heal quickly"
         },
         {
-          "word": "vendaje",
-          "definition_es": "material o apósito para cubrir heridas",
-          "definition_en": "dressing - material to cover wounds"
+          "word": "cultura",
+          "definition_es": "prueba que identifica qué bacteria está en la herida",
+          "definition_en": "culture - test that identifies which bacteria is in the wound"
+        },
+        {
+          "word": "antibiótico",
+          "definition_es": "medicamento que mata las bacterias",
+          "definition_en": "antibiotic - medication that kills bacteria"
         },
         {
           "word": "curación",
-          "definition_es": "proceso de sanar una herida",
-          "definition_en": "healing - process of wound recovery"
+          "definition_es": "proceso de sanación de una herida",
+          "definition_en": "healing - process of a wound getting better"
         }
       ]
     },
     {
-      "id": "pressure-ulcers-20250102",
+      "id": "pressure-ulcers-20250103",
       "category": "Pressure Ulcers",
       "difficulty": "A2",
-      "emoji": "🛏️",
-      "gradient": "purple",
-      "headline_es": "Prevención de úlceras por presión en pacientes hospitalizados",
-      "headline_en": "Prevention of Pressure Ulcers in Hospitalized Patients",
-      "summary_es": "Los hospitales implementan nuevos protocolos para prevenir úlceras por presión. El cambio de posición frecuente y los colchones especiales son esenciales para proteger la piel.",
-      "body_es": "Las úlceras por presión son un problema común en hospitales. Ocurren cuando un paciente permanece en la misma posición demasiado tiempo. La piel se daña por la presión constante. Los equipos de enfermería previenen estas lesiones con cambios de posición cada dos horas. Utilizan colchones especiales que distribuyen el peso. Los apósitos protectores cubren las áreas de riesgo. El cuidado de la piel es muy importante. Las enfermeras evalúan la piel todos los días. Buscan signos de enrojecimiento o daño. La nutrición también ayuda a prevenir úlceras. Los pacientes reciben alimentos ricos en proteínas y vitaminas. La educación del paciente y la familia es fundamental para la prevención.",
-      "body_en": "Pressure ulcers are a common problem in hospitals. They occur when a patient stays in the same position for too long. The skin is damaged by constant pressure. Nursing teams prevent these injuries by changing position every two hours. They use special mattresses that distribute weight. Protective dressings cover at-risk areas. Skin care is very important. Nurses evaluate the skin every day. They look for signs of redness or damage. Nutrition also helps prevent ulcers. Patients receive foods rich in proteins and vitamins. Patient and family education is essential for prevention.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-02/pressure-ulcers.mp3",
+      "emoji": "⚠️",
+      "gradient": "rose",
+      "headline_es": "Cómo Prevenir las Úlceras por Presión en Pacientes en Cama",
+      "headline_en": "How to Prevent Pressure Ulcers in Bedridden Patients",
+      "summary_es": "Los profesionales de enfermería conocen nuevas estrategias simples para prevenir úlceras por presión en pacientes que pasan mucho tiempo en cama.",
+      "body_es": "Las úlceras por presión son heridas serias que aparecen cuando un paciente está en cama mucho tiempo. La presión constante en la piel daña los tejidos. Estas lesiones duelen y causan infecciones. La prevención es muy importante. Los enfermeros deben cambiar de posición al paciente cada dos horas. El movimiento mejora la circulación de sangre. Las superficies especiales como colchones de aire también ayudan. Es importante mantener la piel limpia y seca. Los vendajes protectores previenen daño en áreas de riesgo. Las úlceras por presión se forman en caderas, talones y espalda principalmente. Un buen cuidado previene estas complicaciones graves. Los pacientes en cama necesitan atención continua y evaluación diaria.",
+      "body_en": "Pressure ulcers are serious wounds that appear when a patient stays in bed for a long time. Constant pressure on the skin damages tissues. These injuries hurt and cause infections. Prevention is very important. Nurses must change the patient's position every two hours. Movement improves blood circulation. Special surfaces like air mattresses also help. It is important to keep skin clean and dry. Protective dressings prevent damage in risk areas. Pressure ulcers form on hips, heels, and back mainly. Good care prevents these serious complications. Patients in bed need continuous care and daily evaluation.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-03/pressure-ulcers.mp3",
       "key_vocabulary": [
         {
           "word": "úlcera por presión",
-          "definition_es": "lesión causada por presión prolongada en la piel",
-          "definition_en": "pressure ulcer - injury caused by prolonged pressure on skin"
+          "definition_es": "lesión en la piel causada por presión constante",
+          "definition_en": "pressure ulcer - skin injury caused by constant pressure"
         },
         {
           "word": "posición",
-          "definition_es": "forma en que se acuesta o sienta el paciente",
-          "definition_en": "position - how the patient lies or sits"
+          "definition_es": "manera en que el paciente está acostado o sentado",
+          "definition_en": "position - way the patient is lying or sitting"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de la sangre en el cuerpo",
+          "definition_en": "circulation - movement of blood in the body"
         },
         {
           "word": "apósito",
-          "definition_es": "material protector para heridas",
-          "definition_en": "dressing - protective material for wounds"
-        },
-        {
-          "word": "eritema",
-          "definition_es": "enrojecimiento de la piel",
-          "definition_en": "erythema - redness of the skin"
+          "definition_es": "material que se pone sobre la herida",
+          "definition_en": "dressing - material placed on the wound"
         }
       ]
     },
     {
-      "id": "diabetic-foot-20250102",
+      "id": "diabetic-foot-20250103",
       "category": "Diabetic Foot",
       "difficulty": "B1",
       "emoji": "🦶",
-      "gradient": "orange",
-      "headline_es": "Importancia de la detección temprana de úlceras en pie diabético",
-      "headline_en": "Importance of Early Detection of Diabetic Foot Ulcers",
-      "summary_es": "Los especialistas enfatizan que la evaluación temprana y cultivo de heridas es crucial para evitar infecciones graves en pacientes con pie diabético. La resistencia a antibióticos está aumentando.",
-      "body_es": "Las úlceras de pie diabético representan una complicación seria que puede llevar a infecciones severas. Los pacientes con diabetes deben someterse a evaluaciones regulares de los pies. Los especialistas recomiendan realizar cultivos de heridas cuando aparecen signos de infección. La presencia de patógenos como Trimethoprim-Sulfamethoxazole resistentes complica el tratamiento. Los cultivos guían la selección apropiada de antibióticos, mejorando los resultados clínicos. Los pacientes necesitan cambios de vendaje frecuentes y evaluación de la granulación tisular. La educación es fundamental: los pacientes deben inspeccionar sus pies diariamente buscando heridas nuevas. Los profesionales de salud utilizan técnicas de desbridamiento para remover tejido necrótico. El control glucémico estricto acelera la cicatrización. Las úlceras no tratadas pueden resultar en amputación, por lo que la intervención temprana es esencial.",
-      "body_en": "Diabetic foot ulcers represent a serious complication that can lead to severe infections. Patients with diabetes should undergo regular foot evaluations. Specialists recommend performing wound cultures when signs of infection appear. The presence of resistant pathogens like Trimethoprim-Sulfamethoxazole complicates treatment. Cultures guide appropriate antibiotic selection, improving clinical outcomes. Patients need frequent dressing changes and evaluation of tissue granulation. Education is fundamental: patients must inspect their feet daily for new wounds. Healthcare professionals use debridement techniques to remove necrotic tissue. Strict glucose control accelerates healing. Untreated ulcers can result in amputation, so early intervention is essential.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-02/diabetic-foot.mp3",
+      "gradient": "amber",
+      "headline_es": "Detección Temprana del Pie Diabético Reduce Complicaciones Graves",
+      "headline_en": "Early Detection of Diabetic Foot Reduces Serious Complications",
+      "summary_es": "Un nuevo protocolo de evaluación permite identificar cambios en el pie diabético antes de que se formen úlceras profundas, mejorando significativamente los resultados del paciente.",
+      "body_es": "El pie diabético es una complicación grave que afecta a millones de pacientes con diabetes. Los cambios en la sensibilidad y la circulación crean un entorno perfecto para úlceras. Un nuevo protocolo de evaluación mensual identifica cambios antes de que progrese la lesión. Los enfermeros deben examinar cuidadosamente la piel, buscando signos de eritema, edema y cambios en la temperatura. La medición de la presión del pie con monofilamento es esencial. El desbridamiento inicial de cualquier escara previene infecciones profundas. Cuando se detecta una úlcera tempranamente, el tratamiento conservador frecuentemente es suficiente. Los pacientes con diabetes necesitan educación sobre el cuidado diario del pie. Se recomienda usar calzado adecuado y mantener la higiene rigurosa. Las evaluaciones regulares y la intervención rápida pueden prevenir amputaciones.",
+      "body_en": "Diabetic foot is a serious complication that affects millions of patients with diabetes. Changes in sensation and circulation create a perfect environment for ulcers. A new monthly evaluation protocol identifies changes before the injury progresses. Nurses must examine the skin carefully, looking for signs of erythema, edema, and temperature changes. Measuring foot pressure with monofilament is essential. Initial debridement of any eschar prevents deep infections. When an ulcer is detected early, conservative treatment is frequently sufficient. Patients with diabetes need education about daily foot care. It is recommended to wear appropriate footwear and maintain strict hygiene. Regular evaluations and quick intervention can prevent amputations.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-03/diabetic-foot.mp3",
       "key_vocabulary": [
         {
-          "word": "úlcera de pie diabético",
-          "definition_es": "herida abierta en el pie de pacientes con diabetes",
-          "definition_en": "diabetic foot ulcer - open wound on foot of diabetic patients"
-        },
-        {
-          "word": "cultivo",
-          "definition_es": "prueba para identificar bacterias en una herida",
-          "definition_en": "culture - test to identify bacteria in a wound"
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel causado por inflamación",
+          "definition_en": "erythema - redness of the skin caused by inflammation"
         },
         {
           "word": "desbridamiento",
-          "definition_es": "eliminación quirúrgica de tejido muerto o dañado",
-          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+          "definition_es": "remoción de tejido muerto de la herida",
+          "definition_en": "debridement - removal of dead tissue from the wound"
         },
         {
-          "word": "granulación",
-          "definition_es": "formación de nuevo tejido durante la cicatrización",
-          "definition_en": "granulation - formation of new tissue during healing"
+          "word": "escara",
+          "definition_es": "tejido muerto oscuro causado por quemadura o herida grave",
+          "definition_en": "eschar - dark dead tissue caused by burn or serious wound"
+        },
+        {
+          "word": "edema",
+          "definition_es": "hinchazón causada por acumulación de fluido",
+          "definition_en": "edema - swelling caused by fluid accumulation"
         }
       ]
     },
     {
-      "id": "burn-care-20250102",
+      "id": "burn-care-20250103",
       "category": "Burn Care",
       "difficulty": "B1",
       "emoji": "🔥",
-      "gradient": "red",
-      "headline_es": "Nueva tecnología RECELL GO acelera la curación de quemaduras",
-      "headline_en": "New RECELL GO Technology Accelerates Burn Healing",
-      "summary_es": "Un paciente en el Reino Unido recibe el primer tratamiento con tecnología RECELL GO para quemaduras. Esta innovación utiliza células autólogas para acelerar significativamente la cicatrización de heridas graves.",
-      "body_es": "Un hospital en Buckinghamshire implementó por primera vez la tecnología RECELL GO en el Reino Unido para tratar quemaduras. Este sistema innovador utiliza células vivas del propio paciente para acelerar la regeneración de la piel dañada. El procedimiento requiere una biopsia pequeña de piel sana del paciente. Las células se cultivan en laboratorio y luego se aplican directamente a la quemadura. El proceso reduce significativamente el tiempo de cicatrización comparado con métodos tradicionales. Los pacientes experimentan menos dolor durante la curación y mejores resultados estéticos. La tecnología disminuye la necesidad de injertos de piel extensos. Los especialistas en reconstrucción plástica utilizan este método para quemaduras de segundo y tercer grado. El tratamiento promueve epitelización rápida y reduce la formación de cicatrices hipertróficas. Esta innovación representa un avance importante en el cuidado de quemaduras graves.",
-      "body_en": "A hospital in Buckinghamshire implemented RECELL GO technology for the first time in the United Kingdom to treat burns. This innovative system uses live cells from the patient's own skin to accelerate regeneration of damaged skin. The procedure requires a small biopsy of healthy patient skin. The cells are cultured in the laboratory and then applied directly to the burn. The process significantly reduces healing time compared to traditional methods. Patients experience less pain during healing and better aesthetic results. The technology decreases the need for extensive skin grafts. Plastic and reconstructive specialists use this method for second and third-degree burns. The treatment promotes rapid epithelialization and reduces hypertrophic scar formation. This innovation represents a significant advance in severe burn care.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-02/burn-care.mp3",
+      "gradient": "orange",
+      "headline_es": "Nuevos Apósitos Aceleran la Cicatrización en Quemaduras Pediátricas",
+      "headline_en": "New Dressings Accelerate Healing in Pediatric Burns",
+      "summary_es": "Un estudio clínico muestra que los apósitos sin malla mejoran la epitelización en quemaduras neonatales y pediátricas, reduciendo el tiempo de hospitalización.",
+      "body_es": "Las quemaduras en pacientes pediátricos representan un desafío significativo para los profesionales de cuidado de heridas. Los métodos tradicionales de vendaje requieren cambios frecuentes que causan dolor y trauma adicional. Un nuevo apósito sin malla con propiedades bioactivas ha demostrado acelerar la epitelización. Los datos del ensayo clínico indican que la granulación del tejido comienza más rápidamente. El apósito mantiene un ambiente húmedo óptimo mientras protege la herida de la infección. Los pacientes pediátricos con quemaduras de espesor parcial mostraron reducción del 30% en el tiempo de curación. Las heridas tratadas con este apósito presentaban menos signos de necrosis y edema. Los cambios de vendaje pueden realizarse cada tres a cinco días en lugar de diariamente. La menor manipulación de la lesión reduce el dolor durante la hospitalización. Este nuevo enfoque representa un progreso importante en el tratamiento de quemaduras pediátricas.",
+      "body_en": "Burns in pediatric patients represent a significant challenge for wound care professionals. Traditional dressing methods require frequent changes that cause pain and additional trauma. A new mesh-free dressing with bioactive properties has shown acceleration of epithelialization. Clinical trial data indicates that tissue granulation begins more quickly. The dressing maintains an optimal moist environment while protecting the wound from infection. Pediatric patients with partial-thickness burns showed a 30% reduction in healing time. Wounds treated with this dressing showed fewer signs of necrosis and edema. Dressing changes can be performed every three to five days instead of daily. Reduced manipulation of the injury decreases pain during hospitalization. This new approach represents important progress in pediatric burn treatment.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-03/burn-care.mp3",
       "key_vocabulary": [
         {
           "word": "quemadura",
-          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
-          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+          "definition_es": "lesión de la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - skin injury caused by heat, fire, or chemicals"
         },
         {
           "word": "epitelización",
-          "definition_es": "proceso de formación de nuevo epitelio",
-          "definition_en": "epithelialization - formation of new epithelial tissue"
+          "definition_es": "proceso en que nueva piel se forma sobre una herida",
+          "definition_en": "epithelialization - process where new skin forms over a wound"
         },
         {
-          "word": "injerto de piel",
-          "definition_es": "trasplante de piel de un área a otra",
-          "definition_en": "skin graft - transplant of skin from one area to another"
-        },
-        {
-          "word": "cicatriz hipertrófica",
-          "definition_es": "cicatriz elevada y engrosada resultante de curación anormal",
-          "definition_en": "hypertrophic scar - raised and thickened scar from abnormal healing"
-        }
-      ]
-    },
-    {
-      "id": "surgical-wounds-20250102",
-      "category": "Surgical Wounds",
-      "difficulty": "B1",
-      "emoji": "✂️",
-      "gradient": "blue",
-      "headline_es": "Reconstrucción exitosa de lesión grave con desgarro en el pie",
-      "headline_en": "Successful Reconstruction of Severe Degloving Foot Injury",
-      "summary_es": "Un equipo quirúrgico realizó una reconstrucción multidisciplinaria de una lesión con desgarro severo en el pie. El procedimiento utilizó un colgajo libre del antebrazo radial con excelentes resultados funcionales.",
-      "body_es": "Un equipo multidisciplinario de cirujanos realizó una reconstrucción compleja de una lesión traumática con desgarro severo en el pie. La lesión inicial destruyó gran parte del tejido tegumentario y estructuras subyacentes. Los cirujanos plásticos utilizaron un colgajo libre del antebrazo radial para restaurar la cobertura de tejido. Este procedimiento requirió anastomosis vascular cuidadosa de arterias y venas. El defecto fue evaluado mediante resonancia magnética preoperatoria para planificar el colgajo. El tejido se desbridó minuciosamente para remover toda necrosis. La sutura se realizó con técnica microquirúrgica para asegurar viabilidad del colgajo. El paciente requirió múltiples drenajes para evitar acumulación de seromas. El seguimiento postoperatorio incluyó evaluación diaria de perfusión y color del colgajo. Los resultados funcionales fueron excelentes, permitiendo ambulación sin complicaciones vasculares.",
-      "body_en": "A multidisciplinary team of surgeons performed complex reconstruction of a traumatic degloving injury of the foot. The initial injury destroyed much of the skin tissue and underlying structures. Plastic surgeons used a free radial forearm flap to restore tissue coverage. This procedure required careful vascular anastomosis of arteries and veins. The defect was evaluated by preoperative MRI to plan the flap. The tissue was thoroughly debrided to remove all necrosis. Suturing was performed using microsurgical technique to ensure flap viability. The patient required multiple drains to prevent seroma accumulation. Postoperative follow-up included daily evaluation of flap perfusion and color. Functional results were excellent, allowing ambulation without vascular complications.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-02/surgical-wounds.mp3",
-      "key_vocabulary": [
-        {
-          "word": "desgarro",
-          "definition_es": "lesión donde la piel se separa del tejido subyacente",
-          "definition_en": "degloving - injury where skin separates from underlying tissue"
-        },
-        {
-          "word": "colgajo libre",
-          "definition_es": "transferencia de tejido completamente separado con suministro vascular nuevo",
-          "definition_en": "free flap - tissue transfer completely separated with new blood supply"
-        },
-        {
-          "word": "anastomosis vascular",
-          "definition_es": "conexión quirúrgica de vasos sanguíneos",
-          "definition_en": "vascular anastomosis - surgical connection of blood vessels"
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido conjuntivo durante la cicatrización",
+          "definition_en": "granulation - formation of new connective tissue during healing"
         },
         {
           "word": "necrosis",
@@ -180,41 +145,76 @@
       ]
     },
     {
-      "id": "wound-research-20250102",
+      "id": "surgical-wounds-20250103",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "sky",
+      "headline_es": "Complicaciones Postoperatorias en Cirugía Cosmética: Importancia del Seguimiento",
+      "headline_en": "Postoperative Complications in Cosmetic Surgery: Importance of Follow-up",
+      "summary_es": "Un informe reciente advierte sobre complicaciones de heridas quirúrgicas en pacientes con cirugía cosmética, enfatizando la necesidad de cuidados postoperatorios adecuados.",
+      "body_es": "Las complicaciones de heridas quirúrgicas después de la cirugía cosmética son más frecuentes de lo que se esperaba. Algunos pacientes se recuperaban en casa sin supervisión médica adecuada. La infección de la sutura y la separación de bordes fueron las complicaciones más comunes. Un seguimiento postoperatorio deficiente resultó en hospitalizaciones de emergencia. Los profesionales de enfermería deben realizar evaluaciones diarias de la incisión quirúrgica. Se debe verificar la presencia de exudado, eritema y calor local. Los pacientes requieren educación clara sobre los signos de alarma: fiebre, dolor severo y dehiscencia. El cambio de apósito debe realizarse según el protocolo específico de cada procedimiento. La evaluación de la cicatrización permite detectar problemas antes de que se conviertan en complicaciones graves. Se recomienda que los pacientes tengan acceso a contacto telefónico con su cirujano durante la primera semana postoperatoria.",
+      "body_en": "Surgical wound complications after cosmetic surgery are more frequent than expected. Some patients recovered at home without adequate medical supervision. Suture infection and edge separation were the most common complications. Poor postoperative follow-up resulted in emergency hospitalizations. Nursing professionals must perform daily surgical incision evaluations. The presence of exudate, erythema, and local heat should be verified. Patients require clear education about warning signs: fever, severe pain, and dehiscence. Dressing changes should be performed according to the specific protocol of each procedure. Assessment of wound healing allows detection of problems before they become serious complications. It is recommended that patients have access to telephone contact with their surgeon during the first postoperative week.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-03/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dehiscencia",
+          "definition_es": "separación de los bordes de una herida quirúrgica",
+          "definition_en": "dehiscence - separation of surgical wound edges"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes from a wound"
+        },
+        {
+          "word": "incisión",
+          "definition_es": "corte quirúrgico hecho en la piel durante la operación",
+          "definition_en": "incision - surgical cut made in the skin during surgery"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de curación de una herida",
+          "definition_en": "wound healing - natural process of healing an injury"
+        }
+      ]
+    },
+    {
+      "id": "wound-research-20250103",
       "category": "Wound Research",
       "difficulty": "B1",
       "emoji": "🔬",
-      "gradient": "green",
-      "headline_es": "La fototerapia revoluciona la curación de heridas en medicina moderna",
-      "headline_en": "Light Therapy Revolutionizes Wound Healing in Modern Medicine",
-      "summary_es": "Investigadores descubren que la fototerapia acelera significativamente la curación de heridas. Esta tecnología muestra promesa en múltiples especialidades médicas incluyendo medicina de heridas.",
-      "body_es": "Investigaciones recientes demuestran que la fototerapia, particularmente la luz roja e infrarroja, estimula la reparación tisular a nivel celular. Los estudios muestran que esta tecnología mejora la microcirculación en heridas. La luz penetra en la piel estimulando la producción de ATP en las mitocondrias. Este proceso acelera la proliferación de fibroblastos responsables de la síntesis de colágeno. Los resultados indican reducción significativa en el tiempo de epitelización. La fototerapia es particularmente efectiva en úlceras crónicas resistentes al tratamiento convencional. Los investigadores observaron disminución en la inflamación y edema perilesional. El mecanismo involucra estimulación de la angiogénesis y formación de nuevos vasos sanguíneos. Múltiples especialidades médicas, incluyendo cirugía plástica y medicina de heridas, están adoptando esta tecnología. Los efectos adversos son mínimos comparados con tratamientos farmacológicos. Los estudios clínicos continúan evaluando protocolos óptimos de dosificación y duración del tratamiento.",
-      "body_en": "Recent research demonstrates that phototherapy, particularly red and infrared light, stimulates tissue repair at the cellular level. Studies show that this technology improves microcirculation in wounds. Light penetrates the skin stimulating ATP production in mitochondria. This process accelerates fibroblast proliferation responsible for collagen synthesis. Results indicate significant reduction in epithelialization time. Phototherapy is particularly effective in chronic ulcers resistant to conventional treatment. Researchers observed decreased inflammation and perilateral edema. The mechanism involves stimulation of angiogenesis and new blood vessel formation. Multiple medical specialties, including plastic surgery and wound medicine, are adopting this technology. Adverse effects are minimal compared to pharmacological treatments. Clinical studies continue evaluating optimal dosing protocols and treatment duration.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-02/wound-research.mp3",
+      "gradient": "purple",
+      "headline_es": "Innovación en Curación de Heridas: Tendencias Clave para 2026",
+      "headline_en": "Innovation in Wound Care: Key Trends for 2026",
+      "summary_es": "La investigación en cuidado de heridas está transformándose mediante tecnología digital y nuevos apósitos avanzados que prometen revolucionar el tratamiento de úlceras crónicas.",
+      "body_es": "La industria de cuidado de heridas está experimentando una transformación significativa impulsada por innovación tecnológica. Los sistemas digitales permiten monitoreo remoto de heridas con cámaras especiales. La telemedicina facilita la evaluación de enfermeros especialistas sin desplazamiento del paciente. Los nuevos apósitos inteligentes pueden medir temperatura, humedad y signos de infección. La inteligencia artificial analiza fotografías de heridas para evaluar la epitelización. Estos sistemas predicen infecciones antes de que ocurran, permitiendo intervención temprana. Los electrodos de micronúcleos impresos en 3D ofrecen liberación controlada de medicamentos. Estos dispositivos pueden entregar antibióticos directamente en la herida. La investigación en biosensores continúa avanzando para mejorar la precisión diagnóstica. Se espera que estas tecnologías reduzcan significativamente los costos de hospitalización. La combinación de cuidado tradicional y tecnología digital representa el futuro de la cicatrización.",
+      "body_en": "The wound care industry is experiencing significant transformation driven by technological innovation. Digital systems allow remote wound monitoring with special cameras. Telemedicine facilitates evaluation by specialist nurses without patient displacement. New smart dressings can measure temperature, humidity, and signs of infection. Artificial intelligence analyzes photographs of wounds to assess epithelialization. These systems predict infections before they occur, allowing early intervention. 3D-printed microneedle electrodes offer controlled medication delivery. These devices can deliver antibiotics directly into the wound. Research in biosensors continues advancing to improve diagnostic accuracy. These technologies are expected to significantly reduce hospitalization costs. The combination of traditional care and digital technology represents the future of healing.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-03/wound-research.mp3",
       "key_vocabulary": [
         {
-          "word": "fototerapia",
-          "definition_es": "tratamiento usando luz para estimular curación",
-          "definition_en": "phototherapy - treatment using light to stimulate healing"
+          "word": "telemedicina",
+          "definition_es": "entrega de servicios médicos a través de tecnología digital",
+          "definition_en": "telemedicine - delivery of medical services through digital technology"
         },
         {
-          "word": "angiogénesis",
-          "definition_es": "formación de nuevos vasos sanguíneos",
-          "definition_en": "angiogenesis - formation of new blood vessels"
+          "word": "biosensor",
+          "definition_es": "dispositivo que detecta y mide cambios biológicos en una herida",
+          "definition_en": "biosensor - device that detects and measures biological changes in a wound"
         },
         {
-          "word": "fibroblasto",
-          "definition_es": "célula que produce colágeno y participa en cicatrización",
-          "definition_en": "fibroblast - cell that produces collagen and participates in scarring"
+          "word": "apósito inteligente",
+          "definition_es": "vendaje que contiene sensores para monitorear la herida",
+          "definition_en": "smart dressing - bandage that contains sensors to monitor the wound"
         },
         {
-          "word": "colágeno",
-          "definition_es": "proteína estructural principal de la piel y tejido conectivo",
-          "definition_en": "collagen - main structural protein of skin and connective tissue"
+          "word": "intervención",
+          "definition_es": "acción médica realizada para tratar o prevenir un problema",
+          "definition_en": "intervention - medical action performed to treat or prevent a problem"
         }
       ]
     }
   ],
-  "last_updated": "2026-01-02T09:08:44.625642Z",
+  "last_updated": "2026-01-03T09:06:47.309278Z",
   "generated_by": "GitHub Actions + Anthropic API"
 }
