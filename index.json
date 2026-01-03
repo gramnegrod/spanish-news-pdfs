@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-03",
+      "filename": "spanish_lesson_2026-01-03.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-03.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos ataca militarmente a Venezuela",
+          "headline_en": "United States militarily attacks Venezuela",
+          "body_es": "Estados Unidos lanzó ataques militares contra Venezuela. El presidente Trump decidió aumentar la presión sobre el régimen de Nicolás Maduro. Las fuentes confirman que los ataques son parte de una estrategia política. El gobierno estadounidense quiere cambiar la situación en Venezuela. Maduro controla el país desde hace varios años. La población venezolana sufre una crisis económica muy grave. Muchas personas han salido del país buscando mejores oportunidades. Trump cree que los ataques pueden ayudar a resolver la crisis. Sin embargo, otros países critican esta decisión militar. La situación internacional se vuelve más tensa cada día.",
+          "body_en": "The United States launched military attacks against Venezuela. President Trump decided to increase pressure on Nicolás Maduro's regime. Sources confirm that the attacks are part of a political strategy. The US government wants to change the situation in Venezuela. Maduro has controlled the country for several years. The Venezuelan population suffers a very serious economic crisis. Many people have left the country seeking better opportunities. Trump believes the attacks can help resolve the crisis. However, other countries criticize this military decision. The international situation becomes more tense every day.",
+          "source": "CBS News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía estadounidense ahora pertenece a Trump",
+          "headline_en": "The American economy now belongs to Trump",
+          "body_es": "La economía de Estados Unidos oficialmente se convierte en responsabilidad de Trump. El nuevo presidente debe manejar los problemas económicos del país. Los expertos observan cuidadosamente sus primeras decisiones financieras. Trump prometió durante su campaña mejorar la situación económica. Los trabajadores estadounidenses esperan más empleos y mejores salarios. Las empresas también buscan nuevas oportunidades de crecimiento. Sin embargo, la economía global presenta muchos desafíos importantes. La inflación y los precios altos preocupan a las familias. Trump necesita crear políticas efectivas rápidamente. El éxito económico será fundamental para su presidencia y el futuro del país.",
+          "body_en": "The US economy officially becomes Trump's responsibility. The new president must handle the country's economic problems. Experts carefully observe his first financial decisions. Trump promised during his campaign to improve the economic situation. American workers expect more jobs and better salaries. Companies also seek new growth opportunities. However, the global economy presents many important challenges. Inflation and high prices worry families. Trump needs to create effective policies quickly. Economic success will be fundamental for his presidency and the country's future.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Escuelas usan inteligencia artificial pero hay dudas",
+          "headline_en": "Schools use artificial intelligence but there are doubts",
+          "body_es": "Las escuelas estadounidenses adoptan herramientas de inteligencia artificial para mejorar la educación. Muchos profesores usan estos programas para crear clases más interesantes. Los estudiantes pueden aprender de manera más personalizada y eficiente. Sin embargo, algunos escépticos expresan serias preocupaciones sobre esta tecnología. Temen que los estudiantes dependan demasiado de las máquinas. También existe el riesgo de que la IA reemplace a los profesores humanos. Los padres se preguntan si sus hijos aprenderán correctamente. Las escuelas deben encontrar el equilibrio perfecto entre tecnología y educación tradicional. El debate sobre la IA en educación continúa creciendo cada día.",
+          "body_en": "American schools adopt artificial intelligence tools to improve education. Many teachers use these programs to create more interesting classes. Students can learn in a more personalized and efficient way. However, some skeptics express serious concerns about this technology. They fear that students depend too much on machines. There's also the risk that AI replaces human teachers. Parents wonder if their children will learn correctly. Schools must find the perfect balance between technology and traditional education. The debate about AI in education continues to grow every day.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "ataques",
+          "syllables": "a-TA-ques",
+          "pos": "sustantivo",
+          "context": "Estados Unidos lanza ataques militares contra Venezuela.",
+          "definition_es": "Acciones militares agresivas contra un país o lugar",
+          "definition_en": "Military aggressive actions against a country or place"
+        },
+        {
+          "word": "régimen",
+          "syllables": "RÉ-gi-men",
+          "pos": "sustantivo",
+          "context": "Trump aumenta la presión sobre el régimen de Maduro.",
+          "definition_es": "Sistema de gobierno, especialmente autoritario",
+          "definition_en": "System of government, especially authoritarian"
+        },
+        {
+          "word": "presión",
+          "syllables": "pre-SIÓN",
+          "pos": "sustantivo",
+          "context": "El presidente escaló la presión política.",
+          "definition_es": "Fuerza o influencia para conseguir algo",
+          "definition_en": "Force or influence to achieve something"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "Ahora es oficialmente la economía de Trump.",
+          "definition_es": "Sistema de producción y distribución de dinero",
+          "definition_en": "System of production and distribution of money"
+        },
+        {
+          "word": "herramientas",
+          "syllables": "he-rra-MIEN-tas",
+          "pos": "sustantivo",
+          "context": "Las escuelas adoptan herramientas de inteligencia artificial.",
+          "definition_es": "Instrumentos o programas que ayudan a hacer algo",
+          "definition_en": "Instruments or programs that help to do something"
+        },
+        {
+          "word": "escépticos",
+          "syllables": "es-CÉP-ti-cos",
+          "pos": "adjetivo",
+          "context": "Los escépticos expresan preocupaciones sobre la tecnología.",
+          "definition_es": "Personas que dudan o no confían fácilmente",
+          "definition_en": "People who doubt or don't trust easily"
+        },
+        {
+          "word": "preocupaciones",
+          "syllables": "pre-o-cu-pa-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Surgen preocupaciones sobre el uso de IA en escuelas.",
+          "definition_es": "Sentimientos de inquietud o miedo sobre algo",
+          "definition_en": "Feelings of worry or fear about something"
+        },
+        {
+          "word": "adoptan",
+          "syllables": "a-DOP-tan",
+          "pos": "verbo",
+          "context": "Las escuelas adoptan nuevas tecnologías educativas.",
+          "definition_es": "Aceptan y empiezan a usar algo nuevo",
+          "definition_en": "Accept and start to use something new"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'régimen'?",
+          "options": [
+            "Un tipo de comida",
+            "Un sistema de gobierno",
+            "Una medicina",
+            "Un deporte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Las personas 'escépticas' son aquellas que:",
+          "options": [
+            "Confían fácilmente",
+            "Dudan o no confían",
+            "Siempre están felices",
+            "Estudian mucho"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'herramientas' de inteligencia artificial?",
+          "options": [
+            "Instrumentos físicos",
+            "Programas que ayudan",
+            "Libros de texto",
+            "Profesores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Cuando las escuelas 'adoptan' nueva tecnología, significa que:",
+          "options": [
+            "La rechazan",
+            "La aceptan y usan",
+            "La venden",
+            "La rompen"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia, ¿por qué Trump atacó Venezuela?",
+          "options": [
+            "Para ayudar a la economía",
+            "Para aumentar presión sobre Maduro",
+            "Para conseguir petróleo",
+            "Para defender a Cuba"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la principal responsabilidad de Trump según la historia económica?",
+          "options": [
+            "Controlar las escuelas",
+            "Atacar otros países",
+            "Manejar la economía del país",
+            "Crear nueva tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué preocupa a los escépticos sobre la IA en escuelas?",
+          "options": [
+            "Que sea muy cara",
+            "Que los estudiantes dependan mucho de las máquinas",
+            "Que sea muy lenta",
+            "Que no funcione"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué prometió Trump durante su campaña?",
+          "options": [
+            "Atacar Venezuela",
+            "Mejorar la situación económica",
+            "Eliminar las escuelas",
+            "Prohibir la tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cómo puede la IA ayudar a los estudiantes según el texto?",
+          "options": [
+            "Eliminando a los profesores",
+            "Aprender de manera personalizada",
+            "Haciendo la tarea por ellos",
+            "Reduciendo las clases"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué buscan las escuelas según la historia sobre IA?",
+          "options": [
+            "Eliminar la educación tradicional",
+            "Equilibrio entre tecnología y educación tradicional",
+            "Reemplazar todos los libros",
+            "Usar solo computadoras"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-03T09:02:00.079096"
+    },
+    {
       "date": "2026-01-02",
       "filename": "spanish_lesson_2026-01-02.pdf",
       "path": "pdfs/spanish_lesson_2026-01-02.pdf",
@@ -5798,7 +6020,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-02T09:03:42.777500",
+  "last_updated": "2026-01-03T09:02:00.079110",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
