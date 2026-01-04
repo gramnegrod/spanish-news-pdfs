@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-04",
+      "filename": "spanish_lesson_2026-01-04.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-04.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos ataca Venezuela y captura a Maduro",
+          "headline_en": "United States attacks Venezuela and captures Maduro",
+          "body_es": "Estados Unidos realizó una operación militar en Venezuela. Las fuerzas estadounidenses capturaron al presidente Nicolás Maduro. El presidente Trump anunció que Estados Unidos va a gobernar Venezuela temporalmente. Trump dijo que esta decisión es necesaria para la estabilidad de la región. La operación fue rápida y exitosa según fuentes oficiales. Muchos países están observando la situación con preocupación. El gobierno estadounidense no ha explicado todos los detalles de la operación. Esta acción marca un momento histórico en las relaciones entre los dos países. La comunidad internacional está pidiendo más información sobre los planes futuros para Venezuela.",
+          "body_en": "The United States carried out a military operation in Venezuela. U.S. forces captured President Nicolás Maduro. President Trump announced that the United States will govern Venezuela temporarily. Trump said this decision is necessary for regional stability. The operation was quick and successful according to official sources. Many countries are watching the situation with concern. The U.S. government has not explained all the details of the operation. This action marks a historic moment in relations between the two countries. The international community is asking for more information about future plans for Venezuela.",
+          "source": "CBS News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Trump planea usar las reservas de petróleo de Venezuela",
+          "headline_en": "Trump plans to use Venezuela's oil reserves",
+          "body_es": "El presidente Trump anunció que Estados Unidos va a explotar las reservas de petróleo de Venezuela. Venezuela tiene algunas de las reservas de petróleo más grandes del mundo. Trump explicó que esto va a ayudar a la economía estadounidense. El petróleo venezolano puede reducir los precios de la gasolina en Estados Unidos. Esta decisión económica es parte del plan para controlar Venezuela. Las empresas petroleras estadounidenses están muy interesadas en este proyecto. El gobierno dice que esto va a crear muchos empleos nuevos. Sin embargo, algunos expertos tienen dudas sobre los aspectos legales de esta decisión. La situación económica mundial puede cambiar mucho con esta nueva política.",
+          "body_en": "President Trump announced that the United States will exploit Venezuela's oil reserves. Venezuela has some of the world's largest oil reserves. Trump explained that this will help the U.S. economy. Venezuelan oil can reduce gasoline prices in the United States. This economic decision is part of the plan to control Venezuela. American oil companies are very interested in this project. The government says this will create many new jobs. However, some experts have doubts about the legal aspects of this decision. The global economic situation could change significantly with this new policy.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La inteligencia artificial eliminará empleos en muchas empresas",
+          "headline_en": "Artificial intelligence will eliminate jobs in many companies",
+          "body_es": "Un nuevo estudio muestra que la inteligencia artificial va a cambiar el mundo del trabajo. Ocho de cada diez empresas esperan reducir el número de empleados. La inteligencia artificial puede hacer muchos trabajos mejor que los humanos. Las empresas dicen que esta tecnología es más rápida y más barata. Los trabajadores están preocupados por su futuro laboral. Algunos expertos recomiendan aprender nuevas habilidades tecnológicas. El gobierno debe preparar programas de entrenamiento para los trabajadores. Esta situación va a afectar a millones de personas en todo el mundo. Es importante encontrar soluciones para ayudar a los trabajadores que pierdan sus empleos.",
+          "body_en": "A new study shows that artificial intelligence will change the world of work. Eight out of ten companies expect to reduce the number of employees. Artificial intelligence can do many jobs better than humans. Companies say this technology is faster and cheaper. Workers are worried about their job future. Some experts recommend learning new technological skills. The government must prepare training programs for workers. This situation will affect millions of people worldwide. It's important to find solutions to help workers who lose their jobs.",
+          "source": "MSN"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "atacar",
+          "syllables": "a-ta-CAR",
+          "pos": "verbo",
+          "context": "Estados Unidos atacó Venezuela y capturó a Maduro",
+          "definition_es": "Usar fuerza militar contra alguien o algo",
+          "definition_en": "To use military force against someone or something"
+        },
+        {
+          "word": "capturar",
+          "syllables": "cap-tu-RAR",
+          "pos": "verbo",
+          "context": "Las fuerzas estadounidenses capturaron al presidente venezolano",
+          "definition_es": "Tomar prisionero a alguien por la fuerza",
+          "definition_en": "To take someone prisoner by force"
+        },
+        {
+          "word": "reservas",
+          "syllables": "re-SER-vas",
+          "pos": "sustantivo",
+          "context": "Venezuela tiene grandes reservas de petróleo",
+          "definition_es": "Cantidad de algo guardada para uso futuro",
+          "definition_en": "Amount of something saved for future use"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "Estados Unidos quiere usar el petróleo venezolano",
+          "definition_es": "Líquido negro que se usa para hacer gasolina",
+          "definition_en": "Black liquid used to make gasoline"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial puede eliminar empleos",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "reducción",
+          "syllables": "re-duc-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las empresas planean una reducción de empleos",
+          "definition_es": "Hacer algo más pequeño o menos",
+          "definition_en": "Making something smaller or less"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Ocho de cada diez empresas esperan eliminar empleos",
+          "definition_es": "Organizaciones que hacen negocios",
+          "definition_en": "Organizations that do business"
+        },
+        {
+          "word": "gobernar",
+          "syllables": "go-ber-NAR",
+          "pos": "verbo",
+          "context": "Trump dice que va a gobernar Venezuela temporalmente",
+          "definition_es": "Dirigir y controlar un país",
+          "definition_en": "To direct and control a country"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'capturar'?",
+          "options": [
+            "Liberar a alguien",
+            "Tomar prisionero por la fuerza",
+            "Ayudar a escapar",
+            "Dar libertad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'reservas de petróleo'?",
+          "options": [
+            "Petróleo usado",
+            "Petróleo guardado para uso futuro",
+            "Petróleo importado",
+            "Petróleo artificial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reducción de empleos'?",
+          "options": [
+            "Crear más trabajos",
+            "Eliminar puestos de trabajo",
+            "Mejorar salarios",
+            "Dar vacaciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'gobernar un país'?",
+          "options": [
+            "Visitar un país",
+            "Dirigir y controlar un país",
+            "Atacar un país",
+            "Abandonar un país"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿quién fue capturado?",
+          "options": [
+            "Un militar",
+            "Nicolás Maduro",
+            "Un ciudadano",
+            "Un periodista"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué quiere Estados Unidos el petróleo venezolano?",
+          "options": [
+            "Para exportarlo",
+            "Para ayudar a su economía",
+            "Para guardarlo",
+            "Para regalarlo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántas empresas esperan reducir empleos según el estudio?",
+          "options": [
+            "5 de cada 10",
+            "7 de cada 10",
+            "8 de cada 10",
+            "9 de cada 10"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué dice Trump sobre gobernar Venezuela?",
+          "options": [
+            "Será permanente",
+            "Será temporal",
+            "No va a gobernar",
+            "Será con ayuda"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué las empresas prefieren la inteligencia artificial?",
+          "options": [
+            "Es más cara",
+            "Es más lenta",
+            "Es más rápida y barata",
+            "Es más complicada"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cómo está reaccionando la comunidad internacional?",
+          "options": [
+            "Con alegría",
+            "Con indiferencia",
+            "Pidiendo más información",
+            "Celebrando"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-04T09:01:57.183619"
+    },
+    {
       "date": "2026-01-03",
       "filename": "spanish_lesson_2026-01-03.pdf",
       "path": "pdfs/spanish_lesson_2026-01-03.pdf",
@@ -6020,7 +6242,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-03T09:02:00.079110",
+  "last_updated": "2026-01-04T09:01:57.183633",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
