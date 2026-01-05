@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-05",
+      "filename": "spanish_lesson_2026-01-05.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-05.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump dice que Estados Unidos controla Venezuela",
+          "headline_en": "Trump says United States controls Venezuela",
+          "body_es": "El presidente Trump declaró que Estados Unidos está \"a cargo\" de Venezuela. Esta declaración llegó después de eventos políticos importantes en el país sudamericano. Nicolás Maduro, el líder de Venezuela, debe aparecer ante un tribunal estadounidense el próximo lunes. La situación política entre los dos países se ha vuelto muy tensa. Trump afirmó que su gobierno tiene control sobre la situación venezolana. Esta declaración ha causado reacciones fuertes en América Latina. Muchos países están preocupados por esta nueva posición americana. La crisis política en Venezuela continúa afectando a toda la región. Los expertos dicen que esta situación puede cambiar las relaciones internacionales en América.",
+          "body_en": "President Trump declared that the United States is \"in charge\" of Venezuela. This statement came after important political events in the South American country. Nicolás Maduro, Venezuela's leader, must appear before a US court next Monday. The political situation between the two countries has become very tense. Trump stated that his government has control over the Venezuelan situation. This declaration has caused strong reactions in Latin America. Many countries are worried about this new American position. The political crisis in Venezuela continues to affect the entire region. Experts say this situation could change international relations in America.",
+          "source": "CBS News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Las acciones de oro suben pero el petróleo baja",
+          "headline_en": "Gold stocks rise but oil falls",
+          "body_es": "Los mercados financieros reaccionaron rápidamente a las noticias sobre Venezuela. Las acciones de oro y defensa subieron de precio significativamente. Sin embargo, el petróleo experimentó una caída en sus precios. Esta situación económica está relacionada con la captura de Maduro por parte de Estados Unidos. Los inversores están comprando más oro porque consideran que es más seguro. Las empresas de defensa también se benefician de la tensión política. Por el contrario, el mercado del petróleo muestra incertidumbre. Venezuela tiene grandes reservas de petróleo, y esta situación afecta los precios mundiales. Los expertos económicos están observando cómo evolucionan estos mercados. La volatilidad financiera puede continuar en los próximos días.",
+          "body_en": "Financial markets reacted quickly to news about Venezuela. Gold and defense stocks rose significantly in price. However, oil experienced a drop in its prices. This economic situation is related to Maduro's seizure by the United States. Investors are buying more gold because they consider it safer. Defense companies also benefit from political tension. Conversely, the oil market shows uncertainty. Venezuela has large oil reserves, and this situation affects world prices. Economic experts are watching how these markets evolve. Financial volatility may continue in the coming days.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Estados Unidos crea equipo especial para contratar expertos en inteligencia artificial",
+          "headline_en": "United States creates special team to hire artificial intelligence experts",
+          "body_es": "El gobierno estadounidense lanzó una nueva iniciativa llamada \"Tech Force\". Este programa busca contratar talento especializado en inteligencia artificial. La iniciativa tiene como objetivo mejorar las capacidades tecnológicas del gobierno. Necesitan expertos que puedan trabajar en proyectos de tecnología avanzada. La inteligencia artificial se está volviendo muy importante para la seguridad nacional. El programa ofrecerá empleos bien pagados a programadores y científicos. También buscan personas con experiencia en aprendizaje automático. Esta iniciativa muestra que el gobierno quiere competir mejor con empresas privadas. Los responsables del programa dicen que la tecnología es crucial para el futuro del país. Esperan atraer a los mejores profesionales del sector tecnológico.",
+          "body_en": "The US government launched a new initiative called \"Tech Force\". This program seeks to hire talent specialized in artificial intelligence. The initiative aims to improve the government's technological capabilities. They need experts who can work on advanced technology projects. Artificial intelligence is becoming very important for national security. The program will offer well-paid jobs to programmers and scientists. They are also looking for people with machine learning experience. This initiative shows that the government wants to compete better with private companies. Program officials say technology is crucial for the country's future. They hope to attract the best professionals in the technology sector.",
+          "source": "AOL.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "apoderarse",
+          "syllables": "a-po-de-RAR-se",
+          "pos": "verbo",
+          "context": "Estados Unidos se apoderó del control de Venezuela",
+          "definition_es": "Tomar control o dominio de algo por la fuerza",
+          "definition_en": "To seize control or take charge of something by force"
+        },
+        {
+          "word": "tribunal",
+          "syllables": "tri-bu-NAL",
+          "pos": "sustantivo",
+          "context": "Maduro debe aparecer ante el tribunal el lunes",
+          "definition_es": "Lugar donde se administra justicia y se celebran juicios",
+          "definition_en": "Court where justice is administered and trials are held"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones de oro y defensa subieron de precio",
+          "definition_es": "Partes de una empresa que se pueden comprar y vender",
+          "definition_en": "Shares of a company that can be bought and sold"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo bajó después de las noticias",
+          "definition_es": "Líquido negro que se extrae de la tierra y se usa como combustible",
+          "definition_en": "Black liquid extracted from earth and used as fuel"
+        },
+        {
+          "word": "contratar",
+          "syllables": "con-tra-TAR",
+          "pos": "verbo",
+          "context": "El gobierno quiere contratar expertos en tecnología",
+          "definition_es": "Dar trabajo a una persona mediante un acuerdo",
+          "definition_en": "To hire or employ someone through an agreement"
+        },
+        {
+          "word": "talento",
+          "syllables": "ta-LEN-to",
+          "pos": "sustantivo",
+          "context": "Buscan talento especializado en inteligencia artificial",
+          "definition_es": "Capacidad especial o habilidad natural de una persona",
+          "definition_en": "Special capacity or natural ability of a person"
+        },
+        {
+          "word": "lanzar",
+          "syllables": "lan-ZAR",
+          "pos": "verbo",
+          "context": "El gobierno lanzó una nueva iniciativa tecnológica",
+          "definition_es": "Comenzar o iniciar algo nuevo",
+          "definition_en": "To launch or start something new"
+        },
+        {
+          "word": "cargo",
+          "syllables": "CAR-go",
+          "pos": "sustantivo",
+          "context": "Trump dice que Estados Unidos está a cargo de Venezuela",
+          "definition_es": "Posición de responsabilidad o control sobre algo",
+          "definition_en": "Position of responsibility or control over something"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'apoderarse'?",
+          "options": [
+            "Dar algo a alguien",
+            "Tomar control por la fuerza",
+            "Pedir ayuda",
+            "Vender algo caro"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en economía?",
+          "options": [
+            "Movimientos del cuerpo",
+            "Partes de una empresa",
+            "Tipos de trabajo",
+            "Decisiones importantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'lanzar' un programa?",
+          "options": [
+            "Terminar algo",
+            "Tirar algo lejos",
+            "Comenzar algo nuevo",
+            "Criticar algo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Dónde debe aparecer Maduro el lunes?",
+          "options": [
+            "En una escuela",
+            "En un tribunal",
+            "En un hospital",
+            "En un hotel"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué declaró Trump sobre Venezuela?",
+          "options": [
+            "Que está en guerra",
+            "Que está a cargo",
+            "Que no le interesa",
+            "Que necesita ayuda"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con el precio del petróleo según la historia económica?",
+          "options": [
+            "Subió mucho",
+            "Bajó",
+            "Se mantuvo igual",
+            "Desapareció"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama el programa tecnológico del gobierno estadounidense?",
+          "options": [
+            "AI Force",
+            "Tech Force",
+            "Cyber Force",
+            "Digital Force"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de acciones subieron de precio?",
+          "options": [
+            "Petróleo y gas",
+            "Oro y defensa",
+            "Tecnología y medicina",
+            "Agricultura y turismo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué los inversores compran más oro según la historia?",
+          "options": [
+            "Es más barato",
+            "Es más seguro",
+            "Es más rápido",
+            "Es más popular"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué busca contratar el programa Tech Force?",
+          "options": [
+            "Soldados",
+            "Doctores",
+            "Expertos en inteligencia artificial",
+            "Profesores"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-05T09:05:39.309402"
+    },
+    {
       "date": "2026-01-04",
       "filename": "spanish_lesson_2026-01-04.pdf",
       "path": "pdfs/spanish_lesson_2026-01-04.pdf",
@@ -6242,7 +6464,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-04T09:01:57.183633",
+  "last_updated": "2026-01-05T09:05:39.309417",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
