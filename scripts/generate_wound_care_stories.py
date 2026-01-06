@@ -93,6 +93,7 @@ def fetch_rss_candidates() -> Dict[str, List[Dict]]:
                 title = item.find('title')
                 description = item.find('description')
                 source = item.find('source')
+                link = item.find('link')
 
                 title_text = html.unescape(title.text) if title is not None and title.text else ""
 
@@ -102,12 +103,14 @@ def fetch_rss_candidates() -> Dict[str, List[Dict]]:
                     desc_text = re.sub(r'<[^>]+>', '', desc_text)
 
                 source_text = source.text if source is not None and source.text else "Medical News"
+                link_text = link.text if link is not None and link.text else ""
 
                 if title_text:
                     candidates[category].append({
                         "title": title_text,
                         "description": desc_text,
-                        "source": source_text
+                        "source": source_text,
+                        "url": link_text
                     })
 
             print(f"  ✓ {category}: {len(candidates[category])} candidates")
@@ -144,6 +147,8 @@ NEWS CANDIDATES BY CATEGORY:
         if category in candidates and candidates[category]:
             for i, item in enumerate(candidates[category], 1):
                 prompt += f"{i}. [{item['source']}] {item['title']}\n"
+                if item['url']:
+                    prompt += f"   URL: {item['url']}\n"
                 if item['description']:
                     prompt += f"   {item['description'][:150]}...\n"
         else:
@@ -166,6 +171,7 @@ OUTPUT FORMAT - Return valid JSON with exactly 6 stories:
       "summary_es": "1-2 sentence Spanish summary",
       "body_es": "Full Spanish story (100-150 words for A2, 150-200 for B1)",
       "body_en": "English translation of body",
+      "source_url": "Original article URL from the news candidate (REQUIRED - copy from URL field above)",
       "audio_url": "",
       "key_vocabulary": [
         {"word": "herida", "definition_es": "lesión en la piel o tejido", "definition_en": "wound - injury to skin or tissue"},
@@ -208,6 +214,7 @@ REQUIREMENTS:
 4. Stories must be based on actual medical news when available
 5. Include specific statistics, hospital names, or study details when possible
 6. Content should be professionally appropriate for healthcare settings
+7. IMPORTANT: Include source_url with the original article URL from the candidate list
 
 Return ONLY the JSON, no other text."""
 
