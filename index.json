@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-06",
+      "filename": "spanish_lesson_2026-01-06.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-06.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso dividido regresa con importantes debates",
+          "headline_en": "Divided Congress returns with important debates",
+          "body_es": "El Congreso de Estados Unidos regresó después de las vacaciones. Los políticos están divididos en dos grupos principales. Tienen que discutir temas muy importantes como la salud, los gastos del gobierno y la situación en Venezuela. Los republicanos y demócratas no están de acuerdo en muchas cosas. Habrá muchas batallas políticas en los próximos meses. El tema de la salud es especialmente difícil. Cada grupo tiene ideas diferentes sobre cómo gastar el dinero del país. También van a hablar sobre la política exterior con Venezuela. Estas decisiones van a afectar a todos los estadounidenses. Los expertos dicen que será un período muy complicado para el gobierno.",
+          "body_en": "The United States Congress returned after the holidays. Politicians are divided into two main groups. They have to discuss very important topics like health, government spending and the situation in Venezuela. Republicans and Democrats don't agree on many things. There will be many political battles in the coming months. The health issue is especially difficult. Each group has different ideas about how to spend the country's money. They will also talk about foreign policy with Venezuela. These decisions will affect all Americans. Experts say it will be a very complicated period for the government.",
+          "source": "CNN"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Las deportaciones afectan la economía y el trabajo en Estados Unidos",
+          "headline_en": "Deportations affect the economy and work in the United States",
+          "body_es": "El plan de deportación del presidente Trump está causando problemas económicos. El gobierno está gastando mucho dinero en deportar personas. Esto está afectando las finanzas públicas del país. También hay problemas en el mercado laboral. Muchas empresas necesitan trabajadores pero no los encuentran. Los sectores de agricultura, construcción y servicios tienen especialmente pocos empleados. Algunos negocios están cerrando porque no tienen suficiente personal. Los economistas dicen que las deportaciones masivas cuestan mucho dinero al gobierno. Al mismo tiempo, la economía pierde trabajadores importantes. Esta situación está creando un problema doble: menos trabajadores y más gastos gubernamentales. Los expertos recomiendan buscar soluciones que no dañen tanto la economía.",
+          "body_en": "President Trump's deportation plan is causing economic problems. The government is spending a lot of money on deporting people. This is affecting the country's public finances. There are also problems in the labor market. Many companies need workers but can't find them. The agriculture, construction and services sectors especially have few employees. Some businesses are closing because they don't have enough staff. Economists say mass deportations cost the government a lot of money. At the same time, the economy loses important workers. This situation is creating a double problem: fewer workers and more government spending. Experts recommend finding solutions that don't hurt the economy so much.",
+          "source": "EL PAÍS English"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nvidia presenta nuevos chips de inteligencia artificial y coches autónomos",
+          "headline_en": "Nvidia presents new artificial intelligence chips and autonomous cars",
+          "body_es": "La empresa tecnológica Nvidia anunció importantes novedades. Crearon nuevos chips especiales para inteligencia artificial. Estos chips son más rápidos y potentes que los anteriores. También presentaron un proyecto muy interesante con Mercedes-Benz. Van a trabajar juntos para crear coches autónomos más inteligentes. Los nuevos vehículos podrán conducir solos sin ayuda humana. Usarán la tecnología de Nvidia para tomar decisiones rápidas en el tráfico. Mercedes pondrá esta tecnología en sus coches de lujo. Los expertos dicen que esto va a cambiar el futuro del transporte. Sin embargo, todavía necesitan hacer muchas pruebas de seguridad. El proyecto durará varios años antes de llegar al mercado general.",
+          "body_en": "Technology company Nvidia announced important developments. They created new special chips for artificial intelligence. These chips are faster and more powerful than previous ones. They also presented a very interesting project with Mercedes-Benz. They will work together to create smarter autonomous cars. The new vehicles will be able to drive alone without human help. They will use Nvidia's technology to make quick decisions in traffic. Mercedes will put this technology in their luxury cars. Experts say this will change the future of transportation. However, they still need to do many safety tests. The project will last several years before reaching the general market.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "dividido",
+          "syllables": "di-vi-DI-do",
+          "pos": "adjetivo",
+          "context": "El Congreso dividido regresa para discutir temas importantes.",
+          "definition_es": "Separado en partes o grupos que no están de acuerdo",
+          "definition_en": "Split into parts or groups that disagree"
+        },
+        {
+          "word": "gastos",
+          "syllables": "GAS-tos",
+          "pos": "sustantivo",
+          "context": "Los políticos van a debatir sobre los gastos del gobierno.",
+          "definition_es": "Dinero que se usa para pagar algo",
+          "definition_en": "Money spent to pay for something"
+        },
+        {
+          "word": "deportación",
+          "syllables": "de-por-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "La deportación está afectando el mercado laboral.",
+          "definition_es": "Acción de expulsar a una persona de un país",
+          "definition_en": "Action of removing a person from a country"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral necesita más trabajadores.",
+          "definition_es": "Sistema donde las personas buscan y encuentran trabajo",
+          "definition_en": "System where people look for and find jobs"
+        },
+        {
+          "word": "chips",
+          "syllables": "chips",
+          "pos": "sustantivo",
+          "context": "Nvidia creó nuevos chips para inteligencia artificial.",
+          "definition_es": "Pequeños componentes electrónicos para computadoras",
+          "definition_en": "Small electronic components for computers"
+        },
+        {
+          "word": "autónomo",
+          "syllables": "au-TÓ-no-mo",
+          "pos": "adjetivo",
+          "context": "Los coches autónomos no necesitan conductor humano.",
+          "definition_es": "Que funciona solo, sin ayuda de una persona",
+          "definition_en": "That works alone, without help from a person"
+        },
+        {
+          "word": "batallas",
+          "syllables": "ba-TA-llas",
+          "pos": "sustantivo",
+          "context": "Habrá muchas batallas políticas en el Congreso.",
+          "definition_es": "Conflictos o luchas entre diferentes grupos",
+          "definition_en": "Conflicts or fights between different groups"
+        },
+        {
+          "word": "proyecto",
+          "syllables": "pro-YEC-to",
+          "pos": "sustantivo",
+          "context": "Mercedes tiene un nuevo proyecto con Nvidia.",
+          "definition_es": "Plan para crear o hacer algo nuevo",
+          "definition_en": "Plan to create or make something new"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'dividido'?",
+          "options": [
+            "Unido completamente",
+            "Separado en grupos que no están de acuerdo",
+            "Muy feliz",
+            "Trabajando juntos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'gastos'?",
+          "options": [
+            "Dinero que se gana",
+            "Dinero que se usa para pagar algo",
+            "Dinero que se encuentra",
+            "Dinero que se presta"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Un coche 'autónomo' es un coche que:",
+          "options": [
+            "Es muy caro",
+            "Funciona solo sin conductor humano",
+            "Usa mucha gasolina",
+            "Es muy pequeño"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es el 'mercado laboral'?",
+          "options": [
+            "Un lugar para comprar comida",
+            "Sistema donde las personas buscan trabajo",
+            "Una tienda de ropa",
+            "Un banco para guardar dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿cuáles son los temas que va a discutir el Congreso?",
+          "options": [
+            "Deportes, música y arte",
+            "Salud, gastos del gobierno y Venezuela",
+            "Coches, computadoras y teléfonos",
+            "Comida, ropa y casas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué problema económico causan las deportaciones según la historia?",
+          "options": [
+            "Aumentan los salarios",
+            "Cuestan mucho dinero y reducen trabajadores",
+            "Mejoran la economía",
+            "No tienen efectos económicos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores necesitan especialmente más trabajadores?",
+          "options": [
+            "Tecnología, medicina y educación",
+            "Agricultura, construcción y servicios",
+            "Banca, seguros y finanzas",
+            "Arte, música y teatro"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Con qué empresa va a trabajar Nvidia?",
+          "options": [
+            "Toyota",
+            "Ford",
+            "Mercedes-Benz",
+            "BMW"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué va a crear Nvidia con Mercedes?",
+          "options": [
+            "Teléfonos inteligentes",
+            "Coches autónomos",
+            "Computadoras portátiles",
+            "Televisores grandes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuánto tiempo necesitará el proyecto de Nvidia y Mercedes antes de llegar al mercado?",
+          "options": [
+            "Unos días",
+            "Unas semanas",
+            "Varios años",
+            "Un mes"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-06T09:04:33.489284"
+    },
+    {
       "date": "2026-01-05",
       "filename": "spanish_lesson_2026-01-05.pdf",
       "path": "pdfs/spanish_lesson_2026-01-05.pdf",
@@ -6464,7 +6686,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-05T09:05:39.309417",
+  "last_updated": "2026-01-06T09:04:33.489299",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
