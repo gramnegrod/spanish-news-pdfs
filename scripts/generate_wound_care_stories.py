@@ -139,24 +139,29 @@ For each category below, select the best news story and adapt it to Spanish at t
 NEWS CANDIDATES BY CATEGORY:
 """
 
+    # Only include categories that have RSS candidates
+    categories_with_news = []
     for cat in CATEGORIES:
         category = cat["name"]
-        difficulty = DIFFICULTY_MAP[category]
-        prompt += f"\n## {category} (Target: {difficulty} level)\n"
-
         if category in candidates and candidates[category]:
+            categories_with_news.append(cat)
+            difficulty = DIFFICULTY_MAP[category]
+            prompt += f"\n## {category} (Target: {difficulty} level)\n"
             for i, item in enumerate(candidates[category], 1):
                 prompt += f"{i}. [{item['source']}] {item['title']}\n"
                 if item['url']:
                     prompt += f"   URL: {item['url']}\n"
                 if item['description']:
                     prompt += f"   {item['description'][:150]}...\n"
-        else:
-            prompt += "No candidates available - create a realistic medical news story about this wound care topic. Set source_url to empty string \"\" since there is no real source article.\n"
+
+    # If no categories have news, return empty
+    if not categories_with_news:
+        print("  No news candidates found for any category")
+        return []
 
     prompt += """
 
-OUTPUT FORMAT - Return valid JSON with exactly 6 stories:
+OUTPUT FORMAT - Return valid JSON with ONE story per category listed above (only categories with news candidates):
 
 {
   "stories": [
@@ -171,7 +176,7 @@ OUTPUT FORMAT - Return valid JSON with exactly 6 stories:
       "summary_es": "1-2 sentence Spanish summary",
       "body_es": "Full Spanish story (100-150 words for A2, 150-200 for B1)",
       "body_en": "English translation of body",
-      "source_url": "Original article URL from the news candidate (copy from URL field above, or empty string \"\" if no candidates available - NEVER make up fake URLs)",
+      "source_url": "REQUIRED - Copy the exact URL from the news candidate above. Every story MUST have a real source_url.",
       "audio_url": "",
       "key_vocabulary": [
         {"word": "herida", "definition_es": "lesión en la piel o tejido", "definition_en": "wound - injury to skin or tissue"},
@@ -208,35 +213,50 @@ Include vocabulary from these domains:
 - Conditions: infección, necrosis, edema, eritema, isquemia
 
 REQUIREMENTS:
-1. Each story must have exactly 4 vocabulary words
-2. Vocabulary should be medical terms that appear in the story
-3. Use today's date in the id field: """ + datetime.now().strftime("%Y%m%d") + """
-4. Stories must be based on actual medical news when available
-5. Include specific statistics, hospital names, or study details when possible
-6. Content should be professionally appropriate for healthcare settings
-7. IMPORTANT: Include source_url with the original article URL from the candidate list
+1. ONLY create stories for categories listed above (those with news candidates)
+2. Each story must have exactly 4 vocabulary words
+3. Vocabulary should be medical terms that appear in the story
+4. Use today's date in the id field: """ + datetime.now().strftime("%Y%m%d") + """
+5. Stories must be based on actual medical news - NO fabricated stories
+6. Include specific statistics, hospital names, or study details from the source
+7. Content should be professionally appropriate for healthcare settings
+8. CRITICAL: Every story MUST have a real source_url from the candidate list - NO empty URLs
 
 Return ONLY the JSON, no other text."""
 
     print("\n  Calling Claude API for wound care story generation...")
 
-    response = client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=6000,
-        messages=[{"role": "user", "content": prompt}]
-    )
+    # Retry logic for malformed JSON responses
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = client.messages.create(
+                model="claude-haiku-4-5-20251001",
+                max_tokens=6000,
+                messages=[{"role": "user", "content": prompt}]
+            )
 
-    response_text = response.content[0].text
+            response_text = response.content[0].text
 
-    # Clean up JSON
-    if "```" in response_text:
-        response_text = response_text.split("```")[1]
-        if response_text.startswith("json"):
-            response_text = response_text[4:]
-    response_text = response_text.strip()
+            # Clean up JSON
+            if "```" in response_text:
+                response_text = response_text.split("```")[1]
+                if response_text.startswith("json"):
+                    response_text = response_text[4:]
+            response_text = response_text.strip()
 
-    result = json.loads(response_text)
-    return result.get("stories", [])
+            result = json.loads(response_text)
+            return result.get("stories", [])
+
+        except json.JSONDecodeError as e:
+            if attempt < max_retries - 1:
+                print(f"  ⚠ JSON parse error (attempt {attempt + 1}/{max_retries}): {e}")
+                print("  Retrying...")
+                import time
+                time.sleep(2)  # Brief pause before retry
+            else:
+                print(f"  ❌ JSON parse failed after {max_retries} attempts: {e}")
+                raise
 
 
 def generate_tts_audio(stories: List[Dict], date_str: str) -> List[Dict]:
