@@ -152,7 +152,7 @@ NEWS CANDIDATES BY CATEGORY:
                 if item['description']:
                     prompt += f"   {item['description'][:150]}...\n"
         else:
-            prompt += "No candidates available - create a realistic medical news story about this wound care topic.\n"
+            prompt += "No candidates available - create a realistic medical news story about this wound care topic. Set source_url to empty string \"\" since there is no real source article.\n"
 
     prompt += """
 
@@ -171,7 +171,7 @@ OUTPUT FORMAT - Return valid JSON with exactly 6 stories:
       "summary_es": "1-2 sentence Spanish summary",
       "body_es": "Full Spanish story (100-150 words for A2, 150-200 for B1)",
       "body_en": "English translation of body",
-      "source_url": "Original article URL from the news candidate (REQUIRED - copy from URL field above)",
+      "source_url": "Original article URL from the news candidate (copy from URL field above, or empty string \"\" if no candidates available - NEVER make up fake URLs)",
       "audio_url": "",
       "key_vocabulary": [
         {"word": "herida", "definition_es": "lesión en la piel o tejido", "definition_en": "wound - injury to skin or tissue"},
