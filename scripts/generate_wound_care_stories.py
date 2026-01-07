@@ -2,9 +2,12 @@
 """
 Wound Care Stories Generator for Noticias de Heridas
 
-Generates daily wound care news stories for healthcare professionals learning medical Spanish:
-- 2 stories at A2 level (chronic wounds, pressure ulcers)
-- 4 stories at B1 level (diabetic foot, burns, surgical, research)
+ACCUMULATIVE MODE: Only adds stories when real news exists.
+- Loads existing stories from JSON
+- Only generates new stories for categories with RSS candidates
+- Skips categories with no news (no fabricated stories)
+- Appends new stories to existing list (deduped by source URL)
+- List grows over time, only shrinking via manual cleanup
 
 Uses Google News RSS with medical queries for story candidates, Claude for adaptation.
 7-day search window due to lower volume of wound care news.
@@ -18,7 +21,7 @@ import xml.etree.ElementTree as ET
 import html
 import re
 from datetime import datetime
-from typing import List, Dict
+from typing import List, Dict, Set
 from pathlib import Path
 import anthropic
 from openai import OpenAI
@@ -34,15 +37,15 @@ GITHUB_RAW_BASE = "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdf
 CATEGORIES = [
     {"name": "Chronic Wounds", "emoji": "🩹", "gradient": "teal",
      "query": "chronic+wound+healing+treatment+ulcer"},
-    {"name": "Pressure Ulcers", "emoji": "🛏️", "gradient": "blue",
+    {"name": "Pressure Ulcers", "emoji": "🛏️", "gradient": "rose",
      "query": "pressure+ulcer+bedsore+decubitus+prevention"},
-    {"name": "Diabetic Foot", "emoji": "🦶", "gradient": "orange",
+    {"name": "Diabetic Foot", "emoji": "👣", "gradient": "amber",
      "query": "diabetic+foot+ulcer+amputation+prevention"},
-    {"name": "Burn Care", "emoji": "🔥", "gradient": "red-orange",
+    {"name": "Burn Care", "emoji": "🔥", "gradient": "orange",
      "query": "burn+wound+treatment+healing+skin+graft"},
-    {"name": "Surgical Wounds", "emoji": "🏥", "gradient": "purple",
+    {"name": "Surgical Wounds", "emoji": "🏥", "gradient": "blue",
      "query": "surgical+wound+healing+post+operative+infection"},
-    {"name": "Wound Research", "emoji": "🔬", "gradient": "green",
+    {"name": "Wound Research", "emoji": "🔬", "gradient": "purple",
      "query": "wound+healing+research+innovation+therapy"},
 ]
 
@@ -67,9 +70,34 @@ CATEGORY_SLUGS = {
 }
 
 
-def fetch_rss_candidates() -> Dict[str, List[Dict]]:
+def load_existing_stories() -> tuple[List[Dict], Set[str]]:
+    """Load existing stories from JSON file and extract source URLs for deduplication."""
+    existing_stories = []
+    existing_urls = set()
+
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                existing_stories = data.get("stories", [])
+                # Extract source URLs for deduplication
+                for story in existing_stories:
+                    url = story.get("source_url", "")
+                    if url:
+                        existing_urls.add(url)
+                print(f"  Loaded {len(existing_stories)} existing stories ({len(existing_urls)} unique URLs)")
+        except Exception as e:
+            print(f"  ⚠ Could not load existing stories: {e}")
+    else:
+        print("  No existing stories file found - starting fresh")
+
+    return existing_stories, existing_urls
+
+
+def fetch_rss_candidates(existing_urls: Set[str]) -> Dict[str, List[Dict]]:
     """Fetch news candidates from Google News RSS for each wound care category.
-    Uses 7-day window due to lower volume of medical news."""
+    Uses 7-day window due to lower volume of medical news.
+    Filters out URLs that already exist in our stories."""
     candidates = {}
 
     for cat in CATEGORIES:
@@ -89,13 +117,26 @@ def fetch_rss_candidates() -> Dict[str, List[Dict]]:
             root = ET.fromstring(response.content)
             items = root.findall('.//item')
 
-            for item in items[:5]:  # Get up to 5 per category
+            new_count = 0
+            skipped_count = 0
+
+            for item in items[:10]:  # Check up to 10 per category
                 title = item.find('title')
                 description = item.find('description')
                 source = item.find('source')
                 link = item.find('link')
 
                 title_text = html.unescape(title.text) if title is not None and title.text else ""
+                link_text = link.text if link is not None and link.text else ""
+
+                # Skip if we already have this URL
+                if link_text in existing_urls:
+                    skipped_count += 1
+                    continue
+
+                # Skip if no URL (can't verify source)
+                if not link_text:
+                    continue
 
                 desc_text = ""
                 if description is not None and description.text:
@@ -103,7 +144,6 @@ def fetch_rss_candidates() -> Dict[str, List[Dict]]:
                     desc_text = re.sub(r'<[^>]+>', '', desc_text)
 
                 source_text = source.text if source is not None and source.text else "Medical News"
-                link_text = link.text if link is not None and link.text else ""
 
                 if title_text:
                     candidates[category].append({
@@ -112,8 +152,16 @@ def fetch_rss_candidates() -> Dict[str, List[Dict]]:
                         "source": source_text,
                         "url": link_text
                     })
+                    new_count += 1
 
-            print(f"  ✓ {category}: {len(candidates[category])} candidates")
+                    # Only keep up to 3 NEW candidates per category
+                    if new_count >= 3:
+                        break
+
+            if new_count > 0:
+                print(f"  ✓ {category}: {new_count} NEW candidates (skipped {skipped_count} existing)")
+            else:
+                print(f"  - {category}: No new news (skipped {skipped_count} existing)")
 
         except Exception as e:
             print(f"  ✗ {category}: RSS error - {e}")
@@ -122,14 +170,14 @@ def fetch_rss_candidates() -> Dict[str, List[Dict]]:
 
 
 def generate_stories_with_claude(candidates: Dict[str, List[Dict]]) -> List[Dict]:
-    """Use Claude to select and adapt wound care stories for each category/difficulty."""
+    """Use Claude to select and adapt wound care stories for categories with news."""
 
     if not ANTHROPIC_API_KEY:
         raise ValueError("ANTHROPIC_API_KEY environment variable is required")
 
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
-    # Build prompt with all candidates
+    # Build prompt with only categories that have NEW candidates
     prompt = """You are creating Spanish wound care news stories for healthcare professionals learning medical Spanish.
 
 TARGET AUDIENCE: Nurses, wound care specialists, and healthcare workers who need to communicate about wound care in Spanish.
@@ -149,14 +197,13 @@ NEWS CANDIDATES BY CATEGORY:
             prompt += f"\n## {category} (Target: {difficulty} level)\n"
             for i, item in enumerate(candidates[category], 1):
                 prompt += f"{i}. [{item['source']}] {item['title']}\n"
-                if item['url']:
-                    prompt += f"   URL: {item['url']}\n"
+                prompt += f"   URL: {item['url']}\n"
                 if item['description']:
                     prompt += f"   {item['description'][:150]}...\n"
 
-    # If no categories have news, return empty
+    # If no categories have NEW news, return empty
     if not categories_with_news:
-        print("  No news candidates found for any category")
+        print("  No NEW news candidates - nothing to generate")
         return []
 
     prompt += """
@@ -176,7 +223,7 @@ OUTPUT FORMAT - Return valid JSON with ONE story per category listed above (only
       "summary_es": "1-2 sentence Spanish summary",
       "body_es": "Full Spanish story (100-150 words for A2, 150-200 for B1)",
       "body_en": "English translation of body",
-      "source_url": "REQUIRED - Copy the exact URL from the news candidate above. Every story MUST have a real source_url.",
+      "source_url": "REQUIRED - Copy the EXACT URL from the news candidate above",
       "audio_url": "",
       "key_vocabulary": [
         {"word": "herida", "definition_es": "lesión en la piel o tejido", "definition_en": "wound - injury to skin or tissue"},
@@ -220,11 +267,11 @@ REQUIREMENTS:
 5. Stories must be based on actual medical news - NO fabricated stories
 6. Include specific statistics, hospital names, or study details from the source
 7. Content should be professionally appropriate for healthcare settings
-8. CRITICAL: Every story MUST have a real source_url from the candidate list - NO empty URLs
+8. CRITICAL: Every story MUST have a real source_url copied EXACTLY from the candidate list
 
 Return ONLY the JSON, no other text."""
 
-    print("\n  Calling Claude API for wound care story generation...")
+    print(f"\n  Calling Claude API for {len(categories_with_news)} categories with new news...")
 
     # Retry logic for malformed JSON responses
     max_retries = 3
@@ -246,7 +293,17 @@ Return ONLY the JSON, no other text."""
             response_text = response_text.strip()
 
             result = json.loads(response_text)
-            return result.get("stories", [])
+            stories = result.get("stories", [])
+
+            # Validate that all stories have source URLs
+            valid_stories = []
+            for story in stories:
+                if story.get("source_url"):
+                    valid_stories.append(story)
+                else:
+                    print(f"  ⚠ Skipping story without source_url: {story.get('category')}")
+
+            return valid_stories
 
         except json.JSONDecodeError as e:
             if attempt < max_retries - 1:
@@ -302,49 +359,82 @@ def generate_tts_audio(stories: List[Dict], date_str: str) -> List[Dict]:
 
 
 def generate_wound_care_stories():
-    """Main function to generate daily wound care stories."""
+    """Main function to generate daily wound care stories (accumulative mode)."""
     print("=" * 60)
-    print("WOUND CARE STORIES GENERATOR")
+    print("WOUND CARE STORIES GENERATOR (ACCUMULATIVE MODE)")
     print("=" * 60)
 
-    # 1. Fetch RSS candidates (7-day window for medical news)
-    print("\n[1/4] Fetching wound care news candidates (7-day window)...")
-    candidates = fetch_rss_candidates()
+    # 1. Load existing stories for deduplication
+    print("\n[1/5] Loading existing stories...")
+    existing_stories, existing_urls = load_existing_stories()
 
-    # 2. Generate stories with Claude
-    print("\n[2/4] Generating stories with Claude...")
-    stories = generate_stories_with_claude(candidates)
-    print(f"  Generated {len(stories)} stories")
+    # 2. Fetch RSS candidates (only new URLs)
+    print("\n[2/5] Fetching wound care news candidates (7-day window)...")
+    candidates = fetch_rss_candidates(existing_urls)
 
-    for story in stories:
-        print(f"    - {story['category']} ({story['difficulty']}): {story['headline_es'][:40]}...")
+    # Count categories with new news
+    categories_with_news = sum(1 for cat in candidates.values() if cat)
 
-    # 3. Generate TTS audio
+    if categories_with_news == 0:
+        print("\n  ℹ No new news stories found today")
+        print("  Existing stories remain unchanged")
+        print("\n" + "=" * 60)
+        print("NO UPDATES TODAY - List unchanged")
+        print("=" * 60)
+        return
+
+    # 3. Generate stories with Claude (only for new news)
+    print("\n[3/5] Generating stories with Claude...")
+    new_stories = generate_stories_with_claude(candidates)
+
+    if not new_stories:
+        print("\n  ℹ No new stories generated")
+        print("\n" + "=" * 60)
+        print("NO UPDATES TODAY - List unchanged")
+        print("=" * 60)
+        return
+
+    print(f"  Generated {len(new_stories)} NEW stories:")
+    for story in new_stories:
+        print(f"    + {story['category']} ({story['difficulty']}): {story['headline_es'][:40]}...")
+
+    # 4. Generate TTS audio for new stories only
     today = datetime.now()
     date_str = today.strftime("%Y-%m-%d")
-    print("\n[3/4] Generating TTS audio...")
-    stories = generate_tts_audio(stories, date_str)
+    print("\n[4/5] Generating TTS audio for new stories...")
+    new_stories = generate_tts_audio(new_stories, date_str)
 
-    # 4. Save to JSON
-    print("\n[4/4] Saving to wound-care-stories-index.json...")
+    # 5. Merge and save to JSON
+    print("\n[5/5] Merging and saving to wound-care-stories-index.json...")
+
+    # Add timestamp to new stories
+    for story in new_stories:
+        story["added_at"] = today.isoformat() + "Z"
+
+    # Combine: new stories first (most recent), then existing
+    all_stories = new_stories + existing_stories
 
     output = {
         "date": today.strftime("%Y-%m-%d"),
         "generated_at": today.isoformat() + "Z",
-        "description": "Daily wound care news for Spanish medical professionals",
+        "description": "Accumulative wound care news for Spanish medical professionals",
         "content_type": "wound-care",
-        "stories": stories,
+        "total_stories": len(all_stories),
+        "new_today": len(new_stories),
+        "stories": all_stories,
         "last_updated": today.isoformat() + "Z",
-        "generated_by": "GitHub Actions + Anthropic API"
+        "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
     }
 
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"  Saved to {OUTPUT_FILE}")
+    print(f"  Saved {len(all_stories)} total stories ({len(new_stories)} new)")
+    print(f"  File: {OUTPUT_FILE}")
 
     print("\n" + "=" * 60)
-    print("SUCCESS!")
+    print(f"SUCCESS! Added {len(new_stories)} new stories")
+    print(f"Total stories in feed: {len(all_stories)}")
     print("=" * 60)
 
 
