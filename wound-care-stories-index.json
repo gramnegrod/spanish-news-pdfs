@@ -1,9 +1,233 @@
 {
-  "date": "2026-01-05",
-  "generated_at": "2026-01-05T18:37:34.519451Z",
-  "description": "Daily wound care news for Spanish medical professionals",
+  "date": "2026-01-07",
+  "generated_at": "2026-01-07T18:36:38.752072Z",
+  "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
+  "total_stories": 12,
+  "new_today": 6,
   "stories": [
+    {
+      "id": "chronic-wounds-20250107",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El colágeno tipo I ayuda a sanar heridas crónicas",
+      "headline_en": "Type I Collagen Helps Heal Chronic Wounds",
+      "summary_es": "Un estudio revisa cuatro ensayos clínicos sobre colágeno puro para heridas crónicas. Los resultados muestran que este tratamiento mejora la curación.",
+      "body_es": "Las heridas crónicas son un problema importante en los hospitales. Los pacientes con úlceras de presión, heridas diabéticas o lesiones que no cierran necesitan tratamientos efectivos. Un nuevo estudio analiza el colágeno tipo I de alta pureza. Los investigadores revisaron cuatro ensayos clínicos controlados y aleatorizados. El colágeno es una proteína natural de la piel. Cuando aplicamos colágeno en las heridas, ayuda a los tejidos a crecer. Los resultados histopatológicos y clínicos fueron positivos. Este apósito acelera la epitelización y reduce el tiempo de curación. Los profesionales de enfermería pueden usar esta información para mejorar el cuidado de pacientes con heridas crónicas.",
+      "body_en": "Chronic wounds are an important problem in hospitals. Patients with pressure ulcers, diabetic wounds, or injuries that do not close need effective treatments. A new study analyzes high-purity type I collagen. Researchers reviewed four randomized controlled trials. Collagen is a natural skin protein. When we apply collagen to wounds, it helps tissues grow. The histopathological and clinical results were positive. This dressing accelerates epithelialization and reduces healing time. Nursing professionals can use this information to improve care for patients with chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQa19aRUpvRmh1NFM3TEtrUk1Ydno5Ri1QQnVHNTNjV1lXYW5IdTFDN1hISVE4UGd5cWJ0MHVDTW9BcE83N0ZBcnAxOEtUUUgwODhXZ01mY0tNN29BaWV6Q2I5N3UwWnJvRkEtTm1aVkprclU3NWZ2NU14dXhrRW9TQWRQY1Z3bThqUHFORDZOUDNzSTJUV2ZMUlpBbkIxdHVsOWdMTFlDVVZ0YkJibXdRYXFGQ1BVZlVLLTJZRkVjMUl2VFNSS09DaU5HTDAsMWFsTG9tQU01dnV0Z0U4NVB5NnlYWTd3ZVl5VEZTcnNwM3lVelVfTmdEVmVGcHZUTl9FZkFidVVrYWh2aDJEWFl5S2xR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-07/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera crónica",
+          "definition_es": "herida que no cierra en mucho tiempo",
+          "definition_en": "chronic ulcer - wound that does not close for a long time"
+        },
+        {
+          "word": "colágeno",
+          "definition_es": "proteína natural en la piel y tejidos",
+          "definition_en": "collagen - natural protein in skin and tissues"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre la herida",
+          "definition_en": "epithelialization - formation of new skin over the wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre y protege la herida",
+          "definition_en": "dressing - material that covers and protects the wound"
+        }
+      ],
+      "added_at": "2026-01-07T18:36:38.752072Z"
+    },
+    {
+      "id": "pressure-ulcers-20250107",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "rose",
+      "headline_es": "El mercado de tratamiento de úlceras por presión alcanza 2.34 mil millones",
+      "headline_en": "Pressure Ulcer Treatment Market Reaches $2.34 Billion",
+      "summary_es": "El mercado global de tratamientos para úlceras por presión crece cada año. Las nuevas terapias y apósitos avanzan para mejorar la curación.",
+      "body_es": "Las úlceras por presión ocurren cuando la piel se apoya mucho en una superficie dura. Los pacientes en cama o en silla de ruedas tienen más riesgo. Estas heridas son serias y causan dolor e infección. El tratamiento cuesta mucho dinero a los sistemas de salud. Según el mercado global, el valor es de 2.34 mil millones de dólares. Las nuevas tecnologías incluyen apósitos avanzados y terapia de presión negativa. Los hospitales invierten en prevención y tratamiento. Las enfermeras juegan un papel importante en el cuidado diario. Cambiar de posición, limpiar la piel y usar vendajes especiales previenen úlceras. Es importante evaluar el riesgo en todos los pacientes que no pueden moverse bien.",
+      "body_en": "Pressure ulcers occur when the skin presses too much on a hard surface. Patients in bed or in wheelchairs have more risk. These wounds are serious and cause pain and infection. Treatment costs a lot of money for health systems. According to the global market, the value is $2.34 billion. New technologies include advanced dressings and negative pressure therapy. Hospitals invest in prevention and treatment. Nurses play an important role in daily care. Changing position, cleaning the skin, and using special dressings prevent ulcers. It is important to assess risk in all patients who cannot move well.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRmdpdXZGX3lLS2FqeGhXdDZ6dFRKdnhCRks3U0lhVDNQOXpMZmRvbkJIS2NmSHJfVXk4T25BSmJRdW1kNXZuQmdRVzlfNHNaUDZMSlo0SXpWU3F0VHhDRk1oR2pjd2ZXRHVxb2V6SXhQbUozYVhzM3ZTWUVfSko5QWFTal9KUmZpRWUzenRkaEQzeVlnRFE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-07/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida causada por presión prolongada en la piel",
+          "definition_en": "pressure ulcer - wound caused by prolonged skin pressure"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger la herida",
+          "definition_en": "dressing - material to cover and protect the wound"
+        },
+        {
+          "word": "terapia de presión negativa",
+          "definition_es": "tratamiento que usa vacío para sanar heridas",
+          "definition_en": "negative pressure therapy - treatment using vacuum to heal wounds"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar que ocurra algo",
+          "definition_en": "prevention - actions to avoid something happening"
+        }
+      ],
+      "added_at": "2026-01-07T18:36:38.752072Z"
+    },
+    {
+      "id": "diabetic-foot-20250107",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "El mercado de úlceras diabéticas del pie alcanzará 6.69 mil millones de dólares en 2025",
+      "headline_en": "Diabetic Foot Ulcer Market Worth USD 6.69B in 2025",
+      "summary_es": "El mercado global para tratamientos de úlceras diabéticas en los pies crece significativamente. Esta cifra refleja la importancia de mejorar los cuidados para pacientes con diabetes.",
+      "body_es": "Las úlceras del pie diabético representan una complicación seria de la diabetes tipo 2 y tipo 1. Los pacientes con diabetes desarrollan neuropatía periférica que reduce la sensibilidad en los pies. Sin sensación adecuada, las pequeñas lesiones pueden convertirse en úlceras grandes y complicadas. El valor del mercado global alcanzará 6.69 mil millones de dólares en 2025, reflejando la prevalencia de esta condición. Los tratamientos incluyen desbridamiento regular, apósitos especializados, y terapia de presión negativa. El control glucémico es fundamental para prevenir úlceras y acelerar la cicatrización. Los profesionales de enfermería deben evaluar los pies regularmente, educar a los pacientes sobre el autocuidado, e implementar protocolos de prevención. La detección temprana de cambios en la piel mejora significativamente los resultados clínicos y reduce amputaciones.",
+      "body_en": "Diabetic foot ulcers represent a serious complication of type 2 and type 1 diabetes. Patients with diabetes develop peripheral neuropathy that reduces foot sensitivity. Without adequate sensation, small injuries can become large and complicated ulcers. The global market value will reach $6.69 billion in 2025, reflecting the prevalence of this condition. Treatments include regular debridement, specialized dressings, and negative pressure therapy. Glycemic control is fundamental to prevent ulcers and accelerate healing. Nursing professionals must regularly assess feet, educate patients about self-care, and implement prevention protocols. Early detection of skin changes significantly improves clinical outcomes and reduces amputations.",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZVdrWm1iM1JTYUk1Vk5TSEh0MUU4Z3pNVzR5eTcwdkpCLXZxWkpOazY2MnYzVG5jdUVCS1I1am1UbHpCVE1YZjVob1FZRlZEMldhSzdnNVRDbHZSa1JSaUhsMXZSZUFFeGU1dHZKMFpwSEtvUUxxdEJrUjA3a1JzOG9RSmRMLXBaancwN2VVMEI?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-07/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "neuropatía periférica",
+          "definition_es": "pérdida de sensibilidad en extremidades por daño nervioso",
+          "definition_en": "peripheral neuropathy - loss of sensation in extremities due to nerve damage"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo para cerrar la herida",
+          "definition_en": "wound healing - process of new tissue formation to close the wound"
+        },
+        {
+          "word": "glucémico",
+          "definition_es": "relacionado con los niveles de glucosa en sangre",
+          "definition_en": "glycemic - related to blood glucose levels"
+        }
+      ],
+      "added_at": "2026-01-07T18:36:38.752072Z"
+    },
+    {
+      "id": "burn-care-20250107",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Expertos explican tratamientos para cicatrices de quemaduras",
+      "headline_en": "Experts Explain Treatments for Burn Scars",
+      "summary_es": "Dermatólogos comparten información sobre cremas y tratamientos que realmente funcionan para las cicatrices. Estos métodos pueden mejorar significativamente la apariencia y función de la piel.",
+      "body_es": "Las quemaduras son lesiones graves que causan daño extenso a la piel. Cuando una quemadura sana, frecuentemente deja cicatrices. Estas cicatrices pueden afectar tanto la apariencia física como la función motora del paciente. Los dermatólogos han identificado varias opciones de tratamiento que realmente funcionan para mejorar las cicatrices de quemaduras. Las cremas especializadas contienen ingredientes como silicona y vitamina C que hidratan y estimulan el colágeno. Los tratamientos láser utilizan luz para remodular la estructura de la cicatriz y mejorar la textura de la piel. El desbridamiento quirúrgico temprano durante la fase aguda previene complicaciones futuras. La presión controlada mediante vendajes especiales reduce la formación de cicatrices hipertróficas. Los pacientes quemados requieren atención multidisciplinaria incluyendo enfermería, cirugía plástica y terapia ocupacional para optimizar la recuperación funcional.",
+      "body_en": "Burns are serious injuries that cause extensive skin damage. When a burn heals, it frequently leaves scars. These scars can affect both the physical appearance and motor function of the patient. Dermatologists have identified several treatment options that really work to improve burn scars. Specialized creams contain ingredients such as silicone and vitamin C that hydrate and stimulate collagen. Laser treatments use light to remodel scar structure and improve skin texture. Early surgical debridement during the acute phase prevents future complications. Controlled pressure through special dressings reduces hypertrophic scar formation. Burned patients require multidisciplinary care including nursing, plastic surgery, and occupational therapy to optimize functional recovery.",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IT00tOW5vTFBCcWdpeFAzbGNOWDV4TlpXU1VCbVk1N0lIMFNvOWNlODhmYWJYbThNUy1EamJxakpmTG1uYUNBaWJheWRwLWQxNERuOWpheUFGSVZJai1VM1JENW9GV3oxbzAwSWtCSzFYcjVH0gFYQVVfeXFMTVBMc1JBcGFuWnpnMnNYWHhQLU1YcS1tMlVUWDlsN21ldkdXMEhXTjVlS0cySlo2bVNqQXZtUDlIaVRjTEQ2VzFkcnhGSmhmdlFVeGw5TFhseA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-07/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de tejido causada por fuego o calor",
+          "definition_en": "burn - tissue injury caused by fire or heat"
+        },
+        {
+          "word": "cicatriz hipertrófica",
+          "definition_es": "cicatriz gruesa y elevada que crece excesivamente",
+          "definition_en": "hypertrophic scar - thick and raised scar that grows excessively"
+        },
+        {
+          "word": "colágeno",
+          "definition_es": "proteína que forma la estructura de la piel",
+          "definition_en": "collagen - protein that forms skin structure"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción de tejido dañado o necrótico",
+          "definition_en": "debridement - removal of damaged or necrotic tissue"
+        }
+      ],
+      "added_at": "2026-01-07T18:36:38.752072Z"
+    },
+    {
+      "id": "surgical-wounds-20250107",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "El control de glucosa y marcadores inflamatorios afectan resultados tras cirugía abdominal",
+      "headline_en": "Glucose Control and Inflammatory Markers Affect Outcomes After Abdominal Surgery",
+      "summary_es": "Un estudio examina cómo los niveles de glucosa y marcadores inflamatorios en sangre influyen en la recuperación de pacientes diabéticos tras cirugía mayor abdominal.",
+      "body_es": "Los pacientes diabéticos sometidos a cirugía abdominal mayor enfrentan mayores riesgos postoperatorios. El control del nivel de glucosa en sangre, medido como HbA1c, es un factor crítico que determina la cicatrización de heridas quirúrgicas. Un estudio reciente examinó cómo la HbA1c y los marcadores inflamatorios hematológicos afectan los resultados postoperatorios. Los investigadores encontraron que los pacientes con HbA1c elevada presentaban complicaciones de herida más frecuentes, incluyendo infección y dehiscencia. Los marcadores inflamatorios como proteína C reactiva y citocinas predijeron complicaciones inflamatorias sistémicas. La glucemia perioperatoria debe mantenerse entre 140-180 mg/dL para optimizar la cicatrización sin hipoglucemia. Las enfermeras deben monitorear continuamente la glucosa durante el período perioperatorio y educar a los pacientes diabéticos sobre la importancia del control glucémico preoperatorio.",
+      "body_en": "Diabetic patients undergoing major abdominal surgery face greater postoperative risks. Blood glucose control, measured as HbA1c, is a critical factor determining surgical wound healing. A recent study examined how HbA1c and inflammatory hematological markers affect postoperative outcomes. Researchers found that patients with elevated HbA1c presented more frequent wound complications, including infection and dehiscence. Inflammatory markers such as C-reactive protein and cytokines predicted systemic inflammatory complications. Perioperative blood glucose should be maintained between 140-180 mg/dL to optimize healing without hypoglycemia. Nurses must continuously monitor glucose during the perioperative period and educate diabetic patients about the importance of preoperative glycemic control.",
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWU9aYjdCM29Eb2Noc1U0WjJzUFN2Uk80WFMxZWxiVVlfLWZZOWI2SXdBVk5VNnVyTGZ0alhaN1dKenFYTzVITkhmVlBaelBCOEZ5aDNrY215ZC1pNGRGNy1DZzE1RFhkNUpUSmpHRXI2ZmpHdHNLVDVELS1rTjZWVW5oRmI2TkpMeFR3YngtZFNmYm81bWswY3cyV0xEdEx4Ty1iTG1qVk1NMTBIV2VMUmdndTlNajQ2RXY1d1RBUWljZEdfNlNTa3QwaFRvUXRjZlI2TmhiWVRtV21DNEJReTB1VXJWMWJmdzFLcmowS0ZNUDZCVW1QeXdhWWFMOTR0Q0JnVDB3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-07/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "HbA1c",
+          "definition_es": "hemoglobina glucosilada que refleja el control de glucosa en los últimos 3 meses",
+          "definition_en": "HbA1c - glycated hemoglobin reflecting glucose control over the past 3 months"
+        },
+        {
+          "word": "dehiscencia",
+          "definition_es": "separación de los bordes de una herida quirúrgica",
+          "definition_en": "dehiscence - separation of surgical wound edges"
+        },
+        {
+          "word": "glucemia perioperatoria",
+          "definition_es": "niveles de glucosa en sangre durante el período quirúrgico",
+          "definition_en": "perioperative blood glucose - glucose levels during surgical period"
+        },
+        {
+          "word": "marcadores inflamatorios",
+          "definition_es": "proteínas en sangre que indican inflamación",
+          "definition_en": "inflammatory markers - blood proteins indicating inflammation"
+        }
+      ],
+      "added_at": "2026-01-07T18:36:38.752072Z"
+    },
+    {
+      "id": "wound-research-20250107",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Los mejores contenidos de 2025 en investigación de medicina regenerativa",
+      "headline_en": "Top Content on Wound Care and Regenerative Medicine in 2025",
+      "summary_es": "RegMedNet publica los contenidos más relevantes sobre medicina regenerativa e investigación de heridas. Estos avances prometen revolucionar el tratamiento de lesiones tisulares.",
+      "body_es": "La medicina regenerativa representa una frontera importante en el tratamiento de heridas complejas. RegMedNet compiló los contenidos más destacados del año sobre este tema crítico. Los investigadores han desarrollado nuevas tecnologías que utilizan células madre para regenerar tejido dañado. Los apósitos biológicos avanzados combinan colágeno, factores de crecimiento y células para acelerar la cicatrización. Los estudios demuestran que la terapia celular mejora la angiogénesis y reduce la formación de cicatrices. Las bioimpresoras 3D permiten crear construcciones tisulares personalizadas para heridas crónicas. Los investigadores también exploran el uso de factores de crecimiento recombinantes para estimular la epitelización. La medicina regenerativa ofrece esperanza para pacientes con úlceras refractarias y quemaduras extensas. Estos avances requieren validación clínica adicional pero demuestran resultados prometedores en modelos preclínicos y ensayos iniciales.",
+      "body_en": "Regenerative medicine represents an important frontier in complex wound treatment. RegMedNet compiled the most highlighted content of the year on this critical topic. Researchers have developed new technologies using stem cells to regenerate damaged tissue. Advanced biological dressings combine collagen, growth factors, and cells to accelerate healing. Studies demonstrate that cell therapy improves angiogenesis and reduces scar formation. 3D bioprinters allow creation of personalized tissue constructs for chronic wounds. Researchers also explore the use of recombinant growth factors to stimulate epithelialization. Regenerative medicine offers hope for patients with refractory ulcers and extensive burns. These advances require additional clinical validation but show promising results in preclinical models and early trials.",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92bzZ4YzVQVzd6N0lQZVFoblVGVEdLbDRvYWw1RFJ1Y0NFd01mTUZVb2hrd0p5LTg4eE5mbFkwVmhCcjVkbXJhN0pIaFlJR2ltcTR5cko3aVBBZi1neUxSVmZaU1EwMVFiNzNPZFdEdWQwa21lYTBxMVpQaWk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-07/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "medicina regenerativa",
+          "definition_es": "campo que utiliza células y factores de crecimiento para regenerar tejidos",
+          "definition_en": "regenerative medicine - field using cells and growth factors to regenerate tissues"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos",
+          "definition_en": "angiogenesis - formation of new blood vessels"
+        },
+        {
+          "word": "factores de crecimiento",
+          "definition_es": "proteínas que estimulan el crecimiento y reparación celular",
+          "definition_en": "growth factors - proteins that stimulate cell growth and repair"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva epidermis sobre la herida",
+          "definition_en": "epithelialization - process of new epidermis formation over the wound"
+        }
+      ],
+      "added_at": "2026-01-07T18:36:38.752072Z"
+    },
     {
       "id": "chronic-wounds-20250105",
       "category": "Chronic Wounds",
@@ -221,6 +445,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-05T18:37:34.519451Z",
-  "generated_by": "GitHub Actions + Anthropic API"
+  "last_updated": "2026-01-07T18:36:38.752072Z",
+  "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
