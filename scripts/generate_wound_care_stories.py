@@ -169,6 +169,57 @@ def fetch_rss_candidates(existing_urls: Set[str]) -> Dict[str, List[Dict]]:
     return candidates
 
 
+def repair_truncated_json(text: str) -> str:
+    """Attempt to repair truncated JSON by closing open structures.
+
+    This handles cases where Claude's response gets cut off mid-JSON,
+    leaving unterminated strings, arrays, or objects.
+    """
+    # If already valid, return as-is
+    try:
+        json.loads(text)
+        return text
+    except json.JSONDecodeError:
+        pass
+
+    # Count unclosed structures
+    in_string = False
+    escape_next = False
+    open_braces = 0
+    open_brackets = 0
+
+    for i, char in enumerate(text):
+        if escape_next:
+            escape_next = False
+            continue
+        if char == '\\':
+            escape_next = True
+            continue
+        if char == '"' and not escape_next:
+            in_string = not in_string
+            continue
+        if in_string:
+            continue
+        if char == '{':
+            open_braces += 1
+        elif char == '}':
+            open_braces -= 1
+        elif char == '[':
+            open_brackets += 1
+        elif char == ']':
+            open_brackets -= 1
+
+    # If we ended inside a string, close it
+    if in_string:
+        text += '"'
+
+    # Close any open brackets/braces
+    text += ']' * open_brackets
+    text += '}' * open_braces
+
+    return text
+
+
 def generate_stories_with_claude(candidates: Dict[str, List[Dict]]) -> List[Dict]:
     """Use Claude to select and adapt wound care stories for categories with news."""
 
@@ -279,7 +330,7 @@ Return ONLY the JSON, no other text."""
         try:
             response = client.messages.create(
                 model="claude-haiku-4-5-20251001",
-                max_tokens=6000,
+                max_tokens=12000,  # Increased for 6 stories with Spanish text
                 messages=[{"role": "user", "content": prompt}]
             )
 
@@ -292,6 +343,9 @@ Return ONLY the JSON, no other text."""
                     response_text = response_text[4:]
             response_text = response_text.strip()
 
+            # Attempt to repair truncated JSON
+            response_text = repair_truncated_json(response_text)
+
             result = json.loads(response_text)
             stories = result.get("stories", [])
 
@@ -303,6 +357,7 @@ Return ONLY the JSON, no other text."""
                 else:
                     print(f"  ⚠ Skipping story without source_url: {story.get('category')}")
 
+            print(f"  ✓ Generated {len(valid_stories)} valid stories")
             return valid_stories
 
         except json.JSONDecodeError as e:
