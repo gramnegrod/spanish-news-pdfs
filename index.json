@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-07",
+      "filename": "spanish_lesson_2026-01-07.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-07.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Muere el representante Doug LaMalfa a los 65 años",
+          "headline_en": "Representative Doug LaMalfa dies at 65",
+          "body_es": "El representante Doug LaMalfa murió a los 65 años el pasado fin de semana. LaMalfa trabajó en el Congreso por muchos años. Él representó el norte de California en Washington. Era muy popular en su región. LaMalfa siempre defendió los intereses de los agricultores y las comunidades rurales. También apoyó proyectos para mejorar la economía local. Sus colegas dicen que era una persona muy trabajadora. LaMalfa nació en una familia de agricultores. Estudió agricultura en la universidad. Antes de ser político, trabajó en el negocio familiar. Su familia y amigos están muy tristes por su muerte. Los votantes de su distrito también lo recuerdan con cariño.",
+          "body_en": "Representative Doug LaMalfa died at age 65 last weekend. LaMalfa worked in Congress for many years. He represented northern California in Washington. He was very popular in his region. LaMalfa always defended the interests of farmers and rural communities. He also supported projects to improve the local economy. His colleagues say he was a very hardworking person. LaMalfa was born into a farming family. He studied agriculture at university. Before being a politician, he worked in the family business. His family and friends are very sad about his death. Voters in his district also remember him fondly.",
+          "source": "CalMatters"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Trump dice que Venezuela enviará petróleo a Estados Unidos",
+          "headline_en": "Trump says Venezuela will send oil to United States",
+          "body_es": "Donald Trump afirmó que Venezuela enviará petróleo a Estados Unidos. Esta declaración sorprendió a muchas personas. Las relaciones entre los dos países han sido difíciles en los últimos años. Estados Unidos puso sanciones económicas a Venezuela. Estas sanciones limitaron el comercio de petróleo. Venezuela tiene las reservas de petróleo más grandes del mundo. Sin embargo, su economía está en crisis. Trump no explicó cómo será posible este intercambio comercial. Los expertos dicen que las sanciones deben cambiar primero. El precio del petróleo puede bajar si Venezuela exporta más. Esta noticia afecta los mercados internacionales. Muchos países están interesados en esta situación.",
+          "body_en": "Donald Trump claimed that Venezuela will send oil to the United States. This statement surprised many people. Relations between the two countries have been difficult in recent years. The United States imposed economic sanctions on Venezuela. These sanctions limited oil trade. Venezuela has the world's largest oil reserves. However, its economy is in crisis. Trump did not explain how this trade exchange will be possible. Experts say the sanctions must change first. Oil prices may fall if Venezuela exports more. This news affects international markets. Many countries are interested in this situation.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El gobierno estadounidense lanza 'Tech Force' para contratar expertos en inteligencia artificial",
+          "headline_en": "US government launches 'Tech Force' to hire artificial intelligence experts",
+          "body_es": "El gobierno de Estados Unidos creó un nuevo programa llamado 'Tech Force'. Este programa busca contratar expertos en inteligencia artificial. El objetivo es mejorar los servicios del gobierno con nueva tecnología. Muchas empresas privadas contratan a los mejores programadores. Por eso, el gobierno tiene dificultades para encontrar talento tecnológico. 'Tech Force' ofrecerá mejores salarios y beneficios. También permitirá trabajar de forma más flexible. Los expertos trabajarán en proyectos importantes de seguridad nacional. La inteligencia artificial puede ayudar en muchas áreas del gobierno. Por ejemplo, puede mejorar la atención médica y la educación. Este programa es muy importante para el futuro del país.",
+          "body_en": "The United States government created a new program called 'Tech Force'. This program seeks to hire artificial intelligence experts. The goal is to improve government services with new technology. Many private companies hire the best programmers. Therefore, the government has difficulties finding technological talent. 'Tech Force' will offer better salaries and benefits. It will also allow more flexible work. Experts will work on important national security projects. Artificial intelligence can help in many government areas. For example, it can improve healthcare and education. This program is very important for the country's future.",
+          "source": "AOL.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "representante",
+          "syllables": "re-pre-sen-TAN-te",
+          "pos": "sustantivo",
+          "context": "El representante Doug LaMalfa murió a los 65 años.",
+          "definition_es": "Persona elegida para representar a la gente en el gobierno",
+          "definition_en": "Representative - person elected to represent people in government"
+        },
+        {
+          "word": "defensor",
+          "syllables": "de-fen-SOR",
+          "pos": "sustantivo",
+          "context": "LaMalfa fue un defensor constante de California.",
+          "definition_es": "Persona que protege o apoya una causa",
+          "definition_en": "Advocate - person who supports or defends a cause"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "Venezuela enviará petróleo a Estados Unidos.",
+          "definition_es": "Líquido negro que se usa para hacer combustible",
+          "definition_en": "Oil - black liquid used to make fuel"
+        },
+        {
+          "word": "afirmar",
+          "syllables": "a-fir-MAR",
+          "pos": "verbo",
+          "context": "Trump afirma que Venezuela enviará petróleo.",
+          "definition_es": "Decir algo con seguridad",
+          "definition_en": "To claim - to say something with confidence"
+        },
+        {
+          "word": "contratar",
+          "syllables": "con-tra-TAR",
+          "pos": "verbo",
+          "context": "El gobierno quiere contratar talento en tecnología.",
+          "definition_es": "Dar trabajo a alguien",
+          "definition_en": "To hire - to give someone a job"
+        },
+        {
+          "word": "talento",
+          "syllables": "ta-LEN-to",
+          "pos": "sustantivo",
+          "context": "Buscan talento especializado en inteligencia artificial.",
+          "definition_es": "Persona con habilidades especiales",
+          "definition_en": "Talent - person with special skills"
+        },
+        {
+          "word": "lanzar",
+          "syllables": "lan-ZAR",
+          "pos": "verbo",
+          "context": "El gobierno lanzó una nueva iniciativa tecnológica.",
+          "definition_es": "Empezar o iniciar algo nuevo",
+          "definition_en": "To launch - to start or begin something new"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial es muy importante hoy.",
+          "definition_es": "Tecnología que hace que las máquinas piensen como humanos",
+          "definition_en": "Artificial intelligence - technology that makes machines think like humans"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'defensor'?",
+          "options": [
+            "Persona que ataca",
+            "Persona que protege una causa",
+            "Persona que vende",
+            "Persona que estudia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'afirmar'?",
+          "options": [
+            "Negar",
+            "Preguntar",
+            "Decir con seguridad",
+            "Dudar"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'contratar'?",
+          "options": [
+            "Despedir a alguien",
+            "Dar trabajo a alguien",
+            "Estudiar algo",
+            "Vender algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inteligencia artificial'?",
+          "options": [
+            "Un tipo de petróleo",
+            "Tecnología que hace pensar a las máquinas",
+            "Un representante político",
+            "Una universidad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿A qué edad murió Doug LaMalfa?",
+          "options": [
+            "60 años",
+            "65 años",
+            "70 años",
+            "55 años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué región representaba LaMalfa?",
+          "options": [
+            "Sur de California",
+            "Este de California",
+            "Norte de California",
+            "Centro de California"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué país tiene las reservas de petróleo más grandes del mundo?",
+          "options": [
+            "Estados Unidos",
+            "México",
+            "Venezuela",
+            "Brasil"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué ha sido difícil el comercio de petróleo entre Estados Unidos y Venezuela?",
+          "options": [
+            "Por las sanciones económicas",
+            "Por falta de petróleo",
+            "Por problemas de transporte",
+            "Por el clima"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama el nuevo programa del gobierno estadounidense?",
+          "options": [
+            "AI Force",
+            "Tech Force",
+            "Gov Force",
+            "Smart Force"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el objetivo principal de 'Tech Force'?",
+          "options": [
+            "Vender tecnología",
+            "Contratar expertos en inteligencia artificial",
+            "Enseñar programación",
+            "Comprar computadoras"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-07T09:05:37.335725"
+    },
+    {
       "date": "2026-01-06",
       "filename": "spanish_lesson_2026-01-06.pdf",
       "path": "pdfs/spanish_lesson_2026-01-06.pdf",
@@ -6686,7 +6908,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-06T09:04:33.489299",
+  "last_updated": "2026-01-07T09:05:37.335741",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
