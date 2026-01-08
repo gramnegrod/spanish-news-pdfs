@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-08",
+      "filename": "spanish_lesson_2026-01-08.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-08.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Político estadounidense se retira después de décadas en el Congreso",
+          "headline_en": "American politician retires after decades in Congress",
+          "body_es": "El representante Steny Hoyer anunció su retiro de la política estadounidense. Hoyer trabajó muchos años en el Congreso de Estados Unidos. Fue una figura importante en el Partido Demócrata. Durante su larga carrera, ayudó a crear muchas leyes importantes. También fue líder de su partido en la Cámara de Representantes. Hoyer dice que es el momento perfecto para dejar su trabajo. Quiere que otros políticos más jóvenes tomen su lugar. Su decisión marca el final de una era en la política americana. Muchos colegas respetan su trabajo y dedicación al país.",
+          "body_en": "Representative Steny Hoyer announced his retirement from American politics. Hoyer worked many years in the US Congress. He was an important figure in the Democratic Party. During his long career, he helped create many important laws. He was also a leader of his party in the House of Representatives. Hoyer says it's the perfect time to leave his job. He wants younger politicians to take his place. His decision marks the end of an era in American politics. Many colleagues respect his work and dedication to the country.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Menos trabajos disponibles en Estados Unidos durante noviembre",
+          "headline_en": "Fewer jobs available in the United States during November",
+          "body_es": "Las oportunidades de empleo en Estados Unidos bajaron en noviembre. Es la cifra más baja en catorce meses. Las empresas no están contratando muchos trabajadores nuevos. Esta situación preocupa a los expertos en economía. Muchos sectores muestran menos actividad laboral. El gobierno estudia estos números con atención. Los economistas dicen que la economía está cambiando. Algunas industrias tienen más problemas que otras. Los trabajadores buscan empleo pero encuentran pocas opciones. Esta tendencia puede afectar el consumo de las familias. El mercado laboral necesita mejorar para crecer más.",
+          "body_en": "Job opportunities in the United States fell in November. It's the lowest figure in fourteen months. Companies are not hiring many new workers. This situation worries economics experts. Many sectors show less labor activity. The government studies these numbers carefully. Economists say the economy is changing. Some industries have more problems than others. Workers look for employment but find few options. This trend can affect family consumption. The job market needs to improve to grow more.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nueva tecnología de robotaxis hace los coches más seguros",
+          "headline_en": "New robotaxi technology makes cars safer",
+          "body_es": "En la feria tecnológica CES 2026, las empresas mostraron nuevos robotaxis. Estos coches sin conductor usan tecnología muy avanzada. Pueden detectar peligros en la carretera automáticamente. Los sensores y cámaras ayudan a prevenir accidentes. Esta tecnología también puede reducir los errores humanos al conducir. Los robotaxis pueden comunicarse entre ellos para evitar problemas. Las compañías prometen que estos vehículos serán más seguros que los coches tradicionales. Expertos en transporte están muy interesados en esta innovación. Sin embargo, todavía necesitan hacer más pruebas. La tecnología avanzada puede cambiar completamente cómo viajamos en el futuro.",
+          "body_en": "At the CES 2026 technology fair, companies showed new robotaxis. These driverless cars use very advanced technology. They can automatically detect dangers on the road. Sensors and cameras help prevent accidents. This technology can also reduce human errors when driving. Robotaxis can communicate with each other to avoid problems. Companies promise these vehicles will be safer than traditional cars. Transportation experts are very interested in this innovation. However, they still need to do more tests. Advanced technology can completely change how we travel in the future.",
+          "source": "Automotive News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "retirarse",
+          "syllables": "re-ti-RAR-se",
+          "pos": "verbo",
+          "context": "El representante Steny Hoyer decidió retirarse de la política después de muchos años.",
+          "definition_es": "Dejar de trabajar o participar en una actividad",
+          "definition_en": "To retire or withdraw from work or activity"
+        },
+        {
+          "word": "carrera",
+          "syllables": "ca-RRE-ra",
+          "pos": "sustantivo",
+          "context": "Hoyer termina una larga carrera en el gobierno estadounidense.",
+          "definition_es": "Profesión o trabajo que una persona hace durante mucho tiempo",
+          "definition_en": "Career or profession"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Las oportunidades de empleo en Estados Unidos bajaron en noviembre.",
+          "definition_es": "Trabajo remunerado que tiene una persona",
+          "definition_en": "Employment or job"
+        },
+        {
+          "word": "contratar",
+          "syllables": "con-tra-TAR",
+          "pos": "verbo",
+          "context": "Las empresas contrataron menos trabajadores el mes pasado.",
+          "definition_es": "Dar trabajo a una persona",
+          "definition_en": "To hire or employ someone"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología de robotaxis hace los coches más seguros.",
+          "definition_es": "Conocimientos técnicos y herramientas avanzadas",
+          "definition_en": "Technology"
+        },
+        {
+          "word": "seguro",
+          "syllables": "se-GU-ro",
+          "pos": "adjetivo",
+          "context": "Los robotaxis pueden hacer el transporte más seguro para todos.",
+          "definition_es": "Sin peligro o riesgo",
+          "definition_en": "Safe or secure"
+        },
+        {
+          "word": "reducir",
+          "syllables": "re-du-CIR",
+          "pos": "verbo",
+          "context": "El número de trabajos disponibles se redujo significativamente.",
+          "definition_es": "Hacer que algo sea más pequeño o menos",
+          "definition_en": "To reduce or decrease"
+        },
+        {
+          "word": "avanzado",
+          "syllables": "a-van-ZA-do",
+          "pos": "adjetivo",
+          "context": "Los coches con tecnología avanzada pueden prevenir accidentes.",
+          "definition_es": "Muy desarrollado o moderno",
+          "definition_en": "Advanced or sophisticated"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'retirarse' en el contexto político?",
+          "options": [
+            "Empezar a trabajar",
+            "Dejar de trabajar",
+            "Cambiar de trabajo",
+            "Buscar trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'empleo'?",
+          "options": [
+            "Vacaciones",
+            "Trabajo",
+            "Estudios",
+            "Dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'contratar' una empresa?",
+          "options": [
+            "Despedir trabajadores",
+            "Dar trabajo a personas",
+            "Cerrar la oficina",
+            "Vender productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un coche 'seguro' es un vehículo que...",
+          "options": [
+            "Es muy caro",
+            "No tiene peligro",
+            "Es muy rápido",
+            "Es muy viejo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos años trabajó Steny Hoyer en política?",
+          "options": [
+            "Pocos años",
+            "Muchos años",
+            "Un año",
+            "Cinco años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia económica, ¿qué pasó con los trabajos en noviembre?",
+          "options": [
+            "Aumentaron mucho",
+            "Se mantuvieron igual",
+            "Disminuyeron",
+            "Desaparecieron completamente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Dónde se mostraron los nuevos robotaxis?",
+          "options": [
+            "En una universidad",
+            "En CES 2026",
+            "En el Congreso",
+            "En una fábrica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué Hoyer decidió retirarse?",
+          "options": [
+            "Está enfermo",
+            "Quiere que otros más jóvenes tomen su lugar",
+            "No le gusta la política",
+            "Perdió las elecciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué período representa la baja de empleos en noviembre?",
+          "options": [
+            "La más baja en 14 meses",
+            "La más alta del año",
+            "Normal para la época",
+            "La primera vez que pasa"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué característica principal tienen los robotaxis?",
+          "options": [
+            "Son más baratos",
+            "No necesitan conductor",
+            "Son más rápidos",
+            "Usan menos gasolina"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-08T09:05:31.325403"
+    },
+    {
       "date": "2026-01-07",
       "filename": "spanish_lesson_2026-01-07.pdf",
       "path": "pdfs/spanish_lesson_2026-01-07.pdf",
@@ -6908,7 +7130,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-07T09:05:37.335741",
+  "last_updated": "2026-01-08T09:05:31.325416",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
