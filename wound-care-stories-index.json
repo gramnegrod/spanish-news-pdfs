@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-07",
-  "generated_at": "2026-01-07T18:36:38.752072Z",
+  "date": "2026-01-08",
+  "generated_at": "2026-01-08T09:10:54.621927Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 12,
-  "new_today": 6,
+  "total_stories": 17,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20260108",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El colágeno tipo I ayuda a sanar heridas crónicas",
+      "headline_en": "Type I Collagen Helps Heal Chronic Wounds",
+      "summary_es": "Un estudio nuevo revisa cuatro ensayos clínicos sobre el colágeno tipo I de alta pureza. Los resultados muestran que este tratamiento es efectivo para las heridas crónicas.",
+      "body_es": "Las heridas crónicas son difíciles de curar. Los pacientes necesitan tratamientos nuevos y mejores. Un equipo de investigadores estudió el colágeno tipo I de alta pureza. Revisaron cuatro ensayos clínicos con resultados buenos. El colágeno ayuda a la piel a sanar más rápido. Los médicos usan apósitos especiales con colágeno. Estos apósitos favorecen la granulación y la epitelización. Los pacientes con úlceras y heridas crónicas reciben este tratamiento. Los resultados histopatológicos muestran mejoría en el tejido. Este tratamiento es seguro y eficaz para muchos pacientes.",
+      "body_en": "Chronic wounds are difficult to heal. Patients need new and better treatments. A team of researchers studied high-purity type I collagen. They reviewed four clinical trials with good results. Collagen helps skin heal faster. Doctors use special dressings with collagen. These dressings promote granulation and epithelialization. Patients with ulcers and chronic wounds receive this treatment. Histopathological results show tissue improvement. This treatment is safe and effective for many patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQa19aRUpvRmh1NFM3TEtrUk1Ydno5Ri1QQnVHNTNjV1lXYW5IdTFDN1hISVE4UGd5cWJ0MHVDTW9BcE83N0ZBcnAxOEtUUUgwOGxXZ01mY0tNN29BaWV6Q2I5N3UwWnJvRkEtTm1aVkprclU3NWZ2NU14dXhrRW9TQWRQY1Z3bThqUHFORDZOUDNzSTJUV2ZMUlpBbkIxdHVsOWdMTFlDVVZ0YkJibXdRYXFGQ1BVZlVLLTJZRkVjMUl2VFNSS09DaU5HTDAsMWFsTG9tQU01dnV0Z0U4NVB5NnlYWTd3ZVl5VEZTcnNwM3lVelVfTmdEVmVGcHZUTl9FZkFidVVrYWh2aDJEWFl5S2xR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-08/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "colágeno",
+          "definition_es": "proteína en la piel que da estructura y resistencia",
+          "definition_en": "collagen - protein in skin that provides structure and strength"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material estéril que cubre una herida",
+          "definition_en": "dressing - sterile material that covers a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo en una herida",
+          "definition_en": "granulation - formation of new tissue in a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso en el que la piel se regenera sobre la herida",
+          "definition_en": "epithelialization - process where skin regenerates over a wound"
+        }
+      ],
+      "added_at": "2026-01-08T09:10:54.621927Z"
+    },
+    {
+      "id": "diabetic-foot-20260108",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "indigo",
+      "headline_es": "Nuevo equipo mejora significativamente el servicio de diabetes",
+      "headline_en": "New Team Significantly Improves Diabetes Service",
+      "summary_es": "Un nuevo equipo especializado en diabetes ha generado mejoras importantes en el servicio. Los pacientes con pie diabético reciben ahora atención más completa y coordinada.",
+      "body_es": "Los servicios de atención para la diabetes han experimentado cambios significativos en el último año. Un equipo nuevo y especializado fue implementado en el Trust de salud local. Este equipo coordina la evaluación y el tratamiento del pie diabético. Los pacientes con úlceras del pie reciben cuidados multidisciplinarios. Los enfermeros evalúan regularmente la circulación, la sensibilidad y las lesiones en los pies. El desbridamiento de tejido necrótico se realiza cuando es necesario. Los vendajes especializados se aplican según los protocolos establecidos. La educación del paciente sobre el cuidado diario del pie es fundamental. Los resultados muestran reducción en amputaciones y mejora en la cicatrización. El equipo trabaja con endocrinólogos, cirujanos vasculares y enfermeros especializados.",
+      "body_en": "Diabetes care services have experienced significant changes in the past year. A new specialized team was implemented in the local health Trust. This team coordinates assessment and treatment of diabetic foot complications. Patients with foot ulcers receive multidisciplinary care. Nurses regularly assess circulation, sensation, and foot injuries. Debridement of necrotic tissue is performed when necessary. Specialized dressings are applied according to established protocols. Patient education about daily foot care is fundamental. Results show reduction in amputations and improved healing. The team works with endocrinologists, vascular surgeons, and specialized nurses.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3ZUa1lvUFRocDBlRXp5eE01dlktX1A3a3E3UmlZM1pGVEs1NllVQTZVQU03QUxDVHE4dGJJREl5RVRqNjhRMUNaZEUxMFRpRmd1T0cwUjM2SzJtWExKU1hMTFYtMmxSNGdmRlR1N0w1VTZpM3hESUd2M2lEa2xaNk5xOXRUVkQtaTgxSUFtRllLdTVrRzNyOXkyOXVuSWVMR0o2Sm9pczFrUXVMdWFz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-08/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "pérdida de piel y tejido profundo, generalmente en el pie",
+          "definition_en": "ulcer - loss of skin and deeper tissue, usually on the foot"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido corporal",
+          "definition_en": "necrosis - death of body tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz después de una herida",
+          "definition_en": "scarring - process of scar formation after a wound"
+        }
+      ],
+      "added_at": "2026-01-08T09:10:54.621927Z"
+    },
+    {
+      "id": "burn-care-20260108",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Experto en quemaduras explica el tratamiento de víctimas de incendio",
+      "headline_en": "Burn Expert Explains Treatment for Fire Victims",
+      "summary_es": "Un especialista en quemaduras describe los protocolos de tratamiento para pacientes con lesiones por quemadura. El tratamiento adecuado es crucial en los primeros días después del accidente.",
+      "body_es": "Las quemaduras graves requieren atención inmediata y especializada en centros de trauma. Los médicos especialistas evalúan la profundidad y el área afectada de la quemadura. Las quemaduras de espesor total destruyen todas las capas de la piel incluyendo la dermis. El tratamiento inicial incluye enfriamiento rápido y reposición de líquidos intravenosos. Los apósitos especiales se aplican para proteger el tejido dañado. El desbridamiento del tejido necrótico se realiza en el quirófano. Los injertos de piel son necesarios para acelerar la cicatrización. Los enfermeros cambian los vendajes regularmente para prevenir infecciones. El manejo del dolor es importante durante toda la recuperación. La terapia física ayuda a recuperar la función muscular y articular.",
+      "body_en": "Severe burns require immediate specialized care at trauma centers. Specialist doctors assess the depth and affected area of the burn. Full-thickness burns destroy all layers of skin including the dermis. Initial treatment includes rapid cooling and intravenous fluid replacement. Special dressings are applied to protect damaged tissue. Debridement of necrotic tissue is performed in the operating room. Skin grafts are necessary to accelerate healing. Nurses change dressings regularly to prevent infections. Pain management is important throughout recovery. Physical therapy helps restore muscle and joint function.",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tS0trSlJiNnFXMUVXcm1raTREUHNUOVBaOEZTVmIzLWtMcTJRZHR0VngwY2Q3QnpDRHlhR0ZRMl9XZ0l4RW1KRlQyb2o0SzdRVkNtc08zVDVEZTR3ZkxqVEdFM01Da1pqOS1YV00xdmNyYWvSAXhBVV95cUxNd0JOdE1qRTNWbkVVN0hndVI5STVqX1FfOWtfMFRGakg5VTFPWmdzbEJXVGtzN0hKb3FORDRCZlREbXVWV0NLeEhxVUthZ0tqMGItSFRkWTFWWmh6WTFjWGloaWF3d1dDeXpmZnBJQmpBRHhkTWYyN1Y?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-08/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to skin caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "dermis",
+          "definition_es": "capa profunda de la piel bajo la epidermis",
+          "definition_en": "dermis - deep layer of skin beneath the epidermis"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "tejido de piel trasplantado para cubrir una herida",
+          "definition_en": "graft - skin tissue transplanted to cover a wound"
+        },
+        {
+          "word": "escara",
+          "definition_es": "costra o tejido muerto en una quemadura grave",
+          "definition_en": "eschar - crust or dead tissue in a severe burn"
+        }
+      ],
+      "added_at": "2026-01-08T09:10:54.621927Z"
+    },
+    {
+      "id": "surgical-wounds-20260108",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "rose",
+      "headline_es": "Equipo médico salva la pierna de paciente después de años de tratamiento",
+      "headline_en": "Medical Team Saves Patient's Leg After Years of Treatment",
+      "summary_es": "Un equipo multidisciplinario en el Berkeley Medical Center logró curar una herida compleja y evitar la amputación. El caso demuestra la importancia de la medicina especializada en heridas quirúrgicas.",
+      "body_es": "Un paciente llegó al Berkeley Medical Center con una herida quirúrgica compleja que no había cicatrizado después de años. El equipo de medicina de heridas evaluó la lesión cuidadosamente. Los médicos identificaron signos de isquemia tisular y exudado excesivo. Se realizó desbridamiento del tejido necrótico en múltiples procedimientos. Los apósitos avanzados incluyendo terapia de presión negativa fueron aplicados. La evaluación de la circulación periférica mejoró con tratamiento vascular. Los vendajes se cambiaban regularmente mientras se monitoreaba la granulación. Después de varios meses de tratamiento coordinado, la herida comenzó a cicatrizar. Los signos clínicos de epitelización se hicieron evidentes. El paciente evitó la amputación gracias al manejo multidisciplinario adecuado.",
+      "body_en": "A patient arrived at Berkeley Medical Center with a complex surgical wound that had not healed after years. The wound medicine team carefully evaluated the injury. Doctors identified signs of tissue ischemia and excessive exudate. Debridement of necrotic tissue was performed in multiple procedures. Advanced dressings including negative pressure therapy were applied. Evaluation of peripheral circulation improved with vascular treatment. Dressings were changed regularly while monitoring granulation. After several months of coordinated treatment, the wound began to heal. Signs of epithelialization became evident. The patient avoided amputation thanks to appropriate multidisciplinary management.",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcHVxa3BFRDhwaHlESkJIMzFVTkx6c2loUldFbWVULWs0QURtRWhGVjlBd0lOekQtNk5zZ0RWSVZtZkwzQTV5bnhiQ2ZsWnJQU2RfUjFHQ1pfMF9CMDdWZVRzT0s4ZGVvU1lzdFdnaFJJcmZHWG1VVHpXMXNtMktEeDJDSVkyNnR0Q1I3QnM4enNtejdZT1ZRR01oUkt0cEhJUEZvNV9GdDdXd0o5RUR0Y3NySTFYckM5QjJUMGkzS0RDQ0ZxdDN1MXJwY05NeFdmcWJmS3pUc2YyaDl4QW5Zd29GbW81ME5PbkVULTZKOHl4QkhTSkJlMGJ3akFoTTlqc2E4bzVvMlI?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-08/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo a un tejido",
+          "definition_en": "ischemia - lack of blood flow to tissue"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes out of a wound"
+        },
+        {
+          "word": "presión negativa",
+          "definition_es": "tipo de terapia que extrae líquido de la herida para favorecer la cicatrización",
+          "definition_en": "negative pressure - therapy type that removes wound fluid to promote healing"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        }
+      ],
+      "added_at": "2026-01-08T09:10:54.621927Z"
+    },
+    {
+      "id": "wound-research-20260108",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigadores impulsan innovación en salud desde el laboratorio a empresas",
+      "headline_en": "Researchers Drive Health Innovation from Lab to Startups",
+      "summary_es": "Investigadores de ASU desarrollan nuevas tecnologías en salud que se transforman en empresas. Estos avances incluyen soluciones innovadoras para el tratamiento de heridas.",
+      "body_es": "Los investigadores de la Universidad Estatal de Arizona trabajan en proyectos innovadores de medicina regenerativa. Los equipos de laboratorio desarrollan nuevas técnicas para la reparación de tejidos y cicatrización. Varios proyectos han avanzado hacia aplicaciones clínicas prácticas. Los investigadores colaboran con profesionales de salud para validar sus hallazgos. Los estudios incluyen ensayos con apósitos biológicos y biomateriales avanzados. La evaluación de la granulación y la epitelización se realiza mediante metodología científica rigurosa. Las patentes derivadas de esta investigación generan nuevas empresas de biotecnología. Los resultados prometen mejorar el tratamiento de úlceras crónicas y heridas quirúrgicas. La transferencia de tecnología desde la universidad al sector comercial acelera la innovación. Estos avances beneficiarán a pacientes en todo el mundo que requieren tratamientos mejorados.",
+      "body_en": "Researchers at Arizona State University work on innovative medicine regeneration projects. Laboratory teams develop new techniques for tissue repair and wound healing. Several projects have advanced toward practical clinical applications. Researchers collaborate with health professionals to validate their findings. Studies include trials with biological dressings and advanced biomaterials. Evaluation of granulation and epithelialization is performed through rigorous scientific methodology. Patents derived from this research generate new biotechnology companies. Results promise to improve treatment of chronic ulcers and surgical wounds. Technology transfer from the university to the commercial sector accelerates innovation. These advances will benefit patients worldwide who require improved treatments.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPelFkelZ5alJiWkphdVhSaGdZOWJtanBGMVcwakVEdVJpYjZ6MVd2U2oyckpYM0Q0dzI4b2QzdjlIUFhFVm1yXzhFNUprWnhtVkkwbllxMXpqbXplb1JsYkJkMThZNXE3SGVacU5xZGFtOVg2aEQ0MzJUc0t5dkkybnlPbS1IRXhxRzI1c1NUU1k2cnRZWG5fUmhZcFZCVXNR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-08/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "biomaterial",
+          "definition_es": "material sintético o natural usado en aplicaciones médicas",
+          "definition_en": "biomaterial - synthetic or natural material used in medical applications"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "proceso de crecimiento y renovación de tejido dañado",
+          "definition_en": "regeneration - process of growth and renewal of damaged tissue"
+        },
+        {
+          "word": "patente",
+          "definition_es": "derecho legal que protege una invención",
+          "definition_en": "patent - legal right that protects an invention"
+        },
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio médico controlado con participantes para probar tratamientos",
+          "definition_en": "clinical trial - controlled medical study with participants to test treatments"
+        }
+      ],
+      "added_at": "2026-01-08T09:10:54.621927Z"
+    },
     {
       "id": "chronic-wounds-20250107",
       "category": "Chronic Wounds",
@@ -445,6 +630,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-07T18:36:38.752072Z",
+  "last_updated": "2026-01-08T09:10:54.621927Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
