@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-08",
-  "generated_at": "2026-01-08T09:10:54.621927Z",
+  "date": "2026-01-09",
+  "generated_at": "2026-01-09T09:10:20.207855Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 17,
+  "total_stories": 22,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250109",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El colágeno tipo I ayuda a sanar heridas crónicas",
+      "headline_en": "Type I Collagen Helps Heal Chronic Wounds",
+      "summary_es": "Un nuevo estudio revisa cuatro investigaciones sobre el colágeno puro tipo I. El colágeno mejora la curación de heridas crónicas en los pacientes.",
+      "body_es": "Un análisis sistemático de cuatro estudios clínicos controlados examina el colágeno tipo I de alta pureza. Los investigadores estudian cómo este colágeno ayuda a sanar heridas crónicas. El colágeno es una proteína natural en la piel. Los vendajes con colágeno promueven la curación. Los resultados histopatológicos muestran cambios positivos en el tejido. El colágeno de alta pureza es seguro y efectivo. Los pacientes con heridas crónicas necesitan tratamientos nuevos. Este apósito de colágeno ofrece una opción terapéutica útil. Los especialistas en heridas recomiendan este tipo de vendaje. La curación es más rápida con este tratamiento.",
+      "body_en": "A systematic analysis of four randomized clinical studies examines high-purity type I collagen. Researchers study how this collagen helps heal chronic wounds. Collagen is a natural protein in the skin. Dressings with collagen promote healing. Histopathological results show positive tissue changes. High-purity collagen is safe and effective. Patients with chronic wounds need new treatments. This collagen dressing offers a useful therapeutic option. Wound care specialists recommend this type of dressing. Healing is faster with this treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQa19aRUpvRmh1NFM3LEtrUk1Ydno5Ri1QQnVHNTNjV1lXYW5IdTFDN1hISVE4UGd5cWJ0MHVDTW9BcE83N0ZBcnAxOEtUUUgwOGxXZ01mY0tNN29BaWV6Q2I5N3UwWnJvRkEtTm1aVkprclU3NWZ2NU14dXhrRW9TQWRQY1Z3bThqUHFORDZOUDNzSTJUV2ZMUlpBbkIxdHVsOWdMTFlDVVZ0YkJibXdRYXFGQ1BVZlVLLTJZRkVjMUl2VFNSS09DaU5HTDBsMWFsTG9tQU01dnV0Z0U4NVB5NnlYWTd3ZVl5VEZTcnNwM3lVelVfTmdEVmVGcHZUTl9FZkFidVVrYWh2aDJEWFl5S2xR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-09/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "colágeno",
+          "definition_es": "proteína en la piel y tejidos",
+          "definition_en": "collagen - protein in skin and tissues"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "apósito que cubre la herida",
+          "definition_en": "dressing - material that covers the wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar la herida",
+          "definition_en": "healing - process of wound repair"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que tarda mucho tiempo en sanar",
+          "definition_en": "chronic wound - injury that heals slowly"
+        }
+      ],
+      "added_at": "2026-01-09T09:10:20.207855Z"
+    },
+    {
+      "id": "diabetic-foot-20250109",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "Innovación endovascular salva extremidades en pacientes diabéticos",
+      "headline_en": "Endovascular Innovation Saves Limbs in Diabetic Patients",
+      "summary_es": "El Dr. Michael Lebow desarrolla nuevas técnicas endovasculares para cuidar el pie diabético. Su enfoque teamwork mejora la circulación y previene amputaciones.",
+      "body_es": "El Dr. Michael Lebow está redefiniendo el cuidado del pie diabético mediante innovación endovascular. El Dr. Lebow trabaja con un equipo multidisciplinario para salvar miembros. Las amputaciones relacionadas con diabetes son complicaciones graves. El Dr. Lebow utiliza procedimientos mínimamente invasivos para restaurar la circulación. Los pacientes diabéticos desarrollan úlceras del pie cuando hay mala circulación. La isquemia en los miembros inferiores requiere intervención rápida. El trabajo en equipo entre cirujanos, enfermeros y especialistas es esencial. El enfoque endovascular mejora el flujo sanguíneo sin cirugía abierta. Los pacientes que reciben estas innovaciones tienen mejor pronóstico. La prevención de amputaciones restaura la calidad de vida.",
+      "body_en": "Dr. Michael Lebow is redefining diabetic foot care through endovascular innovation. Dr. Lebow works with a multidisciplinary team to save limbs. Amputations related to diabetes are serious complications. Dr. Lebow uses minimally invasive procedures to restore circulation. Diabetic patients develop foot ulcers when circulation is poor. Ischemia in the lower limbs requires rapid intervention. Teamwork among surgeons, nurses, and specialists is essential. The endovascular approach improves blood flow without open surgery. Patients receiving these innovations have better outcomes. Amputation prevention restores quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2xzaXN6SUVidFV6Mk9hRFJjMWprNENhVGlGQTdLbnBFQjVFZHFFTVYzRmQzUlY2Y3Z0SHN0UERBaElLS2IyY2hoZzJKWnpMOF9iX1BLc1JIV2o4dTdiejlqQktlUW9HRnFaYW5xaXVnQjRxVXgxRzdRWmJsVmQ2ajE1RGZ5cXN4dUE3TmZ2dVc5MjJNQjdPR2xkSnRJbEVTOEwyRjUtNk5ITjJTT0hiV0JEWUpaNlpVR0x3ME5xcjZ2WVJLcFhkWTNXb2RxZnJyUnVyWWNHNUpzVlRkVEhuRmtMakNseHc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-09/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "lesión en el pie causada por diabetes",
+          "definition_en": "diabetic ulcer - foot wound caused by diabetes"
+        },
+        {
+          "word": "endovascular",
+          "definition_es": "procedimiento dentro de los vasos sanguíneos",
+          "definition_en": "endovascular - procedure within blood vessels"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo en un tejido",
+          "definition_en": "ischemia - lack of blood flow to tissue"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-01-09T09:10:20.207855Z"
+    },
+    {
+      "id": "burn-care-20250109",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Apósito sin malla mejora la cicatrización en epidermólisis bullosa",
+      "headline_en": "Mesh-Free Dressing Improves Healing in Epidermolysis Bullosa",
+      "summary_es": "Un nuevo vendaje sin malla promueve la curación de heridas en pacientes con epidermólisis bullosa. Los datos de ensayos clínicos muestran resultados positivos.",
+      "body_es": "Una nueva tecnología de apósito sin malla está mejorando la cicatrización en pacientes con epidermólisis bullosa. Esta enfermedad genética causa ampollas y lesiones cutáneas crónicas. Los vendajes tradicionales pueden dañar la piel frágil al removerlos. El nuevo apósito sin malla reduce el trauma durante los cambios de vendaje. Los datos de ensayos clínicos demuestran mejor epitelización. Los pacientes experimentan menos dolor durante el cuidado de heridas. La curación es más rápida con este vendaje innovador. El apósito mantiene un ambiente húmedo óptimo para la reparación tisular. Los especialistas en quemaduras y heridas recomiendan esta tecnología. El tratamiento mejora significativamente la calidad de vida de estos pacientes.",
+      "body_en": "New mesh-free dressing technology is improving skin healing in epidermolysis bullosa patients. This genetic disease causes chronic blisters and skin lesions. Traditional dressings can damage fragile skin when removed. The mesh-free dressing reduces trauma during dressing changes. Clinical trial data demonstrates improved epithelialization. Patients experience less pain during wound care. Healing is faster with this innovative dressing. The dressing maintains an optimal moist environment for tissue repair. Burn and wound care specialists recommend this technology. Treatment significantly improves these patients' quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkQ5UU1obDYtbFdtdUxqdFdaTWRUN3RJaFZLM2JWdWpZZW1kSWV6QURTdXMtbTFpRzdTMHhsT0ZZMFZoWFZOMFdHcm94ZG56enU3ajJCX1NndDhneXhzUEZuYlB1S21Uc01xWThDMFBVUm5WSFdGeWhpQmE1ODRWVGZOOERMdVlOaWRJbzg2emt4M3ZoTHVEakl2R3pCQU9OX0tV?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-09/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "epidermólisis bullosa",
+          "definition_es": "enfermedad genética con ampollas cutáneas",
+          "definition_en": "epidermolysis bullosa - genetic blistering disease"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre la herida",
+          "definition_en": "epithelialization - formation of new skin over wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "vendaje que cubre la herida",
+          "definition_en": "dressing - material applied to wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y formación de cicatriz",
+          "definition_en": "healing/scarring - wound repair process"
+        }
+      ],
+      "added_at": "2026-01-09T09:10:20.207855Z"
+    },
+    {
+      "id": "surgical-wounds-20250109",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Estandarización en manejo de infecciones post quirúrgicas en cirugía ortopédica oncológica",
+      "headline_en": "Standardization of Infection Management After Limb Salvage Surgery",
+      "summary_es": "El informe BOOM global destaca la necesidad de protocolos estándar para infecciones después de la cirugía de salvamento de miembros. La coordinación entre especialistas es crítica.",
+      "body_es": "El Informe BOOM Global documenta la importancia de estandarizar el manejo de infecciones después de la cirugía de salvamento de miembros en oncología ortopédica. Las infecciones post-operatorias son complicaciones graves que afectan el resultado. La cirugía de salvamento de miembros evita amputaciones en pacientes oncológicos. Los protocolos inconsistentes resultan en variabilidad en la atención. El desbridamiento quirúrgico es un procedimiento esencial para infecciones profundas. El uso apropiado de antibióticos previene la necrosis tisular. La evaluación microbiana temprana guía la terapia antibiótica. Los equipos multidisciplinarios deben coordinar el cuidado post-quirúrgico. La reepitelización requiere monitoreo continuo de la herida. La estandarización de protocolos mejora los resultados clínicos.",
+      "body_en": "The Global BOOM Report documents the importance of standardizing infection management after limb salvage surgery in orthopedic oncology. Post-operative infections are serious complications affecting outcomes. Limb salvage surgery prevents amputations in cancer patients. Inconsistent protocols result in variability in care. Surgical debridement is an essential procedure for deep infections. Appropriate antibiotic use prevents tissue necrosis. Early microbial evaluation guides antibiotic therapy. Multidisciplinary teams must coordinate post-surgical care. Reepithelialization requires continuous wound monitoring. Standardization of protocols improves clinical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOenZ4YkVjcGJZeV92TWJvZ3UtT3V5aUJXSklOWUhfa0ZnWHhFaEN1aDYwZG9IdU5SVjExTXlJTENJbWcwaDc2RXVRd0Z0d0UyVlN3MVZFRzE4bmFvUmxrdGwzZU5xckYyYmMxWXViTHlvZkMyUWtLelFkWWpyR0lSUVV0a1FjTzFwWVBQQ0pZWjF1WDQybDdBX215cmE5XzJBelhVNFV6RldFOGRMTnQ0bU9Zcmk0U0dzM1ZpMVd4T0RWTzVma2luUkRjUGl2TTB0QVNBRGNybGR0Q2xnNnRibm5JYw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-09/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "salvamento de miembros",
+          "definition_es": "cirugía para preservar una extremidad",
+          "definition_en": "limb salvage - surgery to preserve a limb"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o infectado",
+          "definition_en": "debridement - removal of dead or infected tissue"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido",
+          "definition_en": "necrosis - tissue death"
+        },
+        {
+          "word": "protocolo",
+          "definition_es": "procedimiento estándar establecido",
+          "definition_en": "protocol - established standard procedure"
+        }
+      ],
+      "added_at": "2026-01-09T09:10:20.207855Z"
+    },
+    {
+      "id": "wound-research-20250109",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Innovaciones en medicina táctica salvan vidas en el campo de batalla",
+      "headline_en": "Tactical Medicine Innovations Save Lives on the Battlefield",
+      "summary_es": "Un oficial de West Point es nombrado en Forbes '30 Under 30' por innovaciones en heridas de batalla. Su investigación avanza el cuidado de traumatismo.",
+      "body_es": "Un oficial graduado de West Point ha sido reconocido en la lista Forbes '30 Under 30' por innovaciones en medicina táctica para heridas de batalla. La investigación de traumatismos es crítica en entornos militares. Las heridas de combate requieren intervenciones rápidas y efectivas. Este investigador desarrolla nuevas técnicas de hemostasia en el campo de batalla. Los torniquetes y vendajes compresivos son tratamientos de primer nivel. La medicina táctica integra protocolos de evacuación rápida. Los apósitos hemostáticos están salvando vidas en operaciones. La reanimación con fluidos es crucial en heridas traumáticas. El trabajo en investigación de heridas beneficia también la medicina civil. Las innovaciones militares frecuentemente avanzan la práctica civil.",
+      "body_en": "A West Point graduate has been recognized on Forbes '30 Under 30' for innovations in tactical medicine for battlefield wounds. Trauma research is critical in military settings. Combat wounds require rapid and effective interventions. This researcher develops new battlefield hemostasis techniques. Tourniquets and compression bandages are first-line treatments. Tactical medicine integrates rapid evacuation protocols. Hemostatic dressings are saving lives in operations. Fluid resuscitation is crucial in traumatic wounds. Wound research work benefits civilian medicine as well. Military innovations frequently advance civilian practice.",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaFZqX3VtdTgxNHpCeWtyRlV0bWRiMXhWbUhMLU5vdk1aUTZiZ2sySXJ6WkltRnpLY1dEbDFiZDJJNkQ1RklYQ1EtckphV2VOS2EzQ2xab0Q0THlDeE9BRTRfSUtjbG9GT1FVSGxMbEVEUm5NbjN0dDZDTkJpeDQ2cmpQSHZhQVI3b2diU2hJMUdxNVhaMk9ObXlWRjZBaXZvcHc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-09/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida de batalla",
+          "definition_es": "trauma causado en combate",
+          "definition_en": "battle wound - trauma from combat"
+        },
+        {
+          "word": "hemostasia",
+          "definition_es": "control del sangrado",
+          "definition_en": "hemostasis - control of bleeding"
+        },
+        {
+          "word": "torniquete",
+          "definition_es": "dispositivo para detener el flujo sanguíneo",
+          "definition_en": "tourniquet - device to stop blood flow"
+        },
+        {
+          "word": "traumatismo",
+          "definition_es": "lesión causada por fuerza externa",
+          "definition_en": "trauma - injury from external force"
+        }
+      ],
+      "added_at": "2026-01-09T09:10:20.207855Z"
+    },
     {
       "id": "chronic-wounds-20260108",
       "category": "Chronic Wounds",
@@ -630,6 +815,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-08T09:10:54.621927Z",
+  "last_updated": "2026-01-09T09:10:20.207855Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
