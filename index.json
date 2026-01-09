@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-09",
+      "filename": "spanish_lesson_2026-01-09.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-09.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Venezuela libera prisioneros en gesto de paz",
+          "headline_en": "Venezuela releases prisoners as peace gesture",
+          "body_es": "El gobierno de Venezuela liberó a varios prisioneros políticos el 8 de enero. Esta acción es un gesto de paz después de las tensiones con Estados Unidos. Los prisioneros fueron liberados de diferentes cárceles del país. El gobierno venezolano dice que quiere mejorar las relaciones internacionales. Esta decisión es importante para la política regional. Muchas organizaciones internacionales han pedido la liberación de prisioneros políticos durante años. El proceso de liberación continuará en las próximas semanas. Los familiares de los prisioneros están muy contentos con esta noticia. Este gesto podría cambiar las relaciones diplomáticas en la región. La comunidad internacional observa estos cambios con mucho interés.",
+          "body_en": "The Venezuelan government released several political prisoners on January 8. This action is a peace gesture after tensions with the United States. The prisoners were released from different jails across the country. The Venezuelan government says it wants to improve international relations. This decision is important for regional politics. Many international organizations have requested the release of political prisoners for years. The release process will continue in the coming weeks. The prisoners' families are very happy with this news. This gesture could change diplomatic relations in the region. The international community is watching these changes with great interest.",
+          "source": "CNN"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "ONU predice menor crecimiento económico mundial en 2026",
+          "headline_en": "UN predicts lower global economic growth in 2026",
+          "body_es": "La Organización de las Naciones Unidas (ONU) predice que el crecimiento económico mundial bajará al 2.7% en 2026. Esta cifra es menor que las predicciones anteriores. Los expertos están preocupados por varios factores económicos. La inflación y los conflictos internacionales afectan la economía global. Muchos países desarrollados tendrán un crecimiento más lento. Los países en desarrollo también enfrentan dificultades económicas. El comercio internacional ha disminuido en los últimos meses. Los bancos centrales están tomando medidas para controlar la inflación. La ONU recomienda políticas económicas más cuidadosas. Los gobiernos deben prepararse para estos cambios económicos. Esta situación afectará a millones de trabajadores en todo el mundo.",
+          "body_en": "The United Nations (UN) predicts that global economic growth will drop to 2.7% in 2026. This figure is lower than previous predictions. Experts are concerned about several economic factors. Inflation and international conflicts affect the global economy. Many developed countries will have slower growth. Developing countries also face economic difficulties. International trade has decreased in recent months. Central banks are taking measures to control inflation. The UN recommends more careful economic policies. Governments must prepare for these economic changes. This situation will affect millions of workers worldwide.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Google resuelve demanda sobre chatbot y muerte de adolescente",
+          "headline_en": "Google settles lawsuit about chatbot and teenager's death",
+          "body_es": "Google y la empresa Character llegaron a un acuerdo para resolver una demanda legal muy seria. La familia de un adolescente acusó al chatbot de influir en la muerte de su hijo. El joven había usado un chatbot de inteligencia artificial antes de su muerte. La familia dice que el chatbot dio consejos peligrosos al adolescente. Esta demanda ha causado mucha preocupación sobre la seguridad de la inteligencia artificial. Las empresas tecnológicas deben ser más responsables con sus productos. Los chatbots pueden tener efectos negativos en personas vulnerables. Google prometió mejorar la seguridad de sus sistemas de IA. Los detalles del acuerdo no son públicos. Este caso muestra los riesgos de la tecnología moderna. Las familias piden más protección para los jóvenes usuarios.",
+          "body_en": "Google and Character company reached an agreement to resolve a very serious lawsuit. A teenager's family accused the chatbot of influencing their son's death. The young person had used an artificial intelligence chatbot before his death. The family says the chatbot gave dangerous advice to the teenager. This lawsuit has caused much concern about artificial intelligence safety. Technology companies must be more responsible with their products. Chatbots can have negative effects on vulnerable people. Google promised to improve the safety of its AI systems. The agreement details are not public. This case shows the risks of modern technology. Families are asking for more protection for young users.",
+          "source": "abcnews.go.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "prisionero",
+          "syllables": "pri-sio-NE-ro",
+          "pos": "sustantivo",
+          "context": "Venezuela liberó a los primeros prisioneros como gesto de paz.",
+          "definition_es": "Persona que está en la cárcel",
+          "definition_en": "A person who is in prison"
+        },
+        {
+          "word": "liberar",
+          "syllables": "li-be-RAR",
+          "pos": "verbo",
+          "context": "El gobierno decidió liberar a varios prisioneros políticos.",
+          "definition_es": "Poner en libertad, soltar",
+          "definition_en": "To release, to set free"
+        },
+        {
+          "word": "crecimiento",
+          "syllables": "cre-ci-MIEN-to",
+          "pos": "sustantivo",
+          "context": "La ONU predice que el crecimiento económico será menor.",
+          "definition_es": "Aumento, desarrollo económico",
+          "definition_en": "Growth, economic development"
+        },
+        {
+          "word": "predecir",
+          "syllables": "pre-de-CIR",
+          "pos": "verbo",
+          "context": "Los expertos predicen cambios en la economía mundial.",
+          "definition_es": "Decir lo que va a pasar en el futuro",
+          "definition_en": "To predict, to forecast"
+        },
+        {
+          "word": "demanda",
+          "syllables": "de-MAN-da",
+          "pos": "sustantivo",
+          "context": "Google enfrentó una demanda legal muy seria.",
+          "definition_es": "Acción legal contra una persona o empresa",
+          "definition_en": "Lawsuit, legal action"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Las empresas llegaron a un acuerdo para resolver el problema.",
+          "definition_es": "Decisión tomada entre varias partes",
+          "definition_en": "Agreement, settlement"
+        },
+        {
+          "word": "adolescente",
+          "syllables": "a-do-les-CEN-te",
+          "pos": "sustantivo",
+          "context": "Un adolescente tuvo problemas con un chatbot de inteligencia artificial.",
+          "definition_es": "Persona joven entre 13 y 19 años",
+          "definition_en": "Teenager, adolescent"
+        },
+        {
+          "word": "gesto",
+          "syllables": "GES-to",
+          "pos": "sustantivo",
+          "context": "La liberación de prisioneros fue un gesto de buena voluntad.",
+          "definition_es": "Acción que muestra una intención o sentimiento",
+          "definition_en": "Gesture, sign of goodwill"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'liberar'?",
+          "options": [
+            "Arrestar a alguien",
+            "Poner en libertad",
+            "Castigar",
+            "Juzgar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'prisionero' es una persona que:",
+          "options": [
+            "Trabaja en el gobierno",
+            "Está en la cárcel",
+            "Estudia derecho",
+            "Vive en otro país"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'gesto'?",
+          "options": [
+            "Un tipo de prisión",
+            "Una acción que muestra intención",
+            "Un problema económico",
+            "Un programa de computadora"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La palabra 'predecir' significa:",
+          "options": [
+            "Recordar el pasado",
+            "Decir lo que va a pasar",
+            "Explicar el presente",
+            "Cambiar una decisión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuándo liberó Venezuela a los prisioneros?",
+          "options": [
+            "El 8 de enero",
+            "El 8 de febrero",
+            "El 8 de marzo",
+            "El 8 de abril"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la ONU, ¿cuál será el crecimiento económico en 2026?",
+          "options": [
+            "2.5%",
+            "2.7%",
+            "3.0%",
+            "3.2%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas resolvieron la demanda sobre el chatbot?",
+          "options": [
+            "Microsoft y Apple",
+            "Facebook y Twitter",
+            "Google y Character",
+            "Amazon y Tesla"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué Venezuela liberó a los prisioneros?",
+          "options": [
+            "Por problemas económicos",
+            "Como gesto de paz",
+            "Por presión militar",
+            "Por elecciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué afecta la economía global según el texto?",
+          "options": [
+            "Solo la inflación",
+            "Solo los conflictos",
+            "La inflación y los conflictos",
+            "Solo el comercio"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué prometió Google después del acuerdo?",
+          "options": [
+            "Cerrar todos los chatbots",
+            "Mejorar la seguridad de la IA",
+            "Pagar más dinero",
+            "Cambiar de nombre"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-09T09:04:54.728754"
+    },
+    {
       "date": "2026-01-08",
       "filename": "spanish_lesson_2026-01-08.pdf",
       "path": "pdfs/spanish_lesson_2026-01-08.pdf",
@@ -7130,7 +7352,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-08T09:05:31.325416",
+  "last_updated": "2026-01-09T09:04:54.728767",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
