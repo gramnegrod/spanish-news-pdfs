@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-10",
+      "filename": "spanish_lesson_2026-01-10.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-10.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso aprueba nuevo presupuesto para evitar cierre del gobierno",
+          "headline_en": "Congress approves new budget to avoid government shutdown",
+          "body_es": "La Cámara de Representantes de Estados Unidos aprobó fácilmente un nuevo paquete de gastos esta semana. Los legisladores trabajaron rápidamente para evitar otro cierre del gobierno federal. El presupuesto incluye fondos para diferentes programas gubernamentales y servicios públicos. La votación fue exitosa con apoyo de ambos partidos políticos. Este acuerdo permite que el gobierno continue funcionando normalmente durante los próximos meses. Los representantes dijeron que era importante actuar rápido para mantener la estabilidad. El cierre del gobierno habría afectado a millones de trabajadores federales. Ahora el presupuesto va al Senado para su votación final antes de convertirse en ley.",
+          "body_en": "The US House of Representatives easily passed a new spending package this week. Lawmakers worked quickly to avoid another federal government shutdown. The budget includes funds for different government programs and public services. The vote was successful with support from both political parties. This agreement allows the government to continue functioning normally for the coming months. Representatives said it was important to act quickly to maintain stability. A government shutdown would have affected millions of federal workers. Now the budget goes to the Senate for final voting before becoming law.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía estadounidense crea pocos empleos pero baja el desempleo",
+          "headline_en": "US economy creates few jobs but unemployment rate falls",
+          "body_es": "La economía de Estados Unidos añadió solamente 50,000 nuevos empleos el mes pasado según datos oficiales. Esta cifra es mucho menor que las expectativas de los economistas. Sin embargo, la tasa de desempleo bajó de manera inesperada durante el mismo período. Los expertos están analizando estos números contradictorios para entender la situación del mercado laboral. Algunos sectores como la tecnología y los servicios mostraron crecimiento lento. La industria manufacturera perdió algunos puestos de trabajo. Los analistas económicos dijeron que estos resultados mixtos reflejan incertidumbre en la economía. El gobierno federal continuará monitoreando estos indicadores importantes para tomar decisiones futuras sobre política económica.",
+          "body_en": "The US economy added only 50,000 new jobs last month according to official data. This figure is much lower than economists' expectations. However, the unemployment rate fell unexpectedly during the same period. Experts are analyzing these contradictory numbers to understand the labor market situation. Some sectors like technology and services showed slow growth. The manufacturing industry lost some jobs. Economic analysts said these mixed results reflect uncertainty in the economy. The federal government will continue monitoring these important indicators to make future decisions about economic policy.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Autoridades investigan empresas que ofrecen inteligencia artificial a niños",
+          "headline_en": "Authorities investigate companies offering artificial intelligence to children",
+          "body_es": "La Comisión Federal de Comercio (FTC) comenzó una investigación oficial sobre empresas tecnológicas que ofrecen chatbots de inteligencia artificial a menores de edad. La agencia quiere entender mejor los riesgos potenciales de estas tecnologías para los niños. Muchas compañías han desarrollado asistentes virtuales y chatbots dirigidos específicamente al público infantil. Los reguladores están preocupados por temas de privacidad y seguridad online. La investigación examinará cómo estas empresas recolectan y usan información personal de los menores. También analizarán si los niños pueden distinguir entre conversaciones reales y artificiales. La FTC tiene autoridad para imponer multas y regulaciones si encuentra violaciones. Esta investigación forma parte de esfuerzos más amplios para proteger a los menores en internet.",
+          "body_en": "The Federal Trade Commission (FTC) began an official investigation into tech companies offering AI chatbots to minors. The agency wants to better understand potential risks of these technologies for children. Many companies have developed virtual assistants and chatbots directed specifically at young audiences. Regulators are concerned about privacy and online safety issues. The investigation will examine how these companies collect and use personal information from minors. They will also analyze whether children can distinguish between real and artificial conversations. The FTC has authority to impose fines and regulations if it finds violations. This investigation is part of broader efforts to protect minors on the internet.",
+          "source": "Mashable"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El Congreso aprobó el nuevo presupuesto para evitar el cierre del gobierno.",
+          "definition_es": "Plan de gastos e ingresos del gobierno",
+          "definition_en": "Government budget or spending plan"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense creó 50,000 nuevos empleos el mes pasado.",
+          "definition_es": "Trabajo remunerado que realiza una persona",
+          "definition_en": "Job or employment"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "de-sem-PLE-o",
+          "pos": "sustantivo",
+          "context": "La tasa de desempleo bajó a pesar de los pocos empleos creados.",
+          "definition_es": "Situación de personas sin trabajo",
+          "definition_en": "Unemployment"
+        },
+        {
+          "word": "investigación",
+          "syllables": "in-ves-ti-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "La FTC inició una investigación sobre las empresas tecnológicas.",
+          "definition_es": "Estudio detallado para conocer la verdad sobre algo",
+          "definition_en": "Investigation or inquiry"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "Los legisladores trabajan para evitar el cierre del gobierno.",
+          "definition_es": "Acción de cerrar o parar las actividades",
+          "definition_en": "Shutdown or closure"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las empresas de tecnología ofrecen chatbots de inteligencia artificial.",
+          "definition_es": "Organizaciones que producen bienes o servicios",
+          "definition_en": "Companies or businesses"
+        },
+        {
+          "word": "menores",
+          "syllables": "me-NO-res",
+          "pos": "sustantivo",
+          "context": "La investigación se centra en servicios dirigidos a menores de edad.",
+          "definition_es": "Personas que no han alcanzado la mayoría de edad",
+          "definition_en": "Minors or children under 18"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "La Cámara de Representantes logró aprobar el paquete de gastos.",
+          "definition_es": "Aceptar o dar por bueno algo mediante votación",
+          "definition_en": "To approve or pass (legislation)"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'presupuesto'?",
+          "options": [
+            "Plan de gastos del gobierno",
+            "Tipo de votación",
+            "Edificio gubernamental",
+            "Período de tiempo"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'desempleo'?",
+          "options": [
+            "Trabajo de medio tiempo",
+            "Situación de personas sin trabajo",
+            "Aumento de salarios",
+            "Nueva empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'empresas'?",
+          "options": [
+            "Trabajadores del gobierno",
+            "Programas de televisión",
+            "Organizaciones que producen bienes o servicios",
+            "Tipos de tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'aprobar' en contexto político?",
+          "options": [
+            "Rechazar una propuesta",
+            "Aceptar mediante votación",
+            "Crear nuevas leyes",
+            "Cancelar una reunión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos se crearon en Estados Unidos el mes pasado?",
+          "options": [
+            "25,000",
+            "50,000",
+            "75,000",
+            "100,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con la tasa de desempleo según la noticia económica?",
+          "options": [
+            "Subió mucho",
+            "Se mantuvo igual",
+            "Bajó de manera inesperada",
+            "No se reportó"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué organización está investigando a las empresas tecnológicas?",
+          "options": [
+            "FBI",
+            "CIA",
+            "FTC",
+            "NASA"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué quería evitar el Congreso con el nuevo presupuesto?",
+          "options": [
+            "Nuevos impuestos",
+            "Cierre del gobierno",
+            "Elecciones anticipadas",
+            "Protestas públicas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿A quién están dirigidos los chatbots que investiga la FTC?",
+          "options": [
+            "Adultos mayores",
+            "Empresarios",
+            "Menores de edad",
+            "Estudiantes universitarios"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cómo fue la votación del presupuesto en la Cámara de Representantes?",
+          "options": [
+            "Muy difícil",
+            "Se rechazó",
+            "Fue fácil y exitosa",
+            "Se pospuso"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-10T09:02:07.398513"
+    },
+    {
       "date": "2026-01-09",
       "filename": "spanish_lesson_2026-01-09.pdf",
       "path": "pdfs/spanish_lesson_2026-01-09.pdf",
@@ -7352,7 +7574,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-09T09:04:54.728767",
+  "last_updated": "2026-01-10T09:02:07.398528",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
