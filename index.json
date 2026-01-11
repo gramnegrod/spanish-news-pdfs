@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-11",
+      "filename": "spanish_lesson_2026-01-11.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-11.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump dice que Venezuela liberará prisioneros políticos",
+          "headline_en": "Trump says Venezuela will release political prisoners",
+          "body_es": "El presidente Trump anunció que Venezuela está comenzando el proceso para liberar prisioneros políticos. Esta decisión es muy importante para las relaciones entre Estados Unidos y Venezuela. Muchas personas están presas en Venezuela por sus ideas políticas. Trump dijo que este es el primer paso hacia una mejor relación. El gobierno venezolano no ha confirmado oficialmente esta información. Sin embargo, familias de prisioneros están esperando buenas noticias. Esta situación podría cambiar las relaciones diplomáticas entre los dos países. Los expertos dicen que es necesario ver acciones concretas. El proceso de liberación podría tomar varios meses. Muchos países están observando esta situación con atención.",
+          "body_en": "President Trump announced that Venezuela is beginning the process to release political prisoners. This decision is very important for relations between the United States and Venezuela. Many people are imprisoned in Venezuela for their political ideas. Trump said this is the first step toward a better relationship. The Venezuelan government has not officially confirmed this information. However, families of prisoners are hoping for good news. This situation could change diplomatic relations between the two countries. Experts say it is necessary to see concrete actions. The release process could take several months. Many countries are watching this situation carefully.",
+          "source": "CBS News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los aranceles afectan más el trabajo que las compras",
+          "headline_en": "Tariffs affect jobs more than shopping",
+          "body_es": "Un estudio muestra que los aranceles han afectado más los empleos que los precios en las tiendas. Los aranceles son impuestos sobre productos importados. Cuando las empresas pagan más por importar, algunas pierden trabajadores. Los consumidores no han visto grandes cambios en los precios. Pero muchas fábricas han reducido su personal. Las empresas que dependen de materiales extranjeros tienen más problemas. Los trabajadores de la industria manufacturera son los más afectados. Algunos economistas dicen que esta situación es temporal. Otros piensan que los efectos serán permanentes. El gobierno está estudiando cómo ayudar a los trabajadores. Las empresas piden cambios en la política de aranceles para proteger los empleos americanos.",
+          "body_en": "A study shows that tariffs have affected jobs more than prices in stores. Tariffs are taxes on imported products. When companies pay more to import, some lose workers. Consumers have not seen big changes in prices. But many factories have reduced their staff. Companies that depend on foreign materials have more problems. Manufacturing industry workers are the most affected. Some economists say this situation is temporary. Others think the effects will be permanent. The government is studying how to help workers. Companies are asking for changes in tariff policy to protect American jobs.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "China investiga la compra de Meta por 2 mil millones",
+          "headline_en": "China investigates Meta's $2 billion purchase",
+          "body_es": "El gobierno de Beijing está investigando la adquisición de Meta de una empresa de inteligencia artificial. Meta pagó 2 mil millones de dólares por esta empresa de Singapur. La empresa se especializa en tecnología de inteligencia artificial avanzada. China está preocupada por el control de esta tecnología. Las autoridades chinas quieren saber si la compra afecta la seguridad nacional. Meta dice que la adquisición es solo para mejorar sus productos. La empresa de Singapur desarrolla software muy avanzado. Algunos expertos piensan que China podría bloquear la venta. Esta situación muestra la competencia tecnológica global. Las relaciones entre Estados Unidos y China en tecnología son complicadas. El resultado de esta investigación será muy importante para el futuro.",
+          "body_en": "Beijing's government is investigating Meta's acquisition of an artificial intelligence company. Meta paid 2 billion dollars for this Singapore company. The company specializes in advanced artificial intelligence technology. China is concerned about control of this technology. Chinese authorities want to know if the purchase affects national security. Meta says the acquisition is only to improve its products. The Singapore company develops very advanced software. Some experts think China could block the sale. This situation shows global technological competition. Relations between the United States and China in technology are complicated. The result of this investigation will be very important for the future.",
+          "source": "WebProNews"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "liberar",
+          "syllables": "li-be-RAR",
+          "pos": "verbo",
+          "context": "Venezuela va a liberar a los prisioneros políticos.",
+          "definition_es": "Poner en libertad a alguien que estaba preso",
+          "definition_en": "To release or free someone who was imprisoned"
+        },
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Los aranceles afectan el trabajo de muchos americanos.",
+          "definition_es": "Impuestos que se pagan por importar productos",
+          "definition_en": "Taxes paid on imported goods"
+        },
+        {
+          "word": "adquisición",
+          "syllables": "ad-qui-si-CIÓN",
+          "pos": "sustantivo",
+          "context": "Meta hizo una adquisición de una empresa de inteligencia artificial.",
+          "definition_es": "Acción de comprar o conseguir algo",
+          "definition_en": "The act of buying or acquiring something"
+        },
+        {
+          "word": "proceso",
+          "syllables": "pro-CE-so",
+          "pos": "sustantivo",
+          "context": "Venezuela está comenzando el proceso de liberación.",
+          "definition_es": "Serie de pasos para hacer algo",
+          "definition_en": "A series of steps to accomplish something"
+        },
+        {
+          "word": "empleos",
+          "syllables": "em-PLE-os",
+          "pos": "sustantivo",
+          "context": "Los aranceles han afectado los empleos más que las compras.",
+          "definition_es": "Trabajos o puestos de trabajo",
+          "definition_en": "Jobs or positions of work"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Meta compró una empresa de Singapur.",
+          "definition_es": "Organización que hace negocios",
+          "definition_en": "A business organization"
+        },
+        {
+          "word": "investigación",
+          "syllables": "in-ves-ti-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "Beijing está haciendo una investigación sobre la compra.",
+          "definition_es": "Estudio detallado de algo",
+          "definition_en": "A detailed study or examination of something"
+        },
+        {
+          "word": "político",
+          "syllables": "po-LÍ-ti-co",
+          "pos": "adjetivo",
+          "context": "Los prisioneros políticos serán liberados pronto.",
+          "definition_es": "Relacionado con la política o el gobierno",
+          "definition_en": "Related to politics or government"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'liberar' en el contexto político?",
+          "options": [
+            "Arrestar a alguien",
+            "Poner en libertad",
+            "Investigar un caso",
+            "Comprar algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Los 'aranceles' son:",
+          "options": [
+            "Trabajos en fábricas",
+            "Impuestos sobre importaciones",
+            "Precios en tiendas",
+            "Empresas extranjeras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Una 'adquisición' en el mundo de los negocios significa:",
+          "options": [
+            "Vender una empresa",
+            "Cerrar una fábrica",
+            "Comprar una empresa",
+            "Crear empleos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'empleos'?",
+          "options": [
+            "Productos importados",
+            "Puestos de trabajo",
+            "Precios altos",
+            "Empresas grandes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según Trump, ¿qué está haciendo Venezuela?",
+          "options": [
+            "Cerrando prisiones",
+            "Liberando prisioneros políticos",
+            "Arrestando más gente",
+            "Construyendo cárceles"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿A quién afectan más los aranceles según el estudio?",
+          "options": [
+            "A los consumidores",
+            "A los precios",
+            "A los trabajadores",
+            "A las tiendas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto pagó Meta por la empresa de Singapur?",
+          "options": [
+            "1 mil millones",
+            "2 mil millones",
+            "3 mil millones",
+            "500 millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué China está investigando la compra de Meta?",
+          "options": [
+            "Por el precio alto",
+            "Por seguridad nacional",
+            "Por problemas legales",
+            "Por competencia económica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué industria está más afectada por los aranceles?",
+          "options": [
+            "La tecnológica",
+            "La manufacturera",
+            "La agrícola",
+            "La financiera"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿En qué se especializa la empresa que compró Meta?",
+          "options": [
+            "Redes sociales",
+            "Comercio electrónico",
+            "Inteligencia artificial",
+            "Videojuegos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-11T09:02:10.225434"
+    },
+    {
       "date": "2026-01-10",
       "filename": "spanish_lesson_2026-01-10.pdf",
       "path": "pdfs/spanish_lesson_2026-01-10.pdf",
@@ -7574,7 +7796,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-10T09:02:07.398528",
+  "last_updated": "2026-01-11T09:02:10.225447",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
