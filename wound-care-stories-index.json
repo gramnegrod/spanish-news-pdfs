@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-10",
-  "generated_at": "2026-01-10T09:07:12.717673Z",
+  "date": "2026-01-11",
+  "generated_at": "2026-01-11T09:07:16.354113Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 27,
+  "total_stories": 32,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250111",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La tecnología médica ayuda a sanar heridas crónicas",
+      "headline_en": "Medical Technology Helps Heal Chronic Wounds",
+      "summary_es": "Los hospitales usan nueva tecnología para tratar heridas crónicas. Esta tecnología moderna reduce el tiempo de curación.",
+      "body_es": "Las heridas crónicas son un problema importante en los hospitales. Muchos pacientes tienen heridas que no sanan bien. La tecnología médica nueva ayuda a estos pacientes. Los apósitos modernos aceleran la curación. El desbridamiento con máquinas especiales limpia las heridas muertas. Los médicos usan presión negativa para mejorar la cicatrización. Esta presión atrae sangre fresca a la herida. Los hospitales necesitan tratar muchos pacientes. La nueva tecnología reduce el tiempo de espera. Los pacientes sanan más rápido con estos tratamientos. Las heridas se cierran mejor y más seguro.",
+      "body_en": "Chronic wounds are an important problem in hospitals. Many patients have wounds that do not heal well. New medical technology helps these patients. Modern dressings speed up healing. Debridement with special machines cleans dead wound tissue. Doctors use negative pressure to improve scarring. This pressure brings fresh blood to the wound. Hospitals need to treat many patients. New technology reduces waiting times. Patients heal faster with these treatments. Wounds close better and more safely.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2JQZTFodHdGLVMxbHhwRXk3eFlWX3dhZWZOTnkxY2RHLW9fMUwwZG9nYk1KaXEybUtDZ0drNE1uejB2WEFjeVd6TTdTd0RxNUJLSk9XOG9oWU11UE9fWkF1VWRvM3FDZXB5Sk9YckgxdVBLS3l1UEhVWXl3blJjWEZyYko0Y01GMnBkM2NwRHEwZVdWbGQzaUp0OEttNWxLY1cyNGx3TDNjQzRkYnhwcEpGbjNCTzFpYTR3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-11/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no sana en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material especial para cubrir y proteger heridas",
+          "definition_en": "dressing - special material to cover and protect wounds"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto de la herida",
+          "definition_en": "debridement - removal of dead tissue from wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz y cierre de herida",
+          "definition_en": "scarring - process of scar formation and wound closure"
+        }
+      ],
+      "added_at": "2026-01-11T09:07:16.354113Z"
+    },
+    {
+      "id": "diabetic-foot-20250111",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "Inteligencia artificial previene amputaciones en pacientes diabéticos",
+      "headline_en": "Artificial Intelligence Prevents Amputations in Diabetic Patients",
+      "summary_es": "Un sistema de IA detecta problemas en los pies diabéticos antes de que se vuelvan graves. Esto evita amputaciones que podrían prevenirse en el 80% de los casos.",
+      "body_es": "Cada 20 segundos se pierde una extremidad por complicaciones de diabetes en el mundo. Muchas de estas amputaciones son evitables con detección temprana. Investigadores en India han desarrollado una inteligencia artificial que identifica úlceras de pie diabético en fases iniciales. El sistema analiza imágenes de los pies para detectar signos de infección o necrosis. Los pacientes con diabetes tienen mayor riesgo de desarrollar úlceras porque la enfermedad reduce la sensibilidad nerviosa. La tecnología permite que los médicos intervengan antes de que se requiera amputación. El diagnóstico precoz es fundamental para preservar las extremidades. Este sistema de IA podría prevenir hasta el 80% de las amputaciones innecesarias en países en desarrollo.",
+      "body_en": "Every 20 seconds a limb is lost due to diabetes complications worldwide. Many of these amputations are preventable with early detection. Researchers in India have developed artificial intelligence that identifies diabetic foot ulcers in early stages. The system analyzes foot images to detect signs of infection or necrosis. Patients with diabetes have higher risk of developing ulcers because the disease reduces nerve sensitivity. The technology allows doctors to intervene before amputation becomes necessary. Early diagnosis is fundamental for preserving limbs. This AI system could prevent up to 80% of unnecessary amputations in developing countries.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbWN3bUl3dmpYWS1ZOHVZSlkyajA1cG9KTjlzdFRxeVNWQU01ZXNyNllnUXFtdUdLM1R3aTRmSi02ajBzTGRRQVloVjJTTUh3WmxIa3V1ZGw1aXl3ZFh4OXpncm5nTGhHUXkxZms5RHFnSWxiYnlRbU9DQ29HcDdBaEtOMHJoUjlHdmVyYUxfY3RCbVRTNnhiMElnYjl3NndQamNoUDZZZjJzMlR6cUV3d3owYUp2SlJGSFg0TGlISnpiOElLeU14NlNPdVVmYzFnMUNVSEJDdWg3bmxW0gHiAUFVX3lxTE4tYl9hTlZCTWtxYzlLZWRvWWtWTUNtLTV2aVNiSnEwaVJfUVVnYWJlT2xHZ0hzdWFhMlBHYUE5bEozMy14RkxINGRWeEFiU3drTHVnLV9jbmpOYWh6UmpYXzVYWGNsUmNsTTNnRDREZ1lMWEtXMS0tUnU5UmJuOHY4aWZKTWx2cE90SVBDeFpxTTd3d09KamJMOXItd1QtN1NabUR5RDk1cGVmemtmczRCbkM1eVJFUm16NmVRUEgxbGd0YnVvMm9CelJ4Sk5UV3BQclJ5X3pieTc3QUhxWHpkREE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-11/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera de pie diabético",
+          "definition_es": "herida abierta en el pie causada por complicaciones de diabetes",
+          "definition_en": "diabetic foot ulcer - open wound on foot caused by diabetes complications"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de tejido vivo en el cuerpo",
+          "definition_en": "necrosis - death of living tissue in the body"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de bacterias en la herida",
+          "definition_en": "infection - invasion of bacteria into the wound"
+        }
+      ],
+      "added_at": "2026-01-11T09:07:16.354113Z"
+    },
+    {
+      "id": "burn-care-20250111",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Injertos de piel de pez salvan vidas en tratamiento de quemaduras",
+      "headline_en": "Fish Skin Grafts Save Lives in Burn Treatment",
+      "summary_es": "Médicos utilizan piel de pez para tratar quemaduras graves en pacientes. Este método innovador acelera la curación y reduce el dolor.",
+      "body_es": "El tratamiento de quemaduras graves requiere injertos de piel para acelerar la cicatrización. Tradicionalmente se utilizaban injertos de piel humana del propio paciente. Sin embargo, los injertos de piel de pez ofrecen ventajas importantes. Esta técnica innovadora proporciona una barrera protectora mientras la piel nueva se regenera. La piel de pez tiene propiedades que reducen la infección y el dolor. El injerto estimula la granulación y la epitelización en la herida. Los pacientes experimentan menos complicaciones comparado con métodos tradicionales. La piel de pez se utiliza como apósito biológico temporal. Este tratamiento acelera la recuperación total del paciente. Es particularmente eficaz para quemaduras de segundo y tercer grado.",
+      "body_en": "Treatment of severe burns requires skin grafts to speed up scarring. Traditionally, human skin grafts from the patient's own body were used. However, fish skin grafts offer important advantages. This innovative technique provides a protective barrier while new skin regenerates. Fish skin has properties that reduce infection and pain. The graft stimulates granulation and epithelialization in the wound. Patients experience fewer complications compared to traditional methods. Fish skin is used as a temporary biological dressing. This treatment speeds up the patient's full recovery. It is particularly effective for second and third-degree burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1pPcUxJSHB5eDMxcWNVRVJ6Rkt0RGk0aUlWRnNiY0V0OEhNQV91LVBQZlBjOTFjRHNWdW9sT1lUMnpMczB6OWpob2trbng1UEhUZnZFaWdkU2JyRzUtbzRnQUI0SXE0VTlIbVI3ZDQ2enFOSzIzX01vNW1rdHYwZmpWakFCUk04cGI4eEtkMG1ZaERNUkHSAZsBQVVfeXFMT3JGckdpbi1wTkJYdW5jeG9jdDU2YmdvWWlvRUplNTd3OTBhMC1lWklyQWN0ZkZjYUo1bHV5eVk3d1RnczlXMTRsNnJlcEJTckV5bTJMSGtqUUJ3R2ZUQjRnVVk2Nmxydzc4RG1JRDN3akFaNEVzSnV4SjhCRHpiZmtzVEFYT283Z3VyV0h2UUwyZW1ZWURnV2NpTGc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-11/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por fuego, calor o radiación",
+          "definition_en": "burn - injury caused by fire, heat, or radiation"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "trasplante de tejido para cubrir una herida",
+          "definition_en": "graft - tissue transplant to cover a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo rojo y granular en la herida",
+          "definition_en": "granulation - formation of new red and granular tissue in wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de piel nueva sobre la herida",
+          "definition_en": "epithelialization - growth of new skin over the wound"
+        }
+      ],
+      "added_at": "2026-01-11T09:07:16.354113Z"
+    },
+    {
+      "id": "surgical-wounds-20250111",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Complicaciones quirúrgicas después de cirugías cosméticas ambulatorias",
+      "headline_en": "Surgical Complications After Outpatient Cosmetic Surgery",
+      "summary_es": "Pacientes que se someten a cirugías cosméticas ambulatorias presentan complicaciones de heridas que requieren hospitalización posterior.",
+      "body_es": "La cirugía cosmética ambulatoria es cada vez más común en muchos países. Los pacientes reciben el procedimiento sin pasar la noche en el hospital. Sin embargo, algunas complicaciones de heridas surgen después del alta. Las infecciones pueden desarrollarse en los días posteriores a la operación. El sangrado y el edema también son complicaciones frecuentes. Algunos pacientes requieren readmisión hospitalaria inesperada. El cuidado de la herida después del alta es fundamental para prevenir problemas. Los apósitos deben cambiarse según las instrucciones médicas. Los pacientes deben vigilar signos de infección como enrojecimiento o exudado purulento. La falta de seguimiento adecuado puede resultar en complicaciones graves. Los centros quirúrgicos deben proporcionar instrucciones claras sobre el cuidado de heridas postoperatorias.",
+      "body_en": "Outpatient cosmetic surgery is increasingly common in many countries. Patients receive the procedure without spending the night in the hospital. However, some wound complications arise after discharge. Infections can develop in the days following surgery. Bleeding and swelling are also frequent complications. Some patients require unexpected hospital readmission. Wound care after discharge is fundamental to prevent problems. Dressings should be changed according to medical instructions. Patients must watch for signs of infection such as redness or purulent drainage. Lack of proper follow-up can result in serious complications. Surgical centers must provide clear instructions about postoperative wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNnBSSUUyS1A3a1NUNzVWZ2FVZXVUZF9NeUJicm0teElfT3dIalh2OEVmX0hQVE9PaFlrMV9QaFN5Rm9nN3BrZDBjRFhTWlZzSmxaZ201cHJvTldlNHhPdUljQXpxMFVCWElSb0Q4Z1NVaFp3V1hpTmRIVEJTVG1QbGRQSTJ4cUNoYVdzMENBcw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-11/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión quirúrgica realizada durante una operación",
+          "definition_en": "surgical wound - surgical incision made during an operation"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que se filtra de una herida",
+          "definition_en": "exudate - fluid that drains from a wound"
+        },
+        {
+          "word": "edema",
+          "definition_es": "acumulación anormal de líquido que causa hinchazón",
+          "definition_en": "edema - abnormal fluid accumulation causing swelling"
+        },
+        {
+          "word": "readmisión",
+          "definition_es": "regreso del paciente al hospital después del alta",
+          "definition_en": "readmission - patient's return to hospital after discharge"
+        }
+      ],
+      "added_at": "2026-01-11T09:07:16.354113Z"
+    },
+    {
+      "id": "wound-research-20250111",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigadores impulsan innovación en salud desde laboratorio a clínica",
+      "headline_en": "Researchers Drive Health Innovation from Lab to Clinic",
+      "summary_es": "Los investigadores académicos desarrollan tecnologías innovadoras para mejorar el tratamiento de heridas y otras condiciones médicas.",
+      "body_es": "Las universidades son centros importantes de investigación médica y desarrollo de nuevas tecnologías. Los investigadores trabajan en laboratorios para crear soluciones innovadoras a problemas de salud. Muchos de estos proyectos se transforman en empresas nuevas que producen dispositivos médicos. El proceso de investigación implica estudiar la cicatrización de heridas y nuevos apósitos. Los científicos investigan cómo acelerar la granulación y epitelización. Algunos proyectos desarrollan tecnologías de presión negativa mejoradas para heridas complejas. La transición del laboratorio a la clínica requiere pruebas exhaustivas en pacientes. Los estudios clínicos demuestran la eficacia y seguridad de nuevos tratamientos. La colaboración entre universidades y hospitales facilita esta transferencia de tecnología. Estos avances mejoran significativamente la calidad de vida de los pacientes con heridas crónicas.",
+      "body_en": "Universities are important centers for medical research and development of new technologies. Researchers work in laboratories to create innovative solutions to health problems. Many of these projects transform into new companies that produce medical devices. The research process involves studying wound healing and new dressings. Scientists investigate how to speed up granulation and epithelialization. Some projects develop improved negative pressure technologies for complex wounds. The transition from laboratory to clinic requires thorough testing in patients. Clinical studies demonstrate the effectiveness and safety of new treatments. Collaboration between universities and hospitals facilitates this technology transfer. These advances significantly improve the quality of life of patients with chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPelFkelZ5alJiWkphdVhSaHZHWThXOWJtanBGMVcwakVEdVJpYjZ6MVd2U2oyckpYM0Q0dzI4b2QzdjlIUFhFVm1yXzhFNUprWnhtVkkwbllxMXpqbXplb1JsYkJkMThZNXE3SGVacU5xZGFtOVg2aEQ0MzJUc0t5dkkybnlPbS1IRXhxRzI1c1NUU1k2cnRZWG5fUmhZcFZCVXNR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-11/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "investigación clínica",
+          "definition_es": "estudio de nuevos tratamientos en pacientes reales",
+          "definition_en": "clinical research - study of new treatments in real patients"
+        },
+        {
+          "word": "desarrollo de tecnología",
+          "definition_es": "proceso de crear nuevas herramientas y dispositivos médicos",
+          "definition_en": "technology development - process of creating new medical tools and devices"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de sanación y cierre de heridas",
+          "definition_en": "wound healing - process of healing and closing wounds"
+        },
+        {
+          "word": "innovación",
+          "definition_es": "creación de nuevas ideas y métodos para resolver problemas",
+          "definition_en": "innovation - creation of new ideas and methods to solve problems"
+        }
+      ],
+      "added_at": "2026-01-11T09:07:16.354113Z"
+    },
     {
       "id": "chronic-wounds-20250110",
       "category": "Chronic Wounds",
@@ -1000,6 +1185,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-10T09:07:12.717673Z",
+  "last_updated": "2026-01-11T09:07:16.354113Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
