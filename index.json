@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-12",
+      "filename": "spanish_lesson_2026-01-12.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-12.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump pide a Cuba hacer un acuerdo político importante",
+          "headline_en": "Trump asks Cuba to make an important political deal",
+          "body_es": "El presidente Trump habló sobre Cuba en una conferencia de prensa. Dijo que Cuba debe hacer un acuerdo con Estados Unidos pronto. Trump cree que es el momento perfecto para negociar. La situación política en Venezuela ha cambiado mucho. Maduro ya no está en el poder en ese país. Trump piensa que Cuba puede beneficiarse de esta situación. Sin embargo, advirtió que el tiempo se está acabando. Cuba debe decidir rápidamente si quiere mejorar sus relaciones con Estados Unidos. El presidente estadounidense no explicó los detalles del posible acuerdo. Pero sugirió que podría ser beneficioso para ambos países. La comunidad cubana en Miami está muy interesada en estos desarrollos políticos.",
+          "body_en": "President Trump spoke about Cuba at a press conference. He said Cuba must make a deal with the United States soon. Trump believes it's the perfect time to negotiate. The political situation in Venezuela has changed a lot. Maduro is no longer in power in that country. Trump thinks Cuba can benefit from this situation. However, he warned that time is running out. Cuba must quickly decide if it wants to improve relations with the United States. The American president did not explain the details of the possible deal. But he suggested it could be beneficial for both countries. The Cuban community in Miami is very interested in these political developments.",
+          "source": "CBS News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Trump planea invertir 200 mil millones en viviendas americanas",
+          "headline_en": "Trump plans to invest 200 billion in American housing",
+          "body_es": "El gobierno de Trump quiere ayudar al mercado de vivienda en Estados Unidos. Van a invertir 200 mil millones de dólares en este sector. Muchas familias americanas tienen problemas para comprar casas. Los precios de las viviendas han subido mucho en los últimos años. El plan incluye préstamos más baratos para compradores jóvenes. También habrá ayuda especial para familias de bajos ingresos. El gobierno construirá más casas asequibles en diferentes ciudades. Los expertos económicos piensan que este plan puede funcionar. Sin embargo, algunos críticos dicen que es muy costoso. El programa comenzará en los próximos seis meses. Trump espera que millones de familias se beneficien de esta inversión gubernamental.",
+          "body_en": "The Trump administration wants to help the housing market in the United States. They will invest 200 billion dollars in this sector. Many American families have problems buying houses. Housing prices have risen a lot in recent years. The plan includes cheaper loans for young buyers. There will also be special help for low-income families. The government will build more affordable houses in different cities. Economic experts think this plan can work. However, some critics say it's very expensive. The program will begin in the next six months. Trump hopes millions of families will benefit from this government investment.",
+          "source": "The Telegraph"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Meta se asocia con empresas nucleares para alimentar su inteligencia artificial",
+          "headline_en": "Meta partners with nuclear companies to power its artificial intelligence",
+          "body_es": "La compañía Meta, propietaria de Facebook e Instagram, hizo una alianza importante. Se asoció con varias empresas nucleares estadounidenses. El objetivo es generar energía limpia para sus centros de datos. La inteligencia artificial consume muchísima electricidad cada día. Los centros de datos de Meta procesan billones de información constantemente. La energía nuclear es más limpia que el carbón o el petróleo. Esta alianza ayudará a reducir la contaminación ambiental. Meta planea construir nuevos centros de datos en diferentes estados. Las empresas nucleares proporcionarán energía segura y eficiente. Este proyecto creará miles de empleos en el sector tecnológico. Otros gigantes tecnológicos están considerando alianzas similares. La inteligencia artificial seguirá creciendo en los próximos años.",
+          "body_en": "The company Meta, owner of Facebook and Instagram, made an important alliance. It partnered with several American nuclear companies. The goal is to generate clean energy for its data centers. Artificial intelligence consumes a lot of electricity every day. Meta's data centers process billions of information constantly. Nuclear energy is cleaner than coal or oil. This alliance will help reduce environmental pollution. Meta plans to build new data centers in different states. Nuclear companies will provide safe and efficient energy. This project will create thousands of jobs in the technology sector. Other tech giants are considering similar alliances. Artificial intelligence will continue growing in the coming years.",
+          "source": "The Hindu"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Trump pidió a Cuba hacer un acuerdo antes de que sea demasiado tarde.",
+          "definition_es": "Un pacto o convenio entre dos o más partes",
+          "definition_en": "A deal or agreement between two or more parties"
+        },
+        {
+          "word": "vivienda",
+          "syllables": "vi-VIEN-da",
+          "pos": "sustantivo",
+          "context": "El mercado de vivienda en Estados Unidos necesita ayuda económica.",
+          "definition_es": "Casa o lugar donde vive una persona",
+          "definition_en": "Housing or place where a person lives"
+        },
+        {
+          "word": "datos",
+          "syllables": "DA-tos",
+          "pos": "sustantivo",
+          "context": "Meta necesita centros de datos para su inteligencia artificial.",
+          "definition_es": "Información que se procesa o almacena",
+          "definition_en": "Information that is processed or stored"
+        },
+        {
+          "word": "nuclear",
+          "syllables": "nu-cle-AR",
+          "pos": "adjetivo",
+          "context": "Las empresas nucleares ayudarán a generar energía limpia.",
+          "definition_es": "Relacionado con la energía del átomo",
+          "definition_en": "Related to atomic energy"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado inmobiliario necesita inversión gubernamental.",
+          "definition_es": "Sistema donde se compran y venden productos",
+          "definition_en": "System where products are bought and sold"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "La inversión de 200 mil millones ayudará a las familias.",
+          "definition_es": "Dinero que se pone en un proyecto para obtener beneficios",
+          "definition_en": "Money put into a project to obtain benefits"
+        },
+        {
+          "word": "energía",
+          "syllables": "e-ner-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Los centros de datos consumen mucha energía eléctrica.",
+          "definition_es": "Fuerza o poder para hacer funcionar las máquinas",
+          "definition_en": "Force or power to make machines work"
+        },
+        {
+          "word": "alianza",
+          "syllables": "a-li-AN-za",
+          "pos": "sustantivo",
+          "context": "La alianza entre Meta y las empresas nucleares es importante.",
+          "definition_es": "Unión entre personas o grupos con un objetivo común",
+          "definition_en": "Union between people or groups with a common goal"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'acuerdo'?",
+          "options": [
+            "Un conflicto entre países",
+            "Un pacto entre dos partes",
+            "Un problema político",
+            "Una guerra comercial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'vivienda'?",
+          "options": [
+            "Trabajo",
+            "Dinero",
+            "Casa donde vive una persona",
+            "Comida"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'datos' en tecnología?",
+          "options": [
+            "Máquinas",
+            "Información procesada",
+            "Trabajadores",
+            "Edificios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué tipo de energía es 'nuclear'?",
+          "options": [
+            "Del sol",
+            "Del viento",
+            "Del átomo",
+            "Del agua"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué pasó con Maduro?",
+          "options": [
+            "Sigue en el poder",
+            "Ya no está en el poder",
+            "Hizo un acuerdo con Trump",
+            "Se mudó a Cuba"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero planea invertir Trump en vivienda?",
+          "options": [
+            "100 mil millones",
+            "200 mil millones",
+            "300 mil millones",
+            "500 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Con qué tipo de empresas se asoció Meta?",
+          "options": [
+            "Petroleras",
+            "Solares",
+            "Nucleares",
+            "De carbón"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué necesita Meta mucha energía?",
+          "options": [
+            "Para calentar oficinas",
+            "Para la inteligencia artificial",
+            "Para los empleados",
+            "Para las ventas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué problema tienen las familias americanas con las casas?",
+          "options": [
+            "Son muy pequeñas",
+            "Los precios han subido mucho",
+            "No hay suficientes",
+            "Son muy viejas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué ventaja tiene la energía nuclear según el texto?",
+          "options": [
+            "Es más barata",
+            "Es más rápida",
+            "Es más limpia",
+            "Es más fácil"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-12T09:06:04.489528"
+    },
+    {
       "date": "2026-01-11",
       "filename": "spanish_lesson_2026-01-11.pdf",
       "path": "pdfs/spanish_lesson_2026-01-11.pdf",
@@ -7796,7 +8018,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-11T09:02:10.225447",
+  "last_updated": "2026-01-12T09:06:04.489540",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
