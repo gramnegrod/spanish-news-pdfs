@@ -1,11 +1,159 @@
 {
-  "date": "2026-01-11",
-  "generated_at": "2026-01-11T09:07:16.354113Z",
+  "date": "2026-01-12",
+  "generated_at": "2026-01-12T09:12:13.570391Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 32,
-  "new_today": 5,
+  "total_stories": 36,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250112",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Gel de Fibrina Rica en Plaquetas para Úlceras de Pierna",
+      "headline_en": "Platelet-Rich Fibrin Gel for Leg Ulcers",
+      "summary_es": "Un nuevo estudio examina la experiencia de los pacientes durante el tratamiento con gel de fibrina rica en plaquetas para úlceras venosas de pierna. Esta terapia ayuda a cicatrizar las heridas crónicas.",
+      "body_es": "Un estudio nuevo de investigación examina la experiencia del paciente durante el tratamiento con gel de fibrina rica en plaquetas. Este tratamiento es para úlceras venosas de pierna. La fibrina rica en plaquetas es un material especial. Viene de la sangre del paciente. El gel promueve la curación de la herida. Los pacientes reportan mejora en el dolor y en la cicatrización. El estudio documenta el viaje completo del paciente. Observa cómo los pacientes se sienten antes, durante y después del tratamiento. La investigación muestra que este método es efectivo. Los resultados son prometedores para el cuidado de úlceras crónicas.",
+      "body_en": "A new research study examines patient experience during treatment with platelet-rich fibrin gel. This treatment is for venous leg ulcers. Platelet-rich fibrin is a special material. It comes from the patient's blood. The gel promotes wound healing. Patients report improvement in pain and scarring. The study documents the patient's complete journey. It observes how patients feel before, during, and after treatment. The research shows this method is effective. The results are promising for chronic ulcer care.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTURwcm1XVHRhYmtCWWxpVEFaaFpqWDY0NlpUTXlSRjVuVkRpNlFkQWFlRGx5dmJ4d01xeVNGN0FtMksxQWE4cDgyZ2hTODJLNWJBZ3hZTjljOWpGSXZfTzl2Mk90cUY1TkdxWVp0eFpKUFNMZnpvNDJXMFlsYkUzS09wVlRpaF9UdG1fR09n?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-12/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza",
+          "definition_en": "ulcer - open wound on skin that does not heal"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de tejido nuevo en una herida",
+          "definition_en": "scarring - formation of new tissue in a wound"
+        }
+      ],
+      "added_at": "2026-01-12T09:12:13.570391Z"
+    },
+    {
+      "id": "burn-care-20250112",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Víctimas de Incendio Tratadas con Piel de Donantes Holandeses",
+      "headline_en": "Fire Victims Treated with Skin from Dutch Donors",
+      "summary_es": "En Zurich, víctimas de un incendio recibieron trasplantes de piel de donantes de los Países Bajos. Este tratamiento innovador acelera la recuperación de quemaduras graves.",
+      "body_es": "Un grupo de víctimas de incendio fueron tratadas en Zurich con piel de donantes holandeses. Los trasplantes de piel son esenciales para las quemaduras graves. La piel de donante proporciona protección a las heridas quemadas. Reduce el riesgo de infección y facilita la curación. Los médicos removieron el tejido necrótico mediante desbridamiento quirúrgico. Luego aplicaron los injertos de piel. Este procedimiento es complejo y requiere coordinación internacional. La colaboración entre Zurich y los Países Bajos permitió acceso rápido a piel de donante fresca. Los pacientes mostraron progreso significativo en su recuperación. El tratamiento de quemaduras graves requiere múltiples injertos y cuidado intensivo. Este enfoque multidisciplinario mejora los resultados clínicos.",
+      "body_en": "A group of fire victims were treated in Zurich with skin from Dutch donors. Skin grafts are essential for severe burns. Donor skin provides protection to burned wounds. It reduces infection risk and facilitates healing. Doctors removed necrotic tissue through surgical debridement. Then they applied the skin grafts. This procedure is complex and requires international coordination. Collaboration between Zurich and the Netherlands allowed rapid access to fresh donor skin. Patients showed significant progress in their recovery. Severe burn treatment requires multiple grafts and intensive care. This multidisciplinary approach improves clinical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaXI4SmxNNUJqUkw0amZZdkhqS2Q3QTZBUmlzRnYtT3ZSb19pX2dfNC1tZzJfSVREYXdUOU90ZllTNjdSekozb0g0NmVWanRRX0VsbGFEd2ZORXsCUjR0UmxucDRwM1Y4ZGxkVkNUU3hCczZOT1NrVlNYMHpVM0RSUENzY2ZMamRRaHA3WEZLN2tzZ3V1VmdOTEw5TEotX1pKRHVaeA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-12/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de piel por fuego o calor intenso",
+          "definition_en": "burn - skin injury from fire or intense heat"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "trasplante de tejido para reparar una herida",
+          "definition_en": "graft - tissue transplant to repair a wound"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido corporal",
+          "definition_en": "necrosis - death of body tissue"
+        }
+      ],
+      "added_at": "2026-01-12T09:12:13.570391Z"
+    },
+    {
+      "id": "surgical-wounds-20250112",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Complicaciones Quirúrgicas Requieren Cirugía Urgente",
+      "headline_en": "Surgical Complications Require Urgent Surgery",
+      "summary_es": "Una paciente necesita cirugía urgente debido a complicaciones del tratamiento del cáncer de mama. Las complicaciones de heridas quirúrgicas pueden requieren intervención adicional.",
+      "body_es": "Las complicaciones quirúrgicas pueden desarrollarse después de procedimientos oncológicos. En algunos casos, los pacientes necesitan cirugía urgente adicional para resolver problemas de cicatrización o infección. Las heridas quirúrgicas requieren vigilancia constante durante la recuperación. Los signos de complicación incluyen enrojecimiento, inflamación, exudado purulento o separación de sutura. Los médicos evalúan la herida regularmente para detectar problemas temprano. El desbridamiento de tejido necrótico puede ser necesario. La infección de herida quirúrgica es una complicación seria que requiere antibióticos y posiblemente intervención quirúrgica. El cuidado apropiado del vendaje es fundamental para la cicatrización. Los pacientes deben seguir instrucciones de cuidado en casa. La comunicación entre el paciente y el equipo médico es esencial para prevenir complicaciones graves.",
+      "body_en": "Surgical complications can develop after oncological procedures. In some cases, patients require additional urgent surgery to resolve scarring or infection issues. Surgical wounds require constant monitoring during recovery. Signs of complication include redness, swelling, purulent discharge, or suture separation. Doctors evaluate the wound regularly to detect problems early. Debridement of necrotic tissue may be necessary. Surgical site infection is a serious complication requiring antibiotics and possibly surgical intervention. Proper wound dressing care is fundamental for healing. Patients must follow home care instructions. Communication between patient and medical team is essential to prevent serious complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUlNRFdoRzZ6S1VwbmlpSng2ZENsOVlMUzBpcklpSmtkMTh6ejBWakJJdkp3MjVoUTZ3c2p6UTJXYXRsZlZLYzNjb1liUXlBSjNveG5xNTROcWFPa2gxcDlnWjRIQUQ3aU9QTTFVOTVhMGRkWEJDTnFyZC03dVhQYThCQXp3VlpNQ3FJQm9ST21oTjJNOWlIWThrWVVrNjdCUzlKM0FWNHk5UGwyVjVNWg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-12/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "complicación",
+          "definition_es": "problema que surge durante la recuperación",
+          "definition_en": "complication - problem that arises during recovery"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "puntos para cerrar una herida quirúrgica",
+          "definition_en": "suture - stitches to close a surgical wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microbios patógenos en una herida",
+          "definition_en": "infection - invasion of pathogens in a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido cicatricial",
+          "definition_en": "scarring - process of scar tissue formation"
+        }
+      ],
+      "added_at": "2026-01-12T09:12:13.570391Z"
+    },
+    {
+      "id": "wound-research-20250112",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Expansión de Investigación Innovadora para Cuidado de Heridas",
+      "headline_en": "Expansion of Innovative Research for Wound Care",
+      "summary_es": "Nuevos programas de investigación buscan avanzar en técnicas de cuidado de heridas y tratamientos innovadores. La investigación clínica es fundamental para mejorar los resultados en pacientes.",
+      "body_es": "La investigación en cuidado de heridas continúa expandiéndose para mejorar los resultados clínicos. Los investigadores exploran nuevas tecnologías y materiales para acelerar la cicatrización. Los estudios clínicos evalúan la efectividad de diferentes apósitos y tratamientos. Los centros de investigación colaboran para compartir datos y resultados. La investigación incluye evaluaciones de calidad de vida del paciente. Los científicos estudian factores que afectan la curación, como la edad, nutrición y comorbilidades. La innovación en terapias acelera la regeneración de tejido. Los ensayos controlados permiten comparar tratamientos diferentes. Los resultados de investigación se traducen en protocolos clínicos mejorados. La medicina basada en evidencia guía las decisiones de tratamiento. El financiamiento de investigación es crucial para el desarrollo de nuevas soluciones en cuidado de heridas.",
+      "body_en": "Wound care research continues to expand to improve clinical outcomes. Researchers explore new technologies and materials to accelerate healing. Clinical studies evaluate the effectiveness of different dressings and treatments. Research centers collaborate to share data and results. Research includes patient quality of life assessments. Scientists study factors affecting healing, such as age, nutrition, and comorbidities. Innovation in therapies accelerates tissue regeneration. Controlled trials allow comparison of different treatments. Research results translate into improved clinical protocols. Evidence-based medicine guides treatment decisions. Research funding is crucial for developing new solutions in wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWVhdnczWTFpOW5WdW1TZFR2YlQzMXgtaHZuQlZOZHRKNXJtbTVYeVpEVmtPb2V3RmdDUUF1bHl6clJhLURFd1dSLVRGa09oODBYU19UdXpjZW1DMmo0RHpYaXd2T0xTRklIdnU2MkZqRmNDTFM0U2FNNzZUb01hYlUxN2RUU2JVZWJmT3B4SkRIX0ctQ21BS0dGeXlLVjdrTElsUUV6SEJuczNhendwZk9VOA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-12/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "investigación",
+          "definition_es": "estudio científico para obtener nuevos conocimientos",
+          "definition_en": "research - scientific study to obtain new knowledge"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de regeneración de tejido después de una herida",
+          "definition_en": "healing - process of tissue regeneration after a wound"
+        },
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio para probar la efectividad de un tratamiento",
+          "definition_en": "clinical trial - study to test treatment effectiveness"
+        }
+      ],
+      "added_at": "2026-01-12T09:12:13.570391Z"
+    },
     {
       "id": "chronic-wounds-20250111",
       "category": "Chronic Wounds",
@@ -1185,6 +1333,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-11T09:07:16.354113Z",
+  "last_updated": "2026-01-12T09:12:13.570391Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
