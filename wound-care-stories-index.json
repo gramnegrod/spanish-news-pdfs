@@ -1,11 +1,233 @@
 {
-  "date": "2026-01-12",
-  "generated_at": "2026-01-12T09:12:13.570391Z",
+  "date": "2026-01-13",
+  "generated_at": "2026-01-13T09:10:43.170331Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 36,
-  "new_today": 4,
+  "total_stories": 42,
+  "new_today": 6,
   "stories": [
+    {
+      "id": "chronic-wounds-20250113",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La terapia de presión negativa ayuda a sanar heridas crónicas",
+      "headline_en": "Negative Pressure Therapy Helps Heal Chronic Wounds",
+      "summary_es": "La terapia de presión negativa es un tratamiento moderno para heridas crónicas. Este método utiliza máquinas especiales para acelerar la curación.",
+      "body_es": "La terapia de presión negativa (NPWT) es un tratamiento importante para heridas crónicas. El mercado mundial de NPWT crece cada año. Este método usa una máquina que aplica presión negativa a la herida. La presión negativa ayuda a remover el líquido excesivo. También estimula el crecimiento de tejido nuevo. Los enfermeros aplican apósitos especiales sobre la herida. Luego conectan la máquina al apósito. Este tratamiento es efectivo para úlceras por presión y heridas diabéticas. Los pacientes necesitan revisiones regulares. La curación es más rápida con este método. Muchos hospitales usan NPWT en sus servicios de cuidado de heridas.",
+      "body_en": "Negative Pressure Wound Therapy (NPWT) is an important treatment for chronic wounds. The global NPWT market grows every year. This method uses a machine that applies negative pressure to the wound. Negative pressure helps remove excess fluid. It also stimulates new tissue growth. Nurses apply special dressings over the wound. Then they connect the machine to the dressing. This treatment is effective for pressure ulcers and diabetic wounds. Patients need regular check-ups. Healing is faster with this method. Many hospitals use NPWT in their wound care services.",
+      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQdmNmU19yQ1BpeU1rdFI1Y0dUbE5rbFBPYkpJQkVELUVyY2NOQW1CWUVrTHhSVzRFV0VNdzcyYmltdTJMUE5sREh5UUVmOUVVUFY2aEZVMk9DQ1NKc2xoQUNTVXJleVhZZHJYSzRsbENKZmxTaEhoSDA2WWdoZm9adWRlLWVBM21nNkZweGpILWVLMkNGRTJyWHlfS2pNazAzVjRzZFVpcG8tandUMVJFaERkSWVQa3pLYjUwRFlJYXNSMHFKajdQWUZrb0RmZ2h6QXo4b0ZqenJQck9WNHQ2WnVoQlA2bjZyS1pJaWZZQVpoNlo3SW5XYVY1OFRlME02ajE4UENsMjZzZkJJVkwwUWRBMm45YmRGQjExZA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-13/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "presión negativa",
+          "definition_es": "técnica que usa máquinas para sacar líquido de heridas",
+          "definition_en": "negative pressure - technique using machines to remove fluid from wounds"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre una herida",
+          "definition_en": "dressing - material that covers a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "tisular",
+          "definition_es": "relacionado con los tejidos del cuerpo",
+          "definition_en": "tissue-related - pertaining to body tissues"
+        }
+      ],
+      "added_at": "2026-01-13T09:10:43.170331Z"
+    },
+    {
+      "id": "pressure-ulcers-20250113",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "purple",
+      "headline_es": "Colchones especiales previenen úlceras por presión",
+      "headline_en": "Special Mattresses Prevent Pressure Ulcers",
+      "summary_es": "Los colchones anti-decúbito son importantes para pacientes en cama. Estos colchones ayudan a prevenir úlceras por presión.",
+      "body_es": "Las úlceras por presión son lesiones graves de la piel. Ocurren cuando los pacientes pasan mucho tiempo en cama o sentados. Los colchones anti-decúbito ayudan a prevenir estas heridas. El mercado mundial de estos colchones alcanza aproximadamente 395 millones de dólares. Estos colchones están hechos de espuma especial. La espuma distribuye el peso del cuerpo uniformemente. Esto reduce la presión en una sola área. Los hospitales usan estos colchones para proteger a pacientes. Los enfermeros también cambien de posición a los pacientes regularmente. Esta combinación previene úlceras. Los pacientes con movilidad limitada necesitan especial atención. Los colchones especiales son una inversión importante en cuidado de salud.",
+      "body_en": "Pressure ulcers are serious skin injuries. They occur when patients spend a lot of time in bed or sitting. Anti-decubitus mattresses help prevent these wounds. The global market for these mattresses reaches approximately 395 million dollars. These mattresses are made of special foam. The foam distributes body weight evenly. This reduces pressure on one area. Hospitals use these mattresses to protect patients. Nurses also change patients' positions regularly. This combination prevents ulcers. Patients with limited mobility need special attention. Special mattresses are an important investment in healthcare.",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUEtkUjJpNkZud3RwUWljRHVfUXZYbFB0NTVIMkZNbXZXSGtsZkhCbXoyalRDZ0dzemhyZmdJYnZFRXk1X0dmZkJQeGhld3RZb3FCb2FEZkdJeU1JVC1RRFVXU0VrQUNJTlllYmhlb2JWZkFacVFMR2doZ1lwSl9HMV9hblFkS2FnZzgzQS1Ud1JvZkxVVV9wVkhtSVRhdw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-13/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "lesión de piel causada por presión prolongada",
+          "definition_en": "pressure ulcer - skin injury caused by prolonged pressure"
+        },
+        {
+          "word": "anti-decúbito",
+          "definition_es": "diseñado para prevenir úlceras",
+          "definition_en": "anti-decubitus - designed to prevent pressure ulcers"
+        },
+        {
+          "word": "espuma",
+          "definition_es": "material suave y esponjoso",
+          "definition_en": "foam - soft and spongy material"
+        },
+        {
+          "word": "movilidad",
+          "definition_es": "capacidad para moverse",
+          "definition_en": "mobility - ability to move"
+        }
+      ],
+      "added_at": "2026-01-13T09:10:43.170331Z"
+    },
+    {
+      "id": "diabetic-foot-20250113",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "La diabetes puede causar amputación si no se trata a tiempo",
+      "headline_en": "Diabetes Can Cause Amputation If Not Treated Early",
+      "summary_es": "Un estudio reciente muestra cómo la diabetes no controlada puede llevar a amputaciones graves. La prevención y el control son fundamentales para evitar complicaciones serias.",
+      "body_es": "La diabetes es una enfermedad que afecta los vasos sanguíneos y los nervios de los pies. Cuando la glucosa no se controla adecuadamente, se desarrollan úlceras diabéticas. Estas úlceras pueden infectarse y causar gangrena si no reciben tratamiento inmediato. En casos severos, la infección avanza hacia los tejidos más profundos. Los médicos deben evaluar regularmente los pies de los pacientes diabéticos. El desbridamiento es frecuentemente necesario para remover el tejido necrótico. Si la isquemia es muy grave, la amputación puede ser inevitable. Los pacientes necesitan cambios en su dieta y medicamentos para controlar la glucosa. La educación sobre el cuidado de los pies es esencial. Las revisiones periódicas pueden prevenir amputaciones y mejorar la calidad de vida.",
+      "body_en": "Diabetes is a disease that affects blood vessels and nerves in the feet. When glucose is not properly controlled, diabetic ulcers develop. These ulcers can become infected and cause gangrene if not treated immediately. In severe cases, the infection advances into deeper tissues. Doctors must regularly evaluate the feet of diabetic patients. Debridement is often necessary to remove necrotic tissue. If ischemia is very severe, amputation may be unavoidable. Patients need dietary changes and medications to control glucose levels. Education about foot care is essential. Regular check-ups can prevent amputations and improve quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SbllXQUNyZDA1bFhhQzFhUENPanlBVkJTNURWNEdKRktxOGM3dnZGM251d25yd0xaeDUxMzhTRWd4TFNvUHR6a2Rza0t0MnhRdjNNeWlNUTB6WlhzcXJUSVJndWI?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-13/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida en el pie causada por diabetes no controlada",
+          "definition_en": "diabetic ulcer - wound in the foot caused by uncontrolled diabetes"
+        },
+        {
+          "word": "gangrena",
+          "definition_es": "muerte del tejido por falta de circulación",
+          "definition_en": "gangrene - tissue death due to lack of circulation"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica del tejido muerto",
+          "definition_en": "debridement - surgical removal of dead tissue"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "reducción de sangre en una parte del cuerpo",
+          "definition_en": "ischemia - reduced blood flow to a body part"
+        }
+      ],
+      "added_at": "2026-01-13T09:10:43.170331Z"
+    },
+    {
+      "id": "burn-care-20250113",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Impresión 3D revoluciona el tratamiento de quemaduras graves",
+      "headline_en": "3D Bioprinting Revolutionizes Treatment of Severe Burns",
+      "summary_es": "La bioimprensión 3D es una tecnología emergente que permite crear piel artificial para pacientes quemados. Esta innovación tiene gran potencial en África y otras regiones con recursos limitados.",
+      "body_es": "Las quemaduras graves requieren tratamientos complejos que salven vidas y restauren la función. La bioimprensión 3D es una tecnología que crea tejido de piel en capas. Los científicos utilizan células vivas y materiales biocompatibles para construir la piel. Este proceso es más rápido y más efectivo que los métodos tradicionales. En África, esta tecnología podría transformar el cuidado de quemados. Muchos hospitales en regiones desarrolladas ya utilizan estas técnicas. Los injertos de piel sintética reducen el riesgo de infección. Los pacientes se recuperan más rápido con menos cicatrices visibles. El costo de la tecnología sigue siendo alto, pero disminuye gradualmente. Los investigadores trabajan para hacer esta tecnología más accesible. El impacto potencial en la medicina de quemaduras es revolucionario.",
+      "body_en": "Severe burns require complex treatments that save lives and restore function. 3D bioprinting is a technology that creates layered skin tissue. Scientists use live cells and biocompatible materials to build skin. This process is faster and more effective than traditional methods. In Africa, this technology could transform burn care. Many hospitals in developed regions already use these techniques. Synthetic skin grafts reduce the risk of infection. Patients recover faster with fewer visible scars. The cost of technology remains high but decreases gradually. Researchers work to make this technology more accessible. The potential impact on burn medicine is revolutionary.",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUhZUFR0ajFFVjBzajlUbThOOWVYbVJHZTFxdXE5bXQ4RnRmNEFqdldCYjdkcEdwRXdzaWJzYmMzV2pDbVFRT1p3T19WRGpxVnM1eUxGTnY5YWlFTUZWNXkzQVhla2UxSWdzeTNrWnE5eDRMLVYxUFh2ZnZPWDhSUEh2V2Iyb01RMUtkSXNjUlhfWEdVZWc0My1XUE1wNWhVYndhVE9JTExFcW9lb094ZXlMU1BDWTRHRmRqVFhwZFpsR3pQLUdES0NaSk1Ed00?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-13/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "bioimprensión 3D",
+          "definition_es": "tecnología que crea tejido vivo usando impresoras especiales",
+          "definition_en": "3D bioprinting - technology that creates living tissue using special printers"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por fuego o calor",
+          "definition_en": "burn - injury caused by fire or heat"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "trozo de tejido trasplantado",
+          "definition_en": "graft - piece of tissue transplanted"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que deja una herida al sanar",
+          "definition_en": "scar - mark left by a healed wound"
+        }
+      ],
+      "added_at": "2026-01-13T09:10:43.170331Z"
+    },
+    {
+      "id": "surgical-wounds-20250113",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Sistema PICO revoluciona el cuidado de heridas quirúrgicas",
+      "headline_en": "PICO System Revolutionizes Surgical Wound Care",
+      "summary_es": "El sistema PICO de presión negativa de una sola vía mejora significativamente la curación de heridas quirúrgicas. Este dispositivo portátil ofrece ventajas importantes sobre los sistemas tradicionales.",
+      "body_es": "El sistema PICO es un dispositivo de presión negativa de una sola aplicación para heridas quirúrgicas. Este sistema es portátil y más discreto que los sistemas tradicionales. Los cirujanos aplican PICO directamente sobre la incisión después de la cirugía. El dispositivo mantiene presión negativa continua durante varios días. Esto estimula la granulación y reduce la acumulación de fluido. Los pacientes pueden mantener sus actividades diarias mientras usan PICO. La tecnología es especialmente útil en cirugías de alto riesgo. Reduce el riesgo de infección postoperatoria y complicaciones. Los estudios demuestran que PICO acelera la epitelización de la herida. Los pacientes experimentan menos dolor y molestia en el sitio quirúrgico. El sistema es fácil de aplicar y remover sin dificultad.",
+      "body_en": "The PICO system is a single-application negative pressure device for surgical wounds. This system is portable and more discreet than traditional systems. Surgeons apply PICO directly over the incision after surgery. The device maintains continuous negative pressure for several days. This stimulates granulation and reduces fluid accumulation. Patients can maintain their daily activities while using PICO. The technology is especially useful in high-risk surgeries. It reduces the risk of postoperative infection and complications. Studies show that PICO accelerates wound epithelialization. Patients experience less pain and discomfort at the surgical site. The system is easy to apply and remove without difficulty.",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUhIdFk5MGlPUlBKS3p5QjlVamQ3VEk3TFcwNXI2cVZucjBRWXFlSUxkYUFNU0kxTDZTV1owS29zRlNzdnZKTzEwYlhhRy13T3pjbkp3WEdPR2RQc0pjd1hpbUh4bnlGZTNnVmdYR3QycHJuTkZsN1B0aHFnNWN6UXNRNUNQeG9yckJNYU5RVXZ4VlBJTjNQTDhzVlRPZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-13/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "presión negativa",
+          "definition_es": "técnica que usa máquinas para remover fluido de heridas",
+          "definition_en": "negative pressure - technique using machines to remove fluid from wounds"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo en una herida",
+          "definition_en": "granulation - formation of new tissue in a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de cobertura de una herida con piel nueva",
+          "definition_en": "epithelialization - process of wound coverage with new skin"
+        },
+        {
+          "word": "incisión",
+          "definition_es": "corte hecho durante una cirugía",
+          "definition_en": "incision - cut made during surgery"
+        }
+      ],
+      "added_at": "2026-01-13T09:10:43.170331Z"
+    },
+    {
+      "id": "wound-research-20250113",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Legislación BEACON busca mejorar tratamiento de heridas en veteranos",
+      "headline_en": "BEACON Act Aims to Improve Wound Care for Veterans",
+      "summary_es": "El acta BEACON propone expandir programas innovadores de cuidado para veteranos con lesiones cerebrales traumáticas. Esta legislación reconoce la necesidad de investigación avanzada en heridas complejas.",
+      "body_es": "Los veteranos frecuentemente sufren lesiones cerebrales traumáticas (TBI) complicadas por heridas. La ley BEACON fue introducida para expandir programas de cuidado innovadores. Los representantes Bergman y Elfreth presentaron esta legislación importante. El acta busca financiar investigación sobre métodos nuevos de tratamiento. Las heridas traumáticas requieren enfoques multidisciplinarios y personalizados. Los investigadores estudian cómo acelerar la curación neurológica. Los tratamientos innovadores pueden mejorar significativamente la calidad de vida. Los veteranos merecen acceso a la tecnología más avanzada. La legislación incluye fondos para entrenamiento de profesionales de salud. Los centros médicos especializados recibirán recursos para investigación clínica. Esta iniciativa demuestra el compromiso del gobierno con la salud veterana.",
+      "body_en": "Veterans frequently suffer traumatic brain injuries (TBI) complicated by wounds. The BEACON Act was introduced to expand innovative care programs. Representatives Bergman and Elfreth presented this important legislation. The act seeks to fund research on new treatment methods. Traumatic wounds require multidisciplinary and personalized approaches. Researchers study how to accelerate neurological healing. Innovative treatments can significantly improve quality of life. Veterans deserve access to the most advanced technology. The legislation includes funds for healthcare professional training. Specialized medical centers will receive resources for clinical research. This initiative demonstrates the government's commitment to veteran health.",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VZ2dISExfS1o0WFVicmV3anNqOEN4NWJPOTMxbjV3Q29Pc0RvVHQ0SnVOQzlGY2xhVmx0Y3pKb3hxam5XekdjUnZtRk5GRnAxLXppRGlteWZZWmJjS2RsTnBTMFRiTUNRLTBaczl6SWpHQ0Ey?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-13/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "lesión cerebral traumática",
+          "definition_es": "daño al cerebro por impacto o golpe severo",
+          "definition_en": "traumatic brain injury - damage to brain from severe impact"
+        },
+        {
+          "word": "herida traumática",
+          "definition_es": "lesión causada por accidente o violencia",
+          "definition_en": "traumatic wound - injury from accident or violence"
+        },
+        {
+          "word": "multidisciplinario",
+          "definition_es": "que involucra múltiples disciplinas o especialidades",
+          "definition_en": "multidisciplinary - involving multiple disciplines or specialties"
+        },
+        {
+          "word": "investigación clínica",
+          "definition_es": "estudio de nuevos tratamientos en pacientes",
+          "definition_en": "clinical research - study of new treatments in patients"
+        }
+      ],
+      "added_at": "2026-01-13T09:10:43.170331Z"
+    },
     {
       "id": "chronic-wounds-20250112",
       "category": "Chronic Wounds",
@@ -1333,6 +1555,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-12T09:12:13.570391Z",
+  "last_updated": "2026-01-13T09:10:43.170331Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
