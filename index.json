@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-13",
+      "filename": "spanish_lesson_2026-01-13.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-13.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Ex empleado del Congreso robó 240 teléfonos del gobierno",
+          "headline_en": "Former Congress employee stole 240 government phones",
+          "body_es": "La policía acusa a un ex empleado del Congreso de Estados Unidos de robar 240 teléfonos del gobierno. El hombre trabajaba en la Cámara de Representantes. Los teléfonos eran propiedad del gobierno federal. La investigación comenzó cuando notaron que faltaban muchos teléfonos. El ex empleado vendía los teléfonos robados para ganar dinero. Cada teléfono vale varios cientos de dólares. El total del robo es de más de 100.000 dólares. Si es culpable, puede ir a prisión por muchos años. Este caso muestra problemas de seguridad en el Congreso. Las autoridades están revisando los sistemas de control para evitar más robos en el futuro.",
+          "body_en": "Police accuse a former US Congress employee of stealing 240 government phones. The man worked in the House of Representatives. The phones were federal government property. The investigation began when they noticed many phones were missing. The former employee sold the stolen phones to make money. Each phone is worth several hundred dollars. The total theft is more than $100,000. If guilty, he could go to prison for many years. This case shows security problems in Congress. Authorities are reviewing control systems to prevent more thefts in the future.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Investigación criminal del banco central preocupa a inversores",
+          "headline_en": "Criminal investigation of central bank worries investors",
+          "body_es": "Una investigación criminal sobre la Reserva Federal de Estados Unidos está causando problemas en los mercados financieros. Los inversores están vendiendo acciones estadounidenses porque tienen miedo. La investigación estudia posibles actividades ilegales en el banco central. Esto hace que los inversores pierdan confianza en la economía americana. El mercado de valores está bajando desde que comenzó la investigación. Muchas personas están moviendo su dinero a otros países. Los expertos dicen que esta situación puede durar varios meses. El gobierno está tratando de calmar a los inversores. Sin embargo, la incertidumbre continúa afectando los precios de las acciones. Esta crisis financiera recuerda a problemas económicos del pasado.",
+          "body_en": "A criminal investigation into the US Federal Reserve is causing problems in financial markets. Investors are selling American stocks because they are afraid. The investigation studies possible illegal activities in the central bank. This makes investors lose confidence in the American economy. The stock market has been falling since the investigation began. Many people are moving their money to other countries. Experts say this situation could last several months. The government is trying to calm investors. However, uncertainty continues to affect stock prices. This financial crisis reminds of past economic problems.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Apple y Google trabajan juntos en inteligencia artificial",
+          "headline_en": "Apple and Google work together on artificial intelligence",
+          "body_es": "Apple y Google, dos grandes rivales en tecnología, van a colaborar en inteligencia artificial. Esta alianza sorprende porque normalmente compiten entre ellos. Apple quiere mejorar sus productos con la tecnología de Google. Los nuevos iPhone tendrán funciones más inteligentes gracias a esta colaboración. Google compartirá su experiencia en inteligencia artificial con Apple. Esto ayudará a Apple a crear mejores asistentes virtuales y aplicaciones. Los usuarios podrán hacer más cosas con sus teléfonos y computadoras. La colaboración comenzará este año con productos específicos. Ambas compañías esperan ganar más dinero con esta alianza. Esta asociación puede cambiar el futuro de la tecnología móvil y la inteligencia artificial en todo el mundo.",
+          "body_en": "Apple and Google, two big rivals in technology, are going to collaborate on artificial intelligence. This alliance surprises because they normally compete with each other. Apple wants to improve its products with Google's technology. New iPhones will have smarter functions thanks to this collaboration. Google will share its artificial intelligence experience with Apple. This will help Apple create better virtual assistants and applications. Users will be able to do more things with their phones and computers. The collaboration will begin this year with specific products. Both companies hope to earn more money with this alliance. This partnership could change the future of mobile technology and artificial intelligence worldwide.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "robar",
+          "syllables": "ro-BAR",
+          "pos": "verbo",
+          "context": "Un ex empleado robó 240 teléfonos del gobierno.",
+          "definition_es": "Tomar algo que no es tuyo sin permiso",
+          "definition_en": "To steal, to take something that doesn't belong to you"
+        },
+        {
+          "word": "empleado",
+          "syllables": "em-ple-A-do",
+          "pos": "sustantivo",
+          "context": "El empleado trabajaba en el Congreso de Estados Unidos.",
+          "definition_es": "Persona que trabaja para una empresa o institución",
+          "definition_en": "Employee, person who works for a company or institution"
+        },
+        {
+          "word": "investigación",
+          "syllables": "in-ves-ti-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "La investigación criminal asustó a los inversores.",
+          "definition_es": "Estudio detallado para descubrir información",
+          "definition_en": "Investigation, detailed study to discover information"
+        },
+        {
+          "word": "inversores",
+          "syllables": "in-ver-SO-res",
+          "pos": "sustantivo",
+          "context": "Los inversores están preocupados por el mercado.",
+          "definition_es": "Personas que ponen dinero en empresas para ganar más",
+          "definition_en": "Investors, people who put money into companies to earn more"
+        },
+        {
+          "word": "colaborar",
+          "syllables": "co-la-bo-RAR",
+          "pos": "verbo",
+          "context": "Apple va a colaborar con Google en inteligencia artificial.",
+          "definition_es": "Trabajar juntos para conseguir algo",
+          "definition_en": "To collaborate, to work together to achieve something"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando la tecnología.",
+          "definition_es": "Tecnología que hace que las máquinas piensen como humanos",
+          "definition_en": "Artificial intelligence, technology that makes machines think like humans"
+        },
+        {
+          "word": "acusar",
+          "syllables": "a-cu-SAR",
+          "pos": "verbo",
+          "context": "Acusan al ex empleado de robar teléfonos.",
+          "definition_es": "Decir que alguien hizo algo malo",
+          "definition_en": "To accuse, to say someone did something wrong"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado financiero está nervioso por las noticias.",
+          "definition_es": "Lugar donde se compran y venden cosas",
+          "definition_en": "Market, place where things are bought and sold"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'robar'?",
+          "options": [
+            "Comprar algo caro",
+            "Tomar algo sin permiso",
+            "Vender productos",
+            "Trabajar mucho"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'inversor'?",
+          "options": [
+            "Una persona que roba dinero",
+            "Una persona que pone dinero en empresas",
+            "Una persona que trabaja en el gobierno",
+            "Una persona que vende teléfonos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'colaborar'?",
+          "options": [
+            "Competir contra alguien",
+            "Trabajar juntos",
+            "Robar algo",
+            "Investigar un crimen"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inteligencia artificial'?",
+          "options": [
+            "Un tipo de teléfono",
+            "Tecnología que hace que las máquinas piensen",
+            "Una empresa de tecnología",
+            "Un empleado del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos teléfonos robó el ex empleado del Congreso?",
+          "options": [
+            "140",
+            "200",
+            "240",
+            "340"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué están preocupados los inversores según la segunda historia?",
+          "options": [
+            "Por el robo de teléfonos",
+            "Por una investigación criminal del banco central",
+            "Por la colaboración Apple-Google",
+            "Por problemas en el Congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué van a hacer Apple y Google juntos?",
+          "options": [
+            "Robar teléfonos",
+            "Investigar el banco central",
+            "Colaborar en inteligencia artificial",
+            "Vender acciones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Dónde trabajaba el empleado que robó los teléfonos?",
+          "options": [
+            "En Apple",
+            "En Google",
+            "En el banco central",
+            "En el Congreso"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué está pasando con el mercado de valores según la segunda historia?",
+          "options": [
+            "Está subiendo",
+            "Está bajando",
+            "No está cambiando",
+            "Está cerrado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué es sorprendente la colaboración entre Apple y Google?",
+          "options": [
+            "Porque son empresas pequeñas",
+            "Porque normalmente compiten",
+            "Porque roban teléfonos",
+            "Porque están en problemas legales"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-13T09:04:58.012291"
+    },
+    {
       "date": "2026-01-12",
       "filename": "spanish_lesson_2026-01-12.pdf",
       "path": "pdfs/spanish_lesson_2026-01-12.pdf",
@@ -8018,7 +8240,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-12T09:06:04.489540",
+  "last_updated": "2026-01-13T09:04:58.012303",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
