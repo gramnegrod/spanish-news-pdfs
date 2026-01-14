@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-14",
+      "filename": "spanish_lesson_2026-01-14.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-14.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Los Clinton se niegan a declarar en investigación del Congreso",
+          "headline_en": "The Clintons refuse to testify in Congressional investigation",
+          "body_es": "Bill y Hillary Clinton se niegan a testificar en una investigación del Congreso estadounidense. La investigación está relacionada con el caso Epstein. Los miembros del Congreso pueden declararlos en desacato si no cooperan. Esto significa que podrían tener problemas legales. Los Clinton no han explicado públicamente por qué se niegan a participar. La investigación continúa sin su testimonio. Otros testigos sí han colaborado con las autoridades. El Congreso tiene el poder de obligar a las personas a testificar. Esta situación muestra las tensiones políticas en Washington. Muchos ciudadanos esperan respuestas sobre este caso importante.",
+          "body_en": "Bill and Hillary Clinton refuse to testify in a US Congressional investigation. The investigation is related to the Epstein case. Congressional members may hold them in contempt if they don't cooperate. This means they could face legal problems. The Clintons haven't publicly explained why they refuse to participate. The investigation continues without their testimony. Other witnesses have cooperated with authorities. Congress has the power to force people to testify. This situation shows the political tensions in Washington. Many citizens expect answers about this important case.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los mercados bajan 400 puntos por datos de inflación",
+          "headline_en": "Markets drop 400 points due to inflation data",
+          "body_es": "Los mercados financieros cerraron con pérdidas el 13 de enero de 2026. El índice Dow Jones perdió 400 puntos durante el día. Los inversores están preocupados por los nuevos datos de inflación. Estos números muestran que los precios continúan subiendo. También salieron los resultados financieros del banco JPMorgan. La combinación de estas noticias afectó negativamente a los mercados. Los analistas dicen que la inflación sigue siendo un problema importante. Muchas empresas reportaron ganancias menores este trimestre. Los inversores venden sus acciones cuando hay malas noticias económicas. Esta situación puede continuar en las próximas semanas.",
+          "body_en": "Financial markets closed with losses on January 13, 2026. The Dow Jones index lost 400 points during the day. Investors are worried about new inflation data. These numbers show that prices continue to rise. JPMorgan bank's financial results also came out. The combination of this news negatively affected the markets. Analysts say inflation remains an important problem. Many companies reported lower earnings this quarter. Investors sell their stocks when there's bad economic news. This situation may continue in the coming weeks.",
+          "source": "Investopedia"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump dice que empresas de IA deben pagar su propia electricidad",
+          "headline_en": "Trump says AI companies must pay for their own electricity",
+          "body_es": "Donald Trump declaró que las empresas de inteligencia artificial deben pagar sus propios costos de electricidad. Estas empresas usan mucha energía para sus centros de datos. Trump no quiere que los ciudadanos estadounidenses paguen estos gastos. Dice que vendrán cambios importantes en las políticas energéticas. Los centros de datos consumen enormes cantidades de electricidad cada día. Esto crea problemas para el sistema eléctrico del país. Muchas empresas tecnológicas tienen centros de datos muy grandes. El gobierno está buscando maneras de reducir estos costos para los consumidores. Esta decisión puede afectar el desarrollo de la tecnología artificial. Las empresas tendrán que encontrar nuevas formas de reducir sus gastos de energía.",
+          "body_en": "Donald Trump declared that artificial intelligence companies must pay their own electricity costs. These companies use a lot of energy for their data centers. Trump doesn't want American citizens to pay these expenses. He says important changes in energy policies are coming. Data centers consume enormous amounts of electricity every day. This creates problems for the country's electrical system. Many tech companies have very large data centers. The government is looking for ways to reduce these costs for consumers. This decision may affect the development of artificial technology. Companies will have to find new ways to reduce their energy expenses.",
+          "source": "Tom's Hardware"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "testificar",
+          "syllables": "tes-ti-fi-CAR",
+          "pos": "verbo",
+          "context": "Los Clinton se niegan a testificar en la investigación.",
+          "definition_es": "Declarar como testigo ante un tribunal o autoridad",
+          "definition_en": "To testify, give evidence"
+        },
+        {
+          "word": "investigación",
+          "syllables": "in-ves-ti-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "La investigación del Congreso continúa sin su testimonio.",
+          "definition_es": "Proceso de buscar información sobre un tema específico",
+          "definition_en": "Investigation, inquiry"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros cerraron con pérdidas.",
+          "definition_es": "Lugares donde se compran y venden productos o valores",
+          "definition_en": "Markets"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "Los datos de inflación preocupan a los inversores.",
+          "definition_es": "Aumento general de los precios de bienes y servicios",
+          "definition_en": "Inflation"
+        },
+        {
+          "word": "consumo",
+          "syllables": "con-SU-mo",
+          "pos": "sustantivo",
+          "context": "El consumo de electricidad de las empresas es muy alto.",
+          "definition_es": "Uso o gasto de recursos, productos o servicios",
+          "definition_en": "Consumption"
+        },
+        {
+          "word": "electricidad",
+          "syllables": "e-lec-tri-ci-DAD",
+          "pos": "sustantivo",
+          "context": "Las empresas de IA necesitan mucha electricidad.",
+          "definition_es": "Forma de energía que se usa para iluminar y hacer funcionar aparatos",
+          "definition_en": "Electricity"
+        },
+        {
+          "word": "inversores",
+          "syllables": "in-ver-SO-res",
+          "pos": "sustantivo",
+          "context": "Los inversores están preocupados por la economía.",
+          "definition_es": "Personas que ponen dinero en negocios para ganar más dinero",
+          "definition_en": "Investors"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas deben pagar sus costos de energía.",
+          "definition_es": "Organizaciones que producen bienes o servicios para ganar dinero",
+          "definition_en": "Companies"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'testificar'?",
+          "options": [
+            "Estudiar para un examen",
+            "Declarar como testigo",
+            "Escribir un documento",
+            "Hacer una pregunta"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'inflación'?",
+          "options": [
+            "Reducción de precios",
+            "Aumento general de precios",
+            "Venta de productos",
+            "Compra de acciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'inversores'?",
+          "options": [
+            "Personas que venden casas",
+            "Personas que invierten dinero",
+            "Personas que trabajan en bancos",
+            "Personas que estudian economía"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'consumo de electricidad'?",
+          "options": [
+            "Producción de energía",
+            "Venta de energía",
+            "Uso de energía eléctrica",
+            "Almacenamiento de energía"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué puede pasar si los Clinton no testifican?",
+          "options": [
+            "Pueden ser declarados en desacato",
+            "Pueden perder dinero",
+            "Pueden ir a la cárcel inmediatamente",
+            "No pasa nada"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos puntos perdió el Dow Jones según la historia económica?",
+          "options": [
+            "200 puntos",
+            "300 puntos",
+            "400 puntos",
+            "500 puntos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué fecha mencionan en la historia de los mercados?",
+          "options": [
+            "12 de enero de 2026",
+            "13 de enero de 2026",
+            "14 de enero de 2026",
+            "15 de enero de 2026"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según Trump, ¿quién NO debe pagar la electricidad de las empresas de IA?",
+          "options": [
+            "Las empresas tecnológicas",
+            "Los ciudadanos estadounidenses",
+            "El gobierno",
+            "Los inversores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué problema crean los centros de datos según la historia tecnológica?",
+          "options": [
+            "Contaminación del aire",
+            "Problemas para el sistema eléctrico",
+            "Ruido excesivo",
+            "Ocupan mucho espacio"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué banco se menciona en la historia económica?",
+          "options": [
+            "Bank of America",
+            "Wells Fargo",
+            "JPMorgan",
+            "Citibank"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-14T09:05:15.138035"
+    },
+    {
       "date": "2026-01-13",
       "filename": "spanish_lesson_2026-01-13.pdf",
       "path": "pdfs/spanish_lesson_2026-01-13.pdf",
@@ -8240,7 +8462,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-13T09:04:58.012303",
+  "last_updated": "2026-01-14T09:05:15.138049",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
