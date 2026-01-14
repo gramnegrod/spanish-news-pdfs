@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-13",
-  "generated_at": "2026-01-13T09:10:43.170331Z",
+  "date": "2026-01-14",
+  "generated_at": "2026-01-14T09:11:02.214027Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 42,
-  "new_today": 6,
+  "total_stories": 47,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250114",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La Terapia de Presión Negativa Mejora la Curación de Heridas Crónicas",
+      "headline_en": "Negative Pressure Therapy Improves Chronic Wound Healing",
+      "summary_es": "La terapia de presión negativa (NPWT) es un tratamiento importante para heridas crónicas. Este mercado crece rápidamente en todo el mundo.",
+      "body_es": "La terapia de presión negativa es un tratamiento efectivo para heridas crónicas. Esta terapia usa una máquina especial que elimina líquido de la herida. El líquido se llama exudado. La máquina crea presión negativa alrededor de la lesión. Esta presión ayuda a cerrar la herida más rápido. Los pacientes con úlceras de presión se benefician mucho de este tratamiento. También funciona bien para heridas quirúrgicas complicadas. El mercado de NPWT crece cada año. Muchos hospitales ahora usan esta tecnología. Los enfermeros deben aprender a usar estas máquinas correctamente. El tratamiento requiere cambios regulares de vendajes especiales. Los pacientes necesitan seguimiento profesional durante todo el proceso.",
+      "body_en": "Negative Pressure Wound Therapy is an effective treatment for chronic wounds. This therapy uses a special machine that removes fluid from the wound called exudate. The machine creates negative pressure around the injury. This pressure helps close the wound faster. Patients with pressure ulcers benefit greatly from this treatment. It also works well for complicated surgical wounds. The NPWT market grows each year. Many hospitals now use this technology. Nurses must learn to operate these machines correctly. Treatment requires regular changes of special dressings. Patients need professional monitoring throughout the process.",
+      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQdmNmU19yQ1BpeU1rdFI1Y0dUbE5rbFBPYkpJQkVELUVyY2NOQW1CWUVrTHhSVzRFV0VNdzcyYmltdTJMUE5sREh5UUVmOUVVUFY2aEZVMk9DQ1NKc2xoQUNTVXJleVhZZHJYSzRsbENKZmxTaEhoSDA2WWdoZm9adWRlLWVBM21nNkZweGpILWVLMkNGRTJyWXlfS2pNazAzVjRzZFVpcG8tandUMVJFaERkSWVQa3pLYjUwRFlJYXNSMHFKajdQWUZrb0RmZ2h6QXo4b0ZqenJQck9WNHQ2WnVoQlA2bjZyS1pJaWZZQVpoNlo3SW5XYXY1OFRlME02ajE4UENsMjZzZkJJVkwwUWRBMm05YmRGQjExZA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-14/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra después de varias semanas",
+          "definition_en": "chronic wound - injury that does not heal after several weeks"
+        },
+        {
+          "word": "presión negativa",
+          "definition_es": "fuerza que extrae líquido de una herida",
+          "definition_en": "negative pressure - force that removes fluid from a wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes from a wound"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material especial para cubrir heridas",
+          "definition_en": "dressing - special material to cover wounds"
+        }
+      ],
+      "added_at": "2026-01-14T09:11:02.214027Z"
+    },
+    {
+      "id": "pressure-ulcers-20250114",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "rose",
+      "headline_es": "Cojines Especiales Previenen las Úlceras por Presión",
+      "headline_en": "Special Cushions Prevent Pressure Ulcers",
+      "summary_es": "Los cojines anti-decúbito ayudan a prevenir úlceras por presión en pacientes. El mercado de estos productos crece un 6.2% cada año.",
+      "body_es": "Las úlceras por presión son lesiones graves de la piel. Ocurren cuando un paciente está acostado o sentado mucho tiempo. Un área de la piel recibe presión constante. Esto causa daño a la piel y los tejidos. Los cojines anti-decúbito son muy importantes para prevención. Estos cojines distribuyen el peso del cuerpo uniformemente. Reducen la presión en áreas específicas. Son especialmente útiles en hospitales y residencias. Los pacientes mayores necesitan estos cojines para proteger su piel. Las enfermeras deben revisar la piel regularmente. El mercado de cojines crece cada año. Los productos mejoran constantemente para más comodidad.",
+      "body_en": "Pressure ulcers are serious skin injuries. They occur when a patient lies or sits for long periods. One area of skin receives constant pressure. This causes damage to skin and tissues. Anti-decubitus cushions are very important for prevention. These cushions distribute body weight evenly. They reduce pressure on specific areas. They are especially useful in hospitals and care facilities. Elderly patients need these cushions to protect their skin. Nurses must regularly check the skin. The cushion market grows each year. Products continuously improve for greater comfort.",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2pnbWp1S0E0LUdpVTR1S1JrMDgzZkV4cDE5VlQ4ZEY1Ni1KT3F1VTI1NjNQRkhzYjA2ZTRtTXRqbGFRQkVqNHJPeHpEcHhrZmljOEt1VDBhZDdWTG10d0laWW9zeW1YSjRxaHBVUjVVb3FIV3dxd2ZDRXZVQ1NBMmluNWVhX0dRMzlCNzNodkFFUFpEc2x3UQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-14/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "lesión de piel causada por presión prolongada",
+          "definition_en": "pressure ulcer - skin injury caused by prolonged pressure"
+        },
+        {
+          "word": "cojín anti-decúbito",
+          "definition_es": "almohada especial para distribuir presión",
+          "definition_en": "anti-decubitus cushion - special pillow to distribute pressure"
+        },
+        {
+          "word": "escara",
+          "definition_es": "área muerta de piel por falta de circulación",
+          "definition_en": "eschar - dead skin area from poor circulation"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar una enfermedad",
+          "definition_en": "prevention - actions to avoid disease"
+        }
+      ],
+      "added_at": "2026-01-14T09:11:02.214027Z"
+    },
+    {
+      "id": "burn-care-20250114",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Injerto de Grasa Autóloga Mejora la Cicatrización en Quemaduras Graves de Mano",
+      "headline_en": "Autologous Fat Grafting Improves Scarring in Severe Hand Burns",
+      "summary_es": "Un estudio reciente demuestra que el injerto de grasa autóloga es efectivo para mejorar la curación y reducir cicatrices visibles en pacientes con quemaduras graves de tercer grado en las manos.",
+      "body_es": "Las quemaduras de tercer grado son lesiones muy severas que afectan todas las capas de la piel y los tejidos subyacentes. El injerto de grasa autóloga es una técnica quirúrgica innovadora donde se utiliza grasa del propio paciente para mejorar la curación y la apariencia de las cicatrices. Los investigadores evaluaron los resultados utilizando la escala POSAS (Patient and Observer Scar Assessment Scale), que mide tanto la perspectiva del paciente como la del observador clínico. Este método proporciona una evaluación integral de la cicatriz considerando textura, color, flexibilidad y síntomas asociados. Los pacientes que recibieron este tratamiento experimentaron mejoras significativas en la función de la mano y en la apariencia estética. Este procedimiento es particularmente útil en quemaduras localizadas donde se requiere reconstrucción de tejidos. Los equipos de atención de quemaduras continúan desarrollando técnicas más avanzadas para optimizar los resultados funcionales y cosméticos.",
+      "body_en": "Third-degree burns are very severe injuries that affect all skin layers and underlying tissues. Autologous fat grafting is an innovative surgical technique where the patient's own fat is used to improve wound healing and scar appearance. Researchers evaluated results using the POSAS scale (Patient and Observer Scar Assessment Scale), which measures both patient and clinical observer perspectives. This method provides comprehensive scar evaluation considering texture, color, flexibility, and associated symptoms. Patients who received this treatment experienced significant improvements in hand function and aesthetic appearance. This procedure is particularly useful in localized burns requiring tissue reconstruction. Burn care teams continue developing more advanced techniques to optimize functional and cosmetic outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNVprMmhGeEw0VzdYdUFwN0JiQmJqaUdIY2FjRlVhTTJrdm5seW5QOFlTb09PQV9jUDdRRmVpN2JyR093R0FaZXhqSkZlMnFCVC1pS1Z3ZE44VzBDZFhUUWp3bWlZV09ra1oydE9hbDRaRldSV3JUc2U3ZXRuZExkQTA0XzZ1MGxMQ2l2WUlPcG1mVzR4ZHlkNVlKdWV0VTJJX3Mwd0t5RnZGUENKcnRvZDJxT2JBZjlkU3NxVHAxZC1XQTdubWdWRzVnWFVBeTA3cHpPQmhtdVVWREZmNGs1d2VoNkpVelhranVxUU4tc09YSnV1ckxUY2lzajc2dw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-14/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura de tercer grado",
+          "definition_es": "lesión que destruye todas las capas de la piel",
+          "definition_en": "third-degree burn - injury that destroys all skin layers"
+        },
+        {
+          "word": "injerto de grasa autóloga",
+          "definition_es": "trasplante de grasa del mismo paciente para mejorar cicatrices",
+          "definition_en": "autologous fat graft - transplant of patient's own fat to improve scars"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after wound healing"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "proceso de analizar resultados de tratamiento",
+          "definition_en": "assessment - process of analyzing treatment results"
+        }
+      ],
+      "added_at": "2026-01-14T09:11:02.214027Z"
+    },
+    {
+      "id": "surgical-wounds-20250114",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Diferentes Intervenciones Quirúrgicas Producen Resultados Variados en la Hidrosadenitis Supurativa",
+      "headline_en": "Surgical Outcomes Vary by Intervention Type in Hidradenitis Suppurativa",
+      "summary_es": "Un análisis reciente revela que los resultados de las heridas quirúrgicas en pacientes con hidrosadenitis supurativa dependen significativamente del tipo de intervención quirúrgica realizada.",
+      "body_es": "La hidrosadenitis supurativa es una enfermedad inflamatoria crónica de la piel que afecta las glándulas apócrinas y los folículos pilosos. Los pacientes con esta condición frecuentemente requieren intervención quirúrgica para manejar las heridas, los senos y las cicatrices. Los dermatólogos han estudiado diferentes abordajes quirúrgicos y sus resultados en la cicatrización de heridas y la prevención de recurrencia. Algunos procedimientos utilizan desbridamiento simple, mientras que otros incluyen escisión completa con injertos de piel. Los resultados varían considerablemente dependiendo de la extensión de la lesión y la técnica quirúrgica empleada. La cicatrización postoperatoria requiere vigilancia regular para detectar signos de infección o complicaciones. Los pacientes deben recibir educación sobre el cuidado de heridas y seguimiento a largo plazo. La evaluación cuidadosa de cada caso permite seleccionar la intervención quirúrgica más apropiada para optimizar los resultados.",
+      "body_en": "Hidradenitis suppurativa is a chronic inflammatory skin disease affecting apocrine glands and hair follicles. Patients with this condition frequently require surgical intervention to manage wounds, sinuses, and scars. Dermatologists have studied different surgical approaches and their outcomes regarding wound healing and recurrence prevention. Some procedures use simple debridement, while others include complete excision with skin grafts. Results vary considerably depending on lesion extent and surgical technique employed. Postoperative scar formation requires regular monitoring to detect infection signs or complications. Patients must receive education on wound care and long-term follow-up. Careful case evaluation allows selection of the most appropriate surgical intervention to optimize outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa1FlZGVOMURpV3hZQVhDdGNJanZwUFN5TFlDY1dxdWEwR1REbVFFd0trTWdhVGNKb0N3VmxUWUFtdkhnbi12MzZtOGQxeUFlaUxPa2s5ay0yMXFMTDk1LV9DUkJqdHJfbnBnTjAwMzlKejZuX09QOEVOVVRFZkJKNThSMnBuYVVVVzMwUTlSMGJ3RHU0dU5IWmpkb2hkeTBZZmdLNHZtTkFRQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-14/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "hidrosadenitis supurativa",
+          "definition_es": "enfermedad inflamatoria crónica de las glándulas sudoríparas",
+          "definition_en": "hidradenitis suppurativa - chronic inflammatory disease of sweat glands"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido dañado o muerto",
+          "definition_en": "debridement - surgical removal of damaged or dead tissue"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de piel sana a zona lesionada",
+          "definition_en": "skin graft - transplant of healthy skin to injured area"
+        },
+        {
+          "word": "recurrencia",
+          "definition_es": "reaparición de la enfermedad después del tratamiento",
+          "definition_en": "recurrence - reappearance of disease after treatment"
+        }
+      ],
+      "added_at": "2026-01-14T09:11:02.214027Z"
+    },
+    {
+      "id": "wound-research-20250114",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "De la Investigación a la Realidad: Avances en el Tratamiento del Síndrome de Turner en Pediatría",
+      "headline_en": "From Research to Reality: Advances in Turner Syndrome Care in Pediatrics",
+      "summary_es": "Los investigadores del Hospital Infantil Nacional están transformando la atención del síndrome de Turner mediante la aplicación de descubrimientos científicos en protocolos clínicos innovadores para mejorar los resultados en pacientes pediátricos.",
+      "body_es": "El Hospital Infantil Nacional ha demostrado cómo la investigación clínica puede transformar la atención médica pediátrica de manera significativa. Los investigadores han desarrollado protocolos nuevos basados en descubrimientos científicos recientes para mejorar el manejo integral del síndrome de Turner en niños. Este enfoque multidisciplinario combina cardiología pediátrica, endocrinología, nefrología y otros especialistas para abordar las complicaciones sistémicas de esta condición. Los estudios han identificado biomarcadores nuevos que permiten detección temprana de complicaciones. El equipo de investigación ha establecido criterios de evaluación basados en evidencia para monitorear el crecimiento, desarrollo óseo y función renal. La aplicación de estos hallazgos en la práctica clínica ha mejorado significativamente la calidad de vida de los pacientes. Los investigadores continúan analizando datos longitudinales para optimizar las estrategias de tratamiento. Este modelo de translación de investigación a práctica clínica puede servir como ejemplo para otras condiciones pediátricas complejas.",
+      "body_en": "Children's National Hospital has demonstrated how clinical research can significantly transform pediatric medical care. Researchers have developed new protocols based on recent scientific discoveries to improve comprehensive Turner Syndrome management in children. This multidisciplinary approach combines pediatric cardiology, endocrinology, nephrology, and other specialists to address systemic complications of this condition. Studies have identified novel biomarkers enabling early detection of complications. The research team has established evidence-based assessment criteria to monitor growth, bone development, and renal function. Application of these findings in clinical practice has significantly improved patient quality of life. Researchers continue analyzing longitudinal data to optimize treatment strategies. This model of research-to-clinical-practice translation may serve as an example for other complex pediatric conditions.",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWFmMU9FVWRUdXA0di1SNTB4T1dsU3ZQX3BPTlFOM0tnbXFUY2c3bEhlUWhKNlhKcENvS1JVN09Zay1COGltbmJBS2RkNzR4cTVJb2FFb0wyRmV0MlFNbFNhblE3NlZ1cXE1dHJBcERNal9TekJURGZ4S3R3a0hMYkZPYWtkNG9TVS1TTHAyaUVrandNdUhZLVRfcFFJSVNBZ19JN2JVTElMYk51cnlKUmpDUzhCZXJyTWRIbVg1M2lDVkEzQUFfTTZR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-14/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "síndrome de Turner",
+          "definition_es": "condición genética que afecta el desarrollo físico",
+          "definition_en": "Turner Syndrome - genetic condition affecting physical development"
+        },
+        {
+          "word": "biomarcador",
+          "definition_es": "sustancia medible que indica estado de salud",
+          "definition_en": "biomarker - measurable substance indicating health status"
+        },
+        {
+          "word": "protocolo clínico",
+          "definition_es": "plan sistemático de tratamiento basado en evidencia",
+          "definition_en": "clinical protocol - systematic evidence-based treatment plan"
+        },
+        {
+          "word": "translación",
+          "definition_es": "aplicación de hallazgos de investigación a práctica clínica",
+          "definition_en": "translation - application of research findings to clinical practice"
+        }
+      ],
+      "added_at": "2026-01-14T09:11:02.214027Z"
+    },
     {
       "id": "chronic-wounds-20250113",
       "category": "Chronic Wounds",
@@ -1555,6 +1740,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-13T09:10:43.170331Z",
+  "last_updated": "2026-01-14T09:11:02.214027Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
