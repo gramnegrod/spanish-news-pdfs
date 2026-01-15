@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-14",
-  "generated_at": "2026-01-14T09:11:02.214027Z",
+  "date": "2026-01-15",
+  "generated_at": "2026-01-15T09:09:59.754184Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 47,
+  "total_stories": 52,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250115",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La cicatrización de heridas: un proceso fascinante del cuerpo",
+      "headline_en": "Wound Healing: A Fascinating Process of the Body",
+      "summary_es": "Los científicos estudian cómo el cuerpo humano cura las heridas. Este proceso ocurre en diferentes etapas y es muy importante para la salud.",
+      "body_es": "La curación de heridas es un proceso complejo. El cuerpo humano tiene la capacidad de reparar la piel dañada de forma natural. Los investigadores de la Universidad de Nature estudian la dinámica espacio-temporal de este proceso. Primero, el cuerpo detiene la hemorragia. Después, forma tejido nuevo. Finalmente, la cicatriz se cura completamente. Este proceso toma días o semanas según el tamaño de la herida. Los profesionales de enfermería deben conocer estas etapas. Es importante mantener la herida limpia y protegida. Los vendajes y apósitos ayudan a acelerar la curación. El cuidado correcto previene infecciones graves. Entender cómo funciona la cicatrización ayuda a brindar mejor atención al paciente.",
+      "body_en": "Wound healing is a complex process. The human body has the ability to repair damaged skin naturally. Researchers from Nature University study the spatiotemporal dynamics of this process. First, the body stops bleeding. Then, it forms new tissue. Finally, the scar heals completely. This process takes days or weeks depending on the size of the wound. Nursing professionals must understand these stages. It is important to keep the wound clean and protected. Dressings and bandages help accelerate healing. Proper care prevents serious infections. Understanding how scarring works helps provide better patient care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZWGg4bW9CLWl1bDlQWExmLVJXelhZbzcxbXRRdk9GbnRYMTV5YUsyOFdpNDFobk9aMzRsWmdyanlZVF9BRWRrSHRUV3MwODRfSkNGUWd1dFlKWU82R1Bv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-15/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "células que forman la piel y órganos",
+          "definition_en": "tissue - cells that form skin and organs"
+        }
+      ],
+      "added_at": "2026-01-15T09:09:59.754184Z"
+    },
+    {
+      "id": "diabetic-foot-20250115",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "Importancia de la atención médica especializada en el pie diabético",
+      "headline_en": "Importance of Specialized Medical Care in Diabetic Foot",
+      "summary_es": "Un caso legal en Singapur destaca la importancia de la atención médica especializada en el pie diabético y las complicaciones graves que pueden evitarse con diagnóstico oportuno.",
+      "body_es": "En Singapur, una mujer demandó a hospitales por la amputación de la pierna de su madre. Aunque perdió el caso, este evento subraya la importancia crítica de la atención especializada en el pie diabético. Los pacientes diabéticos tienen alto riesgo de desarrollar úlceras en los pies que pueden progresar a necrosis e infección. El diagnóstico temprano es fundamental para prevenir complicaciones graves como la amputación. Los enfermeros deben evaluar regularmente a los pacientes diabéticos, observando señales de enrojecimiento, hinchazón y úlceras. El control del edema y la presión son esenciales. La isquemia, falta de irrigación sanguínea, acelera el deterioro tisular. El tratamiento incluye desbridamiento de tejido necrótico, curación con apósitos especiales, y control de glucosa. La atención multidisciplinaria en centros especializados mejora significativamente los resultados clínicos y reduce las tasas de amputación en pacientes diabéticos.",
+      "body_en": "In Singapore, a woman sued hospitals for her mother's leg amputation. Although she lost the case, this event underscores the critical importance of specialized diabetic foot care. Diabetic patients have a high risk of developing foot ulcers that can progress to necrosis and infection. Early diagnosis is fundamental to prevent serious complications such as amputation. Nurses must regularly evaluate diabetic patients, observing signs of redness, swelling, and ulcers. Managing edema and pressure are essential. Ischemia, lack of blood supply, accelerates tissue deterioration. Treatment includes debridement of necrotic tissue, healing with special dressings, and glucose control. Multidisciplinary care at specialized centers significantly improves clinical outcomes and reduces amputation rates in diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfRmk5LUNMMXp6Y09CdWg2Yl9iMHV5dlRqMS1pejlNM2xZNlkxMlNnT3hJUExTbnQ4XzdsMkVpVFVyY2RJWFpJeU1yNm9WN21qcHE4RDcwRXVlNjR3RnFKNEZJT213WUhKTm9JanFMT0E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-15/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel causada por diabetes o presión",
+          "definition_en": "ulcer - open wound on skin caused by diabetes or pressure"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido corporal",
+          "definition_en": "necrosis - death of body tissue"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de riego sanguíneo en un tejido",
+          "definition_en": "ischemia - lack of blood supply to tissue"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación quirúrgica de tejido dañado o muerto",
+          "definition_en": "debridement - surgical removal of damaged or dead tissue"
+        }
+      ],
+      "added_at": "2026-01-15T09:09:59.754184Z"
+    },
+    {
+      "id": "burn-care-20250115",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "El enfoque holístico en el cuidado de quemaduras pediátricas",
+      "headline_en": "The Holistic Approach to Pediatric Burn Care",
+      "summary_es": "Los profesionales de salud reconocen que el tratamiento de quemaduras en niños requiere atención no solo de la lesión, sino también del bienestar emocional de toda la familia.",
+      "body_es": "El cuidado de quemaduras en niños es un proceso integral que va más allá del tratamiento médico de la lesión. Los profesionales médicos y de enfermería deben comprender que el tratamiento afecta a toda la familia del paciente. Las quemaduras en niños son traumáticas y requieren curación prolongada con apósitos especiales y terapia de desbridamiento. El eritema y la necrosis deben evaluarse constantemente durante la recuperación. Los enfermeros utilizan técnicas modernas de curación para promover la epitelización y prevenir infecciones graves. Sin embargo, el aspecto psicológico es igualmente importante. Los padres experimentan estrés y ansiedad durante el proceso de recuperación. El equipo de salud debe proporcionar apoyo emocional a la familia, explicar los procedimientos de curación, y preparar a los padres para el cuidado en casa. Un enfoque integral que considere tanto la lesión física como el bienestar emocional mejora significativamente los resultados en pacientes pediátricos.",
+      "body_en": "Burn care in children is an integral process that goes beyond medical treatment of the injury. Medical and nursing professionals must understand that treatment affects the entire patient's family. Burns in children are traumatic and require prolonged healing with special dressings and debridement therapy. Erythema and necrosis must be constantly evaluated during recovery. Nurses use modern healing techniques to promote epithelialization and prevent serious infections. However, the psychological aspect is equally important. Parents experience stress and anxiety during the recovery process. The healthcare team must provide emotional support to the family, explain healing procedures, and prepare parents for home care. A comprehensive approach that considers both physical injury and emotional well-being significantly improves outcomes in pediatric patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQm1mcXppa3llRGZqRlVtWEdnbGVIOXZpSkN5b2hiRXlkQWhPQUlLVXJOdWMwVVNaZGVBWWlhRjFGcDNJdTBiVWZibzBkOXI5cGdPcGlianFMdjJLZV82NTdfNlZSQ25XdzdqdkJqYzdTSWg3WS1GRjlQa1dheGlNLTkxRnQtdXZpSUNIampFNGNycXdVZjlnSHpvdzJOTzZpNTFkYnV1dEZiaVZVdkcwc09R?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-15/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - skin injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material estéril para cubrir y proteger una herida",
+          "definition_en": "dressing - sterile material to cover and protect a wound"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel causado por inflamación",
+          "definition_en": "erythema - redness of skin caused by inflammation"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre la herida",
+          "definition_en": "epithelialization - formation of new skin over the wound"
+        }
+      ],
+      "added_at": "2026-01-15T09:09:59.754184Z"
+    },
+    {
+      "id": "surgical-wounds-20250115",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "La inflamación postoperatoria: un factor clave en el dolor quirúrgico",
+      "headline_en": "Postoperative Inflammation: A Key Factor in Surgical Pain",
+      "summary_es": "Nuevas investigaciones revelan que controlar la inflamación después de la cirugía podría prolongar el dolor, sugiriendo un equilibrio importante en el tratamiento postoperatorio.",
+      "body_es": "Investigadores han descubierto hallazgos importantes sobre la relación entre inflamación y dolor postoperatorio. Contrariamente a lo que se pensaba, suprimir completamente la respuesta inflamatoria después de una cirugía podría prolongar el dolor crónico. La inflamación es una parte natural de la curación, donde el cuerpo repara la herida quirúrgica. Durante esta fase, se forma tejido de granulación esencial para la cicatrización adecuada. Los profesionales de enfermería deben evaluar cuidadosamente el edema y la eritema en las heridas postoperatorias, buscando un equilibrio óptimo. El desbridamiento selectivo y los apósitos modernos ayudan a regular la respuesta inflamatoria sin eliminarla completamente. Los estudios sugieren que una cantidad moderada de inflamación acelera la epitelización y mejora los resultados finales. Las recomendaciones terapéuticas están evolucionando para permitir una inflamación controlada que promueva la curación sin causar dolor prolongado. Este enfoque requiere monitoreo regular y ajustes en el plan de cuidado durante la recuperación postoperatoria.",
+      "body_en": "Researchers have discovered important findings about the relationship between inflammation and postoperative pain. Contrary to previous beliefs, completely suppressing the inflammatory response after surgery could prolong chronic pain. Inflammation is a natural part of healing, where the body repairs the surgical wound. During this phase, essential granulation tissue forms for proper scarring. Nursing professionals must carefully evaluate edema and erythema in postoperative wounds, seeking an optimal balance. Selective debridement and modern dressings help regulate the inflammatory response without eliminating it completely. Studies suggest that a moderate amount of inflammation accelerates epithelialization and improves final outcomes. Therapeutic recommendations are evolving to allow controlled inflammation that promotes healing without causing prolonged pain. This approach requires regular monitoring and adjustments to the care plan during postoperative recovery.",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWNvWlJjUkJmSmU2Q0l4WE5zMVE2VGM5OHJKbEVLQkNrS0VPc1o1NFZoSk1NWko1d3doaTBJYkFsMGt2TVFickRveF9TUDhCcDEtczF2RVpRemJlZ3k2TG9GYTd3c2dFTVdma0lnc281R05xR1F0VkxEZnRwTWE3M2JtdHBuQlNVN3RxcExWaTNTd3RKenVsZk1YNA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-15/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "inflamación",
+          "definition_es": "respuesta del cuerpo a la lesión con enrojecimiento e hinchazón",
+          "definition_en": "inflammation - body's response to injury with redness and swelling"
+        },
+        {
+          "word": "edema",
+          "definition_es": "acumulación anormal de líquido en los tejidos",
+          "definition_en": "edema - abnormal accumulation of fluid in tissues"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido nuevo que se forma durante la curación de una herida",
+          "definition_en": "granulation - new tissue that forms during wound healing"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo médico usado para cerrar heridas quirúrgicas",
+          "definition_en": "suture - medical thread used to close surgical wounds"
+        }
+      ],
+      "added_at": "2026-01-15T09:09:59.754184Z"
+    },
+    {
+      "id": "wound-research-20250115",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Innovación en la investigación de curación de heridas: Cumbre WCCC 2026",
+      "headline_en": "Innovation in Wound Healing Research: WCCC 2026 Summit",
+      "summary_es": "HMP Global presenta nuevas iniciativas de investigación en cuidado de heridas a través de la Cumbre de Conferencia de Cuidado de Heridas para primavera de 2026.",
+      "body_es": "HMP Global Learning Network ha anunciado avances significativos en la investigación de curación de heridas mediante la Cumbre de Conferencia de Cuidado de Heridas (WCCC) programada para la Primavera 2026. Esta conferencia reúne a profesionales de enfermería, médicos especialistas y investigadores para compartir innovaciones en el tratamiento de diferentes tipos de heridas. Los temas principales incluyen nuevas técnicas de desbridamiento, desarrollo de apósitos avanzados, y protocolos mejorados para evaluar úlceras crónicas y presión. Los investigadores presentarán estudios sobre isquemia, necrosis, y métodos para acelerar la epitelización. La cumbre enfatiza la importancia de la evaluación temprana del edema y eritema para prevenir complicaciones. Se discutirán también tecnologías emergentes en el cuidado de heridas quirúrgicas y quemaduras. Los profesionales de la salud tendrán oportunidades de aprender de expertos internacionales y colaborar en proyectos de investigación. Esta iniciativa representa un paso importante en la mejora continua de los estándares de cuidado de heridas a nivel global.",
+      "body_en": "HMP Global Learning Network has announced significant advances in wound healing research through the Wound Care Conference Summit (WCCC) scheduled for Spring 2026. This conference brings together nursing professionals, specialist physicians, and researchers to share innovations in treating different types of wounds. Main topics include new debridement techniques, development of advanced dressings, and improved protocols for evaluating chronic and pressure ulcers. Researchers will present studies on ischemia, necrosis, and methods to accelerate epithelialization. The summit emphasizes the importance of early assessment of edema and erythema to prevent complications. Emerging technologies in surgical wound and burn care will also be discussed. Healthcare professionals will have opportunities to learn from international experts and collaborate on research projects. This initiative represents an important step in the continuous improvement of wound care standards globally.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcEszOS1HeXpDcFVHM1JEeFl6NzVuVmJtajZMVGFaTmFBU2gwRy1EaVVjMVFncGpHamt2RnhocU1NSG5HMng5MUVZdkpPWktSdGlLVjhDM0NUVThldUZaM3dGOHB3eEFQZVJiMGUteF82dW9fN0M1YkpMTHN1bGlQUFdTNVFFWmk2YkxhZDJVYTNuNV9MZENmMlk2T2hQcVE3a0JqNEdEbTJ3UExQTlVLXzhGSTdiWGNTM1FxRElpaDJZOUpYaDNzajNhdm5QclNPT3QtaQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-15/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "investigación",
+          "definition_es": "estudio científico para descubrir nuevos conocimientos en medicina",
+          "definition_en": "research - scientific study to discover new medical knowledge"
+        },
+        {
+          "word": "protocolo",
+          "definition_es": "conjunto de procedimientos establecidos para tratar heridas",
+          "definition_en": "protocol - established set of procedures for treating wounds"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material avanzado para cubrir y proteger heridas durante la curación",
+          "definition_en": "dressing - advanced material to cover and protect wounds during healing"
+        },
+        {
+          "word": "multidisciplinario",
+          "definition_es": "trabajo conjunto de diferentes especialidades médicas",
+          "definition_en": "multidisciplinary - collaborative work of different medical specialties"
+        }
+      ],
+      "added_at": "2026-01-15T09:09:59.754184Z"
+    },
     {
       "id": "chronic-wounds-20250114",
       "category": "Chronic Wounds",
@@ -1740,6 +1925,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-14T09:11:02.214027Z",
+  "last_updated": "2026-01-15T09:09:59.754184Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
