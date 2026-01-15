@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-15",
+      "filename": "spanish_lesson_2026-01-15.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-15.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Políticos estadounidenses se reúnen con representantes de Groenlandia y Dinamarca",
+          "headline_en": "US politicians meet with representatives from Greenland and Denmark",
+          "body_es": "Los políticos estadounidenses J.D. Vance y Marco Rubio tuvieron una reunión importante con funcionarios de Groenlandia y Dinamarca. Esta reunión es parte de las conversaciones diplomáticas entre Estados Unidos y estos territorios del norte. Groenlandia es una isla grande que pertenece a Dinamarca, pero tiene su propio gobierno local. Los temas de la reunión incluyen comercio, seguridad y cooperación internacional. Estas conversaciones son importantes para mantener buenas relaciones entre los países. Los funcionarios hablaron sobre proyectos futuros y cómo trabajar juntos. Esta reunión muestra que Estados Unidos quiere mantener una buena amistad con Dinamarca y Groenlandia. Las conversaciones diplomáticas como esta ayudan a resolver problemas de forma pacífica.",
+          "body_en": "US politicians J.D. Vance and Marco Rubio had an important meeting with officials from Greenland and Denmark. This meeting is part of diplomatic conversations between the United States and these northern territories. Greenland is a large island that belongs to Denmark, but has its own local government. The meeting topics include trade, security and international cooperation. These conversations are important for maintaining good relations between countries. Officials talked about future projects and how to work together. This meeting shows that the United States wants to maintain a good friendship with Denmark and Greenland. Diplomatic conversations like this help resolve problems peacefully.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Las ventas en tiendas crecieron más de lo esperado en noviembre",
+          "headline_en": "Store sales grew more than expected in November",
+          "body_es": "Las ventas en las tiendas estadounidenses aumentaron mucho en noviembre. Los economistas pensaban que las ventas iban a crecer menos, pero los resultados fueron mejores. Esto significa que las personas compraron más productos de lo normal. El aumento de las ventas es una buena noticia para la economía del país. Las tiendas vendieron más ropa, comida y productos electrónicos. Los expertos dicen que esto pasa porque las personas tienen más dinero para gastar. También, noviembre es el mes cuando empiezan las compras navideñas. Las empresas están muy contentas con estos resultados. Este crecimiento en las ventas puede significar que la economía está fuerte. Los analistas van a estudiar estos números para entender mejor la situación económica.",
+          "body_en": "Sales in US stores increased a lot in November. Economists thought sales would grow less, but the results were better. This means people bought more products than normal. The increase in sales is good news for the country's economy. Stores sold more clothes, food and electronic products. Experts say this happens because people have more money to spend. Also, November is the month when Christmas shopping begins. Companies are very happy with these results. This growth in sales may mean the economy is strong. Analysts will study these numbers to better understand the economic situation.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "OpenAI hace un acuerdo con Cerebras para crear chips de computadora",
+          "headline_en": "OpenAI makes a deal with Cerebras to create computer chips",
+          "body_es": "OpenAI, la empresa famosa por crear ChatGPT, firmó un acuerdo importante con Cerebras. Cerebras es una empresa que hace chips especiales para computadoras. Los chips son partes muy pequeñas pero importantes de las computadoras. Este acuerdo va a ayudar a OpenAI a hacer su inteligencia artificial más rápida y mejor. La inteligencia artificial necesita computadoras muy poderosas para funcionar bien. Los chips de Cerebras son diferentes porque pueden procesar información muy rápido. Esta colaboración significa que OpenAI puede mejorar sus productos como ChatGPT. Las dos empresas van a trabajar juntas para crear nueva tecnología. Este tipo de acuerdos son comunes en el mundo de la tecnología. El objetivo es hacer computadoras más inteligentes y eficientes.",
+          "body_en": "OpenAI, the company famous for creating ChatGPT, signed an important agreement with Cerebras. Cerebras is a company that makes special chips for computers. Chips are very small but important parts of computers. This agreement will help OpenAI make its artificial intelligence faster and better. Artificial intelligence needs very powerful computers to work well. Cerebras chips are different because they can process information very fast. This collaboration means OpenAI can improve its products like ChatGPT. The two companies will work together to create new technology. This type of agreement is common in the technology world. The goal is to make computers smarter and more efficient.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "funcionarios",
+          "syllables": "fun-cio-NA-rios",
+          "pos": "sustantivo",
+          "context": "Vance y Rubio se reunieron con funcionarios de Groenlandia y Dinamarca.",
+          "definition_es": "Personas que trabajan para el gobierno",
+          "definition_en": "Government officials"
+        },
+        {
+          "word": "reunirse",
+          "syllables": "reu-NIR-se",
+          "pos": "verbo",
+          "context": "Los políticos se reunieron para hablar de temas importantes.",
+          "definition_es": "Juntarse con otras personas para hablar",
+          "definition_en": "To meet"
+        },
+        {
+          "word": "ventas",
+          "syllables": "VEN-tas",
+          "pos": "sustantivo",
+          "context": "Las ventas en las tiendas aumentaron en noviembre.",
+          "definition_es": "Acción de vender productos",
+          "definition_en": "Sales"
+        },
+        {
+          "word": "esperado",
+          "syllables": "es-pe-RA-do",
+          "pos": "adjetivo",
+          "context": "Los resultados fueron mejores de lo esperado.",
+          "definition_es": "Lo que se pensaba que iba a pasar",
+          "definition_en": "Expected"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "OpenAI es una empresa de tecnología muy conocida.",
+          "definition_es": "Organización que hace negocios",
+          "definition_en": "Company"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Las dos empresas firmaron un acuerdo de trabajo conjunto.",
+          "definition_es": "Contrato o decisión entre dos partes",
+          "definition_en": "Agreement/Deal"
+        },
+        {
+          "word": "aumentar",
+          "syllables": "au-men-TAR",
+          "pos": "verbo",
+          "context": "Las ventas van a aumentar durante las fiestas navideñas.",
+          "definition_es": "Hacer más grande o más",
+          "definition_en": "To increase"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología cambia la forma de trabajar.",
+          "definition_es": "Conocimiento técnico y científico aplicado",
+          "definition_en": "Technology"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'funcionarios'?",
+          "options": [
+            "Personas que trabajan para el gobierno",
+            "Personas que venden productos",
+            "Personas que hacen tecnología",
+            "Personas que estudian economía"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'reunirse'?",
+          "options": [
+            "Vender productos",
+            "Juntarse con otras personas para hablar",
+            "Crear tecnología",
+            "Comprar en tiendas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué quiere decir 'esperado'?",
+          "options": [
+            "Muy caro",
+            "Muy rápido",
+            "Lo que se pensaba que iba a pasar",
+            "Muy importante"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'acuerdo'?",
+          "options": [
+            "Un tipo de computadora",
+            "Un contrato o decisión entre dos partes",
+            "Una tienda grande",
+            "Un funcionario del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Con quién se reunieron Vance y Rubio?",
+          "options": [
+            "Con empresarios de tecnología",
+            "Con funcionarios de Groenlandia y Dinamarca",
+            "Con dueños de tiendas",
+            "Con economistas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con las ventas en noviembre?",
+          "options": [
+            "Disminuyeron mucho",
+            "Se mantuvieron igual",
+            "Aumentaron más de lo esperado",
+            "Solo crecieron un poco"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa es famosa por crear ChatGPT?",
+          "options": [
+            "Cerebras",
+            "OpenAI",
+            "CNN",
+            "NBC"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿A qué país pertenece Groenlandia?",
+          "options": [
+            "Estados Unidos",
+            "Dinamarca",
+            "Canadá",
+            "Noruega"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué es importante el aumento de ventas en noviembre?",
+          "options": [
+            "Porque es malo para la economía",
+            "Porque muestra que la economía puede estar fuerte",
+            "Porque las tiendas van a cerrar",
+            "Porque los precios van a subir"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué hace la empresa Cerebras?",
+          "options": [
+            "Crea inteligencia artificial",
+            "Vende productos en tiendas",
+            "Hace chips especiales para computadoras",
+            "Organiza reuniones políticas"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-15T09:04:46.981173"
+    },
+    {
       "date": "2026-01-14",
       "filename": "spanish_lesson_2026-01-14.pdf",
       "path": "pdfs/spanish_lesson_2026-01-14.pdf",
@@ -8462,7 +8684,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-14T09:05:15.138049",
+  "last_updated": "2026-01-15T09:04:46.981187",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
