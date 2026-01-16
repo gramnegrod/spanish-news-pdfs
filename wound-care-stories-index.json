@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-15",
-  "generated_at": "2026-01-15T09:09:59.754184Z",
+  "date": "2026-01-16",
+  "generated_at": "2026-01-16T09:09:48.251957Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 52,
+  "total_stories": 57,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250116",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La terapia génica acelera la curación de úlceras en las extremidades",
+      "headline_en": "Gene Therapy Accelerates Ulcer Healing in Limbs",
+      "summary_es": "Una nueva terapia génica ayuda a curar úlceras en las piernas más rápidamente. El tratamiento es especialmente importante para pacientes con isquemia severa.",
+      "body_es": "La terapia génica es un tratamiento nuevo y muy efectivo. Los médicos usan esta terapia para curar úlceras en las extremidades. Las úlceras son heridas graves que no cierran fácilmente. Con la isquemia, hay poco flujo de sangre en las piernas. El doctor David Armstrong estudia este tratamiento importante. La terapia génica acelera la curación de estas heridas difíciles. Los pacientes necesitan menos tiempo de recuperación. Este avance es importante para evitar amputaciones. El tratamiento es una opción nueva para pacientes con heridas crónicas.",
+      "body_en": "Gene therapy is a new and very effective treatment. Doctors use this therapy to heal ulcers in the extremities. Ulcers are serious wounds that do not close easily. With ischemia, there is little blood flow in the legs. Doctor David Armstrong studies this important treatment. Gene therapy accelerates the healing of these difficult wounds. Patients need less recovery time. This breakthrough is important to prevent amputations. The treatment is a new option for patients with chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTDNMdTJUUGdRUDZfX2xfVERnT3QycHIyUmJMTTVab2xDOTVvTDJScFl0VzZJenVpem44RGd5THF0UG5JWDNzcEx1bnVnX2NZR0thVnp6MVBRYThYZ2ozR2l5N1hoOUVMUnp4LXRxM2dRYVF4Z0tzMl9YZXVSTWZZd1dnZkJza2cxcmFacHdrNmVtV1JWdjZFaXljbHNVQldlYnhrQWNKZUVmaW91b082alo4OThWU2s4TzgxQVlOU2hldw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-16/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cierra fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not close easily"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo de sangre en un área del cuerpo",
+          "definition_en": "ischemia - lack of blood flow to an area of the body"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida o enfermedad",
+          "definition_en": "healing - process of recovering from a wound or illness"
+        },
+        {
+          "word": "terapia génica",
+          "definition_es": "tratamiento que modifica genes para curar enfermedades",
+          "definition_en": "gene therapy - treatment that modifies genes to cure diseases"
+        }
+      ],
+      "added_at": "2026-01-16T09:09:48.251957Z"
+    },
+    {
+      "id": "diabetic-foot-20250116",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "El aumento de costos de medicinas convierte la diabetes en amenaza mortal",
+      "headline_en": "Cost Spike and Drug Rationing Turn Diabetes Into a Deadly Threat",
+      "summary_es": "En Nigeria, los precios de medicamentos para la diabetes han aumentado en un 300%, lo que ha hecho que el tratamiento sea inaccesible para muchos pacientes. Las complicaciones del pie diabético se vuelven más severas cuando los pacientes no pueden acceder a sus medicamentos.",
+      "body_es": "La crisis de medicamentos en Nigeria ha creado una situación grave para los pacientes diabéticos. Los precios de la insulina y otros medicamentos esenciales se han incrementado en un 300 por ciento. Esta situación obliga a muchos pacientes a racionar sus medicamentos. El racionamiento de medicinas aumenta el riesgo de complicaciones severas. Los problemas en el pie diabético, como úlceras e infecciones, se vuelven más peligrosos sin tratamiento adecuado. Los pacientes desarrollan heridas que pueden llevar a amputaciones. El acceso a los medicamentos es fundamental para prevenir estas complicaciones graves. Los profesionales de salud reportan que la mortalidad ha aumentado significativamente. Es necesario que los gobiernos implementen políticas para hacer los medicamentos más accesibles.",
+      "body_en": "The drug crisis in Nigeria has created a serious situation for diabetic patients. The prices of insulin and other essential medications have increased by 300 percent. This situation forces many patients to ration their medications. Medication rationing increases the risk of severe complications. Problems in diabetic feet, such as ulcers and infections, become more dangerous without proper treatment. Patients develop wounds that can lead to amputations. Access to medications is fundamental to prevent these serious complications. Health professionals report that mortality has increased significantly. It is necessary for governments to implement policies to make medications more accessible.",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQW5TaHhKVWU1WEx3eFJsZUhuVGI2S1pFNGFEMElMeHo4cDdDNXZWYU9UaHZxVzQzR3hzclpQRkdfT1c2UEkwSExIN0VYQ192VFIzQUtKc2hLTF90aWdvYXVmQ051UW9VX1N6cWhIalpvTFlRVUlES2h3MlM3VXVrWkxZQWZPN1JoUWRfaVBuRWs5c3F4eVFpalVEWUFXX2UwVkE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-16/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación de la diabetes que afecta los pies",
+          "definition_en": "diabetic foot - diabetes complication affecting the feet"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que se infecta fácilmente",
+          "definition_en": "ulcer - open wound on skin that becomes infected easily"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        },
+        {
+          "word": "insulina",
+          "definition_es": "hormona esencial para controlar los niveles de glucosa",
+          "definition_en": "insulin - essential hormone to control glucose levels"
+        }
+      ],
+      "added_at": "2026-01-16T09:09:48.251957Z"
+    },
+    {
+      "id": "burn-care-20250116",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Nuevo programa de investigación busca reducir el uso de opioides en pacientes quemados",
+      "headline_en": "New Research Program Aims to Reduce Opioid Treatment for Burn Victims by 90%",
+      "summary_es": "UT Health San Antonio recibió una subvención TRC4 para desarrollar tratamientos alternativos que reduzcan significativamente el uso de opioides en pacientes con quemaduras graves.",
+      "body_es": "UT Health San Antonio ha recibido una subvención importante de investigación llamada TRC4. El objetivo del programa es reducir el uso de opioides en pacientes con quemaduras en un 90 por ciento. Las quemaduras graves requieren tratamiento del dolor intenso. Tradicionalmente, los opioides se utilizan para este propósito. Sin embargo, el uso prolongado de opioides presenta riesgos significativos. Los investigadores buscan desarrollar alternativas no opioide para el manejo del dolor. El programa explorará nuevas tecnologías y terapias innovadoras. Los pacientes quemados recibirán atención mejorada con menos riesgos de adicción. Este avance representa un cambio importante en el cuidado de quemaduras. Los resultados del estudio beneficiarán a miles de pacientes.",
+      "body_en": "UT Health San Antonio has received an important research grant called TRC4. The program's goal is to reduce opioid use in burn patients by 90 percent. Severe burns require intense pain management. Traditionally, opioids are used for this purpose. However, prolonged opioid use presents significant risks. Researchers seek to develop non-opioid alternatives for pain management. The program will explore new technologies and innovative therapies. Burn patients will receive improved care with fewer addiction risks. This advancement represents an important change in burn care. Study results will benefit thousands of patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSUl6Qk1JaU1IWkFVbExNZ3BmOFA1YjZ6ZGRYZ05tWEpIV1ZvbHNQZENyVHN1UHl3NFlMMTdicXZRaTVQQ0dqS192bFZkMjRPajVFQklHaXhvemhndHhSOVVFTF84TkMzOE5qVW1CN0IxSmJ6NkJFaXUzYllIT2VjaXY5SndCYnB6ZmNDTVdSU2lmdE9KemRhTjItXzhNS3c0bnBpd3lLaS1MajMwUnpQOE5VUDNET1B3NjJlNldfSQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-16/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to skin caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "opioides",
+          "definition_es": "medicamentos para el dolor que pueden causar dependencia",
+          "definition_en": "opioids - pain medications that can cause dependency"
+        },
+        {
+          "word": "manejo del dolor",
+          "definition_es": "técnicas y medicamentos para controlar el dolor",
+          "definition_en": "pain management - techniques and medications to control pain"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y regeneración de la piel",
+          "definition_en": "scarring - process of healing and skin regeneration"
+        }
+      ],
+      "added_at": "2026-01-16T09:09:48.251957Z"
+    },
+    {
+      "id": "surgical-wounds-20250116",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Análisis bibliométrico revela investigación clave en prevención de infecciones quirúrgicas",
+      "headline_en": "Surgical Site Infection Prevention Research: A Bibliometric Analysis of Top Cited Articles",
+      "summary_es": "Un nuevo análisis de los artículos más citados sobre prevención de infecciones quirúrgicas identifica tendencias importantes en la investigación médica. Este estudio ayuda a los profesionales a entender cuáles son las estrategias más efectivas.",
+      "body_es": "Una investigación reciente publicada en Cureus analizó los 50 artículos más citados sobre prevención de infecciones del sitio quirúrgico. Las infecciones quirúrgicas son complicaciones graves que ocurren después de la cirugía. Estas infecciones pueden afectar la herida, los tejidos profundos o el torrente sanguíneo. El análisis bibliométrico identifica qué estrategias tienen mayor impacto en la investigación. Los estudios más citados abordan temas como antibióticos profilácticos, higiene quirúrgica y control de infecciones. Los resultados muestran que la prevención es más efectiva que el tratamiento. Los profesionales pueden utilizar esta información para mejorar los protocolos hospitalarios. La identificación de investigación de calidad ayuda a los enfermeros y cirujanos a tomar decisiones basadas en evidencia. Esta información beneficia directamente a los pacientes con mejores resultados quirúrgicos.",
+      "body_en": "Recent research published in Cureus analyzed the 50 most cited articles on surgical site infection prevention. Surgical infections are serious complications that occur after surgery. These infections can affect the wound, deep tissues, or bloodstream. Bibliometric analysis identifies which strategies have the greatest research impact. The most cited studies address topics such as prophylactic antibiotics, surgical hygiene, and infection control. Results show that prevention is more effective than treatment. Professionals can use this information to improve hospital protocols. Identifying quality research helps nurses and surgeons make evidence-based decisions. This information directly benefits patients with better surgical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNek5HTWZMWFA3ay1iQms4c3pVdnNyQk5EZXdWS3M3WlJMb2VoeFBZQUtOZTFiTEIwb2t3VkU5SmZWWVgwNVVuZHFyNUhXWF9SODRULVJfOWFKRGNxTC01UGRHXzpZZGQ0aWhFbDhoR0VvcjJRSVJwcGZLZlhzOFkwLXFSOXBKVk9RVmhtSnVTZGhXWUVZc3A1TWxtd21QYzdKVE5UdjlrdTUzeVBUZHk5ZW1RODFIdE0tSXRpMDBRd2lRWGtQMXRZbU5Ld3FGQVlQYzMzd0c4bDFQQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-16/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección del sitio quirúrgico",
+          "definition_es": "complicación después de la cirugía causada por bacterias",
+          "definition_en": "surgical site infection - post-operative complication caused by bacteria"
+        },
+        {
+          "word": "profilaxis",
+          "definition_es": "tratamiento preventivo antes de la enfermedad",
+          "definition_en": "prophylaxis - preventive treatment before disease occurs"
+        },
+        {
+          "word": "protocolo",
+          "definition_es": "procedimiento estandarizado que se debe seguir",
+          "definition_en": "protocol - standardized procedure to follow"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido necrótico o dañado",
+          "definition_en": "debridement - surgical removal of necrotic or damaged tissue"
+        }
+      ],
+      "added_at": "2026-01-16T09:09:48.251957Z"
+    },
+    {
+      "id": "wound-research-20250116",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Nueva subvención TRC4 promueve investigación innovadora en cuidado de heridas",
+      "headline_en": "New TRC4 Grant at UT Health San Antonio Advances Innovative Wound Care Research",
+      "summary_es": "UT Health San Antonio recibió financiamiento para investigación clínica que busca innovar en el tratamiento del dolor y la curación de heridas. El programa enfatiza métodos alternativos y efectivos.",
+      "body_es": "La investigación en cuidado de heridas continúa evolucionando con nuevas tecnologías y enfoques innovadores. UT Health San Antonio ha obtenido una subvención TRC4 para estudios clínicos avanzados. Este financiamiento permite que los investigadores desarrollen tratamientos más efectivos y seguros. La investigación se enfoca en pacientes con quemaduras, heridas crónicas y úlceras complejas. Los objetivos incluyen reducir el dolor, acelerar la cicatrización y prevenir infecciones. Los métodos innovadores exploran terapias no farmacológicas y tecnologías emergentes. El personal de enfermería juega un papel crucial en estos estudios clínicos. Los resultados de la investigación se aplicarán directamente en la práctica clínica. La subvención demuestra el compromiso de las instituciones de salud con la mejora continua del cuidado de pacientes.",
+      "body_en": "Research in wound care continues to evolve with new technologies and innovative approaches. UT Health San Antonio has obtained a TRC4 grant for advanced clinical studies. This funding allows researchers to develop more effective and safer treatments. The research focuses on patients with burns, chronic wounds, and complex ulcers. Objectives include reducing pain, accelerating healing, and preventing infections. Innovative methods explore non-pharmacological therapies and emerging technologies. Nursing staff plays a crucial role in these clinical studies. Research results will be applied directly to clinical practice. The grant demonstrates the commitment of health institutions to continuous improvement in patient care.",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSUl6Qk1JaU1IWkFVbExNZ3BmOFA1YjZ6ZGRYZ05tWEpIV1ZvbHNQZENyVHN1UHl3NFlMMTdicXZRaTVQQ0dqS192bFZkMjRPajVFQklHaXhvemhndHhSOVVFTF84TkMzOE5qVW1CN0IxSmJ6NkJFaXUzYllIT2VjaXY5SndCYnB6ZmNDTVdSU2lmdE9KemRhTjItXzhNS3c0bnBpd3lLaS1MajMwUnpQOE5VUDNET1B3NjJlNldfSQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-16/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de reparación y regeneración de tejido",
+          "definition_en": "healing - biological process of tissue repair and regeneration"
+        },
+        {
+          "word": "úlcera crónica",
+          "definition_es": "herida persistente que no cierra después de varias semanas",
+          "definition_en": "chronic ulcer - persistent wound that does not close after weeks"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos en tejido",
+          "definition_en": "angiogenesis - formation of new blood vessels in tissue"
+        },
+        {
+          "word": "epidermis",
+          "definition_es": "capa externa de la piel",
+          "definition_en": "epidermis - outer layer of skin"
+        }
+      ],
+      "added_at": "2026-01-16T09:09:48.251957Z"
+    },
     {
       "id": "chronic-wounds-20250115",
       "category": "Chronic Wounds",
@@ -1925,6 +2110,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-15T09:09:59.754184Z",
+  "last_updated": "2026-01-16T09:09:48.251957Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
