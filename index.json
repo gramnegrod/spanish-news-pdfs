@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-16",
+      "filename": "spanish_lesson_2026-01-16.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-16.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso aprueba nuevos presupuestos tras crisis gubernamental",
+          "headline_en": "Congress approves new budgets after government crisis",
+          "body_es": "El Congreso de Estados Unidos aprobó las primeras leyes de financiación después del cierre del gobierno. Los legisladores trabajaron durante varias semanas para llegar a un acuerdo. El cierre del gobierno duró varios días y afectó a muchos servicios públicos. Los ciudadanos no pudieron usar algunos servicios federales durante este tiempo. Ahora, el gobierno puede funcionar normalmente otra vez. Los políticos dicen que es importante evitar futuros cierres. La nueva financiación permitirá que las agencias gubernamentales continúen sus operaciones. Este acuerdo es temporal y durará hasta el final del año fiscal. Los expertos esperan que no haya más problemas en los próximos meses.",
+          "body_en": "The United States Congress approved the first funding bills after the government shutdown. Legislators worked for several weeks to reach an agreement. The government shutdown lasted several days and affected many public services. Citizens could not use some federal services during this time. Now, the government can function normally again. Politicians say it is important to avoid future shutdowns. The new funding will allow government agencies to continue their operations. This agreement is temporary and will last until the end of the fiscal year. Experts hope there will be no more problems in the coming months.",
+          "source": "Politico"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Grandes bancos estadounidenses reportan ganancias menores a lo esperado",
+          "headline_en": "Major US banks report earnings lower than expected",
+          "body_es": "Los bancos más importantes de Estados Unidos reportaron ganancias menores a lo esperado este trimestre. Bank of America, Citi, JPMorgan y Wells Fargo no alcanzaron las expectativas de los analistas financieros. Estos cuatro bancos son los más grandes del país. Las ganancias fueron afectadas por varios factores económicos actuales. Los préstamos a empresas y personas disminuyeron durante este período. También hubo menos actividad en los mercados financieros. Los expertos dicen que la economía está pasando por un momento difícil. Sin embargo, los bancos mantienen una posición financiera estable. Los directores esperan mejores resultados en los próximos trimestres. Esta situación refleja los desafíos económicos que enfrenta el país.",
+          "body_en": "The most important banks in the United States reported earnings lower than expected this quarter. Bank of America, Citi, JPMorgan and Wells Fargo did not meet financial analysts' expectations. These four banks are the largest in the country. Earnings were affected by various current economic factors. Loans to businesses and individuals decreased during this period. There was also less activity in financial markets. Experts say the economy is going through a difficult time. However, the banks maintain a stable financial position. Directors expect better results in the coming quarters. This situation reflects the economic challenges facing the country.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Wikipedia firma contratos millonarios con empresas de inteligencia artificial",
+          "headline_en": "Wikipedia signs million-dollar contracts with artificial intelligence companies",
+          "body_es": "Wikipedia, la enciclopedia online más popular del mundo, firmó acuerdos lucrativos con grandes empresas tecnológicas. Estas compañías quieren usar la información de Wikipedia para entrenar sus sistemas de inteligencia artificial. Los gigantes tecnológicos pagarán mucho dinero por acceso a esta información. Wikipedia tradicionalmente es gratis para todos los usuarios del internet. Sin embargo, ahora las empresas deben pagar para usar el contenido comercialmente. Este dinero ayudará a Wikipedia a mantener y mejorar sus servicios. La plataforma necesita fondos para sus servidores y personal técnico. Los acuerdos incluyen empresas muy conocidas en el sector tecnológico. Esta nueva estrategia puede cambiar el futuro financiero de Wikipedia. La organización podrá invertir más en tecnología y contenido educativo.",
+          "body_en": "Wikipedia, the world's most popular online encyclopedia, signed lucrative deals with major technology companies. These companies want to use Wikipedia's information to train their artificial intelligence systems. Technology giants will pay a lot of money for access to this information. Wikipedia is traditionally free for all internet users. However, now companies must pay to use the content commercially. This money will help Wikipedia maintain and improve its services. The platform needs funds for its servers and technical staff. The agreements include well-known companies in the technology sector. This new strategy may change Wikipedia's financial future. The organization will be able to invest more in technology and educational content.",
+          "source": "Technology Org"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El Congreso aprobó los primeros presupuestos después del cierre del gobierno.",
+          "definition_es": "Plan de gastos de dinero público para un período específico",
+          "definition_en": "Budget - a plan for spending public money for a specific period"
+        },
+        {
+          "word": "ganancias",
+          "syllables": "ga-NAN-cias",
+          "pos": "sustantivo",
+          "context": "Las ganancias de los bancos fueron menores a lo esperado.",
+          "definition_es": "Dinero que se obtiene después de pagar todos los gastos",
+          "definition_en": "Earnings/profits - money obtained after paying all expenses"
+        },
+        {
+          "word": "acuerdos",
+          "syllables": "a-CUER-dos",
+          "pos": "sustantivo",
+          "context": "Wikipedia firmó acuerdos lucrativos con empresas tecnológicas.",
+          "definition_es": "Decisiones tomadas entre dos o más partes",
+          "definition_en": "Deals/agreements - decisions made between two or more parties"
+        },
+        {
+          "word": "financiación",
+          "syllables": "fi-nan-cia-CIÓN",
+          "pos": "sustantivo",
+          "context": "La financiación del gobierno se aprobó en el Congreso.",
+          "definition_es": "Acción de dar dinero para un proyecto o actividad",
+          "definition_en": "Funding - the action of providing money for a project or activity"
+        },
+        {
+          "word": "entrenamiento",
+          "syllables": "en-tre-na-MIEN-to",
+          "pos": "sustantivo",
+          "context": "Las empresas usan Wikipedia para el entrenamiento de inteligencia artificial.",
+          "definition_es": "Proceso de enseñar habilidades o conocimientos",
+          "definition_en": "Training - the process of teaching skills or knowledge"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "Después del cierre del gobierno, se aprobaron nuevas leyes.",
+          "definition_es": "Acción de parar o terminar temporalmente algo",
+          "definition_en": "Shutdown - the action of temporarily stopping or closing something"
+        },
+        {
+          "word": "esperado",
+          "syllables": "es-pe-RA-do",
+          "pos": "adjetivo",
+          "context": "Los resultados fueron menores a lo esperado por los analistas.",
+          "definition_es": "Algo que se pensaba que iba a suceder",
+          "definition_en": "Expected - something that was thought would happen"
+        },
+        {
+          "word": "lucrativo",
+          "syllables": "lu-cra-TI-vo",
+          "pos": "adjetivo",
+          "context": "Wikipedia firmó contratos lucrativos con gigantes tecnológicos.",
+          "definition_es": "Que produce mucho dinero o beneficios",
+          "definition_en": "Lucrative - that produces a lot of money or benefits"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'presupuesto'?",
+          "options": [
+            "Plan de gastos de dinero",
+            "Edificio del gobierno",
+            "Tipo de elección",
+            "Reunión política"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un acuerdo 'lucrativo' es uno que:",
+          "options": [
+            "Es muy difícil",
+            "Produce mucho dinero",
+            "Dura poco tiempo",
+            "Involucra tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'ganancias'?",
+          "options": [
+            "Pérdidas",
+            "Gastos",
+            "Beneficios",
+            "Deudas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "El 'entrenamiento' de inteligencia artificial se refiere a:",
+          "options": [
+            "Ejercicio físico",
+            "Enseñar habilidades al sistema",
+            "Competencia deportiva",
+            "Examen médico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto sobre política, ¿cuánto tiempo duró el cierre del gobierno?",
+          "options": [
+            "Varios meses",
+            "Varios días",
+            "Una semana",
+            "Un año"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos bancos principales se mencionan en la historia económica?",
+          "options": [
+            "Tres",
+            "Cinco",
+            "Cuatro",
+            "Seis"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Para qué van a usar las empresas tecnológicas la información de Wikipedia?",
+          "options": [
+            "Para crear enciclopedias nuevas",
+            "Para entrenar inteligencia artificial",
+            "Para vender libros",
+            "Para hacer investigación médica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué afectó las ganancias de los bancos según el texto?",
+          "options": [
+            "Solo los préstamos",
+            "Varios factores económicos",
+            "Únicamente el gobierno",
+            "Los empleados bancarios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Tradicionalmente, Wikipedia es _____ para los usuarios.",
+          "options": [
+            "Cara",
+            "Gratis",
+            "Difícil",
+            "Lenta"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Hasta cuándo durará el acuerdo de financiación del gobierno?",
+          "options": [
+            "Hasta el final del año fiscal",
+            "Para siempre",
+            "Un mes",
+            "Hasta las próximas elecciones"
+          ],
+          "answer": "A"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-16T09:04:08.703415"
+    },
+    {
       "date": "2026-01-15",
       "filename": "spanish_lesson_2026-01-15.pdf",
       "path": "pdfs/spanish_lesson_2026-01-15.pdf",
@@ -8684,7 +8906,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-15T09:04:46.981187",
+  "last_updated": "2026-01-16T09:04:08.703430",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
