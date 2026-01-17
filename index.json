@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-17",
+      "filename": "spanish_lesson_2026-01-17.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-17.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Senador quiere detener el plan de Trump sobre Groenlandia",
+          "headline_en": "Senator wants to stop Trump's plan for Greenland",
+          "body_es": "Un senador estadounidense dice que usará las herramientas del Congreso para bloquear los planes de Donald Trump sobre Groenlandia. Trump ha hablado sobre tomar control de esta isla que pertenece a Dinamarca. El senador cree que el presidente no puede hacer esto sin el permiso del Congreso. Groenlandia es importante por su posición geográfica y sus recursos naturales. Dinamarca ha dicho que Groenlandia no está en venta. El Congreso tiene poder para decidir sobre territorios nuevos. Esta situación puede crear problemas diplomáticos con Dinamarca y otros países europeos. El senador dice que protegerá las relaciones internacionales de Estados Unidos.",
+          "body_en": "A US senator says he will use congressional tools to block Donald Trump's plans for Greenland. Trump has talked about taking control of this island that belongs to Denmark. The senator believes the president cannot do this without Congress's permission. Greenland is important for its geographic position and natural resources. Denmark has said that Greenland is not for sale. Congress has power to decide about new territories. This situation could create diplomatic problems with Denmark and other European countries. The senator says he will protect US international relations.",
+          "source": "politico.eu"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Expertos predicen crecimiento económico sin empleos en 2026",
+          "headline_en": "Experts predict economic growth without jobs in 2026",
+          "body_es": "Los economistas hablan de un 'boom sin empleos' para el año 2026. Esto significa que la economía crecerá pero no habrá muchos trabajos nuevos. Las empresas usarán más tecnología y robots para hacer el trabajo. Esto puede ser bueno para los negocios pero malo para los trabajadores. La inteligencia artificial y las máquinas automáticas cambiarán muchas industrias. Los expertos dicen que las personas necesitan aprender nuevas habilidades. El gobierno debe preparar programas de entrenamiento para los trabajadores. Esta situación puede crear desigualdad en la sociedad. Algunos sectores como la tecnología crecerán mucho. Otros trabajos tradicionales pueden desaparecer para siempre.",
+          "body_en": "Economists talk about a 'jobless boom' for the year 2026. This means the economy will grow but there won't be many new jobs. Companies will use more technology and robots to do work. This could be good for businesses but bad for workers. Artificial intelligence and automatic machines will change many industries. Experts say people need to learn new skills. The government must prepare training programs for workers. This situation could create inequality in society. Some sectors like technology will grow a lot. Other traditional jobs might disappear forever.",
+          "source": "AOL.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump pide a empresas tecnológicas pagar por nuevas plantas de energía",
+          "headline_en": "Trump asks tech companies to pay for new energy plants",
+          "body_es": "La administración de Trump quiere que las empresas tecnológicas paguen la factura de energía para nuevas plantas eléctricas. Estas plantas son necesarias para la inteligencia artificial que usa mucha electricidad. Compañías como Google, Microsoft y Amazon necesitan más energía para sus centros de datos. El gobierno dice que estas empresas deben pagar los costos porque ellas se benefician. Las plantas de energía son muy caras de construir. Los expertos dicen que la inteligencia artificial puede usar tanta electricidad como una ciudad pequeña. Esta decisión puede afectar el desarrollo de la tecnología en Estados Unidos. Algunas empresas están preocupadas por los costos altos. El debate sobre quién paga la energía continuará.",
+          "body_en": "The Trump administration wants tech companies to pay the energy bill for new power plants. These plants are necessary for artificial intelligence that uses a lot of electricity. Companies like Google, Microsoft and Amazon need more energy for their data centers. The government says these companies should pay the costs because they benefit. Power plants are very expensive to build. Experts say artificial intelligence can use as much electricity as a small city. This decision could affect technology development in the United States. Some companies are worried about high costs. The debate about who pays for energy will continue.",
+          "source": "CBS News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "senador",
+          "syllables": "se-na-DOR",
+          "pos": "sustantivo",
+          "context": "Un senador estadounidense quiere bloquear los planes de Trump.",
+          "definition_es": "Persona elegida para formar parte del Senado",
+          "definition_en": "Senator - elected member of the Senate"
+        },
+        {
+          "word": "bloquear",
+          "syllables": "blo-que-AR",
+          "pos": "verbo",
+          "context": "El Congreso puede bloquear la decisión del presidente.",
+          "definition_es": "Impedir o detener algo",
+          "definition_en": "To block - to prevent or stop something"
+        },
+        {
+          "word": "herramientas",
+          "syllables": "he-rra-MIEN-tas",
+          "pos": "sustantivo",
+          "context": "El senador usará herramientas del Congreso para detener el plan.",
+          "definition_es": "Instrumentos o métodos para hacer algo",
+          "definition_en": "Tools - instruments or methods to do something"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "de-sem-PLE-o",
+          "pos": "sustantivo",
+          "context": "El desempleo puede ser un problema en 2026.",
+          "definition_es": "Situación de no tener trabajo",
+          "definition_en": "Unemployment - situation of not having a job"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas deben pagar por la energía.",
+          "definition_es": "Organizaciones que hacen negocios",
+          "definition_en": "Companies - organizations that do business"
+        },
+        {
+          "word": "factura",
+          "syllables": "fac-TU-ra",
+          "pos": "sustantivo",
+          "context": "Las compañías pagarán la factura de energía.",
+          "definition_es": "Documento que muestra el costo de algo",
+          "definition_en": "Bill - document showing the cost of something"
+        },
+        {
+          "word": "plantas",
+          "syllables": "PLAN-tas",
+          "pos": "sustantivo",
+          "context": "Construirán nuevas plantas de energía para la inteligencia artificial.",
+          "definition_es": "Instalaciones donde se produce energía",
+          "definition_en": "Plants - facilities where energy is produced"
+        },
+        {
+          "word": "administración",
+          "syllables": "ad-mi-nis-tra-CIÓN",
+          "pos": "sustantivo",
+          "context": "La administración de Trump quiere que las empresas paguen.",
+          "definition_es": "El gobierno de un presidente",
+          "definition_en": "Administration - a president's government"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'bloquear'?",
+          "options": [
+            "Construir algo",
+            "Impedir o detener algo",
+            "Comprar algo",
+            "Vender algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'senador'?",
+          "options": [
+            "Un trabajador de fábrica",
+            "Una persona elegida para el Senado",
+            "Un empresario",
+            "Un estudiante"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'desempleo'?",
+          "options": [
+            "Tener mucho dinero",
+            "No tener trabajo",
+            "Trabajar mucho",
+            "Ser muy inteligente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'herramientas' del Congreso?",
+          "options": [
+            "Edificios grandes",
+            "Métodos para hacer algo",
+            "Personas importantes",
+            "Documentos viejos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿De qué país es Groenlandia?",
+          "options": [
+            "Estados Unidos",
+            "Canadá",
+            "Dinamarca",
+            "Noruega"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué es un 'boom sin empleos'?",
+          "options": [
+            "La economía crece pero no hay trabajos nuevos",
+            "Hay muchos trabajos pero no dinero",
+            "No hay economía ni trabajos",
+            "Los trabajos pagan muy poco"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué año mencionan para el boom sin empleos?",
+          "options": [
+            "2024",
+            "2025",
+            "2026",
+            "2027"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas necesitan más energía según la historia?",
+          "options": [
+            "Empresas de comida",
+            "Empresas tecnológicas",
+            "Empresas de ropa",
+            "Empresas de carros"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué las plantas de energía son un problema?",
+          "options": [
+            "Son muy pequeñas",
+            "Son muy caras",
+            "No funcionan bien",
+            "No son necesarias"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué usa mucha electricidad?",
+          "options": [
+            "Los libros",
+            "La inteligencia artificial",
+            "Los lápices",
+            "Las bicicletas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-17T09:01:57.042809"
+    },
+    {
       "date": "2026-01-16",
       "filename": "spanish_lesson_2026-01-16.pdf",
       "path": "pdfs/spanish_lesson_2026-01-16.pdf",
@@ -8906,7 +9128,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-16T09:04:08.703430",
+  "last_updated": "2026-01-17T09:01:57.042825",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
