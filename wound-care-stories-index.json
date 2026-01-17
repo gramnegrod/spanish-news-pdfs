@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-16",
-  "generated_at": "2026-01-16T09:09:48.251957Z",
+  "date": "2026-01-17",
+  "generated_at": "2026-01-17T09:06:51.310804Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 57,
+  "total_stories": 62,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250117",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nueva clínica en New Haven amplía el acceso al cuidado de heridas crónicas",
+      "headline_en": "New Haven Clinic Expands Access to Chronic Wound Care",
+      "summary_es": "Una clínica en New Haven abre nuevos servicios para pacientes con heridas crónicas. El objetivo es dar acceso a más personas para mejorar su curación.",
+      "body_es": "La clínica de New Haven expande sus servicios de curación de heridas. Un equipo de enfermeras especializadas trabaja con pacientes que tienen heridas crónicas. Las heridas crónicas son lesiones que no cierran rápidamente. Los enfermeros usan apósitos modernos y evaluación diaria. El tratamiento incluye limpieza, vendajes y medicinas. La clínica abre más horarios para recibir más pacientes. Los pacientes reciben educación sobre el cuidado en casa. Este servicio es importante para prevenir infecciones y complicaciones graves.",
+      "body_en": "The New Haven clinic expands its chronic wound care services. A team of specialized nurses works with patients who have chronic wounds. Chronic wounds are injuries that do not close quickly. Nurses use modern dressings and daily evaluation. Treatment includes cleaning, dressings, and medications. The clinic opens more hours to see more patients. Patients receive education about home care. This service is important to prevent infections and serious complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUF91MlVnUjFPOThtYlZxYXlWaWg1STJ4QWVReHZLdVlJZFpXbktTbFprLWR2R1RGOEpEVEpVS3RCT1ktdDdDRzU2UXFCd25FMTE4V09mOHNXMDYwejU4V0YySUgxOUlWNE5iekxEdmlOTDlNSjd2NC1CTkJQTUN4RU05WFJGci1Pclo1aGlLWWY5ZXlVMl9uZE1aZTA2dmdXakdfNklDbS1GQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-17/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión en la piel que no cierra en el tiempo normal",
+          "definition_en": "chronic wound - injury to skin that does not close in normal time"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cierre y sanación de una herida",
+          "definition_en": "healing - process of wound closure and recovery"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "cinta o gasa para sujetar apósitos en una herida",
+          "definition_en": "bandage - tape or gauze to secure dressings on a wound"
+        }
+      ],
+      "added_at": "2026-01-17T09:06:51.310804Z"
+    },
+    {
+      "id": "diabetic-foot-20250117",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Investigadores descubren nuevas formas de combatir bacterias resistentes en heridas diabéticas",
+      "headline_en": "Researchers Discover New Ways to Combat Antibiotic-Resistant Bacteria in Diabetic Wounds",
+      "summary_es": "Científicos de la Universidad Tecnológica de Nanyang en Singapur han encontrado un método innovador para desactivar bacterias resistentes a antibióticos y acelerar la curación de heridas crónicas en pacientes diabéticos.",
+      "body_es": "Los científicos de la Universidad Tecnológica de Nanyang (NTU) en Singapur han desarrollado una estrategia revolucionaria para tratar heridas crónicas en pacientes con diabetes. El problema principal es que las bacterias se vuelven resistentes a los antibióticos tradicionales. Este hallazgo es especialmente importante para el cuidado del pie diabético. Los investigadores utilizaron técnicas innovadoras para desactivar los mecanismos de defensa bacteriana. El método permitiría restaurar la capacidad de curación del cuerpo. Los resultados preliminares muestran que las heridas se cierran más rápidamente. Este avance podría prevenir amputaciones en muchos pacientes diabéticos. Se espera que el tratamiento esté disponible en clínicas en los próximos años.",
+      "body_en": "Scientists at Nanyang Technological University (NTU) in Singapore have developed a revolutionary strategy to treat chronic wounds in diabetic patients. The main problem is that bacteria become resistant to traditional antibiotics. This finding is especially important for diabetic foot care. Researchers used innovative techniques to deactivate bacterial defense mechanisms. The method would restore the body's healing capacity. Preliminary results show that wounds close more quickly. This breakthrough could prevent amputations in many diabetic patients. The treatment is expected to be available in clinics in the coming years.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVWV6WGM2M2J4cjFJLWFVM2xEMDBLU1dqcWdEbFZSUHB4eFZObnJRRm9CRXNiYlFrMUx3dm1kdEd2bkFFU0ZRY21EclBOS1BDaW81R1dGX2w4cVowQ04ycVRJT1ZPZWxsSUdVZUxRR3lrS1V5RVJRZ3J6QlBndWREaUdSMFFSemNhQjU3a1pxeXdpMW5PaVE0LXU2ZzZGcW93ZFVUQjNtcFgwMC1nSjhGdkVHd3NKcE1fQ2RDbjJMSHo2RDBoWlp5aU5YNE91TTRKR1lSM0tucVFPM1lpbGVN?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-17/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "bacterias resistentes",
+          "definition_es": "microorganismos que no responden a los antibióticos comunes",
+          "definition_en": "antibiotic-resistant bacteria - microorganisms that do not respond to common antibiotics"
+        },
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación del pie en pacientes con diabetes que requiere cuidado especial",
+          "definition_en": "diabetic foot - foot complication in diabetic patients requiring special care"
+        },
+        {
+          "word": "curación de heridas",
+          "definition_es": "proceso de cicatrización y regeneración tisular",
+          "definition_en": "wound healing - process of tissue scarring and regeneration"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        }
+      ],
+      "added_at": "2026-01-17T09:06:51.310804Z"
+    },
+    {
+      "id": "burn-care-20250117",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "rose",
+      "headline_es": "Científicos suizos cultivan injertos de piel para tratar quemaduras",
+      "headline_en": "Swiss Scientists Grow Skin Grafts from Patient's Cells to Treat Burns",
+      "summary_es": "Investigadores suizos han desarrollado una técnica innovadora para cultivar injertos de piel a partir de las propias células del paciente, ofreciendo una solución revolucionaria para el tratamiento de quemaduras graves.",
+      "body_es": "Científicos suizos han logrado un avance importante en el tratamiento de quemaduras. Utilizan células de la piel del mismo paciente para cultivar nuevos injertos en laboratorio. Este método tiene varias ventajas sobre los injertos tradicionales. Primero, reduce el riesgo de rechazo porque usa células propias del paciente. Segundo, permite cubrir áreas quemadas más grandes con menos cicatrices. El proceso comienza tomando una pequeña muestra de piel sana del paciente. Las células se multiplican en el laboratorio durante varias semanas. Luego, se trasplanta el nuevo tejido cultivado sobre la zona quemada. Los resultados iniciales muestran tasas de éxito muy altas. Este tratamiento es especialmente importante para quemaduras profundas que cubren amplias superficies corporales.",
+      "body_en": "Swiss scientists have achieved an important breakthrough in burn treatment. They use cells from the patient's own skin to grow new grafts in the laboratory. This method has several advantages over traditional grafts. First, it reduces rejection risk because it uses the patient's own cells. Second, it allows covering larger burned areas with fewer scars. The process begins by taking a small sample of healthy skin from the patient. The cells multiply in the laboratory over several weeks. Then, the newly grown tissue is transplanted onto the burned area. Initial results show very high success rates. This treatment is especially important for deep burns covering large body surfaces.",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFBVV95cUxMQXhVWXpXNEE4VWdKZTRiQXBTdHB0cTRjTDJWbzFRNjlzc0RYUTM0R2NHMnM0c3YxOWMtWjNfQU41WVBsMjdFV2pXN2JLaklrdXBpajdEUklhRXRSNXBxNmwyS0pfUkU1ZTlTb3NvZXVQdVhQOXpaWjhRWTQ1bmdmWlBB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-17/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de tejido cutáneo para cubrir heridas o quemaduras",
+          "definition_en": "skin graft - transplant of skin tissue to cover wounds or burns"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - skin injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "rechazo",
+          "definition_es": "respuesta del cuerpo que ataca tejido trasplantado",
+          "definition_en": "rejection - body's response that attacks transplanted tissue"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de cicatrizar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        }
+      ],
+      "added_at": "2026-01-17T09:06:51.310804Z"
+    },
+    {
+      "id": "surgical-wounds-20250117",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Apósitos con plata revolucionan el mercado mundial de cuidado de heridas quirúrgicas",
+      "headline_en": "Silver Wound Dressings Revolutionize Global Surgical Wound Care Market",
+      "summary_es": "El mercado mundial de apósitos de plata para heridas experimenta un crecimiento significativo con una tasa anual de 4.8%, demostrando la importancia creciente de estos productos innovadores en el cuidado posquirúrgico.",
+      "body_es": "Los apósitos con plata se han convertido en una solución importante para el cuidado de heridas quirúrgicas en todo el mundo. Estos apósitos contienen partículas de plata que tienen propiedades antimicrobianas potentes. El mercado global de apósitos de plata está creciendo a una tasa anual del 4.8 por ciento. Los hospitales y clínicas utilizan estos apósitos para prevenir infecciones después de cirugías. La plata es efectiva contra múltiples tipos de bacterias, incluyendo algunas resistentes. El producto mantiene el ambiente de la herida húmedo, lo que favorece la cicatrización. Los apósitos de plata son especialmente útiles en heridas complejas y de alto riesgo. Los pacientes reportan menos dolor y mejor comodidad comparado con apósitos tradicionales. Este crecimiento refleja la demanda creciente de mejores soluciones en el cuidado posoperatorio.",
+      "body_en": "Silver-containing dressings have become an important solution for surgical wound care worldwide. These dressings contain silver particles that have powerful antimicrobial properties. The global market for silver dressings is growing at an annual rate of 4.8 percent. Hospitals and clinics use these dressings to prevent infections after surgery. Silver is effective against multiple types of bacteria, including some resistant ones. The product maintains a moist wound environment, which promotes healing. Silver dressings are especially useful for complex and high-risk wounds. Patients report less pain and better comfort compared to traditional dressings. This growth reflects increasing demand for better solutions in postoperative care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iRFNGVUROeXJ4R3RLSzVQUHRxQk5hLTM4Y01VRkZVTmFscndOR282Q0xIUFo4ZE1Qa1ZERW85Rm1RYXE2RVdiRXVrUG5Hc3RTWVpsUUdvSVcwaEJ4NVFEcXotajc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-17/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito de plata",
+          "definition_es": "vendaje que contiene plata para prevenir infecciones en heridas",
+          "definition_en": "silver dressing - bandage containing silver to prevent infections in wounds"
+        },
+        {
+          "word": "propiedades antimicrobianas",
+          "definition_es": "capacidad de una sustancia para eliminar o inhibir microorganismos",
+          "definition_en": "antimicrobial properties - ability of a substance to eliminate or inhibit microorganisms"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo que cierra una herida",
+          "definition_en": "scarring - process of new tissue formation that closes a wound"
+        },
+        {
+          "word": "herida posquirúrgica",
+          "definition_es": "lesión causada por una cirugía que requiere cuidado especial para sanar",
+          "definition_en": "postsurgical wound - injury caused by surgery requiring special care to heal"
+        }
+      ],
+      "added_at": "2026-01-17T09:06:51.310804Z"
+    },
+    {
+      "id": "wound-research-20250117",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Cumbre mundial de innovación en cuidado de heridas reunirá a expertos en 2026",
+      "headline_en": "Global Wound Care Innovation Summit to Gather Experts in 2026",
+      "summary_es": "HMP Global organiza una cumbre sobre innovación en cuidado de heridas (WCCC Summit) que se celebrará en la Conferencia de Primavera de SAWC en 2026, reuniendo a especialistas en curación de heridas de todo el mundo.",
+      "body_es": "HMP Global ha anunciado una iniciativa importante para avanzar la innovación en cuidado de heridas. La Cumbre de Cuidado de Heridas (WCCC Summit) se llevará a cabo durante la Conferencia de Primavera de SAWC en 2026. Este evento reunirá a enfermeras especializadas, médicos y investigadores de todo el mundo. Los expertos compartirán los últimos avances en tecnología de curación de heridas. Se discutirán nuevas técnicas de evaluación y tratamiento de úlceras crónicas. Los participantes aprenderán sobre apósitos innovadores y métodos de desbridamiento. La cumbre también incluirá sesiones sobre prevención de infecciones en heridas. Se esperan presentaciones sobre investigación clínica y casos de éxito. Este evento es crucial para mejorar los estándares de cuidado de heridas a nivel global.",
+      "body_en": "HMP Global has announced an important initiative to advance wound care innovation. The Wound Care Clinical Conference (WCCC) Summit will be held during the SAWC Spring Conference in 2026. This event will bring together specialized nurses, physicians, and researchers from around the world. Experts will share the latest advances in wound healing technology. New techniques for assessing and treating chronic ulcers will be discussed. Participants will learn about innovative dressings and debridement methods. The summit will also include sessions on preventing wound infections. Presentations on clinical research and success cases are expected. This event is crucial for improving wound care standards globally.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRHI5VjRXb1NaRGF2UzJOQU1HMUpoWXcxZXdlQ1J4ZkJ2X1Z5alBvQ0o4MHcza2ZaaGNldFBuYkVDdWh3Q0lmMGMxNTEza0dMUGc2cFluZDlnVWNTTmRseEhicTJ5TGF4U1JGYmczcEJtYjR4Z21TVWtQeXpwNk9qU3BBZzZuUXo0T0R5T3Z5WEdCdmtFTkIyNE8zdWFFcEJPN1pRM2M4UG1xUGdyTTVTWm5Qam9hN3NnMXJnNzJaUzRxVWRwRVVPVnlka2ZVbXNxenktMXE0dXU4MUN5?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-17/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "innovación en curación",
+          "definition_es": "desarrollo de nuevas técnicas y productos para mejorar la cicatrización",
+          "definition_en": "healing innovation - development of new techniques and products to improve wound healing"
+        },
+        {
+          "word": "úlcera crónica",
+          "definition_es": "herida abierta que no cicatriza durante período prolongado",
+          "definition_en": "chronic ulcer - open wound that does not heal over a prolonged period"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido necrótico o dañado de una herida",
+          "definition_en": "debridement - removal of necrotic or damaged tissue from a wound"
+        },
+        {
+          "word": "evaluación de heridas",
+          "definition_es": "proceso de examinar y documentar las características de una lesión",
+          "definition_en": "wound assessment - process of examining and documenting wound characteristics"
+        }
+      ],
+      "added_at": "2026-01-17T09:06:51.310804Z"
+    },
     {
       "id": "chronic-wounds-20250116",
       "category": "Chronic Wounds",
@@ -2110,6 +2295,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-16T09:09:48.251957Z",
+  "last_updated": "2026-01-17T09:06:51.310804Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
