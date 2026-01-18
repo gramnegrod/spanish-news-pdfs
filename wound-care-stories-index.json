@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-17",
-  "generated_at": "2026-01-17T09:06:51.310804Z",
+  "date": "2026-01-18",
+  "generated_at": "2026-01-18T09:07:14.567068Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 62,
+  "total_stories": 67,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250118",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Científicos descubren nuevo método para sanar heridas crónicas",
+      "headline_en": "Scientists discover new method to heal chronic wounds",
+      "summary_es": "Investigadores de la Universidad Tecnológica de Nanyang en Singapur encontraron una forma nueva de tratar bacterias resistentes a antibióticos en heridas crónicas, mejorando la curación del paciente.",
+      "body_es": "Los científicos de la Universidad Tecnológica de Nanyang (NTU) en Singapur desarrollaron un tratamiento innovador para heridas crónicas. El problema principal es que las bacterias resistentes a antibióticos impiden la curación normal. Los investigadores encontraron una nueva forma de desactivar estas bacterias peligrosas. Este método permite que el cuerpo cure la herida naturalmente. Las heridas crónicas afectan a muchos pacientes con diabetes y otras enfermedades. El tratamiento tradicional con antibióticos no siempre funciona. Este descubrimiento ofrece esperanza a los pacientes que sufren heridas que no cicatrizan. Los especialistas en cuidado de heridas pueden usar este método en el futuro.",
+      "body_en": "Scientists at Nanyang Technological University (NTU) in Singapore developed an innovative treatment for chronic wounds. The main problem is that antibiotic-resistant bacteria prevent normal healing. Researchers found a new way to deactivate these dangerous bacteria. This method allows the body to heal the wound naturally. Chronic wounds affect many patients with diabetes and other diseases. Traditional antibiotic treatment does not always work. This discovery offers hope to patients suffering from wounds that do not heal. Wound care specialists may use this method in the future.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ES2hQMFBxS0VNOE55YmMxbmFrVEFHNGU5bi10dUgwUlhISEtVUzdDRUJTcnljU3NkWERJdXY4dTRfMGRhcXBSRkdBNjJHejBXMFNPLThrcHdROFdY?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-18/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza después de mucho tiempo",
+          "definition_en": "chronic wound - injury that does not heal after a long time"
+        },
+        {
+          "word": "bacteria resistente",
+          "definition_es": "microorganismo que no responde a los antibióticos",
+          "definition_en": "resistant bacteria - microorganism that does not respond to antibiotics"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanación de una herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método médico para sanar una enfermedad",
+          "definition_en": "treatment - medical method to cure a disease"
+        }
+      ],
+      "added_at": "2026-01-18T09:07:14.567068Z"
+    },
+    {
+      "id": "diabetic-foot-20250118",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Tratamiento combinado salva pie diabético con úlcera isquémica",
+      "headline_en": "Combined treatment saves diabetic foot with ischemic ulcer",
+      "summary_es": "Un caso clínico documentado en Frontiers muestra cómo la aplicación secuencial de drenaje al vacío y cemento óseo con antibióticos logró curar exitosamente una úlcera isquémica del pie en un paciente diabético.",
+      "body_es": "Un paciente diabético con úlcera isquémica del pie recibió un tratamiento innovador que combinaba dos técnicas avanzadas. Primero, los médicos aplicaron drenaje de vacío secuencial para remover los tejidos necróticos y drenar el exceso de fluido. Esta técnica mejora la circulación y reduce la infección. Después, utilizaron cemento óseo impregnado con antibióticos directamente en la herida. Este método permite que los antibióticos se liberen lentamente en el sitio de la lesión durante semanas. La combinación de estas dos estrategias fue efectiva donde los tratamientos tradicionales habían fallado. El paciente logró evitar la amputación parcial del pie. Este caso demuestra la importancia de utilizar enfoques multidisciplinarios en el cuidado de úlceras diabéticas complejas.",
+      "body_en": "A diabetic patient with an ischemic foot ulcer received innovative treatment combining two advanced techniques. First, doctors applied sequential vacuum drainage to remove necrotic tissue and drain excess fluid. This technique improves circulation and reduces infection. Next, they used antibiotic-loaded bone cement directly in the wound. This method allows antibiotics to be released slowly at the injury site over weeks. The combination of these two strategies was effective where traditional treatments had failed. The patient managed to avoid partial foot amputation. This case demonstrates the importance of using multidisciplinary approaches in the care of complex diabetic ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPel9vblpOYXUzMzV5czc0QnRPZXBtaFFrVk9LbklCU2RraktBNWdPcUVqVG1TQlB5STU0VjhHeldyWkhkZnI1b2ZKMlRhQWI3bkppVng1QTBiMWJNOWQ5UnUxeXNYZWV3VEdIX1dkVlZoalozLW9Kak9wMHlKanBTellPUFZoTU51ZzdVSVQzeUNuVGwzb3c?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-18/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera isquémica",
+          "definition_es": "herida causada por falta de circulación sanguínea",
+          "definition_en": "ischemic ulcer - wound caused by lack of blood circulation"
+        },
+        {
+          "word": "drenaje al vacío",
+          "definition_es": "técnica que usa succión para remover fluido de la herida",
+          "definition_en": "vacuum drainage - technique using suction to remove fluid from wound"
+        },
+        {
+          "word": "necrótico",
+          "definition_es": "tejido muerto que requiere remoción",
+          "definition_en": "necrotic - dead tissue that requires removal"
+        },
+        {
+          "word": "cemento óseo",
+          "definition_es": "material quirúrgico que contiene antibióticos",
+          "definition_en": "bone cement - surgical material containing antibiotics"
+        }
+      ],
+      "added_at": "2026-01-18T09:07:14.567068Z"
+    },
+    {
+      "id": "burn-care-20250118",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Científicos suizos cultivan piel de injerto usando células del paciente",
+      "headline_en": "Swiss scientists grow skin graft from patient's cells",
+      "summary_es": "Investigadores suizos desarrollaron un método para cultivar injertos de piel a partir de las propias células del paciente, revolucionando el tratamiento de quemaduras graves.",
+      "body_es": "Científicos suizos han logrado un avance significativo en el tratamiento de quemaduras. Desarrollaron una técnica que permite cultivar piel de injerto usando las células del propio paciente. Este método es revolucionario porque reduce el rechazo inmunológico del cuerpo. El proceso comienza tomando una pequeña muestra de piel sana del paciente. Los investigadores cultivan estas células en el laboratorio durante varias semanas. La nueva piel crece en capas similares a la piel natural. Una vez lista, los médicos implantan el injerto de piel cultivada en las áreas quemadas. Este tratamiento es especialmente importante para quemaduras extensas donde hay poco tejido disponible. La técnica acorta el tiempo de recuperación significativamente. Los pacientes experimentan menos dolor y mejor cicatrización que con métodos tradicionales.",
+      "body_en": "Swiss scientists have achieved a significant breakthrough in burn treatment. They developed a technique that allows growing skin graft using the patient's own cells. This method is revolutionary because it reduces the body's immune rejection. The process begins by taking a small sample of healthy skin from the patient. Researchers culture these cells in the laboratory for several weeks. New skin grows in layers similar to natural skin. Once ready, doctors implant the cultured skin graft in the burned areas. This treatment is especially important for extensive burns where little tissue is available. The technique significantly shortens recovery time. Patients experience less pain and better scarring than with traditional methods.",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0Q3IyQ21tZXktaWR0RXYxUHY1cHdVRFNEYWxZWUI1X25zTF9mUkxMSWxlWTRrMVNZNG5PT2J6Yng3N0hhOG8zdUcwUTMyeUloUmJ4QWpiZGRtVmxvQk9YVVY2b2ctNWg4ZXppcnc5cmFCSGxjWTZPUmZPSVljQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-18/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "injerto de piel",
+          "definition_es": "tejido de piel trasplantado para cubrir áreas dañadas",
+          "definition_en": "skin graft - skin tissue transplanted to cover damaged areas"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "cultivo celular",
+          "definition_es": "crecimiento de células en el laboratorio",
+          "definition_en": "cell culture - growth of cells in the laboratory"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz durante la curación",
+          "definition_en": "scarring - process of scar formation during healing"
+        }
+      ],
+      "added_at": "2026-01-18T09:07:14.567068Z"
+    },
+    {
+      "id": "surgical-wounds-20250118",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Apósitos con yodo superan terapia antibiótica para alivio postoperatorio",
+      "headline_en": "Iodine-based dressings outperform antibiotic therapy for postoperative relief",
+      "summary_es": "Un estudio en Cureus comparó vendajes basados en yodo versus terapia antibiótica para el alivio de síntomas después de la cirugía de cordales, con resultados favorables para los apósitos yodados.",
+      "body_es": "Un estudio clínico publicado en Cureus evaluó la efectividad de dos métodos diferentes para tratar heridas postoperatorias después de la extracción de cordales. Los investigadores compararon vendajes con base de yodo contra terapia antibiótica tradicional. Los resultados mostraron que los apósitos yodados fueron más efectivos para aliviar el dolor postoperatorio. Los pacientes que recibieron vendajes con yodo experimentaron menos inflamación y edema. El yodo tiene propiedades antimicrobianas naturales que previenen la infección sin efectos secundarios de antibióticos sistémicos. Los apósitos yodados también permitieron mejor hemostasia y cicatrización. Este hallazgo es importante porque reduce la necesidad de medicamentos sistémicos en pacientes postoperatorios. El cuidado local de la herida con apósitos yodados puede ser una opción preferible en muchos casos quirúrgicos.",
+      "body_en": "A clinical study published in Cureus evaluated the effectiveness of two different methods for treating postoperative wounds after third molar extraction. Researchers compared iodine-based dressings against traditional antibiotic therapy. Results showed that iodine dressings were more effective in relieving postoperative pain. Patients who received iodine dressings experienced less inflammation and edema. Iodine has natural antimicrobial properties that prevent infection without side effects of systemic antibiotics. Iodine dressings also allowed better hemostasis and healing. This finding is important because it reduces the need for systemic medications in postoperative patients. Local wound care with iodine dressings may be a preferable option in many surgical cases.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcWdFX2xsanc2Nnd5aG90Y05GTlVQNHFELXBDcFZvRmY5ak9FTGpjcXJHT0ZteTYyd05Za2RFaENwcjh3SGtMeVNkbEtGMUs1X0k1b0NhN1JYdVZyakZFMVRCaFBJN3NCamhGWkJVcU1FWmN2Z3puMXZPN0RxN25ST0gtdEtMY0hqVGJCSEkzRDVIQlVXZk1EcXVjeWdoQXlnM3FMcFk2SGMzcmpHbnN2UTBiSUZua2xNTHFKTUZJSmFOX2ZHZGtrWEpnMHl3a3FoaE9fY1g2OWxQMFBSdzRKd3ZR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-18/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - material placed on a wound to protect it"
+        },
+        {
+          "word": "yodo",
+          "definition_es": "sustancia química con propiedades antimicrobianas",
+          "definition_en": "iodine - chemical substance with antimicrobial properties"
+        },
+        {
+          "word": "edema",
+          "definition_es": "inflamación causada por acumulación de fluido en los tejidos",
+          "definition_en": "edema - swelling caused by fluid accumulation in tissues"
+        },
+        {
+          "word": "hemostasia",
+          "definition_es": "proceso de detención del sangrado",
+          "definition_en": "hemostasis - process of stopping bleeding"
+        }
+      ],
+      "added_at": "2026-01-18T09:07:14.567068Z"
+    },
+    {
+      "id": "wound-research-20250118",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Terapia CAR T-Cell recibe financiamiento para estudio revolucionario de curación",
+      "headline_en": "CAR T-Cell therapy receives funding for groundbreaking healing study",
+      "summary_es": "Blood Cancer United otorgó un millón de dólares para un estudio en la Universidad de Colorado que analiza cómo la terapia CAR T-Cell puede mejorar la cicatrización y regeneración de tejidos en heridas complejas.",
+      "body_es": "La Universidad de Colorado Anschutz recibió una beca de un millón de dólares de Blood Cancer United para expandir un estudio innovador sobre terapia CAR T-Cell. Este tipo de investigación está revolucionando el campo de la curación de heridas. Los investigadores están explorando cómo las células T modificadas genéticamente pueden mejorar la regeneración tisular. La terapia CAR T-Cell fue originalmente desarrollada para tratar cánceres de sangre. Ahora, los científicos investigan su potencial para acelerar la cicatrización de heridas complejas. Las células T reingeninieradas pueden reconocer y atacar células dañadas que inhiben la curación. Este estudio es significativo porque podría ofrecer nuevas opciones terapéuticas para pacientes con heridas crónicas resistentes al tratamiento convencional. Los resultados podrían transformar los protocolos de cuidado de heridas en hospitales.",
+      "body_en": "The University of Colorado Anschutz received a one million dollar grant from Blood Cancer United to expand an innovative study on CAR T-Cell therapy. This type of research is revolutionizing the field of wound healing. Researchers are exploring how genetically modified T cells can improve tissue regeneration. CAR T-Cell therapy was originally developed to treat blood cancers. Now, scientists are investigating its potential to accelerate the healing of complex wounds. Reengineered T cells can recognize and attack damaged cells that inhibit healing. This study is significant because it could offer new therapeutic options for patients with chronic wounds resistant to conventional treatment. Results could transform wound care protocols in hospitals.",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRkFlX2NISXd1cW15RG15Tk9UYlZLX0Q1MHFtUm50cmx6QVVFSkItX0FobU1BWlVRSnhablFEVHNTVmE1dmZsaEcybmdaaFlNODR3LWN6VlIzZHBoWWhhYTF6aXhDdW9ROVk3QlotdWZHYVdQdDJWWlNtZDRHMTJBR2dXN2xOR2kydmdSd3M2SVhRWFJVYmM1LTE1QjQzcWllMUszY2Juc3VpMlZaWEgySnVPVGxyMXAxQXktQ0ZzSFNvUkYx0gHUAUFVX3lxTE9sLVZCdDFWaUhYSTdNdXVhWWk4THNjS0NRVDdremZFZGVwbE14N0pxcUR6UGZKOWprZzdJM2k0NjFsZTJOZkVUQmJvR2RTcW9Wb1dVSkkwUTFTRnN6YnVZdTZEMDdzb3d2U0VYeTVzQW5fMWZqTFNrVE1QRnkwb3g5dDRsQ0xVeUJ4UUhCZHJQZ01HcGtKMHNnUWhCWEhCY0lCNGcyMnNnVWpndW5ZQVpGZDRJTVFJTVpoZll6LThTRDRENFRRV1J1ZmhuLW9QX003RHdD?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-18/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "terapia CAR T-Cell",
+          "definition_es": "tratamiento que usa células T modificadas genéticamente para combatir células dañadas",
+          "definition_en": "CAR T-Cell therapy - treatment using genetically modified T cells to fight damaged cells"
+        },
+        {
+          "word": "regeneración tisular",
+          "definition_es": "proceso de crecimiento y reparación de tejidos dañados",
+          "definition_en": "tissue regeneration - process of growth and repair of damaged tissues"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz durante la curación",
+          "definition_en": "healing - process of scar formation during recovery"
+        },
+        {
+          "word": "células modificadas",
+          "definition_es": "células que han sido alteradas genéticamente en el laboratorio",
+          "definition_en": "modified cells - cells that have been genetically altered in the laboratory"
+        }
+      ],
+      "added_at": "2026-01-18T09:07:14.567068Z"
+    },
     {
       "id": "chronic-wounds-20250117",
       "category": "Chronic Wounds",
@@ -2295,6 +2480,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-17T09:06:51.310804Z",
+  "last_updated": "2026-01-18T09:07:14.567068Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
