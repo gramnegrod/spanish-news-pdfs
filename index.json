@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-18",
+      "filename": "spanish_lesson_2026-01-18.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-18.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Congresistas de EE.UU. visitan Dinamarca por tensiones con Trump",
+          "headline_en": "US Congresspeople visit Denmark due to tensions with Trump",
+          "body_es": "Una delegación del Congreso estadounidense visitó Dinamarca esta semana. La visita ocurrió después de las declaraciones de Donald Trump sobre Groenlandia. Trump dijo que Estados Unidos debería adquirir esta isla ártica. Groenlandia pertenece a Dinamarca desde hace muchos años. Los políticos daneses no están contentos con las ideas de Trump. Dicen que Groenlandia no está en venta. Los congresistas estadounidenses quieren mantener buenas relaciones con Dinamarca. Dinamarca es un aliado importante en la OTAN. La situación ha creado tensiones diplomáticas entre los dos países. Los expertos dicen que estas declaraciones pueden dañar la amistad histórica entre Estados Unidos y Dinamarca.",
+          "body_en": "A US congressional delegation visited Denmark this week. The visit occurred after Donald Trump's statements about Greenland. Trump said that the United States should acquire this Arctic island. Greenland has belonged to Denmark for many years. Danish politicians are not happy with Trump's ideas. They say that Greenland is not for sale. US congresspeople want to maintain good relations with Denmark. Denmark is an important NATO ally. The situation has created diplomatic tensions between the two countries. Experts say these statements could damage the historic friendship between the United States and Denmark.",
+          "source": "Fox News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El mercado laboral más débil desde 2011 preocupa a los bancos",
+          "headline_en": "The weakest job market since 2011 worries banks",
+          "body_es": "El mercado laboral en Estados Unidos está muy débil este año. Bank of America dice que es el peor momento para encontrar empleo desde 2011. Muchas personas buscan trabajo pero no encuentran oportunidades. Las empresas no están contratando muchos empleados nuevos. Esto preocupa mucho a los economistas y banqueros. Durante la pandemia, había muchos trabajos disponibles. Ahora la situación es muy diferente. Los expertos dicen que la economía está cambiando rápidamente. Algunas industrias tienen problemas financieros. Los jóvenes especialmente tienen dificultades para encontrar su primer trabajo. Bank of America pregunta dónde están todos los empleos. Esta situación puede afectar la economía general del país.",
+          "body_en": "The job market in the United States is very weak this year. Bank of America says it's the worst time to find employment since 2011. Many people are looking for work but can't find opportunities. Companies are not hiring many new employees. This greatly worries economists and bankers. During the pandemic, there were many jobs available. Now the situation is very different. Experts say the economy is changing rapidly. Some industries have financial problems. Young people especially have difficulty finding their first job. Bank of America asks where all the jobs are. This situation could affect the country's overall economy.",
+          "source": "AOL.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Apple deja su IA propia y usará la tecnología de Google",
+          "headline_en": "Apple abandons its own AI and will use Google's technology",
+          "body_es": "Apple decidió abandonar su proyecto interno de inteligencia artificial. La empresa va a adoptar Gemini, el sistema de IA de Google, para sus teléfonos iPhone. Apple trabajó durante años en su propia tecnología de inteligencia artificial. Sin embargo, los resultados no fueron buenos enough. Google tiene una tecnología más avanzada en este área. Gemini puede responder preguntas y ayudar a los usuarios mejor. Esta decisión sorprendió a muchos expertos en tecnología. Apple normalmente prefiere usar sus propios sistemas. Pero la competencia en IA es muy fuerte. Microsoft, Google y otras empresas tienen sistemas muy buenos. Los usuarios de iPhone pronto podrán usar Gemini en sus teléfonos. Esta colaboración entre Apple y Google es histórica.",
+          "body_en": "Apple decided to abandon its internal artificial intelligence project. The company will adopt Gemini, Google's AI system, for its iPhone phones. Apple worked for years on its own artificial intelligence technology. However, the results were not good enough. Google has more advanced technology in this area. Gemini can answer questions and help users better. This decision surprised many technology experts. Apple normally prefers to use its own systems. But the competition in AI is very strong. Microsoft, Google and other companies have very good systems. iPhone users will soon be able to use Gemini on their phones. This collaboration between Apple and Google is historic.",
+          "source": "MSN"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "delegación",
+          "syllables": "de-le-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "Una delegación del Congreso estadounidense visitó Dinamarca.",
+          "definition_es": "Grupo de personas que representan a una organización",
+          "definition_en": "Group of people representing an organization"
+        },
+        {
+          "word": "adquirir",
+          "syllables": "ad-qui-RIR",
+          "pos": "verbo",
+          "context": "Trump quiere adquirir Groenlandia para Estados Unidos.",
+          "definition_es": "Conseguir o comprar algo",
+          "definition_en": "To acquire or buy something"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral está muy débil este año.",
+          "definition_es": "Sistema donde se buscan y ofrecen trabajos",
+          "definition_en": "Job market where employment is offered and sought"
+        },
+        {
+          "word": "débil",
+          "syllables": "DÉ-bil",
+          "pos": "adjetivo",
+          "context": "La economía está débil desde 2011.",
+          "definition_es": "Sin fuerza, frágil",
+          "definition_en": "Weak, fragile"
+        },
+        {
+          "word": "abandonar",
+          "syllables": "a-ban-do-NAR",
+          "pos": "verbo",
+          "context": "Apple decidió abandonar su proyecto de inteligencia artificial.",
+          "definition_es": "Dejar de hacer algo, renunciar",
+          "definition_en": "To give up or stop doing something"
+        },
+        {
+          "word": "adoptar",
+          "syllables": "a-dop-TAR",
+          "pos": "verbo",
+          "context": "Apple va a adoptar la tecnología de Google.",
+          "definition_es": "Tomar o usar algo nuevo",
+          "definition_en": "To take on or use something new"
+        },
+        {
+          "word": "interno",
+          "syllables": "in-TER-no",
+          "pos": "adjetivo",
+          "context": "Apple no usará más su sistema interno de IA.",
+          "definition_es": "Que está dentro de una organización",
+          "definition_en": "Internal, within an organization"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Muchas personas buscan empleo en Estados Unidos.",
+          "definition_es": "Trabajo que una persona hace por dinero",
+          "definition_en": "Job or work that someone does for money"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'delegación'?",
+          "options": [
+            "Grupo de representantes",
+            "Tipo de gobierno",
+            "Edificio político",
+            "Reunión secreta"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'adquirir'?",
+          "options": [
+            "Vender",
+            "Comprar",
+            "Perder",
+            "Regalar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Si algo está 'débil', significa que está:",
+          "options": [
+            "Fuerte",
+            "Sin fuerza",
+            "Rápido",
+            "Caro"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'abandonar un proyecto'?",
+          "options": [
+            "Empezarlo",
+            "Mejorarlo",
+            "Dejarlo",
+            "Venderlo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué país visitaron los congresistas estadounidenses?",
+          "options": [
+            "Groenlandia",
+            "Dinamarca",
+            "Noruega",
+            "Suecia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Desde cuándo no había un mercado laboral tan débil?",
+          "options": [
+            "2010",
+            "2011",
+            "2012",
+            "2015"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué banco mencionó el problema del empleo?",
+          "options": [
+            "Bank of America",
+            "Chase Bank",
+            "Wells Fargo",
+            "Citibank"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama la IA de Google que usará Apple?",
+          "options": [
+            "Siri",
+            "Alexa",
+            "Gemini",
+            "ChatGPT"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué Trump quiere Groenlandia?",
+          "options": [
+            "Para adquirirla para EE.UU.",
+            "Para visitarla",
+            "Para estudiarla",
+            "Para venderla"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿En qué dispositivos usará Apple la tecnología de Google?",
+          "options": [
+            "iPad",
+            "Mac",
+            "iPhone",
+            "Apple Watch"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-18T09:02:10.673209"
+    },
+    {
       "date": "2026-01-17",
       "filename": "spanish_lesson_2026-01-17.pdf",
       "path": "pdfs/spanish_lesson_2026-01-17.pdf",
@@ -9128,7 +9350,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-17T09:01:57.042825",
+  "last_updated": "2026-01-18T09:02:10.673225",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
