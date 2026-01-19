@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-19",
+      "filename": "spanish_lesson_2026-01-19.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-19.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump amenaza con aranceles mientras el Congreso apoya a Dinamarca",
+          "headline_en": "Trump threatens tariffs while Congress supports Denmark",
+          "body_es": "El expresidente Trump amenaza con poner aranceles a Dinamarca. Él quiere que Estados Unidos controle Groenlandia. Groenlandia es una isla grande que pertenece a Dinamarca. Trump dice que Groenlandia es importante para la seguridad de Estados Unidos. Sin embargo, los legisladores americanos no están de acuerdo con Trump. Ellos apoyan a Dinamarca y respetan su territorio. Los políticos daneses dicen que Groenlandia no está en venta. Esta situación crea tensión entre los países. Los aranceles pueden hacer que los productos daneses sean más caros en Estados Unidos. Muchos expertos piensan que esta amenaza no es buena para las relaciones internacionales.",
+          "body_en": "Former President Trump threatens to put tariffs on Denmark. He wants the United States to control Greenland. Greenland is a large island that belongs to Denmark. Trump says Greenland is important for US security. However, American lawmakers disagree with Trump. They support Denmark and respect its territory. Danish politicians say Greenland is not for sale. This situation creates tension between countries. Tariffs can make Danish products more expensive in the United States. Many experts think this threat is not good for international relations.",
+          "source": "The Grand Junction Daily Sentinel"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "China alcanza su meta económica a pesar de los aranceles estadounidenses",
+          "headline_en": "China reaches its economic goal despite US tariffs",
+          "body_es": "China logró su meta de crecimiento económico este año. El país asiático creció aproximadamente 5% según el gobierno chino. Esto pasó aunque Estados Unidos puso muchos aranceles a los productos chinos. Las exportaciones de China siguieron siendo fuertes durante todo el año. Los productos chinos se vendieron bien en otros países del mundo. El gobierno chino invirtió mucho dinero en nueva tecnología y infraestructura. También ayudó a las empresas locales durante los momentos difíciles. Los economistas dicen que China encontró nuevos mercados para sus productos. Sin embargo, algunos expertos piensan que el crecimiento real puede ser menor. La economía china sigue siendo muy importante para todo el mundo.",
+          "body_en": "China achieved its economic growth goal this year. The Asian country grew approximately 5% according to the Chinese government. This happened even though the United States imposed many tariffs on Chinese products. China's exports remained strong throughout the year. Chinese products sold well in other countries around the world. The Chinese government invested a lot of money in new technology and infrastructure. It also helped local companies during difficult times. Economists say China found new markets for its products. However, some experts think the real growth may be lower. The Chinese economy remains very important for the entire world.",
+          "source": "BBC"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La tecnología lucha contra las imágenes sexuales creadas por inteligencia artificial",
+          "headline_en": "Technology fights against sexual images created by artificial intelligence",
+          "body_es": "La inteligencia artificial puede crear imágenes falsas de personas. Estas imágenes sexuales causan muchos problemas. Las víctimas son principalmente mujeres y niñas. Las empresas de tecnología trabajan para prevenir este problema. Usan programas especiales para detectar imágenes falsas. Sin embargo, la tecnología no puede resolver todo el problema. Los criminales siempre encuentran nuevas formas de crear estas imágenes. Muchos países están haciendo nuevas leyes contra este crimen. Las escuelas enseñan a los jóvenes sobre estos peligros. Los expertos dicen que necesitamos educación y tecnología juntas. También es importante que las personas reporten estos casos a la policía. La lucha contra estas imágenes falsas continúa cada día.",
+          "body_en": "Artificial intelligence can create fake images of people. These sexual images cause many problems. The victims are mainly women and girls. Technology companies work to prevent this problem. They use special programs to detect fake images. However, technology cannot solve the entire problem. Criminals always find new ways to create these images. Many countries are making new laws against this crime. Schools teach young people about these dangers. Experts say we need education and technology together. It is also important for people to report these cases to police. The fight against these fake images continues every day.",
+          "source": "The Jakarta Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Trump amenaza con aranceles a Dinamarca por Groenlandia.",
+          "definition_es": "Impuestos que se pagan cuando se importan productos de otros países",
+          "definition_en": "Taxes paid when importing products from other countries (tariffs)"
+        },
+        {
+          "word": "amenazar",
+          "syllables": "a-me-na-ZAR",
+          "pos": "verbo",
+          "context": "El presidente amenaza con nuevas medidas económicas.",
+          "definition_es": "Decir que vas a hacer algo malo a alguien",
+          "definition_en": "To threaten; to say you will do something bad to someone"
+        },
+        {
+          "word": "exportaciones",
+          "syllables": "ex-por-ta-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las exportaciones de China crecieron este año.",
+          "definition_es": "Productos que un país vende a otros países",
+          "definition_en": "Products that a country sells to other countries (exports)"
+        },
+        {
+          "word": "meta",
+          "syllables": "ME-ta",
+          "pos": "sustantivo",
+          "context": "China alcanzó su meta de crecimiento económico.",
+          "definition_es": "Objetivo que quieres conseguir",
+          "definition_en": "Goal or objective you want to achieve"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial puede crear imágenes falsas.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans (AI)"
+        },
+        {
+          "word": "prevenir",
+          "syllables": "pre-ve-NIR",
+          "pos": "verbo",
+          "context": "Es difícil prevenir las imágenes falsas en internet.",
+          "definition_es": "Evitar que algo malo pase",
+          "definition_en": "To prevent; to stop something bad from happening"
+        },
+        {
+          "word": "crecimiento",
+          "syllables": "cre-ci-MIEN-to",
+          "pos": "sustantivo",
+          "context": "El crecimiento económico de China fue exitoso.",
+          "definition_es": "Cuando algo se hace más grande o mejor",
+          "definition_en": "When something becomes bigger or better (growth)"
+        },
+        {
+          "word": "legisladores",
+          "syllables": "le-gis-la-DO-res",
+          "pos": "sustantivo",
+          "context": "Los legisladores apoyan a Dinamarca en este conflicto.",
+          "definition_es": "Personas que trabajan en el congreso y hacen las leyes",
+          "definition_en": "People who work in congress and make laws (lawmakers)"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'aranceles'?",
+          "options": [
+            "Impuestos sobre productos importados",
+            "Productos de exportación",
+            "Acuerdos comerciales",
+            "Monedas extranjeras"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'amenazar'?",
+          "options": [
+            "Ayudar a alguien",
+            "Decir que vas a hacer algo malo",
+            "Comprar productos",
+            "Vender en el mercado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'exportaciones'?",
+          "options": [
+            "Productos que compramos de otros países",
+            "Productos que vendemos a otros países",
+            "Dinero que prestamos",
+            "Leyes internacionales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'prevenir'?",
+          "options": [
+            "Crear algo nuevo",
+            "Evitar que algo malo pase",
+            "Comprar tecnología",
+            "Vender productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué quiere Trump?",
+          "options": [
+            "Vender Groenlandia",
+            "Controlar Groenlandia",
+            "Comprar productos daneses",
+            "Hacer nuevas leyes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto creció la economía china aproximadamente?",
+          "options": [
+            "3%",
+            "4%",
+            "5%",
+            "6%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿A quién pertenece Groenlandia?",
+          "options": [
+            "Estados Unidos",
+            "Dinamarca",
+            "China",
+            "No tiene dueño"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Quiénes son principalmente las víctimas de imágenes falsas?",
+          "options": [
+            "Hombres y niños",
+            "Mujeres y niñas",
+            "Solo adultos",
+            "Solo niños"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué hizo China para lograr su crecimiento económico?",
+          "options": [
+            "Solo vendió productos",
+            "Invirtió en tecnología e infraestructura",
+            "Puso aranceles",
+            "Compró empresas extranjeras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué necesitamos para luchar contra las imágenes falsas según los expertos?",
+          "options": [
+            "Solo tecnología",
+            "Solo educación",
+            "Educación y tecnología juntas",
+            "Solo nuevas leyes"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-19T09:06:23.018238"
+    },
+    {
       "date": "2026-01-18",
       "filename": "spanish_lesson_2026-01-18.pdf",
       "path": "pdfs/spanish_lesson_2026-01-18.pdf",
@@ -9350,7 +9572,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-18T09:02:10.673225",
+  "last_updated": "2026-01-19T09:06:23.018254",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
