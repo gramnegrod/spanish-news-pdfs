@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-18",
-  "generated_at": "2026-01-18T09:07:14.567068Z",
+  "date": "2026-01-19",
+  "generated_at": "2026-01-19T09:13:40.345419Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 67,
+  "total_stories": 72,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250119",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Los antibióticos no son suficientes para algunas heridas crónicas",
+      "headline_en": "Antibiotics Aren't Enough for Some Chronic Wounds",
+      "summary_es": "Las heridas crónicas no siempre sanan con antibióticos solos. Los científicos descubren nuevas estrategias para tratar estas heridas difíciles.",
+      "body_es": "Las heridas crónicas son lesiones que no cierran después de muchas semanas. Los doctores usan antibióticos para prevenir infecciones. Pero los antibióticos no siempre funcionan bien en las heridas crónicas. Los investigadores estudian por qué algunos antibióticos no son efectivos. Descubren que las bacterias pueden resistir los medicamentos. Ahora buscan nuevos tratamientos. Estos tratamientos nuevos pueden ayudar a que las heridas cierren mejor. Es importante entender cómo funcionan las heridas crónicas. Los enfermeros deben evaluar estas heridas regularmente. El cuidado y la curación correcta son esenciales para los pacientes.",
+      "body_en": "Chronic wounds are injuries that do not close after many weeks. Doctors use antibiotics to prevent infections. But antibiotics do not always work well in chronic wounds. Researchers study why some antibiotics are not effective. They discover that bacteria can resist medications. Now they are looking for new treatments. These new treatments may help wounds close better. It is important to understand how chronic wounds work. Nurses must evaluate these wounds regularly. Proper care and healing are essential for patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc09JdGZSaTFMRjVrU2hmZThWS3V6NGtKQVdCMEJJUmhJNElPd2hMZHdTenZwY1RBZ1pha05zY3N0OWJKbTVFeEdkZGtMUXF6ckJKNmh0Zm5EMF9GQTFucjNTVnZNMDNyRi14ZnNranlVSmhCXzdwNjVYS3hRUVBLODV6M3U?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-19/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no sana después de muchas semanas",
+          "definition_en": "chronic wound - injury that does not heal after many weeks"
+        },
+        {
+          "word": "antibiótico",
+          "definition_es": "medicamento para combatir infecciones",
+          "definition_en": "antibiotic - medication to fight infections"
+        },
+        {
+          "word": "bacteria",
+          "definition_es": "microorganismo que causa infecciones",
+          "definition_en": "bacteria - microorganism that causes infections"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y recuperación",
+          "definition_en": "healing - process of scarring and recovery"
+        }
+      ],
+      "added_at": "2026-01-19T09:13:40.345419Z"
+    },
+    {
+      "id": "diabetic-foot-20250119",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Nuevas estrategias contra bacterias resistentes en heridas crónicas",
+      "headline_en": "New Strategies Against Antibiotic-Resistant Bacteria in Chronic Wounds",
+      "summary_es": "Los investigadores descubren cómo neutralizar bacterias resistentes que previenen la curación en heridas crónicas, especialmente en pacientes diabéticos.",
+      "body_es": "Las bacterias resistentes a antibióticos representan un desafío importante en el tratamiento de heridas crónicas, particularmente en pacientes con diabetes. Estos microorganismos utilizan un mecanismo especial llamado transporte de electrones extracelulares para resistir los medicamentos tradicionales. Los científicos han identificado cómo desactivar este mecanismo defensivo de las bacterias. Al neutralizar esta capacidad, las bacterias pierden su protección y los antibióticos pueden ser más efectivos nuevamente. Este descubrimiento abre nuevas posibilidades terapéuticas para pacientes con úlceras diabéticas que no responden a tratamientos convencionales. Los estudios demuestran que esta estrategia restaura el proceso natural de curación en heridas infectadas. Para los profesionales de enfermería, esto significa opciones de tratamiento innovadoras para casos difíciles.",
+      "body_en": "Antibiotic-resistant bacteria represent an important challenge in treating chronic wounds, particularly in diabetic patients. These microorganisms use a special mechanism called extracellular electron transport to resist traditional medications. Scientists have identified how to disable this defensive mechanism of bacteria. By neutralizing this capability, bacteria lose their protection and antibiotics can be more effective again. This discovery opens new therapeutic possibilities for patients with diabetic ulcers that do not respond to conventional treatments. Studies show that this strategy restores the natural healing process in infected wounds. For nursing professionals, this means innovative treatment options for difficult cases.",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFk0STJDTzk4bTk4U3lidzJHbktFZl9vUGloSUJKbWk2NGVqZUROYXoyX2lRVXgyaWRLRENNVmxMVzBVRzZEYnYxV2NOal84QmhmT0phZXcwdjV1Ml90Rmh3OGJ3UjBqU2hON0JTcGs4ejdUYWdnQTBGZ2xwNTZacTJ6T1JLVUpfSXVLaS0tQ3pqdTNHRTcwTmVtNml6LWhpSWxUT3NLWDU4dzE2Z2dEX3BsQTVhNS1QSEFWQUphLVVKa1FvTk8yd1NZMEU?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-19/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "bacteria resistente",
+          "definition_es": "microorganismo que no responde a los antibióticos",
+          "definition_en": "resistant bacteria - microorganism that does not respond to antibiotics"
+        },
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida crónica en pacientes con diabetes",
+          "definition_en": "diabetic ulcer - chronic wound in diabetic patients"
+        },
+        {
+          "word": "transporte de electrones",
+          "definition_es": "mecanismo de defensa de las bacterias",
+          "definition_en": "electron transport - defense mechanism of bacteria"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de regeneración de la piel",
+          "definition_en": "epithelialization - process of skin regeneration"
+        }
+      ],
+      "added_at": "2026-01-19T09:13:40.345419Z"
+    },
+    {
+      "id": "burn-care-20250119",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Injertos de piel bioingeniería ofrecen nueva esperanza para quemaduras graves",
+      "headline_en": "Bio-engineered Skin Grafts Offer New Hope for Severe Burn Injuries",
+      "summary_es": "Los injertos de piel bioingeniería representan un avance importante en el tratamiento de quemaduras severas, mejorando significativamente las opciones de curación.",
+      "body_es": "Las quemaduras graves representan una de las lesiones más complejas que tratan los profesionales médicos. Los injertos de piel convencionales tienen limitaciones importantes en su disponibilidad y compatibilidad. Los científicos han desarrollado injertos de piel bioingeniería que se crean en laboratorios especializados. Estos injertos utilizan células de piel del paciente para crear tejido compatible. El proceso de bioingeniería permite producir injertos personalizados que se adaptan mejor al paciente. Los estudios demuestran que estos injertos mejoran la curación comparado con métodos tradicionales. Además, reducen el riesgo de rechazo del injerto y complicaciones infecciosas. Para los pacientes quemados, esta tecnología significa menos tiempo de hospitalización y mejor cicatrización. Los hospitales comienzan a implementar estos tratamientos para pacientes con quemaduras extensas.",
+      "body_en": "Severe burns represent one of the most complex injuries that medical professionals treat. Conventional skin grafts have significant limitations in availability and compatibility. Scientists have developed bio-engineered skin grafts that are created in specialized laboratories. These grafts use the patient's own skin cells to create compatible tissue. The bioengineering process allows production of personalized grafts that adapt better to the patient. Studies show that these grafts improve healing compared to traditional methods. Additionally, they reduce the risk of graft rejection and infectious complications. For burn patients, this technology means less hospitalization time and better scarring. Hospitals are beginning to implement these treatments for patients with extensive burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON29iQnBFU0ppODRrcWVUMEpiS1R5X01abERqdkJId1ZvN2paMTdsUmJRVlZ6UFZBcTVXRzZoQ2hXMFNlbHNwc0ZpbzZVTnBMYUJVVkFhdVItZVVyb1pYbEtiRmVIak9fWXI5UUZSSEMzR0RKZVN1clJheXFucWt5TUQ4NTZMT3NvQ3JDX3JfMFpTMEYwOEtCSE9KZDJmTUxTSU0yNE5pc0lfZ1NhaEdVOFBMTXc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-19/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de tejido de piel para cubrir heridas",
+          "definition_en": "skin graft - transplant of skin tissue to cover wounds"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión por calor en la piel y tejidos",
+          "definition_en": "burn - injury from heat to skin and tissues"
+        },
+        {
+          "word": "bioingeniería",
+          "definition_es": "técnica para crear tejidos en laboratorio",
+          "definition_en": "bioengineering - technique to create tissues in laboratory"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz durante la curación",
+          "definition_en": "scarring - process of scar formation during healing"
+        }
+      ],
+      "added_at": "2026-01-19T09:13:40.345419Z"
+    },
+    {
+      "id": "surgical-wounds-20250119",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🩺",
+      "gradient": "blue",
+      "headline_es": "Estrategias nutricionales mejoradas en la curación de heridas quirúrgicas abdominales",
+      "headline_en": "Improved Nutritional Strategies in Surgical Wound Healing",
+      "summary_es": "Los investigadores examinan cómo las estrategias nutricionales, incluyendo la dieta cetogénica, pueden optimizar la curación de heridas quirúrgicas abdominales.",
+      "body_es": "La curación adecuada de heridas quirúrgicas depende de múltiples factores, incluyendo la nutrición del paciente. Los investigadores han identificado que la nutrición perioperatoria juega un papel crucial en los resultados postoperatorios. Los estudios recientes examinan el potencial de estrategias nutricionales innovadoras como la dieta cetogénica. Esta dieta afecta el metabolismo del cuerpo y puede influir en el proceso inflamatorio durante la curación. Para pacientes sometidos a cirugía abdominal, una nutrición optimizada reduce el tiempo de curación y las complicaciones postoperatorias. Los médicos ahora consideran evaluaciones nutricionales previas a la cirugía como parte del protocolo estándar. El equipo de enfermería debe monitorear el estado nutricional durante el proceso de recuperación. Una nutrición adecuada mejora la epitelización y reduce el riesgo de infección en heridas quirúrgicas.",
+      "body_en": "Proper healing of surgical wounds depends on multiple factors, including patient nutrition. Researchers have identified that perioperative nutrition plays a crucial role in postoperative outcomes. Recent studies examine the potential of innovative nutritional strategies such as the ketogenic diet. This diet affects body metabolism and may influence the inflammatory process during healing. For patients undergoing abdominal surgery, optimized nutrition reduces healing time and postoperative complications. Doctors now consider nutritional assessments prior to surgery as part of standard protocol. The nursing team must monitor nutritional status during the recovery process. Adequate nutrition improves epithelialization and reduces infection risk in surgical wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNek8wNjBiQTk4ZmdWdG9WbjdGYkRzUVI0TVZkTTNrR3dIaVA0Qjh0RnBZMWIzdHB2RndHYm1EemFQOUNMOEpoa09veUNqTW41akVGRW1XUWdwanpDSTEzbzAwWEdCdlNKcG9vWFh3RFNFNnY2UDdxNFVEYkdMTDFmRGVYQkFtbDV3Y210eW1Iaw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-19/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada durante una intervención quirúrgica",
+          "definition_en": "surgical wound - injury created during a surgical procedure"
+        },
+        {
+          "word": "nutrición perioperatoria",
+          "definition_es": "alimentación antes y después de la cirugía",
+          "definition_en": "perioperative nutrition - feeding before and after surgery"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre la herida",
+          "definition_en": "epithelialization - formation of new skin over the wound"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        }
+      ],
+      "added_at": "2026-01-19T09:13:40.345419Z"
+    },
+    {
+      "id": "wound-research-20250119",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación busca reducir opioides en el tratamiento de víctimas de quemaduras",
+      "headline_en": "Research Aims to Reduce Opioid Treatment for Burn Victims by 90%",
+      "summary_es": "Un nuevo estudio en UT Health San Antonio busca reducir significativamente el uso de opioides en pacientes quemados mediante tratamientos alternativos innovadores.",
+      "body_es": "Las quemaduras graves causan dolor intenso que tradicionalmente se trata con opioides. Sin embargo, el uso prolongado de opioides presenta riesgos significativos incluyendo dependencia y efectos secundarios graves. Investigadores en UT Health San Antonio han obtenido una beca TRC4 para desarrollar estrategias alternativas de manejo del dolor. El objetivo ambicioso es reducir el tratamiento opioides en víctimas de quemaduras en hasta el noventa por ciento. El estudio examina múltiples enfoques que incluyen técnicas de anestesia regional, medicamentos no opioides y terapias innovadoras. Los resultados preliminares son prometedores y muestran que es posible controlar el dolor sin depender únicamente de opioides. Para los profesionales de enfermería, esto representa oportunidades para mejorar la calidad de vida de los pacientes quemados. La investigación también contribuye a resolver la crisis nacional de dependencia a opioides.",
+      "body_en": "Severe burns cause intense pain that is traditionally treated with opioids. However, prolonged opioid use presents significant risks including dependence and serious side effects. Researchers at UT Health San Antonio have obtained a TRC4 grant to develop alternative pain management strategies. The ambitious goal is to reduce opioid treatment in burn victims by up to ninety percent. The study examines multiple approaches including regional anesthesia techniques, non-opioid medications, and innovative therapies. Preliminary results are promising and show that pain can be controlled without relying solely on opioids. For nursing professionals, this represents opportunities to improve the quality of life for burn patients. The research also contributes to addressing the national opioid dependence crisis.",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2swSUl3aFJTMWh6TWItZXZzbVNlS3NFM0tMTUs5cHdXQ2VYQTZtY2hPc1RVMGVkVG8yZTFzVzBGeXZlbEYzSHo4N08yYVNsTXduUFZkU0NVMVY3OFpjS1M4V29KVnUzTXJobVM4cG1XbFpJdlFQSTZlRUFqQlkzaUlubUdvRDlKU3ZvMS0zODZQTVJCbG5UNGlEdjFPckV4Vmc4a2tKbmVqSFBSSXoySXJlRGVmXy1NaUJCRg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-19/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "opioides",
+          "definition_es": "medicamentos fuertes para el dolor que pueden causar dependencia",
+          "definition_en": "opioids - strong pain medications that can cause dependence"
+        },
+        {
+          "word": "anestesia regional",
+          "definition_es": "pérdida de sensibilidad en una parte del cuerpo",
+          "definition_en": "regional anesthesia - loss of sensation in a body part"
+        },
+        {
+          "word": "manejo del dolor",
+          "definition_es": "tratamiento para controlar y reducir el dolor",
+          "definition_en": "pain management - treatment to control and reduce pain"
+        },
+        {
+          "word": "terapia innovadora",
+          "definition_es": "tratamiento nuevo y experimental",
+          "definition_en": "innovative therapy - new and experimental treatment"
+        }
+      ],
+      "added_at": "2026-01-19T09:13:40.345419Z"
+    },
     {
       "id": "chronic-wounds-20250118",
       "category": "Chronic Wounds",
@@ -2480,6 +2665,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-18T09:07:14.567068Z",
+  "last_updated": "2026-01-19T09:13:40.345419Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
