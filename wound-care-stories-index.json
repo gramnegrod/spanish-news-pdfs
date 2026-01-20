@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-19",
-  "generated_at": "2026-01-19T09:13:40.345419Z",
+  "date": "2026-01-20",
+  "generated_at": "2026-01-20T09:13:20.528624Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 72,
+  "total_stories": 77,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250120",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Los científicos descubren por qué algunas heridas no cicatrizan",
+      "headline_en": "Scientists Discover Why Some Wounds Refuse to Heal",
+      "summary_es": "Investigadores han identificado las razones científicas por las que ciertas heridas crónicas no cicatrizan correctamente. Este descubrimiento es importante para mejorar los tratamientos de heridas difíciles.",
+      "body_es": "Los científicos estudian por qué algunas heridas no cierran. Una herida normal cicatriza en semanas. Pero una herida crónica no mejora después de muchos meses. Los investigadores descubren que hay problemas en el tejido. El cuerpo no produce las células correctas para la curación. También hay inflamación que no disminuye. Los médicos ahora entienden mejor estos problemas. Este conocimiento ayuda a crear nuevos tratamientos. Los pacientes con heridas crónicas pueden recibir mejores cuidados. La evaluación correcta es importante para el tratamiento.",
+      "body_en": "Scientists are studying why some wounds do not close. A normal wound heals in weeks. But a chronic wound does not improve after many months. Researchers discover that there are problems in the tissue. The body does not produce the correct cells for healing. There is also inflammation that does not decrease. Doctors now understand these problems better. This knowledge helps create new treatments. Patients with chronic wounds can receive better care. Correct assessment is important for treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtM04yNV9FT1pOcTNyMnJGZHhhNWQ3dTdFSDJIeTdfR2VBWWJPVGREaUthR2MzZFVnSlFNLTd6elFYV3dQNldSbnpWZjU4NFlMWV9DeV93UXhQMWQyWG1TcWFNUGdTbjBZVF9YWnJZSQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-20/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o tejido del cuerpo",
+          "definition_en": "wound - injury to the skin or body tissue"
+        },
+        {
+          "word": "cicatrizar",
+          "definition_es": "proceso de cierre y curación de una herida",
+          "definition_en": "to heal - the process of closing and healing a wound"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "enrojecimiento e hinchazón del tejido",
+          "definition_en": "inflammation - redness and swelling of tissue"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen cuidadoso de la herida",
+          "definition_en": "assessment - careful examination of the wound"
+        }
+      ],
+      "added_at": "2026-01-20T09:13:20.528624Z"
+    },
+    {
+      "id": "diabetic-foot-20250120",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Bacterias resistentes a antibióticos dificultan la cicatrización de úlceras diabéticas",
+      "headline_en": "Antibiotic-Resistant Bacteria Complicate Healing in Diabetic Foot Wounds",
+      "summary_es": "Un nuevo estudio revela cómo las bacterias resistentes a antibióticos previenen la cicatrización de úlceras en el pie diabético. Los investigadores buscan métodos innovadores para neutralizar estas infecciones persistentes.",
+      "body_es": "Las úlceras del pie diabético representan un desafío importante en medicina. Las bacterias resistentes a antibióticos complican significativamente el proceso de curación. Estos microorganismos crean biofilms protectores que evitan la penetración de medicamentos. Los investigadores estudian estrategias para desactivar estos mecanismos de defensa bacteriana. El tratamiento tradicional con antibióticos no es suficiente en muchos casos. Es fundamental mejorar la evaluación del exudado para identificar el tipo de bacteria. Los profesionales sanitarios deben considerar nuevas terapias combinadas. Una intervención temprana y adecuada puede prevenir complicaciones como la amputación parcial del pie.",
+      "body_en": "Diabetic foot ulcers represent an important challenge in medicine. Antibiotic-resistant bacteria significantly complicate the healing process. These microorganisms create protective biofilms that prevent drug penetration. Researchers are studying strategies to deactivate these bacterial defense mechanisms. Traditional antibiotic treatment is insufficient in many cases. It is essential to improve the assessment of exudate to identify the bacterial type. Healthcare professionals should consider new combined therapies. Early and appropriate intervention can prevent complications such as partial foot amputation.",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcE5MeXRXMEIzVnA5TEFENWhDdXJka2xoWE1HRlROdERqQThEdGxJWlpoWlV3SHRTVE4wTnBSR1U1R3NvYjNpRE5UMjBaQzNCQUhxajlQTDQyZzhmWkdIVWFnaWRzb1JlU0tvVVFfTWJtZW51RHRnWmViSERNVU04MWtRTnNqYU1DUzVlVXdfWmZUSTRVdzhnQzM3MnMtRzd2T3hFUmZKVUdFazVfMVNnSU02bDB5emZORkVzeG5KUk9yV2g4ZjFBUUI2OEtHdw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-20/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "lesión profunda en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - deep skin lesion that does not heal easily"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida o lesión",
+          "definition_en": "exudate - fluid that drains from a wound or lesion"
+        },
+        {
+          "word": "biofilm",
+          "definition_es": "capa protectora de bacterias resistentes",
+          "definition_en": "biofilm - protective layer of resistant bacteria"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-01-20T09:13:20.528624Z"
+    },
+    {
+      "id": "burn-care-20250120",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Nueva piel bioingeniería ofrece esperanza para quemaduras graves",
+      "headline_en": "Bio-engineered Skin Grafts Offer New Hope for Severe Burn Injuries",
+      "summary_es": "Un avance revolucionario en injertos de piel bioingeniería promete mejorar significativamente el tratamiento de pacientes con quemaduras graves. Esta tecnología podría transformar la atención de quemados en hospitales.",
+      "body_es": "Los investigadores han desarrollado injertos de piel bioingeniería para tratar quemaduras severas. Este nuevo método combina células vivas con estructuras de soporte artificial. La piel convencional requiere donantes, lo que limita la disponibilidad. Los injertos bioingeniería pueden producirse en laboratorio en cantidades mayores. Estos tejidos tienen mejor integración con la piel del paciente. El proceso de epitelización es más rápido que con métodos tradicionales. Los pacientes experimentan menos dolor y complicaciones durante la curación. Los estudios demuestran que la cicatrización es más completa y estética. Esta tecnología reduce significativamente el tiempo de hospitalización y mejora la calidad de vida de los pacientes quemados.",
+      "body_en": "Researchers have developed bio-engineered skin grafts to treat severe burns. This new method combines living cells with artificial support structures. Conventional skin requires donors, which limits availability. Bio-engineered grafts can be produced in laboratories in larger quantities. These tissues integrate better with the patient's skin. The epithelialization process is faster than traditional methods. Patients experience less pain and complications during healing. Studies show that scarring is more complete and aesthetic. This technology significantly reduces hospitalization time and improves quality of life for burn patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamxlVnQ0OFNVemdoeFFvS1RFVFQtckg5d0FiTTBjWGZjZTBzeVY0cE5MdEpnLXdVMzF1RktYb1JYN183eXNvUzRqdHpiLVMtaXkzVGV5OXRlMWNIN0NKX2M1dGU1NWxIcWFUQXlLZGQ5aXhIbnJnWjlDU0QzTk54OHRrMXBSV2lmbXBFNXF1TmtfV0tnOTFDOEk0b0dWeC1rT3I4bWpUYVF5WFl0YUV4c0VnQmlDYkdS?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-20/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por fuego, calor o radiación",
+          "definition_en": "burn - skin injury caused by fire, heat, or radiation"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "tejido trasplantado para cubrir una herida",
+          "definition_en": "graft - tissue transplanted to cover a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de recubrimiento de una herida con piel nueva",
+          "definition_en": "epithelialization - process of covering a wound with new skin"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de la curación de una herida",
+          "definition_en": "scar - mark that remains after a wound heals"
+        }
+      ],
+      "added_at": "2026-01-20T09:13:20.528624Z"
+    },
+    {
+      "id": "surgical-wounds-20250120",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Analgésicos comunes pueden ralentizar la recuperación después de cirugía",
+      "headline_en": "Common Painkillers May Slow Recovery After Surgery",
+      "summary_es": "Un nuevo estudio revela que ciertos analgésicos utilizados comúnmente después de la cirugía podrían afectar negativamente el proceso de cicatrización de heridas quirúrgicas.",
+      "body_es": "Un reciente estudio científico examina el impacto de los analgésicos en la recuperación quirúrgica. Muchos pacientes reciben medicamentos antiinflamatorios después de la cirugía para controlar el dolor. Sin embargo, la investigación sugiere que estos fármacos pueden interferir con la cicatrización normal. La inflamación, aunque incómoda, es parte esencial del proceso de curación. Los antiinflamatorios reducen esta respuesta natural del cuerpo. Los cirujanos deben evaluar cuidadosamente qué analgésicos prescriben. La evaluación del dolor y la cicatrización requiere seguimiento regular. Los pacientes necesitan información clara sobre sus opciones de tratamiento. El balance entre controlar el dolor y favorecer la cicatrización es fundamental para una recuperación óptima de la herida quirúrgica.",
+      "body_en": "A recent scientific study examines the impact of painkillers on surgical recovery. Many patients receive anti-inflammatory medications after surgery to control pain. However, research suggests these drugs may interfere with normal healing. Inflammation, while uncomfortable, is an essential part of the healing process. Anti-inflammatory medications reduce this natural body response. Surgeons must carefully evaluate which painkillers they prescribe. Assessment of pain and healing requires regular follow-up. Patients need clear information about their treatment options. The balance between controlling pain and promoting healing is essential for optimal surgical wound recovery.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaV9sdm5lSFRmRld6X1dpUi1MRjVlaWhQUmxGVlRvM19pR3NwdzlUZFgwSlZ2UlQySHV2OTRBLVVpdWN1TVR2V0FXNjFZRnRnMEpONXF2X0ZGOUtBcm5JNVpTc0R3M3hEd0lmd2d1enpUNUpjNlNJWG9JQzdYRGw5Wl84ak4zSW9JY3NDZTZTaUZYTEx0a2lwMVRJdDRGTFBycHYyYmNnMjQ0UjJpdXpF?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-20/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión hecha durante una operación médica",
+          "definition_en": "surgical wound - injury made during a medical operation"
+        },
+        {
+          "word": "analgésico",
+          "definition_es": "medicamento para aliviar el dolor",
+          "definition_en": "painkiller - medication to relieve pain"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "respuesta del cuerpo a la lesión con enrojecimiento e hinchazón",
+          "definition_en": "inflammation - body's response to injury with redness and swelling"
+        },
+        {
+          "word": "recuperación",
+          "definition_es": "proceso de regreso a la salud después de una enfermedad o cirugía",
+          "definition_en": "recovery - process of returning to health after illness or surgery"
+        }
+      ],
+      "added_at": "2026-01-20T09:13:20.528624Z"
+    },
+    {
+      "id": "wound-research-20250120",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigadores descubren por qué algunas heridas se niegan a cicatrizar",
+      "headline_en": "Scientists Discover Why Some Wounds Refuse to Heal",
+      "summary_es": "Un estudio científico importante explica los mecanismos biológicos que impiden que ciertas heridas crónicas cicatricen correctamente. Este descubrimiento abre nuevas posibilidades de tratamiento.",
+      "body_es": "Los investigadores han identificado los mecanismos biológicos que bloquean la cicatrización en heridas crónicas. Las heridas normales cicatrizan en etapas predecibles: hemostasia, inflamación, proliferación y remodelación. Sin embargo, algunas heridas quedan atrapadas en la fase inflamatoria. La isquemia y la falta de oxígeno en el tejido impiden la granulación adecuada. La necrosis del tejido también contribuye al estancamiento del proceso. Los investigadores descubren que ciertos factores genéticos y ambientales interfieren con la epitelización. Una evaluación detallada del tejido necrótico es esencial para el desbridamiento correcto. Este conocimiento permite desarrollar tratamientos más específicos. Los médicos pueden ahora intervenir de manera más precisa en el proceso de curación de heridas crónicas.",
+      "body_en": "Researchers have identified the biological mechanisms that block healing in chronic wounds. Normal wounds heal in predictable stages: hemostasis, inflammation, proliferation, and remodeling. However, some wounds become trapped in the inflammatory phase. Ischemia and lack of oxygen in the tissue prevent proper granulation. Tissue necrosis also contributes to process stagnation. Researchers discover that certain genetic and environmental factors interfere with epithelialization. Detailed assessment of necrotic tissue is essential for proper debridement. This knowledge allows for more specific treatments to be developed. Doctors can now intervene more precisely in the healing process of chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtM04yNV9FT1pOcTNyMnJGZHhhNWQ3dTdFSDJIeTdfR2VBWWJPVGREaUthR2MzZFVnSlFNLTd6elFYV3dQNldSbnpWZjU4NFlMWV9DeV93UXhQMWQyWG1TcWFNUGdTbjBZVF9YWnJZSQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-20/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo y oxígeno en un tejido",
+          "definition_en": "ischemia - lack of blood flow and oxygen to tissue"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido nuevo que se forma durante la cicatrización",
+          "definition_en": "granulation - new tissue that forms during healing"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido corporal",
+          "definition_en": "necrosis - death of body tissue"
+        }
+      ],
+      "added_at": "2026-01-20T09:13:20.528624Z"
+    },
     {
       "id": "chronic-wounds-20250119",
       "category": "Chronic Wounds",
@@ -2665,6 +2850,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-19T09:13:40.345419Z",
+  "last_updated": "2026-01-20T09:13:20.528624Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
