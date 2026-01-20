@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-20",
+      "filename": "spanish_lesson_2026-01-20.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-20.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Políticos estadounidenses visitan Dinamarca por Groenlandia",
+          "headline_en": "American politicians visit Denmark over Greenland",
+          "body_es": "Un grupo de legisladores estadounidenses visitó Dinamarca esta semana. El objetivo del viaje fue hablar sobre Groenlandia. Las tensiones entre Estados Unidos y Dinamarca han crecido por este tema. Groenlandia es una isla muy grande que pertenece a Dinamarca. Tiene muchos recursos naturales importantes. Los políticos estadounidenses quieren mantener buenas relaciones con Dinamarca. Durante las reuniones, hablaron sobre cooperación en el Ártico. También discutieron temas de seguridad nacional. Los legisladores dijeron que Estados Unidos respeta la soberanía de Dinamarca. Sin embargo, consideran que Groenlandia es estratégicamente importante. La visita fue parte de una gira diplomática más amplia. Los políticos daneses recibieron bien a la delegación americana.",
+          "body_en": "A group of American lawmakers visited Denmark this week. The objective of the trip was to talk about Greenland. Tensions between the United States and Denmark have grown over this issue. Greenland is a very large island that belongs to Denmark. It has many important natural resources. American politicians want to maintain good relations with Denmark. During the meetings, they talked about Arctic cooperation. They also discussed national security issues. The lawmakers said that the United States respects Denmark's sovereignty. However, they consider Greenland strategically important. The visit was part of a broader diplomatic tour. Danish politicians welcomed the American delegation well.",
+          "source": "NPR"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "FMI predice crecimiento económico mundial estable para 2026",
+          "headline_en": "IMF predicts stable global economic growth for 2026",
+          "body_es": "El Fondo Monetario Internacional (FMI) publicó nuevas predicciones económicas. La organización espera un crecimiento económico estable en 2026. La inteligencia artificial será muy importante para este crecimiento. Las nuevas tecnologías de IA ayudarán a compensar otros problemas económicos. Los problemas de comercio internacional siguen siendo un desafío. Muchos países tienen conflictos comerciales que afectan la economía mundial. Sin embargo, el boom de la inteligencia artificial creará nuevas oportunidades. Las empresas de tecnología están invirtiendo mucho dinero en IA. Esto genera empleos y aumenta la productividad. El FMI también advierte sobre algunos riesgos. La inflación y los conflictos geopolíticos pueden afectar el crecimiento. Los expertos recomiendan políticas económicas cuidadosas para mantener la estabilidad global.",
+          "body_en": "The International Monetary Fund (IMF) published new economic predictions. The organization expects stable economic growth in 2026. Artificial intelligence will be very important for this growth. New AI technologies will help compensate for other economic problems. International trade problems continue to be a challenge. Many countries have trade conflicts that affect the global economy. However, the artificial intelligence boom will create new opportunities. Technology companies are investing a lot of money in AI. This generates jobs and increases productivity. The IMF also warns about some risks. Inflation and geopolitical conflicts can affect growth. Experts recommend careful economic policies to maintain global stability.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Israel anuncia nueva supercomputadora de inteligencia artificial",
+          "headline_en": "Israel announces new artificial intelligence supercomputer",
+          "body_es": "La Autoridad de Innovación de Israel anunció un proyecto tecnológico importante. El país construirá una nueva supercomputadora especializada en inteligencia artificial. Esta máquina será una de las más poderosas del mundo. La supercomputadora ayudará a científicos e investigadores israelíes. Podrán desarrollar nuevas aplicaciones de inteligencia artificial más rápido. El proyecto costará millones de dólares pero creará muchos empleos. Israel quiere ser líder mundial en tecnología de IA. El país ya tiene muchas empresas exitosas de alta tecnología. La nueva supercomputadora estará disponible para universidades y empresas. Los estudiantes también podrán usarla para sus investigaciones. El gobierno israelí cree que esta inversión mejorará la economía nacional. La máquina estará lista en los próximos dos años. Este proyecto muestra el compromiso de Israel con la innovación tecnológica.",
+          "body_en": "Israel's Innovation Authority announced an important technological project. The country will build a new supercomputer specialized in artificial intelligence. This machine will be one of the most powerful in the world. The supercomputer will help Israeli scientists and researchers. They will be able to develop new artificial intelligence applications faster. The project will cost millions of dollars but will create many jobs. Israel wants to be a world leader in AI technology. The country already has many successful high-tech companies. The new supercomputer will be available to universities and companies. Students will also be able to use it for their research. The Israeli government believes this investment will improve the national economy. The machine will be ready in the next two years. This project shows Israel's commitment to technological innovation.",
+          "source": "The Jerusalem Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "legisladores",
+          "syllables": "le-gis-la-DO-res",
+          "pos": "sustantivo",
+          "context": "Los legisladores estadounidenses visitaron Dinamarca para hablar sobre Groenlandia.",
+          "definition_es": "Personas que hacen las leyes en el gobierno",
+          "definition_en": "People who make laws in government; lawmakers"
+        },
+        {
+          "word": "tensiones",
+          "syllables": "ten-SIO-nes",
+          "pos": "sustantivo",
+          "context": "Las tensiones entre países han aumentado por el tema de Groenlandia.",
+          "definition_es": "Situaciones de conflicto o problemas entre grupos",
+          "definition_en": "Situations of conflict or problems between groups; tensions"
+        },
+        {
+          "word": "crecimiento",
+          "syllables": "cre-ci-MIEN-to",
+          "pos": "sustantivo",
+          "context": "El Fondo Monetario Internacional predice un crecimiento económico estable.",
+          "definition_es": "Aumento en tamaño, cantidad o importancia",
+          "definition_en": "Increase in size, quantity or importance; growth"
+        },
+        {
+          "word": "comercio",
+          "syllables": "co-MER-cio",
+          "pos": "sustantivo",
+          "context": "Los problemas de comercio internacional pueden afectar la economía mundial.",
+          "definition_es": "Actividad de comprar y vender productos entre países",
+          "definition_en": "Activity of buying and selling products between countries; trade"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando muchas industrias en el mundo.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans; artificial intelligence"
+        },
+        {
+          "word": "supercomputadora",
+          "syllables": "su-per-com-pu-ta-DO-ra",
+          "pos": "sustantivo",
+          "context": "Israel anunció una nueva supercomputadora para proyectos de inteligencia artificial.",
+          "definition_es": "Computadora muy poderosa y rápida para cálculos complejos",
+          "definition_en": "Very powerful and fast computer for complex calculations; supercomputer"
+        },
+        {
+          "word": "innovación",
+          "syllables": "in-no-va-CIÓN",
+          "pos": "sustantivo",
+          "context": "La Autoridad de Innovación israelí promueve nuevas tecnologías.",
+          "definition_es": "Creación de nuevas ideas o métodos",
+          "definition_en": "Creation of new ideas or methods; innovation"
+        },
+        {
+          "word": "predice",
+          "syllables": "pre-DI-ce",
+          "pos": "verbo",
+          "context": "El FMI predice que la economía mundial crecerá en 2026.",
+          "definition_es": "Dice lo que va a pasar en el futuro",
+          "definition_en": "Says what will happen in the future; predicts"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'legisladores'?",
+          "options": [
+            "Personas que estudian leyes",
+            "Personas que hacen las leyes en el gobierno",
+            "Personas que rompen las leyes",
+            "Personas que enseñan leyes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una 'supercomputadora' es:",
+          "options": [
+            "Una computadora muy cara",
+            "Una computadora muy poderosa y rápida",
+            "Una computadora muy pequeña",
+            "Una computadora muy antigua"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'crecimiento' en contexto económico?",
+          "options": [
+            "Disminución de precios",
+            "Aumento en la economía",
+            "Problemas financieros",
+            "Cambio de moneda"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Tensiones' se refiere a:",
+          "options": [
+            "Situaciones de paz",
+            "Situaciones de conflicto",
+            "Situaciones normales",
+            "Situaciones divertidas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué visitaron los legisladores estadounidenses a Dinamarca?",
+          "options": [
+            "Para hablar sobre comercio",
+            "Para hablar sobre Groenlandia",
+            "Para hablar sobre tecnología",
+            "Para hablar sobre turismo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según el FMI, ¿qué ayudará al crecimiento económico en 2026?",
+          "options": [
+            "Los problemas comerciales",
+            "La inteligencia artificial",
+            "La inflación",
+            "Los conflictos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué país anunció una nueva supercomputadora?",
+          "options": [
+            "Estados Unidos",
+            "Dinamarca",
+            "Israel",
+            "Reino Unido"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿A quién pertenece Groenlandia?",
+          "options": [
+            "A Estados Unidos",
+            "A Dinamarca",
+            "A Canadá",
+            "A Noruega"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuándo estará lista la supercomputadora israelí?",
+          "options": [
+            "En un año",
+            "En dos años",
+            "En tres años",
+            "En cinco años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué organización hizo predicciones sobre la economía mundial?",
+          "options": [
+            "La ONU",
+            "El FMI",
+            "La OTAN",
+            "La UE"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-20T09:07:01.273685"
+    },
+    {
       "date": "2026-01-19",
       "filename": "spanish_lesson_2026-01-19.pdf",
       "path": "pdfs/spanish_lesson_2026-01-19.pdf",
@@ -9572,7 +9794,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-19T09:06:23.018254",
+  "last_updated": "2026-01-20T09:07:01.273704",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
