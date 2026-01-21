@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-21",
+      "filename": "spanish_lesson_2026-01-21.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-21.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso aprueba presupuesto masivo antes del cierre gubernamental",
+          "headline_en": "Congress approves massive budget before government shutdown",
+          "body_es": "El Congreso de Estados Unidos aprobó un presupuesto masivo esta semana. El objetivo es evitar el cierre del gobierno federal. Los legisladores trabajaron hasta el último momento antes de la fecha límite. El presupuesto incluye fondos para diferentes programas gubernamentales. Sin embargo, hay conflictos sobre el presupuesto de ICE (Servicio de Inmigración). Los demócratas y republicanos tienen opiniones diferentes sobre inmigración. ICE es la agencia que controla la inmigración en el país. El debate continuará en las próximas semanas. Los ciudadanos esperan que no haya interrupciones en los servicios públicos. El presupuesto debe durar hasta el próximo año fiscal.",
+          "body_en": "The US Congress approved a massive budget this week. The goal is to avoid a federal government shutdown. Legislators worked until the last moment before the deadline. The budget includes funds for different government programs. However, there are conflicts over the ICE budget. Democrats and Republicans have different opinions about immigration. ICE is the agency that controls immigration in the country. The debate will continue in the coming weeks. Citizens hope there will be no interruptions in public services. The budget should last until the next fiscal year.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Wall Street sufre su mayor caída en tres meses por amenazas de aranceles",
+          "headline_en": "Wall Street suffers biggest drop in three months due to tariff threats",
+          "body_es": "Wall Street experimentó su peor día en tres meses esta semana. La bolsa de valores cayó significativamente durante la sesión de trading. La razón principal fue una amenaza del presidente Trump. Trump dijo que podría imponer aranceles a productos de Groenlandia. Esta declaración sorprendió a los inversores y causó pánico. Los aranceles son impuestos sobre productos importados de otros países. Cuando hay aranceles, los productos se vuelven más caros para los consumidores. Los mercados financieros reaccionaron negativamente a esta noticia. Muchas empresas perdieron valor en sus acciones. Los expertos dicen que las amenazas comerciales siempre afectan los mercados. La situación podría cambiar en los próximos días dependiendo de nuevas declaraciones.",
+          "body_en": "Wall Street experienced its worst day in three months this week. The stock market fell significantly during the trading session. The main reason was a threat from President Trump. Trump said he could impose tariffs on products from Greenland. This statement surprised investors and caused panic. Tariffs are taxes on products imported from other countries. When there are tariffs, products become more expensive for consumers. Financial markets reacted negatively to this news. Many companies lost value in their stocks. Experts say trade threats always affect markets. The situation could change in the coming days depending on new statements.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La inteligencia artificial y Trump dominan el foro económico de Davos",
+          "headline_en": "Artificial intelligence and Trump dominate the Davos economic forum",
+          "body_es": "El foro económico mundial de Davos se celebró esta semana en Suiza. Los temas más importantes fueron la inteligencia artificial y la política de Trump. Líderes de las empresas tecnológicas más grandes del mundo participaron en el evento. Hablaron sobre el futuro de la inteligencia artificial y su impacto en la economía. Trump también fue tema central de muchas conversaciones. Los empresarios discutieron cómo sus políticas afectarán el comercio mundial. Las grandes empresas tecnológicas como Google, Microsoft y Apple brillaron en el foro. Presentaron nuevas tecnologías y planes futuros. Los expertos dijeron que la inteligencia artificial cambiará muchos trabajos. El foro de Davos es uno de los eventos económicos más importantes del año. Reúne a políticos, empresarios y académicos de todo el mundo.",
+          "body_en": "The World Economic Forum in Davos was held this week in Switzerland. The most important topics were artificial intelligence and Trump's politics. Leaders from the world's biggest technology companies participated in the event. They talked about the future of artificial intelligence and its impact on the economy. Trump was also a central topic of many conversations. Business leaders discussed how his policies will affect global trade. Big tech companies like Google, Microsoft and Apple shone at the forum. They presented new technologies and future plans. Experts said artificial intelligence will change many jobs. The Davos forum is one of the most important economic events of the year. It brings together politicians, business leaders and academics from around the world.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El Congreso aprobó un presupuesto masivo para evitar el cierre del gobierno.",
+          "definition_es": "Plan de gastos e ingresos del gobierno",
+          "definition_en": "Government budget or funding plan"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno afectaría muchos servicios públicos.",
+          "definition_es": "Acción de cerrar o detener operaciones",
+          "definition_en": "Shutdown or closure"
+        },
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Trump amenazó con imponer aranceles a productos de Groenlandia.",
+          "definition_es": "Impuestos sobre productos importados",
+          "definition_en": "Tariffs or import taxes"
+        },
+        {
+          "word": "caída",
+          "syllables": "ca-Í-da",
+          "pos": "sustantivo",
+          "context": "Wall Street experimentó la mayor caída en tres meses.",
+          "definition_es": "Descenso o disminución de valor",
+          "definition_en": "Drop or fall"
+        },
+        {
+          "word": "amenaza",
+          "syllables": "a-me-NA-za",
+          "pos": "sustantivo",
+          "context": "La amenaza de aranceles causó pánico en los mercados.",
+          "definition_es": "Advertencia de posible daño o peligro",
+          "definition_en": "Threat"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial fue tema principal en Davos.",
+          "definition_es": "Tecnología que simula la inteligencia humana",
+          "definition_en": "Artificial intelligence"
+        },
+        {
+          "word": "brillar",
+          "syllables": "bri-LLAR",
+          "pos": "verbo",
+          "context": "Las empresas tecnológicas brillaron en el foro económico.",
+          "definition_es": "Destacar o sobresalir positivamente",
+          "definition_en": "To shine or stand out"
+        },
+        {
+          "word": "foro",
+          "syllables": "FO-ro",
+          "pos": "sustantivo",
+          "context": "El foro de Davos reúne a líderes mundiales cada año.",
+          "definition_es": "Reunión o encuentro para discutir temas importantes",
+          "definition_en": "Forum or meeting"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'presupuesto'?",
+          "options": [
+            "Plan de gastos del gobierno",
+            "Edificio del Congreso",
+            "Tipo de votación",
+            "Ley federal"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Los 'aranceles' son:",
+          "options": [
+            "Productos importados",
+            "Impuestos sobre importaciones",
+            "Empresas extranjeras",
+            "Acuerdos comerciales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'brillar' en el contexto de las empresas?",
+          "options": [
+            "Tener luz",
+            "Estar limpias",
+            "Destacar positivamente",
+            "Ser muy grandes"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un 'foro' es:",
+          "options": [
+            "Un tipo de tecnología",
+            "Una reunión para discutir temas",
+            "Una empresa grande",
+            "Un mercado financiero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué quiere evitar el Congreso con el nuevo presupuesto?",
+          "options": [
+            "Una guerra comercial",
+            "El cierre del gobierno",
+            "La subida de impuestos",
+            "Las protestas públicas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué causó la caída de Wall Street?",
+          "options": [
+            "Problemas en las empresas",
+            "Amenazas de aranceles de Trump",
+            "Crisis en Europa",
+            "Falta de inversores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Dónde se celebró el foro económico mundial?",
+          "options": [
+            "En Estados Unidos",
+            "En Alemania",
+            "En Suiza",
+            "En Francia"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuáles fueron los dos temas principales en Davos?",
+          "options": [
+            "Economía y política",
+            "Inteligencia artificial y Trump",
+            "Tecnología y medio ambiente",
+            "Comercio y educación"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuánto tiempo duró la peor caída de Wall Street mencionada?",
+          "options": [
+            "Fue la peor en un mes",
+            "Fue la peor en tres meses",
+            "Fue la peor en seis meses",
+            "Fue la peor en un año"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué agencia controla la inmigración en Estados Unidos?",
+          "options": [
+            "FBI",
+            "CIA",
+            "ICE",
+            "NSA"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-21T09:06:28.390319"
+    },
+    {
       "date": "2026-01-20",
       "filename": "spanish_lesson_2026-01-20.pdf",
       "path": "pdfs/spanish_lesson_2026-01-20.pdf",
@@ -9794,7 +10016,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-20T09:07:01.273704",
+  "last_updated": "2026-01-21T09:06:28.390337",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
