@@ -1,11 +1,159 @@
 {
-  "date": "2026-01-20",
-  "generated_at": "2026-01-20T09:13:20.528624Z",
+  "date": "2026-01-21",
+  "generated_at": "2026-01-21T09:11:25.832739Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 77,
-  "new_today": 5,
+  "total_stories": 81,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250121",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo tratamiento neutraliza bacterias resistentes en heridas crónicas",
+      "headline_en": "New treatment neutralizes antibiotic-resistant bacteria in chronic wounds",
+      "summary_es": "Investigadores descubren una forma nueva de desactivar bacterias peligrosas que impiden la curación de heridas crónicas. Este método es más efectivo que los antibióticos tradicionales.",
+      "body_es": "Un estudio reciente identifica una estrategia innovadora para tratar heridas crónicas infectadas. Las bacterias resistentes causan problemas graves en la cicatrización. Los investigadores neutralizan el transporte de electrones extracelular de las bacterias. Esto desactiva las defensas de los microorganismos. Sin sus mecanismos de defensa, las bacterias mueren más fácilmente. El tratamiento permite que el cuerpo cure la herida naturalmente. Este método es importante porque muchas bacterias no responden a los antibióticos tradicionales. Los resultados son prometedores para pacientes con heridas que no cicatrizan bien. El equipo continúa estudiando cómo aplicar esta técnica en la práctica clínica diaria.",
+      "body_en": "A recent study identifies an innovative strategy for treating infected chronic wounds. Antibiotic-resistant bacteria cause serious problems in wound healing. Researchers neutralize the extracellular electron transport of bacteria. This disables the microorganisms' defense mechanisms. Without their defenses, bacteria die more easily. The treatment allows the body to heal the wound naturally. This method is important because many bacteria do not respond to traditional antibiotics. Results are promising for patients with wounds that do not heal well. The team continues studying how to apply this technique in daily clinical practice.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1JSTWA2dkZxS05SZlBjajBhdklmRUZHWFRTSlNid09kb250VU8wWjVtQWlfajU2M3ZSd2N6TzB3SFJRTEdlOC01Sk1XNEs4N1ZBT2J6SzFOcGx6RUExX2ZPMXV6Y21YNUt4MnZDYjJwcWQ3VGF5WVFsMTN6VE1uenhXeXlxQWJCcTkzaGlnN3lqUXhwbWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-21/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "bacteria resistente",
+          "definition_es": "microorganismo que no responde a antibióticos",
+          "definition_en": "antibiotic-resistant bacteria - microorganism not responsive to antibiotics"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz y curación",
+          "definition_en": "healing - process of scar formation and wound repair"
+        },
+        {
+          "word": "defensa",
+          "definition_es": "mecanismo que protege a los microorganismos",
+          "definition_en": "defense - mechanism that protects microorganisms"
+        }
+      ],
+      "added_at": "2026-01-21T09:11:25.832739Z"
+    },
+    {
+      "id": "diabetic-foot-20250121",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "blue",
+      "headline_es": "Descubren método para desactivar bacterias que retrasan cicatrización de heridas",
+      "headline_en": "Researchers discover method to neutralize bacteria that slow wound healing",
+      "summary_es": "Un estudio de Singapur revela una técnica revolucionaria que desactiva las defensas de bacterias resistentes a antibióticos, acelerando la curación de heridas crónicas y diabéticas.",
+      "body_es": "Investigadores singapurenses han desarrollado un método innovador para combatir infecciones en heridas crónicas y del pie diabético. El procedimiento neutraliza el transporte de electrones extracelular que utilizan las bacterias resistentes para defenderse. Cuando se desactiva este mecanismo, el sistema inmunológico del cuerpo puede eliminar más eficientemente los microorganismos invasores. Los pacientes con diabetes frecuentemente desarrollan úlceras en los pies que se infectan fácilmente y cicatrizan lentamente. Las bacterias multirresistentes complican el tratamiento convencional con antibióticos. Este nuevo enfoque representa un avance significativo porque permite que las defensas naturales del cuerpo tomen control. Los investigadores observaron que las heridas tratadas con esta técnica mostraban mayor epitelización y reducción del exudado inflamatorio. El equipo planifica ampliar los ensayos clínicos en próximos meses.",
+      "body_en": "Singaporean researchers have developed an innovative method to combat infections in chronic and diabetic foot wounds. The procedure neutralizes the extracellular electron transport that antibiotic-resistant bacteria use for defense. When this mechanism is deactivated, the body's immune system can more efficiently eliminate invading microorganisms. Patients with diabetes frequently develop foot ulcers that become infected easily and heal slowly. Multidrug-resistant bacteria complicate conventional antibiotic treatment. This new approach represents a significant breakthrough because it allows the body's natural defenses to take control. Researchers observed that wounds treated with this technique showed greater epithelialization and reduced inflammatory exudate. The team plans to expand clinical trials in coming months.",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXBPY1AzV2FleDVjeDV3bWZRRTdzRG9UOUQ0MlY3VHVaU2t3UVpZVjNIZld1cmxGOUp5YUczMGRTbDFlWGpTV0poRHd4NHRkQldjQVN0SWRnWXNmQkpQZG5Ha1BtalJYOE9iUnpRQlFkR3VfNXNBLURsWXJ1OHRJMGpUeTFYdmpqYVFxZURVWGVyMGNhSmhGakkyN0ZFTzctNXgwU0NHbmVyTXQ5MFBWeHNxVko5VkhWZUEyMUJkdzlGT2R2VFVz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-21/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "herida abierta en el pie de pacientes diabéticos que cicatriza lentamente",
+          "definition_en": "diabetic foot ulcer - open wound on diabetic patient's foot that heals slowly"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nuevo tejido epitelial en la herida",
+          "definition_en": "epithelialization - formation of new epithelial tissue in the wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de la herida durante la cicatrización",
+          "definition_en": "exudate - fluid that seeps from wound during healing"
+        },
+        {
+          "word": "multirresistente",
+          "definition_es": "bacteria que resiste varios tipos de antibióticos",
+          "definition_en": "multidrug-resistant - bacteria resistant to multiple antibiotics"
+        }
+      ],
+      "added_at": "2026-01-21T09:11:25.832739Z"
+    },
+    {
+      "id": "surgical-wounds-20250121",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "green",
+      "headline_es": "Estrategias de enfermería mejoran cicatrización posoperatoria en pacientes mayores",
+      "headline_en": "Nursing interventions improve postoperative wound healing in older patients",
+      "summary_es": "Un nuevo estudio analiza intervenciones de enfermería específicas que aceleran la cicatrización de heridas quirúrgicas en adultos mayores tras cirugía de pulmón.",
+      "body_es": "Un análisis reciente de Cancer Nursing Today examina las estrategias de enfermería más efectivas para mejorar la cicatrización de heridas quirúrgicas en pacientes geriátricos con cáncer de pulmón. La edad avanzada complica el proceso de curación porque disminuye la vascularización y la respuesta inmunológica. Los investigadores identificaron intervenciones específicas que favorecen la epitelización y reducen complicaciones postoperatorias. Estas incluyen evaluaciones frecuentes de la herida, desbridamiento de tejido necrótico, y aplicación correcta de apósitos. El control del edema perilesional mediante vendajes de compresión moderada también demostró ser beneficioso. La higiene meticulosa de la herida previene infecciones secundarias que retrasan la granulación. Los resultados muestran que pacientes que recibieron estas intervenciones estructuradas tuvieron menor tiempo de hospitalización y menor incidencia de dehiscencia de sutura.",
+      "body_en": "A recent analysis in Cancer Nursing Today examines the most effective nursing strategies for improving surgical wound healing in geriatric patients with lung cancer. Advanced age complicates the healing process because it decreases vascularization and immune response. Researchers identified specific interventions that promote epithelialization and reduce postoperative complications. These include frequent wound assessments, debridement of necrotic tissue, and correct dressing application. Control of perilesional edema through moderate compression bandaging also proved beneficial. Meticulous wound hygiene prevents secondary infections that delay granulation. Results show that patients who received these structured interventions had shorter hospitalization times and lower incidence of suture dehiscence.",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT1RoOXd0Nkc2MUpqMXpQQlZrTjJMRUcyM0lRUU4wVHlRM3Y4QTBlelRwcHo0YVB5MV91TjdIdml6UVZLb3FHckVSbnhZMUpBWTlSOS0xNUNqTDA3Mi01bDRDcEhuYmcteDlCSHNVTXRvM0JjSDFNUkdTa3JJMjladzRTTy1Gb0ZPald1d3dYNU82ZXA4bVh1bFhvZ3YzM2FPejlxRnJiX2k4SzhidUFnZVRkbi14b1hEUnA4SGtzY0pkNUNVTXBMR1dOUV9tcHdSd0xFcjA2OGx5SS1tdUg0WW4wOWRqb1p1MzZF?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-21/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dehiscencia",
+          "definition_es": "reapertura de una herida quirúrgica tras la sutura",
+          "definition_en": "dehiscence - reopening of a surgical wound after closure"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido de granulación en la herida",
+          "definition_en": "granulation - formation of granulation tissue in wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material o vendaje que se coloca sobre una herida",
+          "definition_en": "dressing - material or bandage placed over a wound"
+        }
+      ],
+      "added_at": "2026-01-21T09:11:25.832739Z"
+    },
+    {
+      "id": "wound-research-20250121",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Enfermedades raras impulsan innovación en investigación de curación de heridas",
+      "headline_en": "Rare diseases drive innovation in wound healing research",
+      "summary_es": "El Foro Económico Mundial destaca cómo las enfermedades raras se convierten en campo de prueba para desarrollar nuevas tecnologías médicas aplicables a heridas complejas.",
+      "body_es": "Según el Foro Económico Mundial, las enfermedades raras actúan como catalizadores importantes para la innovación en medicina de heridas. Los investigadores desarrollan soluciones específicas para tratar condiciones poco frecuentes que presentan cicatrización deficiente o anómala. Estos avances frecuentemente tienen aplicaciones más amplias en heridas crónicas comunes. El estudio de trastornos raros como la epidermólisis bullosa o el síndrome de Ehlers-Danlos ha generado nuevas terapias moleculares. Estas investigaciones mejoran la comprensión de los mecanismos de cicatrización a nivel celular y molecular. Los descubrimientos en biotecnología y medicina regenerativa del campo de enfermedades raras se adaptan posteriormente para heridas diabéticas, úlceras por presión y quemaduras graves. La colaboración entre centros de investigación especializados acelera el desarrollo de apósitos inteligentes y terapias biologales innovadoras.",
+      "body_en": "According to the World Economic Forum, rare diseases act as important catalysts for innovation in wound medicine research. Researchers develop specific solutions to treat uncommon conditions that present impaired or abnormal healing. These advances frequently have broader applications in common chronic wounds. The study of rare disorders such as epidermolysis bullosa or Ehlers-Danlos syndrome has generated new molecular therapies. This research improves understanding of healing mechanisms at cellular and molecular levels. Discoveries in biotechnology and regenerative medicine from the rare disease field are later adapted for diabetic wounds, pressure ulcers, and severe burns. Collaboration between specialized research centers accelerates development of smart dressings and innovative biological therapies.",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNU1kZU9QNXVJLS0zZjh4QVk4NDVJelNPRklpTVZDMFJlWEpsSzZHaUVHVXlZVG1QcjRJNGVkODQ0cnVZNS1IWnRqZ1cwYWhHLS1aQmFoQmNLSmRGd2JFNS1Ed1Jzb3B0VEJqbUhMaHVmTndHXzl3SzZPWTlRb2E0NlJNcw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-21/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "epidermólisis bullosa",
+          "definition_es": "enfermedad rara que causa ampollas y úlceras en la piel",
+          "definition_en": "epidermolysis bullosa - rare disease causing blisters and skin ulcers"
+        },
+        {
+          "word": "cicatrización anómala",
+          "definition_es": "proceso de curación que no sigue el patrón normal",
+          "definition_en": "abnormal healing - healing process that does not follow normal pattern"
+        },
+        {
+          "word": "apósito inteligente",
+          "definition_es": "vendaje que monitorea y responde a cambios en la herida",
+          "definition_en": "smart dressing - bandage that monitors and responds to wound changes"
+        },
+        {
+          "word": "terapia biológica",
+          "definition_es": "tratamiento usando sustancias biológicas naturales o producidas",
+          "definition_en": "biologic therapy - treatment using natural or manufactured biological substances"
+        }
+      ],
+      "added_at": "2026-01-21T09:11:25.832739Z"
+    },
     {
       "id": "chronic-wounds-20250120",
       "category": "Chronic Wounds",
@@ -2850,6 +2998,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-20T09:13:20.528624Z",
+  "last_updated": "2026-01-21T09:11:25.832739Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
