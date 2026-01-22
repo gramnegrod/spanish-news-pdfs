@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-21",
-  "generated_at": "2026-01-21T09:11:25.832739Z",
+  "date": "2026-01-22",
+  "generated_at": "2026-01-22T09:13:00.490495Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 81,
-  "new_today": 4,
+  "total_stories": 86,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250122",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Las bacterias bloquean la curación de heridas crónicas",
+      "headline_en": "Bacterial Metabolism Blocks Healing in Chronic Wounds",
+      "summary_es": "Los investigadores descubren que el metabolismo bacteriano impide que las heridas crónicas sanen correctamente. Este hallazgo puede ayudar a desarrollar nuevos tratamientos.",
+      "body_es": "Las heridas crónicas no cierran bien porque las bacterias interfieren en el proceso de curación. Los científicos estudian cómo el metabolismo bacteriano bloquea la cicatrización. Las heridas crónicas afectan a muchos pacientes. Las bacterias producen sustancias que evitan que la piel nueva crezca. Los investigadores trabajan para entender este problema. El objetivo es crear tratamientos nuevos y efectivos. Si controlamos las bacterias, podemos mejorar la curación. Este descubrimiento es importante para los pacientes con heridas difíciles. Los enfermeros deben conocer esta información para ayudar mejor.",
+      "body_en": "Chronic wounds do not close properly because bacteria interfere with the healing process. Scientists study how bacterial metabolism blocks scar formation. Chronic wounds affect many patients. Bacteria produce substances that prevent new skin from growing. Researchers work to understand this problem. The goal is to create new and effective treatments. If we control bacteria, we can improve healing. This discovery is important for patients with difficult wounds. Nurses should know this information to better help patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVF9RbS02alItQl9mWGliY1J2RWlhRDh4VzF4QXpYdFdoRzZkNEhQTjRiVWRXbnRQcHZBekhfX0MzVVZ6NHRHVlpSTk5DZ2QzTXhUeUZzZVFwaWFTSWF6SVF4VWRHeVVfNFFJY0t5YVh3NUNTR1VsUGVpbG5NNzBHazAxN1gxd1kxV240SVVmWVVBR3RZUXhaU1FzOWlDVElDVXNEMXd0aWZhZ1VaeDJDUg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-22/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "metabolismo bacteriano",
+          "definition_es": "procesos químicos de las bacterias",
+          "definition_en": "bacterial metabolism - chemical processes of bacteria"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo",
+          "definition_en": "scarring - process of new tissue formation"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanación de una herida",
+          "definition_en": "healing - process of wound recovery"
+        }
+      ],
+      "added_at": "2026-01-22T09:13:00.490495Z"
+    },
+    {
+      "id": "diabetic-foot-20250122",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Iniciativa educativa previene amputaciones por diabetes",
+      "headline_en": "Physician-Led Education Initiative Launches to Help Prevent Diabetes-Related Amputations",
+      "summary_es": "Un programa de educación liderado por médicos y alineado con CMS busca prevenir amputaciones relacionadas con diabetes. La iniciativa proporciona capacitación para profesionales de salud.",
+      "body_es": "Una nueva iniciativa educativa liderada por médicos ha sido lanzada para prevenir amputaciones de pies relacionadas con diabetes. El programa está alineado con los requisitos de CMS (Centers for Medicare & Medicaid Services). Los profesionales de salud reciben capacitación sobre cuidado de pies diabéticos. La diabetes causa complicaciones graves en los pies si no se trata adecuadamente. Las úlceras de pie diabético pueden llevar a infecciones severas y amputaciones. Esta iniciativa proporciona educación práctica a enfermeras y especialistas en heridas. Los pacientes también reciben información sobre cómo prevenir problemas en los pies. El programa enfatiza la evaluación regular y el cuidado preventivo. Los profesionales aprenden a identificar signos de riesgo tempranamente. Esta educación puede salvar extremidades y mejorar la calidad de vida de los pacientes diabéticos.",
+      "body_en": "A new physician-led education initiative has been launched to prevent diabetes-related foot amputations. The program is aligned with CMS (Centers for Medicare & Medicaid Services) requirements. Healthcare professionals receive training on diabetic foot care. Diabetes causes serious foot complications if not treated properly. Diabetic foot ulcers can lead to severe infections and amputations. This initiative provides practical education to nurses and wound care specialists. Patients also receive information on how to prevent foot problems. The program emphasizes regular assessment and preventive care. Professionals learn to identify risk signs early. This education can save limbs and improve quality of life for diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObVRSa3Rwd2NPMmZHNWswcUZvY2NWcE80cmNlQ05SNXB1NGhZclNkajgyLWVKcVhRblNRWDhOV01oT0RENkNkVkJtYlI2MGMxVHM3QVgyTGJQT2U5NXFqRFFIZUlOc1JDNDBkdWV0aXBINjJIdUx2MzZ3a1Frc2I2S1BrOFhkd1Vp?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-22/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación del pie causada por diabetes",
+          "definition_en": "diabetic foot - foot complication caused by diabetes"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel con pérdida de tejido",
+          "definition_en": "ulcer - open wound with tissue loss"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        },
+        {
+          "word": "evaluación preventiva",
+          "definition_es": "examen para evitar enfermedades futuras",
+          "definition_en": "preventive assessment - examination to avoid future disease"
+        }
+      ],
+      "added_at": "2026-01-22T09:13:00.490495Z"
+    },
+    {
+      "id": "burn-care-20250122",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Piel de pez bangus trata quemaduras graves",
+      "headline_en": "Bangus Skin Can Treat Patients with Burn and Other Major Injuries—Study",
+      "summary_es": "Un estudio demuestra que la piel de pez bangus puede ser utilizada como tratamiento para quemaduras y lesiones graves. Este descubrimiento abre nuevas posibilidades en el cuidado de heridas.",
+      "body_es": "Una investigación reciente ha demostrado que la piel de pez bangus puede utilizarse eficazmente para tratar quemaduras y otras lesiones graves. Los investigadores descubrieron que este material biológico tiene propiedades regenerativas. La piel del pez bangus contiene colágeno y otras proteínas beneficiosas. Los pacientes con quemaduras extensas necesitan injertos de piel para sanar adecuadamente. Los métodos tradicionales utilizan piel humana o sintética, que tienen limitaciones. La piel de bangus presenta una alternativa abundante y accesible. El material reduce la infección y promueve la cicatrización. Los estudios muestran que acelera la epitelización y disminuye el dolor. Esta terapia podría beneficiar a pacientes en países con recursos limitados. Los profesionales de heridas exploran esta opción como tratamiento innovador y costo-efectivo.",
+      "body_en": "Recent research has demonstrated that bangus fish skin can be effectively used to treat burns and other serious injuries. Researchers discovered that this biological material has regenerative properties. Bangus fish skin contains collagen and other beneficial proteins. Patients with extensive burns need skin grafts to heal properly. Traditional methods use human or synthetic skin, which have limitations. Bangus skin presents an abundant and accessible alternative. The material reduces infection and promotes scarring. Studies show it accelerates epithelialization and decreases pain. This therapy could benefit patients in countries with limited resources. Wound care professionals explore this option as an innovative and cost-effective treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkphdnVTMEx4bkVPNTdCWWtoeVFMU19FcHFiNVJSb0dYYmdEUGlLeFY2NzF4WEF3SnhaSTRicFRsMEVfczE2QWpKcUx6WFNBNEM5WTNTa3VKUHV2SXlHYXAzS0hFeVlab3QzLWhVcmpuYWJJdzhDSG9ubGkzbWZlT0pURmpVaFUyMEpKUkRmaGRFX1ZMZ3BVTHcwdHVfQk1aMlJyMGRDQWxWeEtTWEE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-22/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o químicos",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de piel para cubrir heridas",
+          "definition_en": "skin graft - transplant of skin to cover wounds"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel",
+          "definition_en": "epithelialization - process of new skin formation"
+        },
+        {
+          "word": "colágeno",
+          "definition_es": "proteína estructural que forma la piel",
+          "definition_en": "collagen - structural protein that forms skin"
+        }
+      ],
+      "added_at": "2026-01-22T09:13:00.490495Z"
+    },
+    {
+      "id": "surgical-wounds-20250122",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Herramientas de IA guían el cuidado después de cirugía Mohs",
+      "headline_en": "Reliability of AI Tools for Post-Mohs Patient Guidance",
+      "summary_es": "Se evalúa la confiabilidad de herramientas de inteligencia artificial para guiar a pacientes después de cirugía de Mohs. La tecnología ayuda a mejorar la adherencia al cuidado de heridas.",
+      "body_es": "Un estudio reciente examina la confiabilidad de las herramientas de inteligencia artificial para proporcionar orientación a pacientes después de la cirugía de Mohs. La cirugía de Mohs es un procedimiento quirúrgico de precisión para extirpar cánceres de piel. Los pacientes requieren cuidado específico de la herida después de esta intervención. Las herramientas de IA pueden proporcionar instrucciones detalladas sobre vendajes y cuidado de heridas. Estos sistemas automáticos mejoran la adherencia del paciente a las recomendaciones médicas. Los investigadores evaluaron qué tan precisas y útiles son estas herramientas digitales. El cuidado postoperatorio apropiado es crucial para prevenir infecciones y cicatrices. Las plataformas de IA ofrecen acceso inmediato a información personalizada. Los profesionales de salud supervisan que los pacientes sigan las instrucciones correctamente. Esta tecnología puede reducir complicaciones y mejorar los resultados estéticos de la cirugía.",
+      "body_en": "A recent study examines the reliability of artificial intelligence tools to provide guidance to patients after Mohs surgery. Mohs surgery is a precision surgical procedure to remove skin cancers. Patients require specific wound care after this intervention. AI tools can provide detailed instructions on dressings and wound care. These automated systems improve patient adherence to medical recommendations. Researchers evaluated how accurate and useful these digital tools are. Appropriate postoperative care is crucial to prevent infections and scarring. AI platforms offer immediate access to personalized information. Healthcare professionals supervise that patients follow correct instructions. This technology can reduce complications and improve cosmetic outcomes of surgery.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkFYODZERHF3MUlReGJyZ2FPT3FDdWxzWlN5LXc1Zk9uRU5VQUROMURZVGZ6dGhnV1p3NXNpZmFybzNMc3Y4b0JyTjJhYXBpaDVmZTNZRUM3ZDNlWVN6Ty1PcWx1dmFCS0NxaC1UREQySkkxRnk1dTlzLVJfSGZvYW1oQVhzb241cmIxN1YySTBVUFQxVzN3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-22/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cirugía de Mohs",
+          "definition_es": "procedimiento quirúrgico de precisión para cáncer de piel",
+          "definition_en": "Mohs surgery - precision surgical procedure for skin cancer"
+        },
+        {
+          "word": "cuidado postoperatorio",
+          "definition_es": "cuidado después de una operación quirúrgica",
+          "definition_en": "postoperative care - care after surgical operation"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz",
+          "definition_en": "scarring - process of scar formation"
+        },
+        {
+          "word": "adherencia",
+          "definition_es": "cumplimiento de las recomendaciones médicas",
+          "definition_en": "adherence - compliance with medical recommendations"
+        }
+      ],
+      "added_at": "2026-01-22T09:13:00.490495Z"
+    },
+    {
+      "id": "wound-research-20250122",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Instituto Gates financia investigación en curación de heridas",
+      "headline_en": "Gates Institute Awards $1.5 Million from Gates Grubstake Fund to CU Researchers",
+      "summary_es": "El Instituto Gates ha otorgado 1.5 millones de dólares a investigadores de la Universidad de Colorado para proyectos innovadores en salud. La financiación apoya avances en cuidado de heridas.",
+      "body_es": "El Instituto Gates ha asignado 1.5 millones de dólares del Fondo Gates Grubstake a investigadores de la Universidad de Colorado Anschutz. Esta financiación apoya proyectos innovadores en salud y medicina. Los investigadores de CU trabajan en tecnologías avanzadas para la curación de heridas. El Gates Grubstake Fund proporciona recursos para ideas de investigación promisoras. Los científicos exploran nuevos tratamientos y métodos de evaluación de heridas. Este tipo de inversión acelera el desarrollo de soluciones médicas efectivas. La investigación en heridas incluye estudios sobre infecciones y regeneración de tejidos. Los fondos permiten a los investigadores realizar ensayos clínicos y pruebas de laboratorio. El trabajo de CU contribuye al avance global en cuidado de heridas crónicas. Estos proyectos pueden producir tratamientos revolucionarios que beneficien a muchos pacientes.",
+      "body_en": "The Gates Institute has allocated $1.5 million from the Gates Grubstake Fund to researchers at the University of Colorado Anschutz. This funding supports innovative projects in health and medicine. CU researchers work on advanced technologies for wound healing. The Gates Grubstake Fund provides resources for promising research ideas. Scientists explore new treatments and wound assessment methods. This type of investment accelerates development of effective medical solutions. Wound research includes studies on infections and tissue regeneration. The funds enable researchers to conduct clinical trials and laboratory tests. CU's work contributes to global advancement in chronic wound care. These projects may produce revolutionary treatments that benefit many patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN28yOThfc3ZQdnRaYWZWWjhrZ242Y3JHRkRYdVJDNjZaVU5JWWxpNS1PU3oxSWVTWTV2czltTDh3MUdNMFcwbTJMRXJ5RkdCWUZlWkpKaXBSeVh0alhKSlFNcDc1OFZfclAxY3JWUTJla0Y2OFNTYjFHQk9fR0NHYjZNcGRyZ2hpTklRMXdndU1qTXlPSEdwMGNsdjlDRU1mTEg1b1hFV3V0RGhvN1UzVmZn0gHCAUFVX3lxTE56TTVwTU82TlEzeHRHX1ZQcVJYU096MGRaT2tmZWctZlk3VUFsLV81eUxLUi01cjBBdHJuNVN2eV82TnRRd2gzbGZ5d2I5WFQzMWxHT0piVDBQaXp2d3hrWU8yMktKYy1xWS1CNk5HTm5EN0Y2aERzcXFHUlpPN3FvVmJhQUdXd3plajFVS0tMVVUxa0JYdWNObDUtbW9kSXp4QThiUUhWbXVVMVlpWEphdGxZWWVvQ0VZcjdIVG1YbUJ3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-22/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "investigación",
+          "definition_es": "estudio sistemático para descubrir conocimientos nuevos",
+          "definition_en": "research - systematic study to discover new knowledge"
+        },
+        {
+          "word": "curación de heridas",
+          "definition_es": "proceso de sanación y regeneración de tejidos",
+          "definition_en": "wound healing - process of tissue repair and regeneration"
+        },
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio de prueba con pacientes humanos",
+          "definition_en": "clinical trial - study test with human patients"
+        },
+        {
+          "word": "regeneración de tejidos",
+          "definition_es": "crecimiento y restauración de tejido dañado",
+          "definition_en": "tissue regeneration - growth and restoration of damaged tissue"
+        }
+      ],
+      "added_at": "2026-01-22T09:13:00.490495Z"
+    },
     {
       "id": "chronic-wounds-20250121",
       "category": "Chronic Wounds",
@@ -2998,6 +3183,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-21T09:11:25.832739Z",
+  "last_updated": "2026-01-22T09:13:00.490495Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
