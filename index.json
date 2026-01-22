@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-22",
+      "filename": "spanish_lesson_2026-01-22.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-22.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Congreso declara a los Clinton en desacato por no colaborar",
+          "headline_en": "Congress declares Clintons in contempt for not cooperating",
+          "body_es": "Un comité del Congreso de Estados Unidos votó para declarar a Bill y Hillary Clinton en desacato. Esto significa que el comité cree que los Clinton no siguieron las reglas oficiales. El comité de supervisión de la Cámara de Representantes tomó esta decisión después de investigar varios temas. Los Clinton fueron presidente y primera dama, y después Hillary fue senadora y secretaria de Estado. El desacato al Congreso es algo serio en la política estadounidense. Cuando alguien está en desacato, puede tener problemas legales. Esta situación muestra las tensiones políticas que existen en Washington. El caso continuará en los próximos días.",
+          "body_en": "A US Congress committee voted to declare Bill and Hillary Clinton in contempt. This means the committee believes the Clintons did not follow official rules. The House Oversight committee made this decision after investigating various topics. The Clintons were president and first lady, and later Hillary was senator and Secretary of State. Contempt of Congress is serious in American politics. When someone is in contempt, they can have legal problems. This situation shows the political tensions that exist in Washington. The case will continue in the coming days.",
+          "source": "NPR"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Wall Street sube después de acuerdo comercial y aranceles evitados",
+          "headline_en": "Wall Street rises after trade agreement and avoided tariffs",
+          "body_es": "Los mercados financieros de Wall Street terminaron con números positivos ayer. Los inversores están contentos porque se firmó un nuevo acuerdo comercial con Groenlandia. También se evitaron aranceles que podían afectar el comercio internacional. Los aranceles son impuestos especiales que hacen más caros los productos de otros países. Cuando se evitan estos impuestos, las empresas pueden vender más fácilmente. El acuerdo incluye reglas para el comercio entre Estados Unidos y Groenlandia. Los expertos dicen que esto es bueno para la economía. Las acciones de muchas empresas subieron de precio. Los inversores esperan que continúen las buenas noticias económicas en las próximas semanas.",
+          "body_en": "Wall Street financial markets ended with positive numbers yesterday. Investors are happy because a new trade agreement with Greenland was signed. Tariffs that could affect international trade were also avoided. Tariffs are special taxes that make products from other countries more expensive. When these taxes are avoided, companies can sell more easily. The agreement includes rules for trade between the United States and Greenland. Experts say this is good for the economy. Many companies' stocks went up in price. Investors hope good economic news will continue in the coming weeks.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "CEO de Microsoft dice que la IA debe expandirse más allá de grandes empresas",
+          "headline_en": "Microsoft CEO says AI must expand beyond big companies",
+          "body_es": "El director ejecutivo de Microsoft advirtió sobre los riesgos de la inteligencia artificial. Él dice que la IA no puede estar solo en las manos de las empresas más grandes de tecnología. Si esto pasa, puede crear una \"burbuja\" peligrosa en el mercado. Una burbuja ocurre cuando los precios suben demasiado rápido y después bajan de forma violenta. Microsoft quiere que más empresas pequeñas y medianas usen inteligencia artificial. Esto puede hacer la tecnología más segura y útil para todos. Las grandes empresas tecnológicas como Microsoft, Google y Apple controlan mucho del mercado de IA. El CEO cree que es mejor compartir esta tecnología con más compañías para evitar problemas futuros.",
+          "body_en": "Microsoft's CEO warned about the risks of artificial intelligence. He says AI cannot be only in the hands of the biggest technology companies. If this happens, it can create a dangerous \"bubble\" in the market. A bubble occurs when prices rise too quickly and then fall violently. Microsoft wants more small and medium companies to use artificial intelligence. This can make technology safer and more useful for everyone. Big tech companies like Microsoft, Google and Apple control much of the AI market. The CEO believes it's better to share this technology with more companies to avoid future problems.",
+          "source": "Tech Xplore"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "desacato",
+          "syllables": "de-sa-CA-to",
+          "pos": "sustantivo",
+          "context": "El panel votó para declarar a los Clinton en desacato al Congreso.",
+          "definition_es": "No obedecer una orden oficial o de una autoridad",
+          "definition_en": "Contempt; disobedience to official authority"
+        },
+        {
+          "word": "comité",
+          "syllables": "co-mi-TÉ",
+          "pos": "sustantivo",
+          "context": "El comité de supervisión tomó una decisión importante.",
+          "definition_es": "Grupo de personas que toma decisiones sobre un tema",
+          "definition_en": "Committee; group that makes decisions"
+        },
+        {
+          "word": "inversores",
+          "syllables": "in-ver-SO-res",
+          "pos": "sustantivo",
+          "context": "Los inversores celebraron el nuevo acuerdo comercial.",
+          "definition_es": "Personas que ponen dinero en negocios para ganar más",
+          "definition_en": "Investors; people who put money into businesses"
+        },
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Se evitaron los aranceles gracias al acuerdo.",
+          "definition_es": "Impuestos que se pagan por productos de otros países",
+          "definition_en": "Tariffs; taxes on imported goods"
+        },
+        {
+          "word": "burbuja",
+          "syllables": "bur-BU-ja",
+          "pos": "sustantivo",
+          "context": "El CEO advierte sobre una posible burbuja en la tecnología.",
+          "definition_es": "Situación económica peligrosa cuando los precios suben mucho",
+          "definition_en": "Bubble; dangerous economic situation with inflated prices"
+        },
+        {
+          "word": "advertir",
+          "syllables": "ad-ver-TIR",
+          "pos": "verbo",
+          "context": "Microsoft advierte que la IA debe expandirse más.",
+          "definition_es": "Decir que algo malo puede pasar",
+          "definition_en": "To warn; to say something bad might happen"
+        },
+        {
+          "word": "expandirse",
+          "syllables": "ex-pan-DIR-se",
+          "pos": "verbo",
+          "context": "La inteligencia artificial necesita expandirse a más empresas.",
+          "definition_es": "Crecer y llegar a más lugares",
+          "definition_en": "To expand; to grow and reach more places"
+        },
+        {
+          "word": "evitar",
+          "syllables": "e-vi-TAR",
+          "pos": "verbo",
+          "context": "Es importante evitar problemas económicos.",
+          "definition_es": "No permitir que algo malo suceda",
+          "definition_en": "To avoid; to prevent something bad from happening"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'desacato'?",
+          "options": [
+            "Obedecer una orden",
+            "No obedecer una autoridad",
+            "Votar en elecciones",
+            "Firmar un documento"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Los 'inversores' son personas que:",
+          "options": [
+            "Trabajan en el gobierno",
+            "Ponen dinero en negocios",
+            "Escriben noticias",
+            "Enseñan en escuelas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Una 'burbuja' económica es:",
+          "options": [
+            "Una situación normal",
+            "Cuando los precios bajan",
+            "Una situación peligrosa con precios muy altos",
+            "Un tipo de empresa"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'aranceles'?",
+          "options": [
+            "Impuestos sobre productos importados",
+            "Documentos legales",
+            "Tipos de acciones",
+            "Programas de computadora"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué comité votó sobre los Clinton?",
+          "options": [
+            "Comité de Economía",
+            "Comité de Supervisión",
+            "Comité de Tecnología",
+            "Comité de Educación"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Con qué país se firmó el acuerdo comercial?",
+          "options": [
+            "Canadá",
+            "México",
+            "Groenlandia",
+            "Reino Unido"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cómo terminó Wall Street según la noticia?",
+          "options": [
+            "Con números negativos",
+            "Sin cambios",
+            "Con números positivos",
+            "Cerrado todo el día"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa mencionó el CEO que habló sobre IA?",
+          "options": [
+            "Google",
+            "Apple",
+            "Microsoft",
+            "Amazon"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según Microsoft, ¿quién debe usar más la inteligencia artificial?",
+          "options": [
+            "Solo grandes empresas",
+            "Empresas pequeñas y medianas",
+            "Solo el gobierno",
+            "Nadie más"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál fue el resultado de evitar los aranceles?",
+          "options": [
+            "Los precios subieron",
+            "Los inversores se preocuparon",
+            "Los mercados terminaron positivos",
+            "Las empresas cerraron"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-22T09:07:02.878184"
+    },
+    {
       "date": "2026-01-21",
       "filename": "spanish_lesson_2026-01-21.pdf",
       "path": "pdfs/spanish_lesson_2026-01-21.pdf",
@@ -10016,7 +10238,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-21T09:06:28.390337",
+  "last_updated": "2026-01-22T09:07:02.878201",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
