@@ -1,11 +1,159 @@
 {
-  "date": "2026-01-22",
-  "generated_at": "2026-01-22T09:13:00.490495Z",
+  "date": "2026-01-23",
+  "generated_at": "2026-01-23T09:10:52.492655Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 86,
-  "new_today": 5,
+  "total_stories": 90,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250123",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Las bacterias bloquean la curación de heridas crónicas",
+      "headline_en": "Bacteria blocks healing in chronic wounds",
+      "summary_es": "Un nuevo estudio muestra que el metabolismo bacteriano impide que las heridas crónicas se curen correctamente. Los investigadores trabajan en soluciones para neutralizar este proceso.",
+      "body_es": "Las heridas crónicas no cierran bien. Las bacterias producen un problema especial: bloquean la curación natural del cuerpo. Los científicos estudian cómo estas bacterias interfieren en el proceso de sanar. Cuando una herida no cierra en poco tiempo, puede infectarse más. Las infecciones son peligrosas para los pacientes. Los médicos necesitan nuevos tratamientos. La investigación busca neutralizar el metabolismo bacteriano. Si los científicos logran esto, las heridas crónicas pueden curarse mejor. Este descubrimiento es importante para pacientes con úlceras de presión y otras heridas difíciles.",
+      "body_en": "Chronic wounds do not close well. Bacteria create a special problem: they block the body's natural healing process. Scientists study how these bacteria interfere with healing. When a wound does not close quickly, it can become more infected. Infections are dangerous for patients. Doctors need new treatments. Research seeks to neutralize bacterial metabolism. If scientists succeed, chronic wounds can heal better. This discovery is important for patients with pressure ulcers and other difficult wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVF9RbS02alItQl9mWGliY1J2RWlhRDh4VzF4QXpYdFdoRzZkNEhQTjRiVWRXbnRQcHZBekhfX0MzVVZ6NHRHVlpSTk5DZ2QzTXhUeUZzZVFwaWFTSWF6SVF4VWRHeVVfNFFJY0t5YVh3NUNTR1VsUGVpbG5NNzBHazAxN1gxd1kxV240SVVmWVVBR3RZUXhaU1FzOWlDVElDVXNEMXd0aWZhZ1VaeDJDUg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-23/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra en tiempo normal",
+          "definition_en": "chronic wound - injury that does not close in normal time"
+        },
+        {
+          "word": "metabolismo bacteriano",
+          "definition_es": "proceso químico de las bacterias",
+          "definition_en": "bacterial metabolism - chemical process of bacteria"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of wound repair"
+        },
+        {
+          "word": "infección",
+          "definition_es": "enfermedad causada por bacterias",
+          "definition_en": "infection - disease caused by bacteria"
+        }
+      ],
+      "added_at": "2026-01-23T09:10:52.492655Z"
+    },
+    {
+      "id": "diabetic-foot-20250123",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Neutralizar bacterias resistentes restaura la curación en heridas del pie diabético",
+      "headline_en": "Neutralizing antibiotic-resistant bacteria restores healing in diabetic foot wounds",
+      "summary_es": "Investigadores descubrieron que neutralizar el transporte de electrones extracelulares en bacterias desactiva la resistencia antibiótica y restaura la curación en heridas crónicas del pie diabético.",
+      "body_es": "Los pacientes con diabetes frecuentemente desarrollan heridas en los pies que no sanan adecuadamente. Las bacterias resistentes a los antibióticos complican el tratamiento de estas úlceras del pie. Un equipo de investigadores ha identificado un mecanismo clave: el transporte de electrones extracelulares que utilizan las bacterias. Cuando los científicos neutralizan este proceso, desactivan la capacidad de resistencia de las bacterias. Este descubrimiento permite que los antibióticos funcionen nuevamente. En los estudios, se observó que la curación se restauraba después del tratamiento. Esta estrategia podría revolucionar el manejo de heridas diabéticas complicadas. El equipo continúa desarrollando terapias basadas en este hallazgo para aplicarlas clínicamente pronto.",
+      "body_en": "Patients with diabetes frequently develop foot wounds that do not heal properly. Antibiotic-resistant bacteria complicate the treatment of these foot ulcers. A research team has identified a key mechanism: extracellular electron transport that bacteria use. When scientists neutralize this process, they disable the bacteria's resistance capacity. This discovery allows antibiotics to work again. In studies, healing was restored after treatment. This strategy could revolutionize the management of complicated diabetic wounds. The team continues developing therapies based on this finding for clinical application soon.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1JSTWE2dkZxS05SZlBjajBhdklmRUZHWFRTSlNid09kb250VU8wWjVtQWlfajU2M3ZSd2N6TzB3SFJRTEdlOC01Sk1XNEs4N1ZBT2J6SzFOcGx6RUExX2ZPMXV6Y21YNUt4MnZDYjJwcWQ3VGF5WVFsMTN6VE1uenhXeXlxQWJCcTkzaGlnN3lqUXhwbWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-23/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "herida en el pie de personas con diabetes",
+          "definition_en": "diabetic foot ulcer - wound on the foot of people with diabetes"
+        },
+        {
+          "word": "bacteria resistente",
+          "definition_es": "bacteria que no responde a antibióticos",
+          "definition_en": "antibiotic-resistant bacteria - bacteria that does not respond to antibiotics"
+        },
+        {
+          "word": "transporte de electrones",
+          "definition_es": "proceso biológico de transferencia de energía",
+          "definition_en": "electron transport - biological process of energy transfer"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanación de una herida",
+          "definition_en": "healing - wound repair process"
+        }
+      ],
+      "added_at": "2026-01-23T09:10:52.492655Z"
+    },
+    {
+      "id": "burn-care-20250123",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Impresión 3D de piel humana viva revoluciona el tratamiento de quemaduras",
+      "headline_en": "3D bioprinting of living human skin revolutionizes burn care treatment",
+      "summary_es": "La Clínica Mayo desarrolla tecnología de bioimpresión 3D para crear piel viva que mejora significativamente el cuidado de heridas por quemadura y acelera la cicatrización.",
+      "body_es": "La Clínica Mayo de Minnesota está desarrollando una tecnología innovadora que imprime piel viva utilizando impresoras 3D. Este avance promete transformar el tratamiento de pacientes con quemaduras graves. Los investigadores crean piel humana funcional con todas sus capas: epidermis y dermis. Esta piel bioimpresa puede usarse para cubrir heridas extensas después de quemaduras severas. El proceso acelera la curación natural al proporcionar tejido viable que integra con la piel dañada. Los estudios demuestran que los pacientes requieren menos procedimientos quirúrgicos adicionales. Esta tecnología también reduce el riesgo de infección en heridas por quemadura. Aunque la tecnología aún está en fase de pruebas clínicas, representa una esperanza significativa para mejorar los resultados en pacientes quemados.",
+      "body_en": "Mayo Clinic in Minnesota is developing innovative technology that prints living skin using 3D printers. This advancement promises to transform the treatment of patients with severe burns. Researchers create functional human skin with all its layers: epidermis and dermis. This bioprinted skin can be used to cover extensive wounds after severe burns. The process accelerates natural healing by providing viable tissue that integrates with damaged skin. Studies demonstrate that patients require fewer additional surgical procedures. This technology also reduces the risk of infection in burn wounds. Although the technology is still in clinical testing phase, it represents significant hope for improving outcomes in burned patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjBpN2tGQjJDdWpLWlhjeFBqZUxiR213d09GZy1UNEw3T1hpNDUyTTljSGN4eHF5OXRpdVdPMXo1dWhuMUR0djFwUVdtYUc2TTk1WThjajR1V29ZSGlFcXhWMzlleW5ZbXNsQmwzRTNNOUtKRl9RNUEteE56YlhWcEFheGQxRUltSVJ3LTRDV3Zsc2RvRkEzTDhtVi1YNENfME5WQm9jUm9VajBoTUxWajZqZG41WG0wZ2lyRmx6bFFhQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-23/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión por fuego o calor intenso",
+          "definition_en": "burn - injury caused by fire or intense heat"
+        },
+        {
+          "word": "bioimpresión 3D",
+          "definition_es": "tecnología para imprimir tejido vivo",
+          "definition_en": "3D bioprinting - technology to print living tissue"
+        },
+        {
+          "word": "epidermis",
+          "definition_es": "capa externa de la piel",
+          "definition_en": "epidermis - outer layer of skin"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formar cicatriz durante la curación",
+          "definition_en": "scarring - process of scar formation during healing"
+        }
+      ],
+      "added_at": "2026-01-23T09:10:52.492655Z"
+    },
+    {
+      "id": "surgical-wounds-20250123",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Descubren por qué la cara cicatriza menos que el cuerpo después de cirugía",
+      "headline_en": "Study reveals why face scars less than body after surgery",
+      "summary_es": "Investigadores de Stanford Medicine descubrieron mecanismos biológicos que explican por qué las heridas quirúrgicas en la cara producen menos cicatrices visibles que en otras partes del cuerpo.",
+      "body_es": "Un estudio reciente de Stanford Medicine ha revelado por qué las cicatrices faciales son menos visibles que las cicatrices en otras partes del cuerpo después de cirugía. Los investigadores analizaron las diferencias en la curación de heridas quirúrgicas en la cara versus el cuerpo. Descubrieron que la piel facial tiene características biológicas especiales que favorecen una curación más favorable. El flujo de sangre en la cara es diferente, proporcionando más oxígeno y nutrientes para la regeneración de tejidos. Además, las células de la piel facial se dividen más rápidamente y se reorganizan de manera más ordenada. Los científicos también encontraron que el proceso inflamatorio en la cara es más controlado. Estos hallazgos podrían aplicarse para mejorar los resultados estéticos de heridas quirúrgicas en otras áreas del cuerpo mediante técnicas innovadoras.",
+      "body_en": "A recent Stanford Medicine study has revealed why facial scars are less visible than scars on other parts of the body after surgery. Researchers analyzed differences in healing of surgical wounds on the face versus the body. They discovered that facial skin has special biological characteristics that favor more favorable healing. Blood flow in the face is different, providing more oxygen and nutrients for tissue regeneration. Additionally, facial skin cells divide more quickly and reorganize in a more orderly manner. Scientists also found that the inflammatory process in the face is more controlled. These findings could be applied to improve aesthetic results of surgical wounds in other body areas through innovative techniques.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnRJd3lpeGtxeEE1dkxVNXp0dFp4YUdYS2o5V0pjUDJ0RmdfWWUxZ0dqVGVFVXp6V2ktaWJjTFJJbE16OVhhU213ZkpMaFl0dFhiYVhjQzRERUFHRFQ4bGRQdnVTSTRTOXYxU1R1LUlMcFBBcnhWSm5mMDBCMkJxMFpZRnNGTWtIQUdLUmI2aXZITFk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-23/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que deja una herida después de sanar",
+          "definition_en": "scar - mark left by a wound after healing"
+        },
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada durante una operación",
+          "definition_en": "surgical wound - injury created during surgery"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - formation of new skin over a wound"
+        },
+        {
+          "word": "flujo sanguíneo",
+          "definition_es": "movimiento de sangre a través de los vasos",
+          "definition_en": "blood flow - movement of blood through vessels"
+        }
+      ],
+      "added_at": "2026-01-23T09:10:52.492655Z"
+    },
     {
       "id": "chronic-wounds-20250122",
       "category": "Chronic Wounds",
@@ -3183,6 +3331,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-22T09:13:00.490495Z",
+  "last_updated": "2026-01-23T09:10:52.492655Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
