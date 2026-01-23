@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-23",
+      "filename": "spanish_lesson_2026-01-23.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-23.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso aprueba presupuesto a pesar de desacuerdos",
+          "headline_en": "Congress approves budget despite disagreements",
+          "body_es": "La Cámara de Representantes de Estados Unidos aprobó un importante paquete de gastos. La votación fue difícil porque algunos demócratas no estaban de acuerdo. El problema principal era sobre las políticas de inmigración. Algunos representantes querían cambiar las reglas sobre deportaciones. Sin embargo, la mayoría decidió aprobar el presupuesto. Este dinero es necesario para mantener funcionando el gobierno federal. Los líderes políticos dijeron que era importante llegar a un acuerdo. El paquete incluye fondos para diferentes programas gubernamentales. Esta decisión afectará las políticas públicas en los próximos meses. Los ciudadanos esperan que el gobierno use bien estos recursos.",
+          "body_en": "The US House of Representatives approved an important spending package. The vote was difficult because some Democrats disagreed. The main problem was about immigration policies. Some representatives wanted to change deportation rules. However, the majority decided to approve the budget. This money is necessary to keep the federal government running. Political leaders said it was important to reach an agreement. The package includes funds for different government programs. This decision will affect public policies in the coming months. Citizens hope the government uses these resources well.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Bank of America predice crecimiento económico positivo",
+          "headline_en": "Bank of America predicts positive economic growth",
+          "body_es": "El director ejecutivo de Bank of America tiene buenas noticias sobre la economía estadounidense. El banco predice que la economía crecerá un 2.8% este año. Esta predicción es muy positiva para el país. Los expertos económicos están optimistas sobre el futuro. El crecimiento económico significa más empleos para los trabajadores. También puede significar mejores salarios y más oportunidades. Las empresas estadounidenses están invirtiendo más dinero. Los consumidores también están gastando más en productos y servicios. Esta situación es buena para la economía nacional. Sin embargo, los economistas dicen que debemos ser cuidadosos. Es importante mantener un crecimiento estable y sostenible para todos los ciudadanos.",
+          "body_en": "The CEO of Bank of America has good news about the US economy. The bank predicts the economy will grow 2.8% this year. This prediction is very positive for the country. Economic experts are optimistic about the future. Economic growth means more jobs for workers. It can also mean better salaries and more opportunities. American companies are investing more money. Consumers are also spending more on products and services. This situation is good for the national economy. However, economists say we must be careful. It's important to maintain stable and sustainable growth for all citizens.",
+          "source": "Whalesbook"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa tecnológica despide trabajadores por inteligencia artificial",
+          "headline_en": "Tech company lays off workers due to artificial intelligence",
+          "body_es": "Autodesk, una empresa de tecnología de San Francisco, va a despedir a mil empleados. La razón principal es que la empresa quiere invertir más en inteligencia artificial. Esta decisión es difícil para los trabajadores que perderán sus empleos. Muchas empresas tecnológicas están haciendo cambios similares. La inteligencia artificial está cambiando la forma de trabajar. Algunas tareas que hacían las personas ahora las pueden hacer las máquinas. Autodesk crea software para diseño y construcción. La empresa cree que la inteligencia artificial puede hacer su trabajo más eficiente. Sin embargo, esto significa que necesitan menos empleados humanos. Esta situación muestra cómo la tecnología está transformando el mundo laboral moderno.",
+          "body_en": "Autodesk, a San Francisco technology company, will lay off a thousand employees. The main reason is that the company wants to invest more in artificial intelligence. This decision is difficult for workers who will lose their jobs. Many tech companies are making similar changes. Artificial intelligence is changing the way we work. Some tasks that people used to do can now be done by machines. Autodesk creates software for design and construction. The company believes artificial intelligence can make their work more efficient. However, this means they need fewer human employees. This situation shows how technology is transforming the modern workplace.",
+          "source": "kron4.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "La Cámara de Representantes aprobó el presupuesto del gobierno.",
+          "definition_es": "Plan de gastos e ingresos del gobierno",
+          "definition_en": "Government spending plan or budget"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "Los representantes decidieron aprobar el paquete de gastos.",
+          "definition_es": "Dar consentimiento o autorización a algo",
+          "definition_en": "To approve or pass something"
+        },
+        {
+          "word": "crecimiento",
+          "syllables": "cre-ci-MIEN-to",
+          "pos": "sustantivo",
+          "context": "El banco predice un crecimiento económico del 2.8%.",
+          "definition_es": "Aumento o desarrollo de algo",
+          "definition_en": "Growth or increase"
+        },
+        {
+          "word": "despedir",
+          "syllables": "des-pe-DIR",
+          "pos": "verbo",
+          "context": "La empresa va a despedir a mil trabajadores.",
+          "definition_es": "Terminar el trabajo de un empleado",
+          "definition_en": "To fire or lay off employees"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La empresa invierte en nueva tecnología de inteligencia artificial.",
+          "definition_es": "Conjunto de técnicas y conocimientos científicos aplicados",
+          "definition_en": "Technology"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense muestra signos positivos.",
+          "definition_es": "Sistema de producción y distribución de bienes",
+          "definition_en": "Economy"
+        },
+        {
+          "word": "paquete",
+          "syllables": "pa-QUE-te",
+          "pos": "sustantivo",
+          "context": "El Congreso votó sobre el paquete de medidas.",
+          "definition_es": "Conjunto de cosas agrupadas",
+          "definition_en": "Package or bundle"
+        },
+        {
+          "word": "predicir",
+          "syllables": "pre-de-CIR",
+          "pos": "verbo",
+          "context": "Los expertos predicen buenos resultados económicos.",
+          "definition_es": "Decir lo que va a pasar en el futuro",
+          "definition_en": "To predict or forecast"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'presupuesto'?",
+          "options": [
+            "Plan de gastos del gobierno",
+            "Tipo de votación",
+            "Grupo de políticos",
+            "Problema económico"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'despedir' en el contexto laboral?",
+          "options": [
+            "Contratar empleados",
+            "Terminar el trabajo de un empleado",
+            "Dar un aumento de salario",
+            "Cambiar de oficina"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "La palabra 'crecimiento' se refiere a:",
+          "options": [
+            "Disminución",
+            "Aumento o desarrollo",
+            "Problema",
+            "Votación"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'aprobar' en el contexto político?",
+          "options": [
+            "Rechazar una propuesta",
+            "Dar consentimiento o autorización",
+            "Hacer una pregunta",
+            "Cambiar de opinión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿por qué fue difícil la votación en el Congreso?",
+          "options": [
+            "Por falta de dinero",
+            "Por desacuerdos sobre inmigración",
+            "Por problemas técnicos",
+            "Por ausencia de representantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje de crecimiento económico predice Bank of America?",
+          "options": [
+            "2.5%",
+            "2.8%",
+            "3.0%",
+            "2.0%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleados va a despedir Autodesk?",
+          "options": [
+            "500",
+            "800",
+            "1000",
+            "1200"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿En qué ciudad está ubicada la empresa Autodesk?",
+          "options": [
+            "Los Ángeles",
+            "Nueva York",
+            "San Francisco",
+            "Seattle"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según el texto económico, ¿qué puede significar el crecimiento económico para los trabajadores?",
+          "options": [
+            "Menos empleos",
+            "Más empleos y mejores salarios",
+            "Más impuestos",
+            "Menos oportunidades"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué Autodesk está despidiendo empleados?",
+          "options": [
+            "Por problemas financieros",
+            "Para invertir en inteligencia artificial",
+            "Por cambio de oficina",
+            "Por reducir costos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-23T09:05:01.465630"
+    },
+    {
       "date": "2026-01-22",
       "filename": "spanish_lesson_2026-01-22.pdf",
       "path": "pdfs/spanish_lesson_2026-01-22.pdf",
@@ -10238,7 +10460,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-22T09:07:02.878201",
+  "last_updated": "2026-01-23T09:05:01.465645",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
