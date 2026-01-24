@@ -1,11 +1,159 @@
 {
-  "date": "2026-01-23",
-  "generated_at": "2026-01-23T09:10:52.492655Z",
+  "date": "2026-01-24",
+  "generated_at": "2026-01-24T09:06:54.678775Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 90,
+  "total_stories": 94,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250124",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Salvación de pie diabético con injerto de piel",
+      "headline_en": "Diabetic Foot Saved with Skin Grafting",
+      "summary_es": "Un paciente con diabetes evitó la amputación del pie mediante injerto de piel de grosor parcial y terapia antidiabética. El caso demuestra la importancia del tratamiento rápido de las heridas diabéticas.",
+      "body_es": "Un paciente con diabetes recibió tratamiento exitoso para salvar su pie. Los médicos usaron un injerto de piel de grosor parcial para cubrir la herida. El injerto es un procedimiento donde se toma piel de otra área del cuerpo y se coloca en la herida. También recibió tratamiento para controlar su diabetes. La evaluación regular de la herida fue muy importante. El vendaje se cambió frecuentemente. Después del tratamiento, el pie se curó bien. El paciente no necesitó amputación. Este caso muestra que el cuidado rápido de las heridas diabéticas puede salvar el pie.",
+      "body_en": "A patient with diabetes received successful treatment to save his foot. Doctors used a split-thickness skin graft to cover the wound. A skin graft is a procedure where skin from another area of the body is placed on the wound. He also received treatment to control his diabetes. Regular wound assessment was very important. Dressings were changed frequently. After treatment, the foot healed well. The patient did not need amputation. This case shows that quick care of diabetic wounds can save the foot.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMUpSQjVoaVFiQmoySXFCcGxwNTlEZkt5UTBtSEJlRE44V0xDdTJsSU1ZY0gtaDJMR290ODdwTXNmeHRWSWRVUmRmSTViTmNQTG1iUy1CcmJTcUx0eEN6MFVzaW5Zc0k3NDN6YzNoUGNLWTV0ZExTNEFoSzktcHl2MTRsVGtrQVpseFZpXzJVR0dnNzhGMjY0UnNfUXBjcWpEUUNPVXE5aEVQdmJ2bGhHTVNFdnBIX1FUUXZKZUt5LWlOY2tfUDhzMTlDNlhvN0pDVHVPLXhYTFdubEJkdkNBTmlTajlKUTVQOC1iMWVXbWxVTkQ3UHJUWUVGeU0?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-24/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "injerto",
+          "definition_es": "piel trasplantada a una herida",
+          "definition_en": "graft - skin transplanted to a wound"
+        },
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o tejido",
+          "definition_en": "wound - injury to skin or tissue"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir heridas",
+          "definition_en": "dressing - material to cover wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar",
+          "definition_en": "healing - process of getting better"
+        }
+      ],
+      "added_at": "2026-01-24T09:06:54.678775Z"
+    },
+    {
+      "id": "diabetic-foot-20250124",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Estudio de ADN revela amenaza oculta en infecciones del pie diabético",
+      "headline_en": "Global DNA Study Reveals Hidden Threat in Diabetic Foot Infections",
+      "summary_es": "Un estudio global de ADN identifica amenazas microbianas ocultas en infecciones del pie diabético que pueden no detectarse con métodos convencionales. Los hallazgos podrían mejorar el diagnóstico y tratamiento de estas infecciones complicadas.",
+      "body_es": "Investigadores realizaron un estudio global de ADN para investigar infecciones del pie en pacientes diabéticos. Descubrieron que muchas bacterias presentes en estas infecciones no se detectaban con cultivos tradicionales. El análisis de ADN permitió identificar microorganismos adicionales que causaban complicaciones. Las bacterias polimicrobianas son muy comunes en infecciones diabéticas del pie y dificultan el tratamiento. Este descubrimiento es importante porque los médicos podrían estar prescribiendo antibióticos inadecuados. El estudio sugiere que la identificación molecular más precisa mejoraría los resultados clínicos. Los profesionales de la salud deben considerar métodos de diagnóstico más avanzados para las infecciones complicadas del pie.",
+      "body_en": "Researchers conducted a global DNA study to investigate foot infections in diabetic patients. They discovered that many bacteria present in these infections were not detected with traditional cultures. DNA analysis allowed identification of additional microorganisms causing complications. Polymicrobial bacteria are very common in diabetic foot infections and make treatment difficult. This discovery is important because doctors might be prescribing inappropriate antibiotics. The study suggests that more precise molecular identification would improve clinical outcomes. Healthcare professionals should consider more advanced diagnostic methods for complicated foot infections.",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qZl95VzRQaUxDdERWbGlHNUhNRmp0bEVnYnV5cjRUbDFtQjBNcUtXUk5rZXVpZ0xleVJfb01kSEIwVEs2dEFvNTFoNnhySUxuc3BkNVFyZmRBYWwyNEI1c05FdGxHNko5Yk4xdFlSMA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-24/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección",
+          "definition_es": "entrada de microorganismos dañinos en el cuerpo",
+          "definition_en": "infection - entry of harmful microorganisms into the body"
+        },
+        {
+          "word": "bacteria",
+          "definition_es": "microorganismo que causa enfermedad",
+          "definition_en": "bacteria - microorganism that causes disease"
+        },
+        {
+          "word": "diagnóstico",
+          "definition_es": "identificación de la enfermedad",
+          "definition_en": "diagnosis - identification of disease"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método médico para curar la enfermedad",
+          "definition_en": "treatment - medical method to cure disease"
+        }
+      ],
+      "added_at": "2026-01-24T09:06:54.678775Z"
+    },
+    {
+      "id": "burn-care-20250124",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Supervivientes de incendio de estación esquí tratados con piel cultivada",
+      "headline_en": "Survivors of Swiss Ski Resort Fire Treated with Skin Grown from Their Own Cells",
+      "summary_es": "Los supervivientes de un incendio en una estación esquí suiza recibieron tratamiento innovador utilizando piel cultivada a partir de sus propias células. Esta tecnología de bioingeniería representa un avance significativo en el tratamiento de quemaduras graves.",
+      "body_es": "Después del incendio en una estación esquí suiza, los médicos trataron a los supervivientes con una tecnología revolucionaria. Utilizaron piel cultivada a partir de las propias células de los pacientes para recubrir las quemaduras. Este proceso, llamado ingeniería de tejidos, reduce la necesidad de donantes de piel de cadáver. La piel cultivada preserva las características naturales del paciente y minimiza el rechazo inmunológico. El procedimiento es complejo pero ofrece mejores resultados estéticos y funcionales que los injertos convencionales. Los pacientes mostraban menor dolor durante el proceso de cicatrización. Este tratamiento representa un progreso importante en medicina regenerativa para quemaduras graves.",
+      "body_en": "After a fire at a Swiss ski resort, doctors treated survivors with revolutionary technology. They used skin cultured from patients' own cells to cover the burns. This process, called tissue engineering, reduces the need for cadaver skin donors. Cultured skin preserves the patient's natural characteristics and minimizes immune rejection. The procedure is complex but offers better aesthetic and functional results than conventional grafts. Patients experienced less pain during the scarring process. This treatment represents significant progress in regenerative medicine for severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVE5URDgzWVUwZEJIc0RFLTJtc1VkZkkxU2cyc1EyN0FTSi03MW5ZMmZPTFcwSHNyaW8xSU1UV1JFaUdCYktqQW0xcTFnb2Y2RU9WVVFSV0JOckNDYnVBSnZsZk1tQTYxUG9XdVR4bVVpMC10eVFEcFFBbmZzZG1YQWVDbFVDRlFuWWE4cHAzS2Nqb0xIOC1fdzZJaXFmUVc2anJOZ01SdjBySmlCQWk3ajl3UVBGSF9lcnFXNUlFWjNHZkVQVDFfOUhB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-24/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por fuego o calor",
+          "definition_en": "burn - injury caused by fire or heat"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "piel trasplantada a una herida",
+          "definition_en": "graft - skin transplanted to a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de cicatriz durante la curación",
+          "definition_en": "scarring - formation of scar during healing"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "estructura celular del cuerpo",
+          "definition_en": "tissue - cellular structure of the body"
+        }
+      ],
+      "added_at": "2026-01-24T09:06:54.678775Z"
+    },
+    {
+      "id": "surgical-wounds-20250124",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "¿Por qué las cicatrices de la cara son menos visibles que en el cuerpo?",
+      "headline_en": "The Face Scars Less Than the Body — A Stanford Medicine Study Unravels Why",
+      "summary_es": "Un estudio de Stanford Medicine descubre por qué la piel facial cicatriza menos que la piel del cuerpo. Los hallazgos podrían revolucionar el tratamiento de heridas quirúrgicas en diferentes partes del cuerpo.",
+      "body_es": "Investigadores de Stanford Medicine examinaron por qué las heridas faciales dejan cicatrices menos visibles que las del cuerpo. El estudio comparó la respuesta inflamatoria y la regeneración celular en diferentes áreas de la piel. Descubrieron que la piel facial tiene características únicas que favorecen una cicatrización más fina. La composición del colágeno y la densidad de fibroblastos varían según la ubicación corporal. Los investigadores analizaron proteínas clave que regulan la formación de cicatrices. Estos hallazgos tienen implicaciones importantes para la reconstrucción quirúrgica de heridas. Los cirujanos podrían aplicar estas estrategias biológicas para mejorar los resultados estéticos en heridas corporales.",
+      "body_en": "Stanford Medicine researchers examined why facial wounds leave less visible scars than body wounds. The study compared the inflammatory response and cell regeneration in different skin areas. They discovered that facial skin has unique characteristics that favor thinner scarring. Collagen composition and fibroblast density vary according to body location. Researchers analyzed key proteins that regulate scar formation. These findings have important implications for surgical wound reconstruction. Surgeons could apply these biological strategies to improve aesthetic outcomes in body wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnRJd3lpeGtxeEE1dkxVNXp0dFp4YUdYS2o5V0pjUDJ0RmdfWWUxZ0dqVGVFVXp6V2ktaWJjTFJJbE16OVhhU213ZkpMaFl0dFhiYVhjQzRERUFHRFQ4bGRQdnVTSTRTOXYxU1R1LUlMcFBBcnhWSm5mMDBCMkJxMFpZRnNGTWtIQUdLUmI2aXZITFk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-24/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatriz",
+          "definition_es": "marca dejada por una herida curada",
+          "definition_en": "scar - mark left by a healed wound"
+        },
+        {
+          "word": "colagéno",
+          "definition_es": "proteína estructural de la piel",
+          "definition_en": "collagen - structural protein of the skin"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "respuesta del cuerpo ante la lesión",
+          "definition_en": "inflammation - body's response to injury"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nuevas células de piel",
+          "definition_en": "epithelialization - formation of new skin cells"
+        }
+      ],
+      "added_at": "2026-01-24T09:06:54.678775Z"
+    },
     {
       "id": "chronic-wounds-20250123",
       "category": "Chronic Wounds",
@@ -3331,6 +3479,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-23T09:10:52.492655Z",
+  "last_updated": "2026-01-24T09:06:54.678775Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
