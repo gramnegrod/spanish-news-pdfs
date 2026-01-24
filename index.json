@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-24",
+      "filename": "spanish_lesson_2026-01-24.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-24.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso aprueba gran paquete de gastos con división entre demócratas",
+          "headline_en": "Congress approves large spending package with division among Democrats",
+          "body_es": "La Cámara de Representantes aprobó un gran paquete de presupuesto esta semana. Sin embargo, los políticos demócratas no están de acuerdo sobre un tema importante. El problema es la financiación para ICE, la agencia de inmigración. Algunos demócratas quieren dar menos dinero a ICE porque no les gusta cómo trata a los inmigrantes. Otros demócratas piensan que ICE necesita el dinero para hacer su trabajo. Esta división entre los demócratas hace que sea difícil tomar decisiones. El paquete de gastos incluye dinero para muchos programas del gobierno. Los republicanos también tienen opiniones diferentes sobre este tema.",
+          "body_en": "The House of Representatives approved a large budget package this week. However, Democratic politicians do not agree on an important issue. The problem is funding for ICE, the immigration agency. Some Democrats want to give less money to ICE because they don't like how it treats immigrants. Other Democrats think ICE needs the money to do its job. This division among Democrats makes it difficult to make decisions. The spending package includes money for many government programs. Republicans also have different opinions on this issue.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La estrategia económica de Trump puede funcionar pero costará caro",
+          "headline_en": "Trump's economic strategy may work but will cost dearly",
+          "body_es": "Donald Trump tiene una nueva estrategia económica llamada 'run it hot'. Esta estrategia significa gastar mucho dinero del gobierno para hacer crecer la economía rápidamente. Algunos expertos piensan que puede funcionar y crear más empleos. Sin embargo, esta política también puede causar problemas. Los precios de las cosas pueden subir mucho, lo que se llama inflación. Esto significa que los americanos van a pagar más dinero por comida, gasolina y otras cosas importantes. Los economistas están preocupados porque esta estrategia puede ayudar a corto plazo pero crear problemas económicos grandes en el futuro. Es una decisión muy importante para el país.",
+          "body_en": "Donald Trump has a new economic strategy called 'run it hot'. This strategy means spending a lot of government money to grow the economy quickly. Some experts think it can work and create more jobs. However, this policy can also cause problems. The prices of things can go up a lot, which is called inflation. This means Americans will pay more money for food, gasoline and other important things. Economists are worried because this strategy can help in the short term but create big economic problems in the future. It's a very important decision for the country.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Autodesk despedirá mil trabajadores para invertir en inteligencia artificial",
+          "headline_en": "Autodesk will fire a thousand workers to invest in artificial intelligence",
+          "body_es": "La empresa de tecnología Autodesk va a despedir a 1,000 trabajadores. Esta decisión es parte de un plan para cambiar el futuro de la empresa. Autodesk quiere apostar por la inteligencia artificial (IA) para hacer mejores productos. La empresa hace programas de computadora para diseño y construcción. Los jefes de Autodesk creen que la IA va a cambiar mucho su industria. Por eso necesitan contratar nuevos trabajadores que sepan sobre IA y despedir a otros. Esta situación es difícil para las personas que van a perder su trabajo. Muchas empresas de tecnología están haciendo cambios similares. Quieren usar la IA para competir mejor en el mercado.",
+          "body_en": "Technology company Autodesk is going to fire 1,000 workers. This decision is part of a plan to change the company's future. Autodesk wants to bet on artificial intelligence (AI) to make better products. The company makes computer programs for design and construction. Autodesk's bosses believe that AI will change their industry a lot. That's why they need to hire new workers who know about AI and fire others. This situation is difficult for people who will lose their jobs. Many technology companies are making similar changes. They want to use AI to compete better in the market.",
+          "source": "LA Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "La Cámara aprobó un gran paquete de presupuesto.",
+          "definition_es": "Plan de gastos e ingresos del gobierno",
+          "definition_en": "Government spending plan or budget"
+        },
+        {
+          "word": "financiación",
+          "syllables": "fi-nan-cia-CIÓN",
+          "pos": "sustantivo",
+          "context": "Los demócratas no están de acuerdo sobre la financiación de ICE.",
+          "definition_es": "Dinero que se da para pagar algo",
+          "definition_en": "Funding or financing"
+        },
+        {
+          "word": "estrategia",
+          "syllables": "es-tra-TE-gia",
+          "pos": "sustantivo",
+          "context": "Trump tiene una nueva estrategia económica.",
+          "definition_es": "Plan para conseguir un objetivo",
+          "definition_en": "Strategy or plan"
+        },
+        {
+          "word": "costar",
+          "syllables": "cos-TAR",
+          "pos": "verbo",
+          "context": "Esta política les va a costar mucho dinero a los americanos.",
+          "definition_es": "Tener un precio, ser caro",
+          "definition_en": "To cost"
+        },
+        {
+          "word": "despedir",
+          "syllables": "des-pe-DIR",
+          "pos": "verbo",
+          "context": "Autodesk va a despedir a 1,000 trabajadores.",
+          "definition_es": "Quitar el trabajo a alguien",
+          "definition_en": "To fire or lay off"
+        },
+        {
+          "word": "apostar",
+          "syllables": "a-pos-TAR",
+          "pos": "verbo",
+          "context": "La empresa apuesta por la inteligencia artificial.",
+          "definition_es": "Poner dinero o esfuerzo en algo con esperanza de ganar",
+          "definition_en": "To bet on or invest in"
+        },
+        {
+          "word": "trabajadores",
+          "syllables": "tra-ba-ja-DO-res",
+          "pos": "sustantivo",
+          "context": "Miles de trabajadores van a perder sus empleos.",
+          "definition_es": "Personas que tienen un trabajo",
+          "definition_en": "Workers or employees"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El Congreso aprobó la nueva ley.",
+          "definition_es": "Decir que sí a algo, aceptar",
+          "definition_en": "To approve or pass"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'presupuesto'?",
+          "options": [
+            "Plan de gastos del gobierno",
+            "Tipo de comida",
+            "Programa de televisión",
+            "Deporte popular"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'despedir' en el contexto laboral?",
+          "options": [
+            "Saludar a alguien",
+            "Quitar el trabajo a alguien",
+            "Dar dinero",
+            "Comprar algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Cuando una empresa 'apuesta por la IA', significa que:",
+          "options": [
+            "No le gusta la tecnología",
+            "Invierte dinero y esfuerzo en IA",
+            "Vende computadoras",
+            "Contrata más gente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa que algo 'va a costar caro' a los americanos?",
+          "options": [
+            "Va a ser gratis",
+            "Van a pagar mucho dinero",
+            "Van a ganar dinero",
+            "No va a cambiar nada"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto sobre política, ¿por qué están divididos los demócratas?",
+          "options": [
+            "Por la financiación de ICE",
+            "Por el precio de la gasolina",
+            "Por las elecciones",
+            "Por la inteligencia artificial"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama la estrategia económica de Trump?",
+          "options": [
+            "Run it cold",
+            "Run it hot",
+            "Go fast",
+            "Work hard"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántos trabajadores va a despedir Autodesk?",
+          "options": [
+            "500",
+            "1,000",
+            "2,000",
+            "100"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según el texto económico, ¿qué problema puede causar la estrategia de Trump?",
+          "options": [
+            "Menos empleos",
+            "Inflación",
+            "Menos tecnología",
+            "Más impuestos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿En qué tipo de programas se especializa Autodesk?",
+          "options": [
+            "Juegos de computadora",
+            "Redes sociales",
+            "Diseño y construcción",
+            "Música digital"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué institución aprobó el paquete de gastos mencionado en el texto político?",
+          "options": [
+            "El Senado",
+            "La Cámara de Representantes",
+            "La Corte Suprema",
+            "El Presidente"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-24T09:02:13.331863"
+    },
+    {
       "date": "2026-01-23",
       "filename": "spanish_lesson_2026-01-23.pdf",
       "path": "pdfs/spanish_lesson_2026-01-23.pdf",
@@ -10460,7 +10682,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-23T09:05:01.465645",
+  "last_updated": "2026-01-24T09:02:13.331879",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
