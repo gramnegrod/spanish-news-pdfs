@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-24",
-  "generated_at": "2026-01-24T09:06:54.678775Z",
+  "date": "2026-01-25",
+  "generated_at": "2026-01-25T09:07:12.115948Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 94,
-  "new_today": 4,
+  "total_stories": 99,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250125",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El Metabolismo Bacteriano Bloquea la Curación de Heridas Crónicas",
+      "headline_en": "Bacterial Metabolism Blocks Healing in Chronic Wounds",
+      "summary_es": "Investigadores descubren que el metabolismo bacteriano impide que las heridas crónicas sanen correctamente. Este hallazgo abre nuevas formas de tratar a los pacientes.",
+      "body_es": "Las heridas crónicas no cicatrizan bien. Los científicos encontraron una razón importante: las bacterias. El metabolismo bacteriano bloquea el proceso de curación natural del cuerpo. Las bacterias producen sustancias que interfieren con la regeneración de tejido. Los pacientes con heridas crónicas tienen problemas porque el cuerpo no puede repararse. Este descubrimiento es muy importante para el tratamiento futuro. Los médicos ahora entienden mejor por qué estas heridas no mejoran. Los investigadores estudian cómo detener el metabolismo bacteriano. El objetivo es permitir que la piel y el tejido crezcan nuevamente. Esto puede cambiar completamente la forma en que tratamos las heridas crónicas.",
+      "body_en": "Chronic wounds do not heal well. Scientists found an important reason: bacteria. Bacterial metabolism blocks the body's natural healing process. Bacteria produce substances that interfere with tissue regeneration. Patients with chronic wounds have problems because the body cannot repair itself. This discovery is very important for future treatment. Doctors now better understand why these wounds do not improve. Researchers are studying how to stop bacterial metabolism. The goal is to allow skin and tissue to grow again. This can completely change how we treat chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVF9RbS02alItQl9mWGliY1J2RWlhRDh4VzF4QXpYdFdoRzZkNEhQTjRiVWRXbnRQcHZBekhfX0MzVVZ6NHRHVlpSTk5DZ2QzTXhUeUZzZVFwaWFTSWF6SVF4VWRHeVVfNFFJY0t5YVh3NUNUR1VsUGVpbG5NNzBHazAxN1gxd1kxV240SVVmWVVBR3RZUXhaU1FzOWlDVElDVXNEMXd0aWZhZ1VaeDJDUg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-25/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "metabolismo bacteriano",
+          "definition_es": "procesos químicos de las bacterias",
+          "definition_en": "bacterial metabolism - chemical processes of bacteria"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar y cicatrización",
+          "definition_en": "healing - process of repair and scarring"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "células que forman la piel y órganos",
+          "definition_en": "tissue - cells that form skin and organs"
+        }
+      ],
+      "added_at": "2026-01-25T09:07:12.115948Z"
+    },
+    {
+      "id": "diabetic-foot-20250125",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "El Dr. Pedro Mego Explica Cómo Prevenir la Amputación Mediante la Detección Temprana",
+      "headline_en": "Dr. Pedro Mego on Preventing Amputation Through Early Detection",
+      "summary_es": "Un experto en medicina explica la importancia de detectar los problemas del pie diabético tempranamente para evitar amputaciones innecesarias.",
+      "body_es": "La neuropatía diabética afecta los pies de muchos pacientes con diabetes. El Dr. Pedro Mego subraya que la detección temprana es fundamental para prevenir complicaciones graves. Los pacientes deben examinar sus pies regularmente en busca de úlceras, enrojecimiento o cambios en la sensibilidad. Cuando las heridas no se tratan a tiempo, pueden infectarse y requerir desbridamiento o incluso amputación. El doctor recomienda que los pacientes visiten a especialistas en cuidado de heridas cada mes. Es importante mantener buenos niveles de glucosa en sangre y usar calzado apropiado. La educación del paciente es esencial para prevenir estas complicaciones. Con intervención temprana, muchas amputaciones pueden evitarse. El cuidado preventivo y la vigilancia constante salvan extremidades.",
+      "body_en": "Diabetic neuropathy affects the feet of many diabetes patients. Dr. Pedro Mego emphasizes that early detection is fundamental to prevent serious complications. Patients should examine their feet regularly for ulcers, redness, or changes in sensation. When wounds are not treated promptly, they can become infected and require debridement or even amputation. The doctor recommends that patients visit wound care specialists monthly. It is important to maintain good blood glucose levels and wear appropriate footwear. Patient education is essential to prevent these complications. With early intervention, many amputations can be prevented. Preventive care and constant vigilance save limbs.",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS1MxdmFQc0FLN3MyT2RzZnNWMDZlaUI4cDRxeE5KcWkydDJ5MTNNN3lBVDVtdlRKc1lKSWZpSmwtUlBPalFTS2ZpVmpqN2hGdXE3cXpRRV8wU2JJSS1ULW5MRnVDRnZaN2Y3ci1OSFNtRFdBZjhUaXZJWklIbThiaS0xdFY4ekpHbEVhUmJwb1JkMzhv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-25/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "neuropatía diabética",
+          "definition_es": "daño a los nervios causado por la diabetes",
+          "definition_en": "diabetic neuropathy - nerve damage caused by diabetes"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel o mucosa",
+          "definition_en": "ulcer - open wound on skin or mucous membrane"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o infectado",
+          "definition_en": "debridement - surgical removal of dead or infected tissue"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-01-25T09:07:12.115948Z"
+    },
+    {
+      "id": "burn-care-20250125",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "rose",
+      "headline_es": "Dentro del Cuidado de Pacientes con Quemaduras Graves",
+      "headline_en": "Inside the Care of Patients With Severe Burns",
+      "summary_es": "Los expertos en quemaduras revelan los protocolos y tratamientos utilizados en el cuidado especializado de pacientes con quemaduras graves.",
+      "body_es": "Las quemaduras graves requieren cuidado multidisciplinario en unidades especializadas. El tratamiento inicial incluye reemplazo de fluidos intravenosos para prevenir el shock. Los pacientes necesitan evaluación del porcentaje de superficie corporal quemada y profundidad de la lesión. El desbridamiento temprano es crítico para eliminar tejido necrótico y prevenir infecciones. Se utilizan apósitos especializados y cobertura biológica para acelerar la epitelización. El manejo del dolor es esencial mediante anestesia y analgésicos potentes. Los pacientes requieren seguimiento oftalmológico si las quemaduras afectan la cara o los ojos. La rehabilitación comienza durante la fase aguda para mantener la movilidad articular. El cuidado nutricional intensivo apoya la cicatrización de heridas. Las quemaduras graves pueden dejar cicatrices que requieren cirugía reconstructiva posterior.",
+      "body_en": "Severe burns require multidisciplinary care in specialized units. Initial treatment includes intravenous fluid replacement to prevent shock. Patients need evaluation of the percentage of body surface area burned and depth of injury. Early debridement is critical to remove necrotic tissue and prevent infections. Specialized dressings and biological coverage are used to accelerate epithelialization. Pain management is essential through anesthesia and potent analgesics. Patients require ophthalmologic follow-up if burns affect the face or eyes. Rehabilitation begins during the acute phase to maintain joint mobility. Intensive nutritional care supports wound healing. Severe burns can leave scars requiring later reconstructive surgery.",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWFl2OC1OdjdtS2hiUm1tZW80T2NQZkJZaklYcVZCbUNqb0dOYVcyVWsybGxNT0hFc0lNME4wODNVT1A1eXczbFFqSXc4eEhCLUU1Zzk0c0RxaGpvSWZMTmo0NEtyS2dtMG5kdVp1TDF6cUgtVHU5S3pxaU9LSk9tbEVEcE9Gc2FDS2tN?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-25/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o químicos",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "necrótico",
+          "definition_es": "tejido muerto o en descomposición",
+          "definition_en": "necrotic - dead or decomposing tissue"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre la herida",
+          "definition_en": "epithelialization - formation of new skin over the wound"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        }
+      ],
+      "added_at": "2026-01-25T09:07:12.115948Z"
+    },
+    {
+      "id": "surgical-wounds-20250125",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "La Cara Cicatriza Menos que el Cuerpo: Estudio de Stanford Medicine Revela por Qué",
+      "headline_en": "The Face Scars Less than the Body — a Stanford Medicine Study Unravels Why",
+      "summary_es": "Investigadores de Stanford Medicine descubren por qué las heridas quirúrgicas en la cara dejan menos cicatrices visibles que en otras partes del cuerpo.",
+      "body_es": "Los cirujanos plásticos siempre han observado que las cicatrices faciales son menos visibles que las del cuerpo. Un equipo de Stanford Medicine ahora explica este fenómeno biológico importante. La cara tiene una cantidad mayor de células inflamatorias especializadas durante la cicatrización. Estas células facilitan una respuesta regenerativa más eficiente que en el tronco y extremidades. El proceso de epitelización facial ocurre más rápidamente debido a la vascularización superior. La densidad de colágeno en la dermis facial es diferente, lo que afecta la formación de cicatrices. Los investigadores estudiaron muestras de tejido de diferentes áreas del cuerpo durante la curación. Este hallazgo puede revolucionar el tratamiento de heridas quirúrgicas en todo el cuerpo. Se espera desarrollar terapias que repliquen los procesos de cicatrización facial. Los cirujanos ahora pueden aplicar estos conocimientos para mejorar resultados estéticos en todas las heridas.",
+      "body_en": "Plastic surgeons have long observed that facial scars are less visible than body scars. A Stanford Medicine team now explains this important biological phenomenon. The face has a greater amount of specialized inflammatory cells during scarring. These cells facilitate a more efficient regenerative response than in the trunk and extremities. The facial epithelialization process occurs more rapidly due to superior vascularization. The collagen density in the facial dermis is different, affecting scar formation. Researchers studied tissue samples from different body areas during healing. This finding could revolutionize the treatment of surgical wounds throughout the body. It is expected to develop therapies that replicate facial scarring processes. Surgeons can now apply this knowledge to improve aesthetic outcomes in all wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnRJd3lpeGtxeEE1dkxVNXp0dFp4YUdYS2o5V0pjUDJ0RmdfWWUxZ0dqVGVFVXp6V2ktaWJjTFJJbE16OVhhU213ZkpMaFl0dFhiYVhjQzRERUFHRFQ4bGRQdnVTSTRTOXYxU1R1LUlMcFBBcnhWSm5mMDBCMkJxMFpZRnNGTWtIQUdLUmI2aXZITFk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-25/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de cierre y curación de heridas",
+          "definition_en": "scarring - biological process of wound closure and healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva epidermis sobre la herida",
+          "definition_en": "epithelialization - formation of new epidermis over the wound"
+        },
+        {
+          "word": "dermis",
+          "definition_es": "capa profunda de la piel debajo de la epidermis",
+          "definition_en": "dermis - deep layer of skin beneath the epidermis"
+        },
+        {
+          "word": "colágeno",
+          "definition_es": "proteína que forma la estructura de la piel y tejidos",
+          "definition_en": "collagen - protein that forms the structure of skin and tissues"
+        }
+      ],
+      "added_at": "2026-01-25T09:07:12.115948Z"
+    },
+    {
+      "id": "wound-research-20250125",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Plataformas de Hidrogel de Gelatina-Dopamina: Innovaciones Específicas en Tejidos para la Curación de Heridas",
+      "headline_en": "From Skin to Nerve: Mapping Tissue-Specific Innovations in Gelatin–Dopamine Hydrogel Platforms",
+      "summary_es": "Investigadores desarrollan hidrogeles innovadores de gelatina-dopamina que pueden adaptarse a diferentes tipos de tejidos para mejorar la curación de heridas.",
+      "body_es": "Los hidrogeles son materiales biomédicos prometedores para acelerar la cicatrización de heridas. Los científicos han desarrollado plataformas de hidrogel de gelatina-dopamina que son específicas para diferentes tejidos. Estos hidrogeles pueden modificarse según el tipo de herida, ya sea cutánea o neuronal. La dopamina integrada en el hidrogel proporciona propiedades antioxidantes y biocompatibilidad mejorada. Los investigadores mapearon cómo estos materiales interactúan con la piel, nervios y otros tejidos. El objetivo es crear vendajes inteligentes que se adapten a las necesidades de curación de cada paciente. Los estudios muestran que los hidrogeles de gelatina-dopamina aceleran la epitelización y regeneración nerviosa. Estos apósitos avanzados pueden liberar fármacos terapéuticos de forma controlada durante la curación. Los resultados sugieren aplicaciones futuras en heridas crónicas, quemaduras y lesiones nerviosas. Esta investigación representa un avance significativo hacia tratamientos de heridas personalizados.",
+      "body_en": "Hydrogels are promising biomédical materials to accelerate wound healing. Scientists have developed gelatin-dopamine hydrogel platforms that are specific to different tissues. These hydrogels can be modified according to wound type, whether skin or neural. Dopamine integrated into the hydrogel provides antioxidant properties and improved biocompatibility. Researchers mapped how these materials interact with skin, nerves, and other tissues. The goal is to create smart dressings that adapt to each patient's healing needs. Studies show that gelatin-dopamine hydrogels accelerate epithelialization and nerve regeneration. These advanced dressings can release therapeutic drugs in a controlled manner during healing. Results suggest future applications in chronic wounds, burns, and nerve injuries. This research represents a significant advance toward personalized wound treatments.",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BR1hqaHh5UXg5bi1jWkpwZTZlX2JLekdnYmpnLW5RblJDc2k2eE5GVU9GNEhNMldOdmNreklrLXBTZGRiNlVmdFdJbjZ0MlRqekNOWVBGRE0xR0xXM2QxZWQzUE9mcFFBYmFn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-25/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "hidrogel",
+          "definition_es": "material gelatinoso biocompatible para aplicaciones médicas",
+          "definition_en": "hydrogel - biocompatible gel material for medical applications"
+        },
+        {
+          "word": "gelatina",
+          "definition_es": "proteína derivada del colágeno",
+          "definition_en": "gelatin - protein derived from collagen"
+        },
+        {
+          "word": "dopamina",
+          "definition_es": "molécula con propiedades antioxidantes y bioactivas",
+          "definition_en": "dopamine - molecule with antioxidant and bioactive properties"
+        },
+        {
+          "word": "biocompatibilidad",
+          "definition_es": "capacidad de un material de no dañar los tejidos vivos",
+          "definition_en": "biocompatibility - ability of a material not to harm living tissues"
+        }
+      ],
+      "added_at": "2026-01-25T09:07:12.115948Z"
+    },
     {
       "id": "chronic-wounds-20250124",
       "category": "Chronic Wounds",
@@ -3479,6 +3664,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-24T09:06:54.678775Z",
+  "last_updated": "2026-01-25T09:07:12.115948Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
