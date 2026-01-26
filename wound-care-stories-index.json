@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-25",
-  "generated_at": "2026-01-25T09:07:12.115948Z",
+  "date": "2026-01-26",
+  "generated_at": "2026-01-26T09:13:29.636312Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 99,
+  "total_stories": 104,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20260126",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El Metabolismo Bacteriano Detiene la Curación de Heridas Crónicas",
+      "headline_en": "Bacterial Metabolism Blocks Healing in Chronic Wounds",
+      "summary_es": "Los investigadores descubren que las bacterias en heridas crónicas producen sustancias que impiden la curación. Este hallazgo abre nuevas posibilidades para mejorar los tratamientos.",
+      "body_es": "Un nuevo estudio explica por qué las heridas crónicas no cicatrizan correctamente. Los científicos encontraron que las bacterias producen un metabolismo especial. Este metabolismo crea sustancias que bloquean el proceso de curación natural del cuerpo. Las heridas crónicas afectan a millones de personas en todo el mundo. Los pacientes con diabetes y problemas circulatorios tienen más riesgo. Los investigadores ahora comprenden mejor cómo las bacterias interfieren con la cicatrización. Este conocimiento puede ayudar a desarrollar nuevos tratamientos más efectivos. Los médicos podrán atacar el metabolismo bacteriano directamente. Esto podría acelerar la curación en pacientes con heridas difíciles.",
+      "body_en": "A new study explains why chronic wounds do not heal properly. Scientists found that bacteria produce a special metabolism. This metabolism creates substances that block the body's natural healing process. Chronic wounds affect millions of people worldwide. Patients with diabetes and circulatory problems have higher risk. Researchers now better understand how bacteria interfere with wound healing. This knowledge can help develop new, more effective treatments. Doctors will be able to target bacterial metabolism directly. This could speed healing in patients with difficult wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVF9RbS02alItQl9mWGliY1J2RWlhRDh4VzF4QXpYdFdoRzZkNEhQTjRiVWRXbnRQcHZBekhfX0MzVVZ6NHRHVlpSTk5DZ2QzTXhUeUZzZVFwaWFTSWF6SVF4VWRHeVVfNFFJY0t5YVh3NUNUR1VsUGVpbG5NNzBHazAxN1gxd1kxV240SVVmWVVBR3RZUXhaU1FzOWlDVElDVXNEMXd0aWZhZ1VaeDJDUg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-26/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión en la piel que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury to skin that does not heal in normal time"
+        },
+        {
+          "word": "metabolismo",
+          "definition_es": "proceso químico que las bacterias usan para vivir",
+          "definition_en": "metabolism - chemical process that bacteria use to live"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso natural de cicatrización de la herida",
+          "definition_en": "healing - natural process of wound scarring"
+        },
+        {
+          "word": "bacteria",
+          "definition_es": "microorganismo que puede infectar heridas",
+          "definition_en": "bacteria - microorganism that can infect wounds"
+        }
+      ],
+      "added_at": "2026-01-26T09:13:29.636312Z"
+    },
+    {
+      "id": "diabetic-foot-20260126",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Investigadores Descubren el Mecanismo Biológico Detrás de Heridas Que No Cicatrizan",
+      "headline_en": "Scientists Unlock Biological Sabotage Behind Non-Healing Chronic Wounds",
+      "summary_es": "Un equipo internacional de científicos ha identificado cómo las bacterias sabotean biológicamente el proceso de cicatrización en heridas crónicas, especialmente en pacientes diabéticos.",
+      "body_es": "Los investigadores han revelado el mecanismo biológico que impide que las heridas crónicas cicatricen adecuadamente. Este descubrimiento es particularmente importante para los pacientes con pie diabético. Las bacterias presentes en estas heridas producen moléculas que interfieren con las células del cuerpo responsables de la curación. El equipo de investigación estudió cómo estas moléculas dañinas bloquean la comunicación celular necesaria para la cicatrización. Este hallazgo permite a los médicos entender por qué los tratamientos convencionales a menudo fallan. Los pacientes diabéticos tienen un riesgo especialmente alto de desarrollar úlceras en los pies que no cicatrizan. Con este nuevo conocimiento, los investigadores pueden desarrollar terapias dirigidas que combatan específicamente el sabotaje bacteriano. Los futuros tratamientos podrían incluir medicamentos que bloqueen estas moléculas dañinas. Esta investigación representa un avance significativo en el cuidado de heridas diabéticas.",
+      "body_en": "Researchers have revealed the biological mechanism that prevents chronic wounds from healing properly. This discovery is particularly important for patients with diabetic foot conditions. Bacteria present in these wounds produce molecules that interfere with the body's cells responsible for healing. The research team studied how these harmful molecules block the cellular communication necessary for wound healing. This finding allows doctors to understand why conventional treatments often fail. Diabetic patients have especially high risk of developing non-healing foot ulcers. With this new knowledge, researchers can develop targeted therapies that specifically combat bacterial sabotage. Future treatments could include medications that block these harmful molecules. This research represents a significant advance in diabetic wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUkdtV1ZoT1gyOWdneENYOUhIajVKcFBkdU52a2NkRUV6Rk9TMmlOWWp0Mm1jdEpBLWZIaklDb3BidlR1RU1NOWNwcHlNN0pHSm5xbXhGU3p2cmdPeHlBcmV4RjRLb0gwalFuTHBhaVd3QVkydDlPa0ZVUS1STmVsODkyejJKSTdqd1NxMUVXQ1BlSWpTc2ROVDZ2MktQR3V5RkpXMHNHcWE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-26/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación de la diabetes que afecta los pies con heridas que no cicatrizan",
+          "definition_en": "diabetic foot - diabetes complication affecting feet with non-healing wounds"
+        },
+        {
+          "word": "mecanismo biológico",
+          "definition_es": "proceso natural del cuerpo en el nivel celular",
+          "definition_en": "biological mechanism - natural body process at cellular level"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso por el cual una herida se cierra y forma tejido nuevo",
+          "definition_en": "scarring - process by which a wound closes and forms new tissue"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta profunda en la piel o mucosa",
+          "definition_en": "ulcer - deep open wound on skin or mucous membrane"
+        }
+      ],
+      "added_at": "2026-01-26T09:13:29.636312Z"
+    },
+    {
+      "id": "burn-care-20260126",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "AVITA Presenta Sistema Integral de Tres Partes para Cuidado de Quemaduras",
+      "headline_en": "First Three-Part AVITA Burn Care Path Cuts Painful Dressing Changes",
+      "summary_es": "AVITA Medical ha desarrollado un protocolo integral de tres componentes que reduce significativamente el dolor durante los cambios de vendajes en pacientes quemados.",
+      "body_es": "AVITA Medical ha introducido un nuevo protocolo de cuidado de quemaduras que integra tres componentes específicos para mejorar los resultados del tratamiento. Este sistema innovador está diseñado para reducir el dolor que experimentan los pacientes durante los cambios de vendajes, uno de los procedimientos más dolorosos en el cuidado de quemaduras. El protocolo utiliza tecnologías que permiten cicatrización más rápida y menos traumática. Los pacientes que reciben este tratamiento experimentan menos dolor y una recuperación más acelerada. El sistema también reduce la necesidad de procedimientos múltiples que anteriormente eran necesarios. La investigación presentada en el Simposio Boswick 2026 demuestra la efectividad de este enfoque integrado. Los médicos especialistas en quemaduras pueden ahora ofrecer tratamientos que mejoran significativamente la calidad de vida de los pacientes. Este avance representa un cambio importante en el estándar de cuidado para pacientes con quemaduras graves.",
+      "body_en": "AVITA Medical has introduced a new burn care protocol that integrates three specific components to improve treatment outcomes. This innovative system is designed to reduce the pain that patients experience during dressing changes, one of the most painful procedures in burn care. The protocol uses technologies that allow faster and less traumatic scarring. Patients receiving this treatment experience less pain and accelerated recovery. The system also reduces the need for multiple procedures that were previously necessary. Research presented at the 2026 Boswick Burn & Wound Symposium demonstrates the effectiveness of this integrated approach. Burn specialists can now offer treatments that significantly improve patient quality of life. This advancement represents an important change in the standard of care for patients with severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUV1Y093bXVSNmhlckdfN1BZcVd4b3A0a01wMmNRdXkzUmFCZWF4U05vanR0VEZVVVIyU1dCQ0kxUUJJOERGeTluWTF0N3gtbUdobUVHN1FNbWFEWVZxNFc0a1lqQTNtSm5WNG5EeWRyaUx5aVJ5T0hiTHNrYmVtUXlCT01fUlJTelNMNWx5WnhaS1NKRnJTdFlVRHItemFEb0FPSGFkX0hGdVc5M0FmbEtfNHdZSmo2Uk5jR2xSc0doMTdJajBCOQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-26/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to skin caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "cambio de vendaje",
+          "definition_es": "procedimiento de retirar y colocar nuevas cubiertas sobre una herida",
+          "definition_en": "dressing change - procedure of removing and applying new coverings over a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo en una herida",
+          "definition_en": "scarring - process of new tissue formation in a wound"
+        },
+        {
+          "word": "protocolo",
+          "definition_es": "procedimiento establecido paso a paso para un tratamiento médico",
+          "definition_en": "protocol - established step-by-step procedure for medical treatment"
+        }
+      ],
+      "added_at": "2026-01-26T09:13:29.636312Z"
+    },
+    {
+      "id": "surgical-wounds-20260126",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Por Qué la Cara Cicatriza Menos que el Cuerpo: Estudio de Stanford Medicine",
+      "headline_en": "The Face Scars Less Than the Body — A Stanford Medicine Study Unravels Why",
+      "summary_es": "Investigadores de Stanford Medicine descubren las razones biológicas por las cuales las heridas quirúrgicas en la cara cicatrizan con menos visibilidad que en otras partes del cuerpo.",
+      "body_es": "Un equipo de investigadores de Stanford Medicine ha realizado un estudio importante que explica por qué las cicatrices en la cara son típicamente menos visibles que las de otras partes del cuerpo. Este descubrimiento tiene implicaciones significativas para los pacientes que se someten a cirugía facial. Los científicos identificaron diferencias biológicas importantes en cómo la piel facial responde al trauma quirúrgico comparado con la piel del resto del cuerpo. La investigación sugiere que la composición celular de la piel facial permite una cicatrización más limpia y menos notoria. Los investigadores examinaron cómo el cuerpo gestiona la inflamación y la regeneración de tejido en diferentes áreas. Estos hallazgos podrían beneficiar a pacientes sometidos a procedimientos quirúrgicos faciales, incluyendo reconstrucción y reparación de heridas traumáticas. Los cirujanos ahora pueden utilizar este conocimiento para mejorar sus técnicas quirúrgicas. La comprensión de estos mecanismos abre nuevas posibilidades para minimizar cicatrices visibles en todas las áreas del cuerpo.",
+      "body_en": "A team of researchers from Stanford Medicine conducted an important study explaining why scars on the face are typically less visible than those on other body parts. This discovery has significant implications for patients undergoing facial surgery. Scientists identified important biological differences in how facial skin responds to surgical trauma compared to skin on the rest of the body. Research suggests that the cellular composition of facial skin allows cleaner scarring and less noticeable results. Researchers examined how the body manages inflammation and tissue regeneration in different areas. These findings could benefit patients undergoing facial surgical procedures, including reconstruction and traumatic wound repair. Surgeons can now use this knowledge to improve their surgical techniques. Understanding these mechanisms opens new possibilities for minimizing visible scars in all body areas.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnRJd3lpeGtxeEE1dkxVNXp0dFp4YUdYS2o5V0pjUDJ0RmdfWWUxZ0dqVGVFVXp6V2ktaWJjTFJJbE16OVhhU213ZkpMaFl0dFhiYVhjQzRERUFHRFQ4bGRQdnVTSTRTOXYxU1R1LUlMcFBBcnhWSm5mMDBCMkJxMFpZRnNGTWtIQUdLUmI2aXZITFk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-26/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de que una herida cicatriza",
+          "definition_en": "scar - mark that remains after a wound heals"
+        },
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión deliberada hecha durante una operación médica",
+          "definition_en": "surgical wound - deliberate incision made during a medical operation"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación donde se forma tejido cicatricial",
+          "definition_en": "scarring - healing process where scar tissue forms"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "reacción del cuerpo a una lesión con hinchazón y enrojecimiento",
+          "definition_en": "inflammation - body's reaction to injury with swelling and redness"
+        }
+      ],
+      "added_at": "2026-01-26T09:13:29.636312Z"
+    },
+    {
+      "id": "wound-research-20260126",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Médica Especialista Combina Innovación y Conexión Humana en Investigación de Heridas",
+      "headline_en": "Physician Spotlight: Danielle Cerbón is at the Intersection of Innovation and Human Connection",
+      "summary_es": "La Dra. Danielle Cerbón de UF Health integra tecnología innovadora con atención compasiva en su investigación y tratamiento de heridas complejas.",
+      "body_es": "La Dra. Danielle Cerbón, especialista en cuidado de heridas de UF Health, representa un enfoque moderno que combina avances tecnológicos con conexión humana genuina. Su trabajo se enfoca en desarrollar y aplicar nuevas estrategias de tratamiento para heridas complejas y difíciles de tratar. La doctora reconoce que el cuidado de heridas requiere más que solo procedimientos técnicos avanzados; también necesita empatía y comprensión del paciente. Su investigación explora cómo las nuevas tecnologías pueden ser integradas efectivamente en protocolos clínicos mientras se mantiene el bienestar emocional del paciente. Cerbón colabora con equipos multidisciplinarios para mejorar continuamente los resultados del tratamiento. Su enfoque innovador ha contribuido significativamente a avances en el campo del cuidado de heridas. La comunidad médica reconoce la importancia de combinar investigación rigurosa con atención personalizada. El trabajo de la Dra. Cerbón demuestra que la medicina moderna puede ser tanto científicamente rigurosa como humanamente compasiva.",
+      "body_en": "Dr. Danielle Cerbón, a wound care specialist at UF Health, represents a modern approach that combines technological advances with genuine human connection. Her work focuses on developing and applying new treatment strategies for complex and difficult-to-treat wounds. The doctor recognizes that wound care requires more than just advanced technical procedures; it also needs empathy and patient understanding. Her research explores how new technologies can be effectively integrated into clinical protocols while maintaining patient emotional well-being. Cerbón collaborates with multidisciplinary teams to continuously improve treatment outcomes. Her innovative approach has contributed significantly to advances in wound care. The medical community recognizes the importance of combining rigorous research with personalized care. Dr. Cerbón's work demonstrates that modern medicine can be both scientifically rigorous and compassionately human.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDB4TFVqSjlrajg2OVJ2alMwSmRzTWlPZWJYV2xtZURVUVNLMEhreFBKTWxycEF6bW1wNE5tQlRuMWxNSUdHQmV1S01IN1I2UHZSUm0ya0lHUzhZMWZCZGtTekhma05yTWd6Y1pOZmZQSVVDVUVGNzRXVVdsS2pCdGY2b0RvOG1tUktuRVpFdFVoQ0tXYm9oaFk2VF91djJCTk9GdDhvSXVyN0paaTA4RXlGUVdQV0xRWW1ZLVIwNXFabE5qZEE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-26/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cuidado de heridas",
+          "definition_es": "especialidad médica dedicada al tratamiento y management de heridas complejas",
+          "definition_en": "wound care - medical specialty dedicated to treatment and management of complex wounds"
+        },
+        {
+          "word": "innovación",
+          "definition_es": "introducción de nuevas técnicas, tecnologías o métodos en medicina",
+          "definition_en": "innovation - introduction of new techniques, technologies, or methods in medicine"
+        },
+        {
+          "word": "protocolo clínico",
+          "definition_es": "conjunto de procedimientos estandarizados para el tratamiento de una condición",
+          "definition_en": "clinical protocol - standardized set of procedures for treating a condition"
+        },
+        {
+          "word": "equipo multidisciplinario",
+          "definition_es": "grupo de profesionales de diferentes especialidades trabajando juntos",
+          "definition_en": "multidisciplinary team - group of professionals from different specialties working together"
+        }
+      ],
+      "added_at": "2026-01-26T09:13:29.636312Z"
+    },
     {
       "id": "chronic-wounds-20250125",
       "category": "Chronic Wounds",
@@ -3664,6 +3849,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-25T09:07:12.115948Z",
+  "last_updated": "2026-01-26T09:13:29.636312Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
