@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-26",
+      "filename": "spanish_lesson_2026-01-26.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-26.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Demócratas Exigen Cambios en Ley de Seguridad Nacional",
+          "headline_en": "Democrats Demand Changes to Homeland Security Law",
+          "body_es": "Los demócratas en el Congreso estadounidense exigen cambios importantes en un nuevo proyecto de ley de seguridad nacional. Este proyecto regula la protección del país contra amenazas externas e internas. Los políticos demócratas no están satisfechos con la versión actual del documento. Quieren modificar varias partes antes de votar. Si no llegan a un acuerdo, el gobierno podría cerrar temporalmente sus operaciones. Esto significa que muchos trabajadores públicos no recibirían sus salarios. Las negociaciones continúan en Washington. Los republicanos y demócratas buscan una solución que beneficie a todos. La seguridad nacional es un tema muy importante para ambos partidos políticos.",
+          "body_en": "Democrats in the US Congress demand important changes to a new homeland security bill. This bill regulates the country's protection against external and internal threats. Democratic politicians are not satisfied with the current version of the document. They want to modify several parts before voting. If they don't reach an agreement, the government could temporarily shut down its operations. This means many public workers wouldn't receive their salaries. Negotiations continue in Washington. Republicans and Democrats seek a solution that benefits everyone. National security is a very important issue for both political parties.",
+          "source": "The Wall Street Journal"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Economía de Estados Unidos Crece 4.4% en el Tercer Trimestre",
+          "headline_en": "US Economy Grows 4.4% in Third Quarter",
+          "body_es": "La economía estadounidense mostró un crecimiento impresionante del 4.4% durante el tercer trimestre del año. Este resultado es mejor de lo que esperaban los expertos económicos. El aumento se debe principalmente a dos factores importantes: las exportaciones y el gasto de los consumidores. Las exportaciones significa que Estados Unidos vendió más productos a otros países. Los ciudadanos también gastaron más dinero en tiendas y servicios. Esto ayuda a las empresas a crecer y contratar más trabajadores. Los analistas consideran estas cifras muy positivas para el futuro del país. El gobierno espera que esta tendencia continúe en los próximos meses. La economía fuerte beneficia a todos los estadounidenses con más empleos y mejores salarios.",
+          "body_en": "The US economy showed impressive 4.4% growth during the third quarter of the year. This result is better than what economic experts expected. The increase is mainly due to two important factors: exports and consumer spending. Exports means the United States sold more products to other countries. Citizens also spent more money in stores and services. This helps companies grow and hire more workers. Analysts consider these figures very positive for the country's future. The government hopes this trend will continue in the coming months. A strong economy benefits all Americans with more jobs and better wages.",
+          "source": "MSN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa Recibe 100 Millones para Tecnología de Inteligencia Artificial",
+          "headline_en": "Company Receives 100 Million for Artificial Intelligence Technology",
+          "body_es": "La empresa Deep33 recibió una inversión de 100 millones de dólares para desarrollar tecnología avanzada. El dinero se usará para proyectos de inteligencia artificial y computación cuántica. Estos son campos muy modernos de la tecnología. La inversión es una colaboración entre Estados Unidos e Israel. Ambos países trabajan juntos en innovación tecnológica. La inteligencia artificial permite que las máquinas piensen como humanos. La computación cuántica es una forma súper rápida de procesar información. Esta tecnología puede revolucionar muchas industrias como medicina, transporte y comunicaciones. La empresa planea usar el dinero para contratar científicos brillantes. También construirán nuevos laboratorios para sus investigaciones. Este tipo de inversiones ayuda a mantener a Estados Unidos como líder mundial en tecnología.",
+          "body_en": "The company Deep33 received a 100 million dollar investment to develop advanced technology. The money will be used for artificial intelligence and quantum computing projects. These are very modern fields of technology. The investment is a collaboration between the United States and Israel. Both countries work together in technological innovation. Artificial intelligence allows machines to think like humans. Quantum computing is a super-fast way to process information. This technology can revolutionize many industries like medicine, transportation, and communications. The company plans to use the money to hire brilliant scientists. They will also build new laboratories for their research. This type of investment helps keep the United States as a world leader in technology.",
+          "source": "Quantum Zeitgeist"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "demócratas",
+          "syllables": "de-MÓ-cra-tas",
+          "pos": "sustantivo",
+          "context": "Los demócratas exigen cambios en el proyecto de ley de seguridad nacional.",
+          "definition_es": "Miembros del partido político Demócrata en Estados Unidos",
+          "definition_en": "Members of the Democratic political party in the United States"
+        },
+        {
+          "word": "exigir",
+          "syllables": "e-xi-GIR",
+          "pos": "verbo",
+          "context": "Los políticos exigen modificaciones al proyecto de ley.",
+          "definition_es": "Pedir algo con autoridad o de manera firme",
+          "definition_en": "To demand or require something firmly"
+        },
+        {
+          "word": "crecimiento",
+          "syllables": "cre-ci-MIEN-to",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense muestra un crecimiento del 4.4%.",
+          "definition_es": "Aumento en tamaño, cantidad o importancia",
+          "definition_en": "An increase in size, amount, or importance"
+        },
+        {
+          "word": "exportaciones",
+          "syllables": "ex-por-ta-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las exportaciones han aumentado significativamente este trimestre.",
+          "definition_es": "Productos que un país vende a otros países",
+          "definition_en": "Products that a country sells to other countries"
+        },
+        {
+          "word": "inversiones",
+          "syllables": "in-ver-SIO-nes",
+          "pos": "sustantivo",
+          "context": "La empresa recibió 100 millones de dólares en inversiones.",
+          "definition_es": "Dinero que se pone en un negocio para obtener beneficios",
+          "definition_en": "Money put into a business to gain profit"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La empresa se especializa en tecnología de inteligencia artificial.",
+          "definition_es": "Aplicación de conocimientos científicos para crear herramientas útiles",
+          "definition_en": "Application of scientific knowledge to create useful tools"
+        },
+        {
+          "word": "proyecto de ley",
+          "syllables": "pro-YEC-to de LEY",
+          "pos": "sustantivo",
+          "context": "El Congreso debate un nuevo proyecto de ley sobre seguridad.",
+          "definition_es": "Propuesta de nueva ley que debe ser aprobada",
+          "definition_en": "A proposed new law that must be approved"
+        },
+        {
+          "word": "trimestre",
+          "syllables": "tri-MES-tre",
+          "pos": "sustantivo",
+          "context": "Los resultados económicos del tercer trimestre son positivos.",
+          "definition_es": "Período de tres meses consecutivos",
+          "definition_en": "A period of three consecutive months"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'exigir'?",
+          "options": [
+            "Pedir algo con cortesía",
+            "Pedir algo con autoridad",
+            "Dar algo gratis",
+            "Rechazar una propuesta"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las exportaciones?",
+          "options": [
+            "Productos que un país compra",
+            "Productos que un país vende a otros países",
+            "Dinero del gobierno",
+            "Trabajadores extranjeros"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuántos meses tiene un trimestre?",
+          "options": [
+            "Dos meses",
+            "Tres meses",
+            "Cuatro meses",
+            "Seis meses"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son las inversiones?",
+          "options": [
+            "Productos tecnológicos",
+            "Dinero puesto en un negocio para obtener beneficios",
+            "Leyes del gobierno",
+            "Trabajos nuevos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué podría pasar si no hay acuerdo?",
+          "options": [
+            "Los precios suben",
+            "El gobierno cierra temporalmente",
+            "Hay más empleos",
+            "La economía crece"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál fue el crecimiento económico de Estados Unidos en el tercer trimestre?",
+          "options": [
+            "3.4%",
+            "4.4%",
+            "5.4%",
+            "6.4%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuáles fueron las dos causas principales del crecimiento económico?",
+          "options": [
+            "Importaciones y tecnología",
+            "Exportaciones y gasto de consumidores",
+            "Política y educación",
+            "Medicina y transporte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero recibió la empresa Deep33?",
+          "options": [
+            "50 millones de dólares",
+            "75 millones de dólares",
+            "100 millones de dólares",
+            "125 millones de dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué dos países colaboran en la inversión tecnológica?",
+          "options": [
+            "Estados Unidos y Canadá",
+            "Estados Unidos e Israel",
+            "Estados Unidos y México",
+            "Estados Unidos y Francia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿En qué tipos de tecnología se enfoca Deep33?",
+          "options": [
+            "Medicina y agricultura",
+            "Inteligencia artificial y computación cuántica",
+            "Transportes y comunicaciones",
+            "Educación y entretenimiento"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-26T09:06:42.962987"
+    },
+    {
       "date": "2026-01-25",
       "filename": "spanish_lesson_2026-01-25.pdf",
       "path": "pdfs/spanish_lesson_2026-01-25.pdf",
@@ -10904,7 +11126,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-25T09:02:15.900077",
+  "last_updated": "2026-01-26T09:06:42.963005",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
