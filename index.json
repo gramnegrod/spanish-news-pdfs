@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-27",
+      "filename": "spanish_lesson_2026-01-27.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-27.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Conflicto político amenaza el financiamiento del gobierno estadounidense",
+          "headline_en": "Political conflict threatens US government funding",
+          "body_es": "Un conflicto político está causando problemas para el financiamiento del gobierno de Estados Unidos. Los demócratas del Senado se oponen a una nueva ley del Departamento de Seguridad Nacional. El conflicto comenzó después de un incidente violento en Minnesota con Alex Pretti. Los senadores demócratas dicen que no van a apoyar la ley por esta razón. Esta situación puede afectar el funcionamiento del gobierno. Los políticos necesitan encontrar una solución rápida. Sin un acuerdo, algunas partes del gobierno pueden cerrar. La situación es muy tensa en Washington. Los ciudadanos están preocupados por las consecuencias. Es importante que los políticos trabajen juntos para resolver este problema antes de que sea demasiado tarde.",
+          "body_en": "A political conflict is causing problems for US government funding. Senate Democrats oppose a new Department of Homeland Security bill. The conflict began after a violent incident in Minnesota involving Alex Pretti. Democratic senators say they will not support the bill for this reason. This situation could affect government operations. Politicians need to find a quick solution. Without an agreement, some parts of the government may shut down. The situation is very tense in Washington. Citizens are worried about the consequences. It's important that politicians work together to solve this problem before it's too late.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Semana importante para los mercados: resultados tecnológicos y decisión del banco central",
+          "headline_en": "Important week for markets: tech results and central bank decision",
+          "body_es": "Esta semana será muy importante para los mercados financieros de Estados Unidos. Los inversionistas esperan dos eventos principales. Primero, las grandes empresas tecnológicas van a anunciar sus ganancias del último trimestre. Estas empresas incluyen compañías muy conocidas como Apple, Google y Microsoft. Sus resultados pueden cambiar mucho los precios en los mercados. Segundo, el banco central de Estados Unidos (Fed) va a tomar una decisión importante sobre las tasas de interés. Esta decisión afecta toda la economía del país. Los inversionistas están nerviosos porque no saben qué va a pasar. Si las noticias son buenas, los precios de las acciones pueden subir. Si las noticias son malas, los precios pueden bajar mucho. Todos están esperando para ver qué pasa.",
+          "body_en": "This week will be very important for US financial markets. Investors are waiting for two main events. First, big tech companies will announce their earnings from the last quarter. These companies include well-known firms like Apple, Google and Microsoft. Their results could greatly change market prices. Second, the US central bank (Fed) will make an important decision about interest rates. This decision affects the entire country's economy. Investors are nervous because they don't know what will happen. If the news is good, stock prices could rise. If the news is bad, prices could fall significantly. Everyone is waiting to see what happens.",
+          "source": "Business Insider"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Experto en inteligencia artificial advierte sobre problemas futuros de la tecnología",
+          "headline_en": "Artificial intelligence expert warns about future technology problems",
+          "body_es": "Yann LeCun es un pionero muy famoso en inteligencia artificial. Ahora él advierte que la industria tecnológica puede tener problemas serios en el futuro. LeCun dice que muchas empresas están siguiendo las mismas ideas sin pensar bien. Él llama a esto \"el rebaño tecnológico\". Según el experto, este comportamiento puede llevar a un \"callejón sin salida\". Esto significa que la tecnología puede dejar de avanzar. LeCun trabaja para Meta, la empresa de Facebook. Él ha estudiado inteligencia artificial por muchos años. Su opinión es muy importante porque él ayudó a crear esta tecnología. El experto sugiere que las empresas deben ser más creativas. También dice que necesitan pensar en nuevas formas de desarrollar la inteligencia artificial. Su mensaje es claro: la industria debe cambiar su enfoque.",
+          "body_en": "Yann LeCun is a very famous pioneer in artificial intelligence. Now he warns that the tech industry may have serious problems in the future. LeCun says many companies are following the same ideas without thinking carefully. He calls this \"the tech herd\". According to the expert, this behavior could lead to a \"dead end\". This means technology could stop advancing. LeCun works for Meta, Facebook's company. He has studied artificial intelligence for many years. His opinion is very important because he helped create this technology. The expert suggests companies should be more creative. He also says they need to think of new ways to develop artificial intelligence. His message is clear: the industry must change its approach.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "financiamiento",
+          "syllables": "fi-nan-cia-MIEN-to",
+          "pos": "sustantivo",
+          "context": "El financiamiento del gobierno está en peligro por el conflicto político.",
+          "definition_es": "Dinero que se da para apoyar algo, especialmente del gobierno",
+          "definition_en": "Funding, financial support"
+        },
+        {
+          "word": "oponerse",
+          "syllables": "o-po-NER-se",
+          "pos": "verbo",
+          "context": "Los demócratas se oponen a la nueva ley.",
+          "definition_es": "Estar en contra de algo, no estar de acuerdo",
+          "definition_en": "To oppose, to be against"
+        },
+        {
+          "word": "inversionistas",
+          "syllables": "in-ver-sio-NIS-tas",
+          "pos": "sustantivo",
+          "context": "Los inversionistas esperan noticias importantes esta semana.",
+          "definition_es": "Personas que ponen dinero en negocios para ganar más dinero",
+          "definition_en": "Investors"
+        },
+        {
+          "word": "ganancias",
+          "syllables": "ga-NAN-cias",
+          "pos": "sustantivo",
+          "context": "Las ganancias de las empresas tecnológicas son muy importantes.",
+          "definition_es": "Dinero que se obtiene cuando un negocio tiene éxito",
+          "definition_en": "Earnings, profits"
+        },
+        {
+          "word": "pionero",
+          "syllables": "pio-NE-ro",
+          "pos": "sustantivo",
+          "context": "Yann LeCun es un pionero en inteligencia artificial.",
+          "definition_es": "Persona que es la primera en hacer algo nuevo e importante",
+          "definition_en": "Pioneer"
+        },
+        {
+          "word": "advertir",
+          "syllables": "ad-ver-TIR",
+          "pos": "verbo",
+          "context": "El experto advierte sobre los problemas de la tecnología.",
+          "definition_es": "Decir que algo malo puede pasar",
+          "definition_en": "To warn"
+        },
+        {
+          "word": "decisión",
+          "syllables": "de-ci-SIÓN",
+          "pos": "sustantivo",
+          "context": "La decisión del banco central es muy importante para la economía.",
+          "definition_es": "Cuando alguien elige qué hacer",
+          "definition_en": "Decision"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros están muy activos esta semana.",
+          "definition_es": "Lugares donde se compran y venden acciones y otros productos financieros",
+          "definition_en": "Markets"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'financiamiento'?",
+          "options": [
+            "Dinero para apoyar algo",
+            "Un tipo de banco",
+            "Una ley nueva",
+            "Un conflicto político"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Quiénes son los 'inversionistas'?",
+          "options": [
+            "Políticos del gobierno",
+            "Personas que ponen dinero en negocios",
+            "Trabajadores de bancos",
+            "Expertos en tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Un 'pionero' es una persona que:",
+          "options": [
+            "Trabaja en el gobierno",
+            "Es la primera en hacer algo nuevo",
+            "Invierte mucho dinero",
+            "Estudia en la universidad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'advertir'?",
+          "options": [
+            "Ganar dinero",
+            "Decir que algo malo puede pasar",
+            "Estar de acuerdo",
+            "Trabajar en equipo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿por qué se oponen los demócratas a la ley?",
+          "options": [
+            "Por el incidente en Minnesota",
+            "Por problemas económicos",
+            "Por falta de dinero",
+            "Por decisiones del banco central"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué dos eventos importantes esperan los inversionistas esta semana?",
+          "options": [
+            "Elecciones y nuevas leyes",
+            "Ganancias tecnológicas y decisión del Fed",
+            "Conflictos políticos y problemas sociales",
+            "Nuevas empresas y cambios gubernamentales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Para qué empresa trabaja Yann LeCun?",
+          "options": [
+            "Apple",
+            "Google",
+            "Meta",
+            "Microsoft"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué puede pasar si no hay acuerdo en el conflicto político?",
+          "options": [
+            "Los precios suben",
+            "Algunas partes del gobierno pueden cerrar",
+            "Las empresas ganan más dinero",
+            "La tecnología avanza más rápido"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué problema ve LeCun en la industria tecnológica?",
+          "options": [
+            "Falta de dinero",
+            "Muchas empresas siguen las mismas ideas",
+            "No hay suficientes trabajadores",
+            "Los gobiernos no apoyan la tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué incluyen las grandes empresas tecnológicas mencionadas en la historia económica?",
+          "options": [
+            "Meta, Tesla y Amazon",
+            "Apple, Google y Microsoft",
+            "Facebook, Twitter y Instagram",
+            "IBM, Intel y Samsung"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-27T09:06:31.156709"
+    },
+    {
       "date": "2026-01-26",
       "filename": "spanish_lesson_2026-01-26.pdf",
       "path": "pdfs/spanish_lesson_2026-01-26.pdf",
@@ -11126,7 +11348,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-26T09:06:42.963005",
+  "last_updated": "2026-01-27T09:06:31.156724",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
