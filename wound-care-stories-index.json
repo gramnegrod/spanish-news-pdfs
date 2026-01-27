@@ -1,11 +1,196 @@
 {
-  "date": "2026-01-26",
-  "generated_at": "2026-01-26T09:13:29.636312Z",
+  "date": "2026-01-27",
+  "generated_at": "2026-01-27T09:12:18.538147Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 104,
+  "total_stories": 109,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250127",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Las Bacterias Ralentizan la Curación de Heridas Crónicas",
+      "headline_en": "Bacteria Slow Healing of Chronic Wounds",
+      "summary_es": "Un nuevo estudio explica cómo el metabolismo bacteriano bloquea la cicatrización en heridas crónicas. Los investigadores descubren que las bacterias interfieren con el proceso natural de curación del cuerpo.",
+      "body_es": "Las heridas crónicas no cierran bien. Los médicos descubren por qué. Las bacterias viven en la herida y producen cambios químicos. Estos cambios detienen la curación normal. El cuerpo no puede reparar la piel dañada. Los investigadores estudian cómo el metabolismo bacteriano afecta las heridas. Entienden el proceso de cicatrización. Las bacterias crean un ambiente malo en la herida. El oxígeno no llega bien. Los tejidos no se regeneran. Este descubrimiento es importante para enfermeras y especialistas en heridas. Ahora los médicos pueden desarrollar nuevos tratamientos. Los tratamientos pueden atacar el metabolismo bacteriano. La curación será más rápida.",
+      "body_en": "Chronic wounds do not close properly. Doctors discover why. Bacteria live in the wound and produce chemical changes. These changes stop normal healing. The body cannot repair damaged skin. Researchers study how bacterial metabolism affects wounds. They understand the scarring process. Bacteria create a bad environment in the wound. Oxygen does not reach well. Tissues do not regenerate. This discovery is important for nurses and wound specialists. Now doctors can develop new treatments. The treatments can attack bacterial metabolism. Healing will be faster.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVF9RbS02alItQl9mWGliY1J2RWlhRDh4VzF4QXpYdFdoRzZkNEhQTjRiVWRXbnRQcHZBekhfX0MzVVZ6NHRHVlpSTk5DZ2QzTXhUeUZzZVFwaWFTSWF6SVF4VWRHeVVfNFFJY0t5YVh3NUNUR1VsUGVpbG5NNzBHazAxN1gxd1kxV240SVVmWVVBR3RZUXhaU1FzOWlDVElDVXNEMXd0aWZhZ1VaeDJDUg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-27/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra después de varias semanas",
+          "definition_en": "chronic wound - injury that does not close after several weeks"
+        },
+        {
+          "word": "metabolismo bacteriano",
+          "definition_es": "procesos químicos de las bacterias",
+          "definition_en": "bacterial metabolism - chemical processes of bacteria"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y recuperación",
+          "definition_en": "healing - process of scarring and recovery"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de nuevo tejido para cerrar la herida",
+          "definition_en": "scarring - formation of new tissue to close the wound"
+        }
+      ],
+      "added_at": "2026-01-27T09:12:18.538147Z"
+    },
+    {
+      "id": "diabetic-foot-20250127",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Inhibidores SGLT2 Reducen el Riesgo de Neuropatía en Pacientes Diabéticos",
+      "headline_en": "SGLT2 Inhibitors Reduce Neuropathy Risk in Diabetic Patients",
+      "summary_es": "Un estudio danés demuestra que los inhibidores SGLT2 disminuyen significativamente el riesgo de desarrollar neuropatía diabética. Este hallazgo ofrece nuevas perspectivas para la prevención de complicaciones en los pies.",
+      "body_es": "Los inhibidores SGLT2 son medicamentos que ayudan a controlar la diabetes. Un nuevo estudio danés investigó cómo estos medicamentos afectan la neuropatía diabética. La neuropatía es el daño a los nervios de los pies causado por la diabetes. Los investigadores analizaron datos de muchos pacientes durante varios años. Encontraron que los pacientes que tomaban inhibidores SGLT2 tenían menor riesgo de desarrollar neuropatía. El riesgo se redujo significativamente en comparación con otros tratamientos. Este resultado es importante porque la neuropatía causa dolor, pérdida de sensibilidad y úlceras en los pies. Los especialistas en heridas pueden considerar estos medicamentos como parte del tratamiento preventivo. Las enfermeras deben informar a los pacientes diabéticos sobre estos beneficios. La prevención de la neuropatía mejora la calidad de vida.",
+      "body_en": "SGLT2 inhibitors are medications that help control diabetes. A new Danish study investigated how these medications affect diabetic neuropathy. Neuropathy is nerve damage in the feet caused by diabetes. Researchers analyzed data from many patients over several years. They found that patients taking SGLT2 inhibitors had a lower risk of developing neuropathy. The risk was significantly reduced compared to other treatments. This result is important because neuropathy causes pain, loss of sensation, and foot ulcers. Wound care specialists can consider these medications as part of preventive treatment. Nurses should inform diabetic patients about these benefits. Prevention of neuropathy improves quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGluMHh3U3RXT0VXVlFzUVV4cWNXaW1sVjFBektIN0hBdms1NmszQ280bEtMYVZwcjllZUxNTGNlQUxHMTJHTnE1TS1fblRqc2FHdktfS2RvcTdwRkI2QVl1RG1ub292aWlzc3JqMGZTREw3a0xlRmtoNnZJNk1xNlhxMmFqS0lRdm02djRGWWVsM1J5dEdLZkpUSGFFb1J6MEdhNWc0ZFdoVHdL?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-27/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "neuropatía diabética",
+          "definition_es": "daño a los nervios causado por la diabetes",
+          "definition_en": "diabetic neuropathy - nerve damage caused by diabetes"
+        },
+        {
+          "word": "inhibidor SGLT2",
+          "definition_es": "medicamento para controlar el azúcar en la sangre",
+          "definition_en": "SGLT2 inhibitor - medication to control blood sugar"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acción de evitar una enfermedad",
+          "definition_en": "prevention - action to avoid a disease"
+        },
+        {
+          "word": "úlcera del pie",
+          "definition_es": "herida abierta en el pie",
+          "definition_en": "foot ulcer - open wound on the foot"
+        }
+      ],
+      "added_at": "2026-01-27T09:12:18.538147Z"
+    },
+    {
+      "id": "burn-care-20250127",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Nuevo Tratamiento AVITA Reduce el Dolor en Cambios de Vendajes de Quemaduras",
+      "headline_en": "New AVITA Treatment Reduces Pain in Burn Dressing Changes",
+      "summary_es": "Un nuevo sistema de tres partes de AVITA Medical revoluciona el cuidado de quemaduras al reducir significativamente el dolor durante los cambios de vendajes. Este avance mejora la experiencia del paciente y acelera la recuperación.",
+      "body_es": "Los cambios de vendajes en quemaduras son dolorosos y difíciles para los pacientes. AVITA Medical desarrolló un nuevo sistema de tratamiento en tres partes. Este sistema integrado reduce el dolor durante los procedimientos de curación. El primer componente prepara la herida. El segundo aplica un tratamiento especializado. El tercero protege la quemadura mientras cicatriza. Los estudios en el Simposio Boswick de Quemaduras y Heridas de 2026 mostraron resultados positivos. Los pacientes reportaron menos molestias durante los cambios de vendajes. Las enfermeras pueden cambiar los apósitos con mayor facilidad. El tiempo de curación se reduce comparado con métodos tradicionales. Los especialistas en quemaduras reconocen esta tecnología como un avance importante. El nuevo tratamiento mejora la calidad de vida de los pacientes quemados. La reducción del dolor facilita la rehabilitación y cicatrización.",
+      "body_en": "Dressing changes in burn wounds are painful and difficult for patients. AVITA Medical developed a new three-part treatment system. This integrated system reduces pain during healing procedures. The first component prepares the wound. The second applies specialized treatment. The third protects the burn while it heals. Studies at the 2026 Boswick Burn and Wound Symposium showed positive results. Patients reported less discomfort during dressing changes. Nurses can change dressings more easily. Healing time is reduced compared to traditional methods. Burn specialists recognize this technology as an important advance. The new treatment improves quality of life for burned patients. Pain reduction facilitates rehabilitation and scarring.",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUV1Y093bXVSNmhlckdfN1BZcVd4b3A0a01wMmNRdXkzUmFCZWF4U05vanR0VEZVVVIyU1dCQ0kxUUJJOERGeTluWTF0N3gtbUdobUVHN1FNbWFEWVZxNFc0a1lqQTNtSm5WNG5EeWRyaUx5aVJ5T0hiTHNrYmVtUXlCT01fUlJTelNMNWx5WnhaS1NKRnJTdFlVRHItemFEb0FPSGFkX0hGdVc5M0FmbEtfNHdZSmo2Uk5jR2xSc0doMTdJajBCOQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-27/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor o fuego",
+          "definition_en": "burn - skin injury caused by heat or fire"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de nueva piel",
+          "definition_en": "scarring - process of new skin formation"
+        }
+      ],
+      "added_at": "2026-01-27T09:12:18.538147Z"
+    },
+    {
+      "id": "surgical-wounds-20250127",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "¿Por Qué la Cara Cicatriza Menos que el Cuerpo? Investigadores de Stanford Descubren la Respuesta",
+      "headline_en": "Why Does the Face Scar Less Than the Body? Stanford Researchers Uncover the Answer",
+      "summary_es": "Un estudio innovador de Stanford Medicine revela por qué las heridas quirúrgicas en la cara cicatrizan de manera diferente al resto del cuerpo. Este descubrimiento abre nuevas posibilidades para mejorar la cicatrización quirúrgica.",
+      "body_es": "Los cirujanos han notado durante años que las cicatrices faciales son menos visibles que otras cicatrices. Investigadores de Stanford Medicine quisieron entender por qué ocurre esto. Realizaron un estudio profundo sobre la cicatrización en diferentes partes del cuerpo. Descubrieron que la piel facial tiene características especiales. Las células de la cara cicatrizan de manera más organizada. El proceso inflamatorio es diferente en la cara. Los vasos sanguíneos faciales contribuyen a una mejor cicatrización. El grosor de la piel también influye en los resultados. Este conocimiento puede ayudar a los cirujanos a mejorar técnicas. Las enfermeras pueden usar esta información en el cuidado postoperatorio. Se pueden desarrollar nuevos tratamientos basados en estos hallazgos. Los pacientes pueden esperar mejores resultados cicatriciales. Este avance es especialmente importante para cirugía facial y reconstructiva.",
+      "body_en": "Surgeons have noticed for years that facial scars are less visible than other scars. Stanford Medicine researchers wanted to understand why this occurs. They conducted an in-depth study on scarring in different body parts. They discovered that facial skin has special characteristics. Face cells scar in a more organized way. The inflammatory process is different on the face. Facial blood vessels contribute to better scarring. The thickness of the skin also influences results. This knowledge can help surgeons improve techniques. Nurses can use this information in postoperative care. New treatments can be developed based on these findings. Patients can expect better scarring results. This advance is especially important for facial and reconstructive surgery.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnRJd3lpeGtxeEE1dkxVNXp0dFp4YUdYS2o5V0pjUDJ0RmdfWWUxZ0dqVGVFVXp6V2ktaWJjTFJJbE16OVhhU013ZkpMaFl0dFhiYVhjQzRERUFHRFQ4bGRQdnVTSTRTOXYxU1R1LUlMcFBBcnhWSm5mMDBCMkJxMFpZRnNGTWtIQUdLUmI2aXZITFk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-27/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de sanar una herida quirúrgica",
+          "definition_en": "scarring - process of healing a surgical wound"
+        },
+        {
+          "word": "epidermis",
+          "definition_es": "capa externa de la piel",
+          "definition_en": "epidermis - outer layer of skin"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "reacción del cuerpo a la lesión con hinchazón",
+          "definition_en": "inflammation - body's reaction to injury with swelling"
+        }
+      ],
+      "added_at": "2026-01-27T09:12:18.538147Z"
+    },
+    {
+      "id": "wound-research-20250127",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Subvención de $185,000 Fortalece los Laboratorios de Terapia Física en Universidad de Stockton",
+      "headline_en": "$185,000 Grant Strengthens Physical Therapy Labs at Stockton University",
+      "summary_es": "La Universidad de Stockton recibió una subvención importante para mejorar sus laboratorios de terapia física. Esta inversión permitirá avances en la investigación y educación en cuidado de heridas.",
+      "body_es": "La Universidad de Stockton recibió una subvención de $185,000 para fortalecer su programa de terapia física. Los fondos mejorarán los laboratorios donde estudian y entrenan los futuros terapeutas. Los estudiantes tendrán acceso a equipamiento más moderno y avanzado. Los laboratorios permitirán investigación sobre rehabilitación y cicatrización. Los profesores pueden desarrollar nuevos métodos de tratamiento. Los estudiantes aprenderán técnicas actualizadas para el cuidado de heridas. La investigación incluirá evaluación de nuevos apósitos y vendajes. Se estudiarán procesos de cicatrización en diferentes tipos de heridas. Los resultados beneficiarán a pacientes en la comunidad. Las enfermeras y terapeutas recibirán mejor capacitación. Los graduados del programa estarán mejor preparados profesionalmente. Esta inversión refleja la importancia del cuidado de heridas en la salud pública.",
+      "body_en": "Stockton University received a $185,000 grant to strengthen its physical therapy program. The funds will improve the laboratories where future therapists study and train. Students will have access to more modern and advanced equipment. The laboratories will allow research on rehabilitation and scarring. Professors can develop new treatment methods. Students will learn updated techniques for wound care. Research will include evaluation of new dressings and bandages. Scarring processes in different types of wounds will be studied. Results will benefit patients in the community. Nurses and therapists will receive better training. Program graduates will be better prepared professionally. This investment reflects the importance of wound care in public health.",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hUDllNzgyc0JucWdZUXdpX1c5cGRVOEc1Q2hGTEpxM3FMTEk3VkFQTzRoeXdla0xOZzIySk1RV3Qzcl8wYlVILVd4X0wzdzl6S0MybUxfZHB5emNORUh3STdZU0tKZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-27/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "subvención",
+          "definition_es": "dinero otorgado para investigación o educación",
+          "definition_en": "grant - money given for research or education"
+        },
+        {
+          "word": "terapia física",
+          "definition_es": "tratamiento usando ejercicio y movimiento",
+          "definition_en": "physical therapy - treatment using exercise and movement"
+        },
+        {
+          "word": "rehabilitación",
+          "definition_es": "proceso de recuperación de una lesión",
+          "definition_en": "rehabilitation - process of recovery from an injury"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "scarring - process of healing a wound"
+        }
+      ],
+      "added_at": "2026-01-27T09:12:18.538147Z"
+    },
     {
       "id": "chronic-wounds-20260126",
       "category": "Chronic Wounds",
@@ -3849,6 +4034,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-26T09:13:29.636312Z",
+  "last_updated": "2026-01-27T09:12:18.538147Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
