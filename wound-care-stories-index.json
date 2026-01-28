@@ -1,11 +1,159 @@
 {
-  "date": "2026-01-27",
-  "generated_at": "2026-01-27T09:12:18.538147Z",
+  "date": "2026-01-28",
+  "generated_at": "2026-01-28T09:13:22.550287Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 109,
-  "new_today": 5,
+  "total_stories": 113,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250128",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Un nuevo vendaje de gel transparente acelera la curación de heridas",
+      "headline_en": "New transparent gel dressing accelerates wound healing",
+      "summary_es": "Un vendaje de gel transparente innovador puede ayudar a las personas con heridas a sanar más rápido. Este nuevo producto promete mejorar el cuidado de heridas crónicas.",
+      "body_es": "Los investigadores han desarrollado un vendaje de gel transparente que mejora la curación de heridas. Este vendaje permite a los enfermeros observar la herida sin remover el apósito. El gel transparente mantiene la humedad necesaria para la cicatrización. El nuevo vendaje reduce el tiempo de curación significativamente. Los pacientes con heridas crónicas pueden beneficiarse mucho. El material es seguro y fácil de usar en el hospital. Los profesionales de enfermería pueden aplicar este vendaje rápidamente. Este producto representa un avance importante en el cuidado de heridas.",
+      "body_en": "Researchers have developed a transparent gel dressing that improves wound healing. This dressing allows nurses to observe the wound without removing the dressing. The transparent gel maintains the moisture necessary for scarring. The new dressing significantly reduces healing time. Patients with chronic wounds can benefit greatly. The material is safe and easy to use in the hospital. Nursing professionals can apply this dressing quickly. This product represents an important advance in wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcVpWNk80a2JSZUFiTk1FY0Nsa2MwR2YySzRvaDRUXzBIZXpjMk1zcDd5bDN3STRtQ0FsSTludmpYTUZrc09FaTBjYWpnM1daQlUzTEJFal80bXl5N0ZwZWw5MUhFam5LaGg5ektOLXM3ODU3SGpOWkNINXJmMVRFUHA5VEJUbjN1V3NLMFNDemEteDY2bDk0?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-28/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material que cubre una herida para protegerla",
+          "definition_en": "dressing - material that covers a wound to protect it"
+        },
+        {
+          "word": "gel",
+          "definition_es": "sustancia semilíquida y transparente para curar heridas",
+          "definition_en": "gel - semi-liquid transparent substance for wound healing"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz y curación de heridas",
+          "definition_en": "scarring - process of scar formation and wound healing"
+        },
+        {
+          "word": "humedad",
+          "definition_es": "cantidad de líquido que mantiene la herida para curar",
+          "definition_en": "moisture - amount of liquid that keeps the wound to heal"
+        }
+      ],
+      "added_at": "2026-01-28T09:13:22.550287Z"
+    },
+    {
+      "id": "burn-care-20250128",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Nuevo tratamiento AVITA reduce cambios de vendajes dolorosos en quemaduras",
+      "headline_en": "New AVITA treatment reduces painful dressing changes in burn patients",
+      "summary_es": "Un nuevo protocolo de tres partes para el cuidado de quemaduras disminuye significativamente el número de cambios de vendajes. Este enfoque innovador integra tecnologías de AVITA Medical para mejorar la experiencia del paciente.",
+      "body_es": "AVITA Medical ha desarrollado un protocolo de tres partes que revoluciona el tratamiento de quemaduras. El nuevo sistema reduce considerablemente los cambios de vendajes, que son procedimientos dolorosos para los pacientes quemados. Los especialistas en cuidado de quemaduras reportan que este protocolo integrado mejora significativamente la calidad de vida del paciente. El tratamiento combina tecnologías diferentes para optimizar la curación de tejidos quemados. Los datos presentados en el Simposio Boswick de Quemaduras y Heridas en 2026 demuestran la eficacia del enfoque. Los pacientes experimentan menos dolor durante el proceso de curación. El personal médico puede aplicar el protocolo de manera eficiente. Esta innovación representa un avance importante en medicina de quemaduras.",
+      "body_en": "AVITA Medical has developed a three-part protocol that revolutionizes burn treatment. The new system significantly reduces dressing changes, which are painful procedures for burned patients. Burn care specialists report that this integrated protocol significantly improves patient quality of life. The treatment combines different technologies to optimize healing of burned tissue. Data presented at the 2026 Boswick Burn and Wound Symposium demonstrates protocol effectiveness. Patients experience less pain during the healing process. Medical staff can apply the protocol efficiently. This innovation represents an important advance in burn medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUV1Y093bXVSNmhlckdfN1BZcVd4b3A0a01wMmNRdXkzUmFCZWF4U05vanR0VEZVVVIyU1dCQ0kxUUJJOERGeTluWTF0N3gtbUdobUVHN1FNbWFEWVZxNFc0a1lqQTNtSm5WNG5EeWRyaUx5aVJ5T0hiTHNrYmVtUXlCT01fUlJTelNMNWx5WnhaS1NKRnJTdFlVRHItemFEb0FPSGFkX0hGdVc5M0FmbEtfNHdZSmo2Uk5jR2xSc0doMTdJajBCOQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-28/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor o fuego en la piel",
+          "definition_en": "burn - injury caused by heat or fire to the skin"
+        },
+        {
+          "word": "protocolo",
+          "definition_es": "plan ordenado de tratamiento médico establecido",
+          "definition_en": "protocol - established ordered plan of medical treatment"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material o medicamento que se aplica sobre una herida",
+          "definition_en": "dressing - material or medication applied to a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de recuperación y cicatrización de una lesión",
+          "definition_en": "healing - process of recovery and scarring of an injury"
+        }
+      ],
+      "added_at": "2026-01-28T09:13:22.550287Z"
+    },
+    {
+      "id": "surgical-wounds-20250128",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Tecnología de impresión 3D mejora la reconstrucción de heridas quirúrgicas complejas",
+      "headline_en": "3D printing technology improves reconstruction of complex surgical wounds",
+      "summary_es": "La impresión 3D personalizada optimiza el ajuste de implantes en pacientes sometidos a resecciones quirúrgicas. Esta técnica innovadora permite una reconstrucción más precisa y efectiva de heridas quirúrgicas.",
+      "body_es": "Los cirujanos han adoptado guías de corte personalizadas basadas en impresión 3D para mejorar la reconstrucción quirúrgica. Este método permite optimizar el ajuste de implantes específicos para cada paciente después de resecciones de tumores invasivos. La tecnología de impresión 3D produce réplicas exactas de las estructuras anatómicas afectadas. Los guías de corte personalizadas reducen errores quirúrgicos y mejoran los resultados funcionales. El proceso de curación de estas heridas quirúrgicas complejas se acelera significativamente. Los pacientes experimentan mejor integración del implante y resultados estéticos superiores. El equipo quirúrgico puede realizar procedimientos más rápidos y precisos. Este avance en medicina reconstructiva beneficia especialmente a pacientes con tumores óseos invasivos.",
+      "body_en": "Surgeons have adopted personalized cutting guides based on 3D printing to improve surgical reconstruction. This method optimizes the fit of patient-specific implants after tumor resection procedures. 3D printing technology produces exact replicas of affected anatomical structures. Personalized cutting guides reduce surgical errors and improve functional outcomes. The healing process of these complex surgical wounds accelerates significantly. Patients experience better implant integration and superior aesthetic results. The surgical team can perform faster and more precise procedures. This advance in reconstructive medicine particularly benefits patients with invasive bone tumors.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQkk4dTM0SDBVVHBjU19fVFlFREFxeGZmSFZvVG5MVG85dUNZc0ZKMmFBVEt1Q25Hb2g3RFQ5QXpVcWNuNXNpckhxeEtRSzRsX21mNTJBcnZLTlZZLTJZRDZIRktpYjhWWk1mM2ctRUh4VXNnVEZwZ0F2WERjSlZHNzNTVXh1eWw4WXpLd2VJMUlhQWVzQVJCaFlUQUlYRGV1WnpSeWpJUmZpYWVVNkZtUkRzVUFOOGpkTmRSbUhrNHNWRFI1M2tpa2I3UHg2Q1N4c1ZCekdaUWs2QVB3WUxock1NRWhHWnBRY2c0OTloVUhTYzNvMWlYTjVPVUFCT1FlMjVTSEFqTWZNOThCTzBRQXYwYk9YLTBLcUotMXoydmlkWmU3dWRQOTdZSHhJcnZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-28/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "resección",
+          "definition_es": "extirpación quirúrgica de una parte del cuerpo afectada",
+          "definition_en": "resection - surgical removal of an affected body part"
+        },
+        {
+          "word": "implante",
+          "definition_es": "material que se coloca quirúrgicamente en el cuerpo",
+          "definition_en": "implant - material surgically placed in the body"
+        },
+        {
+          "word": "reconstrucción",
+          "definition_es": "proceso quirúrgico de reparación y regeneración de tejidos",
+          "definition_en": "reconstruction - surgical process of tissue repair and regeneration"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de curación y formación de tejido nuevo",
+          "definition_en": "scarring - natural process of healing and new tissue formation"
+        }
+      ],
+      "added_at": "2026-01-28T09:13:22.550287Z"
+    },
+    {
+      "id": "wound-research-20250128",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Innovaciones en sistemas de piel artificial avanzan en pruebas sin animales",
+      "headline_en": "Innovations in artificial skin systems advance nonclinical testing",
+      "summary_es": "Nuevos sistemas de microfisiología de piel in vitro revolucionan las pruebas de medicamentos y dispositivos. Esta tecnología responde a la iniciativa de la FDA para modernizar métodos de evaluación sin usar animales.",
+      "body_es": "Investigadores han desarrollado sistemas de microfisiología de piel que replican la función biológica humana en laboratorio. Estos sistemas in vitro permiten pruebas más efectivas de medicamentos y apósitos para heridas sin usar animales de laboratorio. La tecnología utiliza células humanas cultivadas en estructuras tridimensionales que simulan la piel real. Los resultados de estas pruebas son más relevantes para la fisiología humana que los modelos animales tradicionales. La FDA ha modernizado sus directrices para aceptar estos nuevos métodos de evaluación. Los investigadores pueden estudiar cómo los apósitos interactúan con la piel humana de manera más precisa. Este avance reduce significativamente el tiempo y costo de desarrollo de nuevos productos para heridas. La tecnología representa un paso importante hacia medicina personalizada en el cuidado de heridas.",
+      "body_en": "Researchers have developed skin microphysiological systems that replicate human biological function in the laboratory. These in vitro systems allow more effective testing of wound medications and dressings without using laboratory animals. The technology uses human cells cultured in three-dimensional structures that simulate real skin. Results from these tests are more relevant to human physiology than traditional animal models. The FDA has modernized its guidelines to accept these new evaluation methods. Researchers can study how dressings interact with human skin more precisely. This advance significantly reduces the time and cost of developing new wound care products. The technology represents an important step toward personalized medicine in wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oajN3b3VmX3J5VW5nN3ZsRkRGcnFjSjhFSTJzOEFQNmdRSlNOUXM4c3dYZjdmRkRnRVJuSDFLQVk4enNOTnpIa0ZWNWozcC00bVBFbDNCb0t1Zy1Pd0NF?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-28/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "microfisiología",
+          "definition_es": "estudio de los procesos fisiológicos en sistemas miniaturizados",
+          "definition_en": "microphysiology - study of physiological processes in miniaturized systems"
+        },
+        {
+          "word": "in vitro",
+          "definition_es": "pruebas realizadas en laboratorio fuera del organismo vivo",
+          "definition_en": "in vitro - testing performed in laboratory outside living organism"
+        },
+        {
+          "word": "epidermis",
+          "definition_es": "capa más externa de la piel que protege el cuerpo",
+          "definition_en": "epidermis - outermost layer of skin that protects the body"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se aplica sobre la piel para curar heridas",
+          "definition_en": "dressing - material applied to skin to heal wounds"
+        }
+      ],
+      "added_at": "2026-01-28T09:13:22.550287Z"
+    },
     {
       "id": "chronic-wounds-20250127",
       "category": "Chronic Wounds",
@@ -4034,6 +4182,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-27T09:12:18.538147Z",
+  "last_updated": "2026-01-28T09:13:22.550287Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
