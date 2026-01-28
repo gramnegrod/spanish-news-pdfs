@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-28",
+      "filename": "spanish_lesson_2026-01-28.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-28.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Aumentan las amenazas contra políticos estadounidenses",
+          "headline_en": "Threats against US politicians increase",
+          "body_es": "La policía del Capitolio de Estados Unidos informó que las amenazas contra los miembros del Congreso aumentaron mucho en 2025. Este problema viene creciendo durante los últimos tres años. Los políticos reciben mensajes peligrosos y amenazas por teléfono, correo electrónico y redes sociales. La situación preocupa mucho a las autoridades de seguridad. La policía está trabajando para proteger mejor a los congresistas y sus familias. También están investigando de dónde vienen estas amenazas. Los expertos dicen que la polarización política en el país puede ser una causa del problema. El gobierno quiere encontrar soluciones rápidas para garantizar la seguridad de todos los políticos.",
+          "body_en": "The US Capitol Police reported that threats against Congress members increased greatly in 2025. This problem has been growing for the past three years. Politicians receive dangerous messages and threats by phone, email and social media. The situation greatly concerns security authorities. Police are working to better protect congresspeople and their families. They are also investigating where these threats come from. Experts say political polarization in the country may be a cause of the problem. The government wants to find quick solutions to guarantee the security of all politicians.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El dólar estadounidense cae a su nivel más bajo en cuatro años",
+          "headline_en": "US dollar falls to its lowest level in four years",
+          "body_es": "El dólar estadounidense se hundió esta semana y alcanzó su punto más bajo en cuatro años. Esta caída preocupa a muchos economistas, pero el presidente Trump dice que no es un problema grave. El valor del dólar afecta el comercio internacional y los precios de productos importados. Cuando el dólar baja, los productos estadounidenses se vuelven más baratos para otros países. Sin embargo, los productos extranjeros se vuelven más caros para los estadounidenses. Los expertos están divididos sobre las causas del declive. Algunos culpan a las políticas económicas actuales, mientras otros dicen que es normal en ciclos económicos. El gobierno está monitoreando la situación cuidadosamente.",
+          "body_en": "The US dollar sank this week and reached its lowest point in four years. This fall concerns many economists, but President Trump says it's not a serious problem. The dollar's value affects international trade and prices of imported products. When the dollar falls, US products become cheaper for other countries. However, foreign products become more expensive for Americans. Experts are divided about the causes of the decline. Some blame current economic policies, while others say it's normal in economic cycles. The government is monitoring the situation carefully.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa de inteligencia artificial quiere escanear y tirar millones de libros",
+          "headline_en": "AI company wants to scan and throw away millions of books",
+          "body_es": "Una nueva empresa de tecnología tiene un plan controversial: escanear millones de libros y después deshacerse de las copias físicas. La compañía dice que quiere crear una gran biblioteca digital usando inteligencia artificial. Su objetivo es hacer que los libros sean más fáciles de buscar y leer en computadoras y teléfonos. Sin embargo, muchas personas están preocupadas por este plan. Los bibliotecarios y amantes de los libros dicen que es importante conservar los libros físicos. También hay preguntas sobre los derechos de autor y si la empresa tiene permiso para hacer esto. La compañía asegura que su proyecto ayudará a preservar el conocimiento para futuras generaciones. El debate sobre este tema continúa.",
+          "body_en": "A new technology company has a controversial plan: scan millions of books and then dispose of the physical copies. The company says it wants to create a large digital library using artificial intelligence. Its goal is to make books easier to search and read on computers and phones. However, many people are worried about this plan. Librarians and book lovers say it's important to preserve physical books. There are also questions about copyright and whether the company has permission to do this. The company assures that its project will help preserve knowledge for future generations. The debate about this topic continues.",
+          "source": "The Washington Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "amenazas",
+          "syllables": "a-me-NA-zas",
+          "pos": "sustantivo",
+          "context": "Las amenazas contra el Congreso aumentaron mucho este año.",
+          "definition_es": "Palabras o acciones que indican peligro o daño futuro",
+          "definition_en": "Threats; words or actions that indicate future danger or harm"
+        },
+        {
+          "word": "aumentar",
+          "syllables": "au-men-TAR",
+          "pos": "verbo",
+          "context": "Los problemas de seguridad han aumentado en los últimos años.",
+          "definition_es": "Hacer que algo sea más grande o más en cantidad",
+          "definition_en": "To increase; to make something bigger or more in quantity"
+        },
+        {
+          "word": "hundirse",
+          "syllables": "hun-DIR-se",
+          "pos": "verbo",
+          "context": "El dólar se hundió a su nivel más bajo en cuatro años.",
+          "definition_es": "Bajar mucho de valor o posición",
+          "definition_en": "To sink; to fall greatly in value or position"
+        },
+        {
+          "word": "declive",
+          "syllables": "de-CLI-ve",
+          "pos": "sustantivo",
+          "context": "Trump no se preocupa por el declive del dólar.",
+          "definition_es": "Proceso de volverse más débil o perder valor",
+          "definition_en": "Decline; process of becoming weaker or losing value"
+        },
+        {
+          "word": "escanear",
+          "syllables": "es-ca-ne-AR",
+          "pos": "verbo",
+          "context": "La empresa planea escanear millones de libros para crear una base de datos.",
+          "definition_es": "Copiar texto o imágenes usando tecnología digital",
+          "definition_en": "To scan; to copy text or images using digital technology"
+        },
+        {
+          "word": "deshacerse",
+          "syllables": "des-ha-CER-se",
+          "pos": "verbo",
+          "context": "Después de escanear los libros, la compañía quiere deshacerse de ellos.",
+          "definition_es": "Tirar algo o liberarse de algo que no se quiere",
+          "definition_en": "To dispose of; to throw away or get rid of something unwanted"
+        },
+        {
+          "word": "seguridad",
+          "syllables": "se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "La policía del Capitolio trabaja para mejorar la seguridad.",
+          "definition_es": "Protección contra peligros o riesgos",
+          "definition_en": "Security; protection against dangers or risks"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La nueva empresa usa inteligencia artificial para procesar información.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence; technology that allows machines to think like humans"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'amenazas'?",
+          "options": [
+            "Regalos especiales",
+            "Palabras que indican peligro",
+            "Invitaciones formales",
+            "Mensajes de felicitación"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'hundirse' en el contexto económico?",
+          "options": [
+            "Subir mucho",
+            "Mantenerse igual",
+            "Bajar de valor",
+            "Desaparecer completamente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'escanear' un libro?",
+          "options": [
+            "Leerlo rápidamente",
+            "Copiarlo digitalmente",
+            "Traducirlo a otro idioma",
+            "Venderlo en línea"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inteligencia artificial'?",
+          "options": [
+            "Un tipo de libro",
+            "Tecnología que imita el pensamiento humano",
+            "Una nueva moneda",
+            "Un edificio del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el artículo, ¿por cuánto tiempo han aumentado las amenazas contra el Congreso?",
+          "options": [
+            "Un año",
+            "Dos años",
+            "Tres años",
+            "Cuatro años"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la actitud de Trump sobre la caída del dólar?",
+          "options": [
+            "Está muy preocupado",
+            "Dice que no es un problema grave",
+            "Quiere cambiar las políticas",
+            "No ha dado su opinión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué quiere hacer la empresa de IA después de escanear los libros?",
+          "options": [
+            "Venderlos",
+            "Deshacerse de ellos",
+            "Donarlos",
+            "Guardarlos en un museo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Quién está investigando las amenazas contra políticos?",
+          "options": [
+            "El FBI",
+            "La policía del Capitolio",
+            "El ejército",
+            "Los periodistas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué pasa cuando el dólar baja de valor?",
+          "options": [
+            "Los productos estadounidenses se vuelven más caros para otros países",
+            "Los productos estadounidenses se vuelven más baratos para otros países",
+            "No afecta el comercio internacional",
+            "Solo afecta a los bancos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Quiénes están preocupados por el plan de la empresa de IA?",
+          "options": [
+            "Solo los políticos",
+            "Los bibliotecarios y amantes de los libros",
+            "Las empresas de tecnología",
+            "Los estudiantes universitarios"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-28T09:07:04.109892"
+    },
+    {
       "date": "2026-01-27",
       "filename": "spanish_lesson_2026-01-27.pdf",
       "path": "pdfs/spanish_lesson_2026-01-27.pdf",
@@ -11348,7 +11570,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-27T09:06:31.156724",
+  "last_updated": "2026-01-28T09:07:04.109911",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
