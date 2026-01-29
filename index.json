@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-29",
+      "filename": "spanish_lesson_2026-01-29.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-29.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El gobierno estadounidense podría cerrar sus oficinas otra vez",
+          "headline_en": "The US government could shut down its offices again",
+          "body_es": "El gobierno de Estados Unidos puede cerrar sus oficinas si los políticos no llegan a un acuerdo. Esto se llama 'cierre del gobierno'. Cuando esto pasa, muchos servicios públicos se detienen. Los parques nacionales cierran. Los museos del gobierno también cierran sus puertas. Miles de trabajadores del gobierno no pueden ir a trabajar. Sin embargo, los servicios esenciales como la policía y los bomberos siguen funcionando. El ejército también continúa trabajando. Los políticos están discutiendo sobre el presupuesto del país. Necesitan ponerse de acuerdo pronto para evitar el cierre. Esta situación ya ha pasado antes en Estados Unidos. Siempre causa problemas para los ciudadanos y la economía del país.",
+          "body_en": "The US government may close its offices if politicians don't reach an agreement. This is called a 'government shutdown'. When this happens, many public services stop. National parks close. Government museums also close their doors. Thousands of government workers can't go to work. However, essential services like police and firefighters keep working. The military also continues working. Politicians are discussing the country's budget. They need to agree soon to avoid the shutdown. This situation has happened before in the United States. It always causes problems for citizens and the country's economy.",
+          "source": "CNN"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El banco central mantiene las tasas de interés sin cambios",
+          "headline_en": "The central bank keeps interest rates unchanged",
+          "body_es": "La Reserva Federal de Estados Unidos decidió mantener las tasas de interés iguales. Esta decisión era esperada por los expertos en economía. Las tasas de interés afectan el costo de los préstamos para casas y carros. También influyen en el dinero que ganan las personas en sus cuentas de ahorro. El problema principal es que la inflación sigue alta. Esto significa que los precios de la comida, la gasolina y otras cosas importantes siguen subiendo. Los banqueros están preocupados por esta situación. Quieren que los precios bajen antes de reducir las tasas. La inflación alta hace que la vida sea más cara para las familias americanas. El banco central estudia la situación económica cada mes para tomar las mejores decisiones.",
+          "body_en": "The US Federal Reserve decided to keep interest rates the same. This decision was expected by economic experts. Interest rates affect the cost of loans for houses and cars. They also influence the money people earn in their savings accounts. The main problem is that inflation remains high. This means that prices for food, gasoline and other important things keep going up. Bankers are worried about this situation. They want prices to go down before reducing rates. High inflation makes life more expensive for American families. The central bank studies the economic situation every month to make the best decisions.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Amazon eliminará 16,000 empleos más por la inteligencia artificial",
+          "headline_en": "Amazon will eliminate 16,000 more jobs due to artificial intelligence",
+          "body_es": "La empresa Amazon anunció que va a despedir a 16,000 trabajadores más. Esta es una cifra muy alta que preocupa a muchas personas. La razón principal es que la compañía está usando más inteligencia artificial en sus operaciones. Las máquinas inteligentes pueden hacer muchos trabajos que antes hacían las personas. Amazon dice que esta tecnología es más rápida y cuesta menos dinero. Muchas otras empresas también están reemplazando trabajadores con inteligencia artificial. Esta tendencia está cambiando el mundo del trabajo. Los expertos dicen que las personas necesitan aprender nuevas habilidades para adaptarse. Es importante que los trabajadores se preparen para estos cambios. El futuro del trabajo será muy diferente debido a la nueva tecnología.",
+          "body_en": "Amazon announced that it will lay off 16,000 more workers. This is a very high number that worries many people. The main reason is that the company is using more artificial intelligence in its operations. Smart machines can do many jobs that people used to do. Amazon says this technology is faster and costs less money. Many other companies are also replacing workers with artificial intelligence. This trend is changing the world of work. Experts say people need to learn new skills to adapt. It's important for workers to prepare for these changes. The future of work will be very different due to new technology.",
+          "source": "New York Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gobierno",
+          "syllables": "go-BIER-no",
+          "pos": "sustantivo",
+          "context": "El gobierno podría cerrar sus oficinas si no hay acuerdo.",
+          "definition_es": "Organización que dirige un país",
+          "definition_en": "Government"
+        },
+        {
+          "word": "cerrar",
+          "syllables": "ce-RRAR",
+          "pos": "verbo",
+          "context": "Las oficinas públicas pueden cerrar temporalmente.",
+          "definition_es": "Dejar de funcionar o estar abierto",
+          "definition_en": "To close, to shut down"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación sigue alta en Estados Unidos.",
+          "definition_es": "Cuando los precios de las cosas suben",
+          "definition_en": "Inflation"
+        },
+        {
+          "word": "tasas",
+          "syllables": "TA-sas",
+          "pos": "sustantivo",
+          "context": "El banco central mantiene las tasas de interés iguales.",
+          "definition_es": "Porcentaje que se paga por el dinero prestado",
+          "definition_en": "Interest rates"
+        },
+        {
+          "word": "despedir",
+          "syllables": "des-pe-DIR",
+          "pos": "verbo",
+          "context": "Amazon va a despedir a miles de trabajadores.",
+          "definition_es": "Terminar el trabajo de una persona",
+          "definition_en": "To fire, to lay off"
+        },
+        {
+          "word": "empleos",
+          "syllables": "em-PLE-os",
+          "pos": "sustantivo",
+          "context": "La empresa eliminará 16,000 empleos este año.",
+          "definition_es": "Trabajos o puestos de trabajo",
+          "definition_en": "Jobs"
+        },
+        {
+          "word": "reemplazar",
+          "syllables": "re-em-pla-ZAR",
+          "pos": "verbo",
+          "context": "Las máquinas van a reemplazar a muchos trabajadores.",
+          "definition_es": "Poner algo o alguien en lugar de otro",
+          "definition_en": "To replace"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando el trabajo.",
+          "definition_es": "Tecnología que permite a las máquinas pensar",
+          "definition_en": "Artificial intelligence"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'despedir' en el contexto laboral?",
+          "options": [
+            "Saludar a alguien",
+            "Terminar el trabajo de una persona",
+            "Contratar empleados nuevos",
+            "Dar vacaciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es la inflación?",
+          "options": [
+            "Cuando los precios bajan",
+            "Cuando hay más empleos",
+            "Cuando los precios de las cosas suben",
+            "Cuando el gobierno cierra"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reemplazar'?",
+          "options": [
+            "Reparar algo",
+            "Poner algo en lugar de otro",
+            "Comprar algo nuevo",
+            "Vender algo usado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'tasas de interés'?",
+          "options": [
+            "Precios de la comida",
+            "Porcentaje que se paga por dinero prestado",
+            "Salarios de trabajadores",
+            "Impuestos del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia sobre política, ¿qué pasa cuando el gobierno cierra?",
+          "options": [
+            "Solo cierran las escuelas",
+            "Los parques nacionales cierran",
+            "Todo el país se detiene",
+            "Solo afecta a los políticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué la Reserva Federal mantiene las tasas iguales?",
+          "options": [
+            "Porque la inflación está alta",
+            "Porque quiere ayudar a los bancos",
+            "Porque es tradición",
+            "Porque se lo pidió el presidente"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántos trabajadores va a despedir Amazon?",
+          "options": [
+            "6,000",
+            "10,000",
+            "16,000",
+            "20,000"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué servicios siguen funcionando durante un cierre del gobierno?",
+          "options": [
+            "Solo los museos",
+            "Policía y bomberos",
+            "Solo los parques",
+            "Ningún servicio"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué Amazon está despidiendo trabajadores?",
+          "options": [
+            "Porque no tiene dinero",
+            "Porque usa más inteligencia artificial",
+            "Porque cambió de dueño",
+            "Porque cerró tiendas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué afectan las tasas de interés?",
+          "options": [
+            "Solo los precios de comida",
+            "El costo de préstamos para casas",
+            "Solo los salarios",
+            "El precio de la gasolina"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-29T09:11:22.219095"
+    },
+    {
       "date": "2026-01-28",
       "filename": "spanish_lesson_2026-01-28.pdf",
       "path": "pdfs/spanish_lesson_2026-01-28.pdf",
@@ -11570,7 +11792,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-28T09:07:04.109911",
+  "last_updated": "2026-01-29T09:11:22.219113",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
