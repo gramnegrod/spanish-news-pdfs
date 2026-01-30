@@ -1,11 +1,159 @@
 {
-  "date": "2026-01-29",
-  "generated_at": "2026-01-29T09:17:34.212610Z",
+  "date": "2026-01-30",
+  "generated_at": "2026-01-30T09:15:51.141068Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 117,
+  "total_stories": 121,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250130",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "SAWC Lanza Nueva Serie de Educación en Manejo de Heridas",
+      "headline_en": "SAWC Launches New Wound Management Education Series",
+      "summary_es": "La Sociedad Estadounidense de Especialistas en Heridas lanza Mobile Wound Management Live, una serie educativa de cuatro partes para mejorar la atención de heridas crónicas fuera del consultorio.",
+      "body_es": "SAWC presenta un programa educativo innovador llamado Mobile Wound Management Live. Este programa tiene cuatro partes diferentes. El objetivo es avanzar en la atención de heridas crónicas. Los especialistas enseñan a enfermeras y trabajadores de salud técnicas nuevas. El programa funciona en dispositivos móviles. Los profesionales pueden aprender en diferentes lugares. Pueden aprender en clínicas o en hogares. El programa cubre evaluación de heridas. Enseña sobre vendajes y apósitos. Incluye técnicas de curación de heridas. Este programa ayuda a mejorar la calidad de cuidado. Es importante para heridas diabéticas y úlceras de presión.",
+      "body_en": "SAWC presents an innovative educational program called Mobile Wound Management Live. This program has four different sections. The objective is to advance chronic wound care. Specialists teach nurses and healthcare workers new techniques. The program works on mobile devices. Professionals can learn in different places. They can learn in clinics or in homes. The program covers wound assessment. It teaches about dressings and wound care materials. It includes wound healing techniques. This program helps improve the quality of care. It is important for diabetic wounds and pressure ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjFXUFFIN0lqZVVUTXRwWGRvd2dPRXIwaXItZ0dnVDZiQ3h1TmYxMWktUzNadFVud3U4eEdUcmdaanhHaEpfakROYUpGa3M5Z0Fodm15UHZIVFg4VzhHUk91empsN2o3eEZmRDl3eVZkUjFkQnRwS3NGNV9DVkZfci0tazFOTUtvcGp5Rm5TSnRVdW9nbklOX0JrVTVHVldzcGpLcVI2bG9GSXB6Y2dWeUtOMG1PdzVqdGkxQ1JrZ2JFX0hSa25kMEN1UFlZT2pEUnc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-30/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una lesión",
+          "definition_en": "healing - process of an injury getting better"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen y análisis de la herida",
+          "definition_en": "assessment - examination and analysis of the wound"
+        }
+      ],
+      "added_at": "2026-01-30T09:15:51.141068Z"
+    },
+    {
+      "id": "burn-care-20250130",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Innovación en Cicatrización: Tiras de Placenta Acelaran la Curación de Quemaduras",
+      "headline_en": "Wound Healing Innovation: Placenta Strips Accelerate Burn Healing",
+      "summary_es": "Un nuevo tratamiento utilizando tiras de placenta deshidratada muestra resultados prometedores en la aceleración de la cicatrización de heridas y la minimización de cicatrices.",
+      "body_es": "Investigadores han desarrollado un tratamiento innovador para heridas y quemaduras utilizando tiras de placenta deshidratada. Este material biológico contiene componentes que favorecen la regeneración de tejido. El estudio demuestra que las tiras de placenta aceleran significativamente el proceso de cicatrización. Los pacientes que reciben este tratamiento presentan menor formación de cicatrices. El mecanismo funciona estimulando la epitelización, que es el crecimiento de nueva piel. El tratamiento es especialmente efectivo en quemaduras de segundo grado. Los resultados indican que la granulación del tejido ocurre más rápidamente. Este avance representa una opción prometedora para minimizar secuelas estéticas en pacientes con quemaduras severas. Los especialistas recomiendan investigación adicional para establecer protocolos estandarizados.",
+      "body_en": "Researchers have developed an innovative treatment for wounds and burns using dried placenta strips. This biological material contains components that promote tissue regeneration. The study demonstrates that placenta strips significantly accelerate the healing process. Patients receiving this treatment show less scar formation. The mechanism works by stimulating epithelialization, which is the growth of new skin. The treatment is especially effective for second-degree burns. Results indicate that tissue granulation occurs more rapidly. This advancement represents a promising option to minimize aesthetic consequences in patients with severe burns. Specialists recommend additional research to establish standardized protocols.",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XMXMzV1BIUjhEWmdOdTdpS2NWZi0yX1RySllHOE9sMWVKRVlsNkx0WU9ZMGdjZXRSSVppWjZuM2VsTVd0NHMtMVYyZ0gxNUIzSE53XzJiMXdMRm5Nd0tfb2FhajlVdHNKRllOclVnUDZzSG41MVo3STg0OA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-30/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor o fuego",
+          "definition_en": "burn - injury caused by heat or fire"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz",
+          "definition_en": "scarring - process of scar formation"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de nueva piel sobre una herida",
+          "definition_en": "epithelialization - growth of new skin over a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido de cicatriz provisional",
+          "definition_en": "granulation - formation of temporary scar tissue"
+        }
+      ],
+      "added_at": "2026-01-30T09:15:51.141068Z"
+    },
+    {
+      "id": "surgical-wounds-20250130",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Educación Avanzada en Manejo de Heridas Quirúrgicas: Series SAWC Mobile",
+      "headline_en": "Advanced Surgical Wound Management Education: SAWC Mobile Series",
+      "summary_es": "SAWC presenta una serie educativa de cuatro partes en formato móvil para especialistas en cuidado de heridas quirúrgicas, mejorando la atención más allá del entorno clínico tradicional.",
+      "body_es": "La Sociedad Estadounidense de Especialistas en Heridas ha lanzado Mobile Wound Management Live, una iniciativa educativa que revoluciona el aprendizaje en manejo de heridas quirúrgicas. Este programa de cuatro partes fue diseñado para profesionales que atienden pacientes en diferentes entornos de cuidado. El programa enseña evaluación detallada de heridas quirúrgicas, incluyendo la identificación de complicaciones como seroma e infección. Los especialistas aprenden técnicas avanzadas de desbridamiento y manejo de exudado. El contenido aborda el manejo de suturas y la prevención de dehiscencia. Mediante la plataforma móvil, los enfermeros pueden acceder al material en tiempo real durante la atención clínica. Este enfoque innovador facilita la educación continua y mejora los resultados en pacientes con heridas quirúrgicas complejas.",
+      "body_en": "The American Society of Wound Care Specialists has launched Mobile Wound Management Live, an educational initiative that revolutionizes learning in surgical wound management. This four-part program was designed for professionals serving patients in different care settings. The program teaches detailed assessment of surgical wounds, including identification of complications such as seroma and infection. Specialists learn advanced debridement techniques and management of wound exudate. Content addresses suture management and prevention of wound dehiscence. Through the mobile platform, nurses can access material in real-time during clinical care. This innovative approach facilitates continuous education and improves outcomes in patients with complex surgical wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjFXUFFIN0lqZVVUTXRwWGRvd2dPRXIwaXItZ0dnVDZiQ3h1TmYxMWktUzNadFVud3U4eEdUcmdaanhHaEpfakROYUpGa3M5Z0Fodm15UHZIVFg4VzhHUk91empsN2o3eEZmRDl3eVZkUjFkQnRwS3NGNV9DVkZfci0tazFOTUtvcGp5Rm5TSnRVdW9nbklOX0JrVTVHVldzcGpLcVI2bG9GSXB6Y2dWeUtOMG1PdzVqdGkxQ1JrZ2JFX0hSa25kMEN1UFlZT2pEUnc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-30/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dehiscencia",
+          "definition_es": "reapertura de una herida quirúrgica cerrada",
+          "definition_en": "dehiscence - reopening of a closed surgical wound"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción de tejido necrótico o infectado",
+          "definition_en": "debridement - removal of dead or infected tissue"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid discharged from a wound"
+        },
+        {
+          "word": "seroma",
+          "definition_es": "acumulación de líquido bajo la piel tras cirugía",
+          "definition_en": "seroma - collection of fluid under the skin after surgery"
+        }
+      ],
+      "added_at": "2026-01-30T09:15:51.141068Z"
+    },
+    {
+      "id": "wound-research-20250130",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Avances en Regeneración de Piel: Tecnología AVITA Muestra Potencial Terapéutico",
+      "headline_en": "Advances in Skin Regeneration: AVITA Technology Shows Therapeutic Potential",
+      "summary_es": "Una plataforma innovadora de regeneración de piel desarrollada por AVITA Medical presenta resultados prometedores para el tratamiento de heridas complejas y lesiones dérmicas.",
+      "body_es": "AVITA Medical ha presentado una plataforma tecnológica revolucionaria para la regeneración de piel que está posicionada para transformar el tratamiento de heridas complejas. La tecnología utiliza células vivas del propio paciente para estimular la curación natural. El sistema ha demostrado eficacia en heridas crónicas resistentes al tratamiento convencional. Investigaciones recientes indican que la plataforma acelera la epitelización y reduce significativamente la formación de cicatrices. El mecanismo funciona mediante la activación de fibroblastos y la producción de colágeno de calidad superior. Los estudios clínicos muestran resultados alentadores en pacientes con úlceras diabéticas y heridas de quemadura. Esta tecnología representa un avance significativo en la ingeniería de tejidos. Los analistas predicen que esta solución innovadora podría revolucionar los estándares de cuidado en medicina regenerativa y acelerar la recuperación de pacientes.",
+      "body_en": "AVITA Medical has presented a revolutionary skin regeneration technology platform that is positioned to transform the treatment of complex wounds. The technology uses living cells from the patient's own body to stimulate natural healing. The system has demonstrated efficacy in chronic wounds resistant to conventional treatment. Recent research indicates that the platform accelerates epithelialization and significantly reduces scar formation. The mechanism works through activation of fibroblasts and production of superior-quality collagen. Clinical studies show encouraging results in patients with diabetic ulcers and burn wounds. This technology represents a significant advance in tissue engineering. Analysts predict that this innovative solution could revolutionize care standards in regenerative medicine and accelerate patient recovery.",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSjhCMUpjTWhPMFpRdGlGc3prV3BZYnFVNEY0cjkwZFVXQ0FwSmZpYS1rQ1Y2SHEyNzlXTURhMk45a3NVd0lUdjk1NXVWMVZKWHUyZklMa2ZKVGtwenRhcGNNY2xHaTlELUxtSVRMWFhTTW1nOFlic28xaTZMWGZWbjQ5RXZMeWExendQZEwwSG1QRU1ZOWxtR1Mtby1FbG9WOHBMS1JoS19kSmRT?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-01-30/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "regeneración de piel",
+          "definition_es": "proceso de formación de nueva piel",
+          "definition_en": "skin regeneration - process of new skin formation"
+        },
+        {
+          "word": "fibroblasto",
+          "definition_es": "célula que produce colágeno",
+          "definition_en": "fibroblast - cell that produces collagen"
+        },
+        {
+          "word": "colágeno",
+          "definition_es": "proteína estructural de la piel y tejidos",
+          "definition_en": "collagen - structural protein of skin and tissues"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de nueva capa de piel",
+          "definition_en": "epithelialization - growth of new skin layer"
+        }
+      ],
+      "added_at": "2026-01-30T09:15:51.141068Z"
+    },
     {
       "id": "chronic-wounds-20260129",
       "category": "Chronic Wounds",
@@ -4330,6 +4478,6 @@
       ]
     }
   ],
-  "last_updated": "2026-01-29T09:17:34.212610Z",
+  "last_updated": "2026-01-30T09:15:51.141068Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
