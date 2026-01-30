@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-30",
+      "filename": "spanish_lesson_2026-01-30.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-30.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump y Schumer buscan acuerdo para evitar cierre del gobierno",
+          "headline_en": "Trump and Schumer seek agreement to avoid government shutdown",
+          "body_es": "El expresidente Donald Trump y el senador Chuck Schumer están trabajando juntos para encontrar una solución. Quieren evitar que el gobierno estadounidense cierre sus operaciones. Un cierre del gobierno significa que muchos servicios públicos se detienen. Los empleados del gobierno no pueden trabajar y no reciben dinero. Las negociaciones entre los dos políticos son muy importantes. Trump y Schumer representan diferentes partidos políticos, pero ahora cooperan. Deben encontrar un acuerdo antes de la fecha límite. Si no lo hacen, millones de personas se verán afectadas. Los ciudadanos esperan que los políticos resuelvan este problema rápidamente. La economía también puede sufrir si el gobierno cierra.",
+          "body_en": "Former President Donald Trump and Senator Chuck Schumer are working together to find a solution. They want to prevent the US government from shutting down its operations. A government shutdown means many public services stop. Government employees cannot work and do not receive money. Negotiations between the two politicians are very important. Trump and Schumer represent different political parties, but now they cooperate. They must find an agreement before the deadline. If they don't, millions of people will be affected. Citizens hope politicians solve this problem quickly. The economy can also suffer if the government shuts down.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los aranceles costaron miles de empleos mensuales a Estados Unidos",
+          "headline_en": "Tariffs cost the United States thousands of jobs monthly",
+          "body_es": "Un nuevo análisis de la Reserva Federal revela información importante sobre los aranceles. Los aranceles son impuestos especiales sobre productos extranjeros. El estudio muestra que estos impuestos causaron la pérdida de muchos empleos estadounidenses. Cada mes, miles de personas perdieron su trabajo por culpa de los aranceles. Las empresas tuvieron que pagar más dinero por materiales extranjeros. Esto hizo que los productos fueran más caros para los consumidores. Muchas compañías decidieron despedir trabajadores para ahorrar dinero. Los economistas dicen que los aranceles no ayudaron a la economía como esperaban. Los resultados muestran que las políticas comerciales pueden tener efectos negativos. Los expertos recomiendan estudiar mejor estas decisiones en el futuro.",
+          "body_en": "A new Federal Reserve analysis reveals important information about tariffs. Tariffs are special taxes on foreign products. The study shows these taxes caused the loss of many American jobs. Each month, thousands of people lost their jobs because of tariffs. Companies had to pay more money for foreign materials. This made products more expensive for consumers. Many companies decided to fire workers to save money. Economists say tariffs did not help the economy as expected. The results show that trade policies can have negative effects. Experts recommend studying these decisions better in the future.",
+          "source": "Fox Business"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "OpenAI busca inversión histórica de 100 mil millones de dólares",
+          "headline_en": "OpenAI seeks historic investment of 100 billion dollars",
+          "body_es": "OpenAI, la empresa creadora de ChatGPT, está en negociaciones muy importantes. La compañía quiere conseguir hasta 100 mil millones de dólares de inversión. Esta sería una de las inversiones más grandes en la historia de la tecnología. OpenAI es famosa por crear inteligencia artificial avanzada. Sus programas pueden escribir textos, responder preguntas y hacer muchas tareas. La empresa necesita mucho dinero para continuar desarrollando nueva tecnología. Los computadores de inteligencia artificial son muy caros de mantener. También quieren contratar a los mejores científicos del mundo. Los inversores creen que la inteligencia artificial será muy importante en el futuro. Si consiguen el dinero, OpenAI podrá crear tecnología aún más impresionante.",
+          "body_en": "OpenAI, the company that created ChatGPT, is in very important negotiations. The company wants to get up to 100 billion dollars in investment. This would be one of the largest investments in technology history. OpenAI is famous for creating advanced artificial intelligence. Its programs can write texts, answer questions and do many tasks. The company needs a lot of money to continue developing new technology. Artificial intelligence computers are very expensive to maintain. They also want to hire the best scientists in the world. Investors believe artificial intelligence will be very important in the future. If they get the money, OpenAI will be able to create even more impressive technology.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Trump y Schumer buscan un acuerdo para evitar el cierre del gobierno.",
+          "definition_es": "Decisión tomada por dos o más personas que están de acuerdo",
+          "definition_en": "Agreement, deal"
+        },
+        {
+          "word": "evitar",
+          "syllables": "e-vi-TAR",
+          "pos": "verbo",
+          "context": "Los políticos quieren evitar el cierre del gobierno.",
+          "definition_es": "No permitir que algo malo pase",
+          "definition_en": "To avoid, to prevent"
+        },
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Los aranceles pueden causar la pérdida de empleos.",
+          "definition_es": "Impuestos que se pagan por productos de otros países",
+          "definition_en": "Tariffs"
+        },
+        {
+          "word": "empleos",
+          "syllables": "em-PLE-os",
+          "pos": "sustantivo",
+          "context": "La economía perdió miles de empleos cada mes.",
+          "definition_es": "Trabajos que las personas tienen para ganar dinero",
+          "definition_en": "Jobs"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "OpenAI busca una inversión de 100 mil millones de dólares.",
+          "definition_es": "Dinero que se pone en una empresa para ganar más dinero",
+          "definition_en": "Investment"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "OpenAI es una empresa de tecnología muy importante.",
+          "definition_es": "Conocimiento científico aplicado para crear máquinas y sistemas",
+          "definition_en": "Technology"
+        },
+        {
+          "word": "análisis",
+          "syllables": "a-NÁ-li-sis",
+          "pos": "sustantivo",
+          "context": "Un análisis de la Reserva Federal muestra los efectos de los aranceles.",
+          "definition_es": "Estudio detallado de algo para entenderlo mejor",
+          "definition_en": "Analysis"
+        },
+        {
+          "word": "negociaciones",
+          "syllables": "ne-go-cia-CIO-nes",
+          "pos": "sustantivo",
+          "context": "OpenAI está en negociaciones para conseguir más dinero.",
+          "definition_es": "Conversaciones entre personas para llegar a un acuerdo",
+          "definition_en": "Negotiations"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'acuerdo'?",
+          "options": [
+            "Una pelea entre personas",
+            "Una decisión tomada por personas que están de acuerdo",
+            "Un tipo de comida",
+            "Una máquina nueva"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Los 'aranceles' son:",
+          "options": [
+            "Empleados del gobierno",
+            "Impuestos sobre productos extranjeros",
+            "Tipos de tecnología",
+            "Edificios importantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'inversión'?",
+          "options": [
+            "Dinero que se pone en una empresa",
+            "Un tipo de trabajo",
+            "Una máquina inteligente",
+            "Un acuerdo político"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La palabra 'evitar' significa:",
+          "options": [
+            "Hacer algo rápido",
+            "No permitir que algo malo pase",
+            "Ganar mucho dinero",
+            "Trabajar en el gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué quieren evitar Trump y Schumer?",
+          "options": [
+            "Una guerra",
+            "El cierre del gobierno",
+            "Perder dinero",
+            "Problemas con la tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según el análisis de la Reserva Federal, los aranceles:",
+          "options": [
+            "Crearon muchos empleos",
+            "No tuvieron efectos",
+            "Causaron pérdida de empleos",
+            "Mejoraron la economía"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero busca OpenAI en inversión?",
+          "options": [
+            "10 mil millones",
+            "50 mil millones",
+            "100 mil millones",
+            "200 mil millones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué pasa cuando el gobierno cierra sus operaciones?",
+          "options": [
+            "Los empleados trabajan más",
+            "Los servicios públicos se detienen",
+            "Todo funciona normal",
+            "La gente gana más dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué OpenAI necesita tanto dinero?",
+          "options": [
+            "Para comprar una casa",
+            "Para desarrollar nueva tecnología",
+            "Para hacer una fiesta",
+            "Para viajar por el mundo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué hicieron las empresas cuando los aranceles subieron los precios?",
+          "options": [
+            "Contrataron más trabajadores",
+            "Despidieron trabajadores",
+            "Cerraron completamente",
+            "Cambiaron de país"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-30T09:10:22.208563"
+    },
+    {
       "date": "2026-01-29",
       "filename": "spanish_lesson_2026-01-29.pdf",
       "path": "pdfs/spanish_lesson_2026-01-29.pdf",
@@ -11792,7 +12014,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-29T09:11:22.219113",
+  "last_updated": "2026-01-30T09:10:22.208577",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
