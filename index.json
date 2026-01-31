@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-01-31",
+      "filename": "spanish_lesson_2026-01-31.pdf",
+      "path": "pdfs/spanish_lesson_2026-01-31.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Senado aprueba acuerdo para financiar el gobierno",
+          "headline_en": "Senate approves deal to fund the government",
+          "body_es": "El Senado de Estados Unidos aprobó un importante acuerdo esta semana. El acuerdo permite financiar el gobierno por más tiempo. También incluye negociaciones sobre los límites de ICE. ICE es la agencia de inmigración del país. Los senadores trabajaron muchas horas para llegar a este acuerdo. Sin este dinero, el gobierno podría cerrar sus oficinas. Esto afectaría a millones de trabajadores federales. El presidente debe firmar el acuerdo para que sea ley. Los republicanos y demócratas tuvieron que cooperar. Este tipo de negociación es normal en el Congreso. El acuerdo evita una crisis gubernamental importante.",
+          "body_en": "The United States Senate approved an important deal this week. The deal allows funding the government for more time. It also includes negotiations about ICE limits. ICE is the country's immigration agency. Senators worked many hours to reach this agreement. Without this money, the government could close its offices. This would affect millions of federal workers. The president must sign the agreement for it to become law. Republicans and Democrats had to cooperate. This type of negotiation is normal in Congress. The deal avoids a major government crisis.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Trump elige a Kevin Warsh para dirigir el banco central",
+          "headline_en": "Trump chooses Kevin Warsh to lead the central bank",
+          "body_es": "Donald Trump anunció su decisión de nombrar a Kevin Warsh como nuevo director. Warsh va a reemplazar a Jerome Powell en la Reserva Federal. La Reserva Federal es el banco central de Estados Unidos. Esta institución controla las tasas de interés del país. Warsh trabajó antes en el gobierno y en Wall Street. Tiene experiencia en temas económicos y financieros. Powell ha sido director desde 2018. Su período termina pronto y necesita un reemplazo. El Senado debe aprobar esta nominación. Los mercados financieros están observando esta decisión. El nuevo director influirá en la economía nacional. Esta es una posición muy importante en el gobierno.",
+          "body_en": "Donald Trump announced his decision to name Kevin Warsh as the new director. Warsh will replace Jerome Powell at the Federal Reserve. The Federal Reserve is the United States' central bank. This institution controls the country's interest rates. Warsh worked before in government and on Wall Street. He has experience in economic and financial matters. Powell has been director since 2018. His term ends soon and needs a replacement. The Senate must approve this nomination. Financial markets are watching this decision. The new director will influence the national economy. This is a very important position in government.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Ex ingeniero de Google culpable de robar tecnología de inteligencia artificial",
+          "headline_en": "Former Google engineer guilty of stealing artificial intelligence technology",
+          "body_es": "Un tribunal declaró culpable a un ex ingeniero de Google. Lo acusaron de espionaje y robo de tecnología. El hombre robó secretos de inteligencia artificial de la empresa. Trabajaba en proyectos muy importantes para Google. Después llevó esta información a otra compañía. Los fiscales dijeron que esto fue espionaje industrial. Google invierte millones de dólares en esta tecnología. La inteligencia artificial es muy valiosa actualmente. El ingeniero puede ir a prisión por muchos años. Este caso muestra los riesgos de la tecnología moderna. Las empresas deben proteger mejor sus secretos. La decisión del juez es un mensaje importante para otros trabajadores.",
+          "body_en": "A court found a former Google engineer guilty. They accused him of espionage and theft of technology. The man stole artificial intelligence secrets from the company. He worked on very important projects for Google. Later he took this information to another company. Prosecutors said this was industrial espionage. Google invests millions of dollars in this technology. Artificial intelligence is very valuable currently. The engineer could go to prison for many years. This case shows the risks of modern technology. Companies must better protect their secrets. The judge's decision is an important message for other workers.",
+          "source": "CNBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "senado",
+          "syllables": "se-NA-do",
+          "pos": "sustantivo",
+          "context": "El senado aprobó un acuerdo para financiar el gobierno.",
+          "definition_es": "Cámara alta del poder legislativo",
+          "definition_en": "Upper house of the legislative branch"
+        },
+        {
+          "word": "financiar",
+          "syllables": "fi-nan-CIAR",
+          "pos": "verbo",
+          "context": "El gobierno necesita financiar sus programas.",
+          "definition_es": "Proporcionar dinero para algo",
+          "definition_en": "To provide money for something"
+        },
+        {
+          "word": "negociar",
+          "syllables": "ne-go-CIAR",
+          "pos": "verbo",
+          "context": "Los políticos van a negociar nuevas reglas.",
+          "definition_es": "Hablar para llegar a un acuerdo",
+          "definition_en": "To discuss to reach an agreement"
+        },
+        {
+          "word": "reemplazar",
+          "syllables": "reem-pla-ZAR",
+          "pos": "verbo",
+          "context": "Trump quiere reemplazar al director del banco central.",
+          "definition_es": "Poner a una persona en lugar de otra",
+          "definition_en": "To put someone in place of another"
+        },
+        {
+          "word": "ingeniero",
+          "syllables": "in-ge-NIE-ro",
+          "pos": "sustantivo",
+          "context": "Un ex ingeniero de Google fue declarado culpable.",
+          "definition_es": "Persona que estudió ingeniería",
+          "definition_en": "Person who studied engineering"
+        },
+        {
+          "word": "culpable",
+          "syllables": "cul-PA-ble",
+          "pos": "adjetivo",
+          "context": "El juez lo declaró culpable de espionaje.",
+          "definition_es": "Responsable de hacer algo malo",
+          "definition_en": "Responsible for doing something wrong"
+        },
+        {
+          "word": "espionaje",
+          "syllables": "es-pio-NA-je",
+          "pos": "sustantivo",
+          "context": "Lo acusaron de espionaje industrial.",
+          "definition_es": "Actividad de obtener información secreta",
+          "definition_en": "Activity of obtaining secret information"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Robó tecnología de inteligencia artificial.",
+          "definition_es": "Conocimiento científico aplicado",
+          "definition_en": "Applied scientific knowledge"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'financiar'?",
+          "options": [
+            "Proporcionar dinero",
+            "Cerrar oficinas",
+            "Escribir leyes",
+            "Votar en elecciones"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'reemplazar'?",
+          "options": [
+            "Eliminar",
+            "Sustituir",
+            "Contratar",
+            "Despedir"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es el 'espionaje'?",
+          "options": [
+            "Inventar tecnología",
+            "Obtener información secreta",
+            "Trabajar en equipo",
+            "Estudiar ciencias"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Si alguien es 'culpable', significa que:",
+          "options": [
+            "Es inocente",
+            "Estudió mucho",
+            "Hizo algo malo",
+            "Trabaja duro"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué institución aprobó el acuerdo para financiar el gobierno?",
+          "options": [
+            "La Casa Blanca",
+            "El Senado",
+            "La Corte Suprema",
+            "El Departamento de Estado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿A quién va a reemplazar Kevin Warsh?",
+          "options": [
+            "A Donald Trump",
+            "A Jerome Powell",
+            "Al director de Google",
+            "Al senador principal"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿De qué empresa robó tecnología el ingeniero?",
+          "options": [
+            "Apple",
+            "Microsoft",
+            "Google",
+            "Amazon"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué controla la Reserva Federal?",
+          "options": [
+            "Las escuelas públicas",
+            "Las tasas de interés",
+            "La inmigración",
+            "Los hospitales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de tecnología robó el ex ingeniero de Google?",
+          "options": [
+            "Tecnología médica",
+            "Inteligencia artificial",
+            "Tecnología espacial",
+            "Telecomunicaciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué pasaría sin el acuerdo del Senado?",
+          "options": [
+            "Habría nuevas elecciones",
+            "El gobierno podría cerrar",
+            "Cambiarían las leyes",
+            "Aumentarían los impuestos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-01-31T09:04:51.827287"
+    },
+    {
       "date": "2026-01-30",
       "filename": "spanish_lesson_2026-01-30.pdf",
       "path": "pdfs/spanish_lesson_2026-01-30.pdf",
@@ -12014,7 +12236,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-30T09:10:22.208577",
+  "last_updated": "2026-01-31T09:04:51.827299",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
