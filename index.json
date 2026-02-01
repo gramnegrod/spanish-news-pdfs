@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-01",
+      "filename": "spanish_lesson_2026-02-01.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-01.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Gobierno de Estados Unidos Cierra Agencias Mientras Espera Votación",
+          "headline_en": "US Government Shuts Down Agencies While Awaiting Vote",
+          "body_es": "El gobierno estadounidense cerró varias agencias federales el viernes por la noche. Esto ocurrió porque el Congreso no aprobó el presupuesto a tiempo. Los políticos esperan una votación importante en la Cámara de Representantes sobre un acuerdo propuesto por Trump. Sin este acuerdo, muchos trabajadores del gobierno no pueden ir a trabajar. Los servicios esenciales como la policía y los hospitales continúan funcionando normalmente. Sin embargo, otros servicios como los parques nacionales y algunas oficinas gubernamentales están cerrados. Esta situación afecta a miles de empleados federales. Los líderes políticos están trabajando para resolver el problema rápidamente. La votación podría ocurrir en los próximos días.",
+          "body_en": "The US government shut down several federal agencies on Friday night. This happened because Congress did not approve the budget on time. Politicians are waiting for an important vote in the House of Representatives on a deal proposed by Trump. Without this agreement, many government workers cannot go to work. Essential services like police and hospitals continue operating normally. However, other services like national parks and some government offices are closed. This situation affects thousands of federal employees. Political leaders are working to resolve the problem quickly. The vote could happen in the coming days.",
+          "source": "Bloomberg.com"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La Deuda Nacional de Estados Unidos Se Acerca a los 40 Billones de Dólares",
+          "headline_en": "US National Debt Approaches 40 Trillion Dollars",
+          "body_es": "Un expresidente de la Reserva Federal dice que Estados Unidos necesita un dólar estable. La deuda nacional del país se acerca a los 40 billones de dólares. Esta cantidad es muy grande y preocupa a los expertos en economía. El dólar estadounidense es la moneda más importante del mundo. Muchos países lo usan para hacer negocios internacionales. Si el dólar no es estable, puede crear problemas económicos globales. Los bancos centrales de otros países guardan dólares como reserva. La deuda alta puede hacer que el dólar pierda valor. Esto afectaría el comercio mundial y los precios de productos importantes. Los economistas recomiendan políticas para controlar el crecimiento de la deuda nacional. Es importante mantener la confianza internacional en la economía estadounidense.",
+          "body_en": "A former Federal Reserve president says the United States needs a stable dollar. The country's national debt is approaching 40 trillion dollars. This amount is very large and worries economics experts. The US dollar is the world's most important currency. Many countries use it for international business. If the dollar is not stable, it can create global economic problems. Other countries' central banks keep dollars as reserves. High debt can make the dollar lose value. This would affect world trade and prices of important products. Economists recommend policies to control national debt growth. It is important to maintain international confidence in the American economy.",
+          "source": "Fortune"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El Auge de la Inteligencia Artificial Causa Problemas Financieros para Empresas de Software",
+          "headline_en": "AI Boom Causes Financial Problems for Software Companies",
+          "body_es": "La inteligencia artificial está creciendo muy rápido en todo el mundo. Sin embargo, este crecimiento está creando problemas financieros para muchas empresas de software. Estas compañías pidieron préstamos grandes para invertir en tecnología de inteligencia artificial. Ahora tienen dificultades para pagar estos préstamos. Los bancos están preocupados porque las empresas no generan suficientes ganancias todavía. Muchas compañías gastaron mucho dinero en investigación y desarrollo. La competencia en el mercado de inteligencia artificial es muy fuerte. Las empresas más pequeñas luchan contra gigantes tecnológicos como Google y Microsoft. Algunos expertos dicen que esto es normal en industrias nuevas. Sin embargo, los inversores están nerviosos por las pérdidas económicas. Esta situación podría cambiar el futuro del desarrollo tecnológico.",
+          "body_en": "Artificial intelligence is growing very fast worldwide. However, this growth is creating financial problems for many software companies. These companies requested large loans to invest in artificial intelligence technology. Now they have difficulties paying these loans. Banks are worried because companies are not generating enough profits yet. Many companies spent a lot of money on research and development. Competition in the artificial intelligence market is very strong. Smaller companies struggle against tech giants like Google and Microsoft. Some experts say this is normal in new industries. However, investors are nervous about economic losses. This situation could change the future of technological development.",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gobierno",
+          "syllables": "go-BIER-no",
+          "pos": "sustantivo",
+          "context": "El gobierno estadounidense cerró varias agencias federales.",
+          "definition_es": "Conjunto de personas que dirigen un país",
+          "definition_en": "Government - the group of people who control a country"
+        },
+        {
+          "word": "deuda",
+          "syllables": "DEU-da",
+          "pos": "sustantivo",
+          "context": "La deuda nacional se acerca a los 40 billones de dólares.",
+          "definition_es": "Dinero que se debe pagar a alguien",
+          "definition_en": "Debt - money that is owed to someone"
+        },
+        {
+          "word": "préstamo",
+          "syllables": "PRÉS-ta-mo",
+          "pos": "sustantivo",
+          "context": "Las empresas de software tienen problemas con los préstamos.",
+          "definition_es": "Dinero que alguien te da y debes devolver",
+          "definition_en": "Loan - money that is borrowed and must be paid back"
+        },
+        {
+          "word": "cerrar",
+          "syllables": "ce-RRAR",
+          "pos": "verbo",
+          "context": "El gobierno decidió cerrar las agencias por falta de presupuesto.",
+          "definition_es": "Parar el funcionamiento de algo",
+          "definition_en": "To shut down - to stop the operation of something"
+        },
+        {
+          "word": "estable",
+          "syllables": "es-TA-ble",
+          "pos": "adjetivo",
+          "context": "Estados Unidos necesita un dólar estable.",
+          "definition_es": "Que no cambia mucho, seguro",
+          "definition_en": "Stable - not changing much, secure"
+        },
+        {
+          "word": "votación",
+          "syllables": "vo-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "La Cámara de Representantes espera una votación importante.",
+          "definition_es": "Proceso donde las personas eligen entre opciones",
+          "definition_en": "Vote - process where people choose between options"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando muchas industrias.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence - technology that allows machines to think like humans"
+        },
+        {
+          "word": "billón",
+          "syllables": "bi-LLÓN",
+          "pos": "sustantivo",
+          "context": "La deuda alcanzará 40 billones de dólares pronto.",
+          "definition_es": "Un millón de millones (1.000.000.000.000)",
+          "definition_en": "Trillion - one million millions (1,000,000,000,000)"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'gobierno'?",
+          "options": [
+            "Un edificio grande",
+            "Las personas que dirigen un país",
+            "Un tipo de dinero",
+            "Una empresa privada"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'préstamo'?",
+          "options": [
+            "Dinero que guardas en el banco",
+            "Dinero que alguien te da y debes devolver",
+            "Dinero que pierdes",
+            "Dinero que encuentras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Una deuda es:",
+          "options": [
+            "Dinero extra que tienes",
+            "Dinero que debes pagar",
+            "Un tipo de trabajo",
+            "Una computadora nueva"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa que algo sea 'estable'?",
+          "options": [
+            "Muy caro",
+            "Que no cambia mucho",
+            "Muy nuevo",
+            "Que se mueve rápidamente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿por qué se cerraron las agencias del gobierno estadounidense?",
+          "options": [
+            "Por una huelga de trabajadores",
+            "Porque no aprobaron el presupuesto a tiempo",
+            "Por problemas técnicos",
+            "Por vacaciones navideñas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero alcanzará la deuda nacional estadounidense?",
+          "options": [
+            "40 millones de dólares",
+            "40 billones de dólares",
+            "400 millones de dólares",
+            "4 billones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué servicios continúan funcionando durante el cierre del gobierno?",
+          "options": [
+            "Solo las oficinas administrativas",
+            "Los parques nacionales",
+            "Los servicios esenciales como policía y hospitales",
+            "Todas las agencias gubernamentales"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué las empresas de software tienen problemas financieros?",
+          "options": [
+            "Porque vendieron todas sus computadoras",
+            "Porque pidieron préstamos grandes para invertir en IA",
+            "Porque sus empleados están en huelga",
+            "Porque cerraron todas sus oficinas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿por qué es importante tener un dólar estable?",
+          "options": [
+            "Para comprar más productos nacionales",
+            "Porque muchos países lo usan para negocios internacionales",
+            "Para reducir el número de bancos",
+            "Para aumentar los precios locales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Contra quién luchan las empresas pequeñas de software?",
+          "options": [
+            "Contra el gobierno",
+            "Contra gigantes tecnológicos como Google y Microsoft",
+            "Contra los bancos",
+            "Contra sus propios empleados"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-01T09:06:21.097749"
+    },
+    {
       "date": "2026-01-31",
       "filename": "spanish_lesson_2026-01-31.pdf",
       "path": "pdfs/spanish_lesson_2026-01-31.pdf",
@@ -12236,7 +12458,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-01-31T09:04:51.827299",
+  "last_updated": "2026-02-01T09:06:21.097764",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
