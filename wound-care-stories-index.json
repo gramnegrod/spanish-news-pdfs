@@ -1,11 +1,122 @@
 {
-  "date": "2026-02-01",
-  "generated_at": "2026-02-01T09:11:24.437503Z",
+  "date": "2026-02-02",
+  "generated_at": "2026-02-02T09:20:31.645702Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 130,
-  "new_today": 4,
+  "total_stories": 133,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250202",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La importancia del cuidado de los pies en heridas crónicas",
+      "headline_en": "The Importance of Foot Care in Chronic Wounds",
+      "summary_es": "Una iniciativa de cuidado de pies ayuda a prevenir heridas crónicas en personas sin hogar. El cuidado adecuado de los pies es esencial para la salud de la piel.",
+      "body_es": "El cuidado de los pies es muy importante en el tratamiento de heridas crónicas. Las personas sin hogar tienen más riesgo de desarrollar úlceras en los pies. Una iniciativa comunitaria proporciona calcetines limpios para prevenir infecciones y heridas. Los calcetines secos protegen la piel de la humedad y las bacterias. Los enfermeros recomiendan cambiar los calcetines todos los días. La higiene de los pies reduce el riesgo de úlceras y lesiones graves. El tratamiento de heridas crónicas incluye mantener los pies limpios y secos. Las organizaciones de salud trabajan con grupos comunitarios para educar sobre cuidado de pies. Prevenir heridas es más fácil y menos costoso que tratar úlceras avanzadas.",
+      "body_en": "Foot care is very important in the treatment of chronic wounds. People experiencing homelessness have a higher risk of developing foot ulcers. A community initiative provides clean socks to prevent infections and wounds. Dry socks protect the skin from moisture and bacteria. Nurses recommend changing socks every day. Foot hygiene reduces the risk of ulcers and serious injuries. Chronic wound treatment includes keeping feet clean and dry. Health organizations work with community groups to educate about foot care. Preventing wounds is easier and less expensive than treating advanced ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZVhGZnZGalJhOHRrdFk2WFZ1WXRaQ2FHQTBKLUZOdTViWm9WUV9iSUVkaHVtNy1wY2VrYWFXNS12c3NOUnpweENJaXQ5V2Y4TGFIRTlzWWZTcEl4OUdQaGkxckdsdE9tc05oeTU2X3RKYjNHeGJVYjU3cVZ6YXQ3a0JJU1c0RHA4dk1DU1J1Q3l6TEZZMEs2ZEFCTEtDd0dQOTA2ZUJycmdZbVBt?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-02/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión en la piel que no cicatriza rápidamente",
+          "definition_en": "chronic wound - injury to skin that does not heal quickly"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel o tejido",
+          "definition_en": "ulcer - open wound on skin or tissue"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar y cerrar una herida",
+          "definition_en": "healing - process of closing and recovering from a wound"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar enfermedades o heridas",
+          "definition_en": "prevention - actions to avoid disease or wounds"
+        }
+      ],
+      "added_at": "2026-02-02T09:20:31.645702Z"
+    },
+    {
+      "id": "burn-care-20250202",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Sobrevivientes de quemaduras tratados con injertos de piel cultivada",
+      "headline_en": "Burn Survivors Treated with Skin Grafts Grown from Their Own Cells",
+      "summary_es": "Después del incendio en una estación de esquí suiza, los pacientes fueron tratados con una técnica innovadora que cultiva piel a partir de sus propias células. Este tratamiento acelera la cicatrización y reduce el riesgo de infección.",
+      "body_es": "Los sobrevivientes del incendio en la estación de esquí suiza de Crans-Montana recibieron un tratamiento revolucionario para sus quemaduras graves. Los médicos utilizaron una técnica que cultiva piel nueva a partir de células de los propios pacientes. Este método acelera significativamente el proceso de cicatrización en comparación con los injertos de piel tradicionales. La piel cultivada en laboratorio reduce el riesgo de rechazo del injerto y disminuye las cicatrices permanentes. El procedimiento requiere que los especialistas extraigan una pequeña muestra de piel sana del paciente. Las células se cultivan en un laboratorio durante varias semanas. Una vez que la piel es suficientemente grande, se trasplanta al área quemada. Este tratamiento demuestra cómo la medicina regenerativa está mejorando los resultados en pacientes con quemaduras extensas. La recuperación es más rápida y la calidad de la piel regenerada es superior a los métodos convencionales.",
+      "body_en": "Survivors of the fire at the Crans-Montana ski resort in Switzerland received revolutionary treatment for their severe burns. Doctors used a technique that grows new skin from the patients' own cells. This method significantly accelerates the healing process compared to traditional skin grafts. Cultured skin in the laboratory reduces the risk of graft rejection and decreases permanent scarring. The procedure requires specialists to extract a small sample of healthy skin from the patient. The cells are cultured in a laboratory for several weeks. Once the skin is large enough, it is transplanted to the burned area. This treatment demonstrates how regenerative medicine is improving outcomes in patients with extensive burns. Recovery is faster and the quality of regenerated skin is superior to conventional methods.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQY3psOWdWbHlPY211eFV6Zy1ZYWFCUU1RMWpIcFh2b0dqWFFEcTZ4VlZHZ3NHdHp1RDdIclJsdlZHUjRGMndScUVfT3Y0LUpuTXNjMXZDNEZzQTEzTEhYVHdfbHpteVhLM281SjVCLUNyV1AyNXh6VUdFRTdVX2FSSVpOWTVMeVpDU0xTdjVGcTE2VDZZdUU3T082T19ZelhRcGdKZzBvelQzVUVDZnhpUDExbWo1cXZhMVctUmpoVGdwdnBMVGl6MndXelNfdDZPMDhBaHBhUUFJNlBEOUVoOWEwVF9jYkdxNkRQcklKaGxuMjhHU19oemQxckJnWFhHZm1uNUdqRTV3clhKdXkyQkpqWlM5SldoS2gzU1BCcFNtcGFtU1o3OS1NTE9zWThtTHZ1WldaN0thSUxJZmhrd1dfT2VxeDFBcHphUWVNcmppX0xqSnhfaFp1M3BGM2tm?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-02/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura grave",
+          "definition_es": "lesión de piel severa causada por fuego o calor intenso",
+          "definition_en": "severe burn - serious skin injury caused by fire or intense heat"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de piel para cubrir área quemada o dañada",
+          "definition_en": "skin graft - transplant of skin to cover burned or damaged area"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz y cierre de herida",
+          "definition_en": "scarring - process of scar formation and wound closure"
+        },
+        {
+          "word": "medicina regenerativa",
+          "definition_es": "técnicas para crear y regenerar tejidos dañados",
+          "definition_en": "regenerative medicine - techniques to create and regenerate damaged tissues"
+        }
+      ],
+      "added_at": "2026-02-02T09:20:31.645702Z"
+    },
+    {
+      "id": "surgical-wounds-20250202",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Infecciones del sitio quirúrgico: vigilancia y prevención continua",
+      "headline_en": "Surgical Site Infections: Continuous Surveillance and Prevention",
+      "summary_es": "Los Centros para el Control y la Prevención de Enfermedades (CDC) proporcionan información actualizada sobre infecciones asociadas a la atención médica. La prevención de infecciones quirúrgicas requiere protocolos rigurosos en todos los procedimientos.",
+      "body_es": "Las infecciones del sitio quirúrgico representan una complicación significativa en la atención hospitalaria. Los Centros para el Control y la Prevención de Enfermedades monitorean continuamente estos casos en hospitales de toda la nación. El personal de enfermería debe evaluar las heridas quirúrgicas diariamente para detectar signos tempranos de infección. Los indicadores de infección incluyen enrojecimiento excesivo, calor, hinchazón, drenaje purulento y fiebre postoperatoria. La prevención comienza antes de la cirugía con antibióticos profilácticos administrados en el momento correcto. Durante la operación, los cirujanos utilizan técnicas estériles rigurosas para minimizar la contaminación bacteriana. Después de la cirugía, el cuidado meticuloso de la herida es fundamental para prevenir infecciones. El cambio regular de apósitos, la limpieza apropiada y el monitoreo constante reducen significativamente las tasas de infección. La vigilancia epidemiológica y los reportes de datos ayudan a los hospitales a mejorar sus protocolos de seguridad del paciente.",
+      "body_en": "Surgical site infections represent a significant complication in hospital care. The Centers for Disease Control and Prevention continuously monitor these cases in hospitals nationwide. Nursing staff must evaluate surgical wounds daily to detect early signs of infection. Infection indicators include excessive redness, heat, swelling, purulent drainage, and postoperative fever. Prevention begins before surgery with prophylactic antibiotics administered at the correct time. During surgery, surgeons use rigorous sterile techniques to minimize bacterial contamination. After surgery, meticulous wound care is fundamental to prevent infections. Regular dressing changes, appropriate cleaning, and continuous monitoring significantly reduce infection rates. Epidemiological surveillance and data reporting help hospitals improve their patient safety protocols.",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdmpkYWJfS1Yyb2F0ek9wdnJTblBSY1pUQnppcXVtVjd1MjhwWWpWdlpOM3l2Q24xaEc3bXdoTkNadlI2Tzc5RlYyUWJYTmVEcWt3dm8xOVJ2cmlLRllkWTNQNzBkd3pwVTBOYnBBUXBlMkp1UDdDbXlLd24?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-02/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección quirúrgica",
+          "definition_es": "contaminación bacteriana de la herida después de cirugía",
+          "definition_en": "surgical infection - bacterial contamination of wound after surgery"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material estéril que cubre y protege una herida",
+          "definition_en": "dressing - sterile material that covers and protects a wound"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "vigilancia epidemiológica",
+          "definition_es": "monitoreo sistemático de enfermedades e infecciones",
+          "definition_en": "epidemiological surveillance - systematic monitoring of diseases and infections"
+        }
+      ],
+      "added_at": "2026-02-02T09:20:31.645702Z"
+    },
     {
       "id": "chronic-wounds-20250201",
       "category": "Chronic Wounds",
@@ -4811,6 +4922,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-01T09:11:24.437503Z",
+  "last_updated": "2026-02-02T09:20:31.645702Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
