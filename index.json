@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-03",
+      "filename": "spanish_lesson_2026-02-03.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-03.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump busca apoyo para reabrir el gobierno estadounidense",
+          "headline_en": "Trump seeks support to reopen the US government",
+          "body_es": "El expresidente Trump está pidiendo apoyo a los republicanos en el Congreso. Quiere hacer un acuerdo para reabrir el gobierno federal. El gobierno está cerrado porque los políticos no pueden ponerse de acuerdo sobre el presupuesto. Esta situación afecta a muchos trabajadores del gobierno. Miles de empleados federales no pueden trabajar. Trump dice que los republicanos deben votar a favor de su propuesta. El cierre del gobierno causa problemas en muchos servicios públicos. Los ciudadanos esperan una solución rápida. Los líderes políticos continúan las negociaciones. Es importante encontrar un acuerdo pronto para evitar más problemas económicos en el país.",
+          "body_en": "Former President Trump is asking for support from Republicans in Congress. He wants to make a deal to reopen the federal government. The government is closed because politicians cannot agree on the budget. This situation affects many government workers. Thousands of federal employees cannot work. Trump says Republicans should vote in favor of his proposal. The government shutdown causes problems in many public services. Citizens hope for a quick solution. Political leaders continue negotiations. It is important to find an agreement soon to avoid more economic problems in the country.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los mercados alcanzan récords mientras SpaceX hace gran compra",
+          "headline_en": "Markets reach records while SpaceX makes big purchase",
+          "body_es": "El mercado británico FTSE 100 alcanzó un nuevo récord histórico esta semana. Los precios del oro y la plata subieron mucho, lo que alegró a los inversionistas. Al mismo tiempo, la empresa SpaceX compró la compañía de inteligencia artificial xAI por 1.25 billones de dólares. Esta es una de las compras más grandes en la historia de la tecnología. Los expertos dicen que esta compra cambiará el futuro de la inteligencia artificial. SpaceX, la empresa de Elon Musk, quiere usar esta tecnología para sus cohetes espaciales. Los mercados financieros reaccionaron positivamente a estas noticias. Muchas acciones de tecnología subieron de precio. Los analistas creen que 2024 será un año importante para las empresas tecnológicas.",
+          "body_en": "The British FTSE 100 market reached a new historic record this week. Gold and silver prices rose significantly, which pleased investors. At the same time, SpaceX company bought the artificial intelligence company xAI for $1.25 trillion. This is one of the largest purchases in technology history. Experts say this purchase will change the future of artificial intelligence. SpaceX, Elon Musk's company, wants to use this technology for its space rockets. Financial markets reacted positively to this news. Many technology stocks increased in price. Analysts believe 2024 will be an important year for technology companies.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nueva York creará reglas para usar inteligencia artificial en escuelas",
+          "headline_en": "New York will create rules for using artificial intelligence in schools",
+          "body_es": "Las escuelas de Nueva York tendrán nuevas reglas sobre el uso de inteligencia artificial este mes. La tecnología está cambiando rápidamente las aulas de clase en toda la ciudad. Los maestros y estudiantes usan cada vez más herramientas de IA para estudiar y enseñar. Sin embargo, esto también crea nuevos problemas y desafíos educativos. Las autoridades escolares quieren crear reglas claras sobre cuándo y cómo usar esta tecnología. Algunos maestros están preocupados porque los estudiantes pueden usar IA para hacer trampa en sus tareas. Otros piensan que la IA puede ayudar mucho en el aprendizaje. Las nuevas reglas buscarán equilibrar los beneficios y riesgos. Esta decisión afectará a más de un millón de estudiantes en la ciudad.",
+          "body_en": "New York schools will have new rules about using artificial intelligence this month. Technology is rapidly changing classrooms throughout the city. Teachers and students increasingly use AI tools to study and teach. However, this also creates new problems and educational challenges. School authorities want to create clear rules about when and how to use this technology. Some teachers are worried because students might use AI to cheat on their assignments. Others think AI can help a lot with learning. The new rules will seek to balance benefits and risks. This decision will affect more than one million students in the city.",
+          "source": "Gothamist"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gobierno",
+          "syllables": "go-BIER-no",
+          "pos": "sustantivo",
+          "context": "Trump presiona para reabrir el gobierno.",
+          "definition_es": "Conjunto de personas que dirigen un país",
+          "definition_en": "Government"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Los políticos necesitan un acuerdo para resolver el problema.",
+          "definition_es": "Decisión tomada entre varias personas",
+          "definition_en": "Agreement, deal"
+        },
+        {
+          "word": "récord",
+          "syllables": "RE-cord",
+          "pos": "sustantivo",
+          "context": "El mercado alcanzó un nuevo récord histórico.",
+          "definition_es": "La marca más alta nunca alcanzada",
+          "definition_en": "Record"
+        },
+        {
+          "word": "precios",
+          "syllables": "PRE-cios",
+          "pos": "sustantivo",
+          "context": "Los precios del oro y la plata subieron mucho.",
+          "definition_es": "La cantidad de dinero que cuesta algo",
+          "definition_en": "Prices"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Las escuelas necesitan nuevas reglas para la inteligencia artificial.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence"
+        },
+        {
+          "word": "reglas",
+          "syllables": "RE-glas",
+          "pos": "sustantivo",
+          "context": "Las nuevas reglas cambiarán cómo usan la tecnología en clase.",
+          "definition_es": "Instrucciones que dicen qué se puede o no hacer",
+          "definition_en": "Rules"
+        },
+        {
+          "word": "aulas",
+          "syllables": "AU-las",
+          "pos": "sustantivo",
+          "context": "La tecnología está cambiando las aulas de clase.",
+          "definition_es": "Salas donde los estudiantes reciben clases",
+          "definition_en": "Classrooms"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado financiero mostró buenos resultados esta semana.",
+          "definition_es": "Lugar donde se compran y venden productos o acciones",
+          "definition_en": "Market"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'acuerdo'?",
+          "options": [
+            "Decisión tomada entre varias personas",
+            "Un lugar para votar",
+            "Un tipo de dinero",
+            "Una escuela grande"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Las salas donde los estudiantes reciben clases se llaman:",
+          "options": [
+            "mercados",
+            "gobiernos",
+            "aulas",
+            "récords"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es la definición correcta de 'precios'?",
+          "options": [
+            "Lugares para estudiar",
+            "La cantidad de dinero que cuesta algo",
+            "Personas que trabajan",
+            "Máquinas inteligentes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La tecnología que permite a las máquinas pensar como humanos se llama:",
+          "options": [
+            "gobierno digital",
+            "mercado electrónico",
+            "inteligencia artificial",
+            "aula virtual"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el primer texto, ¿por qué está cerrado el gobierno estadounidense?",
+          "options": [
+            "Por las elecciones",
+            "Porque no hay acuerdo sobre el presupuesto",
+            "Por problemas tecnológicos",
+            "Por el mal tiempo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto pagó SpaceX por la compañía xAI?",
+          "options": [
+            "1.25 millones de dólares",
+            "1.25 billones de dólares",
+            "125 mil dólares",
+            "12.5 millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué mercado alcanzó un nuevo récord según el texto?",
+          "options": [
+            "El mercado estadounidense",
+            "El mercado japonés",
+            "El mercado británico FTSE 100",
+            "El mercado canadiense"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuántos estudiantes se verán afectados por las nuevas reglas de IA en Nueva York?",
+          "options": [
+            "Más de un millón",
+            "Exactamente 500,000",
+            "Menos de 100,000",
+            "Dos millones"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué preocupa a algunos maestros sobre la inteligencia artificial?",
+          "options": [
+            "Que es muy cara",
+            "Que los estudiantes la usen para hacer trampa",
+            "Que es muy difícil de usar",
+            "Que no funciona bien"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué materiales subieron de precio según el texto económico?",
+          "options": [
+            "Petróleo y gas",
+            "Oro y plata",
+            "Cobre y hierro",
+            "Diamantes y rubíes"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-03T09:10:00.268646"
+    },
+    {
       "date": "2026-02-02",
       "filename": "spanish_lesson_2026-02-02.pdf",
       "path": "pdfs/spanish_lesson_2026-02-02.pdf",
@@ -12680,7 +12902,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-02T09:13:12.804907",
+  "last_updated": "2026-02-03T09:10:00.268659",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
