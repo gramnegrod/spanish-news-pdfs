@@ -1,11 +1,196 @@
 {
-  "date": "2026-02-02",
-  "generated_at": "2026-02-02T09:20:31.645702Z",
+  "date": "2026-02-03",
+  "generated_at": "2026-02-03T09:17:07.387608Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 133,
-  "new_today": 3,
+  "total_stories": 138,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250203",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Tratamiento nuevo para úlceras por presión graves en niños",
+      "headline_en": "New treatment for severe pressure ulcers in children",
+      "summary_es": "Los médicos usan técnicas de injerto retrasado para tratar úlceras por presión en niños con lesiones de médula espinal. Este tratamiento ayuda a sanar heridas graves.",
+      "body_es": "Las úlceras por presión son heridas graves que ocurren en la piel. Afectan a pacientes que no pueden moverse mucho. Los niños con lesiones de médula espinal tienen riesgo alto. Los médicos ahora usan injertos de piel retrasados para tratar estas úlceras. Este método es una técnica quirúrgica especial. El cirujano prepara el tejido durante varias semanas. Después, coloca el injerto en la herida. El injerto ayuda a reconstruir la piel y los tejidos dañados. Este tratamiento es muy efectivo para úlceras de etapa 4. Los resultados son mejores que los tratamientos antiguos. Los niños sanan más rápido con este método nuevo.",
+      "body_en": "Pressure ulcers are serious skin wounds. They affect patients who cannot move much. Children with spinal cord injuries have high risk. Doctors now use delayed skin grafts to treat these ulcers. This method is a special surgical technique. The surgeon prepares the tissue for several weeks. Then, he places the graft on the wound. The graft helps rebuild damaged skin and tissue. This treatment is very effective for stage 4 ulcers. Results are better than old treatments. Children heal faster with this new method.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRHFRVWhQUjR6dW9MSVZreHJ5bE5DdlJNeHU0SkZOa2hybTE1T3NDdDA5ZUJwOTltd1YzNTBBWlhEZ19NUEZaX1FtWGhVT3RKWWdUUF85Wm5FLTlPSlFHZzV6RjFzWU5CV1g3SERwdFl0WDEwR3hKM3dtdURuYUFYRXZJbnVrMkI1b19SVkF0aFRpaUpzM21QcUdORlNSVTFCTEcxNkhqc2J3TWo5cVkwd3pxaEJtcE1velJaaWVMV2IyRXR4MW1iak9rcEphZE5hQkF6YkRSZGdEZG8zdFpOWEQ3ZGJCdDBDd1Q4LWRzQTh3N2N3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-03/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida en la piel causada por presión continua",
+          "definition_en": "pressure ulcer - wound caused by continuous pressure on skin"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "técnica de poner piel nueva en una herida",
+          "definition_en": "graft - technique of placing new skin on a wound"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "estructura de piel y células del cuerpo",
+          "definition_en": "tissue - structure of skin and body cells"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        }
+      ],
+      "added_at": "2026-02-03T09:17:07.387608Z"
+    },
+    {
+      "id": "diabetic-foot-20250203",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Técnica innovadora para tratar úlceras del talón en pacientes diabéticos",
+      "headline_en": "Innovative technique to treat heel ulcers in diabetic patients",
+      "summary_es": "Un nuevo procedimiento quirúrgico percutáneo reduce la presión en el talón para sanar úlceras centrales en pacientes diabéticos. La técnica involve la imbrication del tendón de Aquiles.",
+      "body_es": "Las úlceras plantares del talón representan un desafío importante en el cuidado del pie diabético. Los tratamientos convencionales frecuentemente fallan cuando las úlceras se localizan en el área central del talón. Un equipo médico ha desarrollado una técnica innovadora que utiliza la imbrication percutánea del tendón de Aquiles. Este procedimiento minimamente invasivo reduce la presión plantar en la zona afectada. Durante la intervención, el cirujano realiza pequeñas incisiones para acceder al tendón. Luego, el tendón se imbricate, lo que acorta su longitud y reduce la carga en el talón. Los resultados preliminares demuestran que esta técnica novel favorece la cicatrización de las úlceras resistentes al tratamiento convencional. Esta opción terapéutica ofrece una alternativa efectiva para pacientes que no responden a métodos tradicionales.",
+      "body_en": "Plantar heel ulcers represent an important challenge in diabetic foot care. Conventional treatments frequently fail when ulcers are located in the central heel area. A medical team has developed an innovative technique using percutaneous Achilles tendon imbrication. This minimally invasive procedure reduces plantar pressure in the affected area. During the procedure, the surgeon makes small incisions to access the tendon. Then, the tendon is imbricated, which shortens its length and reduces load on the heel. Preliminary results show this novel technique favors healing of ulcers resistant to conventional treatment. This therapeutic option provides an effective alternative for patients who do not respond to traditional methods.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZjBWMDVmZ3NyTzY1RjhSUDU5Zk0xV3MxY2xHeFV2a0tSTENLVHp6Y0lPSVBfeUFDQmNkUUxmaWhsb2c5dXEzQVFkWElqMmRwQVM5NjI2RVpxWHE3eGVhamxUS1B5T0NHWkZYS3pjeWcwZTI4ZXJGMFplVkJoSmtERWwtQUxDcjJqTkF6NjZoNXp3U0QxWjViNUpfMzlScjJHRlV2NGRUTXR6aU5XWlJiZTExQXdyOGNjdEZxdVhzOEVGRWg4dm05XzgxWldKZXMyS2tBNEhSQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-03/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera plantar",
+          "definition_es": "herida en la planta del pie",
+          "definition_en": "plantar ulcer - wound on the sole of the foot"
+        },
+        {
+          "word": "imbrication",
+          "definition_es": "técnica de superponer estructuras tisulares",
+          "definition_en": "imbrication - technique of overlapping tissue structures"
+        },
+        {
+          "word": "tendón de Aquiles",
+          "definition_es": "estructura que conecta el músculo de la pantorrilla con el talón",
+          "definition_en": "Achilles tendon - structure connecting calf muscle to heel"
+        },
+        {
+          "word": "presión plantar",
+          "definition_es": "fuerza ejercida en la planta del pie",
+          "definition_en": "plantar pressure - force exerted on the sole of the foot"
+        }
+      ],
+      "added_at": "2026-02-03T09:17:07.387608Z"
+    },
+    {
+      "id": "burn-care-20250203",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Mercado global de cuidado de quemaduras experimenta crecimiento significativo",
+      "headline_en": "Global burn care market experiences significant growth",
+      "summary_es": "El mercado mundial de cuidado de quemaduras está en expansión, con proyecciones de crecimiento hasta 2033 según análisis de facilidades, tipos de tratamiento y severidad de lesiones.",
+      "body_es": "El sector de cuidado de quemaduras ha experimentado un crecimiento notable en los últimos años. Se proyecta que este mercado continúe expandiéndose hasta 2033 según un análisis global integral. El mercado se segmenta por varios factores importantes: tipo de facilidad (hospitales, centros de quemados especializados), tipo de tratamiento (quirúrgico, farmacológico, curativo), y severidad de la quemadura (leve, moderada, grave). Los avances tecnológicos y las innovaciones terapéuticas han mejorado significativamente los resultados de los pacientes quemados. El análisis regional muestra variaciones en la disponibilidad de servicios y recursos especializados. Hospitales dedicados han ampliado sus capacidades para tratar quemaduras de gran extensión. Se espera que la demanda de servicios de cuidado de quemaduras aumente debido al reconocimiento de la importancia de la atención especializada. Este crecimiento refleja mejoras en la calidad asistencial y el desarrollo de nuevos protocolos terapéuticos.",
+      "body_en": "The burn care sector has experienced notable growth in recent years. This market is projected to continue expanding through 2033 according to a comprehensive global analysis. The market is segmented by several important factors: facility type (hospitals, specialized burn centers), treatment type (surgical, pharmacological, dressing), and burn severity (minor, moderate, severe). Technological advances and therapeutic innovations have significantly improved outcomes for burned patients. The regional analysis shows variations in availability of specialized services and resources. Dedicated hospitals have expanded their capacity to treat extensive burns. The demand for burn care services is expected to increase due to recognition of the importance of specialized care. This growth reflects improvements in care quality and development of new therapeutic protocols.",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0tGencySEdQQ3BKS0k2LUI4WVhvUjE5UVJPZ1pwX0NORjh6MVY2X1RWb1ZkQl9kNGdPS1M4dm9adlpNRmx3ZE54ZEZsUlB0dGYzWi14bktUNFctX2JsX3VlRmNIa3lyVmlZZWdQWkNsdFVuSzZUM0ZxZGdpdDVWbU1wV0NlNWNCTlVMSXZPNjdvb2h3bWRPeEYta3h1TG8?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-03/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por fuego, calor o sustancias químicas",
+          "definition_en": "burn - injury caused by fire, heat, or chemical substances"
+        },
+        {
+          "word": "severidad",
+          "definition_es": "grado o intensidad de una lesión o enfermedad",
+          "definition_en": "severity - degree or intensity of an injury or illness"
+        },
+        {
+          "word": "tratamiento quirúrgico",
+          "definition_es": "procedimiento médico que requiere cirugía",
+          "definition_en": "surgical treatment - medical procedure requiring surgery"
+        },
+        {
+          "word": "protocolo terapéutico",
+          "definition_es": "plan o conjunto de procedimientos para tratar una enfermedad",
+          "definition_en": "therapeutic protocol - plan or set of procedures to treat a disease"
+        }
+      ],
+      "added_at": "2026-02-03T09:17:07.387608Z"
+    },
+    {
+      "id": "surgical-wounds-20250203",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Estrategias de trabajo social reducen readmisiones postoperatorias en cirugía ortopédica",
+      "headline_en": "Social work strategies reduce postoperative readmissions in orthopedic surgery",
+      "summary_es": "El apoyo de trabajo social durante el período postoperatorio disminuye significativamente las readmisiones en pacientes de cirugía ortopédica. Estas estrategias integradas mejoran los resultados clínicos.",
+      "body_es": "Las readmisiones postoperatorias representan un problema importante que afecta la calidad asistencial y aumenta los costos sanitarios. En cirugía ortopédica, el apoyo de trabajo social ha demostrado ser efectivo para prevenir estas readmisiones. Un análisis narrativo revela que cuando los trabajadores sociales intervienen durante el período perioperatorio, se logran mejores resultados. Las estrategias incluyen evaluación de recursos domiciliarios, coordinación de servicios de rehabilitación, y seguimiento postoperatorio estructurado. Los trabajadores sociales identifican barreras socioeconómicas que afectan la recuperación del paciente. Proporcionan educación sobre cuidados de la herida quirúrgica y movilización segura. Facilitan acceso a recursos comunitarios necesarios para la rehabilitación en el hogar. La intervención temprana de trabajo social reduce complicaciones, infecciones de heridas, y problemas de cumplimiento terapéutico. Estos resultados demuestran la importancia de adoptar un enfoque multidisciplinario en el cuidado perioperatorio.",
+      "body_en": "Postoperative readmissions represent an important problem affecting care quality and increasing healthcare costs. In orthopedic surgery, social work support has proven effective in preventing these readmissions. A narrative analysis reveals that when social workers intervene during the perioperative period, better outcomes are achieved. Strategies include assessment of home resources, coordination of rehabilitation services, and structured postoperative follow-up. Social workers identify socioeconomic barriers affecting patient recovery. They provide education about surgical wound care and safe mobilization. They facilitate access to community resources necessary for home rehabilitation. Early social work intervention reduces complications, wound infections, and therapeutic compliance problems. These results demonstrate the importance of adopting a multidisciplinary approach in perioperative care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOHNjdWxha3prelFodDVYdjBkN0dFWVo3NlN0aE5sOHRfTTBldFZveGozOWJIQzJ3ZUJZZ21Ld0l3SnhNb3JNZk9jLVV2YVlNSVVKbEpNbmRtOVk5SkRTZTdBRmJqLU9HVkp2RXRfUjdSY2NyejFlLUJ5dHhCd095cW52VVFRZzdjQzI1NHBsbUJXWFRaLVNHaFJnQnZ6NDk2SDNQb0ZTazh4ZlU0SmtHN3ZpcnVHb0JzWElodVZUb28zSGZwemJaWGlrb2dSeHFGS3NEYlF3d3dMZzQxUkxsSDdiMA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-03/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "readmisión",
+          "definition_es": "reingreso hospitalario después del alta inicial",
+          "definition_en": "readmission - hospital readmission after initial discharge"
+        },
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión o lesión realizada durante una operación",
+          "definition_en": "surgical wound - incision or injury made during surgery"
+        },
+        {
+          "word": "período perioperatorio",
+          "definition_es": "tiempo antes, durante y después de una cirugía",
+          "definition_en": "perioperative period - time before, during, and after surgery"
+        },
+        {
+          "word": "complicación postoperatoria",
+          "definition_es": "problema que ocurre después de una operación",
+          "definition_en": "postoperative complication - problem occurring after surgery"
+        }
+      ],
+      "added_at": "2026-02-03T09:17:07.387608Z"
+    },
+    {
+      "id": "wound-research-20250203",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación mejora los resultados de salud a largo plazo en pediatría",
+      "headline_en": "Research improves long-term health outcomes in pediatrics",
+      "summary_es": "La Asociación de Hospitales Infantiles enfatiza la importancia de la investigación clínica para mejorar los resultados de salud a largo plazo en niños. Estudios recientes avanzan el cuidado pediátrico integral.",
+      "body_es": "La investigación clínica es fundamental para mejorar los resultados de salud a largo plazo en población pediátrica. La Asociación de Hospitales Infantiles reconoce que la inversión en investigación genera avances significativos en el cuidado de niños. Los estudios realizados en hospitales pediátricos contribuyen a desarrollar nuevas terapias y protocolos de tratamiento. La investigación en heridas y cicatrización pediátrica permite entender mejor los procesos biológicos únicos de los niños. Los hospitales especializados conducen ensayos clínicos que evalúan la efectividad de nuevos apósitos y tratamientos. Los datos obtenidos informan mejores prácticas en el manejo de heridas quirúrgicas y traumáticas en menores. La investigación también aborda factores psicosociales que afectan la recuperación del niño. Los hospitales colaboran en redes multicéntricas para aumentar el número de participantes en estudios. Estos esfuerzos de investigación garantizan que los niños reciban atención basada en evidencia científica.",
+      "body_en": "Clinical research is fundamental for improving long-term health outcomes in the pediatric population. The Children's Hospital Association recognizes that investment in research generates significant advances in children's care. Studies conducted in pediatric hospitals contribute to developing new therapies and treatment protocols. Research in pediatric wound healing allows better understanding of unique biological processes in children. Specialized hospitals conduct clinical trials evaluating effectiveness of new dressings and treatments. Data obtained informs best practices in managing surgical and traumatic wounds in children. Research also addresses psychosocial factors affecting child recovery. Hospitals collaborate in multicenter networks to increase study participant numbers. These research efforts ensure children receive evidence-based scientific care.",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNU5GWEdCblNPZ1ZUbFplaWxFNnlqaEdzNDZrZll5ZU9KX0xCd2xybC1vSHRIYnZRN3NYZ001NU8xSlVUangxOHNCNnZHNGF5cVBPLV9fZkc5NXc1Qk5PYVR1dTE1d1dtYzdKNGVGaTc1MEFfX0JRTzRCdWpHSDdtSEhSYw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-03/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "investigación clínica",
+          "definition_es": "estudio científico realizado en pacientes para evaluar tratamientos",
+          "definition_en": "clinical research - scientific study conducted in patients to evaluate treatments"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo que cierra una herida",
+          "definition_en": "wound healing - process of new tissue formation that closes a wound"
+        },
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio formal que prueba la efectividad de un tratamiento",
+          "definition_en": "clinical trial - formal study testing treatment effectiveness"
+        },
+        {
+          "word": "evidencia científica",
+          "definition_es": "información basada en investigación y resultados probados",
+          "definition_en": "scientific evidence - information based on research and proven results"
+        }
+      ],
+      "added_at": "2026-02-03T09:17:07.387608Z"
+    },
     {
       "id": "chronic-wounds-20250202",
       "category": "Chronic Wounds",
@@ -4922,6 +5107,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-02T09:20:31.645702Z",
+  "last_updated": "2026-02-03T09:17:07.387608Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
