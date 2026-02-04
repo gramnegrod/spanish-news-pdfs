@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-04",
+      "filename": "spanish_lesson_2026-02-04.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-04.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos aprueba presupuesto millonario para evitar crisis",
+          "headline_en": "United States approves million-dollar budget to avoid crisis",
+          "body_es": "La Cámara de Representantes de Estados Unidos aprobó un importante paquete de gastos. El presupuesto es de 1.2 billones de dólares. Esta decisión evitó el cierre del gobierno estadounidense. Los políticos trabajaron muchas horas para llegar a un acuerdo. El cierre del gobierno habría causado problemas graves para millones de personas. Los empleados públicos habrían perdido sus salarios temporalmente. También se habrían cerrado servicios importantes como parques nacionales y oficinas gubernamentales. El nuevo presupuesto garantiza que el gobierno puede seguir funcionando normalmente. Los ciudadanos pueden estar tranquilos porque los servicios públicos continuarán. Esta aprobación muestra que los políticos pueden trabajar juntos en momentos difíciles para resolver problemas importantes del país.",
+          "body_en": "The US House of Representatives approved an important spending package. The budget is 1.2 trillion dollars. This decision avoided the US government shutdown. Politicians worked many hours to reach an agreement. The government shutdown would have caused serious problems for millions of people. Public employees would have temporarily lost their salaries. Important services like national parks and government offices would also have closed. The new budget guarantees that the government can continue functioning normally. Citizens can be calm because public services will continue. This approval shows that politicians can work together in difficult times to solve important problems of the country.",
+          "source": "Al Jazeera"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "India y Estados Unidos firman importante acuerdo comercial",
+          "headline_en": "India and United States sign important trade agreement",
+          "body_es": "El primer ministro de India, Modi, y el presidente Trump firmaron un nuevo acuerdo comercial. Este acuerdo es muy importante para los dos países. Los mercados financieros de India celebraron esta noticia con mucha alegría. Las acciones de las empresas indias subieron de precio rápidamente. La rupia, que es la moneda de India, también se fortaleció contra el dólar. Los inversores creen que este acuerdo traerá más comercio entre los dos países. Las empresas indias podrán vender más productos en Estados Unidos. También las empresas estadounidenses tendrán más oportunidades en India. Este tipo de acuerdos ayuda a crear más empleos en ambos países. Los expertos en economía piensan que será beneficioso para el crecimiento económico. Millones de personas podrían tener mejores oportunidades de trabajo gracias a este acuerdo comercial.",
+          "body_en": "India's Prime Minister Modi and President Trump signed a new trade agreement. This agreement is very important for both countries. India's financial markets celebrated this news with great joy. Indian company stocks rose in price quickly. The rupee, which is India's currency, also strengthened against the dollar. Investors believe this agreement will bring more trade between the two countries. Indian companies will be able to sell more products in the United States. American companies will also have more opportunities in India. This type of agreement helps create more jobs in both countries. Economic experts think it will be beneficial for economic growth. Millions of people could have better job opportunities thanks to this trade agreement.",
+          "source": "Bloomberg.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Walmart alcanza valoración histórica de un billón de dólares",
+          "headline_en": "Walmart reaches historic valuation of one trillion dollars",
+          "body_es": "La empresa Walmart logró una valoración de mercado de un billón de dólares. Esto significa que ahora forma parte del grupo de gigantes tecnológicos más valiosos del mundo. Walmart es famosa por sus tiendas grandes donde las familias compran productos básicos. Sin embargo, la empresa ha invertido mucho dinero en tecnología moderna. Ahora tiene una plataforma de compras por internet muy exitosa. También usa inteligencia artificial para mejorar sus servicios. Los inversores están muy contentos con estos cambios tecnológicos. Las acciones de Walmart han subido mucho en los últimos meses. La empresa compite directamente con Amazon en las ventas online. Walmart emplea a millones de personas en todo el mundo. Esta valoración histórica muestra que las empresas tradicionales pueden adaptarse a la era digital. Es un ejemplo de cómo la innovación tecnológica puede transformar cualquier negocio.",
+          "body_en": "Walmart company achieved a market valuation of one trillion dollars. This means it now forms part of the group of most valuable tech giants in the world. Walmart is famous for its large stores where families buy basic products. However, the company has invested a lot of money in modern technology. Now it has a very successful online shopping platform. It also uses artificial intelligence to improve its services. Investors are very happy with these technological changes. Walmart's stocks have risen a lot in recent months. The company competes directly with Amazon in online sales. Walmart employs millions of people worldwide. This historic valuation shows that traditional companies can adapt to the digital era. It's an example of how technological innovation can transform any business.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El Congreso aprobó un presupuesto de 1.2 billones de dólares.",
+          "definition_es": "Plan de gastos de dinero del gobierno",
+          "definition_en": "Government spending plan or budget"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "La Cámara de Representantes aprobó el paquete de gastos.",
+          "definition_es": "Aceptar o dar permiso oficialmente",
+          "definition_en": "To approve or pass officially"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Modi y Trump firmaron un acuerdo comercial importante.",
+          "definition_es": "Decisión tomada entre dos o más personas",
+          "definition_en": "Agreement or deal between parties"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "Los mercados de India celebraron las buenas noticias.",
+          "definition_es": "Lugar donde se compran y venden productos",
+          "definition_en": "Market where goods are bought and sold"
+        },
+        {
+          "word": "valoración",
+          "syllables": "va-lo-ra-CIÓN",
+          "pos": "sustantivo",
+          "context": "Walmart alcanzó una valoración de un billón de dólares.",
+          "definition_es": "El valor total de una empresa",
+          "definition_en": "Total value or valuation of a company"
+        },
+        {
+          "word": "celebrar",
+          "syllables": "ce-le-BRAR",
+          "pos": "verbo",
+          "context": "Los inversores celebraron el nuevo acuerdo comercial.",
+          "definition_es": "Mostrar alegría por algo bueno",
+          "definition_en": "To celebrate or rejoice"
+        },
+        {
+          "word": "gigante",
+          "syllables": "gi-GAN-te",
+          "pos": "sustantivo/adjetivo",
+          "context": "Walmart se unió a los gigantes tecnológicos más importantes.",
+          "definition_es": "Empresa muy grande e importante",
+          "definition_en": "Giant or very large company"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El presupuesto evitó el cierre del gobierno estadounidense.",
+          "definition_es": "Acción de parar o cerrar algo",
+          "definition_en": "Shutdown or closing of something"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'presupuesto'?",
+          "options": [
+            "Plan de gastos de dinero",
+            "Tipo de moneda",
+            "Empresa grande",
+            "Acuerdo político"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'acuerdo'?",
+          "options": [
+            "Problema",
+            "Contrato",
+            "Mercado",
+            "Cierre"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'valoración' en el contexto empresarial?",
+          "options": [
+            "Número de empleados",
+            "Valor total de una empresa",
+            "Tipo de producto",
+            "Lugar de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué quiere decir 'celebrar' en el contexto de los mercados?",
+          "options": [
+            "Cerrar",
+            "Vender",
+            "Mostrar alegría",
+            "Invertir"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero incluye el presupuesto aprobado por Estados Unidos?",
+          "options": [
+            "1.2 millones de dólares",
+            "1.2 billones de dólares",
+            "2.1 billones de dólares",
+            "Un billón de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué habría pasado sin la aprobación del presupuesto?",
+          "options": [
+            "Cierre del gobierno",
+            "Aumento de impuestos",
+            "Elecciones anticipadas",
+            "Crisis bancaria"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Quiénes firmaron el acuerdo comercial mencionado en la segunda historia?",
+          "options": [
+            "Modi y Biden",
+            "Trump y Xi Jinping",
+            "Modi y Trump",
+            "Biden y Modi"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con la rupia después del acuerdo comercial?",
+          "options": [
+            "Perdió valor",
+            "Se mantuvo igual",
+            "Se fortaleció",
+            "Desapareció"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué valoración alcanzó Walmart?",
+          "options": [
+            "Un millón de dólares",
+            "Cien millones de dólares",
+            "Un billón de dólares",
+            "Diez billones de dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Con qué empresa compite Walmart en ventas online?",
+          "options": [
+            "Google",
+            "Microsoft",
+            "Apple",
+            "Amazon"
+          ],
+          "answer": "D"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-04T09:12:17.899276"
+    },
+    {
       "date": "2026-02-03",
       "filename": "spanish_lesson_2026-02-03.pdf",
       "path": "pdfs/spanish_lesson_2026-02-03.pdf",
@@ -12902,7 +13124,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-03T09:10:00.268659",
+  "last_updated": "2026-02-04T09:12:17.899290",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
