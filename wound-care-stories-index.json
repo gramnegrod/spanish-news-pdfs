@@ -1,11 +1,196 @@
 {
-  "date": "2026-02-03",
-  "generated_at": "2026-02-03T09:17:07.387608Z",
+  "date": "2026-02-04",
+  "generated_at": "2026-02-04T09:18:50.724946Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 138,
+  "total_stories": 143,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250204",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos apósitos ayudan a curar heridas crónicas de las piernas",
+      "headline_en": "New dressings help heal chronic leg wounds",
+      "summary_es": "Los médicos comparan dos tratamientos diferentes para heridas crónicas en las extremidades inferiores. Los nuevos apósitos sintéticos y los injertos de amnios pueden ayudar a los pacientes a sanar más rápido.",
+      "body_es": "Un estudio reciente compara dos tratamientos para heridas crónicas en las piernas. Los médicos usan apósitos sintéticos y amnios para curar estas heridas difíciles. El amnios es un material especial de la placenta humana. Los apósitos sintéticos son vendajes modernos que protegen la herida. Algunos pacientes reciben solo un tratamiento. Otros reciben los dos tratamientos juntos. Los resultados muestran que combinar los tratamientos funciona bien. Este estudio ayuda a los enfermeros a elegir el mejor tratamiento. Las heridas crónicas son un problema importante en la medicina. Estos nuevos métodos ofrecen esperanza a muchos pacientes.",
+      "body_en": "A recent study compares two treatments for chronic leg wounds. Doctors use synthetic dressings and amnios to heal these difficult wounds. Amnios is a special material from the human placenta. Synthetic dressings are modern bandages that protect the wound. Some patients receive only one treatment. Others receive both treatments together. The results show that combining treatments works well. This study helps nurses choose the best treatment. Chronic wounds are an important problem in medicine. These new methods offer hope to many patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaTg4QTFGbGhHOEZJUE9tVDY5dGV3WGZYQm83YUIzMF8zcDhxMVVENzNxTW5iOGFkTXhCaUM0UVh6ekpLVFQ0LS1qU0RYRlVtNDV1XzNEWDZLa05xSjFkZld0ei1ON1ZuX29FR2UwVEVBdHU0ZnRSOFJLTTVibTNILWRNZzYtcTM3SEgwbmlhNVJnUmdBSmZoaVl6cm1WOTBOLS1WWHVGM0lYNDd4Z180SGZybmJoOWE2TFdkQVl1MnB2RWhCOWFEbjQxWTl1dnY5SFBwSg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-04/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "vendaje que cubre una herida",
+          "definition_en": "dressing - bandage that covers a wound"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápido",
+          "definition_en": "chronic wound - injury that heals slowly"
+        },
+        {
+          "word": "amnios",
+          "definition_es": "material de la placenta para curación",
+          "definition_en": "amnios - placental material for healing"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of wound repair"
+        }
+      ],
+      "added_at": "2026-02-04T09:18:50.724946Z"
+    },
+    {
+      "id": "diabetic-foot-20250204",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Hospital en India expande servicios para salvar extremidades en pacientes diabéticos",
+      "headline_en": "Hospital in India expands limb-salvage services for diabetic patients",
+      "summary_es": "Lexington Healthcare Hospitals ha ampliado sus servicios de salvamento de extremidades y cuidado vascular en Bengaluru. Este nuevo programa ayuda a los pacientes con diabetes a evitar amputaciones.",
+      "body_es": "Lexington Healthcare Hospitals ha anunciado la expansión de sus servicios de salvamento de extremidades y atención vascular en Bengaluru, India. Esta iniciativa es especialmente importante para pacientes con diabetes que desarrollan úlceras y complicaciones en los pies. El equipo multidisciplinario incluye cirujanos vasculares, enfermeros especializados y médicos diabetólogos que trabajan juntos. Los pacientes reciben evaluaciones completas de la circulación sanguínea y la integridad de los tejidos. El programa ofrece tratamientos conservadores cuando es posible para evitar amputaciones innecesarias. Los médicos utilizan tecnología avanzada para evaluar el flujo vascular y detectar infecciones tempranas. Este enfoque integral ha demostrado reducir significativamente las tasas de amputación. El cuidado preventivo y la detección temprana son componentes clave del programa.",
+      "body_en": "Lexington Healthcare Hospitals has announced the expansion of limb-salvage and vascular care services in Bengaluru, India. This initiative is especially important for diabetic patients who develop ulcers and foot complications. The multidisciplinary team includes vascular surgeons, specialized nurses, and diabetologists working together. Patients receive comprehensive evaluations of blood circulation and tissue integrity. The program offers conservative treatments when possible to avoid unnecessary amputations. Doctors use advanced technology to assess vascular flow and detect early infections. This comprehensive approach has significantly reduced amputation rates. Preventive care and early detection are key components of the program.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmNfd0Q0X2JEVENRTFByVGVZZkdZLXJyX29yZno5YnpqUnlZZGVCdU81LWstdTZJNzNzOHJYMk1mT1JFSmZrYW5MMWZvLVFwUHktU081eEsxcHlvMzVYczEydjNjc045TWFvaUhWNVJzN0RuaE9YVHk5NVJwbl84aUFBdl9ManRKb1JwcnRBSXpzQ0FoYXBfcVpKWmRIQUNwUmRaZVVyNmpRQ2JuUU5Pa00xZk5WUU53VzBTMUxHeUhxcm1acVRhTzdHekZib3V6aHk1ZVBR0gHWAUFVX3lxTE5CY193RDRfYkRUQ1FMUHJUZVlmR1ktcnJfb3JmejliempSeVlkZUJ1TzUtay11Nkk3M3M4clgyTWZPUkVKZmthbkwxZm8tUXBQeS1TTzl4SzFweW8zNVhzMTJ2M2NzTjlNYW9pSFY1UnM3RG5oT1hUeTk1UnBuXzhpQUF2X0xqdEpvUnBydEFJenNDQWhhcF9xWkpaZEhBQ3BSZFplVXI2alFDYm5RTk9rTTFmTlZRTndXMFMxTEd5SHFybVpxVGFPN0d6RmJvdXpoeTVlUFE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-04/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "salvamento de extremidades",
+          "definition_es": "procedimiento para evitar amputación",
+          "definition_en": "limb-salvage - procedure to prevent amputation"
+        },
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida que se forma en pie de diabético",
+          "definition_en": "diabetic ulcer - wound on diabetic foot"
+        },
+        {
+          "word": "flujo vascular",
+          "definition_es": "circulación de sangre en las venas",
+          "definition_en": "vascular flow - blood circulation in vessels"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-02-04T09:18:50.724946Z"
+    },
+    {
+      "id": "burn-care-20250204",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Aloinjerto epitelial cultivado mejora cicatrización en quemaduras pediátricas",
+      "headline_en": "Cultivated epidermal allograft improves healing in pediatric burns",
+      "summary_es": "Un estudio compara aloinjertos epidérmicos cultivados con apósitos hidrocoloides en niños con quemaduras. Los resultados demuestran que el aloinjerto cultivado acelera la cicatrización.",
+      "body_es": "Un estudio publicado en The Cureus Journal of Medical Science ha comparado dos métodos de tratamiento para quemaduras en niños. Los investigadores evaluaron la eficacia del aloinjerto epitelial cultivado versus los apósitos hidrocoloides tradicionales. El aloinjerto epitelial cultivado es una terapia avanzada que utiliza células de piel humana para recubrir la quemadura. Los apósitos hidrocoloides son vendajes que mantienen la humedad y protegen la herida. En el estudio, los niños tratados con aloinjerto epitelial cultivado mostraron cicatrización más rápida y menos complicaciones infecciosas. El tiempo de epitelización se redujo significativamente en el grupo de aloinjerto. Ambos tratamientos fueron bien tolerados, pero el aloinjerto ofreció mejores resultados funcionales y estéticos. Este descubrimiento es importante para mejorar la calidad de vida en niños quemados.",
+      "body_en": "A study published in The Cureus Journal of Medical Science compared two treatment methods for burns in children. Researchers evaluated the effectiveness of cultivated epidermal allograft versus traditional hydrocolloid dressings. Cultivated epidermal allograft is an advanced therapy using human skin cells to cover the burn. Hydrocolloid dressings are bandages that maintain moisture and protect the wound. In the study, children treated with cultivated epidermal allograft showed faster healing and fewer infection complications. Epithelialization time was significantly reduced in the allograft group. Both treatments were well tolerated, but allograft offered better functional and aesthetic results. This discovery is important for improving quality of life in burned children.",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNX2pMc0JaMkxEZUJzUnZkYmhfRGxkRTJ5WFFpUG1yR3lXWHBZWW5vWlV5MjBMcmU2MGU2UnZtNy1PQThjbmxwTWJOT25mNXlSME1jZkdVcXJvNFJ1Z1lOWEJnWk5aT2FCd09lN19PX3BZQ2xITW5pVER1S04zeXlfM1Q1MWJ2dnFTZ1RHUF9tamF3eFFESWxFcmpBMS1PS0hOVG1Fd1ZGeUVtWmhDY05PUGJ5LWlyZGJwYmZYYll0ak16MEYyUXBDZjdWcGhNdEk1ankwVHdOQWN4ck1nQkRNclZRT21oa2g2cHVTOHFRVDRyZXRvRWJud0xB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-04/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "aloinjerto epitelial",
+          "definition_es": "tejido de piel de otra persona para cubrir quemadura",
+          "definition_en": "epidermal allograft - skin tissue from another person to cover burn"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor o fuego",
+          "definition_en": "burn - injury caused by heat or fire"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel",
+          "definition_en": "epithelialization - process of new skin formation"
+        },
+        {
+          "word": "apósito hidrocoloide",
+          "definition_es": "vendaje que mantiene humedad en la herida",
+          "definition_en": "hydrocolloid dressing - bandage that maintains wound moisture"
+        }
+      ],
+      "added_at": "2026-02-04T09:18:50.724946Z"
+    },
+    {
+      "id": "surgical-wounds-20250204",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "purple",
+      "headline_es": "Estrategias de trabajo social reducen readmisiones tras cirugía ortopédica",
+      "headline_en": "Social work strategies reduce readmissions after orthopedic surgery",
+      "summary_es": "Un estudio de revisión examina cómo el apoyo del trabajo social puede reducir las readmisiones hospitalarias en pacientes de cirugía ortopédica. Las intervenciones coordinadas mejoran los resultados postoperatorios.",
+      "body_es": "Una revisión narrativa publicada en The Cureus Journal of Medical Science ha examinado el papel del trabajo social en la reducción de readmisiones postoperatorias en cirugía ortopédica. Los investigadores identificaron múltiples estrategias que los trabajadores sociales implementan para mejorar la recuperación del paciente. Estas intervenciones incluyen evaluaciones de necesidades socioeconómicas, coordinación del cuidado en el hogar, y educación sobre el manejo de heridas quirúrgicas. Los trabajadores sociales ayudan a identificar barreras para la recuperación, como falta de vivienda segura o limitaciones económicas. La educación sobre cuidado de heridas y cumplimiento de medicamentos reduce significativamente las complicaciones infecciosas. Los pacientes que reciben apoyo social coordinado tienen menos readmisiones dentro de 30 días después de la cirugía. La evaluación temprana y la planificación del alta son componentes esenciales. Este enfoque integrado mejora no solo los resultados clínicos sino también la calidad de vida del paciente.",
+      "body_en": "A narrative review published in The Cureus Journal of Medical Science examined the role of social work in reducing postoperative readmissions in orthopedic surgery. Researchers identified multiple strategies that social workers implement to improve patient recovery. These interventions include socioeconomic needs assessments, home care coordination, and education about surgical wound management. Social workers help identify barriers to recovery, such as lack of safe housing or economic limitations. Education on wound care and medication compliance significantly reduces infectious complications. Patients receiving coordinated social support have fewer readmissions within 30 days after surgery. Early assessment and discharge planning are essential components. This integrated approach improves not only clinical outcomes but also patient quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQLWNXLU1ERHhOeDlwUHY5VHhPLWFVX0c1a2VHbUpiOFpJUGtOR3djZlpoYXJYZ0UwZ0VmMEtDeHlCMEdUX0xsNkU3T1VSdVhNbTFkTkgwVGFHM1R1ODVnWmhlZ0oxdzFld180RTdDdVNIbmZzMGgwblVVaS0zSkdsSlFWaUozUktNSGxSTXlIdEJ6Q0hzY09BazBBY19SRFVDRlcxZm9SYS1ZRUtDUGJYRjFiOTVVbTkwMk1KN2xoNkE1cGM4bWVNYnNCQ21HeGVnUmE4TnJUdlZkZmRpVS1mNGJGZkZ3WWRGQlZOS3o0U25NcXY5c0EzUU1qUWE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-04/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión hecha durante una operación",
+          "definition_en": "surgical wound - injury made during an operation"
+        },
+        {
+          "word": "readmisión",
+          "definition_es": "nuevo ingreso al hospital después del alta",
+          "definition_en": "readmission - hospital readmission after discharge"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "limpieza de tejido muerto de la herida",
+          "definition_en": "debridement - removal of dead tissue from wound"
+        },
+        {
+          "word": "curación postoperatoria",
+          "definition_es": "cuidado de la herida después de cirugía",
+          "definition_en": "postoperative healing - wound care after surgery"
+        }
+      ],
+      "added_at": "2026-02-04T09:18:50.724946Z"
+    },
+    {
+      "id": "wound-research-20250204",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Innovación en sensores de hidrogel mejora la cicatrización de quemaduras",
+      "headline_en": "Hydrogel sensor innovation improves burn wound healing",
+      "summary_es": "Investigadores han desarrollado sensores conductores de hidrogel para monitorizar en tiempo real la cicatrización de quemaduras. Esta tecnología permite el seguimiento inteligente del proceso de curación.",
+      "body_es": "Un estudio de investigación presentado en EurekAlert ha descrito el desarrollo de sensores de hidrogel organoconductores con reticulación dual para aplicaciones en cicatrización de quemaduras. Estos sensores multifuncionales pueden monitorizar en tiempo real el proceso de curación de heridas causadas por fuego o quemaduras por fuegos artificiales. La tecnología utiliza polímeros especiales que conducen electricidad y mantienen humedad. Los sensores se adhieren a la piel sin causar irritación adicional. El sistema registra datos sobre humedad, temperatura y cambios en la estructura de la herida durante la cicatrización. El monitoreo en tiempo real permite a los médicos detectar infecciones tempranas. La reticulación dual proporciona flexibilidad y durabilidad del sensor. Esta innovación representa un avance significativo en el cuidado de quemaduras y en la medicina regenerativa.",
+      "body_en": "A research study presented on EurekAlert described the development of dual cross-linked multifunctional conductive organohydrogel sensors for burn wound healing applications. These multifunctional sensors can monitor in real-time the healing process of wounds caused by fire or fireworks burns. The technology uses special polymers that conduct electricity and maintain moisture. The sensors adhere to the skin without causing additional irritation. The system records data on moisture, temperature, and changes in wound structure during healing. Real-time monitoring allows doctors to detect early infections. Dual cross-linking provides sensor flexibility and durability. This innovation represents significant advancement in burn care and regenerative medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FRWFPM2dtVzMtQlNDVDNERk51VGJrVmxhQkdEckozNkpvQnpFUVBpUnNjLTJuQWszeEdRSTlwZFlKREFGWm9NT1VYWGJBT2JCRFBLMDdGUUVjSld1?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-04/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "hidrogel",
+          "definition_es": "polímero que absorbe agua para curación",
+          "definition_en": "hydrogel - water-absorbing polymer for healing"
+        },
+        {
+          "word": "sensor conductivo",
+          "definition_es": "dispositivo que detecta cambios y transmite datos",
+          "definition_en": "conductive sensor - device that detects changes and transmits data"
+        },
+        {
+          "word": "monitoreo en tiempo real",
+          "definition_es": "seguimiento continuo e inmediato de datos",
+          "definition_en": "real-time monitoring - continuous and immediate tracking of data"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo en herida",
+          "definition_en": "wound healing - process of new tissue formation in wound"
+        }
+      ],
+      "added_at": "2026-02-04T09:18:50.724946Z"
+    },
     {
       "id": "chronic-wounds-20250203",
       "category": "Chronic Wounds",
@@ -5107,6 +5292,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-03T09:17:07.387608Z",
+  "last_updated": "2026-02-04T09:18:50.724946Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
