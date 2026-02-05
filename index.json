@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-05",
+      "filename": "spanish_lesson_2026-02-05.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-05.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Tribunal Supremo aprueba el nuevo mapa electoral de California",
+          "headline_en": "The Supreme Court approves California's new electoral map",
+          "body_es": "El Tribunal Supremo de Estados Unidos permitió que California use su nuevo mapa electoral. Este mapa favorece al Partido Demócrata en las próximas elecciones. Los mapas electorales son muy importantes porque deciden cómo se divide el estado para votar. California rediseñó sus distritos electorales para las elecciones al Congreso. Los republicanos no estaban contentos con esta decisión. Dijeron que el mapa no es justo para su partido. Pero el tribunal decidió que California puede usar este mapa. Esta decisión afectará las elecciones futuras. Los demócratas tendrán más posibilidades de ganar asientos en el Congreso. El nuevo mapa cambia la representación política del estado más grande de Estados Unidos.",
+          "body_en": "The US Supreme Court allowed California to use its new electoral map. This map favors the Democratic Party in upcoming elections. Electoral maps are very important because they decide how the state is divided for voting. California redesigned its electoral districts for congressional elections. Republicans were not happy with this decision. They said the map is not fair to their party. But the court decided that California can use this map. This decision will affect future elections. Democrats will have more chances to win seats in Congress. The new map changes the political representation of the largest state in the United States.",
+          "source": "NPR"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Las empresas privadas crearon pocos empleos en enero",
+          "headline_en": "Private companies created few jobs in January",
+          "body_es": "La contratación en el sector privado de Estados Unidos fue muy baja en enero. Las empresas solo crearon 22,000 empleos nuevos durante todo el mes. Esta cifra es mucho menor que en meses anteriores. Los economistas esperaban más empleos nuevos. La contratación lenta preocupa a muchas personas. Significa que la economía no está creciendo rápidamente. Muchas empresas no están contratando nuevos trabajadores. Esto puede ser un problema para las familias que buscan trabajo. El gobierno y los expertos están observando esta situación. Esperan que la contratación mejore en los próximos meses. Sin embargo, estos números muestran que el mercado laboral tiene dificultades. Las empresas pequeñas y grandes están siendo muy cuidadosas con sus decisiones de contratación.",
+          "body_en": "Hiring in the US private sector was very low in January. Companies only created 22,000 new jobs during the entire month. This figure is much lower than in previous months. Economists expected more new jobs. The slow hiring worries many people. It means the economy is not growing quickly. Many companies are not hiring new workers. This can be a problem for families looking for work. The government and experts are watching this situation. They hope hiring will improve in the coming months. However, these numbers show that the job market has difficulties. Small and large companies are being very careful with their hiring decisions.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Google duplicará sus gastos para competir en inteligencia artificial",
+          "headline_en": "Google will double its spending to compete in artificial intelligence",
+          "body_es": "Google planea duplicar sus gastos en inteligencia artificial este año. La empresa quiere competir mejor con otras compañías de tecnología como Microsoft y OpenAI. La inteligencia artificial es muy importante para el futuro de la tecnología. Google invertirá más dinero en investigación y desarrollo. También contratará más ingenieros especializados en IA. La competencia en este sector es muy fuerte. Todas las grandes empresas tecnológicas quieren ser líderes en inteligencia artificial. Google cree que necesita gastar más dinero para mantenerse competitivo. Esta decisión afectará las ganancias de la empresa a corto plazo. Sin embargo, Google piensa que es necesario para el éxito futuro. La inteligencia artificial cambiará muchas industrias en los próximos años.",
+          "body_en": "Google plans to double its spending on artificial intelligence this year. The company wants to compete better with other technology companies like Microsoft and OpenAI. Artificial intelligence is very important for the future of technology. Google will invest more money in research and development. It will also hire more engineers specialized in AI. Competition in this sector is very strong. All the big tech companies want to be leaders in artificial intelligence. Google believes it needs to spend more money to stay competitive. This decision will affect the company's profits in the short term. However, Google thinks it is necessary for future success. Artificial intelligence will change many industries in the coming years.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "tribunal",
+          "syllables": "tri-bu-NAL",
+          "pos": "sustantivo",
+          "context": "El Tribunal Supremo permitió que California use su nuevo mapa electoral.",
+          "definition_es": "Lugar donde los jueces toman decisiones legales importantes",
+          "definition_en": "Court where judges make important legal decisions"
+        },
+        {
+          "word": "mapa electoral",
+          "syllables": "MA-pa e-lec-to-RAL",
+          "pos": "sustantivo",
+          "context": "California creó un nuevo mapa electoral que favorece a los demócratas.",
+          "definition_es": "División territorial para organizar las elecciones",
+          "definition_en": "Territorial division to organize elections"
+        },
+        {
+          "word": "contratación",
+          "syllables": "con-tra-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "La contratación en el sector privado disminuyó mucho en enero.",
+          "definition_es": "Proceso de dar trabajo a nuevas personas",
+          "definition_en": "Process of giving jobs to new people"
+        },
+        {
+          "word": "sector privado",
+          "syllables": "sec-TOR pri-VA-do",
+          "pos": "sustantivo",
+          "context": "El sector privado solo creó 22,000 empleos nuevos el mes pasado.",
+          "definition_es": "Empresas que no pertenecen al gobierno",
+          "definition_en": "Companies that don't belong to the government"
+        },
+        {
+          "word": "duplicar",
+          "syllables": "du-pli-CAR",
+          "pos": "verbo",
+          "context": "Google planea duplicar sus gastos en inteligencia artificial.",
+          "definition_es": "Hacer algo dos veces más grande",
+          "definition_en": "To make something twice as big"
+        },
+        {
+          "word": "gastos",
+          "syllables": "GAS-tos",
+          "pos": "sustantivo",
+          "context": "La empresa aumentará sus gastos para competir mejor.",
+          "definition_es": "Dinero que se usa para comprar algo",
+          "definition_en": "Money used to buy something"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Muchas empresas invierten mucho dinero en inteligencia artificial.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "competir",
+          "syllables": "com-pe-TIR",
+          "pos": "verbo",
+          "context": "Google quiere competir mejor con otras empresas de tecnología.",
+          "definition_es": "Luchar contra otros para ser el mejor",
+          "definition_en": "To fight against others to be the best"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'tribunal'?",
+          "options": [
+            "Un lugar donde trabajan los doctores",
+            "Un lugar donde los jueces toman decisiones legales",
+            "Un lugar donde se vende comida",
+            "Un lugar donde estudian los niños"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es 'duplicar'?",
+          "options": [
+            "Dividir algo por la mitad",
+            "Hacer algo dos veces más grande",
+            "Reducir el tamaño de algo",
+            "Cambiar el color de algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es el 'sector privado'?",
+          "options": [
+            "Hospitales del gobierno",
+            "Escuelas públicas",
+            "Empresas que no pertenecen al gobierno",
+            "Oficinas gubernamentales"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'contratación'?",
+          "options": [
+            "Despedir a trabajadores",
+            "Dar trabajo a nuevas personas",
+            "Cerrar una empresa",
+            "Vender productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia sobre California, ¿qué decidió el Tribunal Supremo?",
+          "options": [
+            "Prohibir las elecciones",
+            "Permitir el uso del nuevo mapa electoral",
+            "Cambiar las leyes de votación",
+            "Cancelar las elecciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos creó el sector privado en enero?",
+          "options": [
+            "220,000 empleos",
+            "2,200 empleos",
+            "22,000 empleos",
+            "200,000 empleos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué partido político se beneficia del nuevo mapa de California?",
+          "options": [
+            "Partido Republicano",
+            "Partido Demócrata",
+            "Partido Verde",
+            "Partido Independiente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué Google quiere gastar más dinero?",
+          "options": [
+            "Para abrir más oficinas",
+            "Para contratar más secretarios",
+            "Para competir en inteligencia artificial",
+            "Para comprar más computadoras"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cómo se sienten los economistas sobre la contratación en enero?",
+          "options": [
+            "Muy contentos",
+            "Preocupados",
+            "Indiferentes",
+            "Emocionados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Con qué empresas quiere competir Google?",
+          "options": [
+            "Apple y Amazon",
+            "Microsoft y OpenAI",
+            "Facebook y Twitter",
+            "Tesla y Netflix"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-05T09:13:37.883735"
+    },
+    {
       "date": "2026-02-04",
       "filename": "spanish_lesson_2026-02-04.pdf",
       "path": "pdfs/spanish_lesson_2026-02-04.pdf",
@@ -13124,7 +13346,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-04T09:12:17.899290",
+  "last_updated": "2026-02-05T09:13:37.883753",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
