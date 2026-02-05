@@ -1,11 +1,159 @@
 {
-  "date": "2026-02-04",
-  "generated_at": "2026-02-04T09:18:50.724946Z",
+  "date": "2026-02-05",
+  "generated_at": "2026-02-05T09:20:17.119901Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 143,
-  "new_today": 5,
+  "total_stories": 147,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250205",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos apósitos ayudan a sanar heridas en las piernas",
+      "headline_en": "New dressings help heal wounds on the legs",
+      "summary_es": "Un estudio compara dos métodos para tratar heridas crónicas en las extremidades inferiores. Los resultados muestran que los apósitos especiales funcionan bien para sanar estas heridas difíciles.",
+      "body_es": "Las heridas crónicas en las piernas son un problema importante en los hospitales. Los médicos necesitan encontrar mejores formas de curar estas lesiones. Un nuevo estudio compara dos tratamientos diferentes. El primer tratamiento usa apósitos sintéticos especiales. El segundo tratamiento combina estos apósitos con injertos de amnios. Los injertos de amnios vienen de la placenta humana. Los dos métodos ayudan a los pacientes. El tratamiento combinado muestra buenos resultados en la curación. Las heridas sanan más rápido con estos apósitos nuevos. Este descubrimiento es importante para los enfermeros y especialistas en heridas. Ahora tienen más opciones para tratar a sus pacientes con heridas crónicas en las piernas.",
+      "body_en": "Chronic wounds on the legs are an important problem in hospitals. Doctors need to find better ways to heal these difficult injuries. A new study compares two different treatments. The first treatment uses special synthetic dressings. The second treatment combines these dressings with amniotic allografts. Amniotic allografts come from the human placenta. Both methods help patients. Combination treatment shows good results in healing. Wounds heal faster with these new dressings. This discovery is important for nurses and wound care specialists. Now they have more options to treat their patients with chronic leg wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaTg4QTFGbGhHOEZJUE9tVDY5dGV3WGZYQm83YUIzMF8zcDhxMVVENzNxTW5iOGFkTXhCaUM0UVh6ekpLVFQ0LS1qU0RYRlVtNDV1XzNEWDZLa05xSjFkZld0ei1ON1ZuX29FR2UwVEVBdHU0ZnRSOFJLTTVibTNILWRNZzYtcTM3SEgwbmlhNVJnUmdBSmZoaVl6cm1WOTBOLS1WWHVGM0lYNDd4Z180SGZybmJoOWE2TFdkQVl1MnB2RWhCOWFEbjQxWTl1dnY5SFBwSg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-05/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre y protege una herida",
+          "definition_en": "dressing - material that covers and protects a wound"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "tejido que se coloca en una herida para ayudar a sanar",
+          "definition_en": "graft - tissue placed in a wound to help healing"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        }
+      ],
+      "added_at": "2026-02-05T09:20:17.119901Z"
+    },
+    {
+      "id": "diabetic-foot-20250205",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Prevención del pie diabético: visitas gratuitas en Cerdeña",
+      "headline_en": "Diabetic foot prevention: free visits in Sardinia",
+      "summary_es": "Un programa de salud en Cerdeña ofrece evaluaciones gratuitas para prevenir complicaciones del pie diabético. Los pacientes con diabetes pueden recibir atención especializada sin costo.",
+      "body_es": "La prevención del pie diabético es fundamental para evitar complicaciones graves. En Cerdeña, un nuevo programa de salud ha lanzado visitas gratuitas para pacientes con diabetes. Los especialistas realizan evaluaciones completas de los pies para detectar problemas temprano. Durante la consulta, el médico revisa la circulación, la sensibilidad y busca úlceras o lesiones. Los pacientes aprenden sobre el cuidado diario de los pies, incluyendo la higiene y el uso de calzado apropiado. Se proporcionan recomendaciones personalizadas para reducir el riesgo de complicaciones. Este programa es parte de un esfuerzo mayor para mejorar la educación diabética en la región. Los enfermeros y especialistas en heridas trabajan juntos para ofrecer una atención integral. La detección temprana de problemas puede prevenir amputaciones y mejorar la calidad de vida de los pacientes diabéticos.",
+      "body_en": "Prevention of diabetic foot complications is fundamental to avoid serious problems. In Sardinia, a new health program has launched free visits for patients with diabetes. Specialists conduct complete foot evaluations to detect problems early. During the consultation, the doctor reviews circulation, sensitivity, and looks for ulcers or injuries. Patients learn about daily foot care, including hygiene and appropriate footwear use. Personalized recommendations are provided to reduce the risk of complications. This program is part of a larger effort to improve diabetes education in the region. Nurses and wound care specialists work together to provide comprehensive care. Early detection of problems can prevent amputations and improve the quality of life for diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGc1N0xHUVJ4V1lSZUNRQjZKXzZNU1RWc0xOZjBBUGFDRUc3RXoxd2dfdzQyMS1lQmgtUDVsdG9HVDJ6SE8tS0ZOQ0JTeFdicExlSVNiR29mS0hxaUtvSzZDc1BuRkJjU21TQl9wTzdobjMtUlAtbnVzMnpVdDZzbXJrekNYSmlxRTMwNE1LZ3E3ZFZZc2JHRlM5STlsU05LNVRJNmVJRdIBpwFBVV95cUxNRGc1N0xHUVJ4V1lSZUNRQjZKXzZNU1RWc0xOZjBBUGFDRUc3RXoxd2dfdzQyMS1lQmgtUDVsdG9HVDJ6SE8tS0ZOQ0JTeFdicExlSVNiR29mS0hxaUtvSzZDc1BuRkJjU21TQl9wTzdobjMtUlAtbnVzMnpVdDZzbXJrekNYSmlxRTMwNE1LZ3E3ZFZZc2JHRlM5STlsU05LNVRJNmVJRQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-05/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación en los pies causada por la diabetes",
+          "definition_en": "diabetic foot - complication in the feet caused by diabetes"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta profunda en la piel",
+          "definition_en": "ulcer - deep open wound in the skin"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de la sangre por el cuerpo",
+          "definition_en": "circulation - movement of blood through the body"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-02-05T09:20:17.119901Z"
+    },
+    {
+      "id": "burn-care-20250205",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "rose",
+      "headline_es": "Comparación de tratamientos para quemaduras en niños",
+      "headline_en": "Comparison of treatments for burn injuries in children",
+      "summary_es": "Un estudio analiza la eficacia de dos tipos de apósitos en el tratamiento de quemaduras pediátricas. Los resultados demuestran que los injertos de epidermis cultivada son efectivos para la cicatrización.",
+      "body_es": "Las quemaduras en niños requieren tratamientos especializados que promuevan la curación sin dejar cicatrices graves. Un nuevo estudio publicado en el Journal of Medical Science compara dos métodos principales de tratamiento. El primer método utiliza injertos de epidermis cultivada, que son células de piel cultivadas en laboratorio. El segundo método utiliza apósitos de hidrogel, un material tradicional usado frecuentemente en cuidado de quemaduras. Los investigadores evaluaron a pacientes pediátricos con quemaduras de segundo grado moderadas. Midieron la velocidad de epitelización, es decir, la formación de nueva piel. También observaron la formación de cicatrices y la calidad de la piel regenerada. Los resultados muestran que los injertos de epidermis cultivada aceleran significativamente el proceso de curación. Los apósitos de hidrogel también funcionan bien pero requieren cambios más frecuentes. Este hallazgo es importante para los especialistas en quemaduras que atienden a población pediátrica.",
+      "body_en": "Burn injuries in children require specialized treatments that promote healing without leaving severe scars. A new study published in the Journal of Medical Science compares two main treatment methods. The first method uses cultivated epidermal allografts, which are skin cells cultured in the laboratory. The second method uses hydrocolloid dressings, a traditional material frequently used in burn care. Researchers evaluated pediatric patients with moderate second-degree burns. They measured the speed of epithelialization, that is, the formation of new skin. They also observed scar formation and the quality of regenerated skin. The results show that cultivated epidermal allografts significantly accelerate the healing process. Hydrocolloid dressings also work well but require more frequent changes. This finding is important for burn care specialists treating pediatric populations.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSjd1SkczbWFtaW5FYUtBZXBSaUg5VkgzaUIwVjVscTh2cG4ydm11dHJtaGlKa3NRUUtEa1hyVm1hWnNCZUxQWTZYNE9qdWdyX0hiSGd2VERsMF9hcTFNUTI3aW1QekphckdQbkVBejdobEJQaUFONTBzOWx5UE9qUHM3UFVLUV9zUnRqbVhEWTVLMnQ3UkJJWWIzcEJxS2Q3LWJlTDVlTExNaGZCNV9uOHlEc1ZqdTZDV0NKQkozZUxXWWJHeDVQTEZjYkRhMnFPLWZjZ2pqb3k0Q3hpbElaQw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-05/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por fuego, calor o químicos",
+          "definition_en": "burn - injury to the skin caused by fire, heat, or chemicals"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel",
+          "definition_en": "epithelialization - process of new skin formation"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "tejido trasplantado para recubrir una lesión",
+          "definition_en": "graft - tissue transplanted to cover an injury"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark that remains after a wound heals"
+        }
+      ],
+      "added_at": "2026-02-05T09:20:17.119901Z"
+    },
+    {
+      "id": "surgical-wounds-20250205",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Mejora en la prevención de infecciones de heridas esternal profundas",
+      "headline_en": "Improvement in prevention of deep sternal wound infections",
+      "summary_es": "Un programa de mejora de calidad reduce significativamente las infecciones profundas en heridas esternales después de cirugía cardíaca. Las medidas preventivas incluyen protocolos de control de infecciones.",
+      "body_es": "Las infecciones de heridas después de cirugía cardíaca son complicaciones graves que pueden prolongar la hospitalización y aumentar la mortalidad. Un esfuerzo de mejora de calidad realizado en centros de investigación TCTMD implementó nuevos protocolos para prevenir estas infecciones. El programa incluyó capacitación del personal de enfermería sobre técnicas asépticas mejoradas. Los médicos siguieron nuevos protocolos de preparación de la piel antes de la cirugía. Se utilizaron antimicrobianos tópicos en el sitio quirúrgico durante el procedimiento. El equipo de heridas evaluaba diariamente las incisiones para detectar signos de infección tempranamente. Se implementaron cambios de vendajes con técnicas estériles rigurosas. Los resultados mostraron una disminución importante en las tasas de infecciones profundas de esternón. Este descubrimiento demuestra que los protocolos de prevención basados en evidencia pueden reducir complicaciones. Los especialistas en heridas quirúrgicas pueden aplicar estas prácticas en sus propios centros de salud.",
+      "body_en": "Infections in wounds after cardiac surgery are serious complications that can prolong hospitalization and increase mortality. A quality improvement effort conducted at TCTMD research centers implemented new protocols to prevent these infections. The program included nursing staff training on improved aseptic techniques. Doctors followed new skin preparation protocols before surgery. Topical antimicrobials were used at the surgical site during the procedure. The wound care team evaluated incisions daily to detect signs of infection early. Dressing changes were implemented with rigorous sterile techniques. Results showed a significant decrease in deep sternal infection rates. This discovery demonstrates that evidence-based prevention protocols can reduce complications. Surgical wound care specialists can apply these practices in their own health centers.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmp3VUEyQTgxS2tMLUdaZVk3OF9vYUJpQnZEb09uNEdjV1U3V3A4SUgyWEJHTE5LN0RXRHhJWDU0d1VjRDh4ZjdtVzZKX2dzY2NsVmw2QlQ1bC1WNkdaUXBIWEJ5S0ZzcDB4cFNacWNmUmpiNzJaNU9Cak1RRFFmU1BELTNRdFM2anV6YVh1bXdXTVlCTDRUUEZ2UmtwN2l1VDdwZTZ1N19Tems?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-05/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos en tejido vivo",
+          "definition_en": "infection - invasion of microorganisms in living tissue"
+        },
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión hecha durante una operación",
+          "definition_en": "surgical wound - incision made during an operation"
+        },
+        {
+          "word": "técnica aséptica",
+          "definition_es": "método para prevenir infecciones evitando contaminación",
+          "definition_en": "aseptic technique - method to prevent infections by avoiding contamination"
+        },
+        {
+          "word": "protocolo",
+          "definition_es": "conjunto de procedimientos estandarizados para una tarea",
+          "definition_en": "protocol - set of standardized procedures for a task"
+        }
+      ],
+      "added_at": "2026-02-05T09:20:17.119901Z"
+    },
     {
       "id": "chronic-wounds-20250204",
       "category": "Chronic Wounds",
@@ -5292,6 +5440,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-04T09:18:50.724946Z",
+  "last_updated": "2026-02-05T09:20:17.119901Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
