@@ -1,11 +1,122 @@
 {
-  "date": "2026-02-05",
-  "generated_at": "2026-02-05T09:20:17.119901Z",
+  "date": "2026-02-06",
+  "generated_at": "2026-02-06T09:19:01.953095Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 147,
-  "new_today": 4,
+  "total_stories": 150,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250206",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos apósitos ayudan a curar heridas crónicas en las piernas",
+      "headline_en": "New Dressings Help Heal Chronic Leg Wounds",
+      "summary_es": "Un estudio compara dos tipos de apósitos especiales para tratar heridas crónicas en las extremidades inferiores. Los resultados muestran que estos apósitos pueden mejorar la cicatrización.",
+      "body_es": "Los profesionales de enfermería usan apósitos modernos para curar heridas crónicas difíciles. Un nuevo estudio compara dos métodos: usar un apósito solo o combinar dos tipos de apósitos diferentes. Los apósitos sintéticos con matriz extracelular son materiales avanzados. También usan injertos de amnios, que vienen del tejido placentario. Este estudio retrospectivo analiza las heridas en las extremidades inferiores de muchos pacientes. Los resultados demuestran que la combinación de tratamientos puede ser más efectiva. Los apósitos modernos promueven la granulación y la epitelización más rápidamente. Este tratamiento es importante para pacientes con úlceras venosas o por presión que no mejoran con métodos tradicionales.",
+      "body_en": "Nursing professionals use modern dressings to heal difficult chronic wounds. A new study compares two methods: using one dressing alone or combining two different types of dressings. Synthetic dressings with extracellular matrix are advanced materials. They also use amniotic grafts, which come from placental tissue. This retrospective study analyzes wounds in the lower extremities of many patients. The results show that combining treatments can be more effective. Modern dressings promote granulation and epithelialization more quickly. This treatment is important for patients with venous or pressure ulcers that do not improve with traditional methods.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaTg4QTFGbGhHOEZJUE9tVDY5dGV3WGZYQm83YUIzMF8zcDhxMVVENzNxTW5iOGFkTXhCaUM0UVh6ekpLVFQ0LS1qU0RYRlVtNDV1XzNEWDZLa05xSjFkZld0ei1ON1ZuX29FR2UwVEVBdHU0ZnRSOFJLTTVibTNILWRNZzYtcTM3SEgwbmlhNVJnUmdBSmZoaVl6cm1WOTBOLS1WRHVGM0lYNDd4Z180SGZybmJoOWE2TFdkQVl1MnB2RWhCOWFEbjQxWTl1dnY5SFBwSg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-06/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre la herida para protegerla y ayudar a cicatrizar",
+          "definition_en": "dressing - material that covers the wound to protect it and help it heal"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido rosado en la herida durante la curación",
+          "definition_en": "granulation - formation of new pink tissue in the wound during healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de crecimiento de nueva piel sobre la herida",
+          "definition_en": "epithelialization - process of new skin growth over the wound"
+        },
+        {
+          "word": "extremidad inferior",
+          "definition_es": "pierna, desde la cadera hasta el pie",
+          "definition_en": "lower extremity - leg, from hip to foot"
+        }
+      ],
+      "added_at": "2026-02-06T09:19:01.953095Z"
+    },
+    {
+      "id": "burn-care-20250206",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Centro médico trata exitosamente a mujer embarazada con quemaduras graves",
+      "headline_en": "Medical Center Successfully Treats Pregnant Woman with Serious Burns",
+      "summary_es": "El Centro Médico Sheikh Shakhbout logró tratar a una paciente embarazada con quemaduras severas, implementando protocolos especializados de cuidado de heridas para este caso complejo.",
+      "body_es": "El Centro Médico Sheikh Shakhbout atendió recientemente a una mujer embarazada que sufrió quemaduras graves. Este caso presentaba desafíos especiales porque el equipo médico necesitaba proteger tanto a la madre como al feto durante el tratamiento. Los profesionales de enfermería aplicaron apósitos avanzados para controlar el exudado y prevenir infecciones. El tratamiento de quemaduras requiere evaluaciones cuidadosas de la profundidad y extensión del daño tisular. Los médicos monitorearon signos vitales constantemente para evitar complicaciones como el edema o la necrosis. El equipo multidisciplinario incluyó especialistas en quemaduras, obstetras y enfermeras de cuidado crítico. Después del tratamiento inicial, realizaron procedimientos de desbridamiento selectivo para remover tejido dañado. Los cuidados de cicatrización se continuaron durante varias semanas para promover la epitelización. Este caso demuestra la importancia de protocolos integrados en centros médicos especializados.",
+      "body_en": "Sheikh Shakhbout Medical City recently treated a pregnant woman who suffered serious burns. This case presented special challenges because the medical team needed to protect both mother and fetus during treatment. Nursing professionals applied advanced dressings to control exudate and prevent infections. Burn treatment requires careful evaluation of tissue damage depth and extent. Doctors constantly monitored vital signs to avoid complications such as edema or necrosis. The multidisciplinary team included burn specialists, obstetricians, and critical care nurses. After initial treatment, they performed selective debridement procedures to remove damaged tissue. Wound healing care continued for several weeks to promote epithelialization. This case demonstrates the importance of integrated protocols in specialized medical centers.",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR25RbHJ6Zml4TEdhc2J2dm1IQUpwejZYUFQtRGY1T0ZpbWhXQjhTRWRjaDVqMjE0U3U0T2JOQy01Nzl5YlNpUnE4bTd5UndEMDJMbGl3SlBjaWRQeHdIOERadUU2UmdDNmgzQlliQ0xBZVpEaDMtYjg0Und4c2tIWDNyU2ZMWTQ0MVNfem45VHBLVDN6emNEZXA1VHNUZFYtVGRGNUYxZ2d2TEw5S3BId1I0cnQ3bVdwRjM2d9IBzAFBVV95cUxNV1dGNVBKZ3pxQXJFYlI0bWZmdlB6ei1QbFBmOXlIQ09oaUpUcS14NHpWd1BYV1haM0doWi1qclVVdDhHd1BpOG9UdmRZbUtrMXNlQ0QzRnVSbEJ3VndpajlHa2JtRjBmWkNaRVlSenpjQmpkS24yalE3VndDaTZpVk43RXlWREwzQ3RlNGJTV1liSkxpUXJNZ0o4bXdGQWZvUTFtVlVpeHRudVY1MUNGZkdXSVJ1cHNFYUxfTVBkbmV5b2RBSXFNWFhsTWI?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-06/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - skin injury caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de la herida durante el proceso de curación",
+          "definition_en": "exudate - fluid that comes out of the wound during healing"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "procedimiento de remover tejido muerto o dañado de la herida",
+          "definition_en": "debridement - procedure to remove dead or damaged tissue from wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido vivo en el cuerpo",
+          "definition_en": "necrosis - death of living tissue in the body"
+        }
+      ],
+      "added_at": "2026-02-06T09:19:01.953095Z"
+    },
+    {
+      "id": "surgical-wounds-20250206",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "SURGICEL: Revisión completa de un apósito hemostático quirúrgico importante",
+      "headline_en": "SURGICEL: Comprehensive Review of an Important Surgical Hemostatic Dressing",
+      "summary_es": "Una revisión publicada en el Journal Cureus analiza la eficacia, aplicaciones e insights radiológicos de SURGICEL, un material hemostático utilizado ampliamente en cirugía.",
+      "body_es": "SURGICEL es un apósito hemostático de oxidized cellulose que se utiliza durante procedimientos quirúrgicos para controlar el sangrado. Este material es especialmente importante en cirugías donde se necesita detener rápidamente la hemorragia de pequeños vasos. Los cirujanos lo aplican directamente en el área quirúrgica para promover la hemostasis y facilitar la cicatrización. Una revisión completa publicada en el Journal Cureus examina la eficacia clínica de SURGICEL en diferentes contextos quirúrgicos. Los estudios muestran que el material se reabsorbe naturalmente en el cuerpo sin necesidad de extracción. Los profesionales médicos aprecian que SURGICEL se adapta bien a las superficies irregulares de las heridas quirúrgicas. También se han documentado insights radiológicos importantes que ayudan a comprender cómo el cuerpo procesa este material. Los vendajes hemostáticos como SURGICEL reducen complicaciones postoperatorias relacionadas con hemorragia continua. Esta revisión proporciona evidencia clínica valiosa para mejorar protocolos de cuidado de heridas quirúrgicas.",
+      "body_en": "SURGICEL is a hemostatic dressing made of oxidized cellulose used during surgical procedures to control bleeding. This material is especially important in surgeries where rapid bleeding control from small vessels is needed. Surgeons apply it directly to the surgical area to promote hemostasis and facilitate healing. A comprehensive review published in the Cureus Journal examines the clinical efficacy of SURGICEL in different surgical contexts. Studies show that the material is naturally reabsorbed in the body without extraction. Medical professionals appreciate that SURGICEL adapts well to irregular surgical wound surfaces. Important radiological insights have also been documented that help understand how the body processes this material. Hemostatic dressings like SURGICEL reduce postoperative complications related to continuous bleeding. This review provides valuable clinical evidence to improve surgical wound care protocols.",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUEY2UnNGMy1Yd2VaaF9zcWtQZWRXWEpyejZjaUstdzJHazFVb2gxaHlyeWV0UTY2cE0waFBSRjdaTGdRdTNtOExQYWNOOWxKQ1l5Zy1hWC1GLVd6eGwycmY3U3hQQXFmX2dNa1BvM3E4bnVDMFNTeHNQMUtlckktWk9MUkI4Y2cxTlRnQXRKMHprTklVcmxORjhoTkhjbnp0ZjhzbDQ5ZndGc1lGTExaWGd6dzR5RUJJd3NjTEtUVjNFQXdTeXVSV3lsNXQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-06/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "hemostático",
+          "definition_es": "sustancia que detiene o controla el sangrado",
+          "definition_en": "hemostatic - substance that stops or controls bleeding"
+        },
+        {
+          "word": "hemorragia",
+          "definition_es": "sangrado excesivo o pérdida de sangre",
+          "definition_en": "hemorrhage - excessive bleeding or blood loss"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz y cierre de herida",
+          "definition_en": "scar formation - process of scar formation and wound closure"
+        },
+        {
+          "word": "reabsorción",
+          "definition_es": "proceso por el cual el cuerpo elimina o absorbe un material",
+          "definition_en": "reabsorption - process by which the body eliminates or absorbs material"
+        }
+      ],
+      "added_at": "2026-02-06T09:19:01.953095Z"
+    },
     {
       "id": "chronic-wounds-20250205",
       "category": "Chronic Wounds",
@@ -5440,6 +5551,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-05T09:20:17.119901Z",
+  "last_updated": "2026-02-06T09:19:01.953095Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
