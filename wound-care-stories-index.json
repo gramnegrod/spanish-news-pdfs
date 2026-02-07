@@ -1,11 +1,159 @@
 {
-  "date": "2026-02-06",
-  "generated_at": "2026-02-06T09:19:01.953095Z",
+  "date": "2026-02-07",
+  "generated_at": "2026-02-07T09:10:57.228619Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 150,
-  "new_today": 3,
+  "total_stories": 154,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250207",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Estudio Muestra Buenos Resultados en la Curación de Úlceras Diabéticas",
+      "headline_en": "Study Shows Good Results in Healing Diabetic Ulcers",
+      "summary_es": "Un nuevo estudio demuestra que es posible curar las úlceras crónicas en pacientes diabéticos. Los resultados muestran tasas altas de curación con los tratamientos actuales.",
+      "body_es": "Un estudio de viabilidad reciente muestra resultados muy positivos. Muchos pacientes con úlceras diabéticas crónicas se cierran completamente. El estudio examina diferentes métodos de tratamiento. Los apósitos modernos ayudan a cerrar las heridas más rápido. Los pacientes necesitan cuidado regular de la herida. Las enfermeras controlan el progreso cada semana. Los vendajes se cambian según sea necesario. La evaluación de la herida es muy importante. Los resultados muestran que el 80% de las úlceras se cierran completamente. Este tratamiento ofrece esperanza a muchos pacientes diabéticos en todo el país.",
+      "body_en": "A recent feasibility study shows very positive results. Many patients with chronic diabetic ulcers close completely. The study examines different treatment methods. Modern dressings help close wounds faster. Patients need regular wound care. Nurses monitor progress each week. Dressings are changed as needed. Wound assessment is very important. The results show that 80% of ulcers close completely. This treatment offers hope to many diabetic patients across the country.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORE9zMkIwMkNlM0ltLTl3NndtTW1QSl90OERtVUgzS2hOc3RKYWF2cTZQVzkwSm5Ld0VmQ18xR1owR200NXFQX0N0LTEzbTdFQW9NMGZpcGhnS1RXWlVmeFc5ZGpwalcxOThveHgyZXJTbU5KSUo4SWc5WnhEMGNmblFKVXVpTXVTa2hJVXdWQ3pKRmd4eUtwZEZDcFpzX1g1S0l3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-07/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza",
+          "definition_en": "ulcer - open wound on skin that does not heal"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre y protege la herida",
+          "definition_en": "dressing - material that covers and protects the wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar y cerrar la herida",
+          "definition_en": "healing - process of getting better and closing the wound"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen de la herida para verificar su estado",
+          "definition_en": "assessment - examination of the wound to check its condition"
+        }
+      ],
+      "added_at": "2026-02-07T09:10:57.228619Z"
+    },
+    {
+      "id": "diabetic-foot-20250207",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "amber",
+      "headline_es": "Estudio Revela Altas Tasas de Cierre en Úlceras Diabéticas del Pie",
+      "headline_en": "Study Reveals High Closure Rates in Diabetic Foot Ulcers",
+      "summary_es": "Un estudio de viabilidad reciente demuestra que la mayoría de las úlceras diabéticas del pie pueden cerrarse exitosamente con tratamiento apropiado. Los resultados ofrecen una perspectiva prometedora para prevenir amputaciones.",
+      "body_es": "Un estudio de viabilidad realizado recientemente por The American Journal of Managed Care demuestra resultados alentadores en el tratamiento de úlceras diabéticas crónicas. El estudio evaluó diferentes protocolos de tratamiento que combinan apósitos avanzados y cuidado integral de heridas. Los investigadores encontraron que tasas significativas de pacientes experimentaban cierre completo de la úlcera. El cuidado regular de la herida incluye evaluación de la profundidad, medición del exudado y detección de signos de infección. Los médicos especialistas en heridas recomiendan seguimiento semanal para estos pacientes. Este tratamiento puede prevenir complicaciones graves como necrosis tisular y amputación. Los resultados sugieren que el tratamiento multidisciplinario es fundamental para el éxito de la curación en pacientes diabéticos.",
+      "body_en": "A recently conducted feasibility study by The American Journal of Managed Care demonstrates encouraging results in treating chronic diabetic ulcers. The study evaluated different treatment protocols that combine advanced dressings and comprehensive wound care. Researchers found that significant rates of patients experienced complete ulcer closure. Regular wound care includes assessment of depth, measurement of exudate, and detection of infection signs. Wound care specialists recommend weekly follow-up for these patients. This treatment can prevent serious complications such as tissue necrosis and amputation. The results suggest that multidisciplinary treatment is fundamental for healing success in diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORE9zMkIwMkNlM0ltLTl3NndtTW1QSl90OERtVUgzS2hOc3RKYWF2cTZQVzkwSm5Ld0VmQ18xR1owR200NXFQX0N0LTEzbTdFQW9NMGZpcGhnS1RXWlVmeFc5ZGpwalcxOThveHgyZXJTbU5KSUo4SWc5WnhEMGNmblFKVXVpTXVTa2hJVXdWQ3pKRmd4eUtwZEZDcFpzX1g1S0l3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-07/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida en el pie que no cicatriza debido a la diabetes",
+          "definition_en": "diabetic ulcer - wound on the foot that does not heal due to diabetes"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de la herida durante la curación",
+          "definition_en": "exudate - fluid that drains from the wound during healing"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido debido a falta de circulación",
+          "definition_en": "necrosis - death of tissue due to lack of circulation"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-02-07T09:10:57.228619Z"
+    },
+    {
+      "id": "burn-care-20250207",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Comunidad se Moviliza Para Apoyar a Víctima de Quemadura Grave",
+      "headline_en": "Community Mobilizes to Support Severe Burn Victim",
+      "summary_es": "Una víctima de quemadura grave recibe apoyo comunitario mientras se recupera. Los cuidados especializados para quemaduras incluyen vendajes avanzados y monitoreo continuo para prevenir infecciones.",
+      "body_es": "Después de un accidente grave en la cocina, una víctima de quemaduras recibe atención especializada en un centro de quemados. La comunidad ha recaudado más de $50,000 para apoyar el tratamiento y recuperación del paciente. Las quemaduras graves requieren cuidado integral que incluye vendajes especializados, evaluación regular de la piel y prevención de infecciones. Los profesionales de enfermería cambian los apósitos regularmente y monitorean los signos vitales del paciente. El tratamiento de quemaduras puede incluir desbridamiento del tejido necrótico para promover la granulación de nueva piel. La cicatrización es un proceso largo que requiere seguimiento a largo plazo. Los especialistas en quemados trabajan con dermatólogos para minimizar cicatrices y restaurar la función. Este caso demuestra la importancia del apoyo comunitario en la recuperación de pacientes quemados.",
+      "body_en": "After a serious kitchen accident, a burn victim receives specialized care at a burn center. The community has raised over $50,000 to support the patient's treatment and recovery. Severe burns require comprehensive care that includes specialized dressings, regular skin assessment, and infection prevention. Nursing professionals change dressings regularly and monitor the patient's vital signs. Burn treatment may include debridement of necrotic tissue to promote granulation of new skin. Scarring is a long process that requires long-term follow-up. Burn specialists work with dermatologists to minimize scars and restore function. This case demonstrates the importance of community support in the recovery of burn patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORURBckJMaklKZXc4RkozV0FwQTVSZUN3QUpIRy15T0I1a2licF90dmQ4ZTVZTDc2MW9jaHRzaXlpcVEtaHZMVGVyc0M1ODVfbjVqTUNJUndiVnkxZ1BLaEhoRDRLSTNmY0NFRnFXU3RiVHNjM1laRUE4c3lIdWVxazlMWk5RY3QyUGVobHhRUTlvcVU2NkRPTFFZTUtHbEZiMFB1Z2s5Zy1UYXVzWGlveG9pNE1tNDRzMFU1bUtTZ05JWGVUMnlvLWVRUkFVN3JNeC1mSnJ1eDc2NlRVeER5RFA4aFpLUWM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-07/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o sustancia química",
+          "definition_en": "burn - injury to skin caused by heat, fire, or chemical substance"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación del tejido necrótico o muerto",
+          "definition_en": "debridement - removal of dead or necrotic tissue"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido sano durante la cicatrización",
+          "definition_en": "granulation - formation of new healthy tissue during healing"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        }
+      ],
+      "added_at": "2026-02-07T09:10:57.228619Z"
+    },
+    {
+      "id": "surgical-wounds-20250207",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Preocupación por Drenajes Quirúrgicos Contaminados Causa Lesión Grave",
+      "headline_en": "Concern Over Contaminated Surgical Drains Causes Serious Injury",
+      "summary_es": "Se ha presentado una demanda legal por infecciones causadas por drenajes quirúrgicos Jackson-Pratt contaminados y retirados del mercado. Los especialistas enfatizan la importancia de las medidas de control de infección en heridas quirúrgicas.",
+      "body_es": "Se ha presentado una demanda legal sobre infecciones causadas por drenajes quirúrgicos Jackson-Pratt que fueron retirados del mercado debido a contaminación. Los drenajes quirúrgicos son dispositivos esenciales que previenen la acumulación de líquido en el sitio quirúrgico. Cuando estos drenajes están contaminados, pueden introducir bacterias patógenas causando infecciones graves. Las infecciones de heridas quirúrgicas aumentan el tiempo de hospitalización y requieren tratamiento antibiótico prolongado. Los profesionales de enfermería deben evaluar diariamente el drenaje para detectar cambios en el color, consistencia o volumen del exudado. Los signos de infección incluyen eritema alrededor del sitio, fiebre y aumento del dolor. Las medidas preventivas incluyen técnicas de asepsia estricta durante los cambios de vendaje y monitoreo cuidadoso del drenaje. Este caso destaca la importancia de la trazabilidad y calidad en los dispositivos médicos utilizados en cirugía.",
+      "body_en": "A lawsuit has been filed over infections caused by Jackson-Pratt surgical drains that were recalled due to contamination. Surgical drains are essential devices that prevent fluid buildup at the surgical site. When these drains are contaminated, they can introduce pathogenic bacteria causing serious infections. Surgical wound infections increase hospitalization time and require prolonged antibiotic treatment. Nursing professionals must evaluate the drain daily to detect changes in the color, consistency, or volume of exudate. Signs of infection include erythema around the site, fever, and increased pain. Preventive measures include strict aseptic technique during dressing changes and careful drain monitoring. This case highlights the importance of traceability and quality in medical devices used in surgery.",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2I1UG56NnR3MjBYaEFvWnh6OVBjckVwUTZUcHAxaXB1OWEwWFdOdUF2bmNkY1ljdHpTbTduN1JCSkx0WGVmUzJyVEJIMHdCbC16STctYnNHdWNmQmVtWk94SDU3QlNUZEw2dlU3ZVVxOU9rcXN5WTBXYkpuazJqQkxqUnVBNl9MWG1YS291WTlmYnZKOVBpOUs1YWxFdk5FRHhOcDZLWmEwWGh0?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-07/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "drenaje quirúrgico",
+          "definition_es": "dispositivo que previene acumulación de líquido después de cirugía",
+          "definition_en": "surgical drain - device that prevents fluid buildup after surgery"
+        },
+        {
+          "word": "infección",
+          "definition_es": "presencia de microorganismos patógenos en la herida",
+          "definition_en": "infection - presence of pathogenic microorganisms in the wound"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel alrededor de la herida",
+          "definition_en": "erythema - redness of the skin around the wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que drena del sitio quirúrgico",
+          "definition_en": "exudate - fluid that drains from the surgical site"
+        }
+      ],
+      "added_at": "2026-02-07T09:10:57.228619Z"
+    },
     {
       "id": "chronic-wounds-20250206",
       "category": "Chronic Wounds",
@@ -5551,6 +5699,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-06T09:19:01.953095Z",
+  "last_updated": "2026-02-07T09:10:57.228619Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
