@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-07",
+      "filename": "spanish_lesson_2026-02-07.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-07.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso actúa para bajar los precios de los medicamentos",
+          "headline_en": "Congress acts to lower medicine prices",
+          "body_es": "El Congreso de Estados Unidos aprobó nuevas reglas para reducir los precios de los medicamentos. Las nuevas leyes controlan a los intermediarios farmacéuticos. Estas empresas están entre los productores de medicamentos y las farmacias. Muchas veces, los intermediarios aumentan los precios de los medicamentos. Los políticos dicen que esto hace que los medicamentos sean muy caros para las familias americanas. Las nuevas reglas van a limitar lo que pueden hacer estos intermediarios. El objetivo es hacer que los medicamentos cuesten menos dinero. Millones de personas en Estados Unidos necesitan medicamentos todos los días. Muchas familias no pueden pagar los precios altos. Los senadores y representantes trabajaron juntos para crear esta solución. Esperan que las familias ahorren dinero con estos cambios.",
+          "body_en": "The United States Congress approved new rules to reduce medicine prices. The new laws control pharmaceutical middlemen. These companies are between medicine producers and pharmacies. Often, middlemen increase medicine prices. Politicians say this makes medicines very expensive for American families. The new rules will limit what these middlemen can do. The goal is to make medicines cost less money. Millions of people in the United States need medicines every day. Many families cannot pay the high prices. Senators and representatives worked together to create this solution. They hope families will save money with these changes.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El mercado de valores alcanza récord histórico por primera vez",
+          "headline_en": "Stock market reaches historic record for the first time",
+          "body_es": "El mercado de valores de Estados Unidos llegó a un nuevo récord histórico esta semana. El índice Dow Jones cerró por encima de 50,000 puntos por primera vez en la historia. Esto significa que las acciones de las empresas americanas están muy valoradas. Los inversionistas están muy contentos con estos resultados. Las empresas tecnológicas fueron las que más subieron sus precios. También las empresas de energía y bancos tuvieron buenos resultados. Los expertos dicen que la economía americana está muy fuerte. Muchas personas que tienen acciones han ganado mucho dinero. Sin embargo, algunos economistas están preocupados. Dicen que los precios pueden estar demasiado altos. Recomiendan ser cuidadosos con las inversiones. El presidente celebró estas noticias económicas positivas.",
+          "body_en": "The United States stock market reached a new historic record this week. The Dow Jones index closed above 50,000 points for the first time in history. This means American company stocks are very valued. Investors are very happy with these results. Technology companies were the ones that raised their prices the most. Energy companies and banks also had good results. Experts say the American economy is very strong. Many people who have stocks have made a lot of money. However, some economists are worried. They say prices might be too high. They recommend being careful with investments. The president celebrated this positive economic news.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Las empresas usan la inteligencia artificial para justificar despidos",
+          "headline_en": "Companies use artificial intelligence to justify layoffs",
+          "body_es": "Muchas empresas en Estados Unidos están despidiendo trabajadores. Dicen que la inteligencia artificial puede hacer el trabajo mejor. Pero algunos expertos no están seguros si esto es verdad. Las empresas tecnológicas han despedido a miles de personas este año. Explican que los robots y computadoras inteligentes pueden reemplazar a los humanos. Sin embargo, estudios muestran que la inteligencia artificial todavía no puede hacer todos los trabajos humanos. Algunos trabajos son demasiado complicados para las máquinas. Los trabajadores están preocupados por su futuro. Muchos están aprendiendo nuevas habilidades para mantener sus empleos. Los sindicatos piden más protección para los empleados. El gobierno está estudiando nuevas leyes para proteger a los trabajadores. La tecnología avanza muy rápido, pero las personas siguen siendo importantes.",
+          "body_en": "Many companies in the United States are firing workers. They say artificial intelligence can do the job better. But some experts are not sure if this is true. Technology companies have fired thousands of people this year. They explain that robots and smart computers can replace humans. However, studies show that artificial intelligence still cannot do all human jobs. Some jobs are too complicated for machines. Workers are worried about their future. Many are learning new skills to keep their jobs. Unions are asking for more protection for employees. The government is studying new laws to protect workers. Technology advances very fast, but people continue to be important.",
+          "source": "Sherwood News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "medicamentos",
+          "syllables": "me-di-ca-MEN-tos",
+          "pos": "sustantivo",
+          "context": "El Congreso quiere reducir los precios de los medicamentos.",
+          "definition_es": "Productos químicos que se usan para tratar enfermedades",
+          "definition_en": "Medicines or drugs used to treat illnesses"
+        },
+        {
+          "word": "intermediarios",
+          "syllables": "in-ter-me-DIA-rios",
+          "pos": "sustantivo",
+          "context": "Los intermediarios aumentan el costo de los medicamentos.",
+          "definition_es": "Personas o empresas que están entre el productor y el consumidor",
+          "definition_en": "People or companies that are between the producer and consumer"
+        },
+        {
+          "word": "récord",
+          "syllables": "RE-cord",
+          "pos": "sustantivo",
+          "context": "El mercado de valores alcanzó un nuevo récord histórico.",
+          "definition_es": "La marca más alta o mejor nunca antes lograda",
+          "definition_en": "The highest or best mark never before achieved"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones subieron mucho en el mercado.",
+          "definition_es": "Partes de una empresa que se pueden comprar y vender",
+          "definition_en": "Shares of a company that can be bought and sold"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Muchas empresas están haciendo despidos por la inteligencia artificial.",
+          "definition_es": "Cuando las empresas terminan el trabajo de sus empleados",
+          "definition_en": "When companies end their employees' jobs"
+        },
+        {
+          "word": "reemplazar",
+          "syllables": "reem-pla-ZAR",
+          "pos": "verbo",
+          "context": "La inteligencia artificial puede reemplazar a algunos trabajadores.",
+          "definition_es": "Poner algo o alguien en lugar de otro",
+          "definition_en": "To put something or someone in place of another"
+        },
+        {
+          "word": "trabajadores",
+          "syllables": "tra-ba-ja-DO-res",
+          "pos": "sustantivo",
+          "context": "Los trabajadores están preocupados por la nueva tecnología.",
+          "definition_es": "Personas que tienen un empleo y reciben dinero por su trabajo",
+          "definition_en": "People who have a job and receive money for their work"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología está cambiando muchos trabajos.",
+          "definition_es": "Conocimiento científico aplicado para crear herramientas y máquinas",
+          "definition_en": "Scientific knowledge applied to create tools and machines"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'intermediarios'?",
+          "options": [
+            "Personas entre el productor y consumidor",
+            "Médicos que venden medicinas",
+            "Políticos del Congreso",
+            "Empresas tecnológicas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'récord'?",
+          "options": [
+            "Un tipo de música",
+            "La marca más alta nunca lograda",
+            "Una empresa de tecnología",
+            "Un medicamento caro"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones'?",
+          "options": [
+            "Actividades físicas",
+            "Partes de una empresa que se compran y venden",
+            "Medicamentos baratos",
+            "Trabajos nuevos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reemplazar'?",
+          "options": [
+            "Comprar algo nuevo",
+            "Vender acciones",
+            "Poner algo en lugar de otro",
+            "Estudiar tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué problema tienen las familias americanas?",
+          "options": [
+            "No pueden comprar acciones",
+            "Los medicamentos son muy caros",
+            "No tienen trabajo",
+            "No entienden la tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué índice llegó a 50,000 puntos?",
+          "options": [
+            "El índice de medicamentos",
+            "El Dow Jones",
+            "El índice de despidos",
+            "El índice de tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas subieron más sus precios en el mercado?",
+          "options": [
+            "Las farmacéuticas",
+            "Las tecnológicas",
+            "Las de medicamentos",
+            "Las del Congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué las empresas están despidiendo trabajadores?",
+          "options": [
+            "Porque no tienen dinero",
+            "Por la inteligencia artificial",
+            "Porque el Congreso lo dice",
+            "Por los precios de medicamentos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué están haciendo los trabajadores para mantener sus empleos?",
+          "options": [
+            "Comprar acciones",
+            "Vender medicamentos",
+            "Aprender nuevas habilidades",
+            "Usar más tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué dice el texto sobre la inteligencia artificial y los trabajos humanos?",
+          "options": [
+            "Puede hacer todos los trabajos",
+            "No puede hacer ningún trabajo",
+            "Todavía no puede hacer todos los trabajos humanos",
+            "Es mejor que los humanos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-07T09:06:02.778151"
+    },
+    {
       "date": "2026-02-06",
       "filename": "spanish_lesson_2026-02-06.pdf",
       "path": "pdfs/spanish_lesson_2026-02-06.pdf",
@@ -13568,7 +13790,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-06T09:12:50.262616",
+  "last_updated": "2026-02-07T09:06:02.778167",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
