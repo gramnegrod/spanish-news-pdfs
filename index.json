@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-08",
+      "filename": "spanish_lesson_2026-02-08.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-08.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso de EE.UU. reduce dinero para cambiar tuberías tóxicas",
+          "headline_en": "US Congress reduces money to change toxic pipes",
+          "body_es": "El Congreso de Estados Unidos votó para recortar 125 millones de dólares. Este dinero era para reemplazar tuberías de plomo tóxicas en todo el país. Muchas personas están muy enojadas con esta decisión. Las tuberías de plomo son peligrosas para la salud pública. Pueden causar problemas serios, especialmente en niños. El plomo en el agua es tóxico y puede dañar el cerebro. Muchas ciudades estadounidenses todavía tienen estas tuberías viejas. Los expertos dicen que es muy importante cambiarlas pronto. Sin esta financiación, será más difícil proteger la salud de las familias americanas.",
+          "body_en": "The US Congress voted to cut $125 million. This money was to replace toxic lead pipes throughout the country. Many people are very angry with this decision. Lead pipes are dangerous for public health. They can cause serious problems, especially in children. Lead in water is toxic and can damage the brain. Many American cities still have these old pipes. Experts say it's very important to change them soon. Without this funding, it will be harder to protect the health of American families.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía de EE.UU. crece más rápido gracias a los consumidores",
+          "headline_en": "US economy grows faster thanks to consumers",
+          "body_es": "La economía de Estados Unidos creció muy rápido en el tercer trimestre del año. Fue el crecimiento más fuerte en dos años. Los consumidores gastaron mucho dinero y esto ayudó a la economía. Las familias compraron más productos y servicios que antes. Los expertos están contentos con estos números. El gasto de los consumidores es muy importante para la economía americana. Cuando las personas compran más cosas, las empresas ganan más dinero. Esto crea más trabajos para la gente. Los analistas piensan que la economía está en buena forma. Sin embargo, todavía hay algunos problemas con la inflación y los precios altos.",
+          "body_en": "The US economy grew very fast in the third quarter of the year. It was the strongest growth in two years. Consumers spent a lot of money and this helped the economy. Families bought more products and services than before. Experts are happy with these numbers. Consumer spending is very important for the American economy. When people buy more things, companies make more money. This creates more jobs for people. Analysts think the economy is in good shape. However, there are still some problems with inflation and high prices.",
+          "source": "AOL.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Ex ingeniero de Google es culpable de robar secretos de inteligencia artificial",
+          "headline_en": "Former Google engineer is guilty of stealing artificial intelligence secrets",
+          "body_es": "Un antiguo ingeniero de Google fue declarado culpable de espionaje económico. Este hombre robó información confidencial sobre tecnología de inteligencia artificial. Trabajaba para Google cuando tomó estos secretos importantes. Después llevó la información a otra empresa. Los tribunales dijeron que esto es espionaje económico y robo. La inteligencia artificial es muy valiosa para las empresas tecnológicas. Google invierte mucho dinero en desarrollar esta tecnología. Cuando alguien roba estos secretos, causa problemas graves. El ingeniero ahora puede ir a la prisión por muchos años. Este caso muestra que robar secretos tecnológicos tiene consecuencias serias.",
+          "body_en": "A former Google engineer was found guilty of economic espionage. This man stole confidential information about artificial intelligence technology. He worked for Google when he took these important secrets. Then he took the information to another company. The courts said this is economic espionage and theft. Artificial intelligence is very valuable for technology companies. Google invests a lot of money in developing this technology. When someone steals these secrets, it causes serious problems. The engineer can now go to prison for many years. This case shows that stealing technological secrets has serious consequences.",
+          "source": "stl.news"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "financiación",
+          "syllables": "fi-nan-cia-CIÓN",
+          "pos": "sustantivo",
+          "context": "El Congreso redujo la financiación para reemplazar las tuberías tóxicas.",
+          "definition_es": "Dinero que se da para pagar algo",
+          "definition_en": "Funding, financing"
+        },
+        {
+          "word": "tóxico",
+          "syllables": "TÓ-xi-co",
+          "pos": "adjetivo",
+          "context": "Las tuberías de plomo son tóxicas para la salud.",
+          "definition_es": "Que es venenoso o malo para la salud",
+          "definition_en": "Toxic, poisonous"
+        },
+        {
+          "word": "crecer",
+          "syllables": "cre-CER",
+          "pos": "verbo",
+          "context": "La economía creció más rápido este año.",
+          "definition_es": "Hacerse más grande o aumentar",
+          "definition_en": "To grow"
+        },
+        {
+          "word": "consumidor",
+          "syllables": "con-su-mi-DOR",
+          "pos": "sustantivo",
+          "context": "Los consumidores gastaron más dinero este trimestre.",
+          "definition_es": "Persona que compra productos o servicios",
+          "definition_en": "Consumer"
+        },
+        {
+          "word": "culpable",
+          "syllables": "cul-PA-ble",
+          "pos": "adjetivo",
+          "context": "El ingeniero fue declarado culpable de espionaje.",
+          "definition_es": "Que ha hecho algo malo o ilegal",
+          "definition_en": "Guilty"
+        },
+        {
+          "word": "espionaje",
+          "syllables": "es-pio-NA-je",
+          "pos": "sustantivo",
+          "context": "El espionaje económico es un delito grave.",
+          "definition_es": "Actividad de obtener secretos de otros países o empresas",
+          "definition_en": "Espionage, spying"
+        },
+        {
+          "word": "confidencial",
+          "syllables": "con-fi-den-CIAL",
+          "pos": "adjetivo",
+          "context": "Robó información confidencial sobre inteligencia artificial.",
+          "definition_es": "Información secreta que no se puede compartir",
+          "definition_en": "Confidential"
+        },
+        {
+          "word": "recortar",
+          "syllables": "re-cor-TAR",
+          "pos": "verbo",
+          "context": "El gobierno decidió recortar el presupuesto para las tuberías.",
+          "definition_es": "Reducir o quitar parte de algo",
+          "definition_en": "To cut, to reduce"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'tóxico'?",
+          "options": [
+            "Que es bueno para la salud",
+            "Que es venenoso o malo para la salud",
+            "Que es muy caro",
+            "Que es muy viejo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'consumidor'?",
+          "options": [
+            "Persona que vende productos",
+            "Persona que fabrica productos",
+            "Persona que compra productos o servicios",
+            "Persona que transporta productos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'recortar' en el contexto del presupuesto?",
+          "options": [
+            "Aumentar el dinero",
+            "Reducir o quitar parte del dinero",
+            "Cambiar el dinero",
+            "Contar el dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es información 'confidencial'?",
+          "options": [
+            "Información que todos pueden leer",
+            "Información secreta que no se puede compartir",
+            "Información muy antigua",
+            "Información muy cara"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero recortó el Congreso para las tuberías?",
+          "options": [
+            "100 millones de dólares",
+            "125 millones de dólares",
+            "150 millones de dólares",
+            "200 millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué las tuberías de plomo son peligrosas?",
+          "options": [
+            "Son muy caras",
+            "Son muy viejas",
+            "Son tóxicas y dañan la salud",
+            "Son difíciles de instalar"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué ayudó al crecimiento de la economía estadounidense?",
+          "options": [
+            "Las exportaciones",
+            "El gasto de los consumidores",
+            "Los impuestos",
+            "Las importaciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto tiempo hace que la economía no crecía tan rápido?",
+          "options": [
+            "Un año",
+            "Dos años",
+            "Tres años",
+            "Cuatro años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿De qué empresa robó secretos el ingeniero?",
+          "options": [
+            "Apple",
+            "Microsoft",
+            "Google",
+            "Facebook"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de tecnología robó el ingeniero?",
+          "options": [
+            "Tecnología de teléfonos",
+            "Tecnología de inteligencia artificial",
+            "Tecnología de automóviles",
+            "Tecnología de videojuegos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-08T09:06:06.877062"
+    },
+    {
       "date": "2026-02-07",
       "filename": "spanish_lesson_2026-02-07.pdf",
       "path": "pdfs/spanish_lesson_2026-02-07.pdf",
@@ -13790,7 +14012,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-07T09:06:02.778167",
+  "last_updated": "2026-02-08T09:06:06.877074",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
