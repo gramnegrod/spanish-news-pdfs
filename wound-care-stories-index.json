@@ -1,11 +1,196 @@
 {
-  "date": "2026-02-07",
-  "generated_at": "2026-02-07T09:10:57.228619Z",
+  "date": "2026-02-08",
+  "generated_at": "2026-02-08T09:11:32.941644Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 154,
-  "new_today": 4,
+  "total_stories": 159,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250208",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Médicos Aconsejan a Personas Mayores sobre Curación de Úlceras Crónicas",
+      "headline_en": "Doctors Advise Seniors on Healing Chronic Sores",
+      "summary_es": "Un panel de médicos especialistas en heridas ofrece recomendaciones prácticas para que las personas mayores curen úlceras crónicas y eviten amputaciones.",
+      "body_es": "Los médicos especializados en curación de heridas dan consejos importantes para personas mayores. Las úlceras crónicas son heridas que no cierran rápidamente. El tratamiento correcto es esencial para evitar amputaciones. Los expertos recomiendan limpiar las heridas regularmente. También aconsejan usar vendajes apropiados. La evaluación regular de la herida es muy importante. Los pacientes deben seguir las instrucciones del médico cuidadosamente. Una buena nutrición ayuda a la curación. El control de la diabetes es fundamental para pacientes diabéticos. Los médicos enfatizan que el cuidado temprano previene complicaciones graves.",
+      "body_en": "Wound care physicians provide important advice for seniors. Chronic ulcers are wounds that do not close quickly. Correct treatment is essential to prevent amputations. Experts recommend cleaning wounds regularly. They also advise using appropriate dressings. Regular wound evaluation is very important. Patients should follow doctor's instructions carefully. Good nutrition helps healing. Diabetes control is fundamental for diabetic patients. Doctors emphasize that early care prevents serious complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnFqUi1hTDZHbkhJcVdfRG1Tc0hvVTJCTnZzRnI2dUlpVWg0NUhlRFNwdjNfaDhfcTR0dlVoYjZHSGV4LUhhRHVjdzdzOWNRU1owU2JIcnJaaEpyNUZyVUs5R0dkeTdua2Zzd3NQYnpjMXVkWG9BSlkzaTR3cEppbFgtSkRCVzF5Wl9qb0J1ZF9uWUpOdWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-08/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida profunda en la piel que no cierra fácilmente",
+          "definition_en": "ulcer - deep wound in skin that does not close easily"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a body part"
+        }
+      ],
+      "added_at": "2026-02-08T09:11:32.941644Z"
+    },
+    {
+      "id": "diabetic-foot-20250208",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Causa Inesperada de Infección en Úlceras del Pie Diabético",
+      "headline_en": "Unexpected Cause of Diabetic Foot Ulcer Infection",
+      "summary_es": "Un estudio reciente identifica a la Pasteurella multocida como causa poco común pero importante de infecciones en úlceras del pie diabético.",
+      "body_es": "Los investigadores han identificado una causa inesperada de infecciones en úlceras del pie diabético: la bacteria Pasteurella multocida. Esta bacteria se transmite típicamente a través del contacto con animales. Los pacientes con diabetes presentan mayor riesgo de complicaciones en heridas del pie. Los síntomas de infección incluyen enrojecimiento, edema e inflamación. El diagnóstico se realiza mediante cultivos de la herida. Los médicos deben considerar esta bacteria cuando los tratamientos convencionales no funcionan. El desbridamiento de tejido necrótico es frecuentemente necesario. Los antibióticos apropiados son esenciales para controlar la infección. Este descubrimiento ayuda a los clínicos a ofrecer un tratamiento más efectivo. La prevención mediante cuidado del pie es fundamental para los pacientes diabéticos.",
+      "body_en": "Researchers have identified an unexpected cause of infections in diabetic foot ulcers: the bacterium Pasteurella multocida. This bacterium is typically transmitted through contact with animals. Patients with diabetes face increased risk of foot wound complications. Infection symptoms include redness, edema, and inflammation. Diagnosis is made through wound cultures. Doctors should consider this bacterium when conventional treatments fail. Debridement of necrotic tissue is frequently necessary. Appropriate antibiotics are essential to control infection. This discovery helps clinicians provide more effective treatment. Prevention through foot care is fundamental for diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFPQXJGM3c0RkNiaGQ0c21oMS1rRGlXUnFHMmMwbXk1YTRzVGxnQTFGczV3VTVLWUFCeGFNczFrcldXbG9kYjM5bF9GTHlDN3dvVEZSRllFd0F0Z3JqNkdSRTE4RlNDdVFWOFRYbUNVTEk3Ujl0YzdyUlpKcnJpMlcweWdHYlpQQThLTllGTXJIU3dIa1JnYngxb29Jd3lTR3Y1QnRUdUhaNDFuWlk1S1NNWQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-08/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel que cicatriza lentamente",
+          "definition_en": "ulcer - open skin lesion that heals slowly"
+        },
+        {
+          "word": "edema",
+          "definition_es": "inflamación y acumulación de líquido en los tejidos",
+          "definition_en": "edema - swelling and fluid accumulation in tissues"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "cultivo",
+          "definition_es": "prueba para identificar bacterias en una muestra",
+          "definition_en": "culture - test to identify bacteria in a sample"
+        }
+      ],
+      "added_at": "2026-02-08T09:11:32.941644Z"
+    },
+    {
+      "id": "burn-care-20250208",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Recomendaciones de Dermatólogos para Tratar Cicatrices",
+      "headline_en": "Dermatologists' Recommendations for Treating Scars",
+      "summary_es": "Dermatólogos expertos comparten estrategias efectivas para el tratamiento de cicatrices en el rostro y el cuerpo.",
+      "body_es": "Los dermatólogos ofrecen recomendaciones basadas en evidencia para el tratamiento de cicatrices resultantes de quemaduras y otros traumatismos. Las cicatrices son el resultado del proceso natural de curación de la piel. Existen varios tratamientos disponibles según el tipo y profundidad de la cicatriz. Los tratamientos tópicos incluyen cremas y geles especializados que mejoran la apariencia. Los tratamientos invasivos como el láser son efectivos para cicatrices más profundas. La dermoabrasión puede mejorar la textura de la piel cicatrizada. El momento del tratamiento es importante; generalmente se espera entre tres y seis meses después de la lesión. La protección solar es fundamental durante la curación para prevenir cambios de coloración. Los pacientes deben mantener la herida limpia y bien hidratada. Una evaluación dermatológica profesional es recomendada para determinar el mejor plan de tratamiento.",
+      "body_en": "Dermatologists offer evidence-based recommendations for treating scars resulting from burns and other trauma. Scars are the result of the natural skin healing process. Several treatments are available depending on scar type and depth. Topical treatments include specialized creams and gels that improve appearance. Invasive treatments like laser are effective for deeper scars. Dermabrasion can improve the texture of scarred skin. Timing of treatment is important; typically waiting three to six months after injury is recommended. Sun protection is fundamental during healing to prevent color changes. Patients should keep the wound clean and well-hydrated. Professional dermatological evaluation is recommended to determine the best treatment plan.",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IT00tOW5vTFBCcWdpeFAzbGNOWDV4TlpXU1VCbVk1N0lIMFNvOWNlODhmYWJYbThNUy1EamJxakpmTG1uYUNBaWJheWRwLWQxNERuOWpheUFGSVZJai1VM1JENW9GV3oxbzAwSWtCSzFYcjVH?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-08/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda en la piel después de la curación de una herida",
+          "definition_en": "scar - mark left on skin after wound healing"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor o fuego",
+          "definition_en": "burn - skin injury caused by heat or fire"
+        },
+        {
+          "word": "láser",
+          "definition_es": "técnica que usa luz concentrada para tratar la piel",
+          "definition_en": "laser - technique using concentrated light to treat skin"
+        },
+        {
+          "word": "dermoabrasión",
+          "definition_es": "procedimiento que remueve capas superficiales de piel",
+          "definition_en": "dermabrasion - procedure that removes superficial skin layers"
+        }
+      ],
+      "added_at": "2026-02-08T09:11:32.941644Z"
+    },
+    {
+      "id": "surgical-wounds-20250208",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Legado de Excelencia en Cuidado Médico y Heridas",
+      "headline_en": "Legacy of Excellence in Medical Care and Wound Management",
+      "summary_es": "El cuidado de heridas quirúrgicas de alta calidad es fundamental para prevenir complicaciones postoperatorias.",
+      "body_es": "La atención de calidad en heridas quirúrgicas es esencial para la recuperación exitosa del paciente. El cuidado postoperatorio correcto previene infecciones y complicaciones graves. Los profesionales médicos deben realizar evaluaciones regulares de la herida quirúrgica. La limpieza adecuada y el cambio de vendajes son procedimientos críticos. Los pacientes requieren instrucciones claras sobre el cuidado de la herida en casa. La vigilancia de signos de infección es responsabilidad compartida entre el personal sanitario y el paciente. Los vendajes estériles deben aplicarse correctamente para proteger la incisión. La educación del paciente sobre la curación incluye información sobre nutrición y actividad física. Los sueros y desinfectantes apropiados deben usarse durante las curaciones. El seguimiento adecuado después del alta hospitalaria es fundamental para detectar complicaciones tardías.",
+      "body_en": "Quality care for surgical wounds is essential for successful patient recovery. Proper postoperative care prevents infections and serious complications. Medical professionals must perform regular assessments of the surgical wound. Proper cleaning and dressing changes are critical procedures. Patients require clear instructions for wound care at home. Monitoring signs of infection is shared responsibility between healthcare staff and patient. Sterile dressings must be applied correctly to protect the incision. Patient education about healing includes information on nutrition and physical activity. Appropriate sera and disinfectants must be used during wound care. Proper follow-up after hospital discharge is fundamental to detect late complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VNG9QRDNyYzVFUzBkZjhNUFlfMUVyRzVaZkg5bGE1MW9Gb280bm9jdkctY3NjYk10M1BhalpIS2Qtd0Z3NTZlVTZDcDNCQjJsbWNZejQ3aGZrZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-08/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "incisión",
+          "definition_es": "corte quirúrgico realizado durante la operación",
+          "definition_en": "incision - surgical cut made during operation"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material estéril aplicado directamente sobre la herida",
+          "definition_en": "dressing - sterile material applied directly on wound"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "puntos que cierran una herida quirúrgica",
+          "definition_en": "suture - stitches that close a surgical wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "entrada y multiplicación de microorganismos patógenos en la herida",
+          "definition_en": "infection - entry and multiplication of pathogens in wound"
+        }
+      ],
+      "added_at": "2026-02-08T09:11:32.941644Z"
+    },
+    {
+      "id": "wound-research-20250208",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Avances en Investigación de Inmunología para Tratamiento de Heridas",
+      "headline_en": "Advances in Immunological Research for Wound Treatment",
+      "summary_es": "La innovación en investigación de inmunoterapia proporciona nuevas oportunidades para mejorar el tratamiento de heridas complejas.",
+      "body_es": "Los investigadores continúan desarrollando tratamientos innovadores basados en inmunología para mejorar la curación de heridas. Los avances en inmunoterapia han demostrado resultados prometedores en el tratamiento de heridas crónicas y complejas. La respuesta inmunológica del cuerpo es crucial en el proceso de cicatrización. Los científicos estudian cómo modular la inflamación para acelerar la epitelización. Los biologales nuevos están siendo desarrollados para mejorar la granulación del tejido. La investigación incluye estudios sobre factores de crecimiento y su papel en la regeneración celular. Los hospitales y universidades colaboran en ensayos clínicos para validar estos tratamientos. La tecnología avanzada permite monitorear el progreso de la curación con mayor precisión. Estos descubrimientos ofrecen esperanza para pacientes con heridas de difícil cicatrización. La inversión en investigación de heridas continúa creciendo debido a su importancia clínica.",
+      "body_en": "Researchers continue developing innovative immunology-based treatments to improve wound healing. Advances in immunotherapy have shown promising results in treating chronic and complex wounds. The body's immune response is crucial in the scarring process. Scientists study how to modulate inflammation to accelerate epithelialization. New biologics are being developed to improve tissue granulation. Research includes studies on growth factors and their role in cell regeneration. Hospitals and universities collaborate in clinical trials to validate these treatments. Advanced technology allows monitoring healing progress with greater precision. These discoveries offer hope for patients with difficult-to-heal wounds. Investment in wound research continues growing due to its clinical importance.",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMUZPaFpsZXN4aEk2TlAyUjZBUDJNYV9BamNMSnRJc2hSTU1RWDU0VG04bkxoVXlldzF1RGFlN19hUDlHdmZ0SmE4RlZsYnlFVWxFeTg0aVBEclQxSEQybVRHb0d0aWRQVG5aQ29wOHlJMUZKVkZWRk1SSVhHRkZKRlpVZ2VNV3FXcV9sM3o2aU1zeHNoMG5fWGxEWERyRE5O?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-08/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nuevo tejido epitelial para cerrar la herida",
+          "definition_en": "epithelialization - formation of new epithelial tissue to close wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido de cicatrización que se forma dentro de la herida",
+          "definition_en": "granulation - scar tissue that forms inside the wound"
+        },
+        {
+          "word": "inmunoterapia",
+          "definition_es": "tratamiento que utiliza el sistema inmunológico para curar",
+          "definition_en": "immunotherapy - treatment using immune system to heal"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "sustancia que estimula el crecimiento y regeneración celular",
+          "definition_en": "growth factor - substance that stimulates cell growth and regeneration"
+        }
+      ],
+      "added_at": "2026-02-08T09:11:32.941644Z"
+    },
     {
       "id": "chronic-wounds-20250207",
       "category": "Chronic Wounds",
@@ -5699,6 +5884,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-07T09:10:57.228619Z",
+  "last_updated": "2026-02-08T09:11:32.941644Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
