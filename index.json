@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-09",
+      "filename": "spanish_lesson_2026-02-09.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-09.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Senadores estadounidenses quieren dejar el Congreso para ser gobernadores",
+          "headline_en": "US Senators want to leave Congress to become governors",
+          "body_es": "Muchos senadores de Estados Unidos están cansados de trabajar en Washington. El Senado tiene muchos problemas y es difícil hacer cosas importantes. Por eso, varios senadores quieren cambiar de trabajo. Prefieren ser gobernadores de sus estados. Como gobernador, pueden tomar decisiones más rápidas. También pueden ayudar directamente a la gente de su estado. En el Senado, es muy difícil aprobar nuevas leyes. Los políticos no se ponen de acuerdo fácilmente. Los senadores piensan que como gobernadores pueden hacer más cambios positivos. Esta situación muestra los problemas del sistema político estadounidense. El Congreso necesita reformas para funcionar mejor.",
+          "body_en": "Many US senators are tired of working in Washington. The Senate has many problems and it's difficult to do important things. For this reason, several senators want to change jobs. They prefer to be governors of their states. As governor, they can make decisions more quickly. They can also directly help people in their state. In the Senate, it's very difficult to pass new laws. Politicians don't agree easily. Senators think that as governors they can make more positive changes. This situation shows the problems of the American political system. Congress needs reforms to function better.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El índice Dow Jones llega a 50,000 puntos por primera vez en la historia",
+          "headline_en": "The Dow Jones reaches 50,000 points for the first time in history",
+          "body_es": "El mercado de valores de Estados Unidos alcanzó un nuevo récord histórico. El índice Dow Jones llegó a 50,000 puntos por primera vez. Este éxito tiene dos razones principales. Primero, las empresas de inteligencia artificial están ganando mucho dinero. Estas compañías tecnológicas suben el valor de todo el mercado. Segundo, el banco central puede bajar las tasas de interés pronto. Esto significa que es más fácil pedir dinero prestado. Los inversionistas están muy contentos con estas noticias. Compran más acciones porque esperan ganar dinero. Sin embargo, algunos expertos dicen que los precios están muy altos. Recomiendan tener cuidado con las inversiones. El mercado puede cambiar rápidamente en el futuro.",
+          "body_en": "The US stock market reached a new historic record. The Dow Jones index reached 50,000 points for the first time. This success has two main reasons. First, artificial intelligence companies are making a lot of money. These technology companies raise the value of the entire market. Second, the central bank may lower interest rates soon. This means it's easier to borrow money. Investors are very happy with this news. They buy more stocks because they expect to make money. However, some experts say prices are very high. They recommend being careful with investments. The market can change quickly in the future.",
+          "source": "The Economic Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas estadounidenses usan la inteligencia artificial como excusa para despedir trabajadores",
+          "headline_en": "US companies use artificial intelligence as an excuse to fire workers",
+          "body_es": "Muchas empresas de Estados Unidos están despidiendo trabajadores. Estas compañías dicen que la inteligencia artificial puede hacer el trabajo mejor. Pero los expertos creen que esto no es verdad. Las empresas usan la IA como excusa para gastar menos dinero. Este problema se llama 'lavado de IA'. Significa que las empresas mienten sobre la tecnología. En realidad, quieren pagar menos salarios a los empleados. Los trabajadores están preocupados por esta situación. Temen perder sus empleos por culpa de las máquinas. Sin embargo, la inteligencia artificial todavía no puede reemplazar a todas las personas. Los trabajadores humanos siguen siendo necesarios para muchas tareas. El gobierno debe crear leyes para proteger a los empleados de estas prácticas injustas.",
+          "body_en": "Many US companies are firing workers. These companies say that artificial intelligence can do the job better. But experts believe this isn't true. Companies use AI as an excuse to spend less money. This problem is called 'AI washing'. It means companies lie about technology. Actually, they want to pay fewer salaries to employees. Workers are worried about this situation. They fear losing their jobs because of machines. However, artificial intelligence still can't replace all people. Human workers are still necessary for many tasks. The government should create laws to protect employees from these unfair practices.",
+          "source": "The Guardian"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gobernador",
+          "syllables": "go-ber-na-DOR",
+          "pos": "sustantivo",
+          "context": "Muchos senadores quieren ser gobernadores de sus estados.",
+          "definition_es": "Persona que gobierna un estado o región",
+          "definition_en": "A person who governs a state or region"
+        },
+        {
+          "word": "senado",
+          "syllables": "se-NA-do",
+          "pos": "sustantivo",
+          "context": "El senado de Estados Unidos tiene muchos problemas.",
+          "definition_es": "Cámara alta del congreso en algunos países",
+          "definition_en": "Upper chamber of congress in some countries"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado de valores llegó a números históricos.",
+          "definition_es": "Lugar donde se compran y venden productos o acciones",
+          "definition_en": "Place where products or stocks are bought and sold"
+        },
+        {
+          "word": "récord",
+          "syllables": "RE-cord",
+          "pos": "sustantivo",
+          "context": "Las acciones alcanzaron un nuevo récord en Wall Street.",
+          "definition_es": "Marca o cifra máxima alcanzada en algo",
+          "definition_en": "Maximum mark or figure reached in something"
+        },
+        {
+          "word": "inteligencia",
+          "syllables": "in-te-li-GEN-cia",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando muchos trabajos.",
+          "definition_es": "Capacidad de entender y aprender",
+          "definition_en": "Ability to understand and learn"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Las empresas justifican los despidos con la tecnología.",
+          "definition_es": "Acción de quitar el trabajo a los empleados",
+          "definition_en": "Action of removing work from employees"
+        },
+        {
+          "word": "artificial",
+          "syllables": "ar-ti-fi-CIAL",
+          "pos": "adjetivo",
+          "context": "La tecnología artificial reemplaza a muchos trabajadores.",
+          "definition_es": "Hecho por humanos, no natural",
+          "definition_en": "Made by humans, not natural"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Muchas empresas usan la IA como excusa.",
+          "definition_es": "Organizaciones que hacen negocios",
+          "definition_en": "Organizations that do business"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'gobernador'?",
+          "options": [
+            "Persona que vota en elecciones",
+            "Persona que gobierna un estado",
+            "Persona que trabaja en una oficina",
+            "Persona que estudia política"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'récord'?",
+          "options": [
+            "Una canción famosa",
+            "Un documento importante",
+            "Una cifra máxima alcanzada",
+            "Una competencia deportiva"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'despidos'?",
+          "options": [
+            "Contratar nuevos empleados",
+            "Quitar el trabajo a empleados",
+            "Dar vacaciones a trabajadores",
+            "Aumentar el salario"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es algo 'artificial'?",
+          "options": [
+            "Hecho por la naturaleza",
+            "Hecho por humanos",
+            "Muy caro",
+            "Muy antiguo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿por qué los senadores quieren ser gobernadores?",
+          "options": [
+            "Ganan más dinero",
+            "Pueden tomar decisiones más rápidas",
+            "Trabajan menos horas",
+            "Es más fácil el trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos puntos alcanzó el índice Dow Jones?",
+          "options": [
+            "40,000",
+            "45,000",
+            "50,000",
+            "55,000"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuáles son las dos razones del éxito del mercado de valores?",
+          "options": [
+            "IA y tasas bajas",
+            "Petróleo y oro",
+            "Bancos y seguros",
+            "Casas y autos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué es el 'lavado de IA'?",
+          "options": [
+            "Limpiar computadoras",
+            "Mentir sobre tecnología",
+            "Crear nuevos programas",
+            "Enseñar a máquinas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué las empresas realmente despiden trabajadores?",
+          "options": [
+            "La IA es mejor",
+            "Quieren gastar menos dinero",
+            "No hay suficiente trabajo",
+            "Los empleados no trabajan bien"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué necesita el Congreso según el texto?",
+          "options": [
+            "Más dinero",
+            "Nuevos edificios",
+            "Reformas",
+            "Más senadores"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-09T09:15:56.599488"
+    },
+    {
       "date": "2026-02-08",
       "filename": "spanish_lesson_2026-02-08.pdf",
       "path": "pdfs/spanish_lesson_2026-02-08.pdf",
@@ -14012,7 +14234,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-08T09:06:06.877074",
+  "last_updated": "2026-02-09T09:15:56.599505",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
