@@ -1,11 +1,159 @@
 {
-  "date": "2026-02-08",
-  "generated_at": "2026-02-08T09:11:32.941644Z",
+  "date": "2026-02-09",
+  "generated_at": "2026-02-09T09:25:39.222263Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 159,
-  "new_today": 5,
+  "total_stories": 163,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250209",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La Inteligencia Artificial Revoluciona el Cuidado de Heridas",
+      "headline_en": "Artificial Intelligence Revolutionizes Wound Care",
+      "summary_es": "La tecnología de inteligencia artificial en el cuidado de heridas crece rápidamente. El mercado proyecta un crecimiento del 35% en los próximos años.",
+      "body_es": "La inteligencia artificial transforma el tratamiento de heridas crónicas. Los hospitales usan sistemas nuevos para evaluar y tratar úlceras. La tecnología ayuda a los enfermeros a identificar infecciones rápidamente. Los médicos pueden medir la curación con más precisión. El crecimiento del mercado de IA en heridas es del 35,03% anual. Esto significa que más hospitales adoptan estas herramientas cada año. Los apósitos inteligentes ayudan a los pacientes en casa. La telemedicina permite monitoreo remoto de heridas. Esta innovación mejora los resultados para pacientes con úlceras diabéticas y de presión.",
+      "body_en": "Artificial intelligence is transforming the treatment of chronic wounds. Hospitals use new systems to evaluate and treat ulcers. Technology helps nurses identify infections quickly. Doctors can measure healing with more precision. The growth rate of the AI wound care market is 35.03% annually. This means more hospitals adopt these tools every year. Smart dressings help patients at home. Telemedicine allows remote wound monitoring. This innovation improves outcomes for patients with diabetic and pressure ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVFN0Z25mRThQbkQ2clhkYlYzbm9WQU43cW9EWXBwY2gwOHhGdEQ0SnZvOUZXNHRTTVVaZ2hrcDc0MTNrbmRnNnBvVVE3VnVULXpVb3RDZUQtcnRBSlM0R3ptRVEzdnUta1hldGluQ1U4M0s1X0FOTm53UWI0NVJIOXlOYUx2VWNoTVJ0UVl2M2dhRVJsdVlxRTN1Y2lBMDRHLVpWZU5yRGdlZUF2azBBRXFlSG03RHh5dWxTZ0F0VktJNFVhWEhGNDJLX2g1ZU9GOUxrT0dTTnE1Q3hLVktodW5mcW1kRVNfYWNkTHNiR2xmWWdWbzRoTVc1eWtfeHM5ZHVobHB2WWtjWjF0dUc0QXlDMWx3cVg5?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-09/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o tejido del cuerpo",
+          "definition_en": "wound - injury to skin or body tissue"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta que no cicatriza normalmente",
+          "definition_en": "ulcer - open wound that does not heal normally"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico que cubre y protege una herida",
+          "definition_en": "dressing - medical material that covers and protects a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de recuperación y cicatrización de una herida",
+          "definition_en": "healing - process of recovery and wound closure"
+        }
+      ],
+      "added_at": "2026-02-09T09:25:39.222263Z"
+    },
+    {
+      "id": "burn-care-20250209",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Irán Desarrolla Terapias Regenerativas Innovadoras para Quemaduras Graves",
+      "headline_en": "Iran Develops Innovative Regenerative Therapies for Severe Burns",
+      "summary_es": "Investigadores iranís han presentado avances significativos en terapias regenerativas para el tratamiento de quemaduras severas y heridas diabéticas. Estos tratamientos prometen mejorar la cicatrización y reducir complicaciones.",
+      "body_es": "Científicos iraníes han anunciado avances revolucionarios en terapias regenerativas para pacientes con quemaduras graves y úlceras diabéticas. Estas nuevas técnicas utilizan células madre y factores de crecimiento para estimular la regeneración de tejidos dañados. El tratamiento acelera el proceso de epitelización y reduce significativamente el riesgo de infección. Los médicos aplican estos métodos en pacientes con quemaduras de segundo y tercer grado. Los resultados iniciales muestran mejora en la cicatrización en comparación con los vendajes convencionales. El desbridamiento de tejido necrótico se realiza de manera más efectiva. Los pacientes presentan menos dolor durante la curación y menos cicatrices permanentes. Esta innovación representa un avance importante en el cuidado integral de heridas traumáticas.",
+      "body_en": "Iranian scientists have announced revolutionary advances in regenerative therapies for patients with severe burns and diabetic ulcers. These new techniques use stem cells and growth factors to stimulate the regeneration of damaged tissues. The treatment accelerates the epithelialization process and significantly reduces the risk of infection. Doctors apply these methods in patients with second and third degree burns. Initial results show improvement in wound healing compared to conventional dressings. Debridement of necrotic tissue is performed more effectively. Patients experience less pain during healing and fewer permanent scars. This innovation represents an important advance in comprehensive wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGJpbmUwVHZlZU15LVExRk1VNTc2RlpZZTFCMkZVNzU1cGt0cjNyY3A2WUN5S3VnT241aV9zT2RKN3VBNXV3a1NnWXZDRnR4c0IyNXpjTDF6Yy1mU3lMb1RUZTNvQzlaWDdnem9ibEZwQ1AzSVBXSUtrSXZ5Rl92ekpGcTVhMzc5S1RLaUVUMHJITkRGU1daTXNKbV9oU2pJMFdUR1d0eWQwRDlqWkE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-09/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "proceso de crecimiento y restauración de tejidos dañados",
+          "definition_en": "regeneration - process of growth and restoration of damaged tissues"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - process of new skin formation over a wound"
+        }
+      ],
+      "added_at": "2026-02-09T09:25:39.222263Z"
+    },
+    {
+      "id": "surgical-wounds-20250209",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Cirugía Pulmonar Conservadora es Posible para Pacientes con EPOC",
+      "headline_en": "Lung-Sparing Surgery Is Possible for Patients With COPD",
+      "summary_es": "Un estudio reciente demuestra que la cirugía pulmonar conservadora es segura y efectiva para pacientes con enfermedad pulmonar obstructiva crónica. Esta técnica preserva más tejido pulmonar sano.",
+      "body_es": "Investigadores médicos han confirmado que la cirugía pulmonar con preservación de tejido es viable para pacientes diagnosticados con EPOC avanzada. Esta técnica quirúrgica utiliza métodos minimamente invasivos para extirpar lesiones pulmonares mientras protege el tejido sano. Los cirujanos evalúan cuidadosamente la función pulmonar antes de la intervención. Durante la operación, se realiza un monitoreo continuo de la oxigenación y ventilación del paciente. El cuidado postoperatorio incluye vendajes especializados y seguimiento de heridas quirúrgicas. Los pacientes con EPOC que reciben esta cirugía experimentan menos complicaciones respiratorias comparado con procedimientos tradicionales. La cicatrización de las incisiones quirúrgicas ocurre más rápidamente debido a técnicas mejoradas. Este enfoque representa un avance significativo en el tratamiento quirúrgico de enfermedades pulmonares crónicas.",
+      "body_en": "Medical researchers have confirmed that lung-preserving surgery is viable for patients diagnosed with advanced COPD. This surgical technique uses minimally invasive methods to remove lung lesions while protecting healthy tissue. Surgeons carefully evaluate lung function before intervention. During the operation, continuous monitoring of patient oxygenation and ventilation is performed. Postoperative care includes specialized dressings and surgical wound monitoring. COPD patients receiving this surgery experience fewer respiratory complications compared to traditional procedures. The healing of surgical incisions occurs more quickly due to improved techniques. This approach represents a significant advance in surgical treatment of chronic lung diseases.",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVTNILUE5V0F2aFZUR3RubG95SjlLV2czSjhuMG54YU83dktTTGtFemVuSkNzLW9Id2N6MnJWT29sYzlUbEs4ZEUwRElaX2c1YzNyY0NyczdUdTNDQy1rQjJoVGtycDlpSGYxTlBRZWhlbi1BS05TTHhCcVVCMTR2dEFpUFFpdEMzakhpV0ZOTTRaUGM4XzFCOA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-09/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada durante una operación quirúrgica",
+          "definition_en": "surgical wound - injury created during a surgical operation"
+        },
+        {
+          "word": "incisión",
+          "definition_es": "corte realizado con un bisturí durante la cirugía",
+          "definition_en": "incision - cut made with a scalpel during surgery"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y recuperación de una herida",
+          "definition_en": "wound closure - process of healing and recovery of an injury"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo médico utilizado para cerrar heridas quirúrgicas",
+          "definition_en": "suture - medical thread used to close surgical wounds"
+        }
+      ],
+      "added_at": "2026-02-09T09:25:39.222263Z"
+    },
+    {
+      "id": "wound-research-20250209",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Centro de Investigación Integral de Voz, Audición y Deglución se Inaugura en la Universidad de South Florida",
+      "headline_en": "USF Health Launches Nation's First Fully Integrated Institute for Voice, Hearing and Swallowing Care and Research",
+      "summary_es": "La Universidad de South Florida ha inaugurado el primer instituto integrado del país dedicado a la investigación y cuidado de voz, audición y deglución. Este avance facilita la investigación multidisciplinaria en heridas relacionadas con estas funciones.",
+      "body_es": "La Universidad de South Florida (USF) ha establecido un nuevo instituto de investigación que combina servicios clínicos y estudios científicos en un solo lugar. Este centro investiga condiciones que afectan la voz, la audición y la capacidad de tragar. Los investigadores estudian cómo las heridas y cicatrices afectan estas funciones críticas. El instituto utiliza tecnología de imagen avanzada para evaluar el tejido dañado. Los cirujanos trabajan con especialistas en foniatría para optimizar la cicatrización. Los pacientes reciben cuidados coordináados mediante un equipo multidisciplinario. La investigación examina nuevos apósitos y técnicas de regeneración de tejidos. Este enfoque integrado mejora los resultados clínicos y avanza el conocimiento en cuidado de heridas complejas.",
+      "body_en": "The University of South Florida (USF) has established a new research institute that combines clinical services and scientific studies in one location. This center investigates conditions affecting voice, hearing, and swallowing ability. Researchers study how wounds and scars affect these critical functions. The institute uses advanced imaging technology to evaluate damaged tissue. Surgeons work with speech pathologists to optimize wound healing. Patients receive coordinated care through a multidisciplinary team. Research examines new dressings and tissue regeneration techniques. This integrated approach improves clinical outcomes and advances knowledge in complex wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzhhZEM5bWphVmRzejVhXy01ejFod1h2VWQ3emdz",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-09/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "lesión tisular",
+          "definition_es": "daño en los tejidos del cuerpo debido a traumatismo o enfermedad",
+          "definition_en": "tissue injury - damage to body tissues due to trauma or disease"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca permanente que queda después de la curación de una herida",
+          "definition_en": "scar - permanent mark left after wound healing"
+        },
+        {
+          "word": "regeneración de tejidos",
+          "definition_es": "proceso de crecimiento de nuevo tejido para reparar daño",
+          "definition_en": "tissue regeneration - process of new tissue growth to repair damage"
+        },
+        {
+          "word": "evaluación clínica",
+          "definition_es": "examen médico para determinar el estado de salud del paciente",
+          "definition_en": "clinical evaluation - medical examination to determine patient health status"
+        }
+      ],
+      "added_at": "2026-02-09T09:25:39.222263Z"
+    },
     {
       "id": "chronic-wounds-20250208",
       "category": "Chronic Wounds",
@@ -5884,6 +6032,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-08T09:11:32.941644Z",
+  "last_updated": "2026-02-09T09:25:39.222263Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
