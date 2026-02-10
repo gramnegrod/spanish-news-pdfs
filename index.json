@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-10",
+      "filename": "spanish_lesson_2026-02-10.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-10.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso estadounidense revisa archivos secretos importantes",
+          "headline_en": "US Congress reviews important secret files",
+          "body_es": "Los miembros del Congreso de Estados Unidos están revisando archivos muy importantes en el Departamento de Justicia. Estos documentos contienen información completa que antes estaba censurada. Los políticos pueden leer toda la información sin partes borradas. Esta revisión es parte de una investigación oficial del gobierno. Los archivos incluyen detalles sobre casos legales importantes. El proceso de revisión comenzó esta semana en Washington. Los congresistas trabajan en grupos pequeños para estudiar todos los documentos. Esta información puede ser muy importante para futuras decisiones políticas. El público no puede ver estos archivos todavía. Solo los miembros oficiales del Congreso tienen acceso a esta información confidencial del gobierno federal.",
+          "body_en": "Members of the US Congress are reviewing very important files at the Department of Justice. These documents contain complete information that was previously censored. Politicians can read all the information without deleted parts. This review is part of an official government investigation. The files include details about important legal cases. The review process began this week in Washington. Congresspeople work in small groups to study all the documents. This information may be very important for future political decisions. The public cannot see these files yet. Only official members of Congress have access to this confidential federal government information.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos e India firman acuerdo comercial histórico",
+          "headline_en": "United States and India sign historic trade agreement",
+          "body_es": "Estados Unidos e India firmaron un acuerdo comercial muy importante esta semana. La Casa Blanca dice que este acuerdo es histórico para los dos países. El nuevo tratado permitirá que los productos estadounidenses entren más fácilmente a los mercados de India. Las empresas americanas podrán vender sus productos sin tantas restricciones. Este acuerdo creará nuevos trabajos en Estados Unidos. También ayudará a bajar los precios de algunos productos para los consumidores. India es un mercado muy grande con más de mil millones de personas. Las dos naciones trabajaron durante muchos meses para completar este acuerdo. Los presidentes de ambos países celebraron la firma del tratado. Este acuerdo de comercio beneficiará la economía de las dos naciones durante muchos años.",
+          "body_en": "The United States and India signed a very important trade agreement this week. The White House says this agreement is historic for both countries. The new treaty will allow American products to enter India's markets more easily. American companies will be able to sell their products without so many restrictions. This agreement will create new jobs in the United States. It will also help lower prices on some products for consumers. India is a very large market with more than one billion people. The two nations worked for many months to complete this agreement. The presidents of both countries celebrated the signing of the treaty. This trade agreement will benefit the economy of both nations for many years.",
+          "source": "Business Standard"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Waymo llega a Orlando mientras empresa local desarrolla tecnología para IA",
+          "headline_en": "Waymo arrives in Orlando while local company develops AI technology",
+          "body_es": "Waymo, la empresa de coches automáticos, va a lanzar sus servicios en Orlando, Florida. Al mismo tiempo, una empresa de Florida Central está creando nueva tecnología para supervisar la inteligencia artificial. Esta tecnología local ayudará a controlar cómo funcionan los sistemas de IA en los vehículos automáticos. Los coches de Waymo usan inteligencia artificial para manejar sin conductor humano. La empresa de Florida trabaja en sistemas de seguridad para esta tecnología. Orlando será una de las primeras ciudades en tener este servicio de transporte automático. Los residentes podrán usar una aplicación móvil para pedir un coche automático. Esta tecnología cambiará la forma como las personas viajan en la ciudad. La combinación de Waymo y la tecnología local hará Orlando más moderna y eficiente.",
+          "body_en": "Waymo, the autonomous car company, is going to launch its services in Orlando, Florida. At the same time, a Central Florida company is creating new technology to oversee artificial intelligence. This local technology will help control how AI systems work in autonomous vehicles. Waymo cars use artificial intelligence to drive without a human driver. The Florida company works on safety systems for this technology. Orlando will be one of the first cities to have this automatic transportation service. Residents will be able to use a mobile app to request an autonomous car. This technology will change how people travel in the city. The combination of Waymo and local technology will make Orlando more modern and efficient.",
+          "source": "mynews13.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "archivos",
+          "syllables": "ar-CHI-vos",
+          "pos": "sustantivo",
+          "context": "Los miembros del Congreso están revisando archivos importantes del gobierno.",
+          "definition_es": "Documentos guardados con información importante",
+          "definition_en": "Files, documents"
+        },
+        {
+          "word": "comercio",
+          "syllables": "co-MER-cio",
+          "pos": "sustantivo",
+          "context": "El nuevo acuerdo de comercio ayudará a la economía de los dos países.",
+          "definition_es": "Comprar y vender productos entre países o empresas",
+          "definition_en": "Trade, commerce"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Estados Unidos e India firmaron un acuerdo comercial histórico.",
+          "definition_es": "Cuando dos o más partes están de acuerdo en algo",
+          "definition_en": "Agreement, deal"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los productos estadounidenses podrán entrar a los mercados de India.",
+          "definition_es": "Lugares donde se compran y venden productos",
+          "definition_en": "Markets"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología ayuda a controlar los coches automáticos.",
+          "definition_es": "Máquinas y sistemas modernos que facilitan la vida",
+          "definition_en": "Technology"
+        },
+        {
+          "word": "supervisar",
+          "syllables": "su-per-vi-SAR",
+          "pos": "verbo",
+          "context": "Es importante supervisar el trabajo de la inteligencia artificial.",
+          "definition_es": "Vigilar y controlar que algo funcione bien",
+          "definition_en": "To supervise, oversee"
+        },
+        {
+          "word": "lanzar",
+          "syllables": "lan-ZAR",
+          "pos": "verbo",
+          "context": "Waymo va a lanzar su servicio de coches automáticos en Orlando.",
+          "definition_es": "Empezar algo nuevo, como un producto o servicio",
+          "definition_en": "To launch"
+        },
+        {
+          "word": "histórico",
+          "syllables": "his-TÓ-ri-co",
+          "pos": "adjetivo",
+          "context": "Este acuerdo comercial es histórico para ambos países.",
+          "definition_es": "Muy importante, que quedará en la historia",
+          "definition_en": "Historic"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'archivos' en el contexto de las noticias?",
+          "options": [
+            "Documentos importantes",
+            "Edificios grandes",
+            "Personas famosas",
+            "Computadoras nuevas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'acuerdo comercial' es...",
+          "options": [
+            "Una tienda grande",
+            "Un contrato entre países para comerciar",
+            "Un tipo de dinero",
+            "Una empresa nueva"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'lanzar un servicio'?",
+          "options": [
+            "Cerrar una empresa",
+            "Empezar algo nuevo",
+            "Comprar productos",
+            "Viajar a otro país"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Supervisar' significa...",
+          "options": [
+            "Comprar cosas",
+            "Vender productos",
+            "Controlar y vigilar",
+            "Construir edificios"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Dónde están revisando los archivos los miembros del Congreso?",
+          "options": [
+            "En la Casa Blanca",
+            "En el Departamento de Justicia",
+            "En un banco",
+            "En una universidad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué países firmaron el acuerdo comercial histórico?",
+          "options": [
+            "Estados Unidos y China",
+            "Estados Unidos e India",
+            "India y México",
+            "Estados Unidos y Japón"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿En qué ciudad va a lanzar Waymo sus servicios?",
+          "options": [
+            "Miami",
+            "Tampa",
+            "Orlando",
+            "Jacksonville"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuántas personas viven en India aproximadamente?",
+          "options": [
+            "Más de mil millones",
+            "500 millones",
+            "100 millones",
+            "2 mil millones"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué tecnología usan los coches de Waymo para manejar?",
+          "options": [
+            "GPS básico",
+            "Inteligencia artificial",
+            "Control remoto",
+            "Mapas de papel"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Quiénes pueden ver los archivos que está revisando el Congreso?",
+          "options": [
+            "Todo el público",
+            "Solo los periodistas",
+            "Solo los miembros del Congreso",
+            "Cualquier ciudadano"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-10T09:17:10.292092"
+    },
+    {
       "date": "2026-02-09",
       "filename": "spanish_lesson_2026-02-09.pdf",
       "path": "pdfs/spanish_lesson_2026-02-09.pdf",
@@ -14234,7 +14456,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-09T09:15:56.599505",
+  "last_updated": "2026-02-10T09:17:10.292109",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
