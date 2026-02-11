@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-11",
+      "filename": "spanish_lesson_2026-02-11.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-11.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Oficiales de Seguridad Nacional defienden las reglas de inmigración",
+          "headline_en": "Homeland Security officials defend immigration rules",
+          "body_es": "Los oficiales más importantes del Departamento de Seguridad Nacional hablaron en el Congreso. Defendieron las nuevas reglas sobre inmigración. Los políticos hicieron muchas preguntas sobre estas reglas. Algunos políticos no están de acuerdo con las decisiones del gobierno. Los oficiales explicaron por qué las reglas son necesarias para el país. Dijeron que las reglas ayudan a controlar quién puede entrar a Estados Unidos. El debate sobre inmigración es muy importante en la política americana. Muchas familias esperan cambios en estas reglas. Los oficiales prometieron seguir trabajando para mejorar el sistema de inmigración.",
+          "body_en": "The most important officials from the Department of Homeland Security spoke in Congress. They defended the new immigration rules. Politicians asked many questions about these rules. Some politicians don't agree with the government's decisions. The officials explained why the rules are necessary for the country. They said the rules help control who can enter the United States. The immigration debate is very important in American politics. Many families hope for changes in these rules. The officials promised to continue working to improve the immigration system.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía crece pero es difícil encontrar trabajo",
+          "headline_en": "The economy grows but it's hard to find work",
+          "body_es": "La economía de Estados Unidos está creciendo muy bien. Las empresas están ganando más dinero. Sin embargo, muchas personas no pueden encontrar trabajo. Esta situación es muy extraña para los expertos en economía. Normalmente, cuando la economía crece, hay más empleos disponibles. Pero ahora es diferente. Las empresas no quieren contratar nuevos trabajadores. Prefieren usar tecnología para hacer el trabajo. Los jóvenes tienen más dificultades para encontrar su primer empleo. Los economistas estudian esta situación para entender qué está pasando. Esperan que la situación mejore en los próximos meses.",
+          "body_en": "The United States economy is growing very well. Companies are earning more money. However, many people cannot find work. This situation is very strange for economics experts. Normally, when the economy grows, there are more jobs available. But now it's different. Companies don't want to hire new workers. They prefer to use technology to do the work. Young people have more difficulties finding their first job. Economists study this situation to understand what is happening. They hope the situation will improve in the coming months.",
+          "source": "Mid Florida Newspapers"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas usan visas especiales para contratar expertos en inteligencia artificial",
+          "headline_en": "Tech companies use special visas to hire artificial intelligence experts",
+          "body_es": "Las grandes empresas de tecnología en Estados Unidos necesitan trabajadores especializados. Quieren contratar expertos en inteligencia artificial. Para esto, usan visas especiales llamadas H-1B. Estas visas permiten que trabajadores de otros países vengan a Estados Unidos. Las empresas como Google y Microsoft buscan el mejor talento del mundo. La inteligencia artificial es muy importante para el futuro de la tecnología. Por eso, las empresas pagan mucho dinero a estos expertos. El gobierno americano da pocas visas H-1B cada año. Esto crea competencia entre las empresas. Muchos trabajadores talentosos quieren trabajar en Estados Unidos.",
+          "body_en": "Big technology companies in the United States need specialized workers. They want to hire artificial intelligence experts. For this, they use special visas called H-1B. These visas allow workers from other countries to come to the United States. Companies like Google and Microsoft look for the best talent in the world. Artificial intelligence is very important for the future of technology. That's why companies pay a lot of money to these experts. The American government gives few H-1B visas each year. This creates competition among companies. Many talented workers want to work in the United States.",
+          "source": "MSN"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "seguridad",
+          "syllables": "se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "Los oficiales de seguridad nacional defienden las leyes de inmigración.",
+          "definition_es": "Protección contra peligros o riesgos",
+          "definition_en": "Protection against dangers or risks"
+        },
+        {
+          "word": "inmigración",
+          "syllables": "in-mi-gra-CIÓN",
+          "pos": "sustantivo",
+          "context": "El gobierno habla sobre las nuevas reglas de inmigración.",
+          "definition_es": "Llegada de personas a un país para vivir allí",
+          "definition_en": "Arrival of people to a country to live there"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía está creciendo pero faltan empleos.",
+          "definition_es": "Sistema de producción y distribución de dinero",
+          "definition_en": "System of production and distribution of money"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Muchas personas buscan empleo pero no lo encuentran.",
+          "definition_es": "Trabajo que da dinero a una persona",
+          "definition_en": "Work that gives money to a person"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Las empresas de tecnología necesitan trabajadores especializados.",
+          "definition_es": "Uso de ciencia para crear máquinas y programas",
+          "definition_en": "Use of science to create machines and programs"
+        },
+        {
+          "word": "talento",
+          "syllables": "ta-LEN-to",
+          "pos": "sustantivo",
+          "context": "Las compañías buscan talento en inteligencia artificial.",
+          "definition_es": "Habilidad especial que tiene una persona",
+          "definition_en": "Special ability that a person has"
+        },
+        {
+          "word": "defender",
+          "syllables": "de-fen-DER",
+          "pos": "verbo",
+          "context": "Los oficiales defienden sus decisiones en el Congreso.",
+          "definition_es": "Proteger o apoyar algo o alguien",
+          "definition_en": "To protect or support something or someone"
+        },
+        {
+          "word": "contratar",
+          "syllables": "con-tra-TAR",
+          "pos": "verbo",
+          "context": "Las empresas quieren contratar expertos en computadoras.",
+          "definition_es": "Dar trabajo a una persona",
+          "definition_en": "To give work to a person"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'defender'?",
+          "options": [
+            "Atacar algo",
+            "Proteger o apoyar algo",
+            "Vender algo",
+            "Comprar algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'talento'?",
+          "options": [
+            "Una máquina",
+            "Habilidad especial de una persona",
+            "Un país",
+            "Un tipo de comida"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es 'inmigración'?",
+          "options": [
+            "Salir de un país",
+            "Llegada de personas a un país para vivir",
+            "Un tipo de comida",
+            "Una enfermedad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'contratar'?",
+          "options": [
+            "Despedir a alguien",
+            "Dar trabajo a una persona",
+            "Viajar",
+            "Estudiar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Dónde hablaron los oficiales de Seguridad Nacional?",
+          "options": [
+            "En una empresa",
+            "En el Congreso",
+            "En una escuela",
+            "En un hospital"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué está pasando con la economía de Estados Unidos?",
+          "options": [
+            "Está muy mal",
+            "Está creciendo bien",
+            "No está cambiando",
+            "Está cerrando"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué es difícil encontrar trabajo aunque la economía crece?",
+          "options": [
+            "Hay muchos empleos",
+            "Las empresas prefieren usar tecnología",
+            "No hay empresas",
+            "La gente no quiere trabajar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de visa usan las empresas tecnológicas?",
+          "options": [
+            "H-1B",
+            "F-1",
+            "B-2",
+            "J-1"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué buscan las empresas como Google y Microsoft?",
+          "options": [
+            "Comida barata",
+            "Expertos en inteligencia artificial",
+            "Nuevos edificios",
+            "Carros rápidos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Quiénes tienen más dificultades para encontrar trabajo según el texto?",
+          "options": [
+            "Las personas mayores",
+            "Los jóvenes",
+            "Las mujeres",
+            "Los hombres"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-11T09:15:41.918616"
+    },
+    {
       "date": "2026-02-10",
       "filename": "spanish_lesson_2026-02-10.pdf",
       "path": "pdfs/spanish_lesson_2026-02-10.pdf",
@@ -14456,7 +14678,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-10T09:17:10.292109",
+  "last_updated": "2026-02-11T09:15:41.918631",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
