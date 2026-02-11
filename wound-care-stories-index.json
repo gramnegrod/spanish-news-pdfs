@@ -1,11 +1,159 @@
 {
-  "date": "2026-02-10",
-  "generated_at": "2026-02-10T09:24:54.328589Z",
+  "date": "2026-02-11",
+  "generated_at": "2026-02-11T09:22:07.614269Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 166,
-  "new_today": 3,
+  "total_stories": 170,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250211",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevas terapias para úlceras crónicas: oxígeno versus presión negativa",
+      "headline_en": "New therapies for chronic ulcers: oxygen versus negative pressure",
+      "summary_es": "Un estudio reciente compara dos tratamientos importantes para úlceras crónicas: la terapia de oxígeno difundido continuamente y la terapia de presión negativa. Los investigadores analizan el costo y la efectividad de cada método.",
+      "body_es": "Las úlceras crónicas son heridas que no cierran rápidamente. Afectan a muchos pacientes en hospitales y clínicas. Los médicos necesitan encontrar tratamientos efectivos y económicos. La terapia de oxígeno difundido continuamente es un método nuevo. La terapia de presión negativa es un tratamiento tradicional. Un estudio reciente compara estos dos métodos. Los investigadores estudian cuál es más efectivo para curar las úlceras. También analizan el costo de cada tratamiento. Este estudio es importante para los pacientes y los hospitales. Ayuda a los médicos a elegir el mejor tratamiento. La curación de úlceras crónicas es complicada y necesita cuidado especial.",
+      "body_en": "Chronic ulcers are wounds that do not close quickly. They affect many patients in hospitals and clinics. Doctors need to find effective and economical treatments. Continuously diffused oxygen therapy is a new method. Negative pressure wound therapy is a traditional treatment. A recent study compares these two methods. Researchers study which is more effective for healing ulcers. They also analyze the cost of each treatment. This study is important for patients and hospitals. It helps doctors choose the best treatment. Healing chronic ulcers is complicated and requires special care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM2ItcWd4bndXRzJ4bnRzVlVLZTFXcnZlR0E1c2pOMVZyMjFoRkN1TWJQWk85dEVfUE9VNXpVclFxSmUydkFoeG9BUWJCTjZQOEdvNTBNTzJxdGNNOXVKcERCZk9kSzFjVlNtVjZVWTR6VGg1d0hnV29LMmxnRnFENFBUbTE4NHpwb0NCSmtkQ1FCa1pyOWhJelRHbTJsdmdWSzJ2SHhGT3dIOTdhLUphMW1WYmpyWV9uWUNpTS1TVUJUaW5XZkIzMnZ3c2t5cmRWLS13?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-11/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza",
+          "definition_en": "ulcer - open wound on the skin that does not heal"
+        },
+        {
+          "word": "terapia de presión negativa",
+          "definition_es": "tratamiento que usa vacío para curar heridas",
+          "definition_en": "negative pressure therapy - treatment using vacuum to heal wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cerrar y sanar una herida",
+          "definition_en": "healing - process of closing and recovering from a wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "vendaje o material para cubrir una herida",
+          "definition_en": "dressing - bandage or material to cover a wound"
+        }
+      ],
+      "added_at": "2026-02-11T09:22:07.614269Z"
+    },
+    {
+      "id": "burn-care-20250211",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "La membrana amniótica revoluciona el tratamiento de quemaduras y heridas",
+      "headline_en": "Amniotic membrane revolutionizes burn and wound treatment",
+      "summary_es": "El mercado de membranas amnióticas para medicina regenerativa está experimentando un crecimiento significativo. Este material biológico se utiliza cada vez más en el tratamiento de quemaduras y lesiones crónicas.",
+      "body_es": "La membrana amniótica es un tejido biológico que proviene del útero después del parto. Los médicos han comenzado a utilizar este material en tratamientos de medicina regenerativa. La membrana amniótica contiene proteínas y factores de crecimiento que favorecen la cicatrización. En el tratamiento de quemaduras, la membrana amniótica reduce el dolor y acelera la curación. También disminuye la formación de cicatrices graves. Este material es especialmente útil para quemaduras de segundo grado. Los investigadores predicen que el mercado de membranas amnióticas crecerá significativamente en los próximos años. Las ventajas incluyen menor riesgo de infección y mejor resultado estético. Aunque el costo inicial es más alto que los vendajes tradicionales, el costo total del tratamiento puede ser menor debido a cicatrización más rápida.",
+      "body_en": "The amniotic membrane is a biological tissue derived from the uterus after childbirth. Doctors have begun using this material in regenerative medicine treatments. The amniotic membrane contains proteins and growth factors that promote healing. In burn treatment, the amniotic membrane reduces pain and accelerates wound closure. It also decreases the formation of severe scars. This material is especially useful for second-degree burns. Researchers predict that the amniotic membrane market will grow significantly in the coming years. Advantages include lower infection risk and better cosmetic outcome. Although the initial cost is higher than traditional dressings, the total treatment cost may be lower due to faster healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdUYyM0w1S05mTFdfOEFnLUdBRWhoSk1MX000SmlUNEU3MkZDVk03Qms2MnJ4b3puWlQ4RVJIeF9XeTZfeEJQY2FVZzViZkZ5TnJUQVh5NlNFUG8yaUpMQThuUi1nT25weE83Ulh6Snc1TTB1amh0RElPR2d6T3p1YlBjS0RpX1kyek1wYTJPVmdyRWN4MnV2VmhPbmdxald5UEJlUGJVejVwWHRSTkJxaUJCcGR1Zw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-11/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "membrana amniótica",
+          "definition_es": "tejido biológico del útero usado en medicina regenerativa",
+          "definition_en": "amniotic membrane - biological tissue from the uterus used in regenerative medicine"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor o fuego",
+          "definition_en": "burn - injury to the skin caused by heat or fire"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo después de una herida",
+          "definition_en": "scarring - process of new tissue formation after a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de piel nueva sobre una herida",
+          "definition_en": "epithelialization - formation of new skin over a wound"
+        }
+      ],
+      "added_at": "2026-02-11T09:22:07.614269Z"
+    },
+    {
+      "id": "surgical-wounds-20250211",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Cirugía de reemplazo de cadera con vasculitis ANCA: preparación y cuidados",
+      "headline_en": "Hip replacement surgery with ANCA vasculitis: preparation and care",
+      "summary_es": "Los pacientes con vasculitis ANCA que necesitan cirugía de reemplazo de cadera requieren una preparación especial. Los médicos deben coordinar el cuidado entre especialistas para garantizar el éxito quirúrgico y la curación de la herida.",
+      "body_es": "La vasculitis ANCA es una enfermedad inflamatoria que afecta los vasos sanguíneos. Los pacientes con esta condición que requieren cirugía de cadera enfrentan desafíos únicos. La inflamación puede afectar la cicatrización de la herida quirúrgica. Antes de la cirugía, los médicos deben evaluar cuidadosamente la actividad de la enfermedad. El control de la inflamación es fundamental para obtener buenos resultados. Durante la operación, los cirujanos utilizan técnicas especiales para minimizar el traumatismo tisular. Después de la cirugía, el cuidado de la herida es crítico. Los pacientes requieren vigilancia cercana para detectar complicaciones como infecciones o dehiscencia de la herida. El vendaje debe mantenerse limpio y seco. Los reumatólogos y cirujanos deben trabajar juntos para coordinar el tratamiento inmunosupresor. La rehabilitación debe ser supervisada por fisioterapeutas experimentados.",
+      "body_en": "ANCA vasculitis is an inflammatory disease that affects blood vessels. Patients with this condition requiring hip surgery face unique challenges. Inflammation can affect the healing of the surgical wound. Before surgery, doctors must carefully assess disease activity. Control of inflammation is fundamental for good outcomes. During the operation, surgeons use special techniques to minimize tissue trauma. After surgery, wound care is critical. Patients require close monitoring to detect complications such as infections or wound dehiscence. The dressing should be kept clean and dry. Rheumatologists and surgeons must work together to coordinate immunosuppressive treatment. Rehabilitation must be supervised by experienced physical therapists.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHBwSGxkYXQ5ZTZLSU5FemZKZmtCM2duOFMzT1RCamJneXl6NDJlUGZMZ2dLREh4aGVQNV8zRnZFcWRXZDVrcG9Ea2ZGc3hldTZjX2tHcC1Lbno2MU4tX2g3c180TUVxVXFrZjJOYWJpUWRRNXgtRXlaWnNvZ3NCRWxpaE9IYnlxN25XMnBhdFQtV28?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-11/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vasculitis ANCA",
+          "definition_es": "enfermedad inflamatoria de los vasos sanguíneos",
+          "definition_en": "ANCA vasculitis - inflammatory disease of blood vessels"
+        },
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión realizada por el cirujano durante una operación",
+          "definition_en": "surgical wound - incision made by the surgeon during an operation"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y cierre de una herida",
+          "definition_en": "healing - process of wound closure and recovery"
+        },
+        {
+          "word": "dehiscencia",
+          "definition_es": "reapertura anormal de una herida cerrada",
+          "definition_en": "dehiscence - abnormal reopening of a closed wound"
+        }
+      ],
+      "added_at": "2026-02-11T09:22:07.614269Z"
+    },
+    {
+      "id": "wound-research-20250211",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Nuevos avances en la investigación de cicatrización de heridas",
+      "headline_en": "New advances in wound healing research",
+      "summary_es": "Las instituciones médicas líderes están desarrollando centros integrados para investigar y tratar heridas complejas. Estos centros combinan investigación clínica con práctica de atención de heridas.",
+      "body_es": "La investigación en cicatrización de heridas ha avanzado significativamente en los últimos años. Las universidades médicas principales están creando centros especializados para investigación integrada. Estos centros reúnen a médicos, investigadores y enfermeros de diferentes especialidades. La investigación moderna examina cómo los factores biológicos afectan la curación. Los científicos estudian las proteínas que estimulan la epitelización y la granulación. También investigan cómo reducir las complicaciones como infecciones y cicatrices anormales. Los centros integrados permiten que los investigadores traduzcan descubrimientos de laboratorio en tratamientos clínicos. Los pacientes se benefician directamente de estos avances. Se utilizan nuevas tecnologías como imagen avanzada y análisis genético. Los resultados de estas investigaciones mejoran los protocolos de tratamiento en todo el país. La colaboración entre instituciones acelera el desarrollo de terapias innovadoras.",
+      "body_en": "Research in wound healing has advanced significantly in recent years. Major medical universities are creating specialized centers for integrated research. These centers bring together doctors, researchers, and nurses from different specialties. Modern research examines how biological factors affect healing. Scientists study the proteins that stimulate epithelialization and granulation. They also investigate how to reduce complications such as infections and abnormal scarring. Integrated centers allow researchers to translate laboratory discoveries into clinical treatments. Patients directly benefit from these advances. New technologies such as advanced imaging and genetic analysis are being used. The results of this research improve treatment protocols across the country. Collaboration between institutions accelerates the development of innovative therapies.",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzhkQzltamFWZHN6NWFfLTV6MWh3WHZVZDd6Z3NUZ2RyRU53bVpjZUdOR3NZaGFPdDBfS3JmWmJKdWhVT3hWTmN2WjZEUWRrS1d6YnNkMXR6MWxmeE9UN2lrQUNmQ0hONXZTeHlqbmJKSFQ4QjQ4b2t4YWJlRThFQ05TbG5BNVNLeWMyeHJnSzR4REJhVkZaR09qOTlRMkRDRm5qcmZuRVdnazc5NGZYb1kzSQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-11/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de curación y regeneración tisular",
+          "definition_en": "wound healing - biological process of tissue repair and regeneration"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido de granulación durante la curación",
+          "definition_en": "granulation - formation of granulation tissue during healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de células epiteliales sobre la herida",
+          "definition_en": "epithelialization - growth of epithelial cells over the wound"
+        },
+        {
+          "word": "investigación clínica",
+          "definition_es": "estudio científico realizado con pacientes en hospitales",
+          "definition_en": "clinical research - scientific study conducted with patients in hospitals"
+        }
+      ],
+      "added_at": "2026-02-11T09:22:07.614269Z"
+    },
     {
       "id": "chronic-wounds-20250210",
       "category": "Chronic Wounds",
@@ -6143,6 +6291,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-10T09:24:54.328589Z",
+  "last_updated": "2026-02-11T09:22:07.614269Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
