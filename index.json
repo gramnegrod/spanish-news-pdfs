@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-12",
+      "filename": "spanish_lesson_2026-02-12.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-12.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Bondi se enfrenta a los demócratas en audiencia tensa",
+          "headline_en": "Bondi clashes with Democrats in tense hearing",
+          "body_es": "Pam Bondi participó en una audiencia muy tensa en el Senado. Los senadores demócratas le hicieron preguntas difíciles sobre Jeffrey Epstein. También hablaron sobre venganza política. Bondi está nominada para ser la nueva fiscal general de Estados Unidos. Durante la audiencia, ella defendió sus posiciones. Los demócratas no estaban satisfechos con sus respuestas. Bondi dijo que seguirá la ley de manera justa. Sin embargo, los demócratas tienen dudas sobre sus intenciones. La audiencia duró varias horas. Este proceso es muy importante para el futuro del sistema de justicia estadounidense. Los senadores votarán pronto sobre su nominación.",
+          "body_en": "Pam Bondi participated in a very tense Senate hearing. Democratic senators asked her difficult questions about Jeffrey Epstein. They also talked about political revenge. Bondi is nominated to be the new Attorney General of the United States. During the hearing, she defended her positions. The Democrats were not satisfied with her answers. Bondi said she will follow the law fairly. However, Democrats have doubts about her intentions. The hearing lasted several hours. This process is very important for the future of the American justice system. Senators will vote soon on her nomination.",
+          "source": "Los Angeles Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Economía estadounidense crea 130,000 empleos nuevos",
+          "headline_en": "US economy creates 130,000 new jobs",
+          "body_es": "La economía de Estados Unidos añadió 130,000 empleos el mes pasado. Esta cifra fue mejor de lo esperado por los expertos. Los economistas pensaban que habría menos empleos nuevos. Este crecimiento muestra que la economía está fuerte. Muchas empresas están contratando más trabajadores. Los sectores de servicios y tecnología crearon más puestos. Sin embargo, algunos sectores como la construcción perdieron empleos. La tasa de desempleo se mantiene baja. Los salarios también están subiendo lentamente. Estos números son buenas noticias para las familias estadounidenses. El gobierno espera que esta tendencia continúe. Los expertos dicen que la economía está en buen estado general.",
+          "body_en": "The US economy added 130,000 jobs last month. This figure was better than expected by experts. Economists thought there would be fewer new jobs. This growth shows that the economy is strong. Many companies are hiring more workers. The services and technology sectors created more positions. However, some sectors like construction lost jobs. The unemployment rate remains low. Wages are also rising slowly. These numbers are good news for American families. The government expects this trend to continue. Experts say the economy is in good overall condition.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "OpenAI busca convertir su inteligencia artificial en dinero",
+          "headline_en": "OpenAI seeks to turn its artificial intelligence into money",
+          "body_es": "OpenAI tiene un gran desafío: necesita ganar más dinero con su inteligencia artificial. La empresa creó ChatGPT, que es muy popular en todo el mundo. Millones de personas usan esta tecnología cada día. Sin embargo, mantener estos sistemas cuesta mucho dinero. OpenAI necesita servidores muy caros y mucha electricidad. La empresa está buscando nuevas formas de generar ganancias. Quiere vender sus servicios a más empresas grandes. También está desarrollando nuevos productos de inteligencia artificial. Los inversionistas han puesto mucho dinero en OpenAI. Ahora esperan ver buenos resultados financieros. El futuro de la empresa depende de encontrar el equilibrio entre innovación y ganancias.",
+          "body_en": "OpenAI has a big challenge: it needs to make more money with its artificial intelligence. The company created ChatGPT, which is very popular worldwide. Millions of people use this technology every day. However, maintaining these systems costs a lot of money. OpenAI needs very expensive servers and a lot of electricity. The company is looking for new ways to generate profits. It wants to sell its services to more large companies. It's also developing new artificial intelligence products. Investors have put a lot of money into OpenAI. Now they expect to see good financial results. The company's future depends on finding the balance between innovation and profits.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "enfrentarse",
+          "syllables": "en-fren-TAR-se",
+          "pos": "verbo",
+          "context": "Bondi se enfrentó a los demócratas durante la audiencia.",
+          "definition_es": "Confrontar o tener una discusión intensa con alguien",
+          "definition_en": "To confront or clash with someone"
+        },
+        {
+          "word": "venganza",
+          "syllables": "ven-GAN-za",
+          "pos": "sustantivo",
+          "context": "Los demócratas hablaron sobre venganza política.",
+          "definition_es": "Acción de hacer daño a alguien por algo que hizo antes",
+          "definition_en": "Political retribution or revenge"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "La economía añadió 130,000 empleos el mes pasado.",
+          "definition_es": "Trabajo o puesto de trabajo",
+          "definition_en": "Job or employment"
+        },
+        {
+          "word": "esperado",
+          "syllables": "es-pe-RA-do",
+          "pos": "adjetivo",
+          "context": "Los resultados fueron mejores de lo esperado.",
+          "definition_es": "Algo que se pensaba que iba a pasar",
+          "definition_en": "Expected"
+        },
+        {
+          "word": "desafío",
+          "syllables": "de-sa-FÍ-o",
+          "pos": "sustantivo",
+          "context": "El mayor desafío de OpenAI es ganar dinero.",
+          "definition_es": "Problema difícil que necesita solución",
+          "definition_en": "Challenge"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial puede hacer muchas tareas.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence (AI)"
+        },
+        {
+          "word": "ganancias",
+          "syllables": "ga-NAN-cias",
+          "pos": "sustantivo",
+          "context": "La empresa busca aumentar sus ganancias.",
+          "definition_es": "Dinero que una empresa obtiene después de pagar gastos",
+          "definition_en": "Profits or earnings"
+        },
+        {
+          "word": "audiencia",
+          "syllables": "au-DIEN-cia",
+          "pos": "sustantivo",
+          "context": "Bondi participó en una audiencia del Senado.",
+          "definition_es": "Reunión oficial donde se hacen preguntas importantes",
+          "definition_en": "Hearing"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'enfrentarse' en el contexto político?",
+          "options": [
+            "Hacer amigos",
+            "Tener una confrontación",
+            "Trabajar juntos",
+            "Evitar problemas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'desafío'?",
+          "options": [
+            "Una celebración",
+            "Un problema fácil",
+            "Una dificultad que superar",
+            "Un premio"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'ganancias' de una empresa?",
+          "options": [
+            "Los gastos",
+            "El dinero que obtiene después de pagar costos",
+            "Los empleados",
+            "Los productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'audiencia' en política?",
+          "options": [
+            "Un concierto",
+            "Una reunión oficial con preguntas",
+            "Una película",
+            "Un restaurante"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Para qué puesto está nominada Pam Bondi?",
+          "options": [
+            "Presidenta",
+            "Fiscal general",
+            "Senadora",
+            "Jueza"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos añadió la economía estadounidense?",
+          "options": [
+            "100,000",
+            "120,000",
+            "130,000",
+            "140,000"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cómo fueron los números de empleo comparados con las expectativas?",
+          "options": [
+            "Peores",
+            "Iguales",
+            "Mejores",
+            "No se sabe"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el producto más famoso de OpenAI?",
+          "options": [
+            "Google",
+            "Facebook",
+            "ChatGPT",
+            "Instagram"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué OpenAI necesita ganar más dinero?",
+          "options": [
+            "Para comprar más oficinas",
+            "Porque mantener la IA cuesta mucho",
+            "Para contratar más empleados",
+            "Para hacer publicidad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores crearon más empleos según la historia económica?",
+          "options": [
+            "Construcción y agricultura",
+            "Servicios y tecnología",
+            "Minería y pesca",
+            "Transporte y turismo"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-12T09:14:17.800724"
+    },
+    {
       "date": "2026-02-11",
       "filename": "spanish_lesson_2026-02-11.pdf",
       "path": "pdfs/spanish_lesson_2026-02-11.pdf",
@@ -14678,7 +14900,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-11T09:15:41.918631",
+  "last_updated": "2026-02-12T09:14:17.800737",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
