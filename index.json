@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-13",
+      "filename": "spanish_lesson_2026-02-13.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-13.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Departamento de Seguridad Nacional puede cerrar por falta de acuerdo",
+          "headline_en": "Homeland Security Department may close due to lack of agreement",
+          "body_es": "El Departamento de Seguridad Nacional de Estados Unidos puede cerrar temporalmente. El Congreso no llegó a un acuerdo sobre el presupuesto antes de irse de vacaciones. Este departamento es muy importante para la protección del país. Controla las fronteras y los aeropuertos. También protege contra el terrorismo. Si cierra, muchos empleados no podrán trabajar. Otros tendrán que trabajar sin recibir dinero. Los políticos necesitan regresar y votar por un nuevo presupuesto. Mientras tanto, los servicios de seguridad nacional pueden verse afectados. Esta situación preocupa a muchos ciudadanos americanos.",
+          "body_en": "The U.S. Department of Homeland Security may temporarily close. Congress did not reach an agreement on the budget before going on vacation. This department is very important for protecting the country. It controls borders and airports. It also protects against terrorism. If it closes, many employees will not be able to work. Others will have to work without receiving money. Politicians need to return and vote on a new budget. Meanwhile, national security services may be affected. This situation worries many American citizens.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los estadounidenses pagan la cuenta de los aranceles, no otros países",
+          "headline_en": "Americans pay the bill for tariffs, not other countries",
+          "body_es": "Un nuevo estudio muestra que los aranceles afectan principalmente a los consumidores estadounidenses. Muchos políticos dijeron que otros países pagarían estos impuestos. Pero la realidad es diferente. Cuando Estados Unidos pone aranceles a productos de otros países, las empresas americanas pagan más dinero. Después, estas empresas aumentan los precios para los consumidores. Por ejemplo, si hay aranceles en productos chinos, los americanos pagan más en las tiendas. Los economistas explican que los aranceles funcionan como un impuesto interno. Los ciudadanos terminan pagando más por comida, ropa y tecnología. Esta situación afecta especialmente a las familias con menos dinero.",
+          "body_en": "A new study shows that tariffs mainly affect American consumers. Many politicians said that other countries would pay these taxes. But reality is different. When the United States puts tariffs on products from other countries, American companies pay more money. Then, these companies increase prices for consumers. For example, if there are tariffs on Chinese products, Americans pay more in stores. Economists explain that tariffs work like an internal tax. Citizens end up paying more for food, clothing, and technology. This situation especially affects families with less money.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas despiden trabajadores para enfocarse en inteligencia artificial",
+          "headline_en": "Tech companies lay off workers to focus on artificial intelligence",
+          "body_es": "El estado de Washington ve muchos despidos en empresas de tecnología. Las compañías están cambiando su forma de trabajar por la inteligencia artificial. Empresas como Microsoft y Amazon están eliminando trabajos tradicionales. Quieren invertir más dinero en tecnología AI. Esto significa que muchos empleados pierden su trabajo. Al mismo tiempo, las empresas buscan nuevos trabajadores expertos en inteligencia artificial. Los despidos afectan a programadores, diseñadores y otros profesionales. Muchos trabajadores están preocupados por su futuro. Los expertos dicen que este cambio continuará en los próximos años. Las empresas creen que la AI es el futuro de la tecnología.",
+          "body_en": "Washington state is seeing many layoffs at technology companies. Companies are changing the way they work because of artificial intelligence. Companies like Microsoft and Amazon are eliminating traditional jobs. They want to invest more money in AI technology. This means many employees lose their jobs. At the same time, companies are looking for new workers who are experts in artificial intelligence. The layoffs affect programmers, designers, and other professionals. Many workers are worried about their future. Experts say this change will continue in the coming years. Companies believe that AI is the future of technology.",
+          "source": "seattlered.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Los aranceles hacen que los productos sean más caros para los consumidores.",
+          "definition_es": "Impuestos que se pagan por importar productos de otros países",
+          "definition_en": "Taxes paid on imported goods from other countries"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas anunciaron muchos despidos este año.",
+          "definition_es": "Cuando una empresa termina el trabajo de sus empleados",
+          "definition_en": "When a company ends the employment of its workers"
+        },
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso no llegó a un acuerdo sobre el presupuesto.",
+          "definition_es": "Grupo de políticos que hacen las leyes del país",
+          "definition_en": "Group of politicians who make the country's laws"
+        },
+        {
+          "word": "consumidores",
+          "syllables": "con-su-mi-DO-res",
+          "pos": "sustantivo",
+          "context": "Los consumidores pagan precios más altos por los productos importados.",
+          "definition_es": "Personas que compran productos y servicios",
+          "definition_en": "People who buy products and services"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Las empresas usan inteligencia artificial para cambiar su trabajo.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El gobierno necesita aprobar un nuevo presupuesto para funcionar.",
+          "definition_es": "Plan de cómo gastar el dinero del gobierno",
+          "definition_en": "Plan for how to spend government money"
+        },
+        {
+          "word": "reestructurar",
+          "syllables": "re-es-truc-tu-RAR",
+          "pos": "verbo",
+          "context": "Las compañías tecnológicas van a reestructurar sus operaciones.",
+          "definition_es": "Cambiar la organización de una empresa",
+          "definition_en": "To change the organization of a company"
+        },
+        {
+          "word": "seguridad nacional",
+          "syllables": "se-gu-ri-DAD na-cio-NAL",
+          "pos": "sustantivo",
+          "context": "El Departamento de Seguridad Nacional protege el país.",
+          "definition_es": "Protección del país contra peligros y amenazas",
+          "definition_en": "Protection of the country against dangers and threats"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué son los aranceles?",
+          "options": [
+            "Impuestos sobre productos importados",
+            "Trabajadores de empresas",
+            "Edificios del gobierno",
+            "Programas de computadora"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'despidos'?",
+          "options": [
+            "Contratar nuevos empleados",
+            "Terminar el trabajo de empleados",
+            "Aumentar los salarios",
+            "Abrir nuevas oficinas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es el presupuesto del gobierno?",
+          "options": [
+            "Un edificio importante",
+            "Un plan para gastar dinero",
+            "Un tipo de impuesto",
+            "Una empresa tecnológica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Quiénes son los consumidores?",
+          "options": [
+            "Políticos del Congreso",
+            "Empleados de empresas",
+            "Personas que compran productos",
+            "Expertos en tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿por qué puede cerrar el Departamento de Seguridad Nacional?",
+          "options": [
+            "Por falta de empleados",
+            "Porque el Congreso no aprobó el presupuesto",
+            "Por problemas de terrorismo",
+            "Porque es muy caro"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia económica, ¿quién realmente paga los aranceles?",
+          "options": [
+            "Los otros países",
+            "Los consumidores estadounidenses",
+            "Solo las empresas grandes",
+            "El gobierno americano"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué está causando los despidos en las empresas tecnológicas?",
+          "options": [
+            "Problemas económicos",
+            "Falta de dinero",
+            "Cambios hacia inteligencia artificial",
+            "Competencia con otros países"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué controla el Departamento de Seguridad Nacional?",
+          "options": [
+            "Las empresas tecnológicas",
+            "Los precios de productos",
+            "Las fronteras y aeropuertos",
+            "Los aranceles internacionales"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de trabajadores buscan ahora las empresas tecnológicas?",
+          "options": [
+            "Programadores tradicionales",
+            "Expertos en inteligencia artificial",
+            "Diseñadores de páginas web",
+            "Empleados de seguridad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué efecto tienen los aranceles en las familias con menos dinero?",
+          "options": [
+            "No les afecta",
+            "Les ayuda a ahorrar",
+            "Les afecta especialmente",
+            "Solo afecta a los ricos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-13T09:13:30.826346"
+    },
+    {
       "date": "2026-02-12",
       "filename": "spanish_lesson_2026-02-12.pdf",
       "path": "pdfs/spanish_lesson_2026-02-12.pdf",
@@ -14900,7 +15122,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-12T09:14:17.800737",
+  "last_updated": "2026-02-13T09:13:30.826366",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
