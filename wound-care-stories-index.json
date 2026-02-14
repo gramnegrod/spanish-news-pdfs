@@ -1,11 +1,196 @@
 {
-  "date": "2026-02-13",
-  "generated_at": "2026-02-13T09:19:44.505617Z",
+  "date": "2026-02-14",
+  "generated_at": "2026-02-14T09:11:04.387554Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 178,
-  "new_today": 4,
+  "total_stories": 183,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250214",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El mercado de productos para curar heridas crónicas crece rápidamente",
+      "headline_en": "Chronic Wound Care Products Market Grows Rapidly",
+      "summary_es": "Los productos para el desbridamiento de heridas tienen un crecimiento anual del 9.5%. Este desarrollo ofrece nuevas opciones para tratar heridas crónicas en los pacientes.",
+      "body_es": "El mercado de productos para curar heridas crónicas está en crecimiento. Los productos de desbridamiento son muy importantes en el tratamiento de heridas. El crecimiento anual es del 9.5 por ciento. Esto significa que hay más opciones disponibles para los pacientes. Los profesionales de salud pueden usar nuevos productos para mejorar la curación. Las heridas crónicas necesitan tratamiento especial y cuidado continuo. El desbridamiento elimina el tejido muerto de la herida. Los nuevos productos facilitan este proceso. Los pacientes reciben mejor atención médica. La industria invierte en investigación para nuevas soluciones. El crecimiento del mercado beneficia a hospitales y clínicas.",
+      "body_en": "The market for chronic wound care products is growing rapidly. Debridement products are very important in wound treatment. The annual growth rate is 9.5 percent. This means more options are available for patients. Healthcare professionals can use new products to improve healing. Chronic wounds need special treatment and ongoing care. Debridement removes dead tissue from the wound. New products make this process easier. Patients receive better medical attention. The industry invests in research for new solutions. Market growth benefits hospitals and clinics.",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SX3R0U0t0YjRqOGNrMlVoUkpYOTR5WW03UFpMS1J2MmNyekVYLTBLeHhuREpBa0paWXVITWxWU1VVVG9Md3JoSjRKZ3IwYjFOVEEtQm9TZVI0dHRPSTByVF9adlhqdHFWMllQTFNma1F4Y2do?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-14/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto de una herida",
+          "definition_en": "debridement - removal of dead tissue from a wound"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "herida que no cicatriza después de varias semanas",
+          "definition_en": "chronic wound - wound that does not heal after several weeks"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso natural de cicatrización de la herida",
+          "definition_en": "healing - natural process of wound closure"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico para cubrir y proteger una herida",
+          "definition_en": "dressing - medical material to cover and protect a wound"
+        }
+      ],
+      "added_at": "2026-02-14T09:11:04.387554Z"
+    },
+    {
+      "id": "diabetic-foot-20250214",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "El ARN mitocondrial podría mejorar la cicatrización en heridas diabéticas",
+      "headline_en": "Mitochondrial RNA May Improve Healing in Diabetic Wounds",
+      "summary_es": "Investigadores descubren que el ARN mitocondrial contribuye a mejorar la cicatrización de heridas en pacientes con diabetes. Este hallazgo abre nuevas posibilidades para tratamientos más efectivos.",
+      "body_es": "Un nuevo estudio ha identificado el rol importante del ARN mitocondrial en la cicatrización de heridas diabéticas. Los investigadores encontraron que esta molécula influye en los procesos de curación. Las personas con diabetes tienen dificultades para cicatrizar heridas normalmente. El deterioro de la cicatrización ocurre porque las mitocondrias no funcionan adecuadamente. Los científicos descubrieron que manipular el ARN mitocondrial podría acelerar la curación. Este descubrimiento es promisorio para desarrollar nuevos tratamientos. Los pacientes diabéticos podrían beneficiarse de terapias basadas en esta investigación. Las heridas del pie diabético son especialmente complicadas. Requieren atención médica especializada y seguimiento regular. Este avance representa un paso importante hacia soluciones más eficaces.",
+      "body_en": "A new study has identified the important role of mitochondrial RNA in diabetic wound healing. Researchers found that this molecule influences healing processes. People with diabetes have difficulty healing wounds normally. Healing deterioration occurs because mitochondria do not function properly. Scientists discovered that manipulating mitochondrial RNA could accelerate healing. This discovery is promising for developing new treatments. Diabetic patients could benefit from therapies based on this research. Diabetic foot wounds are especially complicated. They require specialized medical attention and regular monitoring. This advance represents an important step toward more effective solutions.",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZkVoU2QyVE40SWxpdFhTSS0yRjZlMFFlMVlQcFJOOEZicHBHNzhYVW44Rm5ydXFISnJtVEZNUmotV2VoOWlybUNOcENhVVNIdHRFaDZ4OHRWUFNNWnBfYkU5SVBHTmlqUEZIbS1pRlQxdEN5ODVaTFEtd0NwWVEzTHJlZ1ZLLV9aZ2dYUThNTjg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-14/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "ARN mitocondrial",
+          "definition_es": "ácido ribonucleico en las mitocondrias de la célula",
+          "definition_en": "mitochondrial RNA - ribonucleic acid in cell mitochondria"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo en una herida",
+          "definition_en": "wound healing - process of new tissue formation"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "disminución del flujo sanguíneo en un tejido",
+          "definition_en": "ischemia - decreased blood flow to tissue"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de piel nueva sobre la herida",
+          "definition_en": "epithelialization - growth of new skin over wound"
+        }
+      ],
+      "added_at": "2026-02-14T09:11:04.387554Z"
+    },
+    {
+      "id": "burn-care-20250214",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Apósito de Poloxamer 188 en el tratamiento de quemaduras en niños",
+      "headline_en": "Poloxamer 188 Dressing in Treatment of Pediatric Burns",
+      "summary_es": "Un nuevo estudio presenta el uso del apósito Poloxamer 188 en quemaduras faciales y del cuero cabelludo en pacientes pediátricos. Los resultados muestran beneficios significativos en la cicatrización.",
+      "body_es": "Una serie de casos clínicos ha demostrado la efectividad del apósito de Poloxamer 188 en el tratamiento de quemaduras pediátricas. Este material se utilizó en quemaduras faciales y del cuero cabelludo en niños. El Poloxamer 188 es un apósito avanzado que facilita la curación. El estudio mostró que reduce el dolor durante los cambios de vendaje. Los pacientes experimentaron una cicatrización más rápida con este tratamiento. Las quemaduras en el rostro y el cuero cabelludo son particularmente delicadas. Estas áreas requieren cuidados especiales para evitar cicatrices permanentes. El apósito mantiene el ambiente húmedo necesario para la curación óptima. Los médicos observaron menos infecciones en las heridas tratadas. Este enfoque ofrece una alternativa prometedora para la atención de quemaduras pediátricas.",
+      "body_en": "A series of clinical cases has demonstrated the effectiveness of Poloxamer 188 dressing in treating pediatric burns. This material was used for facial and scalp burns in children. Poloxamer 188 is an advanced dressing that facilitates healing. The study showed it reduces pain during dressing changes. Patients experienced faster healing with this treatment. Burns on the face and scalp are particularly delicate. These areas require special care to prevent permanent scarring. The dressing maintains the moist environment necessary for optimal healing. Doctors observed fewer infections in treated wounds. This approach offers a promising alternative for pediatric burn care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaFBXNVlkVHp3alQ2WFM0WFpfS1o2Smg1eWtMVm43WlhROTJYV1lPR2ozRTJoLTdqcnIzR0MtODFPSEx2bkpFcjdZRjBaeHdRblpoRzFvVmFOdE5waWEwQ0ZqcTd4ZEE3Y0o4M04zQnpESWhldDBMSHlWS3BOMEM1eUF6cmhlYklkZXA5X2tjLXdyQWxwNlFUR2xrSFJKcGlGSE9MQ1RqQnhkUUxZLXBUTUs4RkVzSloySUpMWWRtTTJxY0RnNEU3OXZLdE5CTU80d1d1TGM4RWxZNVd3SWtxVQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-14/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o sustancia química",
+          "definition_en": "burn - skin injury caused by heat, fire, or chemical substance"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico avanzado para cubrir y tratar heridas",
+          "definition_en": "dressing - advanced medical material to cover and treat wounds"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido necrótico de la quemadura",
+          "definition_en": "debridement - removal of necrotic tissue from burn"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de la cicatrización de una herida",
+          "definition_en": "scar - mark that remains after wound healing"
+        }
+      ],
+      "added_at": "2026-02-14T09:11:04.387554Z"
+    },
+    {
+      "id": "surgical-wounds-20250214",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "La duración de la isquemia peneal afecta las complicaciones en la reparación de hipospadias",
+      "headline_en": "Penile Ischemia Duration Affects Complications in Hypospadias Repair",
+      "summary_es": "Un estudio analiza la relación entre la duración de la isquemia peneal y las complicaciones quirúrgicas en niños sometidos a reparación de hipospadias. Los resultados proporcionan información valiosa para la práctica clínica.",
+      "body_es": "Una investigación reciente ha examinado la asociación entre la duración de la isquemia peneal y las complicaciones postoperatorias en pacientes pediátricos. La hipospadias es una condición congénita que requiere corrección quirúrgica. Durante la cirugía, el flujo sanguíneo al área se interrumpe temporalmente. Los investigadores encontraron que el tiempo de isquemia influye directamente en los resultados quirúrgicos. Una isquemia prolongada aumenta el riesgo de complicaciones postoperatorias. Estas complicaciones incluyen infección, dehiscencia de suturas y fístulas. El estudio proporciona datos importantes sobre tiempos quirúrgicos óptimos. Los cirujanos pueden usar esta información para mejorar sus técnicas. La curación adecuada de la herida es crítica en estos procedimientos. Los profesionales deben minimizar el tiempo de isquemia para obtener mejores resultados.",
+      "body_en": "Recent research has examined the association between penile ischemia duration and postoperative complications in pediatric patients. Hypospadias is a congenital condition requiring surgical correction. During surgery, blood flow to the area is temporarily interrupted. Researchers found that ischemia time directly influences surgical outcomes. Prolonged ischemia increases the risk of postoperative complications. These complications include infection, suture dehiscence, and fistulas. The study provides important data about optimal surgical times. Surgeons can use this information to improve their techniques. Proper wound healing is critical in these procedures. Professionals must minimize ischemia time to achieve better results.",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUtPX1lwc05qU0Z6T0lBUlB6STkydEgyNU9QakZ0dW5LTzNfcmpycVpyRGVicEJnX1B6aXR6YzIxb3FFRlBoVG9WUmtsY0t6R2JIdS1hMWJfMjdaT3EyRTVOTlZFc0FWUF9UT0U0OElreTRoZDloaUJwNEV2dldORTV1VXUxMThmN1dVeGdNejM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-14/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "isquemia",
+          "definition_es": "restricción del flujo sanguíneo a un tejido durante la cirugía",
+          "definition_en": "ischemia - restriction of blood flow to tissue during surgery"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo médico utilizado para cerrar una herida quirúrgica",
+          "definition_en": "suture - medical thread used to close surgical wound"
+        },
+        {
+          "word": "dehiscencia",
+          "definition_es": "separación de los bordes de una herida quirúrgica",
+          "definition_en": "dehiscence - separation of surgical wound edges"
+        },
+        {
+          "word": "fístula",
+          "definition_es": "conexión anormal entre tejidos que causa complicaciones",
+          "definition_en": "fistula - abnormal connection between tissues causing complications"
+        }
+      ],
+      "added_at": "2026-02-14T09:11:04.387554Z"
+    },
+    {
+      "id": "wound-research-20250214",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Universidad de South Florida avanza en investigación de entrenamiento quirúrgico innovador",
+      "headline_en": "University of South Florida Advances Innovative Surgical Training Research",
+      "summary_es": "La Universidad de South Florida, el Hospital General de Tampa y GE HealthCare colaboran para avanzar en la investigación de entrenamiento quirúrgico de próxima generación. Esta iniciativa mejorará la innovación clínica.",
+      "body_es": "Una colaboración estratégica entre la Universidad de South Florida, el Hospital General de Tampa y GE HealthCare ha fortalecido su relación para impulsar la investigación quirúrgica avanzada. El enfoque se centra en el desarrollo de tecnologías de entrenamiento de próxima generación. Esta alianza facilita la innovación en técnicas quirúrgicas y cuidado de heridas. Los investigadores trabajan en simulaciones quirúrgicas mejoradas. El objetivo es preparar mejor a los cirujanos para procedimientos complejos. La investigación incluye métodos para optimizar la cicatrización de heridas postoperatorias. Los profesionales pueden aprender procedimientos en ambientes controlados antes de operaciones reales. Esta colaboración integra tecnología avanzada con experiencia clínica. El resultado será mejores técnicas quirúrgicas y resultados para los pacientes. La iniciativa demuestra el compromiso con la excelencia en la atención quirúrgica.",
+      "body_en": "A strategic collaboration between the University of South Florida, Tampa General Hospital, and GE HealthCare has strengthened their relationship to advance surgical research. The focus is on developing next-generation training technologies. This alliance facilitates innovation in surgical techniques and wound care. Researchers work on improved surgical simulations. The goal is to better prepare surgeons for complex procedures. Research includes methods to optimize postoperative wound healing. Professionals can learn procedures in controlled environments before actual operations. This collaboration integrates advanced technology with clinical expertise. The result will be better surgical techniques and patient outcomes. The initiative demonstrates commitment to excellence in surgical care.",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWTZVeTVnbC1vN0VTSkZfZ1RIdWdVQTJ6M3VCV2lhTDBxQk9pdjJnVGtlR28yblFlVkM1dFNrZDhfd0pHd3pwVElLeFFWMVVRUGNKWWFOZDlZTUM5b1g1R2RXU3NkTVNIUXQ1SlB5VWM1d0NSa3ZvQThlT2xJMDNlSGk3TjJ0c3V3OFNhYUJyRUdRRkUxOWxCdHF3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-14/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "entrenamiento quirúrgico",
+          "definition_es": "capacitación de cirujanos en técnicas y procedimientos avanzados",
+          "definition_en": "surgical training - training of surgeons in advanced techniques and procedures"
+        },
+        {
+          "word": "innovación clínica",
+          "definition_es": "desarrollo de nuevos métodos y tecnologías en la práctica médica",
+          "definition_en": "clinical innovation - development of new methods and technologies in medical practice"
+        },
+        {
+          "word": "simulación",
+          "definition_es": "recreación de un procedimiento quirúrgico para propósitos educativos",
+          "definition_en": "simulation - recreation of surgical procedure for educational purposes"
+        },
+        {
+          "word": "cicatrización postoperatoria",
+          "definition_es": "proceso de curación de heridas después de una cirugía",
+          "definition_en": "postoperative healing - wound healing process after surgery"
+        }
+      ],
+      "added_at": "2026-02-14T09:11:04.387554Z"
+    },
     {
       "id": "chronic-wounds-20250213",
       "category": "Chronic Wounds",
@@ -6587,6 +6772,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-13T09:19:44.505617Z",
+  "last_updated": "2026-02-14T09:11:04.387554Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
