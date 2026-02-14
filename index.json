@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-14",
+      "filename": "spanish_lesson_2026-02-14.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-14.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Departamento de Seguridad Nacional se queda sin dinero",
+          "headline_en": "Department of Homeland Security runs out of money",
+          "body_es": "El Departamento de Seguridad Nacional de Estados Unidos se quedó sin presupuesto esta semana. Esto pasó porque las negociaciones en el Congreso no funcionaron bien. Los políticos no pudieron ponerse de acuerdo sobre las políticas de inmigración. El departamento es muy importante porque protege las fronteras del país. Sin dinero, muchos programas de seguridad pueden tener problemas. Los empleados del gobierno están preocupados por esta situación. Las negociaciones continúan, pero todavía no hay una solución clara. Este problema afecta la seguridad nacional del país.",
+          "body_en": "The US Department of Homeland Security ran out of budget this week. This happened because negotiations in Congress didn't work well. Politicians couldn't agree on immigration policies. The department is very important because it protects the country's borders. Without money, many security programs may have problems. Government employees are worried about this situation. Negotiations continue, but there's still no clear solution. This problem affects the country's national security.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La inflación en Estados Unidos baja al 2.4% en enero",
+          "headline_en": "US inflation drops to 2.4% in January",
+          "body_es": "La inflación en Estados Unidos bajó al 2.4% en enero de este año. Esto es una buena noticia para la economía del país. Los aranceles del presidente Trump causaron cambios en los precios durante los meses pasados. Muchos productos costaron más dinero por estas nuevas políticas comerciales. Ahora, los precios están más estables y los ciudadanos pueden comprar productos más baratos. Los expertos en economía dicen que esta es una tendencia positiva. Las familias americanas van a tener más dinero para gastar en otras cosas importantes. El gobierno espera que la inflación continúe bajando en los próximos meses.",
+          "body_en": "Inflation in the United States dropped to 2.4% in January this year. This is good news for the country's economy. President Trump's tariffs caused price changes during past months. Many products cost more money because of these new trade policies. Now, prices are more stable and citizens can buy cheaper products. Economics experts say this is a positive trend. American families will have more money to spend on other important things. The government hopes inflation will continue dropping in the coming months.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "OpenAI crea tecnología para controlar drones con la voz",
+          "headline_en": "OpenAI creates technology to control drones with voice",
+          "body_es": "La empresa OpenAI está trabajando en una nueva tecnología muy interesante. Van a crear un sistema para controlar grupos de drones usando solamente la voz. El gobierno de Estados Unidos quiere probar esta tecnología en sus operaciones militares. Los soldados podrán dar órdenes a los drones hablando en lugar de usar computadoras. Esta innovación puede cambiar la forma de hacer operaciones de seguridad. OpenAI es famosa por crear sistemas de inteligencia artificial muy avanzados. La tecnología de control por voz va a hacer el trabajo militar más fácil y rápido. Las pruebas van a empezar pronto en diferentes lugares del país.",
+          "body_en": "The company OpenAI is working on a very interesting new technology. They will create a system to control drone groups using only voice. The US government wants to test this technology in its military operations. Soldiers will be able to give orders to drones by speaking instead of using computers. This innovation can change how security operations are done. OpenAI is famous for creating very advanced artificial intelligence systems. Voice control technology will make military work easier and faster. Testing will start soon in different places around the country.",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El Departamento de Seguridad Nacional se quedó sin presupuesto después de las negociaciones.",
+          "definition_es": "Plan de gastos y ingresos de dinero",
+          "definition_en": "Budget"
+        },
+        {
+          "word": "negociaciones",
+          "syllables": "ne-go-cia-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las negociaciones sobre inmigración no tuvieron éxito en el Congreso.",
+          "definition_es": "Conversaciones para llegar a un acuerdo",
+          "definition_en": "Negotiations"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación en Estados Unidos bajó al 2.4% en enero.",
+          "definition_es": "Aumento general de los precios",
+          "definition_en": "Inflation"
+        },
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Los aranceles de Trump causaron cambios en los precios de los productos.",
+          "definition_es": "Impuestos sobre productos importados",
+          "definition_en": "Tariffs"
+        },
+        {
+          "word": "drones",
+          "syllables": "DRO-nes",
+          "pos": "sustantivo",
+          "context": "OpenAI desarrolla tecnología para controlar drones con la voz.",
+          "definition_es": "Aviones sin piloto controlados a distancia",
+          "definition_en": "Drones"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología permite controlar máquinas con comandos de voz.",
+          "definition_es": "Conocimientos científicos aplicados a crear herramientas",
+          "definition_en": "Technology"
+        },
+        {
+          "word": "seguridad",
+          "syllables": "se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "El Departamento de Seguridad Nacional protege las fronteras del país.",
+          "definition_es": "Protección contra peligros o amenazas",
+          "definition_en": "Security"
+        },
+        {
+          "word": "precios",
+          "syllables": "PRE-cios",
+          "pos": "sustantivo",
+          "context": "Los precios de los productos cambiaron por las nuevas políticas comerciales.",
+          "definition_es": "Cantidad de dinero que cuesta algo",
+          "definition_en": "Prices"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'presupuesto'?",
+          "options": [
+            "Plan de gastos y ingresos",
+            "Tipo de comida",
+            "Documento legal",
+            "Programa de televisión"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Los 'aranceles' son:",
+          "options": [
+            "Tipos de música",
+            "Impuestos sobre productos importados",
+            "Animales marinos",
+            "Herramientas de cocina"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'drones'?",
+          "options": [
+            "Instrumentos musicales",
+            "Tipos de plantas",
+            "Aviones sin piloto",
+            "Comidas típicas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La palabra 'inflación' se refiere a:",
+          "options": [
+            "El aumento de precios",
+            "Una enfermedad",
+            "Un tipo de ejercicio",
+            "Una celebración"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué el Departamento de Seguridad Nacional se quedó sin dinero?",
+          "options": [
+            "Por un terremoto",
+            "Porque las negociaciones fallaron",
+            "Por una huelga",
+            "Por el mal clima"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿A qué porcentaje bajó la inflación en Estados Unidos?",
+          "options": [
+            "2.4%",
+            "3.5%",
+            "1.8%",
+            "4.2%"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué causó cambios en los precios según la historia de economía?",
+          "options": [
+            "Los aranceles de Trump",
+            "Una guerra",
+            "El mal tiempo",
+            "Los deportes"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa está creando tecnología para controlar drones?",
+          "options": [
+            "Microsoft",
+            "Google",
+            "OpenAI",
+            "Apple"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cómo van a controlar los drones según la nueva tecnología?",
+          "options": [
+            "Con las manos",
+            "Con la voz",
+            "Con los ojos",
+            "Con los pies"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué departamento protege las fronteras de Estados Unidos?",
+          "options": [
+            "Departamento de Educación",
+            "Departamento de Seguridad Nacional",
+            "Departamento de Salud",
+            "Departamento de Deportes"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-14T09:06:08.029758"
+    },
+    {
       "date": "2026-02-13",
       "filename": "spanish_lesson_2026-02-13.pdf",
       "path": "pdfs/spanish_lesson_2026-02-13.pdf",
@@ -15122,7 +15344,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-13T09:13:30.826366",
+  "last_updated": "2026-02-14T09:06:08.029772",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
