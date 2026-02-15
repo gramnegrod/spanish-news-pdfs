@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-15",
+      "filename": "spanish_lesson_2026-02-15.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-15.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trabajadores de Aeropuertos Temen Nuevo Cierre del Gobierno",
+          "headline_en": "Airport Workers Fear New Government Shutdown",
+          "body_es": "Los trabajadores de seguridad de los aeropuertos estadounidenses están preocupados. Puede haber otro cierre del gobierno federal pronto. Durante estos cierres, muchos trabajadores no reciben su salario. Pero deben seguir trabajando para mantener seguros los aeropuertos. Los trabajadores dicen que no causaron los problemas políticos en Washington. Sin embargo, sus familias sufren cuando no hay dinero. La Administración de Seguridad del Transporte emplea a miles de personas. Estas personas revisan equipaje y pasajeros todos los días. Es un trabajo muy importante para la seguridad nacional. Los trabajadores esperan que los políticos resuelvan sus diferencias rápidamente. No quieren trabajar sin recibir dinero otra vez.",
+          "body_en": "Airport security workers in the United States are worried. There may be another federal government shutdown soon. During these shutdowns, many workers don't receive their salary. But they must continue working to keep airports safe. The workers say they didn't cause the political problems in Washington. However, their families suffer when there's no money. The Transportation Security Administration employs thousands of people. These people check luggage and passengers every day. It's a very important job for national security. Workers hope politicians resolve their differences quickly. They don't want to work without receiving money again.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Economía de Estados Unidos Evita Recesión con Baja Inflación",
+          "headline_en": "US Economy Avoids Recession with Low Inflation",
+          "body_es": "La economía de Estados Unidos tiene buenas noticias. Los expertos dicen que el país logró algo muy difícil. La inflación bajó al 2% sin causar una recesión. Esto se llama un \"aterrizaje suave\" en economía. Significa que los precios no suben mucho, pero la economía sigue creciendo. Muchos economistas pensaron que era imposible. Generalmente, para bajar la inflación, la economía debe parar un poco. Pero Estados Unidos evitó este problema. Las empresas siguen contratando trabajadores. Las personas continúan comprando productos. El banco central del país subió las tasas de interés lentamente. Esta estrategia funcionó muy bien. Los ciudadanos pueden comprar más cosas porque los precios no suben tanto.",
+          "body_en": "The US economy has good news. Experts say the country achieved something very difficult. Inflation fell to 2% without causing a recession. This is called a 'soft landing' in economics. It means prices don't rise much, but the economy keeps growing. Many economists thought it was impossible. Generally, to lower inflation, the economy must slow down a bit. But the United States avoided this problem. Companies continue hiring workers. People continue buying products. The country's central bank raised interest rates slowly. This strategy worked very well. Citizens can buy more things because prices don't rise so much.",
+          "source": "MarketWatch"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas Cambian Nombres para Parecer Compañías de Inteligencia Artificial",
+          "headline_en": "Companies Change Names to Appear Like AI Companies",
+          "body_es": "Muchas empresas estadounidenses están cambiando sus nombres y descripciones. Quieren parecer compañías de inteligencia artificial. Antes vendían software normal, pero ahora dicen que usan IA en todo. Los inversores prefieren empresas con tecnología moderna. Por eso, las compañías cambian su imagen para conseguir más dinero. Algunas empresas realmente usan inteligencia artificial en sus productos. Pero otras solo cambian las palabras que usan para describir su trabajo. Es una tendencia muy popular en el mundo de los negocios. Los expertos dicen que los inversores deben ser cuidadosos. Deben investigar si las empresas realmente tienen tecnología de IA. No todas las compañías que dicen usar IA la usan de verdad. Es importante leer bien antes de invertir dinero.",
+          "body_en": "Many American companies are changing their names and descriptions. They want to appear like artificial intelligence companies. Before they sold normal software, but now they say they use AI in everything. Investors prefer companies with modern technology. That's why companies change their image to get more money. Some companies really use artificial intelligence in their products. But others only change the words they use to describe their work. It's a very popular trend in the business world. Experts say investors should be careful. They should investigate if companies really have AI technology. Not all companies that claim to use AI actually use it. It's important to read carefully before investing money.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "Los trabajadores del aeropuerto temen otro cierre del gobierno.",
+          "definition_es": "Acción de cerrar o parar una actividad",
+          "definition_en": "Shutdown, closure"
+        },
+        {
+          "word": "trabajadores",
+          "syllables": "tra-ba-ja-DO-res",
+          "pos": "sustantivo",
+          "context": "Los trabajadores de seguridad no causaron el problema político.",
+          "definition_es": "Personas que hacen un trabajo",
+          "definition_en": "Workers"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación bajó al 2% este año.",
+          "definition_es": "Aumento general de los precios",
+          "definition_en": "Inflation"
+        },
+        {
+          "word": "recesión",
+          "syllables": "re-ce-SIÓN",
+          "pos": "sustantivo",
+          "context": "Estados Unidos evitó una recesión económica.",
+          "definition_es": "Período de problemas económicos",
+          "definition_en": "Recession"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Muchas empresas ahora dicen que usan inteligencia artificial.",
+          "definition_es": "Organización que vende productos o servicios",
+          "definition_en": "Company"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Las empresas de inteligencia artificial son muy populares ahora.",
+          "definition_es": "Tecnología que imita el pensamiento humano",
+          "definition_en": "Artificial intelligence"
+        },
+        {
+          "word": "aeropuerto",
+          "syllables": "ae-ro-PUER-to",
+          "pos": "sustantivo",
+          "context": "Los aeropuertos necesitan trabajadores de seguridad todos los días.",
+          "definition_es": "Lugar donde llegan y salen los aviones",
+          "definition_en": "Airport"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense está mejor que el año pasado.",
+          "definition_es": "Sistema de dinero y comercio de un país",
+          "definition_en": "Economy"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'cierre' en el contexto del gobierno?",
+          "options": [
+            "Abrir una oficina",
+            "Parar las actividades oficiales",
+            "Construir un edificio",
+            "Contratar empleados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es la inflación?",
+          "options": [
+            "Cuando bajan los precios",
+            "Cuando suben los precios",
+            "Cuando hay más trabajo",
+            "Cuando cierran empresas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Dónde trabajan los 'trabajadores de seguridad' mencionados en las noticias?",
+          "options": [
+            "En bancos",
+            "En aeropuertos",
+            "En hospitales",
+            "En escuelas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'inteligencia artificial'?",
+          "options": [
+            "Personas muy inteligentes",
+            "Tecnología que imita el pensamiento humano",
+            "Libros sobre ciencia",
+            "Computadoras muy rápidas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la noticia política, ¿por qué están preocupados los trabajadores de aeropuertos?",
+          "options": [
+            "Porque hay pocos pasajeros",
+            "Porque pueden no recibir salario durante un cierre",
+            "Porque trabajan demasiado",
+            "Porque los aeropuertos son peligrosos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿A qué porcentaje bajó la inflación en Estados Unidos?",
+          "options": [
+            "1%",
+            "2%",
+            "3%",
+            "4%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué es un 'aterrizaje suave' en economía?",
+          "options": [
+            "Cuando suben mucho los precios",
+            "Cuando hay recesión",
+            "Cuando baja la inflación sin recesión",
+            "Cuando cierran empresas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué las empresas quieren parecer compañías de inteligencia artificial?",
+          "options": [
+            "Para conseguir más dinero de inversores",
+            "Para contratar más empleados",
+            "Para vender más productos",
+            "Para cambiar de país"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué deben hacer los inversores según los expertos?",
+          "options": [
+            "Invertir en cualquier empresa",
+            "No invertir nunca",
+            "Investigar si las empresas realmente usan IA",
+            "Solo invertir en empresas grandes"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tienen en común las tres noticias?",
+          "options": [
+            "Todas hablan de problemas económicos",
+            "Todas mencionan el gobierno",
+            "Todas hablan de situaciones actuales en Estados Unidos",
+            "Todas mencionan tecnología"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-15T09:06:39.741337"
+    },
+    {
       "date": "2026-02-14",
       "filename": "spanish_lesson_2026-02-14.pdf",
       "path": "pdfs/spanish_lesson_2026-02-14.pdf",
@@ -15344,7 +15566,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-14T09:06:08.029772",
+  "last_updated": "2026-02-15T09:06:39.741354",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
