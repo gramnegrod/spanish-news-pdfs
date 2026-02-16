@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-16",
+      "filename": "spanish_lesson_2026-02-16.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-16.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El gobierno estadounidense continúa cerrado por conflicto migratorio",
+          "headline_en": "US government remains shut down due to immigration conflict",
+          "body_es": "El gobierno de Estados Unidos está parcialmente cerrado desde hace varios días. El problema comenzó por una batalla política sobre las leyes de inmigración. Los políticos del Congreso no pueden ponerse de acuerdo sobre nuevas reglas migratorias. Durante el cierre, muchos empleados del gobierno federal no pueden trabajar. Los servicios públicos más importantes continúan funcionando, pero otros están suspendidos. Esta situación afecta a miles de trabajadores federales y sus familias. Los líderes políticos buscan una solución, pero las negociaciones son muy difíciles. El cierre del gobierno puede durar más tiempo si no hay un acuerdo pronto.",
+          "body_en": "The US government has been partially shut down for several days. The problem started due to a political battle over immigration laws. Congress politicians cannot agree on new immigration rules. During the shutdown, many federal government employees cannot work. The most important public services continue operating, but others are suspended. This situation affects thousands of federal workers and their families. Political leaders are looking for a solution, but negotiations are very difficult. The government shutdown may last longer if there is no agreement soon.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Trump tiene grandes planes para el petróleo de Venezuela",
+          "headline_en": "Trump has big plans for Venezuela's oil",
+          "body_es": "El presidente Trump quiere cambiar las relaciones comerciales con Venezuela. Su objetivo principal es el petróleo venezolano. Venezuela tiene las reservas de petróleo más grandes del mundo, pero tiene muchos problemas económicos y políticos. Trump cree que Estados Unidos puede ayudar a desarrollar la industria petrolera venezolana. Sin embargo, muchos expertos dudan si estos planes son factibles. Las sanciones económicas contra Venezuela hacen la situación muy complicada. También hay problemas de infraestructura en Venezuela que dificultan la producción de petróleo. Los analistas dicen que los planes de Trump necesitan muchos cambios políticos primero. La situación en Venezuela debe mejorar antes de hacer grandes inversiones.",
+          "body_en": "President Trump wants to change trade relations with Venezuela. His main objective is Venezuelan oil. Venezuela has the world's largest oil reserves, but has many economic and political problems. Trump believes the United States can help develop Venezuela's oil industry. However, many experts doubt whether these plans are feasible. Economic sanctions against Venezuela make the situation very complicated. There are also infrastructure problems in Venezuela that make oil production difficult. Analysts say Trump's plans need many political changes first. The situation in Venezuela must improve before making large investments.",
+          "source": "BBC"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Directores tecnológicos viajan a India para cumbre de inteligencia artificial",
+          "headline_en": "Tech CEOs travel to India for artificial intelligence summit",
+          "body_es": "Los directores de las empresas tecnológicas más importantes del mundo van a India. Sam Altman de OpenAI y Sundar Pichai de Google participarán en una cumbre sobre inteligencia artificial. Esta reunión es muy importante porque India es un mercado clave para la tecnología. El país tiene más de mil millones de habitantes y muchas personas usan internet y teléfonos móviles. Las empresas tecnológicas quieren expandir sus negocios en India. La inteligencia artificial es una tecnología muy popular ahora. Los directores hablarán sobre el futuro de la IA y cómo puede ayudar a la gente en India. Esta cumbre puede crear nuevas oportunidades de negocio entre Estados Unidos e India.",
+          "body_en": "The directors of the world's most important technology companies are going to India. Sam Altman from OpenAI and Sundar Pichai from Google will participate in an artificial intelligence summit. This meeting is very important because India is a key market for technology. The country has more than one billion inhabitants and many people use internet and mobile phones. Technology companies want to expand their businesses in India. Artificial intelligence is a very popular technology now. The directors will talk about the future of AI and how it can help people in India. This summit can create new business opportunities between the United States and India.",
+          "source": "CNBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno afecta a muchos empleados federales.",
+          "definition_es": "Acción de cerrar o suspender actividades",
+          "definition_en": "Shutdown, closure"
+        },
+        {
+          "word": "inmigración",
+          "syllables": "in-mi-gra-CIÓN",
+          "pos": "sustantivo",
+          "context": "El debate sobre inmigración causa problemas en el Congreso.",
+          "definition_es": "Llegada de personas de otros países para vivir",
+          "definition_en": "Immigration"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "Venezuela tiene grandes reservas de petróleo.",
+          "definition_es": "Líquido negro usado para hacer gasolina",
+          "definition_en": "Oil, petroleum"
+        },
+        {
+          "word": "factible",
+          "syllables": "fac-TI-ble",
+          "pos": "adjetivo",
+          "context": "Los expertos dudan si el plan es factible.",
+          "definition_es": "Que se puede hacer o realizar",
+          "definition_en": "Feasible, possible"
+        },
+        {
+          "word": "cumbre",
+          "syllables": "CUM-bre",
+          "pos": "sustantivo",
+          "context": "Los directores van a una cumbre de inteligencia artificial.",
+          "definition_es": "Reunión importante de líderes",
+          "definition_en": "Summit, meeting"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "India es un mercado clave para la tecnología.",
+          "definition_es": "Lugar donde se compran y venden productos",
+          "definition_en": "Market"
+        },
+        {
+          "word": "batalla",
+          "syllables": "ba-TA-lla",
+          "pos": "sustantivo",
+          "context": "Hay una batalla política sobre las leyes de inmigración.",
+          "definition_es": "Lucha o conflicto entre grupos",
+          "definition_en": "Battle, fight"
+        },
+        {
+          "word": "reservas",
+          "syllables": "re-SER-vas",
+          "pos": "sustantivo",
+          "context": "Las reservas de petróleo son importantes para la economía.",
+          "definition_es": "Cantidades guardadas para el futuro",
+          "definition_en": "Reserves"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'factible'?",
+          "options": [
+            "Imposible de hacer",
+            "Que se puede hacer",
+            "Muy caro",
+            "Muy fácil"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una 'cumbre' es:",
+          "options": [
+            "Una montaña alta",
+            "Una reunión importante",
+            "Un problema grande",
+            "Un edificio"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es el 'petróleo'?",
+          "options": [
+            "Un metal precioso",
+            "Un líquido para hacer gasolina",
+            "Un tipo de comida",
+            "Una moneda"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un 'cierre' del gobierno significa:",
+          "options": [
+            "Abrir nuevas oficinas",
+            "Suspender actividades",
+            "Contratar más empleados",
+            "Bajar los impuestos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué está cerrado parcialmente el gobierno de Estados Unidos?",
+          "options": [
+            "Por falta de dinero",
+            "Por un conflicto sobre inmigración",
+            "Por las vacaciones",
+            "Por problemas técnicos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué país tiene las reservas de petróleo más grandes del mundo?",
+          "options": [
+            "Estados Unidos",
+            "Arabia Saudí",
+            "Venezuela",
+            "México"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Quién es Sam Altman?",
+          "options": [
+            "Director de Google",
+            "Director de OpenAI",
+            "Presidente de India",
+            "Director de Microsoft"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué es India importante para las empresas tecnológicas?",
+          "options": [
+            "Tiene petróleo",
+            "Es un mercado clave con muchos habitantes",
+            "Tiene el gobierno más grande",
+            "Produce computadoras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué dificulta los planes de Trump para el petróleo venezolano?",
+          "options": [
+            "El precio del petróleo",
+            "Las sanciones económicas y problemas de infraestructura",
+            "La falta de trabajadores",
+            "El clima de Venezuela"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Sobre qué tema principal hablarán en la cumbre de India?",
+          "options": [
+            "Petróleo",
+            "Inmigración",
+            "Inteligencia artificial",
+            "Política"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-16T09:15:53.943269"
+    },
+    {
       "date": "2026-02-15",
       "filename": "spanish_lesson_2026-02-15.pdf",
       "path": "pdfs/spanish_lesson_2026-02-15.pdf",
@@ -15566,7 +15788,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-15T09:06:39.741354",
+  "last_updated": "2026-02-16T09:15:53.943284",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
