@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-17",
+      "filename": "spanish_lesson_2026-02-17.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-17.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trabajadores de seguridad aérea trabajan sin cobrar durante cierre del gobierno",
+          "headline_en": "Airport security workers work without pay during government shutdown",
+          "body_es": "Los empleados de la TSA (Administración de Seguridad del Transporte) están trabajando sin recibir su sueldo. Esto pasa porque el gobierno estadounidense está cerrado parcialmente. Los trabajadores de la TSA son muy importantes para la seguridad en los aeropuertos. Ellos revisan las maletas y comprueban que los pasajeros no lleven objetos peligrosos. Durante el cierre del gobierno, estos empleados deben seguir trabajando aunque no reciban dinero. Esta situación es muy difícil para las familias de estos trabajadores. El cierre del gobierno afecta a muchos servicios públicos importantes. Los empleados esperan que el gobierno resuelva pronto este problema para poder recibir su pago.",
+          "body_en": "TSA (Transportation Security Administration) employees are working without receiving their salary. This happens because the US government is partially shut down. TSA workers are very important for airport security. They check bags and verify that passengers don't carry dangerous objects. During the government shutdown, these employees must continue working even though they don't receive money. This situation is very difficult for these workers' families. The government shutdown affects many important public services. Employees hope the government will solve this problem soon so they can receive their pay.",
+          "source": "ABC7 Los Angeles"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El dólar mantiene sus ganancias mientras los mercados esperan noticias económicas",
+          "headline_en": "Dollar holds gains while markets await economic news",
+          "body_es": "El dólar estadounidense está manteniendo sus ganancias en los mercados financieros. Hay poco movimiento en el comercio porque es temporada baja. Los inversores están esperando información importante del Banco Central de Estados Unidos (Fed). También esperan conocer los datos del PIB (Producto Interior Bruto) del país. El PIB muestra si la economía está creciendo o no. Esta información es muy importante para saber cómo está la economía americana. Los mercados financieros siempre reaccionan a estas noticias. Si los datos son buenos, el dólar puede subir más. Si son malos, puede bajar. Los expertos en economía estudian estos números para predecir qué va a pasar con el dinero y los mercados en el futuro.",
+          "body_en": "The US dollar is maintaining its gains in financial markets. There's little trading movement because it's a slow season. Investors are waiting for important information from the Federal Reserve (Fed). They're also waiting to learn the country's GDP (Gross Domestic Product) data. GDP shows whether the economy is growing or not. This information is very important to know how the American economy is doing. Financial markets always react to this news. If the data is good, the dollar can rise more. If it's bad, it can fall. Economic experts study these numbers to predict what will happen with money and markets in the future.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El mercado de inteligencia artificial pierde un billón de dólares por expectativas muy altas",
+          "headline_en": "AI market loses one trillion dollars due to very high expectations",
+          "body_es": "El mercado de la inteligencia artificial (IA) ha perdido un billón de dólares en valor. Esta gran pérdida ocurrió porque los inversores pensaban que todas las empresas de tecnología iban a ganar mucho dinero. Los inversores pusieron demasiado dinero en empresas de IA. Creían que todas estas empresas iban a tener mucho éxito. Sin embargo, no todas las empresas de tecnología están ganando lo que se esperaba. Algunas empresas no están cumpliendo las expectativas de los inversores. Por eso, el valor de estas empresas ha bajado mucho. Esta situación muestra que invertir en tecnología puede ser muy arriesgado. Los expertos dicen que es importante ser más cuidadoso al invertir dinero en nuevas tecnologías como la inteligencia artificial.",
+          "body_en": "The artificial intelligence (AI) market has lost one trillion dollars in value. This big loss happened because investors thought all tech companies were going to make a lot of money. Investors put too much money into AI companies. They believed all these companies would be very successful. However, not all tech companies are earning what was expected. Some companies aren't meeting investors' expectations. That's why the value of these companies has dropped a lot. This situation shows that investing in technology can be very risky. Experts say it's important to be more careful when investing money in new technologies like artificial intelligence.",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "Durante el cierre del gobierno, los empleados trabajan sin sueldo.",
+          "definition_es": "Cuando algo se para o se detiene temporalmente",
+          "definition_en": "shutdown, closure"
+        },
+        {
+          "word": "sueldo",
+          "syllables": "SUEL-do",
+          "pos": "sustantivo",
+          "context": "Los trabajadores de TSA no reciben su sueldo durante el cierre.",
+          "definition_es": "Dinero que se paga a una persona por su trabajo",
+          "definition_en": "salary, pay"
+        },
+        {
+          "word": "ganancias",
+          "syllables": "ga-NAN-cias",
+          "pos": "sustantivo",
+          "context": "El dólar mantiene sus ganancias en el mercado financiero.",
+          "definition_es": "Dinero que se obtiene como beneficio",
+          "definition_en": "gains, profits"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados esperan las noticias de la economía americana.",
+          "definition_es": "Lugares donde se compran y venden productos o acciones",
+          "definition_en": "markets"
+        },
+        {
+          "word": "inversores",
+          "syllables": "in-ver-SO-res",
+          "pos": "sustantivo",
+          "context": "Los inversores perdieron mucho dinero con las empresas de tecnología.",
+          "definition_es": "Personas que ponen dinero en empresas para ganar más",
+          "definition_en": "investors"
+        },
+        {
+          "word": "pérdidas",
+          "syllables": "PÉR-di-das",
+          "pos": "sustantivo",
+          "context": "Las pérdidas en el sector de inteligencia artificial fueron enormes.",
+          "definition_es": "Dinero que se pierde en una inversión",
+          "definition_en": "losses"
+        },
+        {
+          "word": "esperar",
+          "syllables": "es-pe-RAR",
+          "pos": "verbo",
+          "context": "Los mercados esperan información importante del gobierno.",
+          "definition_es": "Quedarse hasta que algo pase",
+          "definition_en": "to wait, to expect"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Muchas empresas de tecnología perdieron valor en el mercado.",
+          "definition_es": "Organizaciones que hacen negocios",
+          "definition_en": "companies"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'sueldo'?",
+          "options": [
+            "Dinero que se paga por el trabajo",
+            "Un tipo de comida",
+            "Un edificio del gobierno",
+            "Una máquina del aeropuerto"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'inversores'?",
+          "options": [
+            "Trabajadores del aeropuerto",
+            "Personas que ponen dinero en empresas",
+            "Empleados del gobierno",
+            "Expertos en computadoras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'ganancias'?",
+          "options": [
+            "Pérdidas de dinero",
+            "Beneficios o dinero ganado",
+            "Empleados sin pago",
+            "Cierre del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'cierre' en el contexto del gobierno?",
+          "options": [
+            "Abrir más oficinas",
+            "Parar servicios temporalmente",
+            "Contratar más empleados",
+            "Subir los sueldos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia sobre la TSA, ¿por qué los trabajadores no reciben su sueldo?",
+          "options": [
+            "Porque están de vacaciones",
+            "Porque el gobierno está cerrado",
+            "Porque no quieren trabajar",
+            "Porque cambiaron de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué están esperando los mercados financieros según la segunda historia?",
+          "options": [
+            "Noticias del aeropuerto",
+            "Información del Fed y datos del PIB",
+            "Nuevos empleados",
+            "El fin del cierre"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero perdió el mercado de inteligencia artificial?",
+          "options": [
+            "Un millón de dólares",
+            "Cien mil dólares",
+            "Un billón de dólares",
+            "Diez mil dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué trabajo hacen los empleados de la TSA?",
+          "options": [
+            "Venden boletos de avión",
+            "Revisan maletas y comprueban la seguridad",
+            "Pilotean aviones",
+            "Limpian los aeropuertos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué ocurrieron las pérdidas en el mercado de IA?",
+          "options": [
+            "Porque cerró el gobierno",
+            "Porque los inversores tenían expectativas muy altas",
+            "Porque bajó el dólar",
+            "Porque no hay tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué muestra el PIB según la historia económica?",
+          "options": [
+            "El número de empleados del gobierno",
+            "Si la economía está creciendo o no",
+            "El precio de la tecnología",
+            "La seguridad de los aeropuertos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-17T09:15:08.174304"
+    },
+    {
       "date": "2026-02-16",
       "filename": "spanish_lesson_2026-02-16.pdf",
       "path": "pdfs/spanish_lesson_2026-02-16.pdf",
@@ -15788,7 +16010,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-16T09:15:53.943284",
+  "last_updated": "2026-02-17T09:15:08.174323",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
