@@ -1,11 +1,122 @@
 {
-  "date": "2026-02-16",
-  "generated_at": "2026-02-16T09:22:55.070445Z",
+  "date": "2026-02-17",
+  "generated_at": "2026-02-17T09:20:53.076764Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 190,
+  "total_stories": 193,
   "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250217",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La realidad del cuidado de heridas crónicas en la clínica",
+      "headline_en": "The Reality of Chronic Wound Care in Clinical Practice",
+      "summary_es": "Los profesionales de la salud enfrentan diferencias importantes entre lo que esperan y lo que ocurre realmente en el tratamiento de heridas crónicas. El cuidado efectivo requiere paciencia, evaluación constante y ajustes en el plan de tratamiento.",
+      "body_es": "Las heridas crónicas son lesiones que no cicatrizan en el tiempo esperado. Los enfermeros y especialistas en cuidado de heridas ven diferencias entre la teoría y la práctica clínica. Esperamos resultados rápidos, pero la curación real toma más tiempo. Las úlceras de presión, las úlceras diabéticas y las heridas venosas requieren evaluación regular. El vendaje correcto es importante. La medición del exudado ayuda a controlar la infección. El desbridamiento de tejido necrótico es necesario a veces. Los profesionales deben educar a los pacientes sobre el autocuidado. La paciencia y la consistencia son esenciales para la cicatrización. Cada herida es diferente y requiere un plan personalizado.",
+      "body_en": "Chronic wounds are injuries that do not heal within expected timeframes. Nurses and wound care specialists observe differences between theory and clinical practice. We expect rapid results, but actual healing takes longer. Pressure ulcers, diabetic ulcers, and venous wounds require regular evaluation. Proper dressing is important. Measuring wound exudate helps monitor for infection. Debridement of necrotic tissue is sometimes necessary. Healthcare professionals must educate patients about self-care. Patience and consistency are essential for healing. Each wound is different and requires a personalized plan.",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbXBkaTBwRk1MazZmNmNlZHgtSkI4SnBMbURPWFdXaGFCcnRTcEN2NlFmVktYZFVCZ3hiT3F1ZnZOLWF2X3Z2NXI3aG1yYVBmVVB2RjNlUHdWa1I1ejVtb2l0MmFyYXY4WHV1LWRWVVhvQWFpRzdGZkU5ZlhEYTgtUkVVemVuNS1JODF5RTR3QQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-17/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal timeframe"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "apósito o material para cubrir una herida",
+          "definition_en": "dressing - material used to cover a wound"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "removal of dead or damaged tissue from a wound",
+          "definition_en": "removal of dead or damaged tissue"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that drains from a wound"
+        }
+      ],
+      "added_at": "2026-02-17T09:20:53.076764Z"
+    },
+    {
+      "id": "burn-care-20250217",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Equipo quirúrgico restaura el antebrazo de paciente tras quemaduras por ácido",
+      "headline_en": "Surgical Team Restores Patient's Forearm Following Acid Burns",
+      "summary_es": "Un equipo médico en Mangaluru logró salvar el antebrazo de un paciente que sufrió quemaduras severas por ácido. El caso demuestra la importancia del tratamiento especializado y la intervención quirúrgica inmediata en quemaduras químicas graves.",
+      "body_es": "Un paciente fue atendido de emergencia después de sufrir quemaduras graves por ácido en su antebrazo durante un accidente laboral en Dubai. El hospital Father Muller en Mangaluru realizó un procedimiento quirúrgico complejo para restaurar la función y la apariencia del miembro afectado. Las quemaduras por ácido requieren tratamiento inmediato para neutralizar la sustancia química. El equipo médico evaluó la profundidad de la lesión y determinó que se necesitaba cirugía reconstructiva. Durante el tratamiento, los profesionales controlaron la infección, manejaron el dolor y realizaron el desbridamiento del tejido necrótico. La cicatrización requería cuidados especializados y vendajes apropiados. Después de varios meses de tratamiento intensivo y seguimiento regular, el paciente recuperó significativamente la función de su antebrazo. Este caso muestra que el tratamiento temprano y especializado es crítico en las quemaduras químicas severas.",
+      "body_en": "A patient was treated as an emergency after suffering severe acid burns to his forearm during a work accident in Dubai. Father Muller Hospital in Mangaluru performed a complex surgical procedure to restore the function and appearance of the affected limb. Acid burns require immediate treatment to neutralize the chemical substance. The medical team assessed the depth of the injury and determined that reconstructive surgery was necessary. During treatment, professionals controlled infection, managed pain, and performed debridement of necrotic tissue. Healing required specialized care and appropriate dressings. After several months of intensive treatment and regular follow-up, the patient significantly recovered the function of his forearm. This case demonstrates that prompt specialized treatment is critical in severe chemical burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkVsRUVlazk0bDNVNFVVbkdXUGtBaUxPcW1PZWJtRmt0cHJpQmY5TTMyckRONmVrSl9yQWFtclVFVDRfazI3Vmd1dFo1aDZrN25yRUpwNlhhcXJPVFNTMEdDRFRPNklkUmhHUi1XOGgwbzl5M21yTzVILVRVODRQY0tOV09CUWw3WHNLQkFqYjlfVjF5anJVRzhlRHZaQVNfZFdGTw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-17/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura por ácido",
+          "definition_es": "lesión causada por sustancia química ácida",
+          "definition_en": "acid burn - injury caused by acidic chemical substance"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "reconstrucción quirúrgica",
+          "definition_es": "cirugía para restaurar la forma y función de una parte del cuerpo",
+          "definition_en": "reconstructive surgery - surgery to restore shape and function"
+        },
+        {
+          "word": "tejido necrótico",
+          "definition_es": "tejido muerto que resulta de la quemadura",
+          "definition_en": "necrotic tissue - dead tissue resulting from burn injury"
+        }
+      ],
+      "added_at": "2026-02-17T09:20:53.076764Z"
+    },
+    {
+      "id": "surgical-wounds-20250217",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Signos de infección después de una cesárea: lo que debe saber",
+      "headline_en": "Signs of Infection After a C-Section: What You Should Know",
+      "summary_es": "Es importante reconocer los signos de infección después de una cesárea para recibir tratamiento oportuno. Los profesionales de salud deben educar a las pacientes sobre qué síntomas requieren atención médica inmediata.",
+      "body_es": "Después de una cesárea, las mujeres necesitan cuidados especiales para la herida quirúrgica. La incisión quirúrgica debe mantenerse limpia y seca durante el período de curación. Una infección de la herida es una complicación que puede ocurrir en las primeras semanas posteriores a la cirugía. Los signos de infección incluyen enrojecimiento excesivo alrededor de la incisión, edema o hinchazón que aumenta después de los primeros días, y exudado purulento o con mal olor. La fiebre persistente, el dolor intenso que no mejora con analgésicos, y la separación de los bordes de la herida también son señales de alerta. El vendaje apropiado es fundamental durante la fase inicial de cicatrización. Las pacientes deben inspeccionar la herida regularmente y reportar cualquier cambio anormal a su médico. Si sospecha infección, debe buscar atención médica inmediatamente. El tratamiento temprano con antibióticos puede prevenir complicaciones más serias como cicatrices o problemas de cicatrización.",
+      "body_en": "After a cesarean section, women require special care for the surgical wound. The surgical incision must be kept clean and dry during the healing period. Wound infection is a complication that can occur in the first weeks following surgery. Signs of infection include excessive redness around the incision, swelling that increases after the first few days, and purulent or foul-smelling exudate. Persistent fever, intense pain that does not improve with pain relievers, and separation of wound edges are also warning signs. Appropriate dressing is fundamental during the initial healing phase. Patients should inspect the wound regularly and report any abnormal changes to their doctor. If you suspect infection, seek medical attention immediately. Early treatment with antibiotics can prevent more serious complications such as scarring or healing problems.",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZmlHbW9YSVBuUzVBSWRTLVBGUXNnZnZhYURHMmpyYWxSSTYwejVTM0hXc1VrQUVDVFU0RlBCUXNrRHJOY01WRGtjRXFoSkFocnJWUWF1N3pDeFktR0FyUzhYNEF0WDZWekFPUjRtQjFNb3RmX1hYQ3hObVBYR0drQzBGa2VRbGhDX1QxeXdoaGs0dWhzc0RWM05uUENqaUREOVQ1Rk9kYW5jck9x?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-17/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión realizada durante una operación quirúrgica",
+          "definition_en": "surgical wound - incision made during surgery"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos patógenos en una herida",
+          "definition_en": "infection - invasion of pathogenic microorganisms into a wound"
+        },
+        {
+          "word": "exudado purulento",
+          "definition_es": "líquido con pus que drena de una herida infectada",
+          "definition_en": "purulent exudate - pus-like fluid draining from infected wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de nuevo tejido para cerrar una herida",
+          "definition_en": "wound healing - process of new tissue formation to close a wound"
+        }
+      ],
+      "added_at": "2026-02-17T09:20:53.076764Z"
+    },
     {
       "id": "chronic-wounds-20250216",
       "category": "Chronic Wounds",
@@ -7031,6 +7142,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-16T09:22:55.070445Z",
+  "last_updated": "2026-02-17T09:20:53.076764Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
