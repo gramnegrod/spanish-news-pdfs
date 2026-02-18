@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-18",
+      "filename": "spanish_lesson_2026-02-18.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-18.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Congreso de Perú destituye al presidente interino por corrupción",
+          "headline_en": "Peru's Congress removes interim president over corruption",
+          "body_es": "El Congreso de Perú removió al presidente interino José Jerí de su cargo. La decisión llegó mientras él enfrentaba una investigación por corrupción. Los legisladores votaron para sacarlo del poder después de las acusaciones. Este es otro episodio de inestabilidad política en Perú. El país ha tenido varios presidentes en los últimos años. La corrupción es un problema grave en la política peruana. Los ciudadanos están preocupados por la crisis política. Ahora el país necesita encontrar un nuevo líder. La situación económica también está afectada por estos cambios constantes. El Congreso debe actuar rápidamente para resolver la crisis.",
+          "body_en": "Peru's Congress removed interim President José Jerí from office. The decision came while he was facing a corruption investigation. Legislators voted to remove him from power after the accusations. This is another episode of political instability in Peru. The country has had several presidents in recent years. Corruption is a serious problem in Peruvian politics. Citizens are worried about the political crisis. Now the country needs to find a new leader. The economic situation is also affected by these constant changes. Congress must act quickly to resolve the crisis.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Políticas de Trump causan caída del 80% en empleo de inmigrantes",
+          "headline_en": "Trump policies cause 80% drop in immigrant employment",
+          "body_es": "Las nuevas políticas de inmigración de Trump están cambiando el mercado laboral estadounidense. Goldman Sachs reporta una caída del 80% en el empleo de inmigrantes. Esta reducción drástica afecta muchas industrias importantes. Los sectores de construcción y agricultura necesitan más trabajadores. Las empresas tienen dificultades para encontrar empleados. Los salarios pueden subir debido a la falta de trabajadores. Sin embargo, algunos productos pueden costar más dinero. Los economistas estudian los efectos a largo plazo. La situación crea desafíos para la economía nacional. Las políticas migratorias tienen consecuencias económicas importantes que afectan a todos los ciudadanos estadounidenses.",
+          "body_en": "Trump's new immigration policies are changing the US labor market. Goldman Sachs reports an 80% drop in immigrant employment. This drastic reduction affects many important industries. The construction and agriculture sectors need more workers. Companies have difficulty finding employees. Wages may rise due to worker shortage. However, some products may cost more money. Economists study the long-term effects. The situation creates challenges for the national economy. Immigration policies have important economic consequences that affect all American citizens.",
+          "source": "Fortune"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Qualcomm invertirá 150 millones de dólares en startups de IA en India",
+          "headline_en": "Qualcomm will invest $150 million in AI startups in India",
+          "body_es": "La empresa tecnológica Qualcomm anunció una gran inversión en India. La compañía gastará hasta 150 millones de dólares en startups de inteligencia artificial. Esta inversión ayudará a empresas nuevas con ideas innovadoras. India tiene muchos ingenieros talentosos en tecnología. El país se está convirtiendo en un centro importante de IA. Qualcomm quiere aprovechar este crecimiento tecnológico. Las startups indias desarrollan aplicaciones móviles y software avanzado. La inversión creará muchos empleos en el sector tecnológico. También fortalecerá la relación comercial entre Estados Unidos e India. Este proyecto muestra la importancia creciente de la inteligencia artificial en el mundo moderno.",
+          "body_en": "Technology company Qualcomm announced a major investment in India. The company will spend up to $150 million on artificial intelligence startups. This investment will help new companies with innovative ideas. India has many talented engineers in technology. The country is becoming an important AI center. Qualcomm wants to take advantage of this technological growth. Indian startups develop mobile applications and advanced software. The investment will create many jobs in the technology sector. It will also strengthen the commercial relationship between the United States and India. This project shows the growing importance of artificial intelligence in the modern world.",
+          "source": "Digitimes"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso de Perú removió al presidente interino.",
+          "definition_es": "Institución política donde se hacen las leyes",
+          "definition_en": "Congress, legislative body that makes laws"
+        },
+        {
+          "word": "interino",
+          "syllables": "in-te-RI-no",
+          "pos": "adjetivo",
+          "context": "José Jerí era el presidente interino de Perú.",
+          "definition_es": "Temporal, que dura poco tiempo",
+          "definition_en": "Interim, temporary"
+        },
+        {
+          "word": "corrupción",
+          "syllables": "co-rrup-CIÓN",
+          "pos": "sustantivo",
+          "context": "El presidente enfrentaba una investigación de corrupción.",
+          "definition_es": "Uso ilegal del poder para beneficio personal",
+          "definition_en": "Corruption, illegal use of power for personal gain"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "El empleo de inmigrantes cayó un 80 por ciento.",
+          "definition_es": "Trabajo remunerado",
+          "definition_en": "Employment, paid work"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "Las políticas están cambiando el mercado laboral.",
+          "definition_es": "Sistema donde se ofrecen y buscan trabajos",
+          "definition_en": "Labor market, system where jobs are offered and sought"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "Qualcomm hará una inversión de 150 millones de dólares.",
+          "definition_es": "Dinero usado para generar más dinero en el futuro",
+          "definition_en": "Investment, money used to generate future returns"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La empresa apoyará startups de inteligencia artificial.",
+          "definition_es": "Tecnología que simula el pensamiento humano",
+          "definition_en": "Artificial intelligence, technology that simulates human thinking"
+        },
+        {
+          "word": "startup",
+          "syllables": "START-up",
+          "pos": "sustantivo",
+          "context": "Qualcomm financiará startups tecnológicas en India.",
+          "definition_es": "Empresa nueva con ideas innovadoras",
+          "definition_en": "Startup, new company with innovative ideas"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'interino'?",
+          "options": [
+            "Permanente",
+            "Temporal",
+            "Importante",
+            "Nuevo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una 'startup' es:",
+          "options": [
+            "Una empresa antigua",
+            "Una empresa nueva con ideas innovadoras",
+            "Un tipo de computadora",
+            "Un programa de televisión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es el 'mercado laboral'?",
+          "options": [
+            "Un lugar para comprar comida",
+            "Un sistema donde se buscan trabajos",
+            "Un tipo de dinero",
+            "Una computadora"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La 'corrupción' es:",
+          "options": [
+            "Uso legal del poder",
+            "Uso ilegal del poder para beneficio personal",
+            "Un tipo de trabajo",
+            "Una tecnología nueva"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué removió el Congreso al presidente José Jerí?",
+          "options": [
+            "Por problemas económicos",
+            "Por una investigación de corrupción",
+            "Por edad avanzada",
+            "Por problemas de salud"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según Goldman Sachs, ¿cuánto cayó el empleo de inmigrantes?",
+          "options": [
+            "60%",
+            "70%",
+            "80%",
+            "90%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero invertirá Qualcomm en India?",
+          "options": [
+            "100 millones de dólares",
+            "120 millones de dólares",
+            "150 millones de dólares",
+            "200 millones de dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿En qué tipo de empresas invertirá Qualcomm?",
+          "options": [
+            "Restaurantes",
+            "Startups de inteligencia artificial",
+            "Bancos",
+            "Hospitales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores necesitan más trabajadores según la historia económica?",
+          "options": [
+            "Tecnología y finanzas",
+            "Construcción y agricultura",
+            "Educación y salud",
+            "Turismo y entretenimiento"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es un problema grave en la política peruana según el texto?",
+          "options": [
+            "Falta de dinero",
+            "La corrupción",
+            "Pocos votantes",
+            "Problemas climáticos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-18T09:14:13.676068"
+    },
+    {
       "date": "2026-02-17",
       "filename": "spanish_lesson_2026-02-17.pdf",
       "path": "pdfs/spanish_lesson_2026-02-17.pdf",
@@ -16010,7 +16232,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-17T09:15:08.174323",
+  "last_updated": "2026-02-18T09:14:13.676085",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
