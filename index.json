@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-19",
+      "filename": "spanish_lesson_2026-02-19.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-19.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "La Casa Blanca rechaza nueva propuesta demócrata durante cierre gubernamental",
+          "headline_en": "White House rejects new Democratic proposal during government shutdown",
+          "body_es": "La Casa Blanca rechazó ayer la última propuesta de los demócratas. Esta propuesta quería resolver el cierre del Departamento de Seguridad Nacional. El cierre ya lleva varias semanas. Los republicanos y demócratas no pueden llegar a un acuerdo. El problema principal es el dinero para la seguridad en la frontera. Los demócratas quieren menos dinero para el muro fronterizo. Los republicanos quieren más dinero para la seguridad. Miles de trabajadores del gobierno están sin trabajo. Muchos servicios públicos están cerrados. Los ciudadanos están preocupados por esta situación. Los políticos continúan las negociaciones. Esperan encontrar una solución pronto. El cierre afecta la vida diaria de muchas personas.",
+          "body_en": "The White House yesterday rejected the latest Democratic proposal. This proposal wanted to resolve the Department of Homeland Security shutdown. The shutdown has already lasted several weeks. Republicans and Democrats cannot reach an agreement. The main problem is money for border security. Democrats want less money for the border wall. Republicans want more money for security. Thousands of government workers are without jobs. Many public services are closed. Citizens are worried about this situation. Politicians continue negotiations. They hope to find a solution soon. The shutdown affects many people's daily lives.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Nvidia lidera el mercado de valores cerca de su récord histórico",
+          "headline_en": "Nvidia leads the stock market near its historic record",
+          "body_es": "La empresa Nvidia está teniendo mucho éxito en el mercado de valores. Sus acciones están cerca del precio más alto de toda su historia. Nvidia es una empresa de tecnología muy importante. Hace chips especiales para computadoras. Estos chips se usan mucho en inteligencia artificial. La inteligencia artificial es muy popular ahora. Muchas empresas quieren usar esta tecnología. Por eso, Nvidia vende muchos productos. Los inversores están muy contentos con Nvidia. Compran más acciones de esta empresa. El precio de las acciones sube cada día. Nvidia ayuda a que todo el mercado estadounidense suba. Otras empresas de tecnología también tienen buenos resultados. Los expertos piensan que Nvidia seguirá creciendo. Es una de las empresas más valiosas del mundo.",
+          "body_en": "The company Nvidia is having great success in the stock market. Its shares are near the highest price in its entire history. Nvidia is a very important technology company. It makes special chips for computers. These chips are widely used in artificial intelligence. Artificial intelligence is very popular now. Many companies want to use this technology. Therefore, Nvidia sells many products. Investors are very happy with Nvidia. They buy more shares of this company. The stock price goes up every day. Nvidia helps the entire U.S. market rise. Other technology companies also have good results. Experts think Nvidia will continue growing. It is one of the most valuable companies in the world.",
+          "source": "KTBS"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Gigante de inteligencia artificial Palantir traslada su sede a Florida",
+          "headline_en": "AI giant Palantir moves its headquarters to Florida",
+          "body_es": "Palantir, una empresa gigante de inteligencia artificial, trasladó su sede principal a Florida. Antes tenía sus oficinas principales en California. Esta empresa no es la primera en hacer este cambio. Muchas empresas de tecnología están saliendo de California. Van a estados como Florida y Texas. Las razones son varias. Los impuestos en Florida son más bajos. También es más barato vivir y trabajar allí. California tiene regulaciones muy estrictas para las empresas. Además, los empleados pueden comprar casas más baratas en Florida. El clima también es bueno todo el año. Palantir trabaja con el gobierno y empresas privadas. Sus programas de inteligencia artificial analizan muchos datos. La empresa espera crecer más en su nueva ubicación. Este movimiento muestra un cambio importante en la industria tecnológica estadounidense.",
+          "body_en": "Palantir, an AI giant company, moved its headquarters to Florida. Previously it had its main offices in California. This company is not the first to make this change. Many technology companies are leaving California. They go to states like Florida and Texas. The reasons are various. Taxes in Florida are lower. It's also cheaper to live and work there. California has very strict regulations for companies. Additionally, employees can buy cheaper houses in Florida. The weather is also good year-round. Palantir works with the government and private companies. Its artificial intelligence programs analyze lots of data. The company hopes to grow more in its new location. This move shows an important change in the American technology industry.",
+          "source": "Fox Business"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "rechazar",
+          "syllables": "re-cha-ZAR",
+          "pos": "verbo",
+          "context": "La Casa Blanca rechaza la propuesta de los demócratas.",
+          "definition_es": "No aceptar algo, decir que no",
+          "definition_en": "To reject, to refuse"
+        },
+        {
+          "word": "propuesta",
+          "syllables": "pro-PUES-ta",
+          "pos": "sustantivo",
+          "context": "Los políticos presentaron una nueva propuesta.",
+          "definition_es": "Una idea o plan que se sugiere",
+          "definition_en": "A proposal, suggestion"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "Nvidia lidera el mercado de valores estadounidense.",
+          "definition_es": "Lugar donde se compran y venden cosas",
+          "definition_en": "Market"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones de la empresa subieron mucho.",
+          "definition_es": "Partes de una empresa que se pueden comprar",
+          "definition_en": "Stocks, shares"
+        },
+        {
+          "word": "trasladar",
+          "syllables": "tras-la-DAR",
+          "pos": "verbo",
+          "context": "La empresa decidió trasladar sus oficinas a Florida.",
+          "definition_es": "Mover algo de un lugar a otro",
+          "definition_en": "To move, to relocate"
+        },
+        {
+          "word": "sede",
+          "syllables": "SE-de",
+          "pos": "sustantivo",
+          "context": "Palantir cambió su sede principal a Florida.",
+          "definition_es": "Oficina principal de una empresa",
+          "definition_en": "Headquarters"
+        },
+        {
+          "word": "gigante",
+          "syllables": "gi-GAN-te",
+          "pos": "adjetivo",
+          "context": "Palantir es una empresa gigante de inteligencia artificial.",
+          "definition_es": "Muy grande, enorme",
+          "definition_en": "Giant, huge"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno causa muchos problemas.",
+          "definition_es": "Acción de cerrar algo",
+          "definition_en": "Shutdown, closure"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'rechazar'?",
+          "options": [
+            "Aceptar algo",
+            "No aceptar algo",
+            "Proponer algo",
+            "Cambiar algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en el contexto económico?",
+          "options": [
+            "Actividades físicas",
+            "Partes de una empresa",
+            "Propuestas políticas",
+            "Oficinas principales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'trasladar'?",
+          "options": [
+            "Cerrar algo",
+            "Vender algo",
+            "Mover algo de un lugar a otro",
+            "Rechazar algo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'sede'?",
+          "options": [
+            "Un tipo de acción",
+            "La oficina principal de una empresa",
+            "Un cierre gubernamental",
+            "Un mercado de valores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿por qué no pueden llegar a un acuerdo los políticos?",
+          "options": [
+            "Por el dinero para seguridad fronteriza",
+            "Por las acciones de Nvidia",
+            "Por el traslado de empresas",
+            "Por la inteligencia artificial"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué tiene éxito Nvidia en el mercado?",
+          "options": [
+            "Se mudó a Florida",
+            "Sus chips se usan en inteligencia artificial",
+            "Rechazó una propuesta",
+            "Cerró oficinas gubernamentales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿De dónde se trasladó Palantir?",
+          "options": [
+            "De Texas",
+            "De Florida",
+            "De California",
+            "De Nueva York"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuál NO es una razón mencionada para el traslado de empresas a Florida?",
+          "options": [
+            "Impuestos más bajos",
+            "Mejor clima",
+            "Más regulaciones",
+            "Casas más baratas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué problema causa el cierre gubernamental?",
+          "options": [
+            "Nvidia pierde dinero",
+            "Miles de trabajadores están sin trabajo",
+            "Las empresas se van a Florida",
+            "Las acciones bajan"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tienen en común Nvidia y Palantir?",
+          "options": [
+            "Ambas rechazaron propuestas",
+            "Ambas se mudaron a Florida",
+            "Ambas trabajan con tecnología",
+            "Ambas causaron cierres gubernamentales"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-19T09:13:48.729402"
+    },
+    {
       "date": "2026-02-18",
       "filename": "spanish_lesson_2026-02-18.pdf",
       "path": "pdfs/spanish_lesson_2026-02-18.pdf",
@@ -16232,7 +16454,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-18T09:14:13.676085",
+  "last_updated": "2026-02-19T09:13:48.729416",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
