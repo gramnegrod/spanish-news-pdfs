@@ -1,11 +1,196 @@
 {
-  "date": "2026-02-18",
-  "generated_at": "2026-02-18T09:20:38.264868Z",
+  "date": "2026-02-19",
+  "generated_at": "2026-02-19T09:20:08.522296Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 198,
+  "total_stories": 203,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250219",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Cuidado de las Piernas Pesadas en la Insuficiencia Venosa Crónica",
+      "headline_en": "Managing 'Heavy Legs' in Chronic Venous Insufficiency",
+      "summary_es": "Los profesionales médicos aprenden nuevas estrategias para tratar las piernas pesadas causadas por insuficiencia venosa crónica. Este cuidado mejora la calidad de vida de los pacientes.",
+      "body_es": "La insuficiencia venosa crónica causa sensación de piernas pesadas en muchos pacientes. Los enfermeros utilizan vendajes especiales para mejorar la circulación. El tratamiento incluye elevación de las piernas y uso de medias de compresión. Los apósitos modernos ayudan a controlar el edema y el exudado. La evaluación regular de la herida es muy importante. El cuidado correcto previene complicaciones y úlceras venosas. Los pacientes necesitan educación sobre el autocuidado diario. El vendaje de compresión es un tratamiento efectivo y accesible.",
+      "body_en": "Chronic venous insufficiency causes a sensation of heavy legs in many patients. Nurses use special dressings to improve circulation. Treatment includes leg elevation and compression stockings. Modern dressings help control edema and exudate. Regular wound assessment is very important. Proper care prevents complications and venous ulcers. Patients need education about daily self-care. Compression bandaging is an effective and accessible treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnNhUi1aMHJSbU9DQldTZmVZU3Zxdmdab2E3Nll5Zm9ZUVZrbFN4SlNyN0RHNmNjN1BHSS1zQXFvbWVieGZMR0NQNmJ3VElRaWhCb0FjR0FHUzBaUXl2VDRtekdvOGc3eVJEejM4RnZDcUdXcm9ad1Z4VVphQkJkU014c1hwc0V6aW9tX0RIWDN3MkVXeGxnSnZ0WHJPMWs?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-19/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "insuficiencia venosa",
+          "definition_es": "cuando las venas no devuelven sangre correctamente",
+          "definition_en": "venous insufficiency - when veins don't return blood properly"
+        },
+        {
+          "word": "edema",
+          "definition_es": "hinchazón causada por acumulación de líquido",
+          "definition_en": "edema - swelling caused by fluid accumulation"
+        },
+        {
+          "word": "compresión",
+          "definition_es": "presión aplicada para mejorar la circulación",
+          "definition_en": "compression - pressure applied to improve circulation"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre y protege la herida",
+          "definition_en": "dressing - material that covers and protects the wound"
+        }
+      ],
+      "added_at": "2026-02-19T09:20:08.522296Z"
+    },
+    {
+      "id": "pressure-ulcers-20250219",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "orange",
+      "headline_es": "Importancia del Cuidado Adecuado en la Prevención de Úlceras por Presión",
+      "headline_en": "Importance of Proper Care in Preventing Pressure Ulcers",
+      "summary_es": "Las investigaciones muestran que el cuidado deficiente en hogares de ancianos puede causar úlceras por presión graves. La prevención y el monitoreo constante son esenciales.",
+      "body_es": "Las úlceras por presión son lesiones serias que ocurren cuando el paciente está en la cama o sentado demasiado tiempo. El cuidado correcto previene estas heridas peligrosas. Los enfermeros deben cambiar de posición al paciente cada dos horas. Los apósitos especiales protegen las áreas de riesgo como caderas y talones. La evaluación diaria de la piel es fundamental. La nutrición adecuada ayuda a la curación. La higiene y la humedad correcta previenen infecciones. Las instituciones de cuidado deben tener protocolos estrictos de prevención.",
+      "body_en": "Pressure ulcers are serious injuries that occur when patients spend too much time in bed or sitting. Proper care prevents these dangerous wounds. Nurses must change the patient's position every two hours. Special dressings protect at-risk areas like hips and heels. Daily skin assessment is fundamental. Proper nutrition helps healing. Hygiene and correct moisture prevent infections. Care institutions must have strict prevention protocols.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdlJlOHJYXzd0Mjh4bDFSZlp1dHBRUEwydFRYSXFCSkhudnBKSFpPWVk3ODdILXoxVVNnN0xNUjdPeGhzeWtWZl9sZlpzQUM4aEphOGZwU1NKS2dPQ3JPZWpBRHRGdHE1QmE2UEZIQ2wzYXpDTm5iRGYzUC11ZDJCb19vanVUZnE0bXRWYlM4Zkd1VmI0OWdGdjc3dzMxT1pGdEY5UDVrbi1KMVFuX2pfWmtNUHRtOVplMTRlSDNVVnlZZTdzZm5uVllvN3Q4ZWFfYmNSYUlOb1pEUUx2VXR0Z3ZKdS1oNzV6UHZaNWF6Sjh5eTBscWlFa3ZLbDg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-19/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida en la piel causada por presión prolongada",
+          "definition_en": "pressure ulcer - wound on skin caused by prolonged pressure"
+        },
+        {
+          "word": "escara",
+          "definition_es": "tejido muerto de la herida",
+          "definition_en": "eschar - dead tissue from the wound"
+        },
+        {
+          "word": "posición",
+          "definition_es": "forma de estar acostado o sentado",
+          "definition_en": "positioning - way of lying or sitting"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar una enfermedad o lesión",
+          "definition_en": "prevention - actions to avoid disease or injury"
+        }
+      ],
+      "added_at": "2026-02-19T09:20:08.522296Z"
+    },
+    {
+      "id": "burn-care-20250219",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Injertos de Piel Bioingeniería Ofrecen Nueva Esperanza para Quemaduras Graves",
+      "headline_en": "Bio-engineered Skin Grafts Offer New Hope for Severe Burn Injuries",
+      "summary_es": "Los injertos de piel bioingeniería representan un avance significativo en el tratamiento de quemaduras severas, permitiendo una regeneración más rápida y mejores resultados funcionales. Esta tecnología revoluciona el cuidado de heridas por quemadura.",
+      "body_es": "Los injertos de piel bioingeniería son un avance revolucionario en el tratamiento de quemaduras graves. Estos injertos se crean en laboratorios combinando células vivas con materiales biodegradables. El proceso reduce el tiempo de curación comparado con métodos tradicionales. Los pacientes experimentan menos dolor durante la cicatrización. La epitelización ocurre más rápidamente con estos injertos avanzados. Los centros de quemaduras utilizan esta tecnología para mejorar los resultados. La necrosis se minimiza porque el injerto promueve la regeneración. Los profesionales de cuidado de heridas reciben capacitación especial para aplicar esta técnica. La calidad de vida de los pacientes mejora significativamente. Estos injertos bioingeniería representan el futuro del cuidado de quemaduras.",
+      "body_en": "Bio-engineered skin grafts are a revolutionary breakthrough in treating severe burns. These grafts are created in laboratories by combining living cells with biodegradable materials. The process reduces healing time compared to traditional methods. Patients experience less pain during scarring. Epithelialization occurs more rapidly with these advanced grafts. Burn centers are using this technology to improve outcomes. Necrosis is minimized because the graft promotes regeneration. Wound care professionals receive special training to apply this technique. Patients' quality of life improves significantly. These bio-engineered grafts represent the future of burn care.",
+      "source_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNdjQ5WE92UVRMeGtULTUtRHp1d19ZUFZZaldLenNiMjFKMHZKMGdJcU13YzBwTTNfR2ozZUtqSklYaUJoLVVfUTNiYmVCZnVBT29mN0JXSGlkajFQV1E5R3N5Vl9tc2RFWkFKSnMwYklUQnNPczQ0OE1aYVlndDZqa29RNE94ZVdCQml4Z0tyVUhjU25WY3N2MXN3ZW4xUGI5dHhnMXNEUDJDUnIxSGxFcEh4YVZJM1F0R3VMcGlqUFRLUE91LXJmU0psWFZpRVc0Vi1RZ1U0RVhhbzVKdFJmRXlJRmNCQldjOUwtSkQ2SUo0UGdWZVF4MVZQTDRkb2hTSVVrLUJpSmdXS18wVGF4cDhsNHNFVWdhLXJILUpTRVhIQzVBZDE3XzBiRjJZSG1rby1jOVA3TmNkU3BQSk4yNjNrMTdlcmpXWGNKeUhhRQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-19/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por fuego o calor",
+          "definition_en": "burn - injury to skin caused by fire or heat"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "tejido trasplantado para cubrir una herida",
+          "definition_en": "graft - tissue transplanted to cover a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de piel nueva sobre la herida",
+          "definition_en": "epithelialization - growth of new skin over the wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido",
+          "definition_en": "necrosis - death of tissue"
+        }
+      ],
+      "added_at": "2026-02-19T09:20:08.522296Z"
+    },
+    {
+      "id": "surgical-wounds-20250219",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Protocolos ERAS Aceleran la Recuperación Después de la Cirugía",
+      "headline_en": "ERAS Protocols Accelerate Recovery After Surgery",
+      "summary_es": "Los protocolos de Recuperación Mejorada Después de la Cirugía (ERAS) demuestran ser efectivos para prevenir complicaciones postoperatorias graves. Estos protocolos optimizan el cuidado de heridas quirúrgicas.",
+      "body_es": "Los protocolos ERAS representan un enfoque integral para la recuperación quirúrgica. Estos protocolos incluyen manejo del dolor, nutrición temprana y movilización precoz del paciente. El cuidado de la herida quirúrgica es una parte fundamental del protocolo. Los apósitos antimicrobianos previenen infecciones en el sitio operatorio. La evaluación regular de la cicatrización monitorea la granulación y epitelización. El desbridamiento se realiza cuando hay necrosis o tejido dañado. Los pacientes que siguen protocolos ERAS tienen menor tiempo de hospitalización. La complicación de lesión renal aguda se reduce significativamente. El vendaje apropiado protege la herida de contaminantes externos. Estos protocolos mejoran los resultados clínicos y la satisfacción del paciente.",
+      "body_en": "ERAS protocols represent a comprehensive approach to surgical recovery. These protocols include pain management, early nutrition, and early patient mobilization. Surgical wound care is a fundamental part of the protocol. Antimicrobial dressings prevent infections at the surgical site. Regular wound healing assessment monitors granulation and epithelialization. Debridement is performed when necrosis or damaged tissue is present. Patients following ERAS protocols have shorter hospital stays. Acute kidney injury complication is significantly reduced. Appropriate dressing protects the wound from external contaminants. These protocols improve clinical outcomes and patient satisfaction.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM0hFSXJZcm1HbmhxbWJreGotTTFYVHhzM2w4VDBId0R6a2VULUZQWFZBZE4yb08wWlFaY00xeWhmaUcxdzU5MV9oWG5qWXU0T1FLaUQ0S255S0pIMGdmaXFKODNtWWZyVnBvcTRQaEJJcVAzMG9xMXhRRGdoeVJJME40N2JWT3JZb04zZWxlTUZLdUNrb2pZLW5BNURxSGFoMTRVYkY4UVczVWtpb0xTX3BnQmI2a2Y0REM1ajNEVGhSampXUVlwR1NCMktBb0Z0S0VTaHlzaGk2V3NtNmc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-19/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "protocolo ERAS",
+          "definition_es": "programa de recuperación mejorada después de cirugía",
+          "definition_en": "ERAS protocol - enhanced recovery after surgery program"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo en la herida",
+          "definition_en": "granulation - formation of new tissue in the wound"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "punto que cierra la herida quirúrgica",
+          "definition_en": "suture - stitch that closes the surgical wound"
+        }
+      ],
+      "added_at": "2026-02-19T09:20:08.522296Z"
+    },
+    {
+      "id": "wound-research-20250219",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Profesor de UC Riverside Recibe Premio de Logros Vitalicios en Cicatrización",
+      "headline_en": "UC Riverside Professor Receives Lifetime Achievement Award in Wound Healing",
+      "summary_es": "Un profesor de la Universidad de California Riverside ha sido honrado con el Premio de Logros Vitalicios de la Wound Healing Society. Su investigación ha contribuido significativamente al avance de la medicina de heridas.",
+      "body_es": "La Sociedad de Cicatrización de Heridas ha otorgado su mayor distinción a un profesor de investigación de la Universidad de California Riverside. Este honor reconoce décadas de trabajo innovador en la biología de la cicatrización. Su investigación ha transformado la comprensión de cómo ocurre la epitelización y la granulación. Los estudios han explorado los factores que regulan la regeneración de tejidos. Sus descubrimientos han mejorado el desarrollo de apósitos y tratamientos modernos. La investigación ha beneficiado a pacientes con heridas crónicas, quemaduras y úlceras. Su laboratorio ha identificado mecanismos celulares que previenen la necrosis. Los protocolos desarrollados se utilizan en centros médicos internacionales. Este reconocimiento destaca la importancia de la investigación en cuidado de heridas. El profesor continúa mentorando a nuevas generaciones de científicos.",
+      "body_en": "The Wound Healing Society has awarded its highest honor to a research professor from the University of California Riverside. This honor recognizes decades of innovative work in wound healing biology. His research has transformed the understanding of how epithelialization and granulation occur. Studies have explored factors that regulate tissue regeneration. His discoveries have improved the development of modern dressings and treatments. Research has benefited patients with chronic wounds, burns, and ulcers. His laboratory has identified cellular mechanisms that prevent necrosis. Developed protocols are used in international medical centers. This recognition highlights the importance of research in wound care. The professor continues mentoring new generations of scientists.",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRlZ1NGh1ZnZ2WEItMUxXQTF1V1J0NFg3WTRHRmI4MlB5dDQzV2RDNXgxaEIyR21UbHZIMXZLU2RqczJ0dW5JU0tiUnQ1Wk9QTTdhaF82VS1BZk96SVBqY25MYzc3MExLWEhndFdwYTdrQ3VGSF9NLXFDaVNwUlpJcW5xTlMyWERfaElIdEZhanhEZ0dsTVZiWjBMbUJhN3NkYm1CeTNHRFhhY1hHZXc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-19/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de una herida",
+          "definition_en": "wound healing - process of wound recovery"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo rojo en la herida",
+          "definition_en": "granulation - formation of new red tissue in the wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "cobertura de la herida con nuevas células de piel",
+          "definition_en": "epithelialization - covering of wound with new skin cells"
+        },
+        {
+          "word": "regeneración de tejidos",
+          "definition_es": "crecimiento de nuevo tejido después de lesión",
+          "definition_en": "tissue regeneration - growth of new tissue after injury"
+        }
+      ],
+      "added_at": "2026-02-19T09:20:08.522296Z"
+    },
     {
       "id": "chronic-wounds-20250218",
       "category": "Chronic Wounds",
@@ -7327,6 +7512,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-18T09:20:38.264868Z",
+  "last_updated": "2026-02-19T09:20:08.522296Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
