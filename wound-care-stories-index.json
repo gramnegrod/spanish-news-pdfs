@@ -1,11 +1,159 @@
 {
-  "date": "2026-02-19",
-  "generated_at": "2026-02-19T09:20:08.522296Z",
+  "date": "2026-02-20",
+  "generated_at": "2026-02-20T09:17:21.058817Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 203,
-  "new_today": 5,
+  "total_stories": 207,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20260220",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo gel para úlceras diabéticas del pie",
+      "headline_en": "New Gel Treatment for Diabetic Foot Ulcers",
+      "summary_es": "Un nuevo tratamiento en gel llamado hyaluosome con quercetina ayuda a curar úlceras diabéticas del pie. Este medicamento es un avance importante en la medicina de heridas.",
+      "body_es": "Un nuevo tratamiento tópico puede ayudar a los pacientes con úlceras diabéticas del pie. Los investigadores crean un gel especial con nanopartículas. Este gel contiene quercetina, una sustancia natural. El gel se aplica directamente en la herida. El tratamiento es simple y sin dolor. Los pacientes con diabetes tienen úlceras en los pies. Estas heridas son difíciles de curar. El nuevo gel mejora la curación rápidamente. Los médicos usan este tratamiento en la clínica. Es un avance importante para la medicina. El gel protege la herida y estimula la cicatrización. Los pacientes necesitan menos visitas al hospital. Este tratamiento ofrece esperanza para millones de personas.",
+      "body_en": "A new topical treatment can help patients with diabetic foot ulcers. Researchers developed a special gel with nanoparticles. This gel contains quercetin, a natural substance. The gel is applied directly to the wound. The treatment is simple and painless. Patients with diabetes develop foot ulcers. These wounds are difficult to heal. The new gel improves healing quickly. Doctors use this treatment in the clinic. It is an important advance for medicine. The gel protects the wound and stimulates scarring. Patients require fewer hospital visits. This treatment offers hope for millions of people.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mVmdYU2xfN2pxU0tLM093MDVUeUVDRmNRTTNNdEotMWV0WUFyZnl0N25qT2ViWjVmR1B4UkZTNEZKYlRMZ3pMNkRRZC1TLVdZeUhKWDNGTHc5cnZsWkhB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-20/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza",
+          "definition_en": "ulcer - open wound on the skin that does not heal"
+        },
+        {
+          "word": "gel",
+          "definition_es": "sustancia semisólida para aplicar en la piel",
+          "definition_en": "gel - semi-solid substance applied to skin"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar y cerrar una herida",
+          "definition_en": "healing - process of closing and recovering from a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de tejido nuevo que cierra la herida",
+          "definition_en": "scarring - formation of new tissue that closes the wound"
+        }
+      ],
+      "added_at": "2026-02-20T09:17:21.058817Z"
+    },
+    {
+      "id": "burn-care-20260220",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Equipo quirúrgico salva el antebrazo después de quemadura química grave",
+      "headline_en": "Surgical Team Saves Forearm After Severe Chemical Burns",
+      "summary_es": "Un paciente sufrió quemaduras químicas graves en el antebrazo después de un derrame en Dubai. El equipo de cirugía plástica del Hospital Father Muller en Mangaluru logró salvar el antebrazo mediante intervención quirúrgica especializada.",
+      "body_es": "Un residente de la India que trabajaba en Dubai sufrió quemaduras químicas severas en el antebrazo durante un accidente laboral. Cuando llegó al Hospital Father Muller en Mangaluru, el equipo de cirugía plástica evaluó inmediatamente la lesión. Los médicos determinaron que la quemadura afectaba múltiples capas de piel y tejido. El equipo realizó un procedimiento quirúrgico especializado para extirpar el tejido dañado. Utilizaron técnicas avanzadas de desbridamiento para remover la necrosis. Después del desbridamiento, los cirujanos aplicaron injertos de piel para reconstruir el área afectada. El tratamiento del dolor fue crítico durante la recuperación. Los pacientes con quemaduras químicas requieren cuidados intensivos y múltiples intervenciones. El resultado fue exitoso y el antebrazo fue salvado. Este caso demuestra la importancia de la cirugía plástica especializada en traumatismos.",
+      "body_en": "An Indian resident working in Dubai suffered severe chemical burns on his forearm during a workplace accident. When he arrived at Father Muller Hospital in Mangaluru, the plastic surgery team immediately assessed the injury. The doctors determined that the burn affected multiple layers of skin and tissue. The team performed a specialized surgical procedure to remove damaged tissue. They used advanced debridement techniques to remove necrosis. After debridement, the surgeons applied skin grafts to reconstruct the affected area. Pain management was critical during recovery. Patients with chemical burns require intensive care and multiple interventions. The outcome was successful and the forearm was saved. This case demonstrates the importance of specialized plastic surgery in trauma.",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ETTVMWmFfQ3hHOWxqcGd3WWFiMHNCSU5wbkJ2eWFOT2V6cVI1VWNLV2Q1bmhGTEg1b0hCQkhOdmlzcGFhS09lT3pmRFVXZEstcEw0QXFkbFFib2ZiazZoN2ZxME4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-20/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, químicos o radiación",
+          "definition_en": "burn - injury to skin caused by heat, chemicals, or radiation"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "transferencia de piel u otro tejido a un área dañada",
+          "definition_en": "graft - transfer of skin or other tissue to a damaged area"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de células o tejido debido a falta de oxígeno",
+          "definition_en": "necrosis - death of cells or tissue due to lack of oxygen"
+        }
+      ],
+      "added_at": "2026-02-20T09:17:21.058817Z"
+    },
+    {
+      "id": "surgical-wounds-20260220",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Cirugía de rodilla avanzada acorta el tiempo de recuperación",
+      "headline_en": "Advanced Knee Surgery Drives Faster Recovery",
+      "summary_es": "Los avances en técnicas quirúrgicas de rodilla permiten a los pacientes recuperarse más rápidamente. El Hospital Cedars-Sinai reporta mejores resultados postoperatorios con métodos minimamente invasivos.",
+      "body_es": "Las nuevas técnicas quirúrgicas para la rodilla ofrecen ventajas significativas para los pacientes. Los cirujanos del Hospital Cedars-Sinai utilizan procedimientos minimamente invasivos que causan menos daño a los tejidos. Estas técnicas reducen la inflamación alrededor de la herida quirúrgica. Los pacientes experimentan menos dolor después de la operación y pueden caminar antes. La recuperación más rápida significa menos tiempo en cama y menos riesgo de complicaciones. Los cirujanos utilizan cámaras pequeñas para visualizar la articulación sin hacer cortes grandes. El vendaje de la herida se cambia regularmente para prevenir infecciones. Los pacientes asisten a sesiones de fisioterapia para fortalecer los músculos. La evaluación del sitio quirúrgico es importante durante las primeras semanas. Muchos pacientes regresan a sus actividades normales en pocas semanas. Estos avances representan un progreso importante en la medicina ortopédica.",
+      "body_en": "New surgical techniques for the knee offer significant advantages for patients. Surgeons at Cedars-Sinai Hospital use minimally invasive procedures that cause less tissue damage. These techniques reduce inflammation around the surgical wound. Patients experience less pain after surgery and can walk sooner. Faster recovery means less time in bed and lower risk of complications. Surgeons use small cameras to visualize the joint without making large cuts. The wound dressing is changed regularly to prevent infections. Patients attend physical therapy sessions to strengthen muscles. Assessment of the surgical site is important during the first weeks. Many patients return to normal activities in just a few weeks. These advances represent important progress in orthopedic medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTVFM25kUlU2WGUxUngwTGNULUx4dmdBeV9iUW1xSnlZQUw1N3plTEo1QWc5Z3p2b2FlQlBLNVE3SmVHbXYyMVhXaTk2NU0wcy1TaEtselNORnhjNVVfbGNLdDJ5N1pjVUp4OS1pRUpDOUhyNDBoRzVidDRfYnZnbElNcW1xX3hpU0h4dkVJMWU3NU1TNXlTTzZtcXNDR0tWTnA0?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-20/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión realizada durante una operación",
+          "definition_en": "surgical wound - incision made during an operation"
+        },
+        {
+          "word": "minimamente invasivo",
+          "definition_es": "técnica quirúrgica que causa daño mínimo a los tejidos",
+          "definition_en": "minimally invasive - surgical technique causing minimal tissue damage"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material utilizado para cubrir y proteger una herida",
+          "definition_en": "dressing - material used to cover and protect a wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "contaminación de una herida por bacterias u otros microorganismos",
+          "definition_en": "infection - contamination of a wound by bacteria or microorganisms"
+        }
+      ],
+      "added_at": "2026-02-20T09:17:21.058817Z"
+    },
+    {
+      "id": "wound-research-20260220",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Profesor de UC Riverside recibe Premio por Logros en Investigación de Cicatrización",
+      "headline_en": "UC Riverside Professor Receives Lifetime Achievement Award in Wound Healing",
+      "summary_es": "Un profesor de la Universidad de California en Riverside recibió un prestigioso premio por sus contribuciones excepcionales en la investigación de cicatrización de heridas. La Sociedad de Cicatrización de Heridas reconoció sus décadas de trabajo dedicado.",
+      "body_es": "La Sociedad de Cicatrización de Heridas otorgó un Premio de Logros Vitalicios a un distinguido profesor de la Universidad de California en Riverside. Este reconocimiento honra sus contribuciones significativas a la investigación de heridas durante varias décadas. El profesor ha dirigido numerosos estudios sobre los mecanismos de curación. Sus investigaciones han mejorado la comprensión de cómo los tejidos se regeneran después de una lesión. El equipo ha investigado los roles de diferentes células en el proceso de cicatrización. También estudiaron cómo los factores de crecimiento estimulan la epitelización. Sus hallazgos han llevado al desarrollo de nuevos tratamientos y vendajes avanzados. El profesor ha publicado cientos de artículos científicos en revistas prestigiosas. Ha capacitado a muchos estudiantes de postgrado que ahora trabajan en investigación de heridas. Este premio reconoce la excelencia y el impacto de su carrera en la medicina.",
+      "body_en": "The Wound Healing Society awarded a Lifetime Achievement Award to a distinguished professor at the University of California in Riverside. This recognition honors his significant contributions to wound research over several decades. The professor has led numerous studies on the mechanisms of healing. His research has improved understanding of how tissues regenerate after injury. The team investigated the roles of different cells in the scarring process. They also studied how growth factors stimulate epithelialization. His findings have led to development of new treatments and advanced dressings. The professor has published hundreds of scientific articles in prestigious journals. He has trained many graduate students who now work in wound research. This award recognizes the excellence and impact of his career in medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1T3NWV0RlTW5aaGV1SWtmcWV2Tk1oSDcwWjlRRmJHZS1yTmdNd2dkSW5zeG1GUmZkTF82RlFPa0Z0OHY3dkNGX3N5WnBSWUFUOThVaGphaDB0TmZW?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-20/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de reparación de heridas mediante formación de nuevo tejido",
+          "definition_en": "wound healing - biological process of repair through formation of new tissue"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "cubierta de una herida con células epiteliales nuevas",
+          "definition_en": "epithelialization - covering of a wound with new epithelial cells"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "proteína que estimula el crecimiento y reparación de células",
+          "definition_en": "growth factor - protein that stimulates cell growth and repair"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "proceso de recrecimiento o renovación de tejidos dañados",
+          "definition_en": "regeneration - process of regrowth or renewal of damaged tissues"
+        }
+      ],
+      "added_at": "2026-02-20T09:17:21.058817Z"
+    },
     {
       "id": "chronic-wounds-20250219",
       "category": "Chronic Wounds",
@@ -7512,6 +7660,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-19T09:20:08.522296Z",
+  "last_updated": "2026-02-20T09:17:21.058817Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
