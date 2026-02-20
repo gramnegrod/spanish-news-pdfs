@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-20",
+      "filename": "spanish_lesson_2026-02-20.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-20.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Gobernadora de Virginia responderá al discurso presidencial",
+          "headline_en": "Virginia Governor will respond to presidential speech",
+          "body_es": "Abigail Spanberger, la gobernadora de Virginia, dará la respuesta demócrata al discurso del Estado de la Unión. Este es un evento político muy importante en Estados Unidos. El presidente habla al país sobre los problemas y planes del gobierno. Después, el partido de oposición da su respuesta oficial. Spanberger representará a los demócratas en esta ocasión especial. Ella hablará después del discurso presidencial. La respuesta demócrata es una tradición política estadounidense. Los ciudadanos pueden escuchar las dos perspectivas políticas diferentes. Este discurso ayuda a la democracia del país. Spanberger es una política experimentada y conocida.",
+          "body_en": "Abigail Spanberger, Virginia's governor, will give the Democratic response to the State of the Union speech. This is a very important political event in the United States. The president speaks to the country about government problems and plans. Afterward, the opposition party gives its official response. Spanberger will represent the Democrats on this special occasion. She will speak after the presidential speech. The Democratic response is an American political tradition. Citizens can hear two different political perspectives. This speech helps the country's democracy. Spanberger is an experienced and well-known politician.",
+          "source": "Scripps News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El déficit comercial de Estados Unidos creció en diciembre",
+          "headline_en": "United States trade deficit grew in December",
+          "body_es": "El déficit comercial de Estados Unidos aumentó mucho en diciembre. Esto significa que el país compró más productos del extranjero que vendió. Las importaciones subieron considerablemente durante este mes. Estados Unidos importó más productos de otros países. Sin embargo, el mercado laboral se mantiene fuerte y estable. Los trabajadores estadounidenses tienen empleos seguros. Este es un dato económico positivo para las familias. Los economistas estudian estos números cada mes. El déficit comercial es normal en la economía estadounidense. El país necesita productos de muchos lugares del mundo. La economía global está muy conectada hoy en día. Los expertos esperan más información el próximo mes.",
+          "body_en": "The United States trade deficit increased significantly in December. This means the country bought more products from abroad than it sold. Imports rose considerably during this month. The United States imported more products from other countries. However, the labor market remains strong and stable. American workers have secure jobs. This is positive economic data for families. Economists study these numbers each month. The trade deficit is normal in the American economy. The country needs products from many places around the world. The global economy is very connected today. Experts expect more information next month.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "CEO de Anthropic se preocupa por el poder de los líderes de inteligencia artificial",
+          "headline_en": "Anthropic CEO worries about AI leaders' power",
+          "body_es": "El director ejecutivo de Anthropic se siente muy incómodo con la situación actual. Él cree que los líderes de inteligencia artificial tienen demasiado poder. Estas pocas personas controlan el futuro de la tecnología artificial. El CEO dice que esto no es bueno para la sociedad. Los líderes tecnológicos, incluyéndolo a él mismo, no deberían decidir solos. La inteligencia artificial afecta la vida de todas las personas. Por eso, más gente debería participar en las decisiones importantes. El CEO pide más control público sobre esta tecnología. La inteligencia artificial puede cambiar el mundo completamente. Es importante que los gobiernos y ciudadanos tengan voz. La tecnología debe servir a toda la humanidad, no solo a unos pocos.",
+          "body_en": "Anthropic's CEO feels very uncomfortable with the current situation. He believes that artificial intelligence leaders have too much power. These few people control the future of artificial technology. The CEO says this is not good for society. Technology leaders, including himself, should not decide alone. Artificial intelligence affects everyone's lives. Therefore, more people should participate in important decisions. The CEO asks for more public control over this technology. Artificial intelligence can completely change the world. It is important that governments and citizens have a voice. Technology should serve all humanity, not just a few.",
+          "source": "Fortune"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gobernadora",
+          "syllables": "go-ber-na-DO-ra",
+          "pos": "sustantivo",
+          "context": "La gobernadora de Virginia dará la respuesta demócrata.",
+          "definition_es": "Mujer que gobierna un estado o región",
+          "definition_en": "Female governor"
+        },
+        {
+          "word": "respuesta",
+          "syllables": "res-PUES-ta",
+          "pos": "sustantivo",
+          "context": "Ella dará la respuesta oficial del partido.",
+          "definition_es": "Lo que se dice cuando alguien hace una pregunta o declaración",
+          "definition_en": "Response, answer"
+        },
+        {
+          "word": "déficit",
+          "syllables": "DÉ-fi-cit",
+          "pos": "sustantivo",
+          "context": "El déficit comercial aumentó en diciembre.",
+          "definition_es": "Cuando gastas más dinero del que recibes",
+          "definition_en": "Deficit"
+        },
+        {
+          "word": "importaciones",
+          "syllables": "im-por-ta-cio-NES",
+          "pos": "sustantivo",
+          "context": "Las importaciones crecieron mucho el mes pasado.",
+          "definition_es": "Productos que un país compra de otros países",
+          "definition_en": "Imports"
+        },
+        {
+          "word": "incómodo",
+          "syllables": "in-CÓ-mo-do",
+          "pos": "adjetivo",
+          "context": "El CEO se siente incómodo con la situación actual.",
+          "definition_es": "Que causa una sensación desagradable o molesta",
+          "definition_en": "Uncomfortable"
+        },
+        {
+          "word": "líderes",
+          "syllables": "LÍ-de-res",
+          "pos": "sustantivo",
+          "context": "Los líderes de tecnología tienen mucho poder.",
+          "definition_es": "Personas que dirigen o controlan organizaciones",
+          "definition_en": "Leaders"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La tecnología artificial está cambiando el mundo.",
+          "definition_es": "Conocimiento y herramientas científicas aplicadas",
+          "definition_en": "Technology"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado laboral se mantiene estable.",
+          "definition_es": "Sistema donde se compran y venden productos o servicios",
+          "definition_en": "Market"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'gobernadora'?",
+          "options": [
+            "Mujer que gobierna un estado",
+            "Mujer que enseña",
+            "Mujer que trabaja",
+            "Mujer que estudia"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'importaciones'?",
+          "options": [
+            "Productos que se venden",
+            "Productos que se fabrican",
+            "Productos que un país compra de otros países",
+            "Productos que se regalan"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Si alguien se siente 'incómodo', ¿cómo se siente?",
+          "options": [
+            "Feliz",
+            "Con una sensación desagradable",
+            "Cansado",
+            "Hambriento"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'déficit'?",
+          "options": [
+            "Ganar mucho dinero",
+            "Gastar más dinero del que se recibe",
+            "Ahorrar dinero",
+            "Prestar dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué hará Abigail Spanberger después del discurso presidencial?",
+          "options": [
+            "Dará la respuesta demócrata",
+            "Escribirá un libro",
+            "Viajará a otro país",
+            "Hablará con periodistas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con el déficit comercial de Estados Unidos en diciembre?",
+          "options": [
+            "Disminuyó",
+            "Se mantuvo igual",
+            "Aumentó",
+            "Desapareció"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cómo está el mercado laboral estadounidense según la noticia económica?",
+          "options": [
+            "Muy mal",
+            "Fuerte y estable",
+            "Creciendo lentamente",
+            "Desapareciendo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué piensa el CEO de Anthropic sobre el poder de los líderes de IA?",
+          "options": [
+            "Que está bien así",
+            "Que tienen muy poco poder",
+            "Que tienen demasiado poder",
+            "Que necesitan más poder"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Quién debería participar en las decisiones sobre inteligencia artificial según el CEO?",
+          "options": [
+            "Solo los líderes tecnológicos",
+            "Solo el gobierno",
+            "Más gente, incluyendo ciudadanos",
+            "Solo los científicos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es una tradición política estadounidense mencionada en las noticias?",
+          "options": [
+            "Las elecciones cada año",
+            "La respuesta de oposición al discurso presidencial",
+            "Los debates en televisión",
+            "Las reuniones secretas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-20T09:11:29.775359"
+    },
+    {
       "date": "2026-02-19",
       "filename": "spanish_lesson_2026-02-19.pdf",
       "path": "pdfs/spanish_lesson_2026-02-19.pdf",
@@ -16454,7 +16676,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-19T09:13:48.729416",
+  "last_updated": "2026-02-20T09:11:29.775376",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
