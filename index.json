@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-21",
+      "filename": "spanish_lesson_2026-02-21.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-21.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump firma arancel del 10% tras decisión judicial",
+          "headline_en": "Trump signs 10% tariff after court decision",
+          "body_es": "El presidente Donald Trump anunció que firmó un nuevo arancel global del 10%. Esta decisión llegó después de una resolución importante de la Corte Suprema. Los aranceles son impuestos especiales que se aplican a productos que vienen de otros países. Trump dijo que esta medida ayudará a proteger la industria estadounidense. Sin embargo, muchos economistas creen que los aranceles pueden hacer que los productos sean más caros para los consumidores. La decisión ha generado debate entre políticos y empresarios. Algunos apoyan la medida porque puede crear más empleos en Estados Unidos. Otros critican el arancel porque puede afectar las relaciones comerciales con otros países. Esta política podría cambiar el comercio internacional significativamente.",
+          "body_en": "President Donald Trump announced that he signed a new 10% global tariff. This decision came after an important Supreme Court resolution. Tariffs are special taxes applied to products that come from other countries. Trump said this measure will help protect American industry. However, many economists believe tariffs can make products more expensive for consumers. The decision has generated debate among politicians and businesspeople. Some support the measure because it can create more jobs in the United States. Others criticize the tariff because it can affect trade relations with other countries. This policy could significantly change international trade.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Economía estadounidense crece solo 1.4% en último trimestre",
+          "headline_en": "US economy grows only 1.4% in last quarter",
+          "body_es": "La economía de Estados Unidos se expandió muy lentamente en el cuarto trimestre del año. Los números oficiales muestran un crecimiento de solo 1.4%. Este resultado es mucho menor que lo que esperaban los expertos económicos. En trimestres anteriores, la economía había crecido más rápidamente. Los analistas dicen que varios factores causaron esta desaceleración. El consumo de las familias disminuyó durante estos meses. También hubo menos inversión en nuevos negocios y proyectos. La inflación y los altos precios afectaron el poder de compra de los ciudadanos. Los expertos están preocupados por el futuro económico del país. Sin embargo, algunos sectores como la tecnología y los servicios mantuvieron un crecimiento positivo. El gobierno está considerando nuevas políticas para estimular la economía.",
+          "body_en": "The United States economy expanded very slowly in the fourth quarter of the year. Official numbers show growth of only 1.4%. This result is much lower than what economic experts expected. In previous quarters, the economy had grown more rapidly. Analysts say several factors caused this slowdown. Family consumption decreased during these months. There was also less investment in new businesses and projects. Inflation and high prices affected citizens' purchasing power. Experts are worried about the country's economic future. However, some sectors like technology and services maintained positive growth. The government is considering new policies to stimulate the economy.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "CEO de OpenAI critica despidos masivos en empresas tecnológicas",
+          "headline_en": "OpenAI CEO criticizes mass layoffs in tech companies",
+          "body_es": "Sam Altman, director ejecutivo de OpenAI, criticó públicamente los despidos masivos en empresas de tecnología. Altman dijo que las compañías no pueden culpar todo a la inteligencia artificial. En los últimos meses, muchas empresas tecnológicas han eliminado miles de empleos. Los ejecutivos justifican estos despidos diciendo que la IA puede hacer el trabajo de los humanos. Sin embargo, Altman piensa que esta explicación es demasiado simple. Él cree que hay otras razones económicas detrás de estas decisiones. Las empresas también quieren reducir costos y aumentar sus ganancias. Altman sugiere que las compañías deben ser más honestas sobre sus motivaciones reales. Los despidos han afectado a programadores, diseñadores y otros profesionales. Esta situación ha creado preocupación en la industria tecnológica sobre el futuro del empleo.",
+          "body_en": "Sam Altman, CEO of OpenAI, publicly criticized mass layoffs in technology companies. Altman said companies cannot blame everything on artificial intelligence. In recent months, many tech companies have eliminated thousands of jobs. Executives justify these layoffs by saying AI can do humans' work. However, Altman thinks this explanation is too simple. He believes there are other economic reasons behind these decisions. Companies also want to reduce costs and increase their profits. Altman suggests companies should be more honest about their real motivations. The layoffs have affected programmers, designers, and other professionals. This situation has created concern in the tech industry about the future of employment.",
+          "source": "The Times of India"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "arancel",
+          "syllables": "a-ran-CEL",
+          "pos": "sustantivo",
+          "context": "Trump firmó un arancel global del 10%.",
+          "definition_es": "Impuesto que se paga por importar productos de otros países",
+          "definition_en": "Tax paid on imported goods from other countries"
+        },
+        {
+          "word": "decisión",
+          "syllables": "de-ci-SIÓN",
+          "pos": "sustantivo",
+          "context": "La decisión de la Corte Suprema cambió la política comercial.",
+          "definition_es": "Resolución que se toma después de considerar algo",
+          "definition_en": "Resolution made after considering something"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense creció lentamente.",
+          "definition_es": "Sistema de producción y distribución de dinero y bienes de un país",
+          "definition_en": "System of production and distribution of money and goods in a country"
+        },
+        {
+          "word": "expandir",
+          "syllables": "ex-pan-DIR",
+          "pos": "verbo",
+          "context": "La economía se expandió solo 1.4% en el último trimestre.",
+          "definition_es": "Crecer o hacer más grande",
+          "definition_en": "To grow or make bigger"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas hicieron despidos masivos.",
+          "definition_es": "Acción de terminar el trabajo de empleados",
+          "definition_en": "Action of ending employees' jobs"
+        },
+        {
+          "word": "culpar",
+          "syllables": "cul-PAR",
+          "pos": "verbo",
+          "context": "No se puede culpar todo a la inteligencia artificial.",
+          "definition_es": "Decir que alguien o algo es responsable de un problema",
+          "definition_en": "To say someone or something is responsible for a problem"
+        },
+        {
+          "word": "trimestre",
+          "syllables": "tri-MES-tre",
+          "pos": "sustantivo",
+          "context": "En el cuarto trimestre, la economía creció poco.",
+          "definition_es": "Período de tres meses consecutivos",
+          "definition_en": "Period of three consecutive months"
+        },
+        {
+          "word": "masivo",
+          "syllables": "ma-SI-vo",
+          "pos": "adjetivo",
+          "context": "Los despidos masivos afectaron a muchas personas.",
+          "definition_es": "Que incluye a muchas personas o cosas",
+          "definition_en": "That includes many people or things"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'arancel'?",
+          "options": [
+            "Un tipo de moneda",
+            "Un impuesto sobre productos importados",
+            "Una empresa internacional",
+            "Un acuerdo comercial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuántos meses tiene un 'trimestre'?",
+          "options": [
+            "Dos meses",
+            "Tres meses",
+            "Cuatro meses",
+            "Seis meses"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Cuando 'culpas' a alguien, tú:",
+          "options": [
+            "Lo ayudas",
+            "Lo ignoras",
+            "Dices que es responsable",
+            "Le das dinero"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Despidos masivos' significa:",
+          "options": [
+            "Contratar muchos empleados",
+            "Despedir a muchos empleados",
+            "Aumentar salarios",
+            "Crear nuevas empresas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué porcentaje de arancel firmó Trump?",
+          "options": [
+            "5%",
+            "10%",
+            "15%",
+            "20%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿A qué tasa creció la economía estadounidense en el cuarto trimestre?",
+          "options": [
+            "1.4%",
+            "2.4%",
+            "3.4%",
+            "4.4%"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Quién es Sam Altman?",
+          "options": [
+            "Presidente de Estados Unidos",
+            "CEO de OpenAI",
+            "Juez de la Corte Suprema",
+            "Analista económico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según los economistas mencionados, los aranceles pueden:",
+          "options": [
+            "Reducir precios",
+            "Hacer productos más caros",
+            "Eliminar empleos",
+            "Mejorar la tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores mantuvieron crecimiento positivo según el texto económico?",
+          "options": [
+            "Agricultura y minería",
+            "Tecnología y servicios",
+            "Construcción y transporte",
+            "Educación y salud"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según Altman, ¿qué no pueden hacer las empresas?",
+          "options": [
+            "Usar inteligencia artificial",
+            "Contratar empleados",
+            "Culpar todo a la IA",
+            "Reducir costos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-21T09:05:30.925513"
+    },
+    {
       "date": "2026-02-20",
       "filename": "spanish_lesson_2026-02-20.pdf",
       "path": "pdfs/spanish_lesson_2026-02-20.pdf",
@@ -16676,7 +16898,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-20T09:11:29.775376",
+  "last_updated": "2026-02-21T09:05:30.925530",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
