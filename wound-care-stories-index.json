@@ -1,11 +1,159 @@
 {
-  "date": "2026-02-20",
-  "generated_at": "2026-02-20T09:17:21.058817Z",
+  "date": "2026-02-21",
+  "generated_at": "2026-02-21T09:10:49.884458Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 207,
+  "total_stories": 211,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250221",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo Especialista en Cuidado de Heridas llega al Hospital Excelsior Springs",
+      "headline_en": "New Wound Care Specialist Comes to Excelsior Springs Hospital",
+      "summary_es": "El Hospital Excelsior Springs anuncia la llegada de un nuevo especialista en el cuidado de heridas crónicas. Este profesional ayudará a los pacientes con úlceras y heridas difíciles de curar.",
+      "body_es": "El Hospital Excelsior Springs da la bienvenida a un nuevo especialista en cuidado de heridas. Este profesional tiene experiencia en el tratamiento de heridas crónicas y úlceras. El especialista trabaja con un equipo de enfermeras y doctores. Juntos ayudan a los pacientes a sanar más rápido. Las heridas crónicas son muy comunes en personas mayores y en pacientes con diabetes. El nuevo especialista usa técnicas modernas de curación. Ofrece tratamientos personalizados para cada paciente. El hospital está contento de tener este nuevo servicio. Los pacientes ahora pueden recibir mejor cuidado en su comunidad.",
+      "body_en": "Excelsior Springs Hospital welcomes a new wound care specialist. This professional has experience treating chronic wounds and ulcers. The specialist works with a team of nurses and doctors. Together they help patients heal faster. Chronic wounds are very common in elderly people and in patients with diabetes. The new specialist uses modern healing techniques. He offers personalized treatments for each patient. The hospital is happy to have this new service. Patients can now receive better care in their community.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXI0Z0NGZmctMXBqbUtVZ3ZsWl84cUd4UzJuNzlwUG9Ic1pVOEpuM1ZiSnZfM1RfVU9CbTktdG1GUWJaaUI4aHhSd0sxX3BDaDJJVklPS2dSV0F6bm1DYVlpd0xvUlZUTF84TXVPTGJYdy1PbFZ4WDF3MlQwazhGZklDYWtZaTd1RDYzRGEzQ0xFU2t6UWhXaWVDQnljRks3RXh1bTJrcUhtdGpLWlZ1NQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-21/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión en la piel que no sana rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "llaga abierta en la piel o mucosa",
+          "definition_en": "ulcer - open sore on skin or tissue"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "especialista",
+          "definition_es": "profesional médico con experiencia especial",
+          "definition_en": "specialist - healthcare professional with special expertise"
+        }
+      ],
+      "added_at": "2026-02-21T09:10:49.884458Z"
+    },
+    {
+      "id": "burn-care-20250221",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "FDA Aprueba Nuevo Limpiador de Heridas para Lesiones Dérmicas",
+      "headline_en": "FDA Clears New Wound Cleanser for Dermal Lesions",
+      "summary_es": "La FDA ha aprobado un nuevo producto de limpieza de heridas que puede usarse en una amplia gama de lesiones dérmicas. Este desarrollo representa un avance importante en el tratamiento de quemaduras y heridas.",
+      "body_es": "La Administración de Alimentos y Medicamentos (FDA) ha aprobado recientemente un nuevo limpiador de heridas denominado Revyve. Este producto está diseñado para limpiar eficazmente una amplia variedad de lesiones dérmicas, incluyendo quemaduras, úlceras y otras heridas. El limpiador ha demostrado ser seguro y efectivo en ensayos clínicos. Los profesionales de cuidado de heridas pueden utilizar Revyve como parte del protocolo de tratamiento. El producto ayuda a eliminar tejido necrótico y bacterias sin dañar el tejido sano. Esta aprobación facilita el acceso a una herramienta valiosa para especialistas en cuidado de heridas. Los pacientes con quemaduras y lesiones crónicas se beneficiarán de este nuevo tratamiento.",
+      "body_en": "The FDA has recently approved a new wound cleanser called Revyve. This product is designed to effectively clean a wide variety of dermal lesions, including burns, ulcers, and other wounds. The cleanser has demonstrated safety and effectiveness in clinical trials. Wound care professionals can use Revyve as part of the treatment protocol. The product helps remove necrotic tissue and bacteria without damaging healthy tissue. This approval provides access to a valuable tool for wound care specialists. Patients with burns and chronic lesions will benefit from this new treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnRjZkFYQldxcTc0SGQtb01keHZEMFhyYWxTOENDZmJJOFZLbjJ0WnpyeHU1RzZlX3RTUTI5UzZEZmpGbXc2dExra1VINzNIbXhhMEZCU2s1WF9VV2U3b2R4SmxzY3MzbGZ6RE10azVZbGVxWU9GVjg3aU5yOHNfZUE5YnFQRjdlbDhIS1lLTWE5c05GSVUtRGdkYnB3TjF1TzVObU1pT2k3VU1qckxtU2w3VHFUMjlXY0NxWmxoWTY?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-21/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "limpiador de heridas",
+          "definition_es": "producto para limpiar lesiones y remover tejido muerto",
+          "definition_en": "wound cleanser - product to clean lesions and remove dead tissue"
+        },
+        {
+          "word": "tejido necrótico",
+          "definition_es": "tejido muerto que debe ser removido",
+          "definition_en": "necrotic tissue - dead tissue that must be removed"
+        },
+        {
+          "word": "lesión dérmica",
+          "definition_es": "daño en la piel y capas profundas",
+          "definition_en": "dermal lesion - damage to skin and deeper layers"
+        },
+        {
+          "word": "aprobación",
+          "definition_es": "autorización oficial de una agencia reguladora",
+          "definition_en": "approval - official authorization from regulatory agency"
+        }
+      ],
+      "added_at": "2026-02-21T09:10:49.884458Z"
+    },
+    {
+      "id": "surgical-wounds-20250221",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Terapia de Presión Negativa: Una Herramienta Poderosa para Preservar Extremidades",
+      "headline_en": "Negative Pressure Wound Therapy in Limb Preservation: Powerful Tool, Not a Lifestyle",
+      "summary_es": "Un nuevo análisis examina el uso de terapia de presión negativa en heridas quirúrgicas y su importancia para preservar extremidades. Los estudios demuestran que esta tecnología es efectiva cuando se usa adecuadamente.",
+      "body_es": "La terapia de presión negativa es una técnica avanzada que se utiliza para tratar heridas quirúrgicas complejas y heridas de difícil cicatrización. Este método aplica presión controlada a la herida para promover la curación y la angiogénesis. Los especialistas en cuidado de heridas consideran que esta terapia es una herramienta valiosa para preservar extremidades en pacientes con heridas graves. Sin embargo, los expertos advierten que no debe considerarse como un tratamiento permanente o un estilo de vida. La terapia funciona mejor cuando se combina con cuidado integral de heridas y seguimiento médico cercano. Los estudios clínicos han demostrado mejores resultados cuando se implementa un protocolo estructurado de tratamiento. Los pacientes que requieren amputación pueden beneficiarse significativamente de esta intervención temprana.",
+      "body_en": "Negative pressure wound therapy is an advanced technique used to treat complex surgical wounds and difficult-to-heal wounds. This method applies controlled pressure to the wound to promote healing and angiogenesis. Wound care specialists consider this therapy a valuable tool for limb preservation in patients with serious wounds. However, experts warn that it should not be considered a permanent treatment or lifestyle. The therapy works best when combined with comprehensive wound care and close medical follow-up. Clinical studies have demonstrated better results when a structured treatment protocol is implemented. Patients who might require amputation can significantly benefit from this early intervention.",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzR2bkZOWFpINGhqRHczUjVqYW9ZZmpHWTc1RTllNGFORU5IdUpRZzVNVExaNVh1NjJWbHFWVy1ONzUzV0RZbk9Rb0NqVmJsV0hQbTBLZkwzd0REZjI2aGUtOURVVURhSTV6Wm04RHV0T2NaQ1dFcjFRbzdUc0JKNnlUV3Y1U2tLc2h5NHNHcXVuVm5XVVp5NmdEbnF0RlF5el9uR21jTjM2NndM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-21/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "terapia de presión negativa",
+          "definition_es": "técnica que usa presión controlada para sanar heridas complejas",
+          "definition_en": "negative pressure wound therapy - technique using controlled pressure to heal complex wounds"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo en una herida",
+          "definition_en": "healing - process of new tissue formation in a wound"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos",
+          "definition_en": "angiogenesis - formation of new blood vessels"
+        },
+        {
+          "word": "preservación de extremidades",
+          "definition_es": "evitar la amputación de brazos o piernas",
+          "definition_en": "limb preservation - preventing amputation of arms or legs"
+        }
+      ],
+      "added_at": "2026-02-21T09:10:49.884458Z"
+    },
+    {
+      "id": "wound-research-20250221",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación de Penn State Expande Consorcio de Cáncer Infantil en América Latina",
+      "headline_en": "Penn State's Beat Childhood Cancer Research Consortium Welcomes GRAACC Hospital in São Paulo",
+      "summary_es": "Penn State Health anuncia la incorporación del Hospital GRAACC en São Paulo a su consorcio de investigación de cáncer infantil. Esta expansión fortalece la colaboración internacional en el cuidado de heridas quirúrgicas pediátricas.",
+      "body_es": "El Consorcio Beat Childhood Cancer de Penn State ha ampliado sus esfuerzos de investigación al dar la bienvenida al Hospital GRAACC en São Paulo, Brasil. Esta asociación internacional representa un hito importante en la investigación colaborativa del cáncer infantil. El Hospital GRAACC es un centro de referencia en América Latina que se especializa en el tratamiento del cáncer pediátrico. La colaboración permite a los investigadores compartir protocolos de cuidado de heridas quirúrgicas y resultados de tratamiento. Los expertos del consorcio trabajan en mejorar las prácticas de recuperación post-quirúrgica en pacientes jóvenes. Esta expansión facilitará el intercambio de datos clínicos y mejores prácticas entre instituciones. Los pacientes de América Latina tendrán acceso a tratamientos y cuidados de heridas alineados con estándares internacionales.",
+      "body_en": "Penn State's Beat Childhood Cancer Research Consortium has expanded its research efforts by welcoming GRAACC Hospital in São Paulo, Brazil. This international partnership represents an important milestone in collaborative childhood cancer research. GRAACC Hospital is a reference center in Latin America specializing in pediatric cancer treatment. The collaboration allows researchers to share surgical wound care protocols and treatment outcomes. Consortium experts work to improve post-surgical recovery practices in young patients. This expansion will facilitate the exchange of clinical data and best practices between institutions. Patients in Latin America will have access to treatments and wound care aligned with international standards.",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT0d1MEpOZU52dXhILVJULWxEQWFOc3c0ak9XZzMyNFRUelhxVlNXNmZUV2lWUzN5WnJkbjgzLUhSeUw4WTVveVRJWkdMQ3BvXzJBWUh4TUxnaGhGQjY1MmtNVFkwTXJHRFo3SjV2SlEzaUFxX2VGeGZMZzkxcTUyOGwyQ2FFcHJLcFBLcHV6Qk81SWc5bzBlRnk4ZmJkeU5sMXBWaFBCdmdYQTQxVjhTNURLaXVSS1FpRmp6YmtMUGSjpuX2FRSHdNYU5IeDk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-21/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "consorcio de investigación",
+          "definition_es": "grupo de instituciones que trabajan juntas en estudios médicos",
+          "definition_en": "research consortium - group of institutions working together on medical studies"
+        },
+        {
+          "word": "protocolo de cuidado",
+          "definition_es": "conjunto de procedimientos estandarizados para tratar pacientes",
+          "definition_en": "care protocol - standardized set of procedures for patient treatment"
+        },
+        {
+          "word": "recuperación post-quirúrgica",
+          "definition_es": "período de sanación después de una operación",
+          "definition_en": "post-surgical recovery - healing period after an operation"
+        },
+        {
+          "word": "intercambio de datos clínicos",
+          "definition_es": "compartir información médica entre instituciones",
+          "definition_en": "clinical data exchange - sharing medical information between institutions"
+        }
+      ],
+      "added_at": "2026-02-21T09:10:49.884458Z"
+    },
     {
       "id": "chronic-wounds-20260220",
       "category": "Chronic Wounds",
@@ -7660,6 +7808,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-20T09:17:21.058817Z",
+  "last_updated": "2026-02-21T09:10:49.884458Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
