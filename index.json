@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-22",
+      "filename": "spanish_lesson_2026-02-22.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-22.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Gobierno suspende programas de seguridad en aeropuertos",
+          "headline_en": "Government suspends airport security programs",
+          "body_es": "El Departamento de Seguridad Nacional de Estados Unidos suspendió dos programas importantes de seguridad. Los programas PreCheck y Global Entry no funcionan durante el cierre del gobierno. PreCheck permite a los viajeros pasar más rápido por la seguridad del aeropuerto. Global Entry ayuda a las personas a entrar más rápido al país después de viajes internacionales. Estos programas son muy populares entre los viajeros frecuentes. El cierre del gobierno afecta muchos servicios públicos. Los empleados del gobierno no pueden trabajar sin presupuesto. Millones de personas usan estos programas cada año. La suspensión causa problemas para los viajeros en los aeropuertos. El gobierno espera resolver esta situación pronto.",
+          "body_en": "The US Department of Homeland Security suspended two important security programs. The PreCheck and Global Entry programs are not working during the government shutdown. PreCheck allows travelers to pass through airport security faster. Global Entry helps people enter the country faster after international trips. These programs are very popular among frequent travelers. The government shutdown affects many public services. Government employees cannot work without a budget. Millions of people use these programs each year. The suspension causes problems for travelers at airports. The government hopes to resolve this situation soon.",
+          "source": "The Jerusalem Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Mercado de valores sube tras buenas noticias de empleo",
+          "headline_en": "Stock market rises after good employment news",
+          "body_es": "Los mercados financieros de Estados Unidos tuvieron un día muy bueno. Las acciones subieron después de recibir noticias sorprendentes sobre el empleo. La tasa de desempleo bajó más de lo que esperaban los expertos económicos. El índice S&P 500 está cerca de alcanzar niveles históricos récord. Esta noticia es muy positiva para la economía estadounidense. Los inversores están contentos con estos resultados. Cuando hay menos desempleo, las personas tienen más dinero para gastar. Esto ayuda a las empresas a vender más productos y servicios. Los analistas financieros creen que la economía está en buena forma. Sin embargo, todavía hay desafíos económicos importantes que resolver en el futuro cercano.",
+          "body_en": "US financial markets had a very good day. Stocks rose after receiving surprising news about employment. The unemployment rate fell more than economic experts expected. The S&P 500 index is close to reaching historic record levels. This news is very positive for the American economy. Investors are happy with these results. When there is less unemployment, people have more money to spend. This helps companies sell more products and services. Financial analysts believe the economy is in good shape. However, there are still important economic challenges to solve in the near future.",
+          "source": "MSN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Líder tecnológico critica uso falso de inteligencia artificial",
+          "headline_en": "Tech leader criticizes false use of artificial intelligence",
+          "body_es": "Sam Altman, líder de OpenAI, criticó a las empresas tecnológicas por mentir sobre la inteligencia artificial. Altman dice que muchas companies usan la IA como excusa falsa para despedir empleados. Este problema se llama 'AI-washing' en inglés. Las empresas dicen que necesitan menos trabajadores porque tienen nueva tecnología de IA. Pero Altman cree que esta no es la verdadera razón para los despidos. Muchas empresas tecnológicas han despedido miles de empleados en los últimos meses. Los despidos realmente ocurren por problemas económicos, no por la inteligencia artificial. Altman quiere que las empresas sean más honestas con sus empleados y el público. La inteligencia artificial puede ayudar a los trabajadores, no reemplazarlos completamente.",
+          "body_en": "Sam Altman, leader of OpenAI, criticized tech companies for lying about artificial intelligence. Altman says many companies use AI as a false excuse to fire employees. This problem is called 'AI-washing' in English. Companies say they need fewer workers because they have new AI technology. But Altman believes this is not the real reason for layoffs. Many tech companies have laid off thousands of employees in recent months. The layoffs really happen because of economic problems, not because of artificial intelligence. Altman wants companies to be more honest with their employees and the public. Artificial intelligence can help workers, not replace them completely.",
+          "source": "San Francisco Chronicle"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "suspender",
+          "syllables": "sus-pen-DER",
+          "pos": "verbo",
+          "context": "El gobierno suspende los programas de seguridad durante el cierre.",
+          "definition_es": "Parar temporalmente una actividad o servicio",
+          "definition_en": "To temporarily stop an activity or service"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "Durante el cierre del gobierno, muchos servicios no funcionan.",
+          "definition_es": "Acción de cerrar o parar completamente",
+          "definition_en": "Act of closing or shutting down completely"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado de valores subió después de las buenas noticias económicas.",
+          "definition_es": "Lugar donde se compran y venden productos o acciones",
+          "definition_en": "Place where products or stocks are bought and sold"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "des-em-PLE-o",
+          "pos": "sustantivo",
+          "context": "La tasa de desempleo bajó más de lo esperado este mes.",
+          "definition_es": "Situación de personas que no tienen trabajo",
+          "definition_en": "Situation of people who don't have jobs"
+        },
+        {
+          "word": "despido",
+          "syllables": "des-PI-do",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas anunciaron muchos despidos este año.",
+          "definition_es": "Acción de terminar el trabajo de un empleado",
+          "definition_en": "Action of ending an employee's job"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Algunas empresas usan la inteligencia artificial como excusa para los despidos.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones de las empresas subieron en el mercado financiero.",
+          "definition_es": "Partes de una empresa que se pueden comprar y vender",
+          "definition_en": "Parts of a company that can be bought and sold"
+        },
+        {
+          "word": "programa",
+          "syllables": "pro-GRA-ma",
+          "pos": "sustantivo",
+          "context": "Los programas de seguridad del aeropuerto no funcionan durante el cierre.",
+          "definition_es": "Sistema organizado de actividades o servicios",
+          "definition_en": "Organized system of activities or services"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'suspender'?",
+          "options": [
+            "Parar temporalmente algo",
+            "Comenzar una nueva actividad",
+            "Comprar acciones",
+            "Viajar en avión"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'desempleo'?",
+          "options": [
+            "Tener mucho trabajo",
+            "Situación de no tener trabajo",
+            "Ganar mucho dinero",
+            "Trabajar en tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en el contexto económico?",
+          "options": [
+            "Movimientos del cuerpo",
+            "Partes de una empresa",
+            "Programas de computadora",
+            "Tipos de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'inteligencia artificial'?",
+          "options": [
+            "Personas muy inteligentes",
+            "Tecnología que imita el pensamiento humano",
+            "Programas de seguridad",
+            "Mercados financieros"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué se suspendieron los programas PreCheck y Global Entry?",
+          "options": [
+            "Por problemas técnicos",
+            "Por el cierre del gobierno",
+            "Por falta de viajeros",
+            "Por razones de seguridad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué causó que subieran las acciones en el mercado?",
+          "options": [
+            "Malas noticias económicas",
+            "Aumento del desempleo",
+            "Buenas noticias de empleo",
+            "Problemas en las empresas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Quién es Sam Altman?",
+          "options": [
+            "Un empleado despedido",
+            "Líder de OpenAI",
+            "Un viajero frecuente",
+            "Un analista financiero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué permite hacer el programa PreCheck?",
+          "options": [
+            "Viajar gratis",
+            "Pasar más rápido por seguridad del aeropuerto",
+            "Comprar acciones",
+            "Usar inteligencia artificial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué critica Altman a las empresas tecnológicas?",
+          "options": [
+            "Por no usar IA",
+            "Por contratar empleados",
+            "Por usar IA como excusa falsa para despidos",
+            "Por subir los precios"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el índice que está cerca de niveles récord?",
+          "options": [
+            "PreCheck 500",
+            "Global Entry",
+            "S&P 500",
+            "AI-washing"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-22T09:05:52.452401"
+    },
+    {
       "date": "2026-02-21",
       "filename": "spanish_lesson_2026-02-21.pdf",
       "path": "pdfs/spanish_lesson_2026-02-21.pdf",
@@ -16898,7 +17120,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-21T09:05:30.925530",
+  "last_updated": "2026-02-22T09:05:52.452416",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
