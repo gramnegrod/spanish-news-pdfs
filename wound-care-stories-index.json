@@ -1,11 +1,159 @@
 {
-  "date": "2026-02-21",
-  "generated_at": "2026-02-21T09:10:49.884458Z",
+  "date": "2026-02-22",
+  "generated_at": "2026-02-22T09:11:12.992190Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 211,
+  "total_stories": 215,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250222",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo tratamiento para úlceras venosas crónicas",
+      "headline_en": "New Treatment for Chronic Venous Ulcers",
+      "summary_es": "Un estudio reciente prueba la efectividad de un nuevo injerto de membrana amniótica congelada para tratar úlceras venosas difíciles de curar en las piernas.",
+      "body_es": "Las úlceras venosas crónicas son heridas en las piernas que no cierran fácilmente. Afectan a muchos pacientes. Un nuevo tratamiento usa membrana amniótica congelada. Este material viene de placenta humana donada. Los investigadores hacen un estudio controlado. Comparan el nuevo tratamiento con métodos tradicionales. Los resultados son positivos. Los pacientes con el nuevo injerto mejoran más rápido. Las heridas cierran mejor. Este tratamiento es especialmente útil para úlceras que no responden a otros cuidados. Los médicos están optimistas. Este avance puede ayudar a muchas personas con úlceras venosas difíciles.",
+      "body_en": "Chronic venous ulcers are wounds on the legs that do not close easily. They affect many patients. A new treatment uses cryopreserved amniotic membrane. This material comes from donated human placenta. Researchers conduct a controlled study. They compare the new treatment with traditional methods. The results are positive. Patients with the new graft improve faster. Wounds close better. This treatment is especially useful for ulcers that do not respond to other care. Doctors are optimistic. This advance can help many people with difficult venous ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMGtlbEFkZzljdm4ybXlnU2xMcVItYk9kT2ZwWElPNzFVUmstWnVNRDNERGowMlNhY2pEQzIwdVluSmJhSWtFMm5DUEZ1SXJXVklXYzQwQlpjbWVXREZMRnZvZi1UTzFNaWlDcmxkT2ZKYmtVV3h6dTdSczdCd1R3VmJwcWdQakZLLW5sS3RwSklaVFNQdng0em1xYmQwNzFVR1hPaG1SUGdFRzFjaklGeEtGUHpBaHpkMk9feUFSaU1DX0d2UGZkWHliLU1ndVdtOWRnc2FvOHNXbUZiT1dUMmw2MGFvN3NvZDFfRDBSX0xIUDRzS0ZwSk9pRjM2UWZITmJMenRSSjFESm55?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-22/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta que no cierra fácilmente",
+          "definition_en": "ulcer - open wound that does not close easily"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "tejido transplantado para reparar una herida",
+          "definition_en": "graft - tissue transplanted to repair a wound"
+        },
+        {
+          "word": "membrana amniótica",
+          "definition_es": "tejido de la placenta usado en medicina",
+          "definition_en": "amniotic membrane - placental tissue used in medicine"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar y cerrar la herida",
+          "definition_en": "healing - process of wound closure and repair"
+        }
+      ],
+      "added_at": "2026-02-22T09:11:12.992190Z"
+    },
+    {
+      "id": "burn-care-20250222",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Hospital salva el antebrazo de paciente tras derrame ácido en Dubai",
+      "headline_en": "Hospital Saves Patient's Forearm After Acid Spill in Dubai",
+      "summary_es": "Un paciente sufrió una quemadura química grave por un derrame de ácido en Dubai, pero un hospital en Mangalur logró salvar su antebrazo mediante tratamiento especializado de heridas.",
+      "body_es": "Un paciente extranjero sufrió una quemadura química grave cuando ácido se derramó sobre su antebrazo en Dubai. La lesión fue muy seria. El paciente fue tratado inmediatamente en el hospital de emergencia. El equipo de especialistas en quemaduras comenzó el tratamiento urgentemente. Utilizaron técnicas avanzadas de cuidado de heridas. El tratamiento incluyó limpieza profunda, desbridamiento de tejido necrótico y aplicación de apósitos especializados. El paciente recibió terapia antimicrobiana para prevenir infecciones. Los médicos monitorean constantemente la granulación y epitelización de la herida. Después de varias semanas de tratamiento intensivo, el antebrazo se salvó. Este caso demuestra la importancia del cuidado inmediato y especializado en quemaduras químicas. Los hospitales modernos pueden lograr resultados extraordinarios con protocolos adecuados.",
+      "body_en": "A foreign patient suffered a severe chemical burn when acid spilled on his forearm in Dubai. The injury was very serious. The patient was treated immediately in the emergency hospital. The specialized burn care team began treatment urgently. They used advanced wound care techniques. Treatment included deep cleaning, debridement of necrotic tissue, and application of specialized dressings. The patient received antimicrobial therapy to prevent infections. Doctors constantly monitor wound granulation and epithelialization. After several weeks of intensive treatment, the forearm was saved. This case demonstrates the importance of immediate and specialized care in chemical burns. Modern hospitals can achieve extraordinary results with proper protocols.",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHhyaXFQdWswa3VQRkYyRnROWXFnQ2Nwb0hBXzVhVUdFZ2k4Q0ViVlYxR1VSRWp5QzZNd1ZLWlpleVE5elZZellTZFpNMjdYdHl4akJJaTVKa2hBdzdLQkttdi1Ra09LZ292a2RZdExOa1M1dl9SdC1pbEhLM293Zm94SmFZUjB6d0pLOXk4QWNVQzBi?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-22/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor o químicos",
+          "definition_en": "burn - injury to skin caused by heat or chemicals"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se aplica directamente sobre una herida",
+          "definition_en": "dressing - material applied directly to a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de regeneración de la capa exterior de la piel",
+          "definition_en": "epithelialization - process of skin surface regeneration"
+        }
+      ],
+      "added_at": "2026-02-22T09:11:12.992190Z"
+    },
+    {
+      "id": "surgical-wounds-20250222",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Protocolos de recuperación acelerada efectivos en cirugía colorrectal",
+      "headline_en": "Accelerated Recovery Protocols Effective in Colorectal Surgery",
+      "summary_es": "Un estudio retrospectivo demuestra que versiones simplificadas del protocolo ERAS (Recuperación Mejorada después de la Cirugía) son confiables y efectivas en cirugías colorrectales, mejorando la cicatrización de heridas quirúrgicas.",
+      "body_es": "El protocolo ERAS (Recuperación Mejorada después de la Cirugía) es un sistema que acelera la recuperación postoperatoria de pacientes sometidos a cirugía colorrectal. Este protocolo incluye múltiples intervenciones que comienzan antes de la operación y continúan después. El estudio retrospectivo analiza versiones simplificadas del ERAS completo. Los investigadores examinan si estas versiones reducidas son igualmente confiables. El protocolo incluye manejo del dolor optimizado, nutrición temprana, movilidad precoz y uso judicioso de fluidos. Estas medidas reducen complicaciones de heridas quirúrgicas como infecciones y dehiscencia. Los resultados demuestran que las versiones simplificadas son efectivas y prácticas. Los cirujanos pueden implementarlas más fácilmente en sus centros. Este enfoque mejora la epitelización de heridas y reduce el tiempo de hospitalización. Los pacientes se recuperan más rápidamente con menor morbilidad.",
+      "body_en": "The ERAS (Enhanced Recovery After Surgery) protocol is a system that accelerates postoperative recovery for patients undergoing colorectal surgery. This protocol includes multiple interventions starting before the operation and continuing afterward. The retrospective study analyzes simplified versions of the complete ERAS protocol. Researchers examine whether these reduced versions are equally reliable. The protocol includes optimized pain management, early nutrition, early mobilization, and judicious fluid use. These measures reduce surgical wound complications such as infections and dehiscence. Results demonstrate that simplified versions are effective and practical. Surgeons can implement them more easily in their centers. This approach improves wound epithelialization and reduces hospitalization time. Patients recover faster with lower morbidity.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU3R5UjlkLTVpemNrYnZ3Y184eS00U2thdlBlaUV5RnF6NzZHRFNjMFVaVVJKZ19CSjA0YnFfcklXM2k4Wm9hMTV0YXQ5Qk92YUZWaEhJNFFJczhsMFp4YzhfaFZOeWQ0OVk5eG1sYVFvMFA0cm9GNTI3NW9TWDZVbkEzV3VQUGV6a3RLOXVyZGo3dTRsYUZ6ZzZhbERJaEN1ZUJKMUI2eUxxZDlYaUw2RVJ2VWM4b2lybmtyTE9Ld3Z4WTVjSkROOS1ldk1Dc0RSU0JQMzZEcEdzSkVHVUlJYW9UMDdXV3NNdFRfQUdNODNzQmxOZllB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-22/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dehiscencia",
+          "definition_es": "separación de los bordes de una herida quirúrgica",
+          "definition_en": "dehiscence - separation of surgical wound edges"
+        },
+        {
+          "word": "protocolo ERAS",
+          "definition_es": "sistema de recuperación mejorada después de cirugía",
+          "definition_en": "ERAS protocol - enhanced recovery after surgery system"
+        },
+        {
+          "word": "movilidad precoz",
+          "definition_es": "movimiento del paciente iniciado temprano después de cirugía",
+          "definition_en": "early mobilization - early patient movement after surgery"
+        },
+        {
+          "word": "morbilidad",
+          "definition_es": "tasa de complicaciones o enfermedades después de cirugía",
+          "definition_en": "morbidity - rate of complications or diseases after surgery"
+        }
+      ],
+      "added_at": "2026-02-22T09:11:12.992190Z"
+    },
+    {
+      "id": "wound-research-20250222",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Profesor recibe Premio de Logro Permanente de la Sociedad de Cicatrización de Heridas",
+      "headline_en": "Professor Receives Lifetime Achievement Award from Wound Healing Society",
+      "summary_es": "Un profesor de la Universidad de California, Riverside fue galardonado con el Premio de Logro Permanente por sus contribuciones significativas a la investigación en cicatrización de heridas.",
+      "body_es": "La Sociedad de Cicatrización de Heridas ha otorgado su Premio de Logro Permanente a un distinguido profesor de la Universidad de California, Riverside. Este reconocimiento honra sus décadas de investigación dedicada al avance de la medicina de heridas. El profesor ha realizado investigaciones fundamentales que han transformado nuestra comprensión de los mecanismos de cicatrización. Su trabajo ha impactado múltiples aspectos del cuidado de heridas, incluyendo la inflamación, la granulación y la epitelización. Ha publicado numerosos estudios sobre la evaluación de heridas, manejo de exudado y prevención de infecciones. Sus contribuciones han influido en protocolos clínicos utilizados en hospitales worldwide. El profesor ha mentorizado a cientos de estudiantes y especialistas en medicina de heridas. Su dedicación ha mejorado significativamente los resultados en pacientes con úlceras crónicas, heridas quirúrgicas y quemaduras. Este premio reconoce su liderazgo intelectual en la disciplina de la cicatrización de heridas.",
+      "body_en": "The Wound Healing Society has awarded its Lifetime Achievement Award to a distinguished professor at the University of California, Riverside. This recognition honors his decades of dedicated research advancing wound medicine. The professor has conducted foundational research that has transformed our understanding of healing mechanisms. His work has impacted multiple aspects of wound care, including inflammation, granulation, and epithelialization. He has published numerous studies on wound assessment, exudate management, and infection prevention. His contributions have influenced clinical protocols used in hospitals worldwide. The professor has mentored hundreds of students and wound care specialists. His dedication has significantly improved outcomes in patients with chronic ulcers, surgical wounds, and burns. This award recognizes his intellectual leadership in the discipline of wound healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjhoejM0YVNaRmFvd09OeDRUQVFaMjJmV2tuUUZhU1U5VjVqSlN6dEJwTG13ZHNHUzJvejBxQ0lSQTNkMGZfSXpDd1JnTDhMdk5tTEFNWHdlaS1GR1pSZEpMcXhYZnRSQlhvR0lMN25oQ2xnZkxRQmo0RFlqcnVRRTB2ckZCdVlxNW1YbGJ6UXEwZVFRVktFeDB0SkgzakEyMWpyR203VnlobjVpeXVfUw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-22/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz y cierre de herida",
+          "definition_en": "healing - process of scar formation and wound closure"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo en la base de una herida",
+          "definition_en": "granulation - formation of new tissue at wound base"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that drains from a wound"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "respuesta biológica del cuerpo a una herida o lesión",
+          "definition_en": "inflammation - biological response of body to wound or injury"
+        }
+      ],
+      "added_at": "2026-02-22T09:11:12.992190Z"
+    },
     {
       "id": "chronic-wounds-20250221",
       "category": "Chronic Wounds",
@@ -7808,6 +7956,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-21T09:10:49.884458Z",
+  "last_updated": "2026-02-22T09:11:12.992190Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
