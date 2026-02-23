@@ -1,11 +1,122 @@
 {
-  "date": "2026-02-22",
-  "generated_at": "2026-02-22T09:11:12.992190Z",
+  "date": "2026-02-23",
+  "generated_at": "2026-02-23T09:22:24.759528Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 215,
-  "new_today": 4,
+  "total_stories": 218,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250223",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo gel de oxígeno ayuda a sanar heridas crónicas",
+      "headline_en": "New oxygen gel helps heal chronic wounds",
+      "summary_es": "Los científicos desarrollan un gel especial con oxígeno para tratar heridas difíciles. Este tratamiento nuevo puede prevenir la amputación en pacientes con diabetes.",
+      "body_es": "Un gel nuevo con oxígeno puede ayudar a sanar heridas crónicas en personas con diabetes. Los investigadores descubrieron este tratamiento innovador para prevenir amputaciones. El gel proporciona oxígeno directamente a la herida. El oxígeno es importante para la curación normal de la piel. Las heridas crónicas son muy difíciles de curar. Este nuevo producto puede mejorar la vida de muchos pacientes. Los médicos utilizan vendajes especiales con el gel. El tratamiento es seguro y efectivo. Los pacientes con diabetes tienen más riesgo de complicaciones. Este gel de oxígeno ofrece una esperanza nueva.",
+      "body_en": "A new gel with oxygen can help heal chronic wounds in people with diabetes. Researchers discovered this innovative treatment to prevent amputations. The gel provides oxygen directly to the wound. Oxygen is important for normal skin healing. Chronic wounds are very difficult to heal. This new product can improve the lives of many patients. Doctors use special dressings with the gel. The treatment is safe and effective. Patients with diabetes have more risk of complications. This oxygen gel offers new hope.",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqS3VTNnVMNEhvM3dVUWtyUVdBcFhqdkFRTmVPNjNTNjhZNDBuT1hRdkNZUEJLYkNGZU9VdlZSZ0M0dnZLZ21Jc0x5X0NqVl8wdldsZ2lIN3ZPd3R2YkxTcDE1a1pMSXRFelVCaGJkOA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-23/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión en la piel que no cicatriza fácilmente",
+          "definition_en": "chronic wound - injury to skin that does not heal easily"
+        },
+        {
+          "word": "gel de oxígeno",
+          "definition_es": "sustancia especial con oxígeno para curar heridas",
+          "definition_en": "oxygen gel - special substance with oxygen to heal wounds"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "cirugía para remover una parte del cuerpo",
+          "definition_en": "amputation - surgery to remove a body part"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of wound recovery"
+        }
+      ],
+      "added_at": "2026-02-23T09:22:24.759528Z"
+    },
+    {
+      "id": "diabetic-foot-20250223",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Gel innovador de oxígeno previene amputaciones en pacientes diabéticos",
+      "headline_en": "Innovative oxygen gel prevents amputations in diabetic patients",
+      "summary_es": "Científicos han desarrollado un gel de oxígeno revolucionario para tratar úlceras del pie diabético. Este tratamiento promete reducir significativamente el riesgo de amputación en pacientes con diabetes.",
+      "body_es": "Un nuevo gel enriquecido con oxígeno representa un avance significativo en el tratamiento de úlceras del pie diabético. Los investigadores desarrollaron esta tecnología para proporcionar oxígeno directamente al sitio de la lesión, acelerando el proceso de granulación y epitelización. Las úlceras del pie diabético son complicaciones graves que afectan a millones de personas en todo el mundo. Cuando la herida no recibe suficiente oxígeno, el tejido necrosado se acumula y la infección se propaga fácilmente. El gel de oxígeno mejora la perfusión tisular y estimula la angiogénesis. Los pacientes que utilizan este tratamiento experimental muestran tasas de curación más rápidas. Los médicos aplican el gel bajo vendajes especiales que mantienen el ambiente húmedo ideal. Este tratamiento combinado puede reducir las amputaciones hasta un 40 por ciento según los estudios preliminares.",
+      "body_en": "A new oxygen-enriched gel represents a significant advance in the treatment of diabetic foot ulcers. Researchers developed this technology to provide oxygen directly to the wound site, accelerating granulation and epithelialization. Diabetic foot ulcers are serious complications affecting millions of people worldwide. When the wound doesn't receive enough oxygen, necrotic tissue accumulates and infection spreads easily. The oxygen gel improves tissue perfusion and stimulates angiogenesis. Patients using this experimental treatment show faster healing rates. Doctors apply the gel under special dressings that maintain the ideal moist environment. This combined treatment may reduce amputations by up to 40 percent according to preliminary studies.",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqS3VTNnVMNEhvM3dVUWtyUVdBcFhqdkFRTmVPNjNTNjhZNDBuT1hRdkNZUEJLYkNGZU9VdlZSZ0M0dnZLZ21Jc0x5X0NqVl8wdldsZ2lIN3ZPd3R2YkxTcDE1a1pMSXRFelVCaGJkOA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-23/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "lesión profunda en el pie causada por diabetes mal controlada",
+          "definition_en": "diabetic foot ulcer - deep wound on foot caused by poorly controlled diabetes"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo en una herida durante la curación",
+          "definition_en": "granulation - formation of new tissue in wound during healing"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido vivo en el cuerpo",
+          "definition_en": "necrosis - death of living tissue in the body"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de piel nueva sobre una herida",
+          "definition_en": "epithelialization - formation of new skin over a wound"
+        }
+      ],
+      "added_at": "2026-02-23T09:22:24.759528Z"
+    },
+    {
+      "id": "surgical-wounds-20250223",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Tecnología avanzada reduce infecciones en heridas quirúrgicas",
+      "headline_en": "Advanced technology reduces infections in surgical wounds",
+      "summary_es": "Un nuevo sistema de tecnología avanzada ayuda a prevenir infecciones en sitios quirúrgicos. Este avance promete mejorar los resultados postoperatorios en los hospitales.",
+      "body_es": "Los hospitales utilizan tecnología avanzada para reducir significativamente las infecciones de sitio quirúrgico (ISQ). Las infecciones postoperatorias representan una complicación grave que prolongan la estancia hospitalaria y aumentan los costos médicos. La nueva tecnología de monitoreo utiliza sensores inteligentes para detectar signos tempranos de infección en apósitos quirúrgicos. Los vendajes innovadores mantienen un ambiente óptimo para la cicatrización mientras previenen la contaminación bacteriana. Este sistema permite el desbridamiento selectivo cuando es necesario, preservando el tejido viable. Los estudios clínicos demuestran que estas nuevas técnicas de cuidado de heridas reducen las ISQ en un 35 por ciento. Los profesionales de enfermería pueden monitorear el progreso de la curación de forma remota. La implementación de estos apósitos avanzados mejora significativamente los resultados de los pacientes y acelera la epitelización.",
+      "body_en": "Hospitals are using advanced technology to significantly reduce surgical site infections (SSI). Postoperative infections represent a serious complication that prolongs hospital stays and increases medical costs. The new monitoring technology uses smart sensors to detect early signs of infection in surgical dressings. Innovative dressings maintain an optimal environment for healing while preventing bacterial contamination. This system allows selective debridement when necessary, preserving viable tissue. Clinical studies demonstrate that these new wound care techniques reduce SSIs by 35 percent. Nursing professionals can monitor healing progress remotely. The implementation of these advanced dressings significantly improves patient outcomes and accelerates epithelialization.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUlUaDc3R1pBX0t3VkFOSjRQSmgzekZOTEtKejFQTG1OaTEzT2lJNTMwWF9FeHVYSnBMRE9XN3A0b0pxV0tvUjhRVHF0TzVpSFBhYzE3QkJQN1hMemp5VkhhLUdKODBZSXhqcDZKLXhIaUYwdW85eWtYQk1mbFQ1dG1reDBmNVZvLVY4OGRISDgycjZKRWEycl9aZlpvWG9LbG9yb200NjdweW5QVmZQZW9n?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-23/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección de sitio quirúrgico",
+          "definition_es": "complicación donde bacterias crecen en la incisión postoperatoria",
+          "definition_en": "surgical site infection - complication where bacteria grow in the postoperative incision"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material especial que cubre y protege una herida",
+          "definition_en": "dressing - special material that covers and protects a wound"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz y curación de herida",
+          "definition_en": "wound healing - process of scar formation and wound recovery"
+        }
+      ],
+      "added_at": "2026-02-23T09:22:24.759528Z"
+    },
     {
       "id": "chronic-wounds-20250222",
       "category": "Chronic Wounds",
@@ -7956,6 +8067,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-22T09:11:12.992190Z",
+  "last_updated": "2026-02-23T09:22:24.759528Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
