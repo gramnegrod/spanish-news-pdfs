@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-23",
+      "filename": "spanish_lesson_2026-02-23.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-23.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Gobierno cambia decisión sobre programa de seguridad en aeropuertos",
+          "headline_en": "Government changes decision about airport security program",
+          "body_es": "El Departamento de Seguridad Nacional de Estados Unidos quería suspender un programa especial para viajeros. Este programa se llama TSA PreCheck y permite a las personas pasar más rápido por la seguridad del aeropuerto. Muchos ciudadanos protestaron contra esta decisión. Dijeron que el programa es muy útil y importante. Las protestas fueron muy fuertes en todo el país. Finalmente, el gobierno decidió revertir su decisión original. Ahora el programa TSA PreCheck va a continuar funcionando normalmente. Los viajeros están contentos con esta noticia. El programa ayuda a millones de personas cada año. Esta situación muestra que las protestas ciudadanas pueden cambiar las decisiones del gobierno.",
+          "body_en": "The US Department of Homeland Security wanted to suspend a special program for travelers. This program is called TSA PreCheck and allows people to pass through airport security faster. Many citizens protested against this decision. They said the program is very useful and important. The protests were very strong throughout the country. Finally, the government decided to reverse its original decision. Now the TSA PreCheck program will continue operating normally. Travelers are happy with this news. The program helps millions of people each year. This situation shows that citizen protests can change government decisions.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Dólar americano baja después de anuncio de nuevos aranceles",
+          "headline_en": "US dollar drops after announcement of new tariffs",
+          "body_es": "El presidente Trump anunció nuevos aranceles del 15% para productos de todo el mundo. Un arancel es un impuesto especial que se paga por importar productos de otros países. Después de este anuncio, el dólar americano bajó de valor. También los mercados de acciones europeos tuvieron problemas. Los inversionistas están preocupados por esta decisión. Piensan que los aranceles pueden afectar negativamente el comercio internacional. Cuando hay aranceles altos, es más difícil y caro comprar productos de otros países. Esto puede crear tensiones económicas entre diferentes naciones. Los expertos en economía están estudiando los posibles efectos de esta medida. El comercio global puede cambiar mucho con estas nuevas reglas económicas.",
+          "body_en": "President Trump announced new 15% tariffs for products from around the world. A tariff is a special tax paid for importing products from other countries. After this announcement, the US dollar dropped in value. European stock markets also had problems. Investors are worried about this decision. They think tariffs can negatively affect international trade. When there are high tariffs, it's more difficult and expensive to buy products from other countries. This can create economic tensions between different nations. Economics experts are studying the possible effects of this measure. Global trade can change a lot with these new economic rules.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump presenta nuevo programa para promover tecnología americana",
+          "headline_en": "Trump presents new program to promote American technology",
+          "body_es": "El presidente Trump presentó un nuevo programa llamado 'Tech Corps'. Este programa tiene como objetivo promover la inteligencia artificial americana en otros países. La inteligencia artificial es una tecnología muy avanzada que permite a las computadoras realizar tareas complejas. El programa va a enviar expertos americanos a trabajar en países extranjeros. Estos expertos van a enseñar y compartir conocimientos sobre tecnología avanzada. El gobierno cree que esto va a ayudar a Estados Unidos a mantener su liderazgo tecnológico mundial. También puede crear nuevas oportunidades de negocios internacionales. La inteligencia artificial es considerada muy importante para el futuro económico del país. Muchas empresas tecnológicas apoyan esta iniciativa gubernamental porque puede beneficiar sus negocios.",
+          "body_en": "President Trump presented a new program called 'Tech Corps'. This program aims to promote American artificial intelligence in other countries. Artificial intelligence is a very advanced technology that allows computers to perform complex tasks. The program will send American experts to work in foreign countries. These experts will teach and share knowledge about advanced technology. The government believes this will help the United States maintain its global technological leadership. It can also create new international business opportunities. Artificial intelligence is considered very important for the country's economic future. Many technology companies support this government initiative because it can benefit their businesses.",
+          "source": "CNBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "revertir",
+          "syllables": "re-ver-TIR",
+          "pos": "verbo",
+          "context": "El gobierno decidió revertir su decisión después de las protestas.",
+          "definition_es": "cambiar una decisión anterior, volver atrás",
+          "definition_en": "to reverse, to change back"
+        },
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Los nuevos aranceles afectan el comercio internacional.",
+          "definition_es": "impuestos que se pagan por importar productos",
+          "definition_en": "tariffs, import taxes"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros bajaron después del anuncio.",
+          "definition_es": "lugares donde se compran y venden productos o acciones",
+          "definition_en": "markets"
+        },
+        {
+          "word": "promover",
+          "syllables": "pro-mo-VER",
+          "pos": "verbo",
+          "context": "El nuevo programa va a promover la tecnología americana.",
+          "definition_es": "ayudar al desarrollo de algo, fomentar",
+          "definition_en": "to promote, to encourage"
+        },
+        {
+          "word": "suspender",
+          "syllables": "sus-pen-DER",
+          "pos": "verbo",
+          "context": "La agencia quería suspender el programa especial.",
+          "definition_es": "parar temporalmente una actividad",
+          "definition_en": "to suspend, to temporarily stop"
+        },
+        {
+          "word": "protestas",
+          "syllables": "pro-TES-tas",
+          "pos": "sustantivo",
+          "context": "Las protestas de los ciudadanos cambiaron la decisión oficial.",
+          "definition_es": "expresiones públicas de desacuerdo",
+          "definition_en": "protests, complaints"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial es muy importante para el futuro.",
+          "definition_es": "tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "artificial intelligence (AI)"
+        },
+        {
+          "word": "extranjero",
+          "syllables": "ex-tran-JE-ro",
+          "pos": "adjetivo/sustantivo",
+          "context": "El programa va a trabajar en países extranjeros.",
+          "definition_es": "de otro país, no nacional",
+          "definition_en": "foreign, from another country"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'revertir' una decisión?",
+          "options": [
+            "Confirmar la decisión",
+            "Cambiar la decisión anterior",
+            "Estudiar la decisión",
+            "Publicar la decisión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Los 'aranceles' son:",
+          "options": [
+            "Productos importados",
+            "Impuestos sobre importaciones",
+            "Empresas extranjeras",
+            "Mercados financieros"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'promover' algo?",
+          "options": [
+            "Suspender",
+            "Ayudar al desarrollo",
+            "Protestar",
+            "Importar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Una persona 'extranjera' es:",
+          "options": [
+            "De tu mismo país",
+            "De otro país",
+            "Un experto en tecnología",
+            "Un inversionista"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué el gobierno cambió su decisión sobre TSA PreCheck?",
+          "options": [
+            "Por problemas económicos",
+            "Por las protestas ciudadanas",
+            "Por razones tecnológicas",
+            "Por aranceles nuevos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje de aranceles anunció Trump?",
+          "options": [
+            "10%",
+            "20%",
+            "15%",
+            "25%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con el dólar después del anuncio de aranceles?",
+          "options": [
+            "Subió mucho",
+            "Bajó de valor",
+            "No cambió",
+            "Se mantuvo estable"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama el nuevo programa de tecnología?",
+          "options": [
+            "AI Corps",
+            "Tech Corps",
+            "US Technology",
+            "Global Tech"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué van a hacer los expertos del programa Tech Corps?",
+          "options": [
+            "Trabajar solo en Estados Unidos",
+            "Enseñar en países extranjeros",
+            "Estudiar en universidades",
+            "Crear protestas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué programa ayuda a los viajeros en los aeropuertos?",
+          "options": [
+            "Tech Corps",
+            "TSA PreCheck",
+            "Global Trade",
+            "AI Program"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-23T09:15:20.929542"
+    },
+    {
       "date": "2026-02-22",
       "filename": "spanish_lesson_2026-02-22.pdf",
       "path": "pdfs/spanish_lesson_2026-02-22.pdf",
@@ -17120,7 +17342,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-22T09:05:52.452416",
+  "last_updated": "2026-02-23T09:15:20.929563",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
