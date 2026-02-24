@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-24",
+      "filename": "spanish_lesson_2026-02-24.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-24.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El gobierno de Estados Unidos sigue cerrado parcialmente",
+          "headline_en": "The US government remains partially shut down",
+          "body_es": "El gobierno de Estados Unidos tiene un cierre parcial que continúa esta semana. El problema es que el Congreso está en receso y no puede votar. Los políticos necesitan aprobar un nuevo presupuesto para el país. Sin este presupuesto, muchas oficinas del gobierno no pueden trabajar normalmente. Los empleados del gobierno no saben cuándo van a recibir su salario completo. Esta situación afecta a miles de trabajadores y sus familias. El cierre también causa problemas en servicios públicos importantes. Los ciudadanos esperan que los políticos regresen pronto de su receso. Es necesario encontrar una solución rápida para reabrir el gobierno completamente.",
+          "body_en": "The United States government has a partial shutdown that continues this week. The problem is that Congress is in recess and cannot vote. Politicians need to approve a new budget for the country. Without this budget, many government offices cannot work normally. Government employees don't know when they will receive their full salary. This situation affects thousands of workers and their families. The shutdown also causes problems in important public services. Citizens hope that politicians return soon from their recess. It is necessary to find a quick solution to reopen the government completely.",
+          "source": "Scripps News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Inversionistas estadounidenses prefieren gastar dinero en otros países",
+          "headline_en": "American investors prefer to spend money in other countries",
+          "body_es": "Los inversionistas de Estados Unidos están cambiando sus hábitos de inversión. Antes, muchos preferían invertir en empresas estadounidenses siguiendo la filosofía 'compra América'. Ahora, estos inversionistas están gastando su dinero en mercados extranjeros. Las razones incluyen mejores oportunidades de crecimiento en otros países. También buscan diversificar sus inversiones para reducir riesgos. Los mercados asiáticos y europeos son muy populares entre los inversionistas americanos. Esta tendencia muestra un cambio importante en la economía global. Los expertos dicen que esta diversificación puede ser beneficiosa. Sin embargo, también puede afectar la economía local estadounidense. Las empresas americanas necesitan competir más para atraer inversores.",
+          "body_en": "Investors from the United States are changing their investment habits. Before, many preferred to invest in American companies following the 'buy America' philosophy. Now, these investors are spending their money in foreign markets. The reasons include better growth opportunities in other countries. They also seek to diversify their investments to reduce risks. Asian and European markets are very popular among American investors. This trend shows an important change in the global economy. Experts say this diversification can be beneficial. However, it can also affect the local American economy. American companies need to compete more to attract investors.",
+          "source": "The Japan Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas pagan hasta un millón de dólares a empleados que no programan",
+          "headline_en": "Tech companies pay up to one million dollars to employees who don't program",
+          "body_es": "Las grandes empresas de tecnología están pagando salarios increíbles a nuevos empleados. Estos trabajadores pueden ganar hasta un millón de dólares al año. Lo sorprendente es que no necesitan saber programar computadoras. Las compañías buscan personas con diferentes habilidades profesionales. Necesitan expertos en ventas, marketing, recursos humanos y administración. También buscan especialistas en inteligencia artificial y análisis de datos. Estas posiciones son muy importantes para el crecimiento de las empresas. La competencia entre compañías tecnológicas es muy fuerte actualmente. Por eso ofrecen salarios tan altos para atraer el mejor talento. Esta tendencia está cambiando el mercado laboral en el sector tecnológico. Muchos profesionales de otras industrias están considerando cambiar de carrera.",
+          "body_en": "Big technology companies are paying incredible salaries to new employees. These workers can earn up to one million dollars per year. What's surprising is that they don't need to know how to program computers. Companies are looking for people with different professional skills. They need experts in sales, marketing, human resources, and administration. They also seek specialists in artificial intelligence and data analysis. These positions are very important for company growth. Competition between technology companies is very strong currently. That's why they offer such high salaries to attract the best talent. This trend is changing the job market in the technology sector. Many professionals from other industries are considering changing careers.",
+          "source": "Fortune"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre parcial del gobierno continúa mientras el Congreso está en receso.",
+          "definition_es": "Acción de cerrar o clausurar algo",
+          "definition_en": "The act of closing or shutting down something"
+        },
+        {
+          "word": "receso",
+          "syllables": "re-CE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso está en receso y no puede votar sobre el presupuesto.",
+          "definition_es": "Período de descanso o pausa en las actividades",
+          "definition_en": "A period of break or pause in activities"
+        },
+        {
+          "word": "inversionistas",
+          "syllables": "in-ver-sio-NIS-tas",
+          "pos": "sustantivo",
+          "context": "Los inversionistas estadounidenses están gastando su dinero en otros países.",
+          "definition_es": "Personas que invierten dinero para obtener beneficios",
+          "definition_en": "People who invest money to obtain profits"
+        },
+        {
+          "word": "extranjero",
+          "syllables": "ex-tran-JE-ro",
+          "pos": "adjetivo",
+          "context": "Muchos inversionistas prefieren mercados extranjeros ahora.",
+          "definition_es": "Que pertenece a otro país",
+          "definition_en": "Belonging to another country"
+        },
+        {
+          "word": "contratación",
+          "syllables": "con-tra-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas están pagando mucho dinero por la contratación de nuevos empleados.",
+          "definition_es": "Proceso de emplear a alguien para un trabajo",
+          "definition_en": "Process of hiring someone for a job"
+        },
+        {
+          "word": "programar",
+          "syllables": "pro-gra-MAR",
+          "pos": "verbo",
+          "context": "Estos nuevos empleados no necesitan saber programar.",
+          "definition_es": "Escribir código para crear programas de computadora",
+          "definition_en": "To write code to create computer programs"
+        },
+        {
+          "word": "salario",
+          "syllables": "sa-LA-rio",
+          "pos": "sustantivo",
+          "context": "El salario puede llegar hasta un millón de dólares al año.",
+          "definition_es": "Dinero que se paga a una persona por su trabajo",
+          "definition_en": "Money paid to a person for their work"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "Sin un nuevo presupuesto, el gobierno no puede funcionar completamente.",
+          "definition_es": "Plan de gastos e ingresos para un período determinado",
+          "definition_en": "A plan of expenses and income for a specific period"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'cierre' en el contexto del gobierno?",
+          "options": [
+            "Una celebración oficial",
+            "La clausura de operaciones",
+            "Una reunión importante",
+            "Un nuevo proyecto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'inversionista' es una persona que:",
+          "options": [
+            "Trabaja en el gobierno",
+            "Pone dinero para obtener beneficios",
+            "Programa computadoras",
+            "Enseña en universidades"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'extranjero'?",
+          "options": [
+            "Muy caro",
+            "De otro país",
+            "Muy difícil",
+            "Muy importante"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Programar' se refiere a:",
+          "options": [
+            "Planificar una reunión",
+            "Escribir código de computadora",
+            "Vender productos",
+            "Administrar dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia sobre política, ¿por qué continúa el cierre del gobierno?",
+          "options": [
+            "Los empleados están en huelga",
+            "El Congreso está en receso",
+            "No hay dinero suficiente",
+            "Los ciudadanos no están de acuerdo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué necesitan aprobar los políticos para solucionar el cierre?",
+          "options": [
+            "Una nueva ley",
+            "Un nuevo presupuesto",
+            "Un nuevo presidente",
+            "Una nueva constitución"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia económica, ¿dónde están invirtiendo ahora los estadounidenses?",
+          "options": [
+            "Solo en Estados Unidos",
+            "En mercados extranjeros",
+            "En bienes raíces únicamente",
+            "En bancos locales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuál era la filosofía anterior de los inversionistas estadounidenses?",
+          "options": [
+            "Compra Europa",
+            "Compra Asia",
+            "Compra América",
+            "Compra todo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuánto pueden ganar los nuevos empleados de empresas tecnológicas?",
+          "options": [
+            "Hasta 500,000 dólares",
+            "Hasta 1 millón de dólares",
+            "Hasta 100,000 dólares",
+            "Hasta 2 millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de empleados buscan las empresas tecnológicas además de programadores?",
+          "options": [
+            "Solo ingenieros",
+            "Expertos en ventas y marketing",
+            "Solo estudiantes",
+            "Solo gerentes"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-24T09:15:22.919464"
+    },
+    {
       "date": "2026-02-23",
       "filename": "spanish_lesson_2026-02-23.pdf",
       "path": "pdfs/spanish_lesson_2026-02-23.pdf",
@@ -17342,7 +17564,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-23T09:15:20.929563",
+  "last_updated": "2026-02-24T09:15:22.919488",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
