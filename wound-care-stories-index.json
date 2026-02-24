@@ -1,11 +1,122 @@
 {
-  "date": "2026-02-23",
-  "generated_at": "2026-02-23T09:22:24.759528Z",
+  "date": "2026-02-24",
+  "generated_at": "2026-02-24T09:22:05.039238Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 218,
+  "total_stories": 221,
   "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250224",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo Centro de Cuidado Avanzado de Heridas en el Centro Médico Southeastern",
+      "headline_en": "Advanced Wound Care Now Available at Southeastern Medical Center",
+      "summary_es": "El Centro Médico Southeastern ofrece ahora tratamientos avanzados para heridas crónicas. Estos nuevos servicios ayudan a los pacientes con úlceras y heridas que no cierran.",
+      "body_es": "El Centro Médico Southeastern abre un nuevo departamento de cuidado de heridas. Los médicos y enfermeros especializados trabajan con pacientes que tienen heridas crónicas. Las heridas crónicas son lesiones que no cierran después de cuatro semanas. El centro usa vendajes especiales y tratamientos modernos. Los apósitos avanzados protegen la herida y ayudan a la curación. El equipo evalúa cada herida con cuidado. Miden el tamaño y observan el exudado. El tratamiento incluye limpieza regular y cambio de vendajes. Los pacientes reciben educación sobre el cuidado en casa. El nuevo servicio ayuda a prevenir infecciones y complicaciones graves.",
+      "body_en": "Southeastern Medical Center opens a new wound care department. Specialized doctors and nurses work with patients who have chronic wounds. Chronic wounds are injuries that do not close after four weeks. The center uses special dressings and modern treatments. Advanced dressings protect the wound and help healing. The team carefully evaluates each wound. They measure the size and observe the drainage. Treatment includes regular cleaning and dressing changes. Patients receive education about home care. The new service helps prevent infections and serious complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVFZzTzF6M05PaUNVNmpVNm42ZTd5NUVwc19BMzFqU3FheUt1blFGNFVFZXNwb0xqWmxMR3owR0ZpZW92MTVZMTNzdS0yNVl6a2doMWZVQ2gtRzlOMjJYTVlmeWs3SWYyakg0aXYtR1lCczRfRXZUcmxqZXBnNFgtRkxrUk85M1k2aEpyYkJFMDNWckY5Y3g0OE9YcTNPTmNjd1ZGMXJLS3JSS1d1UTMxdFdJaXRhRUEzems4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-24/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra después de cuatro semanas",
+          "definition_en": "chronic wound - injury that does not close after four weeks"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material estéril que cubre la herida",
+          "definition_en": "dressing - sterile material that covers the wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de la herida",
+          "definition_en": "drainage - fluid that comes from the wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y cierre de la herida",
+          "definition_en": "healing - process of wound closure and scarring"
+        }
+      ],
+      "added_at": "2026-02-24T09:22:05.039238Z"
+    },
+    {
+      "id": "surgical-wounds-20250224",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Timing Óptimo del Retiro de Vendajes en Cirugía de Cesárea de Emergencia",
+      "headline_en": "Timing of Wound Dressing Removal After Emergency Cesarean Section",
+      "summary_es": "Un ensayo controlado aleatorio examina cuándo los médicos deben retirar los vendajes después de una cesárea de emergencia. El momento correcto del cambio de vendaje puede mejorar la cicatrización.",
+      "body_es": "Un estudio reciente publicado en Cureus investigó el momento óptimo para retirar los vendajes quirúrgicos después de una cesárea de emergencia. Los investigadores compararon dos grupos de pacientes: uno con retiro temprano de vendajes y otro con retiro tardío. El objetivo era evaluar la cicatrización de la incisión, la infección quirúrgica y la satisfacción de la paciente. Los resultados mostraron diferencias importantes en los tiempos de cambio de vendaje. El retiro temprano permitió una mejor evaluación de la herida quirúrgica. La evaluación regular de la cicatrización es esencial para prevenir complicaciones como infección o dehiscencia. Los médicos observaron el eritema, el exudado y la epitelización en cada visita. Este estudio proporciona evidencia para mejorar los protocolos de cuidado postoperatorio en cirugía obstétrica.",
+      "body_en": "A recent study published in Cureus investigated the optimal timing for removing surgical dressings after emergency cesarean section. Researchers compared two groups of patients: one with early dressing removal and another with late removal. The objective was to evaluate wound healing of the incision, surgical infection, and patient satisfaction. Results showed important differences in dressing change timing. Early removal allowed better assessment of the surgical wound. Regular evaluation of healing is essential to prevent complications such as infection or dehiscence. Physicians observed erythema, drainage, and epithelialization at each visit. This study provides evidence to improve postoperative care protocols in obstetric surgery.",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSl81MEp1Z3lpR25VUEdTOXhZRzdfTHk1VkRNRGl1VXRxRXFhdmkyZUVMNmk2aFU5Z09xYjJlc1hVaU1tVnN6TFY3NHd2bXFIYlJFR040VTdsaFVVc1RmVHZBZWRaTEdQR2d4ZWN4My1pZHBUX0Qza2JOTkhFN1RwXzFKeFcyQUZVWGpJRU5IOHgxek9LOGxoSnhUSE9DTzloU09MQWpfamRSYWVhcEFyRTV0ZXBTb2NPNklMMmIwak0wTEFBNGJxa3hINEd4SGc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-24/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje quirúrgico",
+          "definition_es": "apósito estéril colocado durante la cirugía",
+          "definition_en": "surgical dressing - sterile covering applied during surgery"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y reparación de la herida",
+          "definition_en": "wound healing - process of closure and repair"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva capa de piel sobre la herida",
+          "definition_en": "epithelialization - formation of new skin layer over wound"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel alrededor de la herida",
+          "definition_en": "erythema - redness of skin around the wound"
+        }
+      ],
+      "added_at": "2026-02-24T09:22:05.039238Z"
+    },
+    {
+      "id": "wound-research-20250224",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación sobre Tecnología Portátil y Ejercicio en el Cuidado de Pacientes con Sarcoma",
+      "headline_en": "Study Examines Wearable Tech and Exercise for Pediatric and Young Adult Sarcoma Care",
+      "summary_es": "La Universidad de Miami realiza un estudio sobre cómo la tecnología portátil y el ejercicio pueden mejorar la recuperación en pacientes pediátricos con sarcoma. Esta investigación busca optimizar el cuidado postoperatorio.",
+      "body_es": "Investigadores de la Universidad de Miami están evaluando el uso de dispositivos portátiles para monitorizar la actividad física y la recuperación en pacientes pediátricos y adultos jóvenes con sarcoma. El sarcoma es un tumor maligno que requiere cirugía, quimioterapia y a menudo radioterapia. Después de la cirugía, los pacientes deben cicatrizar adecuadamente y recuperar la función. Los investigadores utilizan sensores para registrar datos sobre movimiento, frecuencia cardíaca y patrones de actividad. El objetivo es determinar cómo el ejercicio supervisado acelera la epitelización y fortalece los tejidos alrededor de la herida. Los datos recopilados ayudarán a desarrollar protocolos de rehabilitación personalizados. Este enfoque innovador combina la tecnología moderna con la medicina convencional para mejorar los resultados clínicos y la calidad de vida.",
+      "body_en": "Researchers at the University of Miami are evaluating the use of wearable devices to monitor physical activity and recovery in pediatric and young adult patients with sarcoma. Sarcoma is a malignant tumor requiring surgery, chemotherapy, and often radiotherapy. After surgery, patients must heal properly and regain function. Researchers use sensors to record data on movement, heart rate, and activity patterns. The goal is to determine how supervised exercise accelerates epithelialization and strengthens tissues around the wound. Data collected will help develop personalized rehabilitation protocols. This innovative approach combines modern technology with conventional medicine to improve clinical outcomes and quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzFKOGFtTmJlVUN6UnQ0S280NmM2QUpUeU5uQVZ5NkZxWHdRR0x5MGc0eGNUTUdIUHdwMFo5M2kwaHhkazJYY2drbXJmU0VoQmkxdFBHYzVvRXFsVUVlTkxkVHdSUzdIX0tXbU8tN2hpQm9FSnU0cmFTVWFQU3N5YWU0VGVKVEdPb3dVZkhIUURucW94bUpaUkduRXNvMjE3M0h3RU1ZRzVmLVFoUGRHS1Z3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-24/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dispositivo portátil",
+          "definition_es": "equipo tecnológico que se lleva en el cuerpo para monitorizar datos",
+          "definition_en": "wearable device - technological equipment worn on body to monitor data"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva capa celular sobre la herida",
+          "definition_en": "epithelialization - formation of new cellular layer over wound"
+        },
+        {
+          "word": "rehabilitación",
+          "definition_es": "proceso de recuperación y restauración de función física",
+          "definition_en": "rehabilitation - process of recovery and restoration of physical function"
+        },
+        {
+          "word": "protocolo",
+          "definition_es": "conjunto de procedimientos estandarizados para el tratamiento",
+          "definition_en": "protocol - standardized set of procedures for treatment"
+        }
+      ],
+      "added_at": "2026-02-24T09:22:05.039238Z"
+    },
     {
       "id": "chronic-wounds-20250223",
       "category": "Chronic Wounds",
@@ -8067,6 +8178,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-23T09:22:24.759528Z",
+  "last_updated": "2026-02-24T09:22:05.039238Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
