@@ -1,11 +1,159 @@
 {
-  "date": "2026-02-24",
-  "generated_at": "2026-02-24T09:22:05.039238Z",
+  "date": "2026-02-25",
+  "generated_at": "2026-02-25T09:22:00.290462Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 221,
-  "new_today": 3,
+  "total_stories": 225,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250225",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "OhioHealth Expande Servicios de Cuidado de Heridas",
+      "headline_en": "OhioHealth Expands Wound Care Services",
+      "summary_es": "OhioHealth añade terapia de oxígeno hiperbárico en Cambridge. Este nuevo servicio ayuda a curar heridas crónicas más rápido.",
+      "body_es": "OhioHealth ha expandido sus servicios de cuidado de heridas. Ahora ofrece terapia de oxígeno hiperbárico en Cambridge. Esta terapia usa oxígeno a alta presión. Ayuda a sanar heridas difíciles y úlceras. El oxígeno hiperbárico acelera la curación. Es efectivo para heridas que no cicatrizan bien. Los pacientes reciben tratamiento en una cámara especial. El equipo médico controla la presión y el tiempo. Este nuevo servicio mejora la atención a pacientes con heridas crónicas. OhioHealth continúa desarrollando opciones de tratamiento avanzadas.",
+      "body_en": "OhioHealth has expanded its wound care services. It now offers hyperbaric oxygen therapy in Cambridge. This therapy uses oxygen at high pressure. It helps heal difficult wounds and ulcers. Hyperbaric oxygen accelerates healing. It is effective for wounds that do not heal well. Patients receive treatment in a special chamber. The medical team monitors pressure and time. This new service improves care for patients with chronic wounds. OhioHealth continues developing advanced treatment options.",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZnI2Wi14bHhmNUxFZnczVXBPQTd6V3RPcDhWWTVDeFNGeWJ5T21tMUFSXzdINlo5WFVyLTQ3amVDMXUxM0VqM1V2YndVcEtBNVU1RUVzMS1nNDdLX3p3QmFaeDdhLU9UajM1M1ktT1NkT2M5X05sblktOEJjWjRwVk14R2l0SHlZNzh5YUFoYTJDVmJDM1haaUhGVkNFaE1heXlYWi1WVUt1ZzQ5NENvLUZRM2pBQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-25/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o los tejidos del cuerpo",
+          "definition_en": "wound - injury to the skin or body tissues"
+        },
+        {
+          "word": "oxígeno hiperbárico",
+          "definition_es": "oxígeno a alta presión usado en tratamientos médicos",
+          "definition_en": "hyperbaric oxygen - high-pressure oxygen used in medical treatment"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida o enfermedad",
+          "definition_en": "healing - process of recovering from a wound or illness"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza bien",
+          "definition_en": "ulcer - open sore on the skin that does not heal well"
+        }
+      ],
+      "added_at": "2026-02-25T09:22:00.290462Z"
+    },
+    {
+      "id": "burn-care-20250225",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "El Injerto Autólogo de Grasa Transforma el Tratamiento de Quemaduras",
+      "headline_en": "Autologous Fat Grafting Transforms Burn Treatment",
+      "summary_es": "El mercado de injertos autólogos de grasa está creciendo significativamente. Se espera que alcance 476.83 millones de dólares para 2035, mejorando la calidad de vida de pacientes quemados.",
+      "body_es": "El injerto autólogo de grasa es una técnica avanzada de tratamiento que utiliza las propias células grasas del paciente. Este procedimiento es especialmente beneficioso para pacientes con quemaduras extensas y cicatrices. Durante el procedimiento, se extrae tejido graso del paciente y se reinjeerta en las áreas dañadas. La grasa autóloga promueve la regeneración de tejidos y mejora la circulación sanguínea. El mercado mundial de esta tecnología está experimentando un crecimiento exponencial. Se proyecta que llegará a USD 476.83 millones para 2035. Los beneficios incluyen cicatrices menos visibles y mejor elasticidad de la piel. Los resultados funcionales y estéticos son superiores a otros tratamientos convencionales. Esta técnica representa un avance importante en la medicina regenerativa para quemaduras.",
+      "body_en": "Autologous fat grafting is an advanced treatment technique that uses the patient's own fat cells. This procedure is especially beneficial for patients with extensive burns and scars. During the procedure, fat tissue is extracted from the patient and reinjected into damaged areas. Autologous fat promotes tissue regeneration and improves blood circulation. The global market for this technology is experiencing exponential growth. It is projected to reach USD 476.83 million by 2035. Benefits include less visible scars and better skin elasticity. Functional and aesthetic results are superior to conventional treatments. This technique represents an important advance in regenerative medicine for burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ec0ZTVVhVSHN0RDVwLXMwdngzQmktUk1QZGE1U1JnU2pOd096STBtd1dydzJzUzhzUkU5TGV3cTJPUWZwNzJHSnpTVFExLU9ybTc4a2QzckRtZ3N5b3pFMDc1bXBWWVZIZVl0cXM3N2ZqRGs?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-25/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "injerto autólogo",
+          "definition_es": "tejido extraído del mismo paciente para trasplantarlo a otra área de su cuerpo",
+          "definition_en": "autologous graft - tissue extracted from the same patient to be transplanted to another area"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por fuego, calor o sustancias químicas",
+          "definition_en": "burn - injury to the skin caused by fire, heat, or chemical substances"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que deja una herida después de cicatrizar",
+          "definition_en": "scar - mark left by a wound after healing"
+        },
+        {
+          "word": "regeneración de tejidos",
+          "definition_es": "proceso de crecimiento y reparación de nuevos tejidos corporales",
+          "definition_en": "tissue regeneration - process of growth and repair of new body tissues"
+        }
+      ],
+      "added_at": "2026-02-25T09:22:00.290462Z"
+    },
+    {
+      "id": "surgical-wounds-20250225",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Terapia de Presión Negativa para Fascitis Necrotizante Perianal",
+      "headline_en": "Negative Pressure Wound Therapy for Perianal Necrotizing Fasciitis",
+      "summary_es": "Frontiers publica un estudio de caso sobre el uso de terapia de presión negativa en fascitis necrotizante perianal. Este tratamiento mejora los resultados en infecciones graves post-quirúrgicas.",
+      "body_es": "La fascitis necrotizante perianal es una infección grave de los tejidos que requiere intervención quirúrgica urgente. La terapia de presión negativa en heridas (NPWT) es una técnica avanzada que acelera la cicatrización en heridas quirúrgicas complejas. Este sistema utiliza presión controlada para extraer exudado y promover la granulación del tejido. Frontiers ha publicado un reporte de caso que demuestra la efectividad de NPWT en fascitis necrotizante. El tratamiento se aplica después del desbridamiento quirúrgico de tejido necrótico. La presión negativa estimula la angiogénesis y reduce el riesgo de infección. Los resultados muestran cicatrización más rápida y mejores resultados funcionales. Esta técnica es especialmente valiosa para heridas profundas y complicadas. El estudio contribuye a la evidencia clínica sobre tratamientos de heridas post-quirúrgicas.",
+      "body_en": "Perianal necrotizing fasciitis is a severe tissue infection requiring urgent surgical intervention. Negative pressure wound therapy (NPWT) is an advanced technique that accelerates healing in complex surgical wounds. This system uses controlled pressure to extract exudate and promote tissue granulation. Frontiers has published a case report demonstrating the effectiveness of NPWT in necrotizing fasciitis. Treatment is applied after surgical debridement of necrotic tissue. Negative pressure stimulates angiogenesis and reduces infection risk. Results show faster healing and improved functional outcomes. This technique is especially valuable for deep and complicated wounds. The study contributes to clinical evidence on post-surgical wound treatments.",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lVWRXNXhlSXVKU2EtM0JPRF84bTBjc01oQnZ3a1R3SVdvRUNwcUw4UmhzbGFkZUx5cGxTQndlbU9laW5oaVZGSmtoeFgzb2I4TEVNbkVQRGtpSF9aRkg4SjJNMFNYUTZVdFFuNUFreUNoQngwRG5J?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-25/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "fascitis necrotizante",
+          "definition_es": "infección bacteriana grave que destruye los tejidos blandos rápidamente",
+          "definition_en": "necrotizing fasciitis - severe bacterial infection that rapidly destroys soft tissues"
+        },
+        {
+          "word": "presión negativa",
+          "definition_es": "succión controlada aplicada a una herida para mejorar la cicatrización",
+          "definition_en": "negative pressure - controlled suction applied to a wound to improve healing"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido durante el proceso de cicatrización",
+          "definition_en": "granulation - formation of new tissue during the healing process"
+        }
+      ],
+      "added_at": "2026-02-25T09:22:00.290462Z"
+    },
+    {
+      "id": "wound-research-20250225",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación Cercana: Avances en Tecnología de Cuidado de Heridas",
+      "headline_en": "Close to Home: Advances in Wound Care Technology",
+      "summary_es": "La Universidad de California en San Diego desarrolla nuevas investigaciones sobre tecnología de cuidado de heridas. Los estudios buscan mejorar los resultados clínicos en pacientes con heridas crónicas y complejas.",
+      "body_es": "La Universidad de California en San Diego continúa realizando investigaciones innovadoras en el campo del cuidado de heridas. Los investigadores están evaluando nuevas tecnologías y biomateriales que podrían revolucionar el tratamiento de heridas crónicas. El equipo de investigación colabora con centros clínicos locales para desarrollar soluciones basadas en evidencia. Las investigaciones incluyen estudios sobre materiales de apósito avanzados y terapias celulares. Los resultados preliminares muestran mejoras significativas en la tasa de cicatrización. Los investigadores utilizan modelos computacionales para optimizar los protocolos de tratamiento. El objetivo es proporcionar opciones terapéuticas más efectivas y accesibles para los pacientes. Esta investigación tiene implicaciones importantes para la medicina regenerativa. Los hallazgos contribuyen al avance de la práctica clínica en cuidado de heridas a nivel nacional.",
+      "body_en": "The University of California in San Diego continues conducting innovative research in the field of wound care. Researchers are evaluating new technologies and biomaterials that could revolutionize the treatment of chronic wounds. The research team collaborates with local clinical centers to develop evidence-based solutions. Research includes studies on advanced dressing materials and cellular therapies. Preliminary results show significant improvements in healing rates. Researchers use computational models to optimize treatment protocols. The goal is to provide more effective and accessible therapeutic options for patients. This research has important implications for regenerative medicine. Findings contribute to advancing clinical practice in wound care at the national level.",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVV2SThmSzhyMGdGczRuUjk3eTdOanNhZmlGOTJncy1ycE9kRTFyOVZ0SjZ3ZGlNTHZGa2VIbENHQlBuOV82dV93TXpXSW1ISkRqeGstVVp0M2dwbGUwMjlMS1pyclhOV3Y1cTlpLVFoazg3NW95R0Q2elBkb2ZRUlgtTWRCS0djcG9za1lVWUhkanZ2R1l6NUZkUDRoU0EyQWdDdTF3MHQtbXhnajBjdk1EcXN0c3pDNU1KQw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-25/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material estéril aplicado directamente sobre una herida para protegerla",
+          "definition_en": "dressing - sterile material applied directly to a wound for protection"
+        },
+        {
+          "word": "biomaterial",
+          "definition_es": "sustancia biocompatible utilizada para reemplazar o reparar tejidos dañados",
+          "definition_en": "biomaterial - biocompatible substance used to replace or repair damaged tissues"
+        },
+        {
+          "word": "medicina regenerativa",
+          "definition_es": "campo médico que busca restaurar la función de órganos y tejidos dañados",
+          "definition_en": "regenerative medicine - medical field that seeks to restore function of damaged organs and tissues"
+        },
+        {
+          "word": "protocolo de tratamiento",
+          "definition_es": "conjunto de procedimientos y instrucciones establecidas para tratar una enfermedad",
+          "definition_en": "treatment protocol - set of established procedures and instructions to treat a disease"
+        }
+      ],
+      "added_at": "2026-02-25T09:22:00.290462Z"
+    },
     {
       "id": "chronic-wounds-20250224",
       "category": "Chronic Wounds",
@@ -8178,6 +8326,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-24T09:22:05.039238Z",
+  "last_updated": "2026-02-25T09:22:00.290462Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
