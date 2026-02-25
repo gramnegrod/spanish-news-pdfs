@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-25",
+      "filename": "spanish_lesson_2026-02-25.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-25.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump promete una era dorada en su discurso anual",
+          "headline_en": "Trump promises a golden age in his annual speech",
+          "body_es": "El presidente Donald Trump dio su discurso del Estado de la Unión al Congreso estadounidense. En su presentación, Trump presumió de los logros de su gobierno. Habló de crear una nueva era dorada para Estados Unidos. Sin embargo, las divisiones partidistas son muy evidentes en el país. Los demócratas y republicanos tienen opiniones muy diferentes sobre las políticas del presidente. Durante el discurso, algunos congresistas aplaudieron mientras otros se mantuvieron en silencio. Trump prometió seguir trabajando para mejorar la economía y crear más empleos. También habló sobre temas de inmigración y seguridad nacional. El discurso duró más de una hora y fue transmitido por televisión a todo el país.",
+          "body_en": "President Donald Trump gave his State of the Union speech to the US Congress. In his presentation, Trump boasted about his government's achievements. He spoke of creating a new golden age for the United States. However, partisan divisions are very evident in the country. Democrats and Republicans have very different opinions about the president's policies. During the speech, some congresspeople applauded while others remained silent. Trump promised to continue working to improve the economy and create more jobs. He also spoke about immigration and national security issues. The speech lasted more than an hour and was broadcast on television across the country.",
+          "source": "Los Angeles Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos impone aranceles a varios países y productos",
+          "headline_en": "United States imposes tariffs on various countries and products",
+          "body_es": "El gobierno estadounidense ha puesto nuevos aranceles a productos de diferentes países. Los aranceles son impuestos especiales que se pagan cuando se importan productos. China es uno de los países más afectados por estas medidas. Los productos incluyen electrónicos, ropa y alimentos. Otros países como México y Canadá también enfrentan algunos aranceles. El gobierno dice que estos impuestos protegen a las empresas americanas. Sin embargo, muchos economistas creen que los aranceles pueden hacer que los productos sean más caros para los consumidores. Las empresas que importan productos están preocupadas porque sus costos aumentan. Los aranceles son parte de una estrategia para mejorar la economía nacional, según el gobierno.",
+          "body_en": "The US government has placed new tariffs on products from different countries. Tariffs are special taxes paid when importing products. China is one of the countries most affected by these measures. Products include electronics, clothing, and food. Other countries like Mexico and Canada also face some tariffs. The government says these taxes protect American companies. However, many economists believe tariffs can make products more expensive for consumers. Companies that import products are worried because their costs increase. Tariffs are part of a strategy to improve the national economy, according to the government.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El Pentágono da ultimátum a empresa de inteligencia artificial",
+          "headline_en": "Pentagon gives ultimatum to artificial intelligence company",
+          "body_es": "El Pentágono, que es el centro militar de Estados Unidos, ha dado un ultimátum a la empresa Anthropic. Esta empresa desarrolla modelos de inteligencia artificial muy avanzados. El gobierno militar está preocupado por la seguridad nacional. Cree que estos modelos de inteligencia artificial pueden ser peligrosos si no se controlan bien. El ultimátum significa que Anthropic debe cambiar algunas cosas en su tecnología o enfrentar consecuencias. La empresa tiene poco tiempo para responder a las demandas del Pentágono. Este conflicto muestra las tensiones entre el desarrollo tecnológico y la seguridad nacional. Muchas empresas de tecnología ahora deben trabajar más cerca con el gobierno. La inteligencia artificial es una tecnología muy poderosa que puede cambiar muchas cosas en la sociedad.",
+          "body_en": "The Pentagon, which is the US military center, has given an ultimatum to the company Anthropic. This company develops very advanced artificial intelligence models. The military government is concerned about national security. It believes these AI models can be dangerous if not properly controlled. The ultimatum means Anthropic must change some things in its technology or face consequences. The company has little time to respond to the Pentagon's demands. This conflict shows tensions between technological development and national security. Many technology companies now must work more closely with the government. Artificial intelligence is very powerful technology that can change many things in society.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presumir",
+          "syllables": "pre-su-MIR",
+          "pos": "verbo",
+          "context": "Trump presume de crear una nueva era dorada para Estados Unidos.",
+          "definition_es": "Hablar con orgullo de algo propio, mostrar algo con vanidad",
+          "definition_en": "To boast, to brag about something"
+        },
+        {
+          "word": "división",
+          "syllables": "di-vi-SIÓN",
+          "pos": "sustantivo",
+          "context": "Hay grandes divisiones entre los partidos políticos en el Congreso.",
+          "definition_es": "Separación o diferencia marcada entre grupos o ideas",
+          "definition_en": "Division, separation between groups"
+        },
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Estados Unidos pone aranceles a productos de varios países.",
+          "definition_es": "Impuestos que se pagan por importar productos de otros países",
+          "definition_en": "Tariffs, taxes on imported goods"
+        },
+        {
+          "word": "ultimátum",
+          "syllables": "ul-ti-MÁ-tum",
+          "pos": "sustantivo",
+          "context": "El Pentágono da un ultimátum a la empresa de inteligencia artificial.",
+          "definition_es": "Demanda final con amenaza de consecuencias si no se cumple",
+          "definition_en": "Ultimatum, final demand with threat of consequences"
+        },
+        {
+          "word": "era dorada",
+          "syllables": "E-ra do-RA-da",
+          "pos": "sustantivo",
+          "context": "El presidente habla de una nueva era dorada para el país.",
+          "definition_es": "Período de gran prosperidad y éxito",
+          "definition_en": "Golden age, period of great prosperity"
+        },
+        {
+          "word": "partidista",
+          "syllables": "par-ti-DIS-ta",
+          "pos": "adjetivo",
+          "context": "Las divisiones partidistas son muy fuertes en el gobierno actual.",
+          "definition_es": "Relacionado con favorecer solo a un partido político",
+          "definition_en": "Partisan, biased toward one political party"
+        },
+        {
+          "word": "modelo",
+          "syllables": "mo-DE-lo",
+          "pos": "sustantivo",
+          "context": "La empresa desarrolla un nuevo modelo de inteligencia artificial.",
+          "definition_es": "Sistema o ejemplo que se usa como referencia",
+          "definition_en": "Model, system used as reference"
+        },
+        {
+          "word": "productos",
+          "syllables": "pro-DUC-tos",
+          "pos": "sustantivo",
+          "context": "Los aranceles afectan muchos productos importados de China.",
+          "definition_es": "Cosas que se fabrican o cultivan para vender",
+          "definition_en": "Products, things made or grown to sell"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'presumir' en el contexto político?",
+          "options": [
+            "Criticar duramente",
+            "Hablar con orgullo de logros",
+            "Esconder información",
+            "Mentir públicamente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son los aranceles?",
+          "options": [
+            "Productos importados",
+            "Impuestos sobre importaciones",
+            "Empresas extranjeras",
+            "Acuerdos comerciales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Un 'ultimátum' es:",
+          "options": [
+            "Una negociación amistosa",
+            "Una demanda final con amenaza",
+            "Un acuerdo mutuo",
+            "Una sugerencia opcional"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'era dorada'?",
+          "options": [
+            "Período de crisis",
+            "Época de oro literal",
+            "Tiempo de prosperidad",
+            "Era prehistórica"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿dónde dio Trump su discurso del Estado de la Unión?",
+          "options": [
+            "En la Casa Blanca",
+            "En el Congreso",
+            "En un hotel",
+            "En la televisión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el país más afectado por los aranceles estadounidenses?",
+          "options": [
+            "México",
+            "Canadá",
+            "China",
+            "Brasil"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué institución dio el ultimátum a Anthropic?",
+          "options": [
+            "La Casa Blanca",
+            "El Congreso",
+            "El Pentágono",
+            "La CIA"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto duró aproximadamente el discurso de Trump?",
+          "options": [
+            "30 minutos",
+            "45 minutos",
+            "Más de una hora",
+            "Dos horas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿por qué están preocupadas las empresas importadoras?",
+          "options": [
+            "Porque los productos son de mala calidad",
+            "Porque sus costos aumentan",
+            "Porque no hay demanda",
+            "Porque cambian las leyes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de tecnología desarrolla la empresa Anthropic?",
+          "options": [
+            "Teléfonos móviles",
+            "Computadoras",
+            "Inteligencia artificial",
+            "Videojuegos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-25T09:15:29.154924"
+    },
+    {
       "date": "2026-02-24",
       "filename": "spanish_lesson_2026-02-24.pdf",
       "path": "pdfs/spanish_lesson_2026-02-24.pdf",
@@ -17564,7 +17786,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-24T09:15:22.919488",
+  "last_updated": "2026-02-25T09:15:29.154943",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
