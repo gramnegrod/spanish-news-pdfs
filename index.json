@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-26",
+      "filename": "spanish_lesson_2026-02-26.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-26.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Expertos verifican las declaraciones del presidente sobre economía e inmigración",
+          "headline_en": "Experts fact-check president's statements about economy and immigration",
+          "body_es": "Los expertos están verificando las declaraciones que hizo el presidente en su discurso anual. El presidente habló sobre la economía, la inmigración y la criminalidad del país. Los verificadores de datos dicen que algunas declaraciones son correctas, pero otras no son completamente verdaderas. Por ejemplo, el presidente dijo que la economía está muy bien, pero los números muestran una situación más complicada. También habló sobre la inmigración y dijo que hay menos crimen ahora. Los expertos están revisando todos los datos para confirmar si estas declaraciones son correctas. Es importante verificar la información que dan los políticos para que los ciudadanos tengan datos verdaderos.",
+          "body_en": "Experts are fact-checking the statements the president made in his annual speech. The president spoke about the economy, immigration, and crime in the country. Fact-checkers say some statements are correct, but others are not completely true. For example, the president said the economy is doing very well, but the numbers show a more complicated situation. He also spoke about immigration and said there is less crime now. Experts are reviewing all the data to confirm if these statements are correct. It is important to verify the information politicians give so citizens have true data.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Banquero importante advierte sobre riesgos de una nueva crisis financiera",
+          "headline_en": "Important banker warns about risks of a new financial crisis",
+          "body_es": "Jamie Dimon, el presidente de un banco muy importante en Estados Unidos, está preocupado por la economía. Él advierte que la situación actual tiene paralelos con la crisis financiera que ocurrió hace algunos años. Dimon dice que algunas personas están haciendo \"cosas tontas\" con el dinero, como pasó antes de la gran crisis. El banquero cree que muchas personas no están siendo cuidadosas con sus inversiones. Estas acciones peligrosas pueden causar problemas económicos grandes en el futuro. Dimon recomienda que las personas y las empresas sean más cuidadosas con sus decisiones financieras. Su advertencia es importante porque él tiene mucha experiencia en el mundo financiero y conoce bien estos problemas.",
+          "body_en": "Jamie Dimon, the president of a very important bank in the United States, is worried about the economy. He warns that the current situation has parallels with the financial crisis that occurred some years ago. Dimon says some people are doing \"dumb things\" with money, like what happened before the big crisis. The banker believes many people are not being careful with their investments. These dangerous actions can cause big economic problems in the future. Dimon recommends that people and companies be more careful with their financial decisions. His warning is important because he has a lot of experience in the financial world and knows these problems well.",
+          "source": "Fox Business"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nvidia gana 43 mil millones de dólares vendiendo chips de inteligencia artificial",
+          "headline_en": "Nvidia earns 43 billion dollars selling artificial intelligence chips",
+          "body_es": "La empresa tecnológica Nvidia tuvo ganancias increíbles en los últimos tres meses. La empresa ganó 43 mil millones de dólares vendiendo chips especiales para inteligencia artificial. Estos chips son muy importantes para hacer funcionar sistemas de inteligencia artificial, como ChatGPT. Muchas empresas quieren comprar estos productos porque la inteligencia artificial es muy popular ahora. Las ganancias de Nvidia son mucho más altas que el año pasado. La empresa está creciendo muy rápido porque hay mucha demanda por sus productos tecnológicos. Los inversionistas están muy contentos con estos resultados. Nvidia se está convirtiendo en una de las empresas más valiosas del mundo gracias a la revolución de la inteligencia artificial.",
+          "body_en": "The technology company Nvidia had incredible profits in the last three months. The company earned 43 billion dollars selling special chips for artificial intelligence. These chips are very important for running artificial intelligence systems, like ChatGPT. Many companies want to buy these products because artificial intelligence is very popular now. Nvidia's profits are much higher than last year. The company is growing very fast because there is high demand for its technological products. Investors are very happy with these results. Nvidia is becoming one of the most valuable companies in the world thanks to the artificial intelligence revolution.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "verificar",
+          "syllables": "ve-ri-fi-CAR",
+          "pos": "verbo",
+          "context": "Los expertos verifican las declaraciones del presidente sobre la economía.",
+          "definition_es": "Comprobar si algo es verdad o correcto",
+          "definition_en": "To check if something is true or correct"
+        },
+        {
+          "word": "declaración",
+          "syllables": "de-cla-ra-CIÓN",
+          "pos": "sustantivo",
+          "context": "El político hizo declaraciones sobre la inmigración.",
+          "definition_es": "Palabras que una persona dice públicamente",
+          "definition_en": "Words that a person says publicly"
+        },
+        {
+          "word": "crisis",
+          "syllables": "CRI-sis",
+          "pos": "sustantivo",
+          "context": "El banquero advierte sobre una posible crisis financiera.",
+          "definition_es": "Situación muy difícil o peligrosa",
+          "definition_en": "A very difficult or dangerous situation"
+        },
+        {
+          "word": "advertir",
+          "syllables": "ad-ver-TIR",
+          "pos": "verbo",
+          "context": "El experto advierte que algunas personas hacen cosas peligrosas.",
+          "definition_es": "Avisar a alguien sobre un peligro",
+          "definition_en": "To warn someone about a danger"
+        },
+        {
+          "word": "ganancia",
+          "syllables": "ga-NAN-cia",
+          "pos": "sustantivo",
+          "context": "La empresa tecnológica tuvo ganancias enormes este trimestre.",
+          "definition_es": "Dinero que se obtiene de un negocio",
+          "definition_en": "Money obtained from a business"
+        },
+        {
+          "word": "trimestre",
+          "syllables": "tri-MES-tre",
+          "pos": "sustantivo",
+          "context": "Las ventas aumentaron mucho durante el último trimestre.",
+          "definition_es": "Período de tres meses",
+          "definition_en": "A period of three months"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando muchas industrias.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "paralelo",
+          "syllables": "pa-ra-LE-lo",
+          "pos": "sustantivo",
+          "context": "El economista ve paralelos entre la situación actual y la crisis pasada.",
+          "definition_es": "Similitud entre dos situaciones diferentes",
+          "definition_en": "Similarity between two different situations"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'verificar'?",
+          "options": [
+            "Comprobar si algo es verdad",
+            "Hablar en público",
+            "Ganar dinero",
+            "Comprar productos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una 'crisis' es:",
+          "options": [
+            "Una celebración",
+            "Una situación difícil",
+            "Un tipo de tecnología",
+            "Un período de tiempo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuántos meses tiene un 'trimestre'?",
+          "options": [
+            "Dos meses",
+            "Tres meses",
+            "Cuatro meses",
+            "Seis meses"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Las 'ganancias' son:",
+          "options": [
+            "Problemas económicos",
+            "Dinero de un negocio",
+            "Declaraciones políticas",
+            "Chips de computadora"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué están haciendo los expertos?",
+          "options": [
+            "Verificando las declaraciones del presidente",
+            "Comprando chips de computadora",
+            "Invirtiendo en bancos",
+            "Desarrollando inteligencia artificial"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Quién es Jamie Dimon?",
+          "options": [
+            "Un presidente político",
+            "Un experto en tecnología",
+            "Un presidente de banco",
+            "Un verificador de datos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero ganó Nvidia en el trimestre?",
+          "options": [
+            "43 millones de dólares",
+            "43 mil millones de dólares",
+            "34 mil millones de dólares",
+            "34 millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué vende principalmente Nvidia?",
+          "options": [
+            "Servicios bancarios",
+            "Chips para inteligencia artificial",
+            "Verificación de datos",
+            "Servicios políticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según Dimon, ¿qué está pasando con algunas personas?",
+          "options": [
+            "Están verificando datos",
+            "Están haciendo cosas tontas con el dinero",
+            "Están comprando chips",
+            "Están dando declaraciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué es importante verificar las declaraciones políticas?",
+          "options": [
+            "Para ganar más dinero",
+            "Para vender más chips",
+            "Para que los ciudadanos tengan datos verdaderos",
+            "Para advertir sobre crisis"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-26T09:14:36.820253"
+    },
+    {
       "date": "2026-02-25",
       "filename": "spanish_lesson_2026-02-25.pdf",
       "path": "pdfs/spanish_lesson_2026-02-25.pdf",
@@ -17786,7 +18008,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-25T09:15:29.154943",
+  "last_updated": "2026-02-26T09:14:36.820269",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
