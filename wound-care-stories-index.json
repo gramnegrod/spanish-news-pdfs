@@ -1,11 +1,159 @@
 {
-  "date": "2026-02-25",
-  "generated_at": "2026-02-25T09:22:00.290462Z",
+  "date": "2026-02-26",
+  "generated_at": "2026-02-26T09:21:14.053608Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 225,
+  "total_stories": 229,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250226",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos apósitos aceleran la curación de heridas crónicas",
+      "headline_en": "New dressings accelerate healing of chronic wounds",
+      "summary_es": "Un nuevo gel cicatrizante llamado Aurase demuestra resultados prometedores en ensayos clínicos. La empresa SolasCure completó la fase II del estudio con resultados positivos.",
+      "body_es": "La empresa SolasCure ha completado un ensayo clínico importante. El gel Aurase acelera la curación de heridas. Los resultados muestran una cicatrización más rápida en los pacientes. Este gel es un nuevo tratamiento para heridas difíciles. Los médicos utilizan apósitos especiales con este producto. La curación es más rápida que con vendajes tradicionales. Este tratamiento es importante para pacientes con heridas crónicas. Los ensayos clínicos demuestran su efectividad. Este avance ayuda a los pacientes a sanar mejor.",
+      "body_en": "SolasCure has completed an important clinical trial. Aurase gel accelerates wound healing. Results show faster healing in patients. This gel is a new treatment for difficult wounds. Doctors use special dressings with this product. Healing is faster than with traditional bandages. This treatment is important for patients with chronic wounds. Clinical trials demonstrate its effectiveness. This advancement helps patients heal better.",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT1JSZG1UODM5bkJSZ0ZHNGVBUWs2ODZDQUNPMFNlbWRZWTVIeDMwaTN6WmtrR1MzRE9TLVR3VEpDVW0zYmhhSUg4WDdibjBTMDI3d0ZJbVZNM0dTalg4Tno4aUtENkRkQzBoNDBrcVBXU1dRSUM5WUV1Nk1IRC1QZk1Ba25XNk52QUtpTDJ0UldUTHoyajhsem5aNi1iYXZJcmMyMUR0N3Y5NnpIekxHY3NzWU40dUNwZVNsMlFIdjVrRFZWclBmN3EwRXZGV3FpaTJ6VkdialdsQWJ0dDc5aUdabHZzYVY2cDRYSQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-26/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material que se coloca sobre la herida para protegerla",
+          "definition_en": "dressing - material placed on the wound to protect it"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso natural de sanar una herida",
+          "definition_en": "healing - natural process of a wound getting better"
+        },
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio científico con pacientes para probar tratamientos nuevos",
+          "definition_en": "clinical trial - scientific study with patients to test new treatments"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de reparación de la piel después de una herida",
+          "definition_en": "wound closure - process of skin repair after injury"
+        }
+      ],
+      "added_at": "2026-02-26T09:21:14.053608Z"
+    },
+    {
+      "id": "diabetic-foot-20250226",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "purple",
+      "headline_es": "Una señal de alerta temprana podría salvar extremidades en pacientes diabéticos",
+      "headline_en": "An early warning sign could save limbs in diabetic patients",
+      "summary_es": "Investigadores identifican signos tempranos que pueden prevenir la amputación de extremidades en pacientes con diabetes. La detección precoz es crucial para evitar complicaciones graves.",
+      "body_es": "Los pacientes con diabetes tienen alto riesgo de desarrollar úlceras en los pies. Una nueva investigación identifica señales de alerta temprana que pueden salvar las extremidades. Los médicos ahora pueden detectar problemas antes de que se vuelvan graves. La evaluación regular de los pies es esencial para los diabéticos. Cuando se detectan cambios en la piel a tiempo, se pueden prevenir complicaciones. Los signos incluyen enrojecimiento, hinchazón y cambios en la sensibilidad. El tratamiento precoz evita infecciones y necrosis. Los enfermeros deben enseñar a los pacientes a examinar sus pies diariamente. Este enfoque preventivo reduce significativamente el riesgo de amputación.",
+      "body_en": "Diabetic patients have a high risk of developing foot ulcers. New research identifies early warning signs that can save limbs. Doctors can now detect problems before they become severe. Regular foot evaluation is essential for diabetics. When changes in skin are detected early, complications can be prevented. Signs include redness, swelling, and changes in sensitivity. Early treatment prevents infections and tissue death. Nurses should teach patients to examine their feet daily. This preventive approach significantly reduces amputation risk.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEtZSjY1anFkbUxWY2p4S0FSd1hMOFJNMFFtLWxZcnNDZTFsNUxuWXQ2MkstLVdDREVEVC1KODc0cVpUcG9xQ2R5V2V3dzc2NkR2T0MtR2RIbHVZUkQ4Szh0ZlVQN1NoUWNBbGpyNnJ1WkI3TTBNSzZpbFltbW1iWk5wVjBjVnNiOWU0WkVB0gGWAUFVX3lxTE9WZFFMYkgxT3E4ZXN2d21kN2twWkoySUUwdVRSSlZPVWNicjBYakVVejJVMnhsdzQ3R0JSdnBwbnk4cDJaRUFmSHdHZzdtZnNNSk9Uc3daX1JPZ3M5dUVDS21BUDA1TGlUQ2xTR19UWnV4cHdKYkltR05jRE9VZklHd3lGYWluTk9WSzhuYVl1ZlI3alg1Zw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-26/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen cuidadoso para determinar el estado de salud",
+          "definition_en": "evaluation - careful examination to determine health status"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido vivo",
+          "definition_en": "necrosis - death of living tissue"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-02-26T09:21:14.053608Z"
+    },
+    {
+      "id": "burn-care-20250226",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Cámaras hiperbáricas mejoran el tratamiento de quemaduras",
+      "headline_en": "Hyperbaric chambers enhance burn treatment",
+      "summary_es": "Un centro de heridas local ha añadido cámaras hiperbáricas a sus servicios de tratamiento. Esta tecnología acelera la curación de quemaduras y heridas complejas.",
+      "body_es": "Un centro de heridas ha mejorado significativamente su capacidad de tratamiento. La adición de cámaras hiperbáricas proporciona oxígeno a presión para acelerar la cicatrización. Este tratamiento es especialmente útil para quemaduras graves y heridas crónicas. La oxigenación hiperbárica estimula la angiogénesis y la formación de nuevo tejido. Los pacientes con quemaduras extensas se benefician de esta terapia complementaria. El oxígeno a presión penetra profundamente en los tejidos dañados. Esta modalidad reduce las complicaciones infecciosas y acelera la epitelización. El personal médico utiliza protocolos establecidos para la terapia hiperbárica. Este enfoque integral mejora significativamente los resultados clínicos en pacientes quemados.",
+      "body_en": "A wound care center has significantly improved its treatment capacity. The addition of hyperbaric chambers provides pressurized oxygen to accelerate healing. This treatment is especially useful for severe burns and chronic wounds. Hyperbaric oxygenation stimulates angiogenesis and new tissue formation. Patients with extensive burns benefit from this complementary therapy. Pressurized oxygen penetrates deeply into damaged tissues. This modality reduces infectious complications and accelerates epithelialization. Medical staff uses established protocols for hyperbaric therapy. This comprehensive approach significantly improves clinical outcomes in burn patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMXdaVFc0RVp0TmdibEgyVFZwellXZHhoYjZBUUpXejdzaVhZMDBpTWVtRkRsT093VXN2VEF4MHZBX0pKQ0Q4VjJtX200TU9CS19rSFZaNXA1TWs5VjB6S0FOc0J6LWh1bnRCeDF3X1BsaUduWXJFajJkLUNlc3ZCcDZUcU9jZ1VDNmpxblNYbDFyb09tUHF3RUg4Tzg1NTViVUZOZ193MWhydDc5bXhaa2dheFZwSmphUW1QaTdVRHA1XzJuT0lUWkxNUzhvS1JrUHFnUUZ1ZHREbUU5NkNR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-26/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "hiperbárica",
+          "definition_es": "terapia que utiliza oxígeno a alta presión",
+          "definition_en": "hyperbaric - therapy using oxygen at high pressure"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de reparación y sanación de la piel",
+          "definition_en": "wound healing - process of skin repair and healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nuevo tejido epitelial sobre la herida",
+          "definition_en": "epithelialization - formation of new epithelial tissue over the wound"
+        }
+      ],
+      "added_at": "2026-02-26T09:21:14.053608Z"
+    },
+    {
+      "id": "surgical-wounds-20250226",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Complicaciones postoperatorias comunes en pacientes mayores",
+      "headline_en": "Common postoperative complications in elderly patients",
+      "summary_es": "Investigadores estudian las complicaciones que ocurren después de cirugías en pacientes geriátricos. La infección de heridas es una de las más frecuentes.",
+      "body_es": "Las heridas quirúrgicas requieren cuidados especiales para prevenir infecciones postoperatorias. Los pacientes mayores enfrentan riesgos aumentados de complicaciones después de la cirugía. Los estudios demuestran que la infección de heridas es más frecuente en ancianos. El mecanismo de defensa del cuerpo se debilita con la edad. Los vendajes y apósitos deben cambiarse según protocolos específicos. La evaluación regular de signos de infección es esencial. Los síntomas incluyen enrojecimiento, calor, exudado purulento y fiebre. Los médicos utilizan antibióticos preventivos en casos de alto riesgo. El desbridamiento de tejido necrótico puede ser necesario si aparece infección. Una buena higiene y técnica aséptica reducen significativamente las complicaciones.",
+      "body_en": "Surgical wounds require special care to prevent postoperative infections. Elderly patients face increased risks of complications after surgery. Studies show that wound infection is more frequent in older adults. The body's defense mechanism weakens with age. Dressings and bandages should be changed according to specific protocols. Regular evaluation for signs of infection is essential. Symptoms include redness, warmth, purulent drainage, and fever. Doctors use preventive antibiotics in high-risk cases. Debridement of necrotic tissue may be necessary if infection develops. Good hygiene and aseptic technique significantly reduce complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0SG5aVkFyZHJVakRxbjhjei1EQldrOVBHU3FUeE9MS2FXY2gtU0tuVHhDOHBWSTZHUFBJN1Jxck1xT3ZRZi1sWXIzazdPbjBfUVA3ZXBfd0gtNFFVNFZBUmdrLXRkY01NVTJlZWxnMTBmYUY2UDNMR2dB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-26/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada intencional durante una intervención quirúrgica",
+          "definition_en": "surgical wound - injury intentionally created during surgery"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos patógenos en el tejido",
+          "definition_en": "infection - invasion of pathogenic microorganisms into tissue"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "drainage - fluid that comes from a wound"
+        }
+      ],
+      "added_at": "2026-02-26T09:21:14.053608Z"
+    },
     {
       "id": "chronic-wounds-20250225",
       "category": "Chronic Wounds",
@@ -8326,6 +8474,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-25T09:22:00.290462Z",
+  "last_updated": "2026-02-26T09:21:14.053608Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
