@@ -1,11 +1,159 @@
 {
-  "date": "2026-02-26",
-  "generated_at": "2026-02-26T09:21:14.053608Z",
+  "date": "2026-02-27",
+  "generated_at": "2026-02-27T09:17:56.046147Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 229,
+  "total_stories": 233,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20260227",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nueva tecnología ayuda a predecir la curación de úlceras del pie",
+      "headline_en": "New technology helps predict healing of foot ulcers",
+      "summary_es": "Un estudio publicado en Nature utiliza imágenes fotoacústicas para predecir mejor cómo cicatrizarán las úlceras crónicas del pie en los pacientes diabéticos.",
+      "body_es": "Los investigadores de Nature han desarrollado un nuevo método para predecir los resultados de las úlceras crónicas del pie. La técnica utiliza imágenes fotoacústicas longitudinales. Este método es importante para los pacientes con diabetes. Las úlceras del pie son heridas comunes y graves. Con esta nueva tecnología, los profesionales de salud pueden evaluar mejor la curación. Los médicos miden el progreso de la herida. El apósito correcto es esencial para el tratamiento. La prevención es muy importante en estas lesiones. Este avance permite tratamientos más personalizados. La cicatrización es más rápida con buenos cuidados.",
+      "body_en": "Researchers at Nature have developed a new method to predict outcomes of chronic foot ulcers. The technique uses longitudinal photoacoustic imaging. This method is important for diabetic patients. Foot ulcers are common and serious wounds. With this new technology, healthcare professionals can better evaluate healing. Doctors measure wound progress. Correct dressing is essential for treatment. Prevention is very important in these injuries. This advancement allows more personalized treatments. Healing is faster with proper care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44S3RaTHkwdXNESmREMW1TY0NWZVJHYWtWR0JvNzJIQ0dTQnJpVWkzNjFHRFUybDVFb0tVY0p5VGhqU3Z0UHlBejJRanYwQlViaWdhNDZULUNaRV9pZXdV?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-27/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de una herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - material placed over wound for protection"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen para determinar el estado de una herida",
+          "definition_en": "assessment - examination to determine wound status"
+        }
+      ],
+      "added_at": "2026-02-27T09:17:56.046147Z"
+    },
+    {
+      "id": "diabetic-foot-20260227",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Lista de verificación diaria esencial para el cuidado del pie diabético",
+      "headline_en": "Essential daily checklist for diabetic foot care",
+      "summary_es": "La Universidad de Boston proporciona una guía completa sobre los pasos diarios necesarios para prevenir complicaciones graves en los pies de pacientes diabéticos.",
+      "body_es": "El cuidado del pie diabético requiere atención diaria y disciplina. Los pacientes deben revisar sus pies cada día para detectar cambios o lesiones nuevas. Es importante examinar la piel entre los dedos y en la planta del pie. La hidratación adecuada de la piel previene fisuras que pueden convertirse en úlceras peligrosas. Los zapatos cómodos y el lavado frecuente con agua tibia son fundamentales. Los profesionales de salud recomiendan mantener las uñas cortadas correctamente. La circulación sanguínea debe evaluarse regularmente mediante el control de la sensibilidad. Si aparecen signos de infección o lesiones, es necesario buscar atención médica inmediatamente. Este protocolo de prevención reduce significativamente el riesgo de amputación.",
+      "body_en": "Diabetic foot care requires daily attention and discipline. Patients should check their feet each day for changes or new injuries. It is important to examine the skin between toes and on the sole of the foot. Proper skin hydration prevents cracks that can become dangerous ulcers. Comfortable shoes and frequent washing with warm water are fundamental. Healthcare professionals recommend keeping nails trimmed properly. Blood circulation should be regularly evaluated through sensitivity testing. If signs of infection or injury appear, medical attention is necessary immediately. This prevention protocol significantly reduces the risk of amputation.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd1RuMWpjSjZxRURUWFhUdzkzTDZfWXVDdmRJZjlGRTRvb29MZ3AxZ2d2LUlxcVB5aHdVd2R3aU5KNWsxWG8yOWFFWEFmRk9hQ2VIY2k4VnJxMWZGUzJZS1MycW5qanVGNDYxXzV1czB0ZndXX2JaMFZMQUpNcXFoVmFjN0lLbzZXcEZYMVFWQnlDMkZzNS1EcWNCX2MxUHRDZjZFRmwweHJadEZ6VUNYN2JsaEwwVmpMUVl2VVcyb1M4Y2xPOVRLYmV0bUxXanlRMENtM0ln?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-27/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "isquemia",
+          "definition_es": "reducción del flujo de sangre a una parte del cuerpo",
+          "definition_en": "ischemia - reduced blood flow to body part"
+        },
+        {
+          "word": "neuropatía",
+          "definition_es": "daño en los nervios que causa pérdida de sensibilidad",
+          "definition_en": "neuropathy - nerve damage causing loss of sensation"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica del tejido dañado o muerto",
+          "definition_en": "debridement - surgical removal of damaged or dead tissue"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo durante la cicatrización",
+          "definition_en": "granulation - formation of new tissue during healing"
+        }
+      ],
+      "added_at": "2026-02-27T09:17:56.046147Z"
+    },
+    {
+      "id": "burn-care-20260227",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Cámaras hiperbáricas mejoran el tratamiento de quemaduras en centros locales",
+      "headline_en": "Hyperbaric chambers enhance burn treatment at local wound centers",
+      "summary_es": "Un centro de heridas local ha implementado cámaras hiperbáricas para mejorar los resultados en pacientes con quemaduras graves y heridas crónicas.",
+      "body_es": "Un centro de heridas ha mejorado significativamente su capacidad de tratamiento mediante la adición de cámaras hiperbáricas. Esta tecnología proporciona oxígeno puro a presión elevada para acelerar la cicatrización. El tratamiento hiperbárico es especialmente efectivo para quemaduras profundas y heridas que no responden al tratamiento convencional. El proceso estimula la angiogénesis, es decir, la formación de nuevos vasos sanguíneos. Los pacientes con lesiones térmicas complejas se benefician enormemente de este enfoque. La terapia reduce el edema y promueve la epitelización de manera más rápida. El equipo multidisciplinario del centro coordina el cuidado integral de cada paciente. Los resultados clínicos muestran mejor pronóstico en cicatrización de lesiones profundas. Este avance permite reducir los tiempos de hospitalización y mejorar la calidad de vida.",
+      "body_en": "A wound center has significantly improved its treatment capacity by adding hyperbaric chambers. This technology delivers pure oxygen at elevated pressure to accelerate healing. Hyperbaric treatment is especially effective for deep burns and wounds that do not respond to conventional treatment. The process stimulates angiogenesis, meaning the formation of new blood vessels. Patients with complex thermal injuries benefit greatly from this approach. The therapy reduces edema and promotes epithelialization more rapidly. The center's multidisciplinary team coordinates comprehensive care for each patient. Clinical results show better prognosis in deep wound healing. This advancement allows reduced hospitalization times and improved quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMXdaVFc0RVp0TmdibEgyVFZwellXZHhoYjZBUUpXejdzaVhZMDBpTWVtRkRsU093VXN2VEF4MHZBX0pKQ0Q4VjJtX200TU9CS19rSFZaNXA1TWs5VjB6S0FOc0J6LWh1bnRCeDF3X1BsaUduWXJFajJkLUNlc3ZCcDZUcU9jZ1VDNmpxblNYbDFyb09tUHF3RUg4Tzg1NTViVUZOZ193MWhydDc5bXhaa2dheFZwSmphUW1QaTdVRHA1XzJuT0lUWkxNUzhvS1JrUHFnUUZ1ZHREbUU5NkNR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-27/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire or chemical substances"
+        },
+        {
+          "word": "oxigenación",
+          "definition_es": "proceso de proporcionar oxígeno a los tejidos",
+          "definition_en": "oxygenation - process of supplying oxygen to tissues"
+        },
+        {
+          "word": "escara",
+          "definition_es": "tejido necrótico o muerto en una herida",
+          "definition_en": "eschar - necrotic or dead tissue in a wound"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos",
+          "definition_en": "angiogenesis - formation of new blood vessels"
+        }
+      ],
+      "added_at": "2026-02-27T09:17:56.046147Z"
+    },
+    {
+      "id": "wound-research-20260227",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigadores descubren cómo los hallazgos científicos mejoran la salud de los pacientes",
+      "headline_en": "Researchers discover how scientific findings improve patient health",
+      "summary_es": "Stanford Medicine publica cómo la investigación fundamental en cicatrización de heridas se traduce en mejores tratamientos clínicos para pacientes.",
+      "body_es": "Stanford Medicine ha documentado cómo los descubrimientos de investigación básica se transforman en avances clínicos significativos. Los estudios sobre cicatrización de heridas han revelado mecanismos celulares clave que aceleran la regeneración tisular. Los investigadores analizan los factores de crecimiento que estimulan la proliferación de fibroblastos y queratinocitos. La comprensión de estos procesos biológicos permite diseñar terapias más efectivas. Los ensayos clínicos validán que nuevas estrategias terapéuticas mejoran los resultados en pacientes con heridas crónicas. La investigación interdisciplinaria combina biología molecular, ingeniería de tejidos y medicina clínica. Los hospitales implementan estos hallazgos para optimizar protocolos de tratamiento. Este enfoque integrado reduce complicaciones y acelera la cicatrización. El impacto de la investigación fundamental es directo en la mejora de la calidad de vida.",
+      "body_en": "Stanford Medicine has documented how basic research discoveries transform into significant clinical advances. Studies on wound healing have revealed key cellular mechanisms that accelerate tissue regeneration. Researchers analyze growth factors that stimulate fibroblast and keratinocyte proliferation. Understanding these biological processes allows design of more effective therapies. Clinical trials validate that new therapeutic strategies improve outcomes in patients with chronic wounds. Interdisciplinary research combines molecular biology, tissue engineering, and clinical medicine. Hospitals implement these findings to optimize treatment protocols. This integrated approach reduces complications and accelerates healing. The impact of fundamental research is direct in improving quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMk5VaUZDcW8xSzRRY281N3llUFZTUXU4R3J5aUpnVTZ4RE9UNFVZaUE5aENEVXZScXQ4VGR2d1ZDS1p2MXk4dlc2UnlRRHVoMDFtWm9odjB4SjRFeGxxSVdra0JqWWZsTFRqbnRrZ29VUXFqUkxBcVBKV2hfcTlKRzdpLTNUQ2pJUXg5OTgzRVlLUzB4bGFTX0JPa2FRcURM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-27/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "fibroblasto",
+          "definition_es": "célula que produce colágeno y proteínas estructurales",
+          "definition_en": "fibroblast - cell that produces collagen and structural proteins"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva epidermis sobre una herida",
+          "definition_en": "epithelialization - formation of new epidermis over a wound"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "proteína que estimula la división y proliferación celular",
+          "definition_en": "growth factor - protein that stimulates cell division and proliferation"
+        },
+        {
+          "word": "regeneración tisular",
+          "definition_es": "capacidad de los tejidos para crear nuevas células",
+          "definition_en": "tissue regeneration - ability of tissues to create new cells"
+        }
+      ],
+      "added_at": "2026-02-27T09:17:56.046147Z"
+    },
     {
       "id": "chronic-wounds-20250226",
       "category": "Chronic Wounds",
@@ -8474,6 +8622,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-26T09:21:14.053608Z",
+  "last_updated": "2026-02-27T09:17:56.046147Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
