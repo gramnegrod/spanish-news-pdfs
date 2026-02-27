@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-27",
+      "filename": "spanish_lesson_2026-02-27.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-27.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Gobernadora culpa a demócratas por falta de dinero para Copa Mundial",
+          "headline_en": "Governor blames Democrats for lack of World Cup funding",
+          "body_es": "Kristi Noem, gobernadora de Dakota del Sur, culpa a los políticos demócratas por los problemas con el presupuesto del gobierno. El cierre del gobierno está causando problemas con la financiación de 625 millones de dólares para la Copa Mundial. Noem dice que los demócratas no quieren aprobar el dinero necesario. La Copa Mundial necesita esta financiación para organizar los partidos en Estados Unidos. El cierre del gobierno afecta muchos proyectos importantes. Los republicanos y demócratas no pueden llegar a un acuerdo sobre el presupuesto. Esta situación preocupa a los organizadores del evento deportivo más importante del mundo.",
+          "body_en": "Kristi Noem, governor of South Dakota, blames Democratic politicians for budget problems. The government shutdown is causing issues with $625 million in World Cup funding. Noem says Democrats don't want to approve the necessary money. The World Cup needs this financing to organize matches in the United States. The government shutdown affects many important projects. Republicans and Democrats cannot reach an agreement on the budget. This situation worries organizers of the world's most important sporting event.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Baby boomers venderán empresas por valor de 5 billones de dólares",
+          "headline_en": "Baby boomers will sell companies worth 5 trillion dollars",
+          "body_es": "La empresa McKinsey dice que los empresarios baby boomers quieren vender sus compañías. El valor total de estas empresas pequeñas es de 5 billones de dólares. Esta generación tiene entre 60 y 80 años ahora. Muchos quieren jubilarse y vender sus negocios. Es la transferencia de riqueza más grande de la historia. Las empresas incluyen restaurantes, tiendas y servicios. Los compradores pueden ser empleados jóvenes o otras compañías. Esta situación creará muchas oportunidades de negocio. También puede cambiar la economía americana. Los expertos dicen que este proceso durará varios años. Es importante prepararse para estos cambios económicos.",
+          "body_en": "McKinsey company says baby boomer entrepreneurs want to sell their companies. The total value of these small businesses is 5 trillion dollars. This generation is between 60 and 80 years old now. Many want to retire and sell their businesses. It's the largest wealth transfer in history. The companies include restaurants, stores, and services. Buyers could be young employees or other companies. This situation will create many business opportunities. It could also change the American economy. Experts say this process will last several years. It's important to prepare for these economic changes.",
+          "source": "Fortune"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa de Jack Dorsey despide trabajadores para usar más inteligencia artificial",
+          "headline_en": "Jack Dorsey's company fires workers to use more artificial intelligence",
+          "body_es": "Block, la empresa de Jack Dorsey, despidió a miles de trabajadores este año. Dorsey fue el fundador de Twitter. Su compañía Block trabaja con pagos digitales y bitcoin. La empresa dice que quiere usar más inteligencia artificial en su trabajo. Por eso necesita menos empleados humanos. Esta tecnología puede hacer el trabajo más rápido y barato. Muchas empresas tecnológicas están haciendo lo mismo. Los trabajadores despedidos buscan nuevos empleos. La inteligencia artificial está cambiando el mundo del trabajo. Algunas personas están preocupadas por esta situación. Block dice que la tecnología ayudará a la empresa a crecer más.",
+          "body_en": "Block, Jack Dorsey's company, fired thousands of workers this year. Dorsey was Twitter's founder. His Block company works with digital payments and bitcoin. The company says it wants to use more artificial intelligence in its work. That's why it needs fewer human employees. This technology can do work faster and cheaper. Many tech companies are doing the same thing. The fired workers are looking for new jobs. Artificial intelligence is changing the work world. Some people are worried about this situation. Block says the technology will help the company grow more.",
+          "source": "BBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "financiación",
+          "syllables": "fi-nan-cia-CIÓN",
+          "pos": "sustantivo",
+          "context": "El gobierno necesita aprobar la financiación de 625 millones de dólares para la Copa Mundial.",
+          "definition_es": "Dinero que se da para pagar algo",
+          "definition_en": "Funding, financing"
+        },
+        {
+          "word": "culpar",
+          "syllables": "cul-PAR",
+          "pos": "verbo",
+          "context": "Kristi Noem culpa a los demócratas por el problema del presupuesto.",
+          "definition_es": "Decir que alguien es responsable de algo malo",
+          "definition_en": "To blame"
+        },
+        {
+          "word": "transferencia",
+          "syllables": "trans-fe-REN-cia",
+          "pos": "sustantivo",
+          "context": "La transferencia de empresas de los baby boomers vale 5 billones de dólares.",
+          "definition_es": "El acto de pasar algo de una persona a otra",
+          "definition_en": "Transfer"
+        },
+        {
+          "word": "empresario",
+          "syllables": "em-pre-SA-rio",
+          "pos": "sustantivo",
+          "context": "Los empresarios baby boomers quieren vender sus compañías.",
+          "definition_es": "Persona que tiene o dirige una empresa",
+          "definition_en": "Business owner, entrepreneur"
+        },
+        {
+          "word": "despedir",
+          "syllables": "des-pe-DIR",
+          "pos": "verbo",
+          "context": "La compañía Block despidió a miles de trabajadores este año.",
+          "definition_es": "Terminar el trabajo de un empleado",
+          "definition_en": "To fire, to lay off"
+        },
+        {
+          "word": "adoptar",
+          "syllables": "a-dop-TAR",
+          "pos": "verbo",
+          "context": "Las empresas adoptan la inteligencia artificial para mejorar su trabajo.",
+          "definition_es": "Empezar a usar algo nuevo",
+          "definition_en": "To adopt, to embrace"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno afecta el presupuesto para eventos deportivos.",
+          "definition_es": "Plan de gastos e ingresos de dinero",
+          "definition_en": "Budget"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial cambia la forma de trabajar en muchas empresas.",
+          "definition_es": "Tecnología que hace que las máquinas piensen como humanos",
+          "definition_en": "Artificial intelligence"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'culpar'?",
+          "options": [
+            "Ayudar a alguien",
+            "Decir que alguien es responsable de algo malo",
+            "Dar dinero",
+            "Trabajar en equipo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "La palabra 'financiación' se refiere a:",
+          "options": [
+            "Un tipo de deporte",
+            "Dinero que se da para pagar algo",
+            "Una máquina",
+            "Un edificio"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'despedir' a un trabajador?",
+          "options": [
+            "Darle más dinero",
+            "Terminar su trabajo",
+            "Darle vacaciones",
+            "Cambiar su oficina"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un 'empresario' es:",
+          "options": [
+            "Un tipo de comida",
+            "Una persona que tiene o dirige una empresa",
+            "Un deporte",
+            "Un edificio"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero necesita la Copa Mundial según el artículo político?",
+          "options": [
+            "525 millones de dólares",
+            "625 millones de dólares",
+            "725 millones de dólares",
+            "825 millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según McKinsey, ¿cuál es el valor de las empresas que los baby boomers quieren vender?",
+          "options": [
+            "3 billones de dólares",
+            "4 billones de dólares",
+            "5 billones de dólares",
+            "6 billones de dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué edad tienen los baby boomers según el artículo?",
+          "options": [
+            "Entre 50 y 70 años",
+            "Entre 60 y 80 años",
+            "Entre 70 y 90 años",
+            "Entre 40 y 60 años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Quién fundó Twitter según el artículo de tecnología?",
+          "options": [
+            "Block",
+            "Kristi Noem",
+            "Jack Dorsey",
+            "McKinsey"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué Block despidió a trabajadores?",
+          "options": [
+            "Por falta de dinero",
+            "Para usar más inteligencia artificial",
+            "Por problemas legales",
+            "Para cambiar de oficina"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué problema está causando el cierre del gobierno?",
+          "options": [
+            "Problemas con la financiación de la Copa Mundial",
+            "Problemas con las empresas baby boomers",
+            "Problemas con la inteligencia artificial",
+            "Problemas con Jack Dorsey"
+          ],
+          "answer": "A"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-27T09:11:44.239422"
+    },
+    {
       "date": "2026-02-26",
       "filename": "spanish_lesson_2026-02-26.pdf",
       "path": "pdfs/spanish_lesson_2026-02-26.pdf",
@@ -18008,7 +18230,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-26T09:14:36.820269",
+  "last_updated": "2026-02-27T09:11:44.239440",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
