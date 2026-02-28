@@ -1,11 +1,122 @@
 {
-  "date": "2026-02-27",
-  "generated_at": "2026-02-27T09:17:56.046147Z",
+  "date": "2026-02-28",
+  "generated_at": "2026-02-28T09:09:22.948502Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 233,
-  "new_today": 4,
+  "total_stories": 236,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250228",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo gel acelera la curación de heridas crónicas",
+      "headline_en": "New gel accelerates healing of chronic wounds",
+      "summary_es": "Un ensayo clínico demuestra que el gel Aurase cicatriza heridas más rápido. Este tratamiento innovador mejora los resultados en pacientes con heridas crónicas.",
+      "body_es": "Un nuevo estudio de SolasCure muestra resultados positivos con el gel Aurase. Este apósito avanzado acelera el proceso de curación en heridas crónicas. Los pacientes que recibieron el tratamiento mostraron cicatrización más rápida. El gel Aurase promueve la granulación del tejido dañado. La curación es más eficaz que los vendajes tradicionales. Este ensayo clínico incluye pacientes con diferentes tipos de heridas. Los profesionales de enfermería reportan mejor adherencia del apósito. El tratamiento reduce el tiempo total de cicatrización. Este avance es importante para pacientes con úlceras de larga duración. El gel también disminuye el dolor durante las curas.",
+      "body_en": "A new SolasCure study shows positive results with Aurase Wound Gel. This advanced dressing accelerates the healing process in chronic wounds. Patients who received the treatment showed faster healing. Aurase gel promotes tissue granulation in damaged areas. Healing is more effective than traditional dressings. This clinical trial includes patients with different types of wounds. Nursing professionals report better dressing adherence. The treatment reduces total healing time. This advance is important for patients with long-term ulcers. The gel also decreases pain during wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxLYWgzVl82dEt0clhmZUtCTFVwc3p1d1ZEeFR3MmJCVjN2aUJrNzhUUkNPSGpZY1RNZ1Z1Yk1kZXdIUWRxd1BHXzlMUjBXa003TU1rdlFTc3ZPZk03TlBPRUFsaUZvZ2pRckRTVFNIblVFcXNaczNMOGNvbW5hZWhlQlE1YlFra01CNE5VME5UZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-28/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal timeframe"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material para cubrir y proteger la herida",
+          "definition_en": "dressing - material to cover and protect the wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido en la herida",
+          "definition_en": "granulation - formation of new tissue in the wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y curación de heridas",
+          "definition_en": "healing/scarring - process of closure and wound repair"
+        }
+      ],
+      "added_at": "2026-02-28T09:09:22.948502Z"
+    },
+    {
+      "id": "surgical-wounds-20250228",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Técnica ultramini-PCNL mejora el tratamiento de cálculos renales complejos",
+      "headline_en": "Ultramini-PCNL technique improves treatment of complex renal stones",
+      "summary_es": "Una nueva combinación de técnicas quirúrgicas demuestra ser efectiva para tratar cálculos renales complejos. La técnica ultramini-PCNL junto con ureteroscopia litotripsia ofrece mejores resultados con menor trauma tisular.",
+      "body_es": "Los urólogos han desarrollado una técnica innovadora para tratar cálculos renales complejos. La combinación de ultramini-PCNL más ureteroscopia litotripsia proporciona resultados superiores. Esta técnica minimalmente invasiva reduce el trauma quirúrgico en los tejidos renales. Los pacientes experimentan menor dolor postoperatorio después de la intervención. La curación de las heridas quirúrgicas es más rápida con este enfoque. Los estudios demuestran que esta combinación disminuye las complicaciones postquirúrgicas. El procedimiento mantiene la función renal mejor que los métodos tradicionales. Los especialistas recomiendan esta técnica para casos complejos y recurrentes. La hemostasia se logra más efectivamente durante el procedimiento. Los pacientes requieren menos analgésicos durante la recuperación postoperatoria.",
+      "body_en": "Urologists have developed an innovative technique to treat complex renal stones. The combination of ultramini-PCNL plus ureteroscopic lithotripsy provides superior results. This minimally invasive technique reduces surgical trauma to renal tissues. Patients experience less postoperative pain following the intervention. Healing of surgical wounds is faster with this approach. Studies demonstrate that this combination decreases postoperative complications. The procedure maintains renal function better than traditional methods. Specialists recommend this technique for complex and recurrent cases. Hemostasis is achieved more effectively during the procedure. Patients require fewer analgesics during postoperative recovery.",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1JnUmJ5azdSb2dlX3Q3OC1tNjFndXFLS3VLMmFOY2dHUnVSbEl0RjB0RXk1VFJnYms4cGY4eFRKY0FWdHpSMmp1cVBFcURyMDdmcGpITlYwb05CUDN5clU4dUlDdjI0Wi16RTRYeURYU2JqZUlVb2JHdS1hWHZ0WF95WXBMZVNtVlVyLTlfcDMzSlFBbjJUbEtWbjhxdjlqWGZZbHpxcEJLemNS?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-28/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cálculo renal",
+          "definition_es": "piedra formada en los riñones",
+          "definition_en": "renal stone - calculus formed in the kidneys"
+        },
+        {
+          "word": "procedimiento quirúrgico",
+          "definition_es": "intervención médica realizada por cirugía",
+          "definition_en": "surgical procedure - medical intervention performed by surgery"
+        },
+        {
+          "word": "hemostasia",
+          "definition_es": "control del sangrado durante la cirugía",
+          "definition_en": "hemostasis - control of bleeding during surgery"
+        },
+        {
+          "word": "trauma tisular",
+          "definition_es": "daño a los tejidos corporales",
+          "definition_en": "tissue trauma - damage to body tissues"
+        }
+      ],
+      "added_at": "2026-02-28T09:09:22.948502Z"
+    },
+    {
+      "id": "wound-research-20250228",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Políticas de apósitos avanzados transforman la atención de heridas en India",
+      "headline_en": "Advanced wound care dressing policies transform wound care in India",
+      "summary_es": "India ha implementado nuevas políticas para regular y promover el uso de apósitos avanzados en la atención de heridas. Estas regulaciones mejoran el acceso a tratamientos modernos y estandarizan protocolos de curación.",
+      "body_es": "El gobierno de India ha establecido políticas importantes para los apósitos avanzados de curación. Estas normativas regulan la calidad y disponibilidad de vendajes innovadores en hospitales. Los apósitos modernos incluyen bioactivos, hidrogeles y películas especializadas. La investigación demuestra que reducen el tiempo de epitelización de heridas. Las políticas garantizan que profesionales sanitarios accedan a tecnología de punta. La regulación también establece guías para evaluar heridas complejas. Los proveedores de salud pueden ahora prescribir apósitos según la fase de curación. La investigación indica menor incidencia de infecciones con estos materiales. Los hospitales implementan protocolos estandarizados de desbridamiento y curación. Estas medidas mejoran significativamente los resultados en pacientes con úlceras crónicas.",
+      "body_en": "The Indian government has established important policies for advanced wound care dressings. These regulations control the quality and availability of innovative dressings in hospitals. Modern dressings include bioactive materials, hydrogels, and specialized films. Research demonstrates they reduce epithelialization time in wounds. The policies ensure that healthcare professionals access cutting-edge technology. The regulation also establishes guidelines for assessing complex wounds. Healthcare providers can now prescribe dressings according to healing phases. Research indicates lower infection rates with these materials. Hospitals implement standardized protocols for debridement and wound care. These measures significantly improve outcomes in patients with chronic ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNk1CcDU4Z081SFkxSDhuOENyRzNQV2lTYmxVNE9Zb2lBVkZycVAxU2ZhS1RBVnZuLTNaNHpFemlZNUp5cmdKQTNtTWx3Q2VUanI2emVkVjJfWDJ3S3VfSWtjVU1OQWFhVndYeGcwSW1GRHNlWHpReUU2ejIwN0NjeHhQMm5SVEIxSGIxY1FyOFhyVmpSWU1WQ2lYa3Q3Tk9TcFRTa1JJWk9mZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-02-28/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito avanzado",
+          "definition_es": "vendaje moderno con propiedades curativas especiales",
+          "definition_en": "advanced dressing - modern dressing with special healing properties"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de regeneración del tejido epitelial",
+          "definition_en": "epithelialization - process of epithelial tissue regeneration"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "úlcera crónica",
+          "definition_es": "herida abierta de larga duración",
+          "definition_en": "chronic ulcer - long-term open wound"
+        }
+      ],
+      "added_at": "2026-02-28T09:09:22.948502Z"
+    },
     {
       "id": "chronic-wounds-20260227",
       "category": "Chronic Wounds",
@@ -8622,6 +8733,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-27T09:17:56.046147Z",
+  "last_updated": "2026-02-28T09:09:22.948502Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
