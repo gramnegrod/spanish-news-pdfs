@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-02-28",
+      "filename": "spanish_lesson_2026-02-28.pdf",
+      "path": "pdfs/spanish_lesson_2026-02-28.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Casa Blanca ofrece nueva propuesta económica mientras el gobierno sigue cerrado",
+          "headline_en": "White House offers new economic proposal while government remains shut down",
+          "body_es": "El gobierno estadounidense continúa parcialmente cerrado. La Casa Blanca presentó una nueva oferta de financiación a los demócratas. Esta propuesta es para el Departamento de Seguridad Nacional (DHS). El cierre del gobierno afecta a muchos trabajadores federales. Miles de empleados públicos no pueden trabajar normalmente. Los políticos demócratas y republicanos necesitan llegar a un acuerdo. Sin este acuerdo, el cierre continuará. La financiación del DHS es muy importante para la seguridad del país. Los ciudadanos esperan una solución rápida. Esta situación política causa problemas económicos. El Congreso debe votar sobre la nueva propuesta. Los líderes políticos están negociando para resolver el conflicto.",
+          "body_en": "The US government continues partially shut down. The White House presented a new funding offer to the Democrats. This proposal is for the Department of Homeland Security (DHS). The government shutdown affects many federal workers. Thousands of public employees cannot work normally. Democratic and Republican politicians need to reach an agreement. Without this agreement, the shutdown will continue. DHS funding is very important for the country's security. Citizens expect a quick solution. This political situation causes economic problems. Congress must vote on the new proposal. Political leaders are negotiating to resolve the conflict.",
+          "source": "CNBC"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "FMI predice crecimiento económico y más empleos para Estados Unidos",
+          "headline_en": "IMF predicts economic growth and more jobs for the United States",
+          "body_es": "El Fondo Monetario Internacional (FMI) tiene buenas noticias para Estados Unidos. La directora del FMI habló con Fox Business sobre la economía americana. Ella espera que la economía estadounidense se fortalezca este año. También predice que se van a crear muchos empleos nuevos. Esta información es muy positiva para los trabajadores americanos. El FMI es una organización internacional muy importante. Sus predicciones económicas influyen en los mercados mundiales. La directora explicó que varios factores ayudan al crecimiento económico. Entre estos factores están las nuevas políticas gubernamentales. Los expertos económicos están optimistas sobre el futuro. Sin embargo, también existen algunos desafíos económicos. Es importante monitorear la situación internacional.",
+          "body_en": "The International Monetary Fund (IMF) has good news for the United States. The IMF's managing director spoke with Fox Business about the American economy. She expects the US economy to strengthen this year. She also predicts that many new jobs will be created. This information is very positive for American workers. The IMF is a very important international organization. Its economic predictions influence global markets. The director explained that several factors help economic growth. Among these factors are new government policies. Economic experts are optimistic about the future. However, there are also some economic challenges. It is important to monitor the international situation.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump prohíbe uso de inteligencia artificial en agencias gubernamentales",
+          "headline_en": "Trump bans use of artificial intelligence in government agencies",
+          "body_es": "El presidente Trump tomó una decisión importante sobre tecnología. Ordenó a todas las agencias gubernamentales dejar de usar tecnología de Anthropic AI. Esta orden llega después de un conflicto con el Pentágono. Anthropic es una empresa de inteligencia artificial muy avanzada. Sus sistemas AI se usaban en diferentes departamentos del gobierno. Sin embargo, surgieron problemas de seguridad nacional. El Pentágono expresó preocupaciones sobre esta tecnología. Trump decidió actuar rápidamente para proteger información confidencial. Esta decisión afecta muchas operaciones gubernamentales. Las agencias deben encontrar alternativas tecnológicas. Algunos expertos critican esta decisión porque limita la innovación. Otros apoyan la medida por razones de seguridad. El debate sobre AI en el gobierno continuará.",
+          "body_en": "President Trump made an important decision about technology. He ordered all government agencies to stop using Anthropic AI technology. This order comes after a conflict with the Pentagon. Anthropic is a very advanced artificial intelligence company. Its AI systems were used in different government departments. However, national security problems arose. The Pentagon expressed concerns about this technology. Trump decided to act quickly to protect confidential information. This decision affects many government operations. Agencies must find technological alternatives. Some experts criticize this decision because it limits innovation. Others support the measure for security reasons. The debate about AI in government will continue.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gobierno",
+          "syllables": "go-BIER-no",
+          "pos": "sustantivo",
+          "context": "El gobierno estadounidense está cerrado parcialmente.",
+          "definition_es": "Las personas que controlan y administran un país",
+          "definition_en": "The people who control and administer a country"
+        },
+        {
+          "word": "financiación",
+          "syllables": "fi-nan-cia-CIÓN",
+          "pos": "sustantivo",
+          "context": "La Casa Blanca ofrece nueva financiación para el Departamento de Seguridad.",
+          "definition_es": "Dinero que se da para pagar algo",
+          "definition_en": "Money that is given to pay for something"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "El FMI espera que la economía estadounidense se fortalezca.",
+          "definition_es": "Sistema de producción y distribución de dinero en un país",
+          "definition_en": "System of production and distribution of money in a country"
+        },
+        {
+          "word": "fortalecer",
+          "syllables": "for-ta-le-CER",
+          "pos": "verbo",
+          "context": "La economía americana va a fortalecer el próximo año.",
+          "definition_es": "Hacer más fuerte o mejor",
+          "definition_en": "To make stronger or better"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "El FMI dice que se van a crear más empleos.",
+          "definition_es": "Trabajo que una persona hace para ganar dinero",
+          "definition_en": "Work that a person does to earn money"
+        },
+        {
+          "word": "agencias",
+          "syllables": "a-GEN-cias",
+          "pos": "sustantivo",
+          "context": "Trump ordena a las agencias gubernamentales dejar de usar tecnología AI.",
+          "definition_es": "Organizaciones oficiales del gobierno",
+          "definition_en": "Official government organizations"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Las agencias no pueden usar la tecnología de inteligencia artificial.",
+          "definition_es": "Herramientas y métodos científicos modernos",
+          "definition_en": "Modern scientific tools and methods"
+        },
+        {
+          "word": "director",
+          "syllables": "di-rec-TOR",
+          "pos": "sustantivo",
+          "context": "La directora del FMI habla sobre la economía americana.",
+          "definition_es": "Persona que lidera una organización",
+          "definition_en": "Person who leads an organization"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'financiación'?",
+          "options": [
+            "Dinero para pagar algo",
+            "Un tipo de trabajo",
+            "Una decisión política",
+            "Un problema económico"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'fortalecer'?",
+          "options": [
+            "Cerrar algo",
+            "Hacer más fuerte",
+            "Crear empleos",
+            "Prohibir uso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'agencias'?",
+          "options": [
+            "Trabajadores federales",
+            "Organizaciones del gobierno",
+            "Empresas privadas",
+            "Sistemas de inteligencia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'empleo'?",
+          "options": [
+            "Una propuesta política",
+            "Trabajo para ganar dinero",
+            "Una organización",
+            "Tecnología avanzada"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el primer artículo, ¿qué ofreció la Casa Blanca?",
+          "options": [
+            "Nuevos empleos federales",
+            "Nueva financiación para DHS",
+            "Tecnología avanzada",
+            "Solución inmediata"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué predice el FMI sobre la economía estadounidense?",
+          "options": [
+            "Va a debilitarse",
+            "Se va a fortalecer",
+            "No va a cambiar",
+            "Va a crear problemas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa de AI mencionó Trump en su decisión?",
+          "options": [
+            "FMI Technologies",
+            "Pentagon AI",
+            "Anthropic",
+            "Fox Business Tech"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Con quién habló la directora del FMI?",
+          "options": [
+            "Con el Congreso",
+            "Con Fox Business",
+            "Con el Pentágono",
+            "Con la Casa Blanca"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué el gobierno está parcialmente cerrado?",
+          "options": [
+            "Por problemas de tecnología",
+            "Por falta de acuerdo en financiación",
+            "Por decisiones del FMI",
+            "Por conflictos con AI"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué deben hacer las agencias después de la orden de Trump?",
+          "options": [
+            "Usar más tecnología AI",
+            "Dejar de usar Anthropic AI",
+            "Cerrar temporalmente",
+            "Crear nuevos empleos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-02-28T09:03:59.171640"
+    },
+    {
       "date": "2026-02-27",
       "filename": "spanish_lesson_2026-02-27.pdf",
       "path": "pdfs/spanish_lesson_2026-02-27.pdf",
@@ -18230,7 +18452,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-27T09:11:44.239440",
+  "last_updated": "2026-02-28T09:03:59.171656",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
