@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-01",
+      "filename": "spanish_lesson_2026-03-01.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-01.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso limitará los poderes militares del presidente",
+          "headline_en": "Congress will limit the president's military powers",
+          "body_es": "El Congreso de Estados Unidos planea votar sobre los poderes de guerra del presidente Trump. Esta decisión llega después de los ataques militares contra Irán. Los representantes quieren limitar la autoridad presidencial para usar fuerzas militares sin aprobación del Congreso. La Constitución dice que solo el Congreso puede declarar la guerra. Sin embargo, los presidentes han usado fuerzas militares muchas veces sin permiso. Los demócratas apoyan esta medida para controlar mejor las acciones militares. Los republicanos dicen que el presidente necesita poder actuar rápidamente en situaciones peligrosas. Esta votación es muy importante para el equilibrio de poder en el gobierno estadounidense.",
+          "body_en": "The US Congress plans to vote on President Trump's war powers. This decision comes after military strikes against Iran. Representatives want to limit presidential authority to use military forces without Congressional approval. The Constitution says only Congress can declare war. However, presidents have used military forces many times without permission. Democrats support this measure to better control military actions. Republicans say the president needs to be able to act quickly in dangerous situations. This vote is very important for the balance of power in the US government.",
+          "source": "CNN"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "5 billones de dólares en empresas estarán en venta pronto",
+          "headline_en": "5 trillion dollars in companies will be for sale soon",
+          "body_es": "Una gran transferencia de riqueza está llegando a Estados Unidos. La compañía McKinsey dice que empresas valoradas en 5 billones de dólares estarán en venta en los próximos diez años. Estas empresas pertenecen a la generación baby boomer, que ahora tiene entre 65 y 80 años. Estos propietarios quieren jubilarse y vender sus negocios. La mayoría son empresas pequeñas y medianas que emplean a millones de personas. Esta situación creará muchas oportunidades para compradores jóvenes. También puede causar problemas si no hay suficientes compradores preparados. Los expertos dicen que este cambio transformará la economía estadounidense. Es la transferencia de riqueza más grande de la historia moderna.",
+          "body_en": "A great wealth transfer is coming to the United States. The McKinsey company says that businesses valued at 5 trillion dollars will be for sale in the next ten years. These companies belong to the baby boomer generation, who are now between 65 and 80 years old. These owners want to retire and sell their businesses. Most are small and medium companies that employ millions of people. This situation will create many opportunities for young buyers. It can also cause problems if there aren't enough prepared buyers. Experts say this change will transform the American economy. It's the largest wealth transfer in modern history.",
+          "source": "AOL.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "OpenAI firma acuerdo militar después de competencia con rival",
+          "headline_en": "OpenAI signs military agreement after competition with rival",
+          "body_es": "OpenAI, la compañía creadora de ChatGPT, firmó un acuerdo con el Departamento de Defensa de Estados Unidos. Esta decisión llega después de un conflicto con Anthropic, su principal competidor en inteligencia artificial. Anthropic ya trabajaba con el gobierno militar estadounidense. OpenAI no quería perder esta oportunidad de negocio importante. El acuerdo permitirá al ejército usar tecnología de inteligencia artificial avanzada. Sin embargo, muchas personas están preocupadas por el uso militar de la IA. Algunos empleados de OpenAI no están contentos con esta decisión. La compañía dice que la tecnología solo se usará para propósitos defensivos. Este acuerdo muestra la importancia creciente de la IA en la seguridad nacional.",
+          "body_en": "OpenAI, the company that created ChatGPT, signed an agreement with the US Department of Defense. This decision comes after a conflict with Anthropic, its main competitor in artificial intelligence. Anthropic was already working with the US military government. OpenAI didn't want to lose this important business opportunity. The agreement will allow the army to use advanced artificial intelligence technology. However, many people are worried about the military use of AI. Some OpenAI employees are not happy with this decision. The company says the technology will only be used for defensive purposes. This agreement shows the growing importance of AI in national security.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso votará sobre los poderes de guerra del presidente.",
+          "definition_es": "El órgano legislativo del gobierno estadounidense",
+          "definition_en": "The legislative branch of the US government"
+        },
+        {
+          "word": "poderes",
+          "syllables": "po-DE-res",
+          "pos": "sustantivo",
+          "context": "Los poderes militares del presidente son limitados.",
+          "definition_es": "Autoridad o capacidad para hacer algo",
+          "definition_en": "Authority or ability to do something"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las empresas pequeñas están en venta.",
+          "definition_es": "Organizaciones comerciales que producen bienes o servicios",
+          "definition_en": "Commercial organizations that produce goods or services"
+        },
+        {
+          "word": "transferencia",
+          "syllables": "trans-fe-REN-cia",
+          "pos": "sustantivo",
+          "context": "La transferencia de riqueza será histórica.",
+          "definition_es": "El acto de pasar algo de una persona a otra",
+          "definition_en": "The act of passing something from one person to another"
+        },
+        {
+          "word": "década",
+          "syllables": "DÉ-ca-da",
+          "pos": "sustantivo",
+          "context": "Este proceso durará una década completa.",
+          "definition_es": "Un período de diez años",
+          "definition_en": "A period of ten years"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "OpenAI firmó un acuerdo con el Departamento de Defensa.",
+          "definition_es": "Un pacto o convenio entre dos o más partes",
+          "definition_en": "A pact or agreement between two or more parties"
+        },
+        {
+          "word": "defensa",
+          "syllables": "de-FEN-sa",
+          "pos": "sustantivo",
+          "context": "El Departamento de Defensa usa inteligencia artificial.",
+          "definition_es": "Protección contra ataques o amenazas",
+          "definition_en": "Protection against attacks or threats"
+        },
+        {
+          "word": "conflicto",
+          "syllables": "con-FLIC-to",
+          "pos": "sustantivo",
+          "context": "Hubo un conflicto entre las dos compañías de tecnología.",
+          "definition_es": "Una disputa o problema entre dos o más partes",
+          "definition_en": "A dispute or problem between two or more parties"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'congreso'?",
+          "options": [
+            "Un tipo de empresa",
+            "El órgano legislativo del gobierno",
+            "Una transferencia de dinero",
+            "Un programa de computadora"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una 'década' es:",
+          "options": [
+            "Cinco años",
+            "Diez años",
+            "Veinte años",
+            "Un siglo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'empresas'?",
+          "options": [
+            "Organizaciones comerciales",
+            "Poderes del presidente",
+            "Acuerdos militares",
+            "Conflictos políticos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un 'acuerdo' es:",
+          "options": [
+            "Un conflicto",
+            "Un pacto entre partes",
+            "Una empresa",
+            "Un poder"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué quiere votar el Congreso sobre los poderes de guerra?",
+          "options": [
+            "Para apoyar al presidente",
+            "Después de ataques contra Irán",
+            "Para declarar la guerra",
+            "Para ayudar a los republicanos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero en empresas estará en venta según McKinsey?",
+          "options": [
+            "1 billón de dólares",
+            "3 billones de dólares",
+            "5 billones de dólares",
+            "10 billones de dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Quiénes son los propietarios que quieren vender sus empresas?",
+          "options": [
+            "Jóvenes empresarios",
+            "La generación baby boomer",
+            "El gobierno",
+            "Compañías tecnológicas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Con qué compañía tuvo un conflicto OpenAI?",
+          "options": [
+            "McKinsey",
+            "ChatGPT",
+            "Anthropic",
+            "El Departamento de Defensa"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué creó OpenAI?",
+          "options": [
+            "El Departamento de Defensa",
+            "ChatGPT",
+            "Anthropic",
+            "El Congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según OpenAI, ¿cómo se usará la tecnología militar?",
+          "options": [
+            "Para ataques",
+            "Para propósitos defensivos",
+            "Para empresas",
+            "Para el Congreso"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-01T09:05:21.590160"
+    },
+    {
       "date": "2026-02-28",
       "filename": "spanish_lesson_2026-02-28.pdf",
       "path": "pdfs/spanish_lesson_2026-02-28.pdf",
@@ -18452,7 +18674,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-02-28T09:03:59.171656",
+  "last_updated": "2026-03-01T09:05:21.590176",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
