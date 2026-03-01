@@ -1,11 +1,159 @@
 {
-  "date": "2026-02-28",
-  "generated_at": "2026-02-28T09:09:22.948502Z",
+  "date": "2026-03-01",
+  "generated_at": "2026-03-01T09:09:57.943090Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 236,
-  "new_today": 3,
+  "total_stories": 240,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250301",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo tratamiento para úlceras en las piernas",
+      "headline_en": "New treatment for leg ulcers",
+      "summary_es": "Un estudio muestra que la terapia multimodal mejora la curación de heridas en las extremidades inferiores. Este avance terapéutico ofrece esperanza a los pacientes con úlceras crónicas.",
+      "body_es": "La terapia multimodal es un tratamiento nuevo y efectivo para las úlceras en las piernas. Los médicos usan varios métodos juntos para curar estas heridas difíciles. El tratamiento combina vendajes especiales, medicinas y cuidados locales de la herida. Los pacientes con úlceras vasculares en las extremidades inferiores responden bien a este método. Los estudios muestran que las heridas se cierran más rápido. Los enfermeros preparan la herida, limpian el tejido dañado y aplican apósitos avanzados. Este avance terapéutico es importante para mejorar la calidad de vida de los pacientes con heridas crónicas.",
+      "body_en": "Multimodality therapy is a new and effective treatment for leg ulcers. Doctors use several methods together to heal these difficult wounds. The treatment combines special dressings, medications, and local wound care. Patients with vascular ulcers in the lower extremities respond well to this method. Studies show that wounds close faster. Nurses prepare the wound, clean damaged tissue, and apply advanced dressings. This therapeutic advance is important to improve the quality of life for patients with chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGZfRnMydDNmYTF6SHNLbDdSMEtLLVl3VkttUW1WMXd3RG5EdEpsZGx6SG5EZmFuSnNzbm1rdW52QXU1c0M4X28wX2FUaHD0b0NVVWF5UFd4OWFqWE9SRzZELTVydDlMRjZJQldXMzhZd2FBdlc1VDhfQzY2eGZrTHhoTkJZNFNWZlpjYkZDbHRFVEJ5TWx5UWJPSXlXYWlaemtjb3RsNnJtMjBiczZTZXI0TEJxLUphUTNj?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-01/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound that does not heal easily"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "vendaje o material que cubre una herida",
+          "definition_en": "dressing - bandage or material that covers a wound"
+        },
+        {
+          "word": "extremidad inferior",
+          "definition_es": "pierna o pie",
+          "definition_en": "lower extremity - leg or foot"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        }
+      ],
+      "added_at": "2026-03-01T09:09:57.943090Z"
+    },
+    {
+      "id": "burn-care-20250301",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Injertos autógenos y xenogénicos para regeneración de tejidos",
+      "headline_en": "Autogenic and xenogenic grafts for tissue regeneration",
+      "summary_es": "Un estudio en Frontiers demuestra la eficacia de injertos autógenos y xenogénicos descelularizados para la reparación de tejidos en quemaduras. Esta técnica representa un avance importante en la medicina regenerativa.",
+      "body_es": "Los investigadores estudiaron el implante de injertos autógenos y xenogénicos descelularizados para reparar tejidos dañados por quemaduras. Los injertos autógenos provienen del mismo paciente, mientras que los xenogénicos proceden de otras especies. El proceso de descelularización elimina las células del tejido donante, reduciendo el rechazo inmunológico. El estudio experimental mostró que estos injertos promueven la epitelización y la regeneración del tejido. Los injertos se integraron correctamente en el lecho de la herida. Los resultados sugieren que esta técnica puede acelerar la cicatrización en quemaduras graves. Los médicos pueden usar esta información para mejorar los protocolos de tratamiento de quemaduras extensas.",
+      "body_en": "Researchers studied the implantation of autogenic and decellularized xenogenic grafts to repair tissue damaged by burns. Autogenic grafts come from the same patient, while xenogenic grafts come from other species. The decellularization process removes cells from donor tissue, reducing immune rejection. The experimental study showed that these grafts promote epithelialization and tissue regeneration. The grafts integrated correctly into the wound bed. Results suggest this technique can accelerate healing in severe burns. Doctors can use this information to improve treatment protocols for extensive burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1haU5ISmxMYWo2RkRlNlY4Z21tdG90b29qZWFqeGlBM2RFdklhWjEyejZiN0c1OGQ5UVhDR3BWcllVZHJvMFpBX0U5RVpOd0pFT2VaV1puZFBYdmJTNmZjaVBZTlk1MFJGYU1GLWVPVnBrQ0VMZlZz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-01/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "injerto",
+          "definition_es": "tejido trasplantado para reparar una lesión",
+          "definition_en": "graft - tissue transplanted to repair an injury"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre la herida",
+          "definition_en": "epithelialization - formation of new skin over the wound"
+        },
+        {
+          "word": "descelularizado",
+          "definition_es": "tejido del cual se han removido las células",
+          "definition_en": "decellularized - tissue from which cells have been removed"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "proceso de formar tejido nuevo",
+          "definition_en": "regeneration - process of forming new tissue"
+        }
+      ],
+      "added_at": "2026-03-01T09:09:57.943090Z"
+    },
+    {
+      "id": "surgical-wounds-20250301",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "El plasma frío acelera la recuperación quirúrgica",
+      "headline_en": "Cold plasma accelerates surgical recovery",
+      "summary_es": "Un estudio de Medical Xpress sugiere que el plasma frío puede mejorar la cicatrización después de la cirugía. Los resultados muestran cicatrización más rápida y menos acumulación de grasa.",
+      "body_es": "Los investigadores examinaron los efectos del plasma frío en la recuperación de heridas quirúrgicas. El plasma frío es un gas ionizado que puede aplicarse directamente a la herida. Este tratamiento promueve la limpieza de la herida y reduce la inflamación local. Los pacientes tratados con plasma frío mostraron cicatrización más rápida en comparación con los controles. El proceso de epitelización se aceleró significativamente. Además, se observó menos acumulación de tejido adiposo en el lecho de la herida. Los investigadores sugieren que el plasma frío podría convertirse en una técnica estándar para mejorar la recuperación quirúrgica. Este hallazgo tiene implicaciones importantes para reducir complicaciones postoperatorias.",
+      "body_en": "Researchers examined the effects of cold plasma on surgical wound recovery. Cold plasma is an ionized gas that can be applied directly to the wound. This treatment promotes wound cleansing and reduces local inflammation. Patients treated with cold plasma showed faster healing compared to controls. The epithelialization process was significantly accelerated. Additionally, less adipose tissue accumulation was observed in the wound bed. Researchers suggest that cold plasma could become a standard technique to improve surgical recovery. This finding has important implications for reducing postoperative complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelV3Wm5ZX2FGWkRRM3c5RWFpT1AtcFdzdEFXUXBzeXpfLTdaUHN3VklXd1ZhVWxzem1Tcjk1ZkVUbFVWaDRPYklTbUdWOUJQcU9wMGUtYUVrZU1yb19oYW56eUI4NUVkaFFvSTVWeTN6Z3NEajZ1TzJlckRDYWk3NnZHakhxdw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-01/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "plasma frío",
+          "definition_es": "gas ionizado usado para acelerar la cicatrización",
+          "definition_en": "cold plasma - ionized gas used to accelerate healing"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz o cierre de herida",
+          "definition_en": "scarring - process of scar formation or wound closure"
+        },
+        {
+          "word": "lecho de la herida",
+          "definition_es": "base o superficie de una herida",
+          "definition_en": "wound bed - base or surface of a wound"
+        },
+        {
+          "word": "complicaciones postoperatorias",
+          "definition_es": "problemas que ocurren después de la cirugía",
+          "definition_en": "postoperative complications - problems that occur after surgery"
+        }
+      ],
+      "added_at": "2026-03-01T09:09:57.943090Z"
+    },
+    {
+      "id": "wound-research-20250301",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Políticas para apósitos avanzados de curación de heridas en India",
+      "headline_en": "Policies for advanced wound care dressings in India",
+      "summary_es": "Chemistry World publica un artículo sobre las políticas regulatorias para apósitos avanzados de curación en India. Este análisis examina cómo el país está mejorando el acceso a tecnologías modernas de cuidado de heridas.",
+      "body_es": "El artículo de Chemistry World analiza las políticas regulatorias para los apósitos avanzados de curación en India. Los apósitos modernos incluyen vendajes interactivos, apósitos antimicrobianos y materiales con propiedades bioactivas. El gobierno indio ha reconocido la importancia de mejorar el acceso a estas tecnologías. Las nuevas políticas buscan reducir costos y facilitar el desarrollo de productos locales. Los apósitos avanzados mejoran la epitelización y reducen el tiempo de cicatrización en heridas crónicas. La regulación de estos productos es fundamental para garantizar calidad y seguridad. Este marco regulatorio ayudará a los pacientes indios a acceder a tratamientos de heridas más efectivos. Las instituciones de salud pueden implementar protocolos basados en evidencia para el cuidado de heridas.",
+      "body_en": "The Chemistry World article analyzes regulatory policies for advanced wound care dressings in India. Modern dressings include interactive bandages, antimicrobial dressings, and materials with bioactive properties. The Indian government has recognized the importance of improving access to these technologies. New policies seek to reduce costs and facilitate the development of local products. Advanced dressings improve epithelialization and reduce healing time in chronic wounds. Regulation of these products is essential to ensure quality and safety. This regulatory framework will help Indian patients access more effective wound care treatments. Healthcare institutions can implement evidence-based protocols for wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNk1CcDU4Z081SFkxSDhuOENyRzNQV2lTYmxVNE9Zb2lBVkZycVAxU2ZhS1RBVnZuLTNaNHpFemlZNUp5cmdKQTNtTWx3Q2VUanI2emVkVjJfWDJ3S3VfSWtjVU1OQWFhVndYeGcwSW1GRHNlWHpReUU2ejIwN0NjeHhQMm5SVEIxSGIxY1FyOFhyVmpSWU1WQ2lYa3Q3Tk9TcFRTa1JJWk9mZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-01/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material colocado sobre una herida para protegerla",
+          "definition_en": "dressing - material placed over a wound to protect it"
+        },
+        {
+          "word": "bioactivo",
+          "definition_es": "que tiene propiedades biológicas beneficiosas",
+          "definition_en": "bioactive - having beneficial biological properties"
+        },
+        {
+          "word": "regulación",
+          "definition_es": "normas y reglas que controlan los medicamentos y productos médicos",
+          "definition_en": "regulation - rules and standards that control medications and medical products"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva epidermis sobre la herida",
+          "definition_en": "epithelialization - formation of new epidermis over the wound"
+        }
+      ],
+      "added_at": "2026-03-01T09:09:57.943090Z"
+    },
     {
       "id": "chronic-wounds-20250228",
       "category": "Chronic Wounds",
@@ -8733,6 +8881,6 @@
       ]
     }
   ],
-  "last_updated": "2026-02-28T09:09:22.948502Z",
+  "last_updated": "2026-03-01T09:09:57.943090Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
