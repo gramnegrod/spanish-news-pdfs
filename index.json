@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-02",
+      "filename": "spanish_lesson_2026-03-02.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-02.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump habla sobre la duración de la guerra actual",
+          "headline_en": "Trump talks about the duration of the current war",
+          "body_es": "El expresidente Donald Trump hizo declaraciones sobre el conflicto militar actual. Trump dice que la guerra podría terminar en pocas semanas. También habló sobre el futuro del país después del conflicto. Sus comentarios incluyen ideas diferentes sobre el nuevo régimen político. Algunos expertos consideran que sus declaraciones son contradictorias. Trump presenta visiones muy distintas sobre cómo será el gobierno futuro. Las declaraciones han generado debate entre los políticos estadounidenses. Los ciudadanos esperan más claridad sobre los planes del gobierno. La situación política sigue siendo compleja y difícil de predecir.",
+          "body_en": "Former President Donald Trump made statements about the current military conflict. Trump says the war could end in a few weeks. He also talked about the country's future after the conflict. His comments include different ideas about the new political regime. Some experts consider his statements contradictory. Trump presents very different visions of what the future government will be like. The statements have generated debate among US politicians. Citizens expect more clarity about the government's plans. The political situation remains complex and difficult to predict.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La confianza económica de los estadounidenses mejora en febrero",
+          "headline_en": "Americans' economic confidence improves in February",
+          "body_es": "La confianza del consumidor estadounidense mejoró durante febrero de 2026. En enero, los números económicos fueron muy malos para el país. Los consumidores tenían miedo sobre el futuro de la economía. Ahora, la situación comienza a cambiar de forma positiva. Las personas sienten más optimismo sobre sus trabajos y ingresos. Los expertos económicos ven señales de recuperación en diferentes sectores. Sin embargo, la mejora es pequeña y lenta. Muchos estadounidenses todavía tienen preocupaciones sobre el costo de vida. Los precios de comida y vivienda siguen siendo altos. El gobierno espera que la confianza continúe creciendo en los próximos meses.",
+          "body_en": "US consumer confidence improved during February 2026. In January, economic numbers were very bad for the country. Consumers were afraid about the economy's future. Now, the situation is beginning to change positively. People feel more optimistic about their jobs and income. Economic experts see signs of recovery in different sectors. However, the improvement is small and slow. Many Americans still have concerns about the cost of living. Food and housing prices remain high. The government hopes confidence will continue growing in the coming months.",
+          "source": "AOL.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Conversaciones entre empresa de inteligencia artificial y gobierno terminan mal",
+          "headline_en": "Talks between artificial intelligence company and government end badly",
+          "body_es": "La empresa tecnológica Anthropic tenía negociaciones importantes con el Departamento de Defensa estadounidense. Las conversaciones buscaban crear un proyecto conjunto de inteligencia artificial. Sin embargo, las negociaciones fracasaron completamente. Las dos partes no pudieron llegar a un acuerdo sobre temas importantes. Los problemas incluían cuestiones de seguridad nacional y uso de tecnología. Anthropic es una compañía famosa por crear sistemas de inteligencia artificial avanzados. El gobierno quería usar esta tecnología para proyectos militares. La empresa tenía preocupaciones sobre el uso ético de sus productos. Este fracaso afecta los planes tecnológicos del Departamento de Defensa.",
+          "body_en": "Technology company Anthropic had important negotiations with the US Department of Defense. The talks sought to create a joint artificial intelligence project. However, the negotiations failed completely. The two parties could not reach an agreement on important issues. The problems included national security issues and technology use. Anthropic is a company famous for creating advanced artificial intelligence systems. The government wanted to use this technology for military projects. The company had concerns about the ethical use of its products. This failure affects the Department of Defense's technology plans.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "guerra",
+          "syllables": "GUE-rra",
+          "pos": "sustantivo",
+          "context": "Trump dice que la guerra podría durar varias semanas.",
+          "definition_es": "Conflicto armado entre países o grupos",
+          "definition_en": "Armed conflict between countries or groups"
+        },
+        {
+          "word": "régimen",
+          "syllables": "ré-gi-men",
+          "pos": "sustantivo",
+          "context": "El político habla de visiones contradictorias del nuevo régimen.",
+          "definition_es": "Sistema de gobierno de un país",
+          "definition_en": "System of government of a country"
+        },
+        {
+          "word": "confianza",
+          "syllables": "con-FIAN-za",
+          "pos": "sustantivo",
+          "context": "La confianza del consumidor mejora en febrero.",
+          "definition_es": "Sentimiento de seguridad en algo o alguien",
+          "definition_en": "Feeling of security in something or someone"
+        },
+        {
+          "word": "consumidor",
+          "syllables": "con-su-mi-DOR",
+          "pos": "sustantivo",
+          "context": "Los consumidores estadounidenses sienten más optimismo.",
+          "definition_es": "Persona que compra productos o servicios",
+          "definition_en": "Person who buys products or services"
+        },
+        {
+          "word": "negociaciones",
+          "syllables": "ne-go-cia-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las negociaciones entre la empresa y el gobierno fracasaron.",
+          "definition_es": "Conversaciones para llegar a un acuerdo",
+          "definition_en": "Conversations to reach an agreement"
+        },
+        {
+          "word": "defensa",
+          "syllables": "de-FEN-sa",
+          "pos": "sustantivo",
+          "context": "El Departamento de Defensa suspendió las conversaciones.",
+          "definition_es": "Protección contra ataques o peligros",
+          "definition_en": "Protection against attacks or dangers"
+        },
+        {
+          "word": "mejorar",
+          "syllables": "me-jo-RAR",
+          "pos": "verbo",
+          "context": "La economía estadounidense comienza a mejorar lentamente.",
+          "definition_es": "Hacer algo mejor de lo que estaba antes",
+          "definition_en": "To make something better than it was before"
+        },
+        {
+          "word": "fracasar",
+          "syllables": "fra-ca-SAR",
+          "pos": "verbo",
+          "context": "Las conversaciones fracasaron por diferencias importantes.",
+          "definition_es": "No tener éxito en algo que se intentaba",
+          "definition_en": "To not succeed in something that was being attempted"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'régimen'?",
+          "options": [
+            "Sistema de gobierno",
+            "Tipo de comida",
+            "Ejercicio físico",
+            "Programa de televisión"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'consumidor' es una persona que:",
+          "options": [
+            "Trabaja en una fábrica",
+            "Compra productos",
+            "Enseña en escuelas",
+            "Conduce automóviles"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'fracasar'?",
+          "options": [
+            "Tener éxito",
+            "No conseguir lo que se quiere",
+            "Hablar mucho",
+            "Caminar rápido"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Las 'negociaciones' son:",
+          "options": [
+            "Fiestas importantes",
+            "Conversaciones para acordar algo",
+            "Problemas médicos",
+            "Deportes populares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿cuánto tiempo dice Trump que podría durar la guerra?",
+          "options": [
+            "Varios años",
+            "Pocas semanas",
+            "Muchos meses",
+            "Una década"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿En qué mes mejoró la confianza del consumidor estadounidense?",
+          "options": [
+            "Enero",
+            "Febrero",
+            "Marzo",
+            "Abril"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de empresa es Anthropic?",
+          "options": [
+            "Empresa de comida",
+            "Empresa tecnológica",
+            "Empresa de ropa",
+            "Empresa de construcción"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Con qué departamento del gobierno fracasaron las negociaciones de Anthropic?",
+          "options": [
+            "Departamento de Educación",
+            "Departamento de Salud",
+            "Departamento de Defensa",
+            "Departamento de Agricultura"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cómo fueron los números económicos en enero de 2026?",
+          "options": [
+            "Muy buenos",
+            "Excelentes",
+            "Muy malos",
+            "Normales"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué Anthropic tenía preocupaciones sobre trabajar con el gobierno?",
+          "options": [
+            "Por dinero",
+            "Por uso ético de tecnología",
+            "Por tiempo",
+            "Por ubicación"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-02T09:12:59.109120"
+    },
+    {
       "date": "2026-03-01",
       "filename": "spanish_lesson_2026-03-01.pdf",
       "path": "pdfs/spanish_lesson_2026-03-01.pdf",
@@ -18674,7 +18896,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-01T09:05:21.590176",
+  "last_updated": "2026-03-02T09:12:59.109137",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
