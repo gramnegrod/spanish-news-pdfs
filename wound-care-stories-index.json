@@ -1,11 +1,122 @@
 {
-  "date": "2026-03-01",
-  "generated_at": "2026-03-01T09:09:57.943090Z",
+  "date": "2026-03-02",
+  "generated_at": "2026-03-02T09:20:59.024778Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 240,
-  "new_today": 4,
+  "total_stories": 243,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250302",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La Espuma de Óxido Nítrico: Una Nueva Esperanza para Sanar Heridas Crónicas",
+      "headline_en": "Nitric Oxide Foam: New Hope for Healing Chronic Wounds",
+      "summary_es": "Los investigadores estudian una espuma con óxido nítrico para mejorar la curación de heridas crónicas. Los resultados iniciales muestran promesa en pacientes con úlceras difíciles de sanar.",
+      "body_es": "El óxido nítrico es una sustancia natural en el cuerpo. Los médicos ahora crean espumas con esta sustancia para tratar heridas crónicas. Las heridas crónicas son difíciles de sanar. Pueden infectarse. La espuma de óxido nítrico ayuda a mejorar la circulación de sangre. Mejora la curación de la piel. Los estudios muestran buenos resultados en pacientes reales. El tratamiento es seguro y efectivo. Los enfermeros pueden aplicar la espuma fácilmente en las heridas. Este tratamiento es especialmente importante para pacientes con úlceras de pie diabético. La investigación continúa para confirmar estos beneficios.",
+      "body_en": "Nitric oxide is a natural substance in the body. Doctors now create foams with this substance to treat chronic wounds. Chronic wounds are difficult to heal. They can become infected. Nitric oxide foam helps improve blood circulation. It improves skin healing. Studies show good results in real patients. The treatment is safe and effective. Nurses can easily apply the foam to wounds. This treatment is especially important for patients with diabetic foot ulcers. Research continues to confirm these benefits.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ3lvRHRfMTZ3eWpHSjUtckRLd0tWQk1Fajh4LTNCOXFLMnZRZzBWTEJHTC1XZnE1V1RRa3BrWjNNblFRbEdEUWJkYjltZ2d6eERWV1ZraTRhNXdBQTF2cTFjQ3ROWWtIRW52YzAzNDQwWV9PZXJMdVhzajVfNVNaU21yQXpRTkczTHJTNmhHSms3MVRJNy0wVTRhNHdmOGRRR2tKMDMxRlpFRVNxT3drMGs4UFBiUkpUX05BYXNPeURBOEZVVlFYRml2TzE1MWJlbDNR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-02/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cura después de varias semanas",
+          "definition_en": "chronic wound - injury that does not heal after several weeks"
+        },
+        {
+          "word": "óxido nítrico",
+          "definition_es": "sustancia natural que mejora la circulación de sangre",
+          "definition_en": "nitric oxide - natural substance that improves blood circulation"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "tipo de herida abierta en la piel",
+          "definition_en": "ulcer - type of open wound on the skin"
+        }
+      ],
+      "added_at": "2026-03-02T09:20:59.024778Z"
+    },
+    {
+      "id": "wound-research-20250302",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación Revolucionaria: El Óxido Nítrico Transforma la Cicatrización de Heridas",
+      "headline_en": "Revolutionary Research: Nitric Oxide Transforms Wound Healing",
+      "summary_es": "Nuevos estudios demuestran que la espuma de óxido nítrico mejora significativamente los resultados de curación en heridas crónicas. Los investigadores confirman que esta terapia podría cambiar la práctica clínica actual.",
+      "body_es": "Los investigadores del sector de cuidado de heridas están explorando los efectos del óxido nítrico en la cicatrización. El óxido nítrico, una molécula gaseosa natural, juega un papel fundamental en la angiogénesis y la epitelización. Los estudios clínicos recientes muestran que la espuma de óxido nítrico acelera la granulación tisular y reduce el tiempo de cicatrización en un porcentaje significativo. El tratamiento ha sido probado en heridas complejas que incluyen úlceras venosas, úlceras de presión y úlceras diabéticas. Los profesionales de enfermería reportan que el apósito es fácil de aplicar y seguro para los pacientes. Los resultados preliminares sugieren que esta terapia podría reducir las complicaciones como infecciones locales y necrosis. Aunque se necesita más investigación, el óxido nítrico representa una esperanza innovadora para mejorar los resultados en pacientes con heridas crónicas resistentes al tratamiento convencional.",
+      "body_en": "Researchers in the wound care sector are exploring the effects of nitric oxide on wound healing. Nitric oxide, a natural gaseous molecule, plays a fundamental role in angiogenesis and epithelialization. Recent clinical studies show that nitric oxide foam accelerates tissue granulation and reduces healing time significantly. The treatment has been tested on complex wounds including venous ulcers, pressure ulcers, and diabetic ulcers. Nursing professionals report that the dressing is easy to apply and safe for patients. Preliminary results suggest that this therapy could reduce complications such as local infections and necrosis. Although more research is needed, nitric oxide represents innovative hope for improving outcomes in patients with chronic wounds resistant to conventional treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ3lvRHRfMTZ3eWpHSjUtckRLd0tWQk1Fajh4LTNCOXFLMnZRZzBWTEJHTC1XZnE1V1RRa3BrWjNNblFRbEdEUWJkYjltZ2d6eERWV1ZraTRhNXdBQTF2cTFjQ3ROWWtIRW52YzAzNDQwWV9PZXJMdVhzajVfNVNaU21yQXpRTkczTHJTNmhHSms3MVRJNy0wVTRhNHdmOGRRR2tKMDMxRlpFRVNxT3drMGs4UFBiUkpUX05BYXNPeURBOEZVVlFYRml2TzE1MWJlbDNR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-02/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nuevo tejido epitelial en una herida",
+          "definition_en": "epithelialization - process of forming new epithelial tissue in a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo y rojo en una herida durante la curación",
+          "definition_en": "granulation - formation of new red tissue in a wound during healing"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "proceso de formación de nuevos vasos sanguíneos",
+          "definition_en": "angiogenesis - process of forming new blood vessels"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - medical material placed over a wound to protect it"
+        }
+      ],
+      "added_at": "2026-03-02T09:20:59.024778Z"
+    },
+    {
+      "id": "surgical-wounds-20250302",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Equipos Multidisciplinarios: La Clave para Mejorar el Cuidado de Heridas Quirúrgicas",
+      "headline_en": "Multidisciplinary Teams: The Key to Improving Surgical Wound Care",
+      "summary_es": "Los expertos en podología enfatizan la importancia de equipos integrados para optimizar la curación de heridas en la práctica clínica. La colaboración entre especialidades resulta en mejores resultados para los pacientes.",
+      "body_es": "La construcción de equipos multidisciplinarios en la práctica podológica ha demostrado ser esencial para mejorar los resultados en el cuidado de heridas quirúrgicas. Estos equipos incluyen médicos podólogos, enfermeros especializados en heridas, médicos vasculares y especialistas en infecciones. La comunicación efectiva entre los miembros del equipo permite una evaluación más completa de las heridas complejas. Los protocolos estandarizados basados en evidencia mejoran la consistencia del tratamiento. Los enfermeros juegan un papel crucial en la evaluación diaria, el desbridamiento cuando es necesario, y la aplicación de apósitos apropiados. La colaboración también facilita la identificación temprana de complicaciones como isquemia tisular o infecciones secundarias. Los estudios muestran que los pacientes atendidos por equipos multidisciplinarios tienen tasas menores de reinfección y cicatrización más rápida. Esta aproximación integrada es particularmente importante en heridas postquirúrgicas complejas.",
+      "body_en": "The development of multidisciplinary teams in podological practice has proven essential for improving outcomes in surgical wound care. These teams include podiatric physicians, wound care nurses, vascular physicians, and infection specialists. Effective communication among team members allows for more comprehensive evaluation of complex wounds. Standardized, evidence-based protocols improve treatment consistency. Nurses play a crucial role in daily assessment, debridement when necessary, and application of appropriate dressings. Collaboration also facilitates early identification of complications such as tissue ischemia or secondary infections. Studies show that patients treated by multidisciplinary teams have lower reinfection rates and faster healing. This integrated approach is particularly important in complex post-surgical wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZlBDZkwzemhRaGpBMUExbWhJanBNVHU3S0dfa0FXOVdDYnd1S0hFT18xOThRNXY2ck5PNFVNbUFzNVo2M29tNlh6bHFpcnJmdEZQbmQ5N1ppSWRGbFRKdVFSU09KOWVYWHlDTEVtN1lkaEUzQUI5YmV4V2JpS1o2QVBEeWdkYlJpWkNXYlA0bmNyNFBEN3ZvRWxNLVhiVF9yN0V0UFgyNGo5VjFTc2xFOXpGOEI3ZXBQMWdrbWZDVVc4N1kydUo5bC1n?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-02/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado en una herida",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de riego sanguíneo en un tejido",
+          "definition_en": "ischemia - lack of blood supply to tissue"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - medical material placed over a wound to protect it"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz durante la curación de una herida",
+          "definition_en": "scarring - process of scar formation during wound healing"
+        }
+      ],
+      "added_at": "2026-03-02T09:20:59.024778Z"
+    },
     {
       "id": "chronic-wounds-20250301",
       "category": "Chronic Wounds",
@@ -8881,6 +8992,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-01T09:09:57.943090Z",
+  "last_updated": "2026-03-02T09:20:59.024778Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
