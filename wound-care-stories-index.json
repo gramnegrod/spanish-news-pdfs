@@ -1,11 +1,159 @@
 {
-  "date": "2026-03-02",
-  "generated_at": "2026-03-02T09:20:59.024778Z",
+  "date": "2026-03-03",
+  "generated_at": "2026-03-03T09:18:04.752702Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 243,
-  "new_today": 3,
+  "total_stories": 247,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250303",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo gel acelera la curación de heridas crónicas",
+      "headline_en": "New gel accelerates healing of chronic wounds",
+      "summary_es": "Un nuevo tratamiento llamado Aurase Wound Gel muestra resultados prometedores en la curación rápida de heridas crónicas. Los estudios demuestran que este gel acelera significativamente el proceso de cicatrización.",
+      "body_es": "El gel Aurase Wound Gel es un nuevo tratamiento para heridas crónicas. Los estudios clínicos muestran que este apósito acelera la curación. El producto mejora la granulación del tejido. Los pacientes con úlceras crónicas reciben este tratamiento. El vendaje se aplica directamente en la herida. El proceso de cicatrización es más rápido con este gel. Los resultados son muy positivos. Los especialistas recomiendan este nuevo apósito. La curación completa ocurre en menos tiempo. Este avance es importante para el cuidado de heridas.",
+      "body_en": "Aurase Wound Gel is a new treatment for chronic wounds. Clinical studies show that this dressing accelerates healing. The product improves tissue granulation. Patients with chronic ulcers receive this treatment. The dressing is applied directly to the wound. The healing process is faster with this gel. The results are very positive. Specialists recommend this new dressing. Complete healing occurs in less time. This advance is important for wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0taYWgzVl82dEt0clhmZUtCTFVwc3p1d1ZEeFR3MmJCVjN2aUJrNzhUUkNPSGpZY1RNZ1Z1Yk1kZXdIUWRxd1BHXzlMUjBXa003TU1rdlFTc3ZPZk03TlBPRUFsaUZvZ2pRckRTVFNIblVFcXNaczNMOGNvbW5hZWhlQlE1YlFra01CNE5VME5UZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-03/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material que se pone sobre una herida para protegerla",
+          "definition_en": "dressing - material placed on a wound to protect it"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido en la herida durante la curación",
+          "definition_en": "granulation - formation of new tissue in wound during healing"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de curación de una herida",
+          "definition_en": "healing/scarring - natural process of wound recovery"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta que no cierra fácilmente",
+          "definition_en": "ulcer - open wound that does not close easily"
+        }
+      ],
+      "added_at": "2026-03-03T09:18:04.752702Z"
+    },
+    {
+      "id": "burn-care-20250303",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "La investigación revela un interruptor molecular que controla la cicatrización",
+      "headline_en": "Research reveals molecular switch that controls wound healing",
+      "summary_es": "Científicos han descubierto un mecanismo molecular crucial que determina cómo cicatrizan las heridas. Este hallazgo podría cambiar el tratamiento de quemaduras y otras lesiones graves.",
+      "body_es": "Los investigadores han identificado un interruptor molecular importante que controla el proceso de curación de heridas. Este mecanismo determina si la cicatrización ocurre correctamente o si se produce necrosis. Durante el tratamiento de quemaduras, es esencial comprender este proceso biológico. El interruptor regula la inflamación y la proliferación de células nuevas. Cuando funciona adecuadamente, el tejido se regenera de manera óptima. Si no funciona bien, pueden ocurrir complicaciones como edema y fibrosis. Los especialistas en cuidado de heridas pueden usar este conocimiento para mejorar los apósitos y los vendajes. Este avance abre nuevas posibilidades para tratar quemaduras de manera más eficaz y acelerar la epitelización.",
+      "body_en": "Researchers have identified an important molecular switch that controls the wound healing process. This mechanism determines whether scarring occurs properly or if necrosis develops. When treating burns, it is essential to understand this biological process. The switch regulates inflammation and proliferation of new cells. When it functions properly, tissue regenerates optimally. If it does not work well, complications such as edema and fibrosis can occur. Wound care specialists can use this knowledge to improve dressings and bandages. This advance opens new possibilities for treating burns more effectively and accelerating epithelialization.",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNV9mN2F6LWNaelJHNXFDd1o4cEZLSkNWTnZxX2RxMGR4MUItdmc0Y05LLU0xQTYzY3dRSGNrWC04aTJxLU91S3JFWlFqbzZ0U3dTcVFHSGxwSU5hdzdSTlN1RnJjUElCWVJKWkhvWXhGbVp0VDRoNXp6MHYzc3RpMzBZWUJDLUFDTjJ3TmoySWIwQzRXemVqdjJIZ29RUDRvdU1xVkJ2RdIBpwFBVV95cUxNNV9mN2F6LWNaelJHNXFDd1o4cEZLSkNWTnZxX2RxMGR4MUItdmc0Y05LLU0xQTYzY3dRSGNrWC04aTJxLU91S3JFWlFqbzZ0U3dTcVFHSGxwSU5hdzdSTlN1RnJjUElCWVJKWkhvWXhGbVp0VDRoNXp6MHYzc3RpMzBZWUJDLUFDTjJ3TmoySWIwQzRXemVqdjJIZ29RUDRvdU1xVkJ2RQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-03/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido vivo causada por falta de sangre o infección",
+          "definition_en": "necrosis - death of living tissue caused by lack of blood or infection"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de piel nueva que cubre una herida",
+          "definition_en": "epithelialization - formation of new skin covering a wound"
+        },
+        {
+          "word": "fibrosis",
+          "definition_es": "formación excesiva de tejido cicatricial que puede limitar movimiento",
+          "definition_en": "fibrosis - excessive formation of scar tissue that can limit movement"
+        },
+        {
+          "word": "edema",
+          "definition_es": "hinchazón causada por acumulación de líquido en los tejidos",
+          "definition_en": "edema - swelling caused by fluid accumulation in tissues"
+        }
+      ],
+      "added_at": "2026-03-03T09:18:04.752702Z"
+    },
+    {
+      "id": "surgical-wounds-20250303",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Síndrome del pecho rojo en reconstrucción mamaria con matriz dérmica acelular",
+      "headline_en": "Red breast syndrome in mammary reconstruction with acellular dermal matrix",
+      "summary_es": "Un nuevo estudio examina las complicaciones tempranas postoperatorias en la reconstrucción de mama con matriz dérmica acelular Braxon. Los resultados muestran que el síndrome del pecho rojo requiere vigilancia cuidadosa.",
+      "body_es": "Los cirujanos plásticos están estudiando las complicaciones que ocurren después de la reconstrucción mamaria con implantes. El uso de matriz dérmica acelular Braxon proporciona soporte adicional al tejido. Sin embargo, algunas pacientes desarrollan el síndrome del pecho rojo después de la cirugía. Este síndrome se caracteriza por eritema y edema en el área de la reconstrucción. Los investigadores realizaron un análisis retrospectivo de múltiples casos. El estudio examina cómo el apósito y el vendaje afectan la curación de la herida quirúrgica. La evaluación de la cicatrización es crucial durante las primeras semanas postoperatorias. El desbridamiento puede ser necesario en algunos casos si hay complicaciones. Los especialistas recomiendan un monitoreo cuidadoso para detectar signos de infección o necrosis.",
+      "body_en": "Plastic surgeons are studying complications that occur after breast reconstruction with implants. The use of acellular dermal matrix Braxon provides additional support to tissue. However, some patients develop red breast syndrome after surgery. This syndrome is characterized by erythema and edema in the reconstruction area. Researchers conducted a retrospective analysis of multiple cases. The study examines how dressing and bandaging affect surgical wound healing. Assessment of scarring is crucial during the first postoperative weeks. Debridement may be necessary in some cases if complications arise. Specialists recommend careful monitoring to detect signs of infection or necrosis.",
+      "source_url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOd3RtREhSSFBWdDI5MlZBNHgtRU9fc1NhRWpaWVNiRGROQTJWZHdzRUtJaWItejYwRWJFRE1DYmNpTmoxMlM4MTlIUXViTFpFbzhRelpSSnhheTNLcFlqT25vNEU5RG84MGdlV1Ria1hWZHZGWUhkVEhCX3UzVU83cVo4dk5XVExmOU5ONHNka3FZZ3ZsYlR5aXUwdTNCT2czRDJhU0c1X0c1bGRfRDVrMlctbER5RFBHMDBxbUtEM0FyLXNWRHhrNFBfOXRrQWROTGNuSmYtbUR5dGZ2Z0NHU2tZNmRGZ0VkYlMxaE4tb1hFYm1HeXd3ZV94a0cwc1E3VHVlUU1hbGNSd00wRG1WZ2o3bFhPNkRoYnh6SXdCdjVLTEd5M2Z4OGM2MzlGTDM2YVZxbkYxSXF0OGI0?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-03/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel causado por inflamación o irritación",
+          "definition_en": "erythema - redness of skin caused by inflammation or irritation"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "matriz dérmica acelular",
+          "definition_es": "material biológico que reemplaza la piel dañada sin células vivas",
+          "definition_en": "acellular dermal matrix - biological material that replaces damaged skin without living cells"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de reparación de la herida quirúrgica",
+          "definition_en": "scarring - process of surgical wound repair"
+        }
+      ],
+      "added_at": "2026-03-03T09:18:04.752702Z"
+    },
+    {
+      "id": "wound-research-20250303",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Políticas para apósitos avanzados de cuidado de heridas en India",
+      "headline_en": "Policies for advanced wound care dressings in India",
+      "summary_es": "El sistema de salud de India está desarrollando políticas para mejorar el acceso a apósitos avanzados de cuidado de heridas. Estos cambios buscan estandarizar el tratamiento de heridas crónicas y heridas quirúrgicas.",
+      "body_es": "Las autoridades sanitarias de India están implementando nuevas políticas para el uso de apósitos avanzados en hospitales y centros de cuidado. Estas políticas regulan la disponibilidad de vendajes especializados para diferentes tipos de heridas. Los apósitos avanzados incluyen geles, espumas y membranas que mejoran la curación. El objetivo es estandarizar el tratamiento de úlceras, quemaduras y heridas quirúrgicas. Los protocolos recomiendan evaluación regular de la cicatrización y la granulación. Los médicos deben realizar desbridamiento cuando sea necesario para prevenir infecciones. Las nuevas directrices enfatizan la importancia del control del edema y la prevención de necrosis. Los especialistas en cuidado de heridas pueden usar estos apósitos para acelerar la epitelización. Estas políticas mejoran la calidad del tratamiento en toda India.",
+      "body_en": "Health authorities in India are implementing new policies for the use of advanced dressings in hospitals and care centers. These policies regulate the availability of specialized bandages for different types of wounds. Advanced dressings include gels, foams, and membranes that improve healing. The objective is to standardize treatment of ulcers, burns, and surgical wounds. Protocols recommend regular evaluation of scarring and granulation. Doctors must perform debridement when necessary to prevent infections. New guidelines emphasize the importance of edema control and necrosis prevention. Wound care specialists can use these dressings to accelerate epithelialization. These policies improve treatment quality throughout India.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNk1CcDU4Z081SFkxSDhuOENyRzNQV2lTYmxVNE9Zb2lBVkZycVAxU2ZhS1RBVnZuLTNaNHpFemlZNUp5cmdKQTNtTWx3Q2VUanI2emVkVjJfWDJ3S3VfSWtjVU1OQWFhVndYeGcwSW1GRHNlWHpReUU2ejIwN0NjeHhQMm5SVEIxSGIxY1FyOFhyVmpSWU1WQ2lYa3Q3Tk9TcFRTa1JJWk9mZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-03/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "protocolo",
+          "definition_es": "conjunto de reglas o procedimientos estándar para el tratamiento",
+          "definition_en": "protocol - set of standard rules or procedures for treatment"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido especializado durante la cicatrización",
+          "definition_en": "granulation - formation of specialized new tissue during healing"
+        },
+        {
+          "word": "vendaje especializado",
+          "definition_es": "apósito diseñado específicamente para diferentes tipos de heridas",
+          "definition_en": "specialized bandage - dressing designed specifically for different wound types"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "cierre de la herida mediante crecimiento de piel nueva",
+          "definition_en": "epithelialization - wound closure through new skin growth"
+        }
+      ],
+      "added_at": "2026-03-03T09:18:04.752702Z"
+    },
     {
       "id": "chronic-wounds-20250302",
       "category": "Chronic Wounds",
@@ -8992,6 +9140,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-02T09:20:59.024778Z",
+  "last_updated": "2026-03-03T09:18:04.752702Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
