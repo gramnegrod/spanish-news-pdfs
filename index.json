@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-03",
+      "filename": "spanish_lesson_2026-03-03.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-03.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Plan de redistribución de Texas no dará tantos escaños republicanos",
+          "headline_en": "Texas redistricting plan won't give as many Republican seats",
+          "body_es": "Texas hizo un nuevo plan para dividir las zonas electorales del estado. Los republicanos esperaban ganar cinco escaños nuevos en el Congreso. Sin embargo, un estudio de Brookings dice que esto no va a pasar. El plan de redistribución no va a añadir tantos escaños republicanos como pensaban. Texas tiene más población ahora, pero la distribución de votantes es diferente. Los demócratas también viven en muchas zonas del estado. El proceso de redistribución pasa cada diez años después del censo nacional. Este año, los resultados pueden ser diferentes de lo que esperaban los políticos republicanos de Texas.",
+          "body_en": "Texas made a new plan to divide the state's electoral zones. Republicans hoped to gain five new seats in Congress. However, a Brookings study says this won't happen. The redistricting plan won't add as many Republican seats as they thought. Texas has more population now, but the distribution of voters is different. Democrats also live in many areas of the state. The redistricting process happens every ten years after the national census. This year, the results may be different from what Texas Republican politicians expected.",
+          "source": "Brookings"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Acciones estadounidenses se recuperan mientras sube el precio del petróleo",
+          "headline_en": "US stocks recover while oil prices rise",
+          "body_es": "Las acciones estadounidenses se recuperaron después de perder mucho valor. Los inversores estaban preocupados por la economía global. Al mismo tiempo, los precios del petróleo subieron mucho. Esto pasó porque hay miedo de una guerra con Irán. Las guerras en el Medio Oriente siempre afectan el precio del petróleo. Cuando hay conflictos, el petróleo se vuelve más caro. Los mercados financieros cambian rápidamente cuando hay noticias internacionales importantes. Los expertos dicen que los inversores deben estar preparados para más cambios. La situación política internacional afecta directamente la economía estadounidense y los precios de la energía en todo el mundo.",
+          "body_en": "US stocks recovered after losing much value. Investors were worried about the global economy. At the same time, oil prices rose significantly. This happened because there are fears of a war with Iran. Wars in the Middle East always affect oil prices. When there are conflicts, oil becomes more expensive. Financial markets change quickly when there is important international news. Experts say investors should be prepared for more changes. The international political situation directly affects the US economy and energy prices worldwide.",
+          "source": "PBS"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa revela intentos chinos de robar tecnología de inteligencia artificial",
+          "headline_en": "Company reveals Chinese attempts to steal artificial intelligence technology",
+          "body_es": "La empresa Anthropic expuso cómo algunas compañías chinas trataron de robar su tecnología de inteligencia artificial. Estas empresas chinas querían copiar los modelos de lenguaje avanzados. La inteligencia artificial es muy valiosa ahora en el mundo de la tecnología. Muchas empresas invierten millones de dólares en desarrollar esta tecnología. Robar estos secretos tecnológicos puede ahorrar mucho tiempo y dinero. Anthropic descubrió los intentos y los hizo públicos. Este problema es común entre las grandes empresas tecnológicas. Los gobiernos también están preocupados por la seguridad de la información tecnológica. La competencia en inteligencia artificial es muy intensa entre diferentes países.",
+          "body_en": "The company Anthropic exposed how some Chinese companies tried to steal their artificial intelligence technology. These Chinese companies wanted to copy advanced language models. Artificial intelligence is very valuable now in the technology world. Many companies invest millions of dollars in developing this technology. Stealing these technological secrets can save a lot of time and money. Anthropic discovered the attempts and made them public. This problem is common among large technology companies. Governments are also worried about the security of technological information. Competition in artificial intelligence is very intense between different countries.",
+          "source": "Mashable"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "redistribución",
+          "syllables": "re-dis-tri-bu-CIÓN",
+          "pos": "sustantivo",
+          "context": "El plan de redistribución de Texas no añadirá muchos escaños republicanos.",
+          "definition_es": "Proceso de dividir de nuevo las zonas electorales",
+          "definition_en": "Process of redividing electoral districts"
+        },
+        {
+          "word": "escaño",
+          "syllables": "es-CA-ño",
+          "pos": "sustantivo",
+          "context": "Texas esperaba ganar cinco escaños republicanos nuevos.",
+          "definition_es": "Asiento o puesto en el parlamento",
+          "definition_en": "Seat in parliament or congress"
+        },
+        {
+          "word": "recuperarse",
+          "syllables": "re-cu-pe-RAR-se",
+          "pos": "verbo",
+          "context": "Las acciones se recuperaron después de las grandes pérdidas.",
+          "definition_es": "Volver a un estado mejor después de problemas",
+          "definition_en": "To recover or bounce back"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones estadounidenses subieron después de bajar mucho.",
+          "definition_es": "Partes de una empresa que se pueden comprar",
+          "definition_en": "Stocks or shares in a company"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo subieron por la guerra.",
+          "definition_es": "Líquido negro que se usa para hacer combustible",
+          "definition_en": "Oil used for fuel and energy"
+        },
+        {
+          "word": "robar",
+          "syllables": "ro-BAR",
+          "pos": "verbo",
+          "context": "Las empresas chinas trataron de robar tecnología.",
+          "definition_es": "Tomar algo que no es tuyo sin permiso",
+          "definition_en": "To steal or take without permission"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial es muy importante ahora.",
+          "definition_es": "Tecnología que hace que las máquinas piensen como humanos",
+          "definition_en": "Technology that makes machines think like humans"
+        },
+        {
+          "word": "exponer",
+          "syllables": "ex-po-NER",
+          "pos": "verbo",
+          "context": "Anthropic expuso los intentos de robo de tecnología.",
+          "definition_es": "Mostrar o revelar algo oculto",
+          "definition_en": "To expose or reveal something hidden"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'redistribución' en contexto político?",
+          "options": [
+            "Dividir de nuevo las zonas electorales",
+            "Repartir dinero a los ciudadanos",
+            "Cambiar las leyes del país",
+            "Elegir nuevos políticos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'escaño' es:",
+          "options": [
+            "Un tipo de voto",
+            "Un asiento en el parlamento",
+            "Una ley nueva",
+            "Un distrito electoral"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Cuando las acciones 'se recuperan', significa que:",
+          "options": [
+            "Se venden muy rápido",
+            "Vuelven a subir de precio",
+            "Se compran en otro país",
+            "Cambian de dueño"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Exponer' algo significa:",
+          "options": [
+            "Venderlo",
+            "Comprarlo",
+            "Mostrarlo o revelarlo",
+            "Esconderlo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia, ¿cuántos escaños republicanos esperaba ganar Texas?",
+          "options": [
+            "Tres",
+            "Cinco",
+            "Siete",
+            "Diez"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué subieron los precios del petróleo?",
+          "options": [
+            "Por problemas económicos",
+            "Por miedo a una guerra con Irán",
+            "Por el clima",
+            "Por nuevas leyes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa expuso los intentos de robo tecnológico?",
+          "options": [
+            "Google",
+            "Microsoft",
+            "Anthropic",
+            "Apple"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cada cuánto tiempo pasa el proceso de redistribución en Texas?",
+          "options": [
+            "Cada cinco años",
+            "Cada diez años",
+            "Cada quince años",
+            "Cada año"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué tecnología querían robar las empresas chinas?",
+          "options": [
+            "Robots",
+            "Modelos de lenguaje de IA",
+            "Aplicaciones móviles",
+            "Videojuegos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué región del mundo siempre afecta los precios del petróleo según el texto?",
+          "options": [
+            "Asia",
+            "Europa",
+            "El Medio Oriente",
+            "América del Sur"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-03T09:11:44.341000"
+    },
+    {
       "date": "2026-03-02",
       "filename": "spanish_lesson_2026-03-02.pdf",
       "path": "pdfs/spanish_lesson_2026-03-02.pdf",
@@ -18896,7 +19118,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-02T09:12:59.109137",
+  "last_updated": "2026-03-03T09:11:44.341019",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
