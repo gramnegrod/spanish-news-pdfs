@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-04",
+      "filename": "spanish_lesson_2026-03-04.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-04.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "China presenta su nuevo plan económico para los próximos cinco años",
+          "headline_en": "China presents its new economic plan for the next five years",
+          "body_es": "China está preparando su nuevo plan económico de cinco años. Este plan se va a presentar en el Congreso Nacional del Pueblo, la reunión política más importante del país. El gobierno chino hace estos planes cada cinco años para decidir las metas económicas del país. El plan incluye objetivos para el crecimiento económico, el empleo y la tecnología. Los líderes chinos quieren que la economía crezca de manera estable. También quieren crear más trabajos para la población. El plan es muy importante porque afecta a millones de personas en China. Los expertos internacionales están observando este plan con mucha atención. Las decisiones de China pueden influir en la economía mundial.",
+          "body_en": "China is preparing its new five-year economic plan. This plan will be presented at the National People's Congress, the country's most important political meeting. The Chinese government makes these plans every five years to decide the country's economic goals. The plan includes objectives for economic growth, employment and technology. Chinese leaders want the economy to grow stably. They also want to create more jobs for the population. The plan is very important because it affects millions of people in China. International experts are watching this plan closely. China's decisions can influence the world economy.",
+          "source": "Al Jazeera"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los mercados financieros necesitan tiempo para entender el conflicto con Irán",
+          "headline_en": "Financial markets need time to understand the conflict with Iran",
+          "body_es": "El director de Goldman Sachs dice que los mercados financieros van a necesitar varias semanas para entender el impacto de los problemas con Irán. Goldman Sachs es uno de los bancos más importantes del mundo. Su director explica que las guerras y conflictos siempre afectan los mercados. Cuando hay problemas políticos, los precios de las acciones pueden subir o bajar rápidamente. Los inversores se ponen nerviosos y no saben qué hacer con su dinero. El petróleo es especialmente importante en esta situación porque Irán produce mucho petróleo. Si hay guerra, el precio del petróleo puede aumentar mucho. Esto afecta el precio de la gasolina y otros productos. Los expertos recomiendan tener paciencia y esperar.",
+          "body_en": "The Goldman Sachs CEO says that financial markets will need several weeks to understand the impact of problems with Iran. Goldman Sachs is one of the world's most important banks. Its CEO explains that wars and conflicts always affect markets. When there are political problems, stock prices can rise or fall quickly. Investors get nervous and don't know what to do with their money. Oil is especially important in this situation because Iran produces a lot of oil. If there is war, the oil price could increase a lot. This affects the price of gasoline and other products. Experts recommend being patient and waiting.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Las empresas de tecnología gastan 700 mil millones en inteligencia artificial",
+          "headline_en": "Technology companies spend 700 billion on artificial intelligence",
+          "body_es": "Las empresas de tecnología van a invertir 700 mil millones de dólares este año en centros de datos para inteligencia artificial. Esta cantidad de dinero es récord en la historia. Jensen Huang es el director de Nvidia, una empresa muy importante de tecnología. Él dice que este crecimiento va a continuar por muchos años más. Los centros de datos son edificios llenos de computadoras muy potentes. Estas computadoras procesan información para hacer funcionar la inteligencia artificial. La inteligencia artificial necesita muchos datos y mucha energía para trabajar. Por eso las empresas construyen más centros de datos cada año. Nvidia hace chips especiales para estos centros. Huang cree que la demanda de inteligencia artificial va a seguir creciendo. Esta inversión puede cambiar muchas industrias en el futuro.",
+          "body_en": "Technology companies will invest 700 billion dollars this year in data centers for artificial intelligence. This amount of money is a record in history. Jensen Huang is the CEO of Nvidia, a very important technology company. He says this growth will continue for many more years. Data centers are buildings full of very powerful computers. These computers process information to make artificial intelligence work. Artificial intelligence needs a lot of data and energy to work. That's why companies build more data centers every year. Nvidia makes special chips for these centers. Huang believes that demand for artificial intelligence will keep growing. This investment could change many industries in the future.",
+          "source": "AOL.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "plan",
+          "syllables": "plan",
+          "pos": "sustantivo",
+          "context": "China va a presentar su nuevo plan de cinco años.",
+          "definition_es": "Un proyecto o programa para hacer algo en el futuro",
+          "definition_en": "A project or program to do something in the future"
+        },
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso Nacional del Pueblo se reúne cada año.",
+          "definition_es": "Una reunión de representantes del gobierno para tomar decisiones",
+          "definition_en": "A meeting of government representatives to make decisions"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros pueden cambiar rápidamente.",
+          "definition_es": "Lugares donde se compran y venden productos o acciones",
+          "definition_en": "Places where products or stocks are bought and sold"
+        },
+        {
+          "word": "impacto",
+          "syllables": "im-PAC-to",
+          "pos": "sustantivo",
+          "context": "La guerra puede tener un gran impacto en la economía.",
+          "definition_es": "El efecto fuerte que algo causa",
+          "definition_en": "The strong effect that something causes"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las empresas de tecnología invierten mucho dinero.",
+          "definition_es": "Organizaciones que hacen negocios o venden productos",
+          "definition_en": "Organizations that do business or sell products"
+        },
+        {
+          "word": "invertir",
+          "syllables": "in-ver-TIR",
+          "pos": "verbo",
+          "context": "Las compañías van a invertir 700 mil millones de dólares.",
+          "definition_es": "Poner dinero en algo para ganar más dinero después",
+          "definition_en": "To put money into something to earn more money later"
+        },
+        {
+          "word": "datos",
+          "syllables": "DA-tos",
+          "pos": "sustantivo",
+          "context": "Los centros de datos son muy importantes para la inteligencia artificial.",
+          "definition_es": "Información almacenada en computadoras",
+          "definition_en": "Information stored in computers"
+        },
+        {
+          "word": "crecimiento",
+          "syllables": "cre-ci-MIEN-to",
+          "pos": "sustantivo",
+          "context": "El crecimiento de la tecnología no va a parar pronto.",
+          "definition_es": "Cuando algo se hace más grande o aumenta",
+          "definition_en": "When something becomes bigger or increases"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'invertir'?",
+          "options": [
+            "Gastar dinero sin pensar",
+            "Poner dinero en algo para ganar más después",
+            "Prestar dinero a un amigo",
+            "Ahorrar dinero en el banco"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'congreso' en política?",
+          "options": [
+            "Una fiesta del gobierno",
+            "Una reunión de representantes para tomar decisiones",
+            "Un edificio muy grande",
+            "Un tipo de elección"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'datos' en tecnología?",
+          "options": [
+            "Números de teléfono",
+            "Información almacenada en computadoras",
+            "Fechas importantes",
+            "Direcciones de casas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa tener 'impacto'?",
+          "options": [
+            "Llegar tarde",
+            "Causar un efecto fuerte",
+            "Hacer ruido",
+            "Estar confundido"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Con qué frecuencia hace China sus planes económicos?",
+          "options": [
+            "Cada año",
+            "Cada cinco años",
+            "Cada diez años",
+            "Cada dos años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según Goldman Sachs, ¿cuánto tiempo necesitan los mercados para entender el conflicto con Irán?",
+          "options": [
+            "Unos días",
+            "Un mes",
+            "Varias semanas",
+            "Un año"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero van a invertir las empresas tecnológicas en inteligencia artificial?",
+          "options": [
+            "100 mil millones",
+            "500 mil millones",
+            "700 mil millones",
+            "1 billón"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué es importante el petróleo en el conflicto con Irán?",
+          "options": [
+            "Porque Irán produce mucho petróleo",
+            "Porque es barato",
+            "Porque es nuevo",
+            "Porque es raro"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Quién es Jensen Huang?",
+          "options": [
+            "El director de Goldman Sachs",
+            "Un político chino",
+            "El director de Nvidia",
+            "Un experto en petróleo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué incluye el plan económico de China?",
+          "options": [
+            "Solo crecimiento económico",
+            "Solo empleo",
+            "Crecimiento, empleo y tecnología",
+            "Solo tecnología"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-04T09:09:56.524286"
+    },
+    {
       "date": "2026-03-03",
       "filename": "spanish_lesson_2026-03-03.pdf",
       "path": "pdfs/spanish_lesson_2026-03-03.pdf",
@@ -19118,7 +19340,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-03T09:11:44.341019",
+  "last_updated": "2026-03-04T09:09:56.524304",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
