@@ -1,225 +1,225 @@
 {
-  "date": "2026-03-03",
-  "generated_at": "2026-03-03T09:20:23.514124Z",
+  "date": "2026-03-04",
+  "generated_at": "2026-03-04T09:18:45.778200Z",
   "description": "Daily conversation stories for Spanish practice",
   "stories": [
     {
-      "id": "tech-20260303",
+      "id": "tech-20250304",
       "category": "Tecnología",
       "difficulty": "A2",
       "emoji": "🤖",
       "gradient": "blue",
-      "headline_es": "Los trabajos cambian con la inteligencia artificial",
-      "headline_en": "Jobs are changing with artificial intelligence",
-      "summary_es": "Muchas empresas usan inteligencia artificial en sus trabajos. Las personas quieren saber si la IA toma sus empleos o es solo marketing.",
-      "body_es": "La inteligencia artificial (IA) es muy popular ahora. Muchas empresas dicen que usan IA en sus productos y servicios. Pero algunos expertos tienen una pregunta importante: ¿Es verdad o es solo publicidad?\n\nAlgunas compañías hablan mucho de IA, pero realmente no cambian mucho en su trabajo. Los empleados y clientes notan esto. Ellos llaman a esto \"IA-washing\", como cuando lavas algo para que se vea mejor.\n\nLa IA es una tecnología real y muy útil. Pero es importante entender qué hace realmente. Los trabajadores necesitan aprender sobre estas herramientas nuevas. Las empresas deben ser honestascon sus empleados sobre los cambios.",
-      "body_en": "Artificial intelligence (AI) is very popular now. Many companies say they use AI in their products and services. But some experts have an important question: Is it true or just advertising?\n\nSome companies talk a lot about AI, but they don't really change much in their work. Employees and customers notice this. They call this \"AI-washing,\" like when you wash something to make it look better.\n\nAI is a real and very useful technology. But it is important to understand what it really does. Workers need to learn about these new tools. Companies must be honest with their employees about the changes.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-03/tech.mp3",
+      "headline_es": "Las empresas gastan 700 mil millones en inteligencia artificial",
+      "headline_en": "Companies spend $700 billion on artificial intelligence",
+      "summary_es": "Las grandes empresas de tecnología invierten mucho dinero en centros de datos de inteligencia artificial. Este gasto es muy grande este año.",
+      "body_es": "Las empresas de tecnología gastan 700 mil millones de dólares este año. Gastan el dinero en centros de datos de inteligencia artificial. Nvidia es una empresa importante de tecnología. Su líder, Jensen Huang, dice que todavía no llegamos al máximo. Dice que vamos a gastar más dinero en el futuro. La inteligencia artificial es muy importante para las empresas. Necesitan máquinas poderosas para trabajar. Los centros de datos son muy grandes y muy caros. Las empresas creen que la inteligencia artificial es el futuro. Por eso invierten mucho dinero ahora.",
+      "body_en": "Technology companies spend $700 billion this year. They spend the money on artificial intelligence data centers. Nvidia is an important technology company. Its leader, Jensen Huang, says we haven't reached the maximum yet. He says we will spend more money in the future. Artificial intelligence is very important for companies. They need powerful machines to work. Data centers are very large and very expensive. Companies believe artificial intelligence is the future. That's why they invest a lot of money now.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-04/tech.mp3",
       "key_vocabulary": [
         {
+          "word": "gastar",
+          "definition_es": "usar dinero para comprar algo",
+          "definition_en": "to spend money to buy something"
+        },
+        {
+          "word": "centros de datos",
+          "definition_es": "lugares con muchas máquinas para guardar información",
+          "definition_en": "places with many machines to store information"
+        },
+        {
           "word": "inteligencia artificial",
-          "definition_es": "tecnología que piensa y aprende como los humanos",
-          "definition_en": "technology that thinks and learns like humans"
+          "definition_es": "máquinas que piensan como personas",
+          "definition_en": "machines that think like people"
         },
         {
-          "word": "publicidad",
-          "definition_es": "información que vende un producto o servicio",
-          "definition_en": "information that sells a product or service"
-        },
-        {
-          "word": "empleado",
-          "definition_es": "persona que trabaja en una empresa",
-          "definition_en": "person who works at a company"
-        },
-        {
-          "word": "herramienta",
-          "definition_es": "objeto o programa que ayuda a hacer un trabajo",
-          "definition_en": "object or program that helps do a job"
+          "word": "máximo",
+          "definition_es": "el punto más alto o más grande",
+          "definition_en": "the highest or largest point"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-03/tech-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlitos, ¿viste la nota de que “los trabajos cambian con la IA”? ¡Está por todos lados!  \nCARLOS: Sí… pero dicen que muchas empresas nomás lo ponen en grande para verse modernas, ¿no?  \nLAURA: ¡Ajá! Y ahí sale el término “IA-washing”. ¡No manches, suena a shampoo tecnológico!  \nCARLOS: Jajaja, tal cual. O sea, le ponen “con IA” y por dentro es el mismo Excel de siempre.  \nLAURA: ¿En serio? Como cuando un café dice “artesanal” y sabe a sobrecito.  \nCARLOS: Exacto. Y lo cañón es que empleados y clientes se dan cuenta rápido.  \nLAURA: Pero la IA sí existe y sí sirve, ¿no? No todo es puro humo.  \nCARLOS: Claro. El punto es entender qué hace y qué no. Y que la empresa sea honesta con los cambios.  \nLAURA: Y nosotros a aprender, porque si no… nos gana el robot.  \nCARLOS: O lo entrenamos nosotros y luego nos reemplaza.  \nLAURA: Bueno, mínimo que nos invite un cafecito… “con IA”."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-04/tech-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? Las empresas van a gastar como 700 mil millones en inteligencia artificial este año. ¡No manches!  \nCARLOS: ¿Setecientos mil millones? Eso suena a “compré un café” pero versión corporativa. ¿En qué se les va?  \nLAURA: En centros de datos, o sea, bodegotas llenas de compus mega poderosas. ¡Carísimos!  \nCARLOS: Ah, los templos modernos. Pura electricidad, ventiladores y servidores sudando.  \nLAURA: Y Nvidia anda súper metida. Su jefe, Jensen Huang, dice que todavía no llegamos al tope.  \nCARLOS: O sea… ¿todavía falta que gasten MÁS? Qué miedo y qué emoción, la neta.  \nLAURA: Sí, porque las empresas sienten que la IA es “el futuro” y están metiendo lana ahorita.  \nCARLOS: Tiene sentido: si quieres IA chida, necesitas máquinas brutales. No es magia, es fierros.  \nLAURA: Pero imagínate: 700 mil millones… yo con eso me compro… ¿un departamento? ¿dos? ¿la ciudad?  \nCARLOS: Tú con eso pones “Café IA”: te sirve el latte y te hace tu CV. ¡Qué padre!"
     },
     {
-      "id": "sport-20260303",
+      "id": "sports-20250304",
       "category": "Deportes",
       "difficulty": "A2",
       "emoji": "🏀",
       "gradient": "orange",
-      "headline_es": "Duke sigue en el número uno del baloncesto universitario",
-      "headline_en": "Duke remains number one in college basketball",
-      "summary_es": "El equipo de Duke mantiene su posición número uno en el baloncesto universitario de Estados Unidos. Florida sube a la posición cinco con excelentes resultados.",
-      "body_es": "El baloncesto universitario de los Estados Unidos es muy emocionante en 2026. El equipo de Duke es el número uno del país. Duke juega muy bien esta temporada y gana muchos partidos.\n\nOtro equipo importante es Florida. Florida sube rápidamente en la clasificación. Ahora está en la posición cinco, muy cerca de los mejores equipos. Sus jugadores juegan con mucha energía y talento.\n\nEsta temporada es especial porque hay muchos equipos fuertes. Los aficionados disfrutan de los partidos cada día. Cada juego es importante para las posiciones finales. Duke y Florida son dos de los mejores equipos ahora.",
-      "body_en": "College basketball in the United States is very exciting in 2026. The Duke team is number one in the country. Duke plays very well this season and wins many games.\n\nAnother important team is Florida. Florida is rising quickly in the rankings. Now it is in the fifth position, very close to the best teams. Its players play with a lot of energy and talent.\n\nThis season is special because there are many strong teams. Fans enjoy the games every day. Every game is important for the final positions. Duke and Florida are two of the best teams now.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-03/sports.mp3",
+      "headline_es": "La conferencia Big 12 puede vender los derechos de fútbol y baloncesto separadamente",
+      "headline_en": "Big 12 conference can sell football and basketball rights separately",
+      "summary_es": "La conferencia Big 12 puede vender los derechos de televisión de fútbol y baloncesto por separado. Esto es una estrategia nueva para ganar más dinero.",
+      "body_es": "La conferencia Big 12 es un grupo de equipos de deportes universitarios. Estos equipos juegan fútbol americano y baloncesto. Ahora la conferencia puede vender los derechos de televisión separadamente. Significa que una empresa de televisión compra fútbol. Otra empresa diferente compra baloncesto. Antes, todo se vendía junto. Esta idea es nueva. La conferencia cree que puede ganar más dinero de esta forma. Los equipos de fútbol son muy populares. Los equipos de baloncesto también son populares. Vender separadamente es una buena estrategia.",
+      "body_en": "The Big 12 conference is a group of university sports teams. These teams play American football and basketball. Now the conference can sell television rights separately. It means one television company buys football. Another different company buys basketball. Before, everything was sold together. This idea is new. The conference believes it can make more money this way. Football teams are very popular. Basketball teams are also popular. Selling separately is a good strategy.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-04/sports.mp3",
       "key_vocabulary": [
         {
-          "word": "baloncesto",
-          "definition_es": "deporte de equipo con una pelota y dos canastas",
-          "definition_en": "team sport with a ball and two baskets"
+          "word": "conferencia",
+          "definition_es": "grupo de equipos que compiten juntos",
+          "definition_en": "group of teams that compete together"
         },
         {
-          "word": "clasificación",
-          "definition_es": "lista de equipos ordenados por sus resultados",
-          "definition_en": "list of teams ordered by their results"
+          "word": "derechos",
+          "definition_es": "permiso para usar o vender algo",
+          "definition_en": "permission to use or sell something"
         },
         {
-          "word": "jugador",
-          "definition_es": "persona que participa en un deporte",
-          "definition_en": "person who participates in a sport"
+          "word": "televisión",
+          "definition_es": "aparato para ver películas y programas",
+          "definition_en": "device to watch movies and programs"
         },
         {
-          "word": "aficionado",
-          "definition_es": "persona que le gusta ver o seguir un deporte",
-          "definition_en": "person who likes to watch or follow a sport"
+          "word": "separadamente",
+          "definition_es": "de manera diferente, no junto",
+          "definition_en": "in a different way, not together"
         }
       ]
     },
     {
-      "id": "culture-20260303",
+      "id": "culture-20250304",
       "category": "Cultura",
       "difficulty": "B1",
-      "emoji": "🎭",
+      "emoji": "🎬",
       "gradient": "purple",
-      "headline_es": "El cine, la música y el deporte se unen en el Juego de Celebridades",
-      "headline_en": "Cinema, music, and sports unite in the Celebrity Game",
-      "summary_es": "El Juego de Celebridades del NBA All-Star 2026 mezcla el baloncesto profesional con artistas musicales, actores de Hollywood y estrellas del K-pop en una misma cancha.",
-      "body_es": "El Juego de Celebridades del NBA All-Star 2026 es un evento especial que combina varios tipos de entretenimiento en una sola noche. Los aficionados pueden ver a sus celebridades favoritas jugar baloncesto en la cancha profesional. Este año es diferente porque traen artistas de múltiples géneros musicales y culturas.\n\nEl evento incluye a actores de cine famosos, músicos reconocidos internacionalmente y celebridades del K-pop. El K-pop es un género musical que viene de Corea del Sur y tiene millones de seguidores en todo el mundo. Todos estos artistas compiten en equipos y demuestran que el deporte es para todos.\n\nEste tipo de evento muestra cómo el deporte puede unir diferentes culturas y formas de arte. Los jugadores profesionales juegan junto a personas que no son atletas profesionales, lo que lo hace muy entretenido e impredecible.",
-      "body_en": "The 2026 NBA All-Star Celebrity Game is a special event that combines various types of entertainment in one night. Fans can see their favorite celebrities play basketball on the professional court. This year is different because it brings artists from multiple musical genres and cultures.\n\nThe event includes famous movie actors, internationally recognized musicians, and K-pop celebrities. K-pop is a music genre that comes from South Korea and has millions of followers around the world. All these artists compete on teams and demonstrate that sports are for everyone.\n\nThis type of event shows how sports can unite different cultures and forms of art. Professional players compete alongside people who are not professional athletes, which makes it very entertaining and unpredictable.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-03/culture.mp3",
+      "headline_es": "Un nuevo libro de 'Gilmore Girls' explica las referencias de cultura pop de los años 2000",
+      "headline_en": "A new 'Gilmore Girls' book explains pop culture references from the 2000s",
+      "summary_es": "Se ha publicado un nuevo libro que explica todas las referencias de cultura popular que aparecen en la serie 'Gilmore Girls'. El libro es útil tanto para nuevos fans como para seguidores de hace años.",
+      "body_es": "La serie 'Gilmore Girls' fue muy popular en los años 2000. Los diálogos de la serie contenían muchas referencias a películas, música y eventos de esa época. Algunos fans nuevos no entendían estas referencias. Por eso, se ha creado un nuevo libro que las explica. El libro es útil para fans nuevos que quieren entender mejor la serie. También es interesante para fans antiguos que recuerdan esos años. Las referencias incluyen películas clásicas, actores famosos y programas de televisión populares. El autor del libro explica por qué los personajes mencionaban estas cosas. El libro ayuda a los lectores a comprender la cultura de esa década. Muchos fans están emocionados con esta publicación.",
+      "body_en": "The 'Gilmore Girls' series was very popular in the 2000s. The dialogues in the series contained many references to movies, music, and events from that era. Some new fans didn't understand these references. That's why a new book has been created that explains them. The book is useful for new fans who want to better understand the series. It's also interesting for old fans who remember those years. The references include classic movies, famous actors, and popular television shows. The book's author explains why the characters mentioned these things. The book helps readers understand the culture of that decade. Many fans are excited about this publication.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-04/culture.mp3",
       "key_vocabulary": [
         {
-          "word": "entretenimiento",
-          "definition_es": "actividad que divierte y entretiene a las personas",
-          "definition_en": "activity that amuses and entertains people"
+          "word": "referencias",
+          "definition_es": "menciones a algo conocido del pasado",
+          "definition_en": "mentions of something known from the past"
         },
         {
-          "word": "género",
-          "definition_es": "categoría o tipo de arte, música o literatura",
-          "definition_en": "category or type of art, music, or literature"
+          "word": "cultura pop",
+          "definition_es": "películas, música y entretenimiento popular",
+          "definition_en": "movies, music and popular entertainment"
         },
         {
-          "word": "impredecible",
-          "definition_es": "algo que no se puede predecir o anticipar",
-          "definition_en": "something that cannot be predicted or anticipated"
+          "word": "diálogos",
+          "definition_es": "conversaciones entre personajes",
+          "definition_en": "conversations between characters"
         },
         {
-          "word": "combinar",
-          "definition_es": "juntar dos o más cosas para hacer una sola",
-          "definition_en": "to put together two or more things to make one"
+          "word": "década",
+          "definition_es": "período de diez años",
+          "definition_en": "period of ten years"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-03/culture-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, ¿ya viste lo del Juego de Celebridades del NBA All‑Star 2026? ¡No manches, suena bien loco!  \nCARLOS: Sí, el que mezcla cine, música y deporte en una sola noche. Está chido porque no es el típico juego.  \nLAURA: O sea, ¿actores famosos en una cancha profesional? Yo me muero por verlos fallar un tiro libre.  \nCARLOS: Y lo mejor: traen músicos de varios géneros y culturas… y hasta celebridades del K‑pop.  \nLAURA: ¿En serio? Imagínate un idol del K‑pop haciendo crossover y luego posando para la cámara.  \nCARLOS: Exacto, y como no son atletas pro, se vuelve impredecible. Puede haber jugadas épicas… o bloopers.  \nLAURA: ¡Qué padre! Además, está cool que el deporte junte gente tan distinta.  \nCARLOS: Sí, como “todos caben en la duela”. Eso conecta fans de música, cine y básquet.  \nLAURA: Yo ya me veo con botanita y gritando “¡defensa!” desde el sillón.  \nCARLOS: Y si alguien hace clavada… tú pagas el café la próxima."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-04/culture-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? Sacaron un libro nuevo de *Gilmore Girls* que explica todas las referencias pop de los 2000.  \nCARLOS: ¿En serio? No manches, eso sí lo necesitaba medio mundo.  \nLAURA: ¡Total! Porque ves la serie hoy y de repente: “mencionan a tal actor” y tú: “¿quién?”  \nCARLOS: Y luego te sientes bien joven… o bien perdido.  \nLAURA: Exacto. El libro trae pelis, música, programas… todo lo que Lorelai y Rory aventaban como si nada.  \nCARLOS: Me encanta porque esas referencias eran como su idioma secreto.  \nLAURA: Ajá, y los fans nuevos andan tipo: “¿por qué se ríen de eso?”  \nCARLOS: Y los fans viejos: “ay, yo sí me acuerdo… qué dolor de rodilla.”  \nLAURA: Jajaja. Dicen que el autor explica por qué lo mencionaban, no solo “qué es”.  \nCARLOS: Eso está padre, porque es como una guía cultural de la década.  \nLAURA: Ya me vi leyéndolo con cafecito, pausando capítulos.  \nCARLOS: Va, pero si trae sección de chismes dosmileros, lo compramos juntos."
     },
     {
-      "id": "economy-20260303",
+      "id": "economy-20250304",
       "category": "Economía",
       "difficulty": "B1",
-      "emoji": "💼",
+      "emoji": "📈",
       "gradient": "green",
-      "headline_es": "Los mercados globales se ven afectados por tensiones internacionales",
-      "headline_en": "Global markets are affected by international tensions",
-      "summary_es": "Los mercados financieros mundiales experimentan volatilidad después de los conflictos internacionales recientes. Los analistas advierten que la inestabilidad política afecta directamente los precios y las inversiones.",
-      "body_es": "Los mercados financieros globales han experimentado cambios significativos en respuesta a los eventos políticos internacionales. Cuando hay tensiones entre países, los inversores se preocupan por el futuro económico y toman decisiones rápidas.\n\nLos expertos en mercados señalan que la volatilidad es natural en estas situaciones. Los precios de las acciones suben y bajan según las noticias que llegan cada día. Algunos analistas recomiendan que los inversores tengan paciencia y esperen a que la situación se estabilice.\n\nLa incertidumbre política afecta a múltiples sectores de la economía. Las empresas necesitan hacer planes considerando estos riesgos. Sin embargo, algunos analistas creen que estos momentos de inestabilidad también crean oportunidades de inversión para quienes están dispuestos a tomar riesgos calculados.",
-      "body_en": "Global financial markets have experienced significant changes in response to recent international political events. When there are tensions between countries, investors worry about the economic future and make quick decisions.\n\nMarket experts point out that volatility is natural in these situations. Stock prices go up and down according to the news that arrives each day. Some analysts recommend that investors be patient and wait for the situation to stabilize.\n\nPolitical uncertainty affects multiple sectors of the economy. Companies need to make plans considering these risks. However, some analysts believe that these moments of instability also create investment opportunities for those willing to take calculated risks.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-03/economy.mp3",
+      "headline_es": "Los mercados financieros caen mientras aumenta la tensión con Irán",
+      "headline_en": "Financial markets fall as tension with Iran increases",
+      "summary_es": "Los mercados asiáticos sufren pérdidas significativas debido a la escalada de tensión entre países. El precio del petróleo también ha aumentado considerablemente.",
+      "body_es": "Los mercados financieros de Asia experimentan caídas importantes esta semana. La razón principal es el aumento de la tensión internacional. El conflicto con Irán ha causado incertidumbre en los mercados. Los inversores están preocupados por la situación política. El precio del petróleo ha subido notablemente. Cuando el petróleo sube, muchas empresas gastan más dinero. Los líderes financieros, como el CEO de Goldman Sachs, dicen que los mercados necesitarán tiempo para recuperarse. Estiman que tomará un par de semanas para que los inversionistas entiendan mejor la situación. Las acciones de muchas empresas han bajado de precio. Los países asiáticos son particularmente afectados porque dependen mucho del petróleo. La incertidumbre económica continuará mientras la tensión persista.",
+      "body_en": "Asian financial markets are experiencing significant declines this week. The main reason is the increase in international tension. The conflict with Iran has caused uncertainty in the markets. Investors are worried about the political situation. The price of oil has risen notably. When oil rises, many companies spend more money. Financial leaders, like the CEO of Goldman Sachs, say the markets will need time to recover. They estimate it will take a couple of weeks for investors to better understand the situation. Stock prices for many companies have fallen. Asian countries are particularly affected because they depend heavily on oil. Economic uncertainty will continue while tension persists.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-04/economy.mp3",
       "key_vocabulary": [
         {
-          "word": "volatilidad",
-          "definition_es": "cambios rápidos e impredecibles en los precios del mercado",
-          "definition_en": "rapid and unpredictable changes in market prices"
+          "word": "caídas",
+          "definition_es": "disminuciones en los precios o valores",
+          "definition_en": "decreases in prices or values"
         },
         {
-          "word": "inversor",
-          "definition_es": "persona que pone dinero en negocios esperando ganancias",
-          "definition_en": "person who puts money in businesses expecting profits"
+          "word": "incertidumbre",
+          "definition_es": "falta de seguridad o claridad sobre el futuro",
+          "definition_en": "lack of security or clarity about the future"
         },
         {
-          "word": "sector",
-          "definition_es": "parte o división de la economía",
-          "definition_en": "part or division of the economy"
+          "word": "inversores",
+          "definition_es": "personas que ponen dinero para ganar ganancias",
+          "definition_en": "people who put money to gain profits"
         },
         {
-          "word": "riesgo",
-          "definition_es": "posibilidad de que algo malo suceda",
-          "definition_en": "possibility that something bad might happen"
+          "word": "recuperarse",
+          "definition_es": "volver a la normalidad después de un problema",
+          "definition_en": "return to normal after a problem"
         }
       ]
     },
     {
-      "id": "environment-20260303",
+      "id": "environment-20250304",
       "category": "Medio Ambiente",
       "difficulty": "B2",
       "emoji": "🌍",
       "gradient": "teal",
-      "headline_es": "Los parques nacionales de América enfrentan desafíos climáticos sin precedentes",
-      "headline_en": "America's national parks face unprecedented climate challenges",
-      "summary_es": "Los parques nacionales estadounidenses se enfrentan a riesgos crecientes debido al cambio climático, lo que requiere una replanificación urgente de su manejo y preservación a largo plazo.",
-      "body_es": "Los parques nacionales de Estados Unidos, que han sido protegidos durante más de un siglo, ahora enfrentan amenazas significativas debido al cambio climático. El aumento de las temperaturas, los patrones de lluvia alterados y los eventos climáticos extremos están transformando los ecosistemas que estos espacios fueron diseñados para preservar.\n\nLos científicos advierten que si no se implementan medidas urgentes, muchos de estos parques podrían perder sus características distintivas. Los glaciares se están derritiendo, las especies migratorias están alterando sus rutas, y los incendios forestales se vuelven cada vez más frecuentes e intensos. Estos cambios no solo afectan la biodiversidad, sino también la experiencia de millones de visitantes que recurren a estos espacios anualmente.\n\nExpertos en conservación sugieren que es necesario un enfoque integrado que combine la adaptación con la mitigación del cambio climático. Aunque el futuro es incierto, la inversión en investigación y en medidas de protección activa podría garantizar que estos patrimonios naturales sean preservados para las generaciones futuras.",
-      "body_en": "America's national parks, which have been protected for over a century, now face significant threats due to climate change. Rising temperatures, altered rainfall patterns, and extreme weather events are transforming the ecosystems these spaces were designed to preserve.\n\nScientists warn that without urgent measures, many of these parks could lose their distinctive characteristics. Glaciers are melting, migratory species are altering their routes, and forest fires are becoming increasingly frequent and intense. These changes not only affect biodiversity but also the experience of millions of visitors who turn to these spaces annually.\n\nConservation experts suggest that an integrated approach is needed that combines adaptation with climate change mitigation. Although the future is uncertain, investment in research and active protection measures could ensure that these natural heritage sites are preserved for future generations.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-03/environment.mp3",
+      "headline_es": "Las estelas de condensación representan un dilema climático complejo escrito en el cielo",
+      "headline_en": "Contrails represent a complex climate puzzle written across the sky",
+      "summary_es": "Los científicos descubren que las estelas de condensación dejadas por los aviones tienen efectos ambigüos en el clima, contribuyendo tanto al calentamiento como a la reflexión del calor.",
+      "body_es": "Las estelas de condensación, esas líneas blancas que dejan los aviones en el cielo, son un enigma ambiental fascinante. Aunque los aviones emiten dióxido de carbono, sus estelas tienen un efecto complejo en el clima. Durante el día, estas líneas reflejan la luz solar hacia el espacio, lo que ayuda a enfriar el planeta. Sin embargo, durante la noche, atrapan el calor que sube de la Tierra, contribuyendo al efecto invernadero. Los científicos han descubierto que el efecto neto varía según la altitud, la hora del día y las condiciones atmosféricas. Este fenómeno es particularmente importante mientras los gobiernos buscan reducir las emisiones de carbono de la aviación. Si bien es cierto que podría limitarse el tráfico aéreo nocturno para disminuir este impacto, los expertos sugieren que se necesitan más investigaciones. El dilema pone en relieve la complejidad de los sistemas climáticos, donde una solución para un problema climático podría exacerbar otro.",
+      "body_en": "Contrails, those white lines left by aircraft in the sky, are a fascinating environmental enigma. Although airplanes emit carbon dioxide, their trails have a complex effect on climate. During the day, these lines reflect sunlight into space, which helps cool the planet. However, at night, they trap heat rising from Earth, contributing to the greenhouse effect. Scientists have discovered that the net effect varies depending on altitude, time of day, and atmospheric conditions. This phenomenon is particularly important as governments seek to reduce aviation's carbon emissions. While it is true that nighttime air traffic could be limited to diminish this impact, experts suggest more research is needed. The dilemma highlights the complexity of climate systems, where a solution to one climate problem could exacerbate another.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-04/environment.mp3",
       "key_vocabulary": [
         {
-          "word": "ecosistema",
-          "definition_es": "comunidad de seres vivos y su entorno natural que interactúan entre sí",
-          "definition_en": "community of living beings and their natural environment that interact with each other"
+          "word": "estelas",
+          "definition_es": "líneas o marcas que dejan los aviones en el aire",
+          "definition_en": "lines or marks left by aircraft in the air"
         },
         {
-          "word": "biodiversidad",
-          "definition_es": "variedad de especies de plantas y animales en un área",
-          "definition_en": "variety of plant and animal species in an area"
+          "word": "efecto invernadero",
+          "definition_es": "captura de calor en la atmósfera que causa calentamiento global",
+          "definition_en": "heat trapping in the atmosphere that causes global warming"
         },
         {
-          "word": "mitigación",
-          "definition_es": "acción de reducir la intensidad o gravedad de algo",
-          "definition_en": "action of reducing the intensity or severity of something"
+          "word": "exacerbar",
+          "definition_es": "hacer que algo sea peor o más grave",
+          "definition_en": "to make something worse or more serious"
         },
         {
-          "word": "patrimonio",
-          "definition_es": "conjunto de bienes culturales o naturales heredados de generaciones anteriores",
-          "definition_en": "set of cultural or natural assets inherited from previous generations"
+          "word": "dilema",
+          "definition_es": "situación difícil donde hay dos opciones problemáticas",
+          "definition_en": "difficult situation where there are two problematic options"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-03/environment-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, ¿viste esto? Los parques nacionales de EE.UU. están sufriendo cañón por el cambio climático.  \nCARLOS: ¿En serio? No manches… o sea, esos lugares llevan como cien años protegidos.  \nLAURA: Sí, pero ya con más calor, lluvias raras y tormentas locas, los ecosistemas se están volteando.  \nCARLOS: Uf… y eso pega directo al plan de “vamos a ver naturaleza intacta”, ¿no?  \nLAURA: Exacto. Dicen que los glaciares se están derritiendo rapidísimo. ¡Adiós foto épica!  \nCARLOS: Y las especies migratorias cambiando rutas… como “mejor me voy por otro GPS”.  \nLAURA: Jajaja, tal cual. Y los incendios forestales más frecuentes e intensos. Eso sí está pesado.  \nCARLOS: Lo gacho es que afecta a la biodiversidad y a millones de visitantes.  \nLAURA: Los expertos dicen: adaptación y también bajar emisiones, todo junto.  \nCARLOS: O sea, no solo curita, también dejar de pegarse.  \nLAURA: Pues que inviertan en investigación y protección activa… y nosotros, mínimo, viajar con conciencia.  \nCARLOS: Va. Y cuando vayamos, llevamos cafecito… y cero basura. Deal."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-04/environment-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, ¿has visto esas rayitas blancas que dejan los aviones? ¡Las estelas!  \nCARLOS: Sí, como “firmas” en el cielo. ¿Qué traes?  \nLAURA: Pues leí que son un dilema climático bien raro.  \nCARLOS: ¿En serio? Yo pensé: avión = malo y ya.  \nLAURA: ¡No manches! Resulta que de día reflejan luz y ayudan a enfriar.  \nCARLOS: Ah, o sea como mini espejitos. Qué padre… pero suena sospechoso.  \nLAURA: Exacto: de noche hacen lo contrario, atrapan calor y empeoran el efecto invernadero.  \nCARLOS: Entonces… ¿las estelas son villanas nocturnas?  \nLAURA: Jajaja sí, y el efecto cambia según altitud, hora y cómo esté la atmósfera.  \nCARLOS: O sea, no es “quítalas y ya”, es un rompecabezas.  \nLAURA: Dicen que quizá limitar vuelos nocturnos ayudaría, pero falta investigar más.  \nCARLOS: Moraleja: el clima es drama. ¡Yo nomás quería mi cafecito y ya!"
     },
     {
-      "id": "gastronomy-20260303",
+      "id": "gastronomy-20250304",
       "category": "Gastronomía",
       "difficulty": "B2",
       "emoji": "🍽️",
       "gradient": "red",
-      "headline_es": "La cocina tailandesa auténtica conquista la escena gastronómica de Nueva York",
-      "headline_en": "Authentic Thai cuisine conquers New York's gastronomic scene",
-      "summary_es": "Un restaurante neoyorquino se destaca por ofrecer la mejor cocina tailandesa según las evaluaciones de clientes, combinando técnicas tradicionales con ingredientes auténticos para crear una experiencia culinaria incomparable.",
-      "body_es": "Nueva York, conocida por su diversidad culinaria, ha identificado un restaurante que ofrece la experiencia tailandesa más auténtica disponible en la ciudad. Los clientes elogian constantemente la calidad de los platos, la precisión en la preparación y el respeto por las recetas tradicionales que caracterizan a la gastronomía tailandesa.\n\nLo que distingue a este establecimiento es su compromiso con la autenticidad. Los propietarios han invertido tiempo en perfeccionar cada aspecto del menú, desde la selección de especias hasta las técnicas de cocción tradicionales. Aunque muchos restaurantes adaptan los sabores tailandeses para satisfacer los paladares occidentales, este local se niega a comprometer la integridad de sus platos.\n\nLa cocina tailandesa se caracteriza por su equilibrio entre sabores picantes, dulces, ácidos y salados. Cada plato cuenta una historia y refleja la herencia cultural de Tailandia. Los clientes que valoran la autenticidad culinaria reconocen que este restaurante representa un destino gastronómico imprescindible, donde la pasión por la cocina tradicional trasciende la simple preparación de alimentos para convertirse en una verdadera expresión artística.",
-      "body_en": "New York, known for its culinary diversity, has identified a restaurant that offers the most authentic Thai dining experience available in the city. Customers constantly praise the quality of the dishes, the precision in preparation, and the respect for the traditional recipes that characterize Thai gastronomy.\n\nWhat distinguishes this establishment is its commitment to authenticity. The owners have invested time in perfecting every aspect of the menu, from the selection of spices to traditional cooking techniques. While many restaurants adapt Thai flavors to satisfy Western palates, this establishment refuses to compromise the integrity of its dishes.\n\nThai cuisine is characterized by its balance between spicy, sweet, acidic, and salty flavors. Each dish tells a story and reflects Thailand's cultural heritage. Customers who value culinary authenticity recognize that this restaurant represents an essential gastronomic destination, where passion for traditional cooking transcends simple food preparation to become a true artistic expression.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-03/gastronomy.mp3",
+      "headline_es": "Cuando la cocina japonesa y la italiana se encuentran: una fusión culinaria innovadora",
+      "headline_en": "When Japanese and Italian cuisine collide: an innovative culinary fusion",
+      "summary_es": "Chefs innovadores combinan técnicas y sabores de la gastronomía japonesa e italiana, creando platos híbridos que desafían las convenciones culinarias tradicionales.",
+      "body_es": "La intersección entre la cocina japonesa y la italiana ha generado una tendencia culinaria cautivadora que redefine los límites del paladar contemporáneo. Aunque estas dos tradiciones gastronómicas provienen de contextos culturales radicalmente distintos, sus principios fundamentales comparten notables similitudes. Ambas enfatizan la calidad de los ingredientes frescos, la precisión en la técnica y el respeto por los sabores naturales. Los chefs que se atreven a fusionar estas cocinas crean experiencias sensoriales únicas. Imagínese un risotto elaborado con miso y alga nori, o pasta rellena de inspiración umami japonesa. Estos platos híbridos no son simplemente mezclas aleatorias, sino composiciones cuidadosamente concebidas que honran ambas tradiciones mientras crean algo completamente nuevo. La filosofía detrás de esta fusión rechaza la noción de que las cocinas deben permanecer aisladas. Los restaurantes que han adoptado este enfoque reportan respuestas entusiastas de clientes aventureros. Sin embargo, los puristas culinarios advierten que tal combinación podría diluir la esencia de ambas tradiciones. A pesar de las críticas, esta tendencia continúa expandiéndose, reflejando un mundo gastronómico cada vez más globalizado.",
+      "body_en": "The intersection between Japanese and Italian cuisine has generated a captivating culinary trend that redefines the boundaries of the contemporary palate. Although these two gastronomic traditions come from radically distinct cultural contexts, their fundamental principles share remarkable similarities. Both emphasize the quality of fresh ingredients, precision in technique, and respect for natural flavors. Chefs who dare to fuse these cuisines create unique sensory experiences. Imagine a risotto made with miso and nori seaweed, or pasta filled with Japanese umami inspiration. These hybrid dishes are not simply random mixtures, but carefully conceived compositions that honor both traditions while creating something entirely new. The philosophy behind this fusion rejects the notion that cuisines must remain isolated. Restaurants that have adopted this approach report enthusiastic responses from adventurous customers. However, culinary purists warn that such a combination could dilute the essence of both traditions. Despite the criticism, this trend continues to expand, reflecting an increasingly globalized gastronomic world.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-04/gastronomy.mp3",
       "key_vocabulary": [
         {
-          "word": "autenticidad",
-          "definition_es": "cualidad de ser genuino y fiel a su origen",
-          "definition_en": "quality of being genuine and true to its origin"
+          "word": "fusión",
+          "definition_es": "combinación de dos cosas diferentes para crear algo nuevo",
+          "definition_en": "combination of two different things to create something new"
         },
         {
-          "word": "especias",
-          "definition_es": "sustancias aromáticas de plantas usadas para dar sabor a la comida",
-          "definition_en": "aromatic plant substances used to flavor food"
+          "word": "umami",
+          "definition_es": "uno de los cinco sabores básicos, savory o sabroso",
+          "definition_en": "one of the five basic tastes, savory"
         },
         {
-          "word": "paladar",
-          "definition_es": "sentido del gusto o preferencias culinarias de una persona",
-          "definition_en": "sense of taste or a person's culinary preferences"
+          "word": "puristas",
+          "definition_es": "personas que creen que algo debe mantenerse puro y sin cambios",
+          "definition_en": "people who believe something should remain pure and unchanged"
         },
         {
-          "word": "herencia",
-          "definition_es": "conjunto de características, costumbres y conocimientos transmitidos de generación en generación",
-          "definition_en": "set of characteristics, customs, and knowledge passed down through generations"
+          "word": "diluir",
+          "definition_es": "debilitar o hacer menos concentrado",
+          "definition_en": "to weaken or make less concentrated"
         }
       ]
     }
   ],
-  "last_updated": "2026-03-03T09:20:23.514124Z",
+  "last_updated": "2026-03-04T09:18:45.778200Z",
   "generated_by": "GitHub Actions + Anthropic API"
 }
