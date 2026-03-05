@@ -1,11 +1,196 @@
 {
-  "date": "2026-03-04",
-  "generated_at": "2026-03-04T09:16:36.990921Z",
+  "date": "2026-03-05",
+  "generated_at": "2026-03-05T09:18:28.083062Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 251,
-  "new_today": 4,
+  "total_stories": 256,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250305",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Tratamiento exitoso de una úlcera crónica del pie",
+      "headline_en": "Successful Treatment of a Chronic Foot Ulcer",
+      "summary_es": "Un caso clínico demuestra el manejo exitoso de una úlcera pedal crónica usando terapia multimodal. El tratamiento combinado resultó en cicatrización completa de la herida.",
+      "body_es": "Una úlcera crónica del pie es una herida que no sana rápidamente. Los pacientes necesitan cuidado especial y tratamientos específicos. En un caso reciente, los médicos usaron varios tratamientos juntos. Primero, limpiaron la herida bien. Después, aplicaron vendajes especiales. También controlaron las infecciones. El paciente recibió tratamiento vascular para mejorar la circulación de la sangre. Con este tratamiento completo, la herida sanó completamente. Este caso muestra la importancia de un manejo integral. Los enfermeros deben evaluar la herida cada día. La curación de úlceras crónicas requiere paciencia y cuidado profesional.",
+      "body_en": "A chronic foot ulcer is a wound that does not heal quickly. Patients need special care and specific treatments. In a recent case, doctors used several treatments together. First, they cleaned the wound carefully. Then, they applied special dressings. They also controlled infections. The patient received vascular treatment to improve blood circulation. With this complete treatment, the wound healed completely. This case shows the importance of comprehensive management. Nurses must assess the wound every day. Healing chronic ulcers requires patience and professional care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2ktUm5COHh4dGZfOHhZY1YzaXlvcjZOZjV5X3JucWV3UnBiWXlnRnIxMkZacHE2bEdRWWwzbnhPQ0VTWVcydHcxOThPN3B3c2lMVS1UNE5VVGIxSkpYbXpKMV9KcXFBaElhdk9oTmFZYWtOSk9kdDFjNGlUZnJ2SnRxSnZkaU9PX0NfSHp3OWJ2ZEkzVS1QQkNKVFRxRjdHWFVLdVh6WkdlYTg5N1ZUaGVKN01TNWlYSk5SWHpHNlk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-05/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta que no sana rápidamente",
+          "definition_en": "ulcer - open wound that does not heal quickly"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material médico para cubrir y proteger heridas",
+          "definition_en": "dressing - medical material to cover and protect wounds"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y cierre de una herida",
+          "definition_en": "healing - process of wound closure and recovery"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de bacterias o microorganismos en la herida",
+          "definition_en": "infection - invasion of bacteria or microorganisms in wound"
+        }
+      ],
+      "added_at": "2026-03-05T09:18:28.083062Z"
+    },
+    {
+      "id": "diabetic-foot-20250305",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Salvamento de miembro en paciente diabético con isquemia crítica de extremidad",
+      "headline_en": "Successful Limb Salvage in Diabetic Patient with Critical Limb Ischemia",
+      "summary_es": "Un caso clínico documenta la salvación exitosa de una extremidad inferior en un paciente diabético recientemente diagnosticado mediante angioplastia transluminal percutánea y colocación de stent.",
+      "body_es": "La isquemia crítica de extremidad es una complicación grave en pacientes diabéticos. Ocurre cuando la circulación sanguínea se reduce significativamente en las piernas y pies. Un paciente diabético recientemente diagnosticado presentó esta complicación severa. Los médicos realizaron un procedimiento vascular de emergencia llamado angioplastia transluminal percutánea. Durante este procedimiento, se dilató la arteria obstruida y se colocó un stent para mantener el flujo sanguíneo. El paciente fue monitoreado continuamente después de la intervención. La evaluación periódica de la herida fue fundamental en la recuperación. Los enfermeros realizaron curaciones regulares y controlaron la cicatrización. Este caso demuestra que el diagnóstico temprano y la intervención rápida pueden prevenir la amputación. El cuidado integral del pie diabético es esencial para salvaguardar la extremidad.",
+      "body_en": "Critical limb ischemia is a serious complication in diabetic patients. It occurs when blood circulation is significantly reduced in the legs and feet. A recently diagnosed diabetic patient presented with this severe complication. Doctors performed an emergency vascular procedure called percutaneous transluminal angioplasty. During this procedure, the blocked artery was dilated and a stent was placed to maintain blood flow. The patient was monitored continuously after the intervention. Regular wound assessment was fundamental to recovery. Nurses performed routine dressing changes and monitored healing. This case demonstrates that early diagnosis and rapid intervention can prevent amputation. Comprehensive diabetic foot care is essential to preserve the limb.",
+      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMEtCdlFScnlWUmVsYjRxV0pYcDJuMUp1OGVuTGdYWWxRZTFweldoWVVjY2I0TXlUcUdFZVctY0Rfd2o1Q2pGb1NHb08yVHpzNERMWWtOdDlYdThCaTVqWFB3VUxmQXF0WHNxVGJFYnhLYy1oWWNQWkpuNURUM3RUeHlKc2dBZU9DVUNuVlNabFpCRzJOWVVjRG9RUkc5YW40bHVFei0ya29EMTVZcnpNVXhDV0V0RldYSmVidkpQYWFuMWJaZGRhU3FtWEs0bnlTbDNzVi1NaGZOOHU4aDNSRzFDX05FOHpSN3F6YjFjU0podXdYWjZpb2pKQXhBUFdja1RpeHFhN2ptaXFNZFM5WThXX2l6LUt0X2RNRQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-05/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "isquemia",
+          "definition_es": "reducción del flujo sanguíneo a un tejido u órgano",
+          "definition_en": "ischemia - reduction of blood flow to a tissue or organ"
+        },
+        {
+          "word": "angioplastia",
+          "definition_es": "procedimiento para dilatar una arteria obstruida",
+          "definition_en": "angioplasty - procedure to widen a blocked artery"
+        },
+        {
+          "word": "stent",
+          "definition_es": "tubo pequeño que mantiene abierta una arteria",
+          "definition_en": "stent - small tube that keeps an artery open"
+        },
+        {
+          "word": "extremidad",
+          "definition_es": "brazo o pierna del cuerpo",
+          "definition_en": "limb - arm or leg of the body"
+        }
+      ],
+      "added_at": "2026-03-05T09:18:28.083062Z"
+    },
+    {
+      "id": "burn-care-20250305",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Plataforma 3D revoluciona la terapia con vesículas extracelulares para reparación de piel fibrósica",
+      "headline_en": "3D Culture Platform Unlocks Extracellular Vesicle Therapy for Fibrotic Skin Repair",
+      "summary_es": "Una nueva plataforma de cultivo 3D permite el desarrollo de terapias con vesículas extracelulares para reparar la piel dañada por quemaduras y fibrosis.",
+      "body_es": "Las quemaduras profundas causan cicatrización excesiva y fibrosis de la piel. Esta complicación afecta la función y apariencia de la piel. Investigadores han desarrollado una plataforma de cultivo tridimensional innovadora. Esta plataforma permite cultivar y extraer vesículas extracelulares de células especialistas. Las vesículas extracelulares son pequeños compartimentos que transportan moléculas sanadoras. Cuando se aplican a heridas de quemadura, estas vesículas promueven la reparación de tejido sano. La plataforma 3D imita el microambiente natural de la piel. Esto mejora la calidad de las células cultivadas y sus productos terapéuticos. En estudios preliminares, la terapia mostró reducción de la fibrosis post-quemadura. Este avance promete mejores resultados estéticos y funcionales para pacientes quemados. Los enfermeros de cuidado de quemados esperan aplicar estas terapias pronto en la práctica clínica.",
+      "body_en": "Deep burns cause excessive scarring and skin fibrosis. This complication affects skin function and appearance. Researchers have developed an innovative three-dimensional culture platform. This platform allows culturing and extracting extracellular vesicles from specialized cells. Extracellular vesicles are small compartments that transport healing molecules. When applied to burn wounds, these vesicles promote healthy tissue repair. The 3D platform mimics the natural microenvironment of skin. This improves the quality of cultured cells and their therapeutic products. In preliminary studies, the therapy showed reduced post-burn fibrosis. This advance promises better aesthetic and functional outcomes for burn patients. Burn care nurses anticipate applying these therapies soon in clinical practice.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42X05lMjhXUXd1LXRyTWp6VkhuQUdHNHR2cWZNZGl4eHllcTRWU2stT1ZNNUZoVGw2ZUhGdC1sUXN0OGNxUFdmdk1RX2FUeEZTSjh4WDR4XzBZczBL?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-05/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por fuego, calor o químicos",
+          "definition_en": "burn - injury to skin caused by fire, heat, or chemicals"
+        },
+        {
+          "word": "fibrosis",
+          "definition_es": "formación excesiva de tejido cicatricial",
+          "definition_en": "fibrosis - excessive formation of scar tissue"
+        },
+        {
+          "word": "vesículas extracelulares",
+          "definition_es": "pequeñas partículas que transportan moléculas entre células",
+          "definition_en": "extracellular vesicles - small particles that transport molecules between cells"
+        },
+        {
+          "word": "plataforma de cultivo",
+          "definition_es": "sistema para cultivar células en laboratorio",
+          "definition_en": "culture platform - system to grow cells in laboratory"
+        }
+      ],
+      "added_at": "2026-03-05T09:18:28.083062Z"
+    },
+    {
+      "id": "surgical-wounds-20250305",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "indigo",
+      "headline_es": "Cómo reconocer si su herida quirúrgica está sanando correctamente",
+      "headline_en": "How to Tell Your Wound Is Healing Properly",
+      "summary_es": "Banner Health proporciona información esencial sobre los signos de curación adecuada en heridas quirúrgicas y cuándo consultar con un profesional médico.",
+      "body_es": "Después de una cirugía, la curación apropiada de la herida es crucial para la recuperación exitosa. Los pacientes deben reconocer los signos de una herida que sana bien. En los primeros días, la herida presenta enrojecimiento moderado y edema alrededor de la sutura. Esto es normal y disminuye gradualmente. La herida debe permanecer seca y sin exudado excesivo. Después de una a dos semanas, los márgenes de la herida se cierran y comienza la epitelización. El color rosado indica granulación activa y vascularización. Sin embargo, ciertos signos indican complicaciones. Si observa aumento de enrojecimiento, calor excesivo, drenaje purulento o separación de los bordes de la herida, debe contactar a su médico. También debe reportar fiebre o dolor intenso que aumenta después de los primeros días. El cuidado diario de la herida, incluyendo limpieza suave y cambios de vendaje, es fundamental. Los enfermeros evalúan la herida en cada visita para detectar posibles problemas.",
+      "body_en": "After surgery, appropriate wound healing is crucial for successful recovery. Patients should recognize signs of a healing wound. In the first days, the wound shows moderate redness and swelling around the suture. This is normal and gradually decreases. The wound should remain dry and without excessive drainage. After one to two weeks, the wound edges close and epithelialization begins. Pink color indicates active granulation and vascularization. However, certain signs indicate complications. If you observe increased redness, excessive heat, purulent drainage, or separation of wound edges, you should contact your doctor. You should also report fever or intense pain that increases after the first few days. Daily wound care, including gentle cleaning and dressing changes, is fundamental. Nurses assess the wound at each visit to detect potential problems.",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnJ5MGFiZW5yUmdPcE5YTm5JWW8yS25nc1dvaEZqcnZSSVMwUmRrNWM4TTRQTl93N1FCelRnUDQwRVVBTWpwaXQzdlVGVlZKNTVtSEp3WTNZTjM5WTRKWjNDMjE1ZkJpZndybERxRUFsWUNER3BoNzNCVEhJcWFvVW9nYmZhdmVPdURYdko4dlJZeDh1QkdZdmpSWQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-05/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "sutura",
+          "definition_es": "hilo médico que cierra una herida quirúrgica",
+          "definition_en": "suture - medical thread that closes a surgical wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de regeneración del epitelio o capa externa de la piel",
+          "definition_en": "epithelialization - process of regenerating the epithelium or outer skin layer"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido durante la curación",
+          "definition_en": "granulation - formation of new tissue during healing"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de la herida durante la curación",
+          "definition_en": "exudate - fluid that drains from a wound during healing"
+        }
+      ],
+      "added_at": "2026-03-05T09:18:28.083062Z"
+    },
+    {
+      "id": "wound-research-20250305",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "violet",
+      "headline_es": "Investigación innovadora en reparación de piel fibrósica mediante vesículas extracelulares",
+      "headline_en": "Innovative Research in Fibrotic Skin Repair Using Extracellular Vesicles",
+      "summary_es": "Nueva investigación utiliza plataformas de cultivo 3D para desarrollar terapias avanzadas basadas en vesículas extracelulares para la reparación de piel dañada.",
+      "body_es": "La reparación de heridas complejas, especialmente aquellas con fibrosis extensa, sigue siendo un desafío en la medicina moderna. Los investigadores están explorando nuevas estrategias basadas en terapias celulares avanzadas. Un enfoque prometedor involucra el uso de vesículas extracelulares derivadas de células madre. Estas vesículas contienen proteínas, lípidos y ácidos nucleicos que promueven la reparación tisular. Los científicos han desarrollado una plataforma de cultivo tridimensional que mejora la producción y calidad de estas vesículas. Este sistema 3D reproduce el microambiente fisiológico de la piel de manera más cercana que los cultivos tradicionales. Los estudios preliminares demostraron que la terapia redujo significativamente la deposición de colágeno anormal. Los investigadores observaron que las heridas tratadas mostraban mejor función de barrera cutánea. Este avance abre nuevas posibilidades para tratar quemaduras, úlceras crónicas y heridas post-quirúrgicas complicadas. Los resultados sugieren que estas terapias podrían revolucionar el tratamiento de heridas refractarias en los próximos años.",
+      "body_en": "Repair of complex wounds, especially those with extensive fibrosis, remains a challenge in modern medicine. Researchers are exploring new strategies based on advanced cell therapies. One promising approach involves the use of extracellular vesicles derived from stem cells. These vesicles contain proteins, lipids, and nucleic acids that promote tissue repair. Scientists have developed a three-dimensional culture platform that improves the production and quality of these vesicles. This 3D system reproduces the physiological microenvironment of skin more closely than traditional cultures. Preliminary studies demonstrated that the therapy significantly reduced abnormal collagen deposition. Researchers observed that treated wounds showed better skin barrier function. This breakthrough opens new possibilities for treating burns, chronic ulcers, and complicated post-surgical wounds. Results suggest that these therapies could revolutionize the treatment of refractory wounds in coming years.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42X05lMjhXUXd1LXRyTWp6VkhuQUdHNHR2cWZNZGl4eHllcTRWU2stT1ZNNUZoVGw2ZUhGdC1sUXN0OGNxUFdmdk1RX2FUeEZTSjh4WDR4XzBZczBL?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-05/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vesículas extracelulares",
+          "definition_es": "nanovesículas que contienen moléculas bioactivas entre células",
+          "definition_en": "extracellular vesicles - nanovesicles containing bioactive molecules between cells"
+        },
+        {
+          "word": "fibrosis",
+          "definition_es": "proliferación excesiva de tejido conectivo fibroso",
+          "definition_en": "fibrosis - excessive proliferation of fibrous connective tissue"
+        },
+        {
+          "word": "colágeno",
+          "definition_es": "proteína principal de la matriz extracelular de la piel",
+          "definition_en": "collagen - main protein of skin extracellular matrix"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "recubrimiento de una herida con nuevo epitelio",
+          "definition_en": "epithelialization - covering of a wound with new epithelium"
+        }
+      ],
+      "added_at": "2026-03-05T09:18:28.083062Z"
+    },
     {
       "id": "chronic-wounds-20250304",
       "category": "Chronic Wounds",
@@ -9288,6 +9473,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-04T09:16:36.990921Z",
+  "last_updated": "2026-03-05T09:18:28.083062Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
