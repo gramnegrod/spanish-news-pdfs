@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-05",
+      "filename": "spanish_lesson_2026-03-05.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-05.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Senado bloquea límites a los poderes de guerra de Trump",
+          "headline_en": "Senate blocks limits on Trump's war powers",
+          "body_es": "El Senado de Estados Unidos bloqueó una resolución importante esta semana. Esta resolución quería limitar los poderes del presidente Trump para hacer guerra en Irán. Los senadores republicanos votaron contra la propuesta. Los demócratas apoyaron la resolución porque querían más control del Congreso sobre las decisiones militares. La tensión entre Estados Unidos e Irán ha crecido en los últimos meses. Muchos políticos están preocupados por un posible conflicto. La resolución habría requerido la aprobación del Congreso antes de cualquier acción militar importante. Sin embargo, no recibió suficientes votos para pasar. Este tema divide a los dos partidos políticos principales de Estados Unidos.",
+          "body_en": "The US Senate blocked an important resolution this week. This resolution wanted to limit President Trump's powers to make war in Iran. Republican senators voted against the proposal. Democrats supported the resolution because they wanted more Congressional control over military decisions. Tension between the US and Iran has grown in recent months. Many politicians are worried about a possible conflict. The resolution would have required Congressional approval before any major military action. However, it didn't receive enough votes to pass. This issue divides the two main political parties in the United States.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Las acciones estadounidenses se recuperan con buenas noticias económicas",
+          "headline_en": "US stocks recover with good economic news",
+          "body_es": "El mercado de acciones de Estados Unidos tuvo un día muy bueno ayer. Las acciones subieron después de recibir noticias económicas positivas. Los expertos dijeron que la economía está creciendo bien. También, los precios del petróleo dejaron de subir tanto como la semana pasada. Esto ayudó a calmar a los inversores. Las empresas tecnológicas fueron las que más subieron en el mercado. Los bancos también tuvieron resultados positivos. Los analistas económicos están más optimistas ahora. Creen que la economía estadounidense seguirá creciendo este año. Sin embargo, todavía hay preocupaciones sobre la inflación. Los precios de algunos productos siguen altos para las familias americanas.",
+          "body_en": "The US stock market had a very good day yesterday. Stocks rose after receiving positive economic news. Experts said the economy is growing well. Also, oil prices stopped rising as much as last week. This helped calm investors. Technology companies were the ones that rose most in the market. Banks also had positive results. Economic analysts are more optimistic now. They believe the US economy will continue growing this year. However, there are still concerns about inflation. Prices of some products remain high for American families.",
+          "source": "San Diego Union-Tribune"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump anuncia que la industria de inteligencia artificial pagará por energía",
+          "headline_en": "Trump announces AI industry will pay for energy",
+          "body_es": "El presidente Trump hizo un anuncio importante sobre la inteligencia artificial. Las grandes empresas de tecnología prometieron pagar por la energía que usan. Estas empresas incluyen Google, Microsoft y otras compañías famosas. La inteligencia artificial necesita mucha electricidad para funcionar. Las computadoras que procesan IA consumen enormes cantidades de energía. Trump dijo que este acuerdo ayudará a Estados Unidos a liderar el mundo en tecnología. Las empresas construirán nuevos centros de datos en el país. Esto creará miles de empleos para los trabajadores estadounidenses. El gobierno también invertirá dinero en mejorar la red eléctrica. Los expertos creen que este plan cambiará la industria tecnológica. Sin embargo, algunos están preocupados por el impacto ambiental.",
+          "body_en": "President Trump made an important announcement about artificial intelligence. Big technology companies promised to pay for the energy they use. These companies include Google, Microsoft and other famous companies. Artificial intelligence needs a lot of electricity to function. Computers that process AI consume enormous amounts of energy. Trump said this agreement will help the US lead the world in technology. Companies will build new data centers in the country. This will create thousands of jobs for American workers. The government will also invest money in improving the electrical grid. Experts believe this plan will change the technology industry. However, some are worried about the environmental impact.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "bloquear",
+          "syllables": "blo-que-AR",
+          "pos": "verbo",
+          "context": "El Senado bloquea la resolución sobre la guerra.",
+          "definition_es": "Impedir o detener algo",
+          "definition_en": "To block or prevent"
+        },
+        {
+          "word": "resolución",
+          "syllables": "re-so-lu-CIÓN",
+          "pos": "sustantivo",
+          "context": "La resolución limitaría los poderes del presidente.",
+          "definition_es": "Decisión oficial tomada por un grupo",
+          "definition_en": "Official decision made by a group"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones de Estados Unidos se recuperaron ayer.",
+          "definition_es": "Partes de una empresa que se pueden comprar",
+          "definition_en": "Shares of a company that can be bought"
+        },
+        {
+          "word": "recuperarse",
+          "syllables": "re-cu-pe-RAR-se",
+          "pos": "verbo",
+          "context": "El mercado se recupera después de las buenas noticias.",
+          "definition_es": "Volver a estar bien después de problemas",
+          "definition_en": "To recover or bounce back"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo dejaron de subir.",
+          "definition_es": "Líquido negro usado para energía",
+          "definition_en": "Oil used for energy"
+        },
+        {
+          "word": "anunciar",
+          "syllables": "a-nun-CIAR",
+          "pos": "verbo",
+          "context": "Trump anuncia un nuevo acuerdo tecnológico.",
+          "definition_es": "Decir algo importante en público",
+          "definition_en": "To announce publicly"
+        },
+        {
+          "word": "industria",
+          "syllables": "in-DUS-tria",
+          "pos": "sustantivo",
+          "context": "La industria de inteligencia artificial crecerá mucho.",
+          "definition_es": "Sector de empresas que hacen productos similares",
+          "definition_en": "Sector of companies making similar products"
+        },
+        {
+          "word": "energía",
+          "syllables": "e-ner-GÍA",
+          "pos": "sustantivo",
+          "context": "Las empresas pagarán por usar más energía.",
+          "definition_es": "Poder necesario para hacer funcionar máquinas",
+          "definition_en": "Power needed to run machines"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'bloquear' en el contexto político?",
+          "options": [
+            "Construir algo",
+            "Impedir una decisión",
+            "Votar a favor",
+            "Hacer una ley"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en economía?",
+          "options": [
+            "Movimientos físicos",
+            "Partes de una empresa",
+            "Decisiones políticas",
+            "Noticias importantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'recuperarse' en el mercado?",
+          "options": [
+            "Bajar los precios",
+            "Volver a subir después de caer",
+            "Cerrar las empresas",
+            "Comprar acciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'anunciar'?",
+          "options": [
+            "Esconder información",
+            "Decir algo en público",
+            "Escribir una carta",
+            "Hacer una pregunta"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué quería hacer la resolución sobre Irán?",
+          "options": [
+            "Aumentar el poder de Trump",
+            "Limitar los poderes de guerra",
+            "Declarar la guerra",
+            "Apoyar al ejército"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué subieron las acciones estadounidenses?",
+          "options": [
+            "Por malas noticias",
+            "Por noticias económicas positivas",
+            "Por la guerra",
+            "Por problemas políticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas prometieron pagar por energía?",
+          "options": [
+            "Empresas de petróleo",
+            "Empresas de tecnología",
+            "Empresas de comida",
+            "Empresas de ropa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué partidos votaron diferente sobre la resolución de Irán?",
+          "options": [
+            "Todos votaron igual",
+            "Republicanos y demócratas",
+            "Solo los republicanos",
+            "Solo los demócratas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué ayudó a calmar a los inversores?",
+          "options": [
+            "Los precios altos del petróleo",
+            "Los precios estables del petróleo",
+            "Las malas noticias",
+            "Los problemas políticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué la inteligencia artificial necesita mucha energía?",
+          "options": [
+            "Para construir edificios",
+            "Para procesar información en computadoras",
+            "Para hacer comida",
+            "Para transportar productos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-05T09:12:06.615327"
+    },
+    {
       "date": "2026-03-04",
       "filename": "spanish_lesson_2026-03-04.pdf",
       "path": "pdfs/spanish_lesson_2026-03-04.pdf",
@@ -19340,7 +19562,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-04T09:09:56.524304",
+  "last_updated": "2026-03-05T09:12:06.615346",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
