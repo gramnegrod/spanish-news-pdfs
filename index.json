@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-06",
+      "filename": "spanish_lesson_2026-03-06.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-06.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso rechaza limitar los poderes de guerra de Trump en Irán",
+          "headline_en": "Congress rejects limiting Trump's war powers in Iran",
+          "body_es": "La Cámara de Representantes de Estados Unidos rechazó una propuesta para limitar los poderes de guerra del presidente Trump en Irán. Los representantes votaron en contra de la medida que quería controlar las acciones militares del presidente. Esta decisión llega después de las tensiones entre Estados Unidos e Irán en Oriente Medio. Muchos demócratas apoyaron la propuesta para limitar estos poderes. Sin embargo, los republicanos votaron en contra. El presidente puede continuar tomando decisiones militares sin la aprobación del Congreso. Esta situación muestra las diferencias políticas en Washington. El conflicto en la región continúa siendo un tema importante para la política estadounidense.",
+          "body_en": "The US House of Representatives rejected a proposal to limit President Trump's war powers in Iran. Representatives voted against the measure that wanted to control the president's military actions. This decision comes after tensions between the United States and Iran in the Middle East. Many Democrats supported the proposal to limit these powers. However, Republicans voted against it. The president can continue making military decisions without Congress approval. This situation shows the political differences in Washington. The conflict in the region continues to be an important issue for American politics.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Las acciones estadounidenses caen cuando el petróleo sube de precio",
+          "headline_en": "US stocks fall when oil prices rise",
+          "body_es": "Las acciones en Wall Street cayeron después de que el precio del petróleo subiera mucho. El petróleo llegó a su precio más alto desde el verano de 2024. Los inversores están nerviosos por el conflicto en Oriente Medio. Cuando el petróleo cuesta más, las empresas gastan más dinero en energía. Esto significa menos ganancias para las compañías. El mercado financiero mostró preocupación por la situación internacional. Las acciones de muchas empresas bajaron de valor durante el día. Los expertos dicen que el precio del petróleo puede continuar subiendo. Esta situación afecta la economía de Estados Unidos. Los consumidores también pueden pagar más por la gasolina en las próximas semanas.",
+          "body_en": "Stocks on Wall Street fell after oil prices rose significantly. Oil reached its highest price since summer 2024. Investors are nervous about the conflict in the Middle East. When oil costs more, companies spend more money on energy. This means less profit for companies. The financial market showed concern about the international situation. Many companies' stocks dropped in value during the day. Experts say oil prices may continue rising. This situation affects the US economy. Consumers may also pay more for gasoline in the coming weeks.",
+          "source": "WFMZ.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Netflix compra la empresa de inteligencia artificial de Ben Affleck",
+          "headline_en": "Netflix buys Ben Affleck's artificial intelligence company",
+          "body_es": "Netflix decidió adquirir InterPositive, la empresa de tecnología del famoso actor Ben Affleck. Esta compañía trabaja con inteligencia artificial para hacer películas. La tecnología puede ayudar a crear efectos especiales y mejorar la producción de films. Netflix quiere usar esta tecnología para hacer mejores programas y películas. Ben Affleck, conocido actor y director de Hollywood, fundó esta empresa hace algunos años. La inteligencia artificial está cambiando la industria del entretenimiento. Muchas empresas de cine están usando nueva tecnología para crear contenido. Netflix espera que esta compra les ayude a competir mejor con otras plataformas. El precio de la compra no fue revelado públicamente por las empresas.",
+          "body_en": "Netflix decided to acquire InterPositive, the technology company of famous actor Ben Affleck. This company works with artificial intelligence to make movies. The technology can help create special effects and improve film production. Netflix wants to use this technology to make better programs and movies. Ben Affleck, known Hollywood actor and director, founded this company some years ago. Artificial intelligence is changing the entertainment industry. Many film companies are using new technology to create content. Netflix hopes this purchase will help them compete better with other platforms. The purchase price was not publicly revealed by the companies.",
+          "source": "Los Angeles Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "poderes",
+          "syllables": "po-DE-res",
+          "pos": "sustantivo",
+          "context": "La Cámara de Representantes rechazó limitar los poderes de guerra del presidente.",
+          "definition_es": "Autoridad o capacidad para hacer algo",
+          "definition_en": "Powers, authority to do something"
+        },
+        {
+          "word": "rechazar",
+          "syllables": "re-cha-ZAR",
+          "pos": "verbo",
+          "context": "Los representantes decidieron rechazar la propuesta sobre Irán.",
+          "definition_es": "Decir que no, no aceptar algo",
+          "definition_en": "To reject, to turn down"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones en Wall Street cayeron después del aumento del petróleo.",
+          "definition_es": "Partes de una empresa que se pueden comprar y vender",
+          "definition_en": "Stocks, shares in a company"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo subió a su nivel más alto desde el verano.",
+          "definition_es": "Líquido negro que se usa para hacer gasolina y energía",
+          "definition_en": "Oil, petroleum"
+        },
+        {
+          "word": "adquirir",
+          "syllables": "ad-qui-RIR",
+          "pos": "verbo",
+          "context": "Netflix decidió adquirir la empresa de tecnología de Ben Affleck.",
+          "definition_es": "Comprar o conseguir algo",
+          "definition_en": "To acquire, to buy"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "La empresa InterPositive trabaja con inteligencia artificial.",
+          "definition_es": "Organización que hace negocios o vende productos",
+          "definition_en": "Company, business"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado financiero mostró nerviosismo por el conflicto.",
+          "definition_es": "Lugar donde se compran y venden cosas",
+          "definition_en": "Market, marketplace"
+        },
+        {
+          "word": "conflicto",
+          "syllables": "con-FLIC-to",
+          "pos": "sustantivo",
+          "context": "El conflicto en Oriente Medio afecta los precios del petróleo.",
+          "definition_es": "Problema o guerra entre países o grupos",
+          "definition_en": "Conflict, dispute"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'rechazar'?",
+          "options": [
+            "Aceptar algo",
+            "Decir que no",
+            "Comprar algo",
+            "Vender algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en el contexto financiero?",
+          "options": [
+            "Movimientos físicos",
+            "Partes de una empresa",
+            "Decisiones políticas",
+            "Efectos especiales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es un sinónimo de 'adquirir'?",
+          "options": [
+            "Vender",
+            "Rechazar",
+            "Comprar",
+            "Perder"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'conflicto'?",
+          "options": [
+            "Una celebración",
+            "Un problema o guerra",
+            "Una empresa",
+            "Una tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué rechazó la Cámara de Representantes?",
+          "options": [
+            "Limitar los poderes de guerra de Trump",
+            "Comprar petróleo de Irán",
+            "Invertir en Netflix",
+            "Crear nueva tecnología"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué cayeron las acciones en Wall Street?",
+          "options": [
+            "Netflix compró una empresa",
+            "El petróleo subió de precio",
+            "Trump tomó una decisión",
+            "Ben Affleck vendió su compañía"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama la empresa que compró Netflix?",
+          "options": [
+            "Wall Street",
+            "InterPositive",
+            "Oriente Medio",
+            "Hollywood"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuándo llegó el petróleo a su precio más alto?",
+          "options": [
+            "Desde el verano de 2024",
+            "Hace algunos años",
+            "Durante el día",
+            "En las próximas semanas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de tecnología usa la empresa de Ben Affleck?",
+          "options": [
+            "Tecnología médica",
+            "Inteligencia artificial",
+            "Tecnología militar",
+            "Tecnología financiera"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué partido político apoyó limitar los poderes de guerra?",
+          "options": [
+            "Los republicanos",
+            "Los demócratas",
+            "Los independientes",
+            "Todos los partidos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-06T09:08:52.739231"
+    },
+    {
       "date": "2026-03-05",
       "filename": "spanish_lesson_2026-03-05.pdf",
       "path": "pdfs/spanish_lesson_2026-03-05.pdf",
@@ -19562,7 +19784,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-05T09:12:06.615346",
+  "last_updated": "2026-03-06T09:08:52.739249",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
