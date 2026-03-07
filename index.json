@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-07",
+      "filename": "spanish_lesson_2026-03-07.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-07.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump Cambia Su Equipo: Nuevo Senador Reemplaza a Noem",
+          "headline_en": "Trump Changes His Team: New Senator Replaces Noem",
+          "body_es": "El expresidente Donald Trump anunció una decisión importante sobre su equipo político. Trump va a reemplazar a Kristi Noem, la gobernadora de Dakota del Sur, con un senador de Oklahoma. Esta decisión sorprendió a muchas personas en Washington. Noem era una candidata popular para un puesto importante en el gobierno. Sin embargo, Trump decidió cambiar su elección. El senador de Oklahoma tiene experiencia en política nacional. Los expertos dicen que este cambio puede afectar las próximas elecciones. Trump no explicó completamente las razones de su decisión. Los medios de comunicación siguen investigando esta historia. El cambio muestra que Trump continúa tomando decisiones importantes sobre su futuro político.",
+          "body_en": "Former President Donald Trump announced an important decision about his political team. Trump is going to replace Kristi Noem, the governor of South Dakota, with a senator from Oklahoma. This decision surprised many people in Washington. Noem was a popular candidate for an important government position. However, Trump decided to change his choice. The Oklahoma senator has experience in national politics. Experts say this change could affect the upcoming elections. Trump did not completely explain the reasons for his decision. The media continues to investigate this story. The change shows that Trump continues to make important decisions about his political future.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos Pierde 92,000 Empleos: Aumenta la Preocupación Económica",
+          "headline_en": "United States Loses 92,000 Jobs: Economic Concern Increases",
+          "body_es": "La economía estadounidense tuvo noticias difíciles en febrero. El país perdió 92,000 empleos durante ese mes. Esta información preocupa a los expertos económicos y al gobierno. La pérdida de empleos es más grande de lo que esperaban los analistas. El mercado laboral muestra signos de debilidad después de varios meses buenos. Muchos sectores de la economía perdieron trabajadores. Las empresas están reduciendo su personal por diferentes razones. Los economistas están estudiando las causas de este problema. El gobierno está considerando nuevas políticas para ayudar a los trabajadores. Esta situación puede afectar las decisiones del banco central sobre las tasas de interés. Los ciudadanos esperan que la situación mejore en los próximos meses.",
+          "body_en": "The US economy had difficult news in February. The country lost 92,000 jobs during that month. This information worries economic experts and the government. The job loss is larger than analysts expected. The labor market shows signs of weakness after several good months. Many sectors of the economy lost workers. Companies are reducing their staff for different reasons. Economists are studying the causes of this problem. The government is considering new policies to help workers. This situation could affect central bank decisions about interest rates. Citizens hope the situation will improve in the coming months.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Netflix Compra la Empresa de Inteligencia Artificial de Ben Affleck",
+          "headline_en": "Netflix Buys Ben Affleck's Artificial Intelligence Company",
+          "body_es": "Netflix, la famosa plataforma de videos, hizo una compra importante en el mundo de la tecnología. La empresa adquirió InterPositive, una compañía de inteligencia artificial que pertenece al actor Ben Affleck. Esta decisión muestra que Netflix quiere usar más tecnología avanzada en sus servicios. InterPositive desarrolla sistemas de inteligencia artificial para el entretenimiento. La compañía puede ayudar a Netflix a crear mejor contenido para sus usuarios. Ben Affleck, conocido por películas como Batman, ahora también es empresario de tecnología. Los expertos dicen que esta compra es inteligente para el futuro de Netflix. La inteligencia artificial puede mejorar las recomendaciones de películas y series. Netflix no reveló el precio de la adquisición. Esta compra muestra la importancia creciente de la inteligencia artificial en el entretenimiento.",
+          "body_en": "Netflix, the famous video platform, made an important purchase in the technology world. The company acquired InterPositive, an artificial intelligence company owned by actor Ben Affleck. This decision shows that Netflix wants to use more advanced technology in its services. InterPositive develops artificial intelligence systems for entertainment. The company can help Netflix create better content for its users. Ben Affleck, known for movies like Batman, is now also a technology entrepreneur. Experts say this purchase is smart for Netflix's future. Artificial intelligence can improve movie and series recommendations. Netflix did not reveal the price of the acquisition. This purchase shows the growing importance of artificial intelligence in entertainment.",
+          "source": "The Hill"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "reemplazar",
+          "syllables": "re-em-pla-SAR",
+          "pos": "verbo",
+          "context": "Trump anuncia que va a reemplazar a Noem con un senador de Oklahoma.",
+          "definition_es": "Poner a una persona o cosa en lugar de otra",
+          "definition_en": "To replace, to substitute one person or thing for another"
+        },
+        {
+          "word": "senador",
+          "syllables": "se-na-DOR",
+          "pos": "sustantivo",
+          "context": "El presidente eligió a un senador de Oklahoma para el nuevo puesto.",
+          "definition_es": "Persona que forma parte del senado en el gobierno",
+          "definition_en": "A member of the senate in government"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense perdió 92,000 empleos en febrero.",
+          "definition_es": "Trabajo que una persona tiene para ganar dinero",
+          "definition_en": "A job or work that a person has to earn money"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "La pérdida de empleos causa preocupación en el mercado laboral.",
+          "definition_es": "El sistema donde las personas buscan trabajo y las empresas buscan trabajadores",
+          "definition_en": "The system where people look for jobs and companies look for workers"
+        },
+        {
+          "word": "adquirir",
+          "syllables": "ad-qui-RIR",
+          "pos": "verbo",
+          "context": "Netflix adquirió la compañía de tecnología de Ben Affleck.",
+          "definition_es": "Comprar o conseguir algo",
+          "definition_en": "To acquire, to buy or obtain something"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "InterPositive es una empresa de inteligencia artificial.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "preocupación",
+          "syllables": "pre-o-cu-pa-CIÓN",
+          "pos": "sustantivo",
+          "context": "Los datos económicos causan preocupación entre los expertos.",
+          "definition_es": "Sentimiento de inquietud o miedo por algo",
+          "definition_en": "A feeling of worry or concern about something"
+        },
+        {
+          "word": "anunciar",
+          "syllables": "a-nun-CIAR",
+          "pos": "verbo",
+          "context": "Trump anunció su decisión sobre el cambio de personal.",
+          "definition_es": "Decir algo importante en público",
+          "definition_en": "To announce, to make something known publicly"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reemplazar'?",
+          "options": [
+            "Poner algo en lugar de otra cosa",
+            "Comprar algo nuevo",
+            "Vender algo viejo",
+            "Reparar algo roto"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'senador' es una persona que...",
+          "options": [
+            "Trabaja en un hospital",
+            "Forma parte del gobierno",
+            "Enseña en una universidad",
+            "Dirige una empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es el 'mercado laboral'?",
+          "options": [
+            "Un lugar para comprar comida",
+            "El sistema de trabajos y trabajadores",
+            "Una tienda de ropa",
+            "Un tipo de banco"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Inteligencia artificial' se refiere a...",
+          "options": [
+            "Personas muy inteligentes",
+            "Libros de ciencia",
+            "Tecnología que piensa como humanos",
+            "Robots que limpian casas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿quién va a reemplazar a Noem?",
+          "options": [
+            "Un gobernador de Texas",
+            "Un senador de Oklahoma",
+            "Un alcalde de Nueva York",
+            "Un juez de California"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos perdió Estados Unidos en febrero?",
+          "options": [
+            "82,000",
+            "92,000",
+            "102,000",
+            "72,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa adquirió Netflix?",
+          "options": [
+            "InterActive",
+            "InterPositive",
+            "InterTech",
+            "InterMedia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Quién es el dueño de la empresa que compró Netflix?",
+          "options": [
+            "Matt Damon",
+            "Ben Affleck",
+            "Leonardo DiCaprio",
+            "Brad Pitt"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia económica, ¿qué están haciendo las empresas?",
+          "options": [
+            "Contratando más personal",
+            "Reduciendo su personal",
+            "Aumentando salarios",
+            "Abriendo nuevas oficinas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Para qué puede usar Netflix la inteligencia artificial?",
+          "options": [
+            "Para cocinar comida",
+            "Para limpiar oficinas",
+            "Para mejorar recomendaciones",
+            "Para reparar computadoras"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-07T09:04:54.986812"
+    },
+    {
       "date": "2026-03-06",
       "filename": "spanish_lesson_2026-03-06.pdf",
       "path": "pdfs/spanish_lesson_2026-03-06.pdf",
@@ -19784,7 +20006,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-06T09:08:52.739249",
+  "last_updated": "2026-03-07T09:04:54.986829",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
