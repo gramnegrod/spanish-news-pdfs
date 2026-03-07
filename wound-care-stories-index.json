@@ -1,11 +1,196 @@
 {
-  "date": "2026-03-06",
-  "generated_at": "2026-03-06T09:15:42.080297Z",
+  "date": "2026-03-07",
+  "generated_at": "2026-03-07T09:10:43.535682Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 260,
-  "new_today": 4,
+  "total_stories": 265,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250307",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo vendaje impreso en 3D ayuda a curar heridas crónicas",
+      "headline_en": "New 3D-Printed Bandage Helps Heal Chronic Wounds",
+      "summary_es": "Un equipo de investigadores desarrolla un vendaje nuevo impreso en 3D para tratar heridas crónicas. Este vendaje moderno mejora la curación de heridas difíciles.",
+      "body_es": "Un equipo científico crea vendajes nuevos con tecnología 3D. Estos vendajes ayudan a curar heridas crónicas más rápidamente. Las heridas crónicas son muy difíciles de curar con métodos tradicionales. El vendaje nuevo tiene propiedades especiales que favorecen la curación. Los investigadores usan materiales modernos para crear estos apósitos. El vendaje 3D puede adaptarse a diferentes formas de heridas. Esta tecnología representa un avance importante en el cuidado de heridas. Los profesionales de la salud pueden usar estos vendajes en pacientes con heridas difíciles. La investigación continúa para mejorar esta tecnología innovadora.",
+      "body_en": "A scientific team creates new bandages with 3D technology. These bandages help heal chronic wounds more quickly. Chronic wounds are very difficult to heal with traditional methods. The new bandage has special properties that promote healing. Researchers use modern materials to create these dressings. The 3D bandage can adapt to different wound shapes. This technology represents an important advance in wound care. Healthcare professionals can use these bandages in patients with difficult wounds. Research continues to improve this innovative technology.",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85YV90YWdUaVhDMDY5Rno2bHpheGh6UW1ZelB6VThBZlBSa0hWckdDeERQOHJKblpaenRZUVlsMm0zWWVVVmV3Vk5RZEhFYUkybkJzbnFHRUY2SUd5bnFkaFUxUVIySXNsUDZleGluU18wQWc2QTVNQk1ENHhVX2s?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-07/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "bandage - material to cover and protect wounds"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanación de una herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se coloca sobre una herida",
+          "definition_en": "dressing - material placed over a wound"
+        }
+      ],
+      "added_at": "2026-03-07T09:10:43.535682Z"
+    },
+    {
+      "id": "diabetic-foot-20250307",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "amber",
+      "headline_es": "El mercado de tratamiento de úlceras de pie diabético crece significativamente",
+      "headline_en": "Diabetic Foot Ulcer Treatment Market Shows Strong Growth",
+      "summary_es": "El mercado global de tratamientos para úlceras de pie diabético experimentará un crecimiento del 6.1% anual hasta 2033. Este aumento refleja la importancia creciente del cuidado de heridas diabéticas.",
+      "body_es": "El mercado internacional de tratamientos para úlceras de pie diabético está en expansión. Los analistas proyectan un crecimiento anual del 6.1% hasta el año 2033. Las úlceras de pie diabético representan una complicación seria en pacientes con diabetes. El cuidado especializado de estas heridas requiere enfoques multidisciplinarios. Los tratamientos modernos incluyen apósitos avanzados, terapia de presión negativa y evaluación vascular. La demanda de soluciones innovadoras aumenta debido a la prevalencia de la diabetes. Los profesionales de enfermería y especialistas en heridas necesitan actualizar sus conocimientos constantemente. Las nuevas tecnologías permiten mejores resultados en la cicatrización de estas úlceras. Este crecimiento del mercado indica inversión continua en investigación y desarrollo de terapias efectivas.",
+      "body_en": "The international market for diabetic foot ulcer treatments is expanding. Analysts project annual growth of 6.1% through 2033. Diabetic foot ulcers represent a serious complication in diabetic patients. Specialized care for these wounds requires multidisciplinary approaches. Modern treatments include advanced dressings, negative pressure therapy, and vascular assessment. The demand for innovative solutions increases due to diabetes prevalence. Nursing professionals and wound care specialists need to continually update their knowledge. New technologies allow better outcomes in ulcer healing. This market growth indicates continuous investment in research and development of effective therapies.",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16dm1GaTJiWWlqWURXWjlhaEFXZEppNkhvcXlWT3RsZmMtZHMxRG5pcWNsLVR6bURPTDROMnRWVm5WOUhCM3VCT2JabVNPWUhVWV9iRFk2eVI4eXRjbDd1ZjhadnNmU3hUSGYwUENZY19KQ1RQeXNfNFBUUmxYUQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-07/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza normalmente",
+          "definition_en": "ulcer - open wound that does not heal normally"
+        },
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación de la diabetes que afecta los pies",
+          "definition_en": "diabetic foot - diabetes complication affecting the feet"
+        },
+        {
+          "word": "apósito avanzado",
+          "definition_es": "vendaje moderno con propiedades terapéuticas especiales",
+          "definition_en": "advanced dressing - modern bandage with special therapeutic properties"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido cicatrizal en heridas",
+          "definition_en": "scarring - process of scar tissue formation in wounds"
+        }
+      ],
+      "added_at": "2026-03-07T09:10:43.535682Z"
+    },
+    {
+      "id": "burn-care-20250307",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Revisión sistemática sobre quemaduras por ácido fluorhídrico: manejo de emergencia",
+      "headline_en": "Systematic Review of Hydrofluoric Acid Burns: Emergency Management Protocols",
+      "summary_es": "Una revisión sistemática examina el tratamiento de emergencia para quemaduras por ácido fluorhídrico y sus complicaciones quirúrgicas. Este estudio proporciona directrices importantes para profesionales de la salud.",
+      "body_es": "Un equipo de investigadores ha realizado una revisión sistemática sobre quemaduras causadas por ácido fluorhídrico. Este ácido es particularmente peligroso y causa quemaduras químicas severas. El manejo de emergencia debe ser rápido y específico para este tipo de lesión. Los profesionales deben conocer los protocolos especiales de tratamiento inmediato. Las quemaduras por ácido fluorhídrico presentan riesgos sistémicos significativos que requieren monitoreo cuidadoso. El tratamiento incluye neutralización del ácido y evaluación de daño profundo. Los seguimientos quirúrgicos son frecuentes debido a las complicaciones locales y sistémicas. La revisión sistemática analiza múltiples casos clínicos y resultados de tratamiento. Este conocimiento es esencial para enfermeras y especialistas que atienden quemaduras químicas.",
+      "body_en": "A team of researchers has conducted a systematic review of burns caused by hydrofluoric acid. This acid is particularly dangerous and causes severe chemical burns. Emergency management must be rapid and specific for this type of injury. Professionals must know special protocols for immediate treatment. Hydrofluoric acid burns present significant systemic risks requiring careful monitoring. Treatment includes acid neutralization and assessment of deep damage. Surgical follow-ups are frequent due to local and systemic complications. The systematic review analyzes multiple clinical cases and treatment outcomes. This knowledge is essential for nurses and specialists treating chemical burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmRuUm1VbFVWZ0xRa01KUmU3WGNyVC1FcTBvcHFQVExjeHFTS3paeVIzV2NIanpVNlhoSmJXZ201cm1CRnFFWDBTUFR5M3JKNGNGMTdVYkNpR0RseGQzSnRENTQ2aUxWZWN3WnNwUlVFcWxORkVkenpNZU9pVVFCVWVxYlU2NVlYT0FPVVloYkpqVEtjZkN1Vklvdm1tOE1ROGhZRm1saTFQMHZpOFI3am41R0ZaUng5TG11aDhlR1REdDhSM2tCMi1UZE5XWUxxek9BdXlDVGJsS3UtTWJv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-07/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura química",
+          "definition_es": "lesión causada por contacto con sustancias químicas corrosivas",
+          "definition_en": "chemical burn - injury caused by contact with corrosive chemicals"
+        },
+        {
+          "word": "ácido fluorhídrico",
+          "definition_es": "ácido muy peligroso que causa quemaduras severas",
+          "definition_en": "hydrofluoric acid - highly dangerous acid causing severe burns"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "removal del tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "neutralización",
+          "definition_es": "proceso de inactivar una sustancia ácida o alcalina",
+          "definition_en": "neutralization - process of inactivating an acidic or alkaline substance"
+        }
+      ],
+      "added_at": "2026-03-07T09:10:43.535682Z"
+    },
+    {
+      "id": "surgical-wounds-20250307",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Infección profunda por Neoscytalidium dimidiatum en pie: amputación del dedo gordo",
+      "headline_en": "Destructive Deep Infection from Neoscytalidium dimidiatum: Great Toe Amputation Case",
+      "summary_es": "Un caso clínico describe una infección destructiva profunda del pie causada por Neoscytalidium dimidiatum que resultó en amputación del dedo gordo. Este caso ilustra complicaciones severas de infecciones micóticas.",
+      "body_es": "Se reporta un caso de infección profunda y destructiva del pie causada por el hongo Neoscytalidium dimidiatum. Este microorganismo causa una enfermedad necrosante que daña tejidos profundos. El paciente presentaba síntomas progresivos que incluían dolor, edema y necrosis tisular. A pesar del tratamiento antimicótico, la infección avanzó significativamente. La evaluación quirúrgica reveló daño extenso que comprometía la viabilidad del dedo gordo. Se realizó amputación como medida necesaria para prevenir propagación de la infección. Este caso demuestra la importancia del diagnóstico temprano de infecciones micóticas. Los profesionales de heridas deben reconocer signos de infecciones fúngicas profundas. El tratamiento requiere coordinación entre especialistas en enfermedades infecciosas y cirujanos.",
+      "body_en": "A case of deep and destructive foot infection caused by Neoscytalidium dimidiatum fungus is reported. This microorganism causes a necrotizing disease that damages deep tissues. The patient presented progressive symptoms including pain, edema, and tissue necrosis. Despite antifungal treatment, the infection advanced significantly. Surgical evaluation revealed extensive damage compromising great toe viability. Amputation was performed as a necessary measure to prevent infection spread. This case demonstrates the importance of early diagnosis of fungal infections. Wound care professionals must recognize signs of deep fungal infections. Treatment requires coordination between infectious disease specialists and surgeons.",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KcWhueFYtX1BFMERGREw1RUZQdDJ6bDdzc1Axc2Rnd0d5NnFGY0k1ZGY5dHlIMHd6bGVZZFZQZVprb0N3LXljZEdWYm9ha0NZakpQMGxubmFhY25xV2poMW9VQUVlSU9MTmtpVmxOZUo?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-07/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección micótica",
+          "definition_es": "infección causada por hongos patógenos",
+          "definition_en": "fungal infection - infection caused by pathogenic fungi"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de células o tejidos vivos",
+          "definition_en": "necrosis - death of living cells or tissues"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción quirúrgica de tejido muerto o infectado",
+          "definition_en": "debridement - surgical removal of dead or infected tissue"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        }
+      ],
+      "added_at": "2026-03-07T09:10:43.535682Z"
+    },
+    {
+      "id": "wound-research-20250307",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "indigo",
+      "headline_es": "Innovación en tecnología quirúrgica robótica para procedimientos avanzados",
+      "headline_en": "Cutting-Edge Surgical Robotics: Advancing Wound Care Procedures",
+      "summary_es": "El Sistema de Salud Lexington VA implementa tecnología quirúrgica robótica de vanguardia para mejorar procedimientos quirúrgicos. Esta innovación transforma la atención de heridas quirúrgicas.",
+      "body_es": "El Sistema de Salud Lexington de Asuntos de Veteranos adopta tecnología quirúrgica robótica moderna. Esta tecnología permite procedimientos más precisos y minimamente invasivos. La robótica quirúrgica reduce el trauma tisular durante las operaciones. Los cirujanos pueden realizar intervenciones con mayor precisión y control. Este sistema beneficia a pacientes al reducir el tiempo de recuperación. Las heridas quirúrgicas se benefician de la técnica menos traumática. La tecnología robótica es especialmente valiosa en procedimientos complejos. Los profesionales de heridas deben entender cómo esta tecnología afecta la cicatrización. La implementación de sistemas robóticos representa un avance significativo en cirugía. Esta innovación mejora los resultados quirúrgicos y la calidad de vida del paciente.",
+      "body_en": "The Lexington VA Health Care System adopts modern surgical robotic technology. This technology enables more precise and minimally invasive procedures. Surgical robotics reduces tissue trauma during operations. Surgeons can perform interventions with greater precision and control. This system benefits patients by reducing recovery time. Surgical wounds benefit from less traumatic technique. Robotic technology is especially valuable in complex procedures. Wound care professionals must understand how this technology affects healing. Implementation of robotic systems represents a significant advance in surgery. This innovation improves surgical outcomes and patient quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0ZYWFJqRFdTOXd6aGVDdDFSME9YdEF5b2k4U0J2amphWmgtOWp4NWIxVWIxaVdiMkFxaTM4MV95Z2JrM2llWlNrTHlxUW5XTDB0VDN5dUZxelJoMkNrem9Cbjl5NkZEa0pPSVdVeWhQZU53Sm8zSlNFYlZQYmRJaEFXVkxHU3dkdzNXTDlnS09HNWdiSGhGLWxkTTFmR2EyVjU1M29SU05DcVlMbGNZZUZiQmpDWC1E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-07/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cirugía robótica",
+          "definition_es": "procedimiento quirúrgico realizado con asistencia de sistemas robóticos",
+          "definition_en": "robotic surgery - surgical procedure performed with robotic assistance"
+        },
+        {
+          "word": "minimamente invasivo",
+          "definition_es": "técnica quirúrgica con incisiones pequeñas y menor trauma",
+          "definition_en": "minimally invasive - surgical technique with small incisions and less trauma"
+        },
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada intencionalmente durante una intervención quirúrgica",
+          "definition_en": "surgical wound - injury intentionally created during surgery"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de curación de heridas",
+          "definition_en": "wound healing - natural process of wound recovery"
+        }
+      ],
+      "added_at": "2026-03-07T09:10:43.535682Z"
+    },
     {
       "id": "chronic-wounds-20250306",
       "category": "Chronic Wounds",
@@ -9621,6 +9806,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-06T09:15:42.080297Z",
+  "last_updated": "2026-03-07T09:10:43.535682Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
