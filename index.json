@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-08",
+      "filename": "spanish_lesson_2026-03-08.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-08.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Político veterano no buscará la reelección después de veinte años",
+          "headline_en": "Veteran politician won't seek reelection after twenty years",
+          "body_es": "Darrell Issa, un político republicano, anunció que no buscará la reelección. Ha trabajado en el Congreso de Estados Unidos por más de veinte años. Issa representa el estado de California en la Cámara de Representantes. Su decisión sorprendió a muchas personas en Washington. Durante su carrera política, Issa participó en muchas investigaciones importantes. También fue presidente de un comité muy influyente. Los expertos dicen que su salida cambiará la política en California. Issa no explicó completamente por qué tomó esta decisión. Algunos piensan que quiere pasar más tiempo con su familia. Su distrito electoral ahora necesitará un nuevo representante. Las próximas elecciones serán muy competitivas en esa zona.",
+          "body_en": "Darrell Issa, a Republican politician, announced he won't seek reelection. He has worked in the US Congress for more than twenty years. Issa represents the state of California in the House of Representatives. His decision surprised many people in Washington. During his political career, Issa participated in many important investigations. He was also chairman of a very influential committee. Experts say his departure will change politics in California. Issa didn't completely explain why he made this decision. Some think he wants to spend more time with his family. His electoral district now needs a new representative. The next elections will be very competitive in that area.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El mercado laboral estadounidense pierde 92,000 empleos en febrero",
+          "headline_en": "US job market loses 92,000 jobs in February",
+          "body_es": "El mercado laboral de Estados Unidos tuvo un mes difícil en febrero. Las empresas despidieron a 92,000 trabajadores durante este período. Esta cifra preocupa a los economistas del país. Muchos sectores perdieron empleos, especialmente la tecnología y las finanzas. El desempleo puede aumentar en los próximos meses si continúa esta tendencia. Los trabajadores jóvenes son los más afectados por estos despidos. Las empresas dicen que necesitan reducir costos para sobrevivir. La inflación y los altos intereses hacen que sea más difícil mantener empleos. El gobierno está estudiando nuevas políticas para ayudar a los desempleados. Los expertos esperan que la situación mejore en el verano. Sin embargo, muchas familias estadounidenses están preocupadas por su futuro económico.",
+          "body_en": "The US job market had a difficult month in February. Companies fired 92,000 workers during this period. This figure worries the country's economists. Many sectors lost jobs, especially technology and finance. Unemployment may increase in the coming months if this trend continues. Young workers are the most affected by these layoffs. Companies say they need to reduce costs to survive. Inflation and high interest rates make it harder to maintain jobs. The government is studying new policies to help the unemployed. Experts hope the situation will improve in the summer. However, many American families are worried about their economic future.",
+          "source": "The Sunday Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Jeff Bezos dice que la burbuja de inteligencia artificial es real pero también la tecnología",
+          "headline_en": "Jeff Bezos says the AI bubble is real but so is the technology",
+          "body_es": "Jeff Bezos, fundador de Amazon, habló sobre la inteligencia artificial en una conferencia reciente. Bezos cree que existe una burbuja económica alrededor de esta tecnología. Sin embargo, también piensa que la inteligencia artificial es muy real e importante. Muchas empresas están invirtiendo millones de dólares en proyectos de IA. Algunas de estas inversiones pueden ser excesivas y peligrosas. Bezos compara la situación actual con la burbuja de internet de los años noventa. En esa época, muchas empresas perdieron dinero, pero internet cambió el mundo. Lo mismo puede pasar con la inteligencia artificial ahora. La tecnología es muy poderosa y útil. Pero los inversores deben ser más cuidadosos con su dinero. Bezos recomienda invertir en empresas serias y con planes realistas.",
+          "body_en": "Jeff Bezos, founder of Amazon, spoke about artificial intelligence at a recent conference. Bezos believes there is an economic bubble around this technology. However, he also thinks artificial intelligence is very real and important. Many companies are investing millions of dollars in AI projects. Some of these investments may be excessive and dangerous. Bezos compares the current situation to the internet bubble of the nineties. At that time, many companies lost money, but the internet changed the world. The same thing can happen with artificial intelligence now. The technology is very powerful and useful. But investors should be more careful with their money. Bezos recommends investing in serious companies with realistic plans.",
+          "source": "AOL.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "reelección",
+          "syllables": "re-e-lec-CIÓN",
+          "pos": "sustantivo",
+          "context": "Darrell Issa no buscará la reelección después de más de veinte años.",
+          "definition_es": "El acto de ser elegido nuevamente para un cargo político",
+          "definition_en": "The act of being elected again to a political office"
+        },
+        {
+          "word": "dimitir",
+          "syllables": "di-mi-TIR",
+          "pos": "verbo",
+          "context": "El político decidió dimitir de su cargo en el Congreso.",
+          "definition_es": "Dejar voluntariamente un trabajo o posición",
+          "definition_en": "To voluntarily leave a job or position"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "des-em-PLE-o",
+          "pos": "sustantivo",
+          "context": "El desempleo aumentó después de los despidos en febrero.",
+          "definition_es": "Situación de las personas que no tienen trabajo",
+          "definition_en": "Situation of people who don't have a job"
+        },
+        {
+          "word": "despedir",
+          "syllables": "des-pe-DIR",
+          "pos": "verbo",
+          "context": "Las empresas despidieron a 92,000 trabajadores en febrero.",
+          "definition_es": "Terminar el empleo de una persona",
+          "definition_en": "To terminate someone's employment"
+        },
+        {
+          "word": "burbuja",
+          "syllables": "bur-BU-ja",
+          "pos": "sustantivo",
+          "context": "Jeff Bezos dice que existe una burbuja en la inteligencia artificial.",
+          "definition_es": "Situación económica con precios muy altos y poco realistas",
+          "definition_en": "Economic situation with very high and unrealistic prices"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La tecnología de inteligencia artificial está creciendo rápidamente.",
+          "definition_es": "Conjunto de conocimientos y técnicas aplicadas científicamente",
+          "definition_en": "Set of knowledge and techniques applied scientifically"
+        },
+        {
+          "word": "fundador",
+          "syllables": "fun-da-DOR",
+          "pos": "sustantivo",
+          "context": "El fundador de Amazon habló sobre inteligencia artificial.",
+          "definition_es": "Persona que crea o establece una empresa u organización",
+          "definition_en": "Person who creates or establishes a company or organization"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado laboral estadounidense tiene problemas este año.",
+          "definition_es": "Lugar donde se compran y venden productos o servicios",
+          "definition_en": "Place where products or services are bought and sold"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reelección'?",
+          "options": [
+            "Elegir por primera vez",
+            "Ser elegido nuevamente",
+            "Dimitir del cargo",
+            "Cambiar de partido"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'despedir' en el contexto laboral?",
+          "options": [
+            "Contratar",
+            "Promover",
+            "Terminar el empleo",
+            "Dar vacaciones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Una 'burbuja' económica es:",
+          "options": [
+            "Una situación con precios realistas",
+            "Una situación con precios muy altos y poco realistas",
+            "Un tipo de tecnología",
+            "Un mercado estable"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'fundador'?",
+          "options": [
+            "Un empleado nuevo",
+            "Una persona que crea una empresa",
+            "Un político",
+            "Un economista"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos años trabajó Darrell Issa en el Congreso?",
+          "options": [
+            "Diez años",
+            "Quince años",
+            "Más de veinte años",
+            "Cinco años"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos trabajadores perdieron su empleo en febrero según la historia económica?",
+          "options": [
+            "82,000",
+            "92,000",
+            "102,000",
+            "72,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores perdieron más empleos según el texto?",
+          "options": [
+            "Agricultura y turismo",
+            "Tecnología y finanzas",
+            "Educación y salud",
+            "Construcción y transporte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa fundó Jeff Bezos?",
+          "options": [
+            "Google",
+            "Microsoft",
+            "Amazon",
+            "Apple"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según Bezos, ¿con qué compara la situación actual de la IA?",
+          "options": [
+            "La crisis de 2008",
+            "La burbuja de internet de los noventa",
+            "La pandemia de COVID-19",
+            "La crisis del petróleo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué estado representa Darrell Issa?",
+          "options": [
+            "Texas",
+            "Nueva York",
+            "Florida",
+            "California"
+          ],
+          "answer": "D"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-08T09:04:57.150218"
+    },
+    {
       "date": "2026-03-07",
       "filename": "spanish_lesson_2026-03-07.pdf",
       "path": "pdfs/spanish_lesson_2026-03-07.pdf",
@@ -20006,7 +20228,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-07T09:04:54.986829",
+  "last_updated": "2026-03-08T09:04:57.150237",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
