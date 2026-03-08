@@ -1,11 +1,159 @@
 {
-  "date": "2026-03-07",
-  "generated_at": "2026-03-07T09:10:43.535682Z",
+  "date": "2026-03-08",
+  "generated_at": "2026-03-08T09:10:24.540963Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 265,
-  "new_today": 5,
+  "total_stories": 269,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250308",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos vendajes impresos en 3D ayudan a curar heridas crónicas",
+      "headline_en": "New 3D-Printed Bandages Help Heal Chronic Wounds",
+      "summary_es": "Un equipo de la Universidad de Mississippi desarrolló vendajes especiales impresos en 3D para tratar heridas crónicas. Esta tecnología nueva puede mejorar la curación de úlceras y lesiones difíciles.",
+      "body_es": "Los investigadores de la Universidad de Mississippi crearon vendajes modernos usando impresoras 3D. Estos vendajes especiales están diseñados para las heridas crónicas que no cierran fácilmente. Los vendajes tradicionales no siempre funcionan bien para todos los pacientes. Los nuevos apósitos pueden adaptarse a cada herida específica. El equipo probó los vendajes en pacientes con úlceras de pierna. Los resultados iniciales son muy positivos. Los vendajes 3D permiten mejor circulación de aire y humedad. Esto acelera el proceso de curación. La tecnología ofrece una solución personalizada para heridas complicadas. Este avance puede cambiar el tratamiento de heridas crónicas en hospitales.",
+      "body_en": "Researchers at the University of Mississippi created modern bandages using 3D printers. These special dressings are designed for chronic wounds that do not close easily. Traditional bandages do not always work well for all patients. The new dressings can adapt to each specific wound. The team tested the bandages in patients with leg ulcers. The initial results are very positive. The 3D bandages allow better air circulation and moisture control. This accelerates the healing process. The technology offers a personalized solution for complicated wounds. This advance can change chronic wound treatment in hospitals.",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdEIyRzhRQ3hJWU1lN3lUenp4VEdpTHN1endpTzFsTlRYLTFLSnZrTXlUc1hEV1ZHLWdVWGFlZEpacGtsVnZrcWtjeV9DLUtWbzdmX3RZUDZwU04yMm9KNF9kUEdHcm0xTDdnUG5id3JUUElrQzAxeDQySTZ3Ym51MVAtWDJJMmRYYnpfYUZRQTVLcm9WeFJEdE5VYWdIdXdWWC1NaFIyTGVnN0ZHVXF4QXE1SVNRWktVeUhzLXZLclowc3gzTVJiVEFRVGR2S1NzVXNrTDRXM3ZvcU5PNVhtWmFabVR6NXV2?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-08/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material estéril para cubrir y proteger heridas",
+          "definition_en": "dressing - sterile material to cover and protect wounds"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cierra fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not close easily"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y cierre de una herida",
+          "definition_en": "healing - process of wound closure and tissue repair"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico para cubrir y tratar heridas",
+          "definition_en": "dressing - medical material to cover and treat wounds"
+        }
+      ],
+      "added_at": "2026-03-08T09:10:24.540963Z"
+    },
+    {
+      "id": "burn-care-20250308",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Membrana de miel de abeja mejora cicatrización en quemaduras graves",
+      "headline_en": "Bee Honey Membrane Improves Healing in Severe Burns",
+      "summary_es": "Un estudio clínico demuestra que la membrana de miel Apis mellifera es efectiva para tratar quemaduras de segundo y tercer grado. Los resultados muestran mejora significativa en la cicatrización de estos pacientes.",
+      "body_es": "Investigadores publicaron un análisis de casos retrospectivo sobre el uso clínico de membranas de miel de abeja en quemaduras graves. El estudio examinó pacientes que sufrieron quemaduras de segundo y tercer grado tratadas con esta terapia. La miel Apis mellifera contiene propiedades antimicrobianas y anti-inflamatorias que promueven la curación. Los pacientes tratados mostraron reducción en tiempo de cicatrización comparado con métodos convencionales. Las membranas de miel aceleraron la epitelización y redujeron el riesgo de infección. Este tratamiento es especialmente útil cuando las áreas quemadas son extensas. Los investigadores concluyeron que este apósito biológico es una opción efectiva para quemaduras severas. La investigación abre nuevas posibilidades para terapias naturales en cuidado de quemaduras.",
+      "body_en": "Researchers published a retrospective case analysis on the clinical use of bee honey membranes in severe burns. The study examined patients who suffered second and third-degree burns treated with this therapy. Apis mellifera honey contains antimicrobial and anti-inflammatory properties that promote healing. Treated patients showed reduced healing time compared to conventional methods. Honey membranes accelerated epithelialization and reduced infection risk. This treatment is especially useful when burned areas are extensive. Researchers concluded that this biological dressing is an effective option for severe burns. The research opens new possibilities for natural therapies in burn care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNEs5b0k3RERCRjRFRENUNFQydC0tMFFJbTdNRzMxeUhYWjlpS1R5STFWRWZnRHEyUC02UTdBal94X0loS1NaLXpJN1NUSHprdS1BRzA2dlF5Y1NZVC1UdDZBVG5jbG1KRVFoV0JQN1pGTFFvQzFMbHhKbUdIckxpNkFRX1JnelpWQkwxc09CUlBGY1ZXMXNvaTJiR1VEcENlT1hncFJCWUI0bTV2YkM4YzVmdEtjcXQ4RnlhWEJiQ1IxcmZtT1RBeEZfOVRyTnJwZ1E3OXViQ1FkNVgtWjNF?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-08/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor o fuego",
+          "definition_en": "burn - injury to skin caused by heat or fire"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo después de una herida",
+          "definition_en": "scarring/healing - process of new tissue formation after injury"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de nuevas células de piel sobre la herida",
+          "definition_en": "epithelialization - growth of new skin cells over the wound"
+        },
+        {
+          "word": "antimicrobiano",
+          "definition_es": "sustancia que mata bacterias y previene infecciones",
+          "definition_en": "antimicrobial - substance that kills bacteria and prevents infections"
+        }
+      ],
+      "added_at": "2026-03-08T09:10:24.540963Z"
+    },
+    {
+      "id": "surgical-wounds-20250308",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Plataforma de IA revoluciona el seguimiento de heridas quirúrgicas",
+      "headline_en": "AI Platform Revolutionizes Post-Surgical Wound Monitoring",
+      "summary_es": "RecovryAI recibió la designación de avance revolucionario de la FDA para su plataforma de inteligencia artificial que monitorea heridas después de cirugía. Esta tecnología ayuda a detectar complicaciones tempranamente.",
+      "body_es": "RecovryAI ha recibido la designación de Avance Revolucionario de la Administración de Alimentos y Medicamentos (FDA). Esta plataforma utiliza inteligencia artificial para monitorear heridas quirúrgicas después de las intervenciones. El sistema analiza imágenes de las heridas para detectar signos tempranos de complicaciones como infección o dehiscencia. Los pacientes pueden usar dispositivos móviles para documentar el progreso de su cicatrización. La tecnología proporciona alertas automáticas a los profesionales sanitarios si identifica problemas. Este enfoque reduce la necesidad de visitas frecuentes al hospital. La plataforma permite intervenciones rápidas cuando se detectan cambios adversos. RecovryAI representa un avance importante en el cuidado postoperatorio y la prevención de complicaciones quirúrgicas.",
+      "body_en": "RecovryAI has received the FDA Breakthrough Designation from the Food and Drug Administration. This platform uses artificial intelligence to monitor surgical wounds after procedures. The system analyzes wound images to detect early signs of complications such as infection or dehiscence. Patients can use mobile devices to document their healing progress. The technology provides automatic alerts to healthcare professionals if it identifies problems. This approach reduces the need for frequent hospital visits. The platform enables rapid intervention when adverse changes are detected. RecovryAI represents an important advance in postoperative care and prevention of surgical complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYk9kSk9lU1NXU0o5aENRLVBaSHhtWVR5Z2doOEVyRDNOMk42SmItcVFxelRMVjhYWm05Q1lsSlZxV1pvTGJYdW5PZEtPeGZ4UkdyaWNTWWFpQzNCVkgyWkZHQ3pkMW1vMjNjSENjWG0xSGdmR25oOXBqVzZXR2FyaWhKWDd0N2c0RWo1aWNSN3NsWXBKeko1MEJmemxlVy1iYXB2dHh4d2t6STM5T2RzeA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-08/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dehiscencia",
+          "definition_es": "reapertura de una herida quirúrgica después del cierre",
+          "definition_en": "dehiscence - reopening of a surgical wound after closure"
+        },
+        {
+          "word": "monitoreo",
+          "definition_es": "observación continua del estado de una herida",
+          "definition_en": "monitoring - continuous observation of wound status"
+        },
+        {
+          "word": "postoperatorio",
+          "definition_es": "período después de una cirugía hasta la recuperación completa",
+          "definition_en": "postoperative - period after surgery until complete recovery"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y curación de una herida quirúrgica",
+          "definition_en": "healing - process of closure and repair of surgical wound"
+        }
+      ],
+      "added_at": "2026-03-08T09:10:24.540963Z"
+    },
+    {
+      "id": "wound-research-20250308",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Simposio de Oncología presenta innovaciones en investigación de heridas y cuidado del paciente",
+      "headline_en": "Oncology Symposium Highlights Innovations in Wound Research and Patient Care",
+      "summary_es": "Un simposio en la Universidad de Pepperdine reunió a investigadores para presentar avances en tratamiento de heridas y cuidado oncológico. Se discutieron nuevas tecnologías y protocolos para mejorar resultados en pacientes con heridas complejas.",
+      "body_es": "La Universidad de Pepperdine organizó un simposio que destacó innovaciones recientes en investigación oncológica y cuidado de heridas. Los investigadores compartieron hallazgos sobre nuevas estrategias de cicatrización para pacientes con heridas complejas derivadas de tratamientos del cáncer. Se presentaron estudios sobre tecnologías emergentes en apósitos y terapias biológicas. Los expertos discutieron cómo los tratamientos modernos pueden acelerar la epitelización en heridas difíciles. También se abordaron protocolos de prevención de infecciones postoperatorias en pacientes oncológicos. Los asistentes aprendieron sobre evaluación clínica de nuevos apósitos antimicrobianos. El simposio enfatizó la importancia de la investigación traslacional para mejorar los resultados del paciente. Estos avances tienen aplicación directa en práctica clínica hospitalaria y atención ambulatoria.",
+      "body_en": "Pepperdine University organized a symposium that highlighted recent innovations in oncology research and wound care. Researchers shared findings on new healing strategies for patients with complex wounds resulting from cancer treatments. Studies were presented on emerging technologies in dressings and biological therapies. Experts discussed how modern treatments can accelerate epithelialization in difficult wounds. Protocols for preventing postoperative infections in oncology patients were also addressed. Attendees learned about clinical evaluation of new antimicrobial dressings. The symposium emphasized the importance of translational research for improving patient outcomes. These advances have direct application in hospital clinical practice and outpatient care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRWlEQTc3LVNrUXlqVGdSM3ZMbnBucXZSQzlHaHpBcUFFN2s0UGFfUWotcU52dGxfYnNNWmlFYXoxRlVqT1lQS255djlJWFZjT2w3Vk1qNXhyWVRaVzZUVmhna1ZCU2pLbWpLTXdId2lNVTJJRXV4THY2bkxFYTFHNVV0MW9XcFR0d3VWNUR1NWNlamoxZTBXc1JHX0hHOHhyc2xjS1BfNmlqcVowYjN6bW5vQ0hRZHA1LU1UaUhPVUtISXE2eU54aGdBbEFKOTZQVjRKNnFpYXl4bVo4Umc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-08/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nuevas células epiteliales sobre la herida",
+          "definition_en": "epithelialization - formation of new epithelial cells over wound"
+        },
+        {
+          "word": "apósito antimicrobiano",
+          "definition_es": "vendaje que contiene sustancias para prevenir infecciones",
+          "definition_en": "antimicrobial dressing - bandage containing substances to prevent infections"
+        },
+        {
+          "word": "investigación traslacional",
+          "definition_es": "investigación que convierte descubrimientos en aplicaciones clínicas",
+          "definition_en": "translational research - research converting discoveries into clinical applications"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "fluido que sale de una herida durante la curación",
+          "definition_en": "exudate - fluid that drains from a wound during healing"
+        }
+      ],
+      "added_at": "2026-03-08T09:10:24.540963Z"
+    },
     {
       "id": "chronic-wounds-20250307",
       "category": "Chronic Wounds",
@@ -9806,6 +9954,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-07T09:10:43.535682Z",
+  "last_updated": "2026-03-08T09:10:24.540963Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
