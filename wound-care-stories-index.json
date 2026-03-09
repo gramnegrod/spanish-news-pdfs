@@ -1,11 +1,122 @@
 {
-  "date": "2026-03-08",
-  "generated_at": "2026-03-08T09:10:24.540963Z",
+  "date": "2026-03-09",
+  "generated_at": "2026-03-09T09:21:05.642928Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 269,
-  "new_today": 4,
+  "total_stories": 272,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250309",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Un equipo de la Universidad de Mississippi crea vendajes impresos en 3D para heridas crónicas",
+      "headline_en": "Ole Miss team develops 3D printed bandages to treat chronic wounds",
+      "summary_es": "Investigadores de la Universidad de Mississippi desarrollan vendajes especiales con tecnología de impresión 3D. Estos vendajes nuevos ayudan a curar heridas crónicas más rápidamente.",
+      "body_es": "Un equipo de científicos en la Universidad de Mississippi trabaja en una solución innovadora. Usan la impresión 3D para crear vendajes especiales. Estos vendajes tratan las heridas crónicas que no cierran fácilmente.\n\nLas heridas crónicas son un problema grave en los hospitales. Los pacientes con diabetes sufren muchas heridas que no sanan bien. Los vendajes tradicionales no son suficientes.\n\nLa tecnología 3D permite crear vendajes personalizados. Cada vendaje se adapta al paciente específico. Los investigadores esperan que estos vendajes mejoren la curación. El tratamiento será más efectivo y rápido para los pacientes con heridas difíciles.",
+      "body_en": "A team of scientists at the University of Mississippi is working on an innovative solution using 3D printing technology to create special bandages. These bandages treat chronic wounds that do not close easily.\n\nChronic wounds are a serious problem in hospitals. Patients with diabetes suffer from many wounds that do not heal well. Traditional dressings are not sufficient.\n\n3D technology allows for the creation of personalized bandages. Each dressing is adapted to the specific patient. Researchers hope these bandages will improve healing. Treatment will be more effective and faster for patients with difficult wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1FyNWtmQkxlaWNCdzVNdG5WcVphSG1yNWpyYzZnb0dMRi11cHV5UF9qengybkVNQ090a0xMSU9vVmprNjptNjIxZUFRRTNobWJNaHdocWszSXdkUVAwcDlVeFFZZTRBQlRNRUc1MmdDY2lzTWg1TUYwbnNfR3QxZVZPTk9IUEFDcDZXRnliTTQ0RVF5dGZOVWVlTHNTWGvSAaIBQVVfeXFMUDFKR0g1MlZrMlYyOHdRRXhUV3oxQVJBV3o3eVNHMVdHS3ZiQzIwVjNRdDZOOVlvY0pXTm00al9pcVFESWktcHZEcTdkRG1LWXlwQTM5RUxlOUZTS2JYNkE1c2plU2hRR2RPUjNUcGRFVWFHSTBHWVhlUVNWdDAwejg1MlJRNUFfVi1aamt5ZGpnWnVkbEJ0VkprRldZUGtJRXdn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-09/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no sana en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y sanación",
+          "definition_en": "healing - process of wound closure and recovery"
+        },
+        {
+          "word": "impresión 3D",
+          "definition_es": "tecnología para crear objetos personalizados",
+          "definition_en": "3D printing - technology to create customized objects"
+        }
+      ],
+      "added_at": "2026-03-09T09:21:05.642928Z"
+    },
+    {
+      "id": "burn-care-20250309",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Revisión sistemática del manejo de quemaduras por ácido fluorhídrico en emergencias",
+      "headline_en": "Hydrofluoric Acid Cutaneous Burns: A Systematic Review of Emergency Management and General Surgical Sequelae",
+      "summary_es": "Un estudio exhaustivo examina el manejo de emergencia de quemaduras causadas por ácido fluorhídrico. La investigación analiza las complicaciones quirúrgicas que pueden resultar de estas quemaduras graves.",
+      "body_es": "Un equipo de investigadores publicó una revisión sistemática importante en la revista Cureus sobre quemaduras por ácido fluorhídrico. Este tipo de quemadura química representa un desafío significativo en medicina de emergencia.\n\nEl ácido fluorhídrico causa daños graves en la piel y los tejidos profundos. Los protocolos de tratamiento inmediato son críticos para prevenir complicaciones sistémicas. El estudio analiza diferentes métodos de manejo en emergencias, incluyendo neutralización química y desbridamiento.\n\nLas secuelas quirúrgicas incluyen cicatrices, contracturas y necesidad de injertos de piel. Los investigadores recomiendan una evaluación completa del paciente para identificar daño sistémico. El tratamiento temprano y adecuado mejora significativamente los resultados clínicos y reduce la morbilidad en estos pacientes con quemaduras químicas severas.",
+      "body_en": "A team of researchers published an important systematic review in the journal Cureus on hydrofluoric acid burns. This type of chemical burn represents a significant challenge in emergency medicine.\n\nHydrofluoric acid causes severe damage to skin and deep tissues. Immediate treatment protocols are critical to prevent systemic complications. The study analyzes different emergency management methods, including chemical neutralization and debridement.\n\nSurgical sequelae include scars, contractures, and need for skin grafting. Researchers recommend complete patient evaluation to identify systemic damage. Early and appropriate treatment significantly improves clinical outcomes and reduces morbidity in these patients with severe chemical burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmRuUm1VbFVWZ0xRa01KUmU3WGNyVC1FcTBvcHFQVExjeHFTS3paeVIzV2NIanpVNlhoSmJXZ201cm1CRnFFWDBTUFR5M3JKNGNGMTdVYkNpR0RseGQzSnRENTQ2aUxWZWN3WnNwUlVFcWxORkVkenpNZU9pVVFCVWVxYlU2NVlYT0FPVVloYkpqVEtjZkN1Vklvdm1tOE1ROGhZRm1saTFQMHZpOFI3am45R0ZaUng5TG11aDhlR1REdDhSM2tCMi1UZE5XWUxxek9BdXlDVGJsS3UtTWJv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-09/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor o químicos",
+          "definition_en": "burn - injury to skin caused by heat or chemicals"
+        },
+        {
+          "word": "ácido fluorhídrico",
+          "definition_es": "sustancia química que causa quemaduras graves",
+          "definition_en": "hydrofluoric acid - chemical substance that causes severe burns"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción de tejido dañado o muerto",
+          "definition_en": "debridement - removal of damaged or dead tissue"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de piel sana para cubrir heridas",
+          "definition_en": "skin graft - transplant of healthy skin to cover wounds"
+        }
+      ],
+      "added_at": "2026-03-09T09:21:05.642928Z"
+    },
+    {
+      "id": "surgical-wounds-20250309",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Anestesia multimodal sin opioides mejora recuperación en cirugía ginecológica oncológica",
+      "headline_en": "Effect of Opioid-Sparing Multimodal Anesthesia Within an Enhanced Recovery After Surgery (ERAS) Protocol on Postoperative Recovery in Gynecologic Oncology Surgery",
+      "summary_es": "Un estudio clínico aleatorizado demuestra que la anestesia multimodal sin opioides mejora significativamente la recuperación postoperatoria. Los pacientes de cirugía oncológica ginecológica presentan menos complicaciones en heridas quirúrgicas.",
+      "body_es": "Investigadores publicaron un ensayo clínico aleatorizado en Cureus examinando protocolos de recuperación mejorada después de cirugía (ERAS) en oncología ginecológica. El estudio compara la anestesia multimodal que evita opioides con métodos tradicionales.\n\nLa anestesia multimodal utiliza múltiples medicamentos para controlar el dolor sin dependencia de opioides. Este enfoque reduce náuseas, mejora la movilidad temprana y disminuye complicaciones de heridas.\n\nLos pacientes que reciben anestesia sin opioides presentan mejor cicatrización de heridas quirúrgicas. La recuperación es más rápida y los pacientes pueden reanudar actividades normales antes. El protocolo ERAS incluye evaluación preoperatoria completa, anestesia optimizada y cuidados postoperatorios estructurados. Estos resultados demuestran que los protocolos mejorados ofrecen beneficios significativos en la recuperación quirúrgica.",
+      "body_en": "Researchers published a randomized clinical trial in Cureus examining Enhanced Recovery After Surgery (ERAS) protocols in gynecologic oncology. The study compares multimodal anesthesia that avoids opioids with traditional methods.\n\nMultimodal anesthesia uses multiple medications to control pain without opioid dependence. This approach reduces nausea, improves early mobility, and decreases wound complications.\n\nPatients receiving opioid-free anesthesia show better surgical wound healing. Recovery is faster and patients can resume normal activities sooner. The ERAS protocol includes complete preoperative evaluation, optimized anesthesia, and structured postoperative care. These results demonstrate that improved protocols offer significant benefits in surgical recovery.",
+      "source_url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOMk1oa1NlX1lWV2xRQTg2Zl9teWhJYllZWjZzVDUxbDZjOG8yNWY1UzBOb0NZY3Q4UFFsMnFZSmwxd2xMUHpYeWplZnAxdFFjTFItVERnRDdaMEJPbjRfRGNhalZHMkNZQ3lFeVBhN1hyajd0WWZBRXpwZW9JempmZHlkSVl3YlZodXQzTGQ1cU5EVFFJOFFhZXFsNEdOQWNjQ1dqb0otTjl3MWdXZm1mWm1rWTdMZkZrbUlqRkVKN3VSMFdZaWNjUkdsN0k3MXNVUXNvT2EwcVZGR1pFQzVVZEx1ZEZVVlNrbi1FbFJQTTJlcUdlXzhjZ21SQV9rU3pvc1dpaHVYeXh1eUhSeWFjbkN6RnFBY25BTWVfMEYtRWRUZFhyVF9pUUVoR096T2hzbnFDd3oxZ3ZqTEdRRXpGalFWWWxIVVNNSnFV?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-09/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada por incisión durante cirugía",
+          "definition_en": "surgical wound - injury created by incision during surgery"
+        },
+        {
+          "word": "anestesia multimodal",
+          "definition_es": "uso de múltiples medicamentos para controlar dolor",
+          "definition_en": "multimodal anesthesia - use of multiple medications to control pain"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo en herida",
+          "definition_en": "wound healing - process of new tissue formation in wound"
+        },
+        {
+          "word": "protocolo ERAS",
+          "definition_es": "recuperación mejorada después de cirugía",
+          "definition_en": "ERAS protocol - Enhanced Recovery After Surgery"
+        }
+      ],
+      "added_at": "2026-03-09T09:21:05.642928Z"
+    },
     {
       "id": "chronic-wounds-20250308",
       "category": "Chronic Wounds",
@@ -9954,6 +10065,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-08T09:10:24.540963Z",
+  "last_updated": "2026-03-09T09:21:05.642928Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
