@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-09",
+      "filename": "spanish_lesson_2026-03-09.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-09.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Colombianos votan por nuevo Congreso y candidatos presidenciales",
+          "headline_en": "Colombians vote for new Congress and presidential candidates",
+          "body_es": "Los ciudadanos colombianos fueron a votar en unas elecciones muy importantes. Eligieron nuevos miembros del Congreso nacional. También seleccionaron candidatos para las elecciones presidenciales que van a ocurrir más tarde. Millones de personas participaron en este proceso democrático. Las votaciones se realizaron en todo el país de manera pacífica. Los resultados van a determinar el futuro político de Colombia. Los candidatos presidenciales ahora van a preparar sus campañas. El nuevo Congreso va a tomar decisiones importantes para el país. Este día electoral fue muy significativo para la democracia colombiana. Los ciudadanos mostraron su compromiso con el proceso democrático al participar activamente en las elecciones.",
+          "body_en": "Colombian citizens went to vote in very important elections. They elected new members of the national Congress. They also selected candidates for presidential elections that will happen later. Millions of people participated in this democratic process. The voting took place throughout the country peacefully. The results will determine Colombia's political future. Presidential candidates will now prepare their campaigns. The new Congress will make important decisions for the country. This election day was very significant for Colombian democracy. Citizens showed their commitment to the democratic process by actively participating in the elections.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Bolsa japonesa cae 7% mientras el petróleo supera los 115 dólares",
+          "headline_en": "Japanese stock market falls 7% while oil exceeds 115 dollars",
+          "body_es": "La bolsa de valores de Japón, llamada Nikkei 225, tuvo una caída muy fuerte. Las acciones bajaron un 7% en un solo día. Esta situación preocupa mucho a los inversores japoneses. Al mismo tiempo, el precio del petróleo subió mucho. Ahora cuesta más de 115 dólares por barril. Este aumento del petróleo afecta la economía mundial. Las empresas tienen que pagar más por la energía. Los consumidores también van a sentir estos cambios en los precios. La situación económica global está muy inestable. Los expertos dicen que esta crisis puede continuar por varios meses. Muchos países están preocupados por estos cambios económicos tan rápidos y significativos.",
+          "body_en": "Japan's stock market, called Nikkei 225, had a very strong fall. Stocks dropped 7% in a single day. This situation greatly worries Japanese investors. At the same time, oil prices rose significantly. Now it costs more than 115 dollars per barrel. This oil increase affects the global economy. Companies have to pay more for energy. Consumers will also feel these price changes. The global economic situation is very unstable. Experts say this crisis may continue for several months. Many countries are worried about these rapid and significant economic changes.",
+          "source": "The Japan Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas gastan 700 mil millones en centros de inteligencia artificial",
+          "headline_en": "Tech companies spend 700 billion on artificial intelligence centers",
+          "body_es": "Las empresas de tecnología están gastando una cantidad de dinero sin precedente este año. Van a invertir 700 mil millones de dólares en centros de datos para inteligencia artificial. Esta inversión es la más grande de la historia tecnológica. Jensen Huang, el líder de Nvidia, dice que esto es solo el comienzo. Según él, todavía no hemos llegado al punto máximo de inversión. Los centros de datos son necesarios para hacer funcionar la inteligencia artificial. Estas máquinas necesitan mucha energía y espacio. La inteligencia artificial está cambiando muchas industrias. Las empresas creen que esta tecnología va a generar muchos beneficios económicos. Esta inversión masiva muestra la importancia del futuro tecnológico para las grandes corporaciones mundiales.",
+          "body_en": "Technology companies are spending an unprecedented amount of money this year. They will invest 700 billion dollars in data centers for artificial intelligence. This investment is the largest in technological history. Jensen Huang, Nvidia's leader, says this is just the beginning. According to him, we haven't reached the maximum investment point yet. Data centers are necessary to run artificial intelligence. These machines need a lot of energy and space. Artificial intelligence is changing many industries. Companies believe this technology will generate many economic benefits. This massive investment shows the importance of the technological future for large global corporations.",
+          "source": "AOL.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "elecciones",
+          "syllables": "e-lec-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Los colombianos fueron a votar en las elecciones presidenciales.",
+          "definition_es": "Proceso donde los ciudadanos votan para elegir representantes",
+          "definition_en": "Elections - process where citizens vote to choose representatives"
+        },
+        {
+          "word": "candidatos",
+          "syllables": "can-di-DA-tos",
+          "pos": "sustantivo",
+          "context": "Los candidatos presidenciales participaron en el debate.",
+          "definition_es": "Personas que se presentan para ser elegidas en un cargo",
+          "definition_en": "Candidates - people running for elected office"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones de la bolsa japonesa bajaron mucho.",
+          "definition_es": "Partes de una empresa que se compran y venden en el mercado",
+          "definition_en": "Stocks - shares of a company bought and sold in the market"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo subió a más de 115 dólares.",
+          "definition_es": "Líquido negro que se usa para hacer combustible",
+          "definition_en": "Oil - black liquid used to make fuel"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas invierten mucho dinero en inteligencia artificial.",
+          "definition_es": "Organizaciones que hacen negocios para ganar dinero",
+          "definition_en": "Companies - organizations that do business to make money"
+        },
+        {
+          "word": "invertir",
+          "syllables": "in-ver-TIR",
+          "pos": "verbo",
+          "context": "Las compañías van a invertir 700 mil millones de dólares.",
+          "definition_es": "Usar dinero para comprar algo que puede dar beneficios",
+          "definition_en": "To invest - to use money to buy something that may bring benefits"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tech-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología de inteligencia artificial está cambiando el mundo.",
+          "definition_es": "Conocimiento científico aplicado para crear máquinas y sistemas",
+          "definition_en": "Technology - scientific knowledge applied to create machines and systems"
+        },
+        {
+          "word": "precedente",
+          "syllables": "pre-ce-DEN-te",
+          "pos": "adjetivo",
+          "context": "Esta inversión no tiene precedente en la historia.",
+          "definition_es": "Algo que nunca había pasado antes",
+          "definition_en": "Unprecedented - something that has never happened before"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'candidatos'?",
+          "options": [
+            "Personas que votan en elecciones",
+            "Personas que se presentan para ser elegidas",
+            "Personas que cuentan los votos",
+            "Personas que organizan elecciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'acciones' en contexto económico?",
+          "options": [
+            "Actividades que hace una persona",
+            "Partes de una empresa que se compran y venden",
+            "Decisiones del gobierno",
+            "Movimientos físicos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'invertir' dinero?",
+          "options": [
+            "Gastar dinero rápidamente",
+            "Ahorrar dinero en el banco",
+            "Usar dinero para obtener beneficios futuros",
+            "Cambiar dinero por otra moneda"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué quiere decir 'sin precedente'?",
+          "options": [
+            "Muy caro",
+            "Muy importante",
+            "Que nunca había pasado antes",
+            "Que pasa frecuentemente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué eligieron los colombianos en las elecciones?",
+          "options": [
+            "Solo presidente",
+            "Solo congresistas",
+            "Congresistas y candidatos presidenciales",
+            "Solo alcaldes"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto bajó la bolsa japonesa Nikkei 225?",
+          "options": [
+            "5%",
+            "6%",
+            "7%",
+            "8%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el precio actual del petróleo según el texto?",
+          "options": [
+            "Menos de 100 dólares",
+            "Exactamente 115 dólares",
+            "Más de 115 dólares",
+            "110 dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto van a invertir las empresas tecnológicas este año?",
+          "options": [
+            "600 mil millones",
+            "700 mil millones",
+            "800 mil millones",
+            "500 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Quién es Jensen Huang según el texto?",
+          "options": [
+            "Presidente de Colombia",
+            "Líder de Nvidia",
+            "Economista japonés",
+            "Ministro de tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Para qué van a usar el dinero las empresas tecnológicas?",
+          "options": [
+            "Para comprar petróleo",
+            "Para centros de inteligencia artificial",
+            "Para elecciones",
+            "Para la bolsa de valores"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-09T09:12:56.562527"
+    },
+    {
       "date": "2026-03-08",
       "filename": "spanish_lesson_2026-03-08.pdf",
       "path": "pdfs/spanish_lesson_2026-03-08.pdf",
@@ -20228,7 +20450,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-08T09:04:57.150237",
+  "last_updated": "2026-03-09T09:12:56.562545",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
