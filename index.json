@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-10",
+      "filename": "spanish_lesson_2026-03-10.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-10.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Cierre parcial del gobierno afecta la seguridad nacional",
+          "headline_en": "Partial government shutdown affects national security",
+          "body_es": "Estados Unidos está viviendo un cierre parcial del gobierno que ha afectado al Departamento de Seguridad Nacional. Este cierre significa que algunos servicios gubernamentales no funcionan normalmente. Los empleados esenciales siguen trabajando, pero sin recibir su salario completo. El Departamento de Seguridad Nacional es responsable de proteger las fronteras del país y mantener la seguridad en los aeropuertos. Durante el cierre, algunos servicios pueden ser más lentos. Los políticos están negociando para resolver esta situación. Mientras tanto, muchos ciudadanos están preocupados por los efectos en la seguridad nacional. El cierre también afecta a miles de trabajadores federales y sus familias en todo el país.",
+          "body_en": "The United States is experiencing a partial government shutdown that has affected the Department of Homeland Security. This shutdown means that some government services are not functioning normally. Essential employees continue working, but without receiving their full salary. The Department of Homeland Security is responsible for protecting the country's borders and maintaining airport security. During the shutdown, some services may be slower. Politicians are negotiating to resolve this situation. Meanwhile, many citizens are concerned about the effects on national security. The shutdown also affects thousands of federal workers and their families across the country.",
+          "source": "KRDO"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Aumentan las probabilidades de recesión tras subida del petróleo",
+          "headline_en": "Recession odds increase after oil price rise",
+          "body_es": "Las probabilidades de una recesión económica han aumentado después de que el precio del petróleo superara los 100 dólares por barril. Esta información viene de Kalshi, una plataforma que predice eventos futuros. Cuando el petróleo es más caro, muchos productos también se vuelven más caros. Esto afecta a las empresas y a los consumidores. Los economistas están observando esta situación con atención. El alto precio del petróleo puede causar inflación, que significa que todo cuesta más dinero. Las empresas pueden reducir su producción y despedir trabajadores. Los inversores están nerviosos porque una recesión significa menos ganancias. Los gobiernos pueden tomar medidas para proteger sus economías durante estos momentos difíciles.",
+          "body_en": "The odds of an economic recession have increased after oil prices exceeded $100 per barrel. This information comes from Kalshi, a platform that predicts future events. When oil is more expensive, many products also become more expensive. This affects businesses and consumers. Economists are watching this situation carefully. High oil prices can cause inflation, which means everything costs more money. Companies may reduce their production and lay off workers. Investors are nervous because a recession means fewer profits. Governments can take measures to protect their economies during these difficult times.",
+          "source": "CNBC"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El Pentágono prohíbe la inteligencia artificial que antes prefería",
+          "headline_en": "Pentagon bans the artificial intelligence it previously preferred",
+          "body_es": "Anthropic era la empresa favorita del Pentágono para proyectos de inteligencia artificial. Sin embargo, ahora esta tecnología está prohibida para uso militar. El Pentágono es el centro del ejército estadounidense. Los expertos están preocupados por este cambio repentino en la política tecnológica. La inteligencia artificial puede ayudar en muchas tareas militares, como analizar información y tomar decisiones rápidas. Pero también existe el riesgo de que esta tecnología sea peligrosa si no se controla bien. Algunos especialistas piensan que prohibir esta IA puede poner a Estados Unidos en desventaja frente a otros países. La decisión muestra lo difícil que es equilibrar la innovación tecnológica con la seguridad nacional en el mundo moderno.",
+          "body_en": "Anthropic was the Pentagon's favorite company for artificial intelligence projects. However, now this technology is banned for military use. The Pentagon is the center of the US military. Experts are concerned about this sudden change in technology policy. Artificial intelligence can help with many military tasks, such as analyzing information and making quick decisions. But there is also the risk that this technology could be dangerous if not properly controlled. Some specialists think that banning this AI could put the United States at a disadvantage compared to other countries. The decision shows how difficult it is to balance technological innovation with national security in the modern world.",
+          "source": "CNBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre parcial del gobierno afecta al Departamento de Seguridad Nacional.",
+          "definition_es": "Acción de cerrar o suspender las actividades de una institución",
+          "definition_en": "The act of closing or shutting down an institution"
+        },
+        {
+          "word": "parcial",
+          "syllables": "par-CIAL",
+          "pos": "adjetivo",
+          "context": "Un cierre parcial ha afectado al Departamento de Seguridad Nacional.",
+          "definition_es": "Que no es completo, solo una parte",
+          "definition_en": "Not complete, only a part"
+        },
+        {
+          "word": "recesión",
+          "syllables": "re-ce-SIÓN",
+          "pos": "sustantivo",
+          "context": "Las probabilidades de recesión aumentan cuando el petróleo sube de precio.",
+          "definition_es": "Período de reducción de la actividad económica",
+          "definition_en": "Period of reduced economic activity"
+        },
+        {
+          "word": "probabilidades",
+          "syllables": "pro-ba-bi-li-DA-des",
+          "pos": "sustantivo",
+          "context": "Las probabilidades de recesión han aumentado después del aumento del petróleo.",
+          "definition_es": "Posibilidades de que algo ocurra",
+          "definition_en": "Chances that something will happen"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-leo",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo ha superado los 100 dólares por barril.",
+          "definition_es": "Líquido natural que se usa como combustible",
+          "definition_en": "Natural liquid used as fuel"
+        },
+        {
+          "word": "prohibir",
+          "syllables": "pro-hi-BIR",
+          "pos": "verbo",
+          "context": "El Pentágono decidió prohibir el uso de esta tecnología de inteligencia artificial.",
+          "definition_es": "No permitir algo, hacer que algo sea ilegal",
+          "definition_en": "To not allow something, to make something illegal"
+        },
+        {
+          "word": "expertos",
+          "syllables": "ex-PER-tos",
+          "pos": "sustantivo",
+          "context": "Los expertos están preocupados por la decisión del Pentágono.",
+          "definition_es": "Personas con mucho conocimiento en un tema específico",
+          "definition_en": "People with extensive knowledge in a specific subject"
+        },
+        {
+          "word": "preocupados",
+          "syllables": "pre-o-cu-PA-dos",
+          "pos": "adjetivo",
+          "context": "Los expertos están preocupados por los cambios en la política tecnológica.",
+          "definition_es": "Que sienten inquietud o ansiedad por algo",
+          "definition_en": "Feeling worry or anxiety about something"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'cierre' en el contexto gubernamental?",
+          "options": [
+            "Abrir una oficina",
+            "Suspender las actividades",
+            "Construir un edificio",
+            "Contratar empleados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'probabilidades'?",
+          "options": [
+            "Certezas absolutas",
+            "Posibilidades de que algo ocurra",
+            "Decisiones finales",
+            "Problemas matemáticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'prohibir'?",
+          "options": [
+            "Permitir algo",
+            "No permitir algo",
+            "Recomendar algo",
+            "Ignorar algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Quiénes son los 'expertos'?",
+          "options": [
+            "Personas sin conocimiento",
+            "Personas con mucho conocimiento específico",
+            "Políticos jóvenes",
+            "Estudiantes principiantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué departamento se vio afectado por el cierre?",
+          "options": [
+            "Departamento de Educación",
+            "Departamento de Seguridad Nacional",
+            "Departamento de Agricultura",
+            "Departamento de Transporte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué precio superó el petróleo según la historia económica?",
+          "options": [
+            "50 dólares",
+            "75 dólares",
+            "100 dólares",
+            "125 dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuál era la empresa favorita del Pentágono para IA?",
+          "options": [
+            "Google",
+            "Microsoft",
+            "Anthropic",
+            "Apple"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué puede causar el alto precio del petróleo?",
+          "options": [
+            "Deflación",
+            "Inflación",
+            "Estabilidad económica",
+            "Reducción de precios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Durante el cierre gubernamental, ¿quiénes siguen trabajando?",
+          "options": [
+            "Todos los empleados",
+            "Ningún empleado",
+            "Solo los empleados esenciales",
+            "Solo los políticos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué están preocupados los expertos sobre la prohibición de IA?",
+          "options": [
+            "Porque la IA es muy cara",
+            "Porque puede poner a EE.UU. en desventaja",
+            "Porque la IA es muy lenta",
+            "Porque no entienden la tecnología"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-10T09:12:07.821596"
+    },
+    {
       "date": "2026-03-09",
       "filename": "spanish_lesson_2026-03-09.pdf",
       "path": "pdfs/spanish_lesson_2026-03-09.pdf",
@@ -20450,7 +20672,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-09T09:12:56.562545",
+  "last_updated": "2026-03-10T09:12:07.821614",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
