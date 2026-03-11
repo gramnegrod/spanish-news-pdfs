@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-11",
+      "filename": "spanish_lesson_2026-03-11.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-11.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Senado de Estados Unidos permite usar ChatGPT en el trabajo oficial",
+          "headline_en": "US Senate allows use of ChatGPT in official work",
+          "body_es": "El Senado de Estados Unidos aprobó el uso oficial de ChatGPT y otros chatbots de inteligencia artificial. Los senadores ahora pueden usar estas herramientas tecnológicas para ayudar en su trabajo diario. Esta decisión marca un cambio importante en la forma como el gobierno usa la tecnología moderna. Los chatbots pueden responder preguntas rápidamente y ayudar con tareas básicas. Sin embargo, los senadores deben seguir reglas especiales cuando usan esta tecnología. No pueden compartir información secreta con los chatbots. Esta nueva política muestra que el gobierno estadounidense está adaptándose a los avances tecnológicos. Muchos otros países también están considerando usar inteligencia artificial en sus gobiernos.",
+          "body_en": "The US Senate approved the official use of ChatGPT and other artificial intelligence chatbots. Senators can now use these technological tools to help with their daily work. This decision marks an important change in how the government uses modern technology. Chatbots can answer questions quickly and help with basic tasks. However, senators must follow special rules when using this technology. They cannot share secret information with chatbots. This new policy shows that the US government is adapting to technological advances. Many other countries are also considering using artificial intelligence in their governments.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El precio del petróleo sube y las acciones bajan por problemas de empleo",
+          "headline_en": "Oil prices rise and stocks fall due to employment problems",
+          "body_es": "El precio del petróleo subió a su nivel más alto desde 2023. Al mismo tiempo, las acciones en la bolsa de valores bajaron significativamente. Estos cambios ocurrieron después de recibir malas noticias sobre el empleo en Estados Unidos. Los datos mostraron que menos personas encontraron trabajo el mes pasado. Cuando hay problemas con el empleo, los inversionistas se preocupan por la economía. Por eso vendieron muchas acciones y los precios bajaron. El petróleo subió porque los países productores decidieron producir menos. Esta combinación de eventos creó nerviosismo en los mercados financieros. Los expertos están observando cuidadosamente la situación económica. Esperan ver si estas tendencias continúan en las próximas semanas.",
+          "body_en": "Oil prices rose to their highest level since 2023. At the same time, stocks in the stock market fell significantly. These changes occurred after receiving bad news about employment in the United States. The data showed that fewer people found jobs last month. When there are employment problems, investors worry about the economy. That's why they sold many stocks and prices fell. Oil rose because producing countries decided to produce less. This combination of events created nervousness in financial markets. Experts are carefully watching the economic situation. They hope to see if these trends continue in the coming weeks.",
+          "source": "WFMZ.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas prometen proteger a consumidores de costos de electricidad",
+          "headline_en": "Tech companies promise to protect consumers from electricity costs",
+          "body_es": "La Casa Blanca y grandes empresas tecnológicas firmaron un acuerdo importante. Se comprometieron a proteger a los consumidores de costos extra de electricidad. Estos costos vienen de los centros de datos que usan inteligencia artificial. Los centros de datos necesitan mucha electricidad para funcionar. Sin este acuerdo, los ciudadanos comunes podrían pagar facturas de luz más altas. Las empresas como Google, Microsoft y Amazon participaron en esta promesa. Ellas construirán sus propias plantas de energía o usarán energía renovable. De esta manera, no aumentarán la demanda de electricidad pública. El gobierno quiere que la tecnología avance sin afectar negativamente a las familias. Este tipo de acuerdos muestra cooperación entre el gobierno y las empresas privadas.",
+          "body_en": "The White House and major tech companies signed an important agreement. They committed to protecting consumers from extra electricity costs. These costs come from data centers that use artificial intelligence. Data centers need a lot of electricity to function. Without this agreement, regular citizens could pay higher electricity bills. Companies like Google, Microsoft and Amazon participated in this promise. They will build their own power plants or use renewable energy. This way, they won't increase demand for public electricity. The government wants technology to advance without negatively affecting families. These types of agreements show cooperation between government and private companies.",
+          "source": "ConstructConnect News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "chatbot",
+          "syllables": "chat-bot",
+          "pos": "sustantivo",
+          "context": "El Senado de Estados Unidos aprobó el uso oficial de ChatGPT y otros chatbots.",
+          "definition_es": "Programa de computadora que puede mantener conversaciones con personas",
+          "definition_en": "Computer program that can have conversations with people"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El Senado aprobó el uso de inteligencia artificial en el trabajo oficial.",
+          "definition_es": "Dar permiso oficial para hacer algo",
+          "definition_en": "To give official permission to do something"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo subió a su nivel más alto desde 2023.",
+          "definition_es": "Líquido negro que se usa para hacer gasolina y energía",
+          "definition_en": "Black liquid used to make gasoline and energy"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones de la bolsa bajaron después de las malas noticias económicas.",
+          "definition_es": "Partes de una empresa que la gente puede comprar y vender",
+          "definition_en": "Parts of a company that people can buy and sell"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Los datos del empleo estadounidense fueron peores de lo esperado.",
+          "definition_es": "Trabajo que una persona hace para ganar dinero",
+          "definition_en": "Work that a person does to earn money"
+        },
+        {
+          "word": "comprometerse",
+          "syllables": "com-pro-me-TER-se",
+          "pos": "verbo",
+          "context": "Las empresas tecnológicas se comprometieron a proteger a los consumidores.",
+          "definition_es": "Prometer hacer algo importante",
+          "definition_en": "To promise to do something important"
+        },
+        {
+          "word": "proteger",
+          "syllables": "pro-te-GER",
+          "pos": "verbo",
+          "context": "La Casa Blanca quiere proteger a los ciudadanos de costos extra de electricidad.",
+          "definition_es": "Mantener seguro a alguien o algo",
+          "definition_en": "To keep someone or something safe"
+        },
+        {
+          "word": "consumidores",
+          "syllables": "con-su-mi-DO-res",
+          "pos": "sustantivo",
+          "context": "Los consumidores no pagarán más por la electricidad que usan los centros de datos.",
+          "definition_es": "Personas que compran y usan productos o servicios",
+          "definition_en": "People who buy and use products or services"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'chatbot'?",
+          "options": [
+            "Un tipo de teléfono móvil",
+            "Un programa que puede conversar con personas",
+            "Una aplicación de música",
+            "Un juego de computadora"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'aprobar' en el contexto político?",
+          "options": [
+            "Rechazar una propuesta",
+            "Dar permiso oficial",
+            "Estudiar un documento",
+            "Escribir una ley"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en el contexto económico?",
+          "options": [
+            "Movimientos físicos",
+            "Partes de una empresa que se pueden comprar",
+            "Decisiones del gobierno",
+            "Tipos de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'comprometerse'?",
+          "options": [
+            "Casarse con alguien",
+            "Prometer hacer algo importante",
+            "Comprar algo caro",
+            "Terminar un trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia sobre el Senado, ¿qué NO pueden hacer los senadores con los chatbots?",
+          "options": [
+            "Usarlos para trabajo diario",
+            "Hacer preguntas rápidas",
+            "Compartir información secreta",
+            "Seguir reglas especiales"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué bajaron las acciones según la historia económica?",
+          "options": [
+            "Porque subió el petróleo",
+            "Por problemas de empleo",
+            "Porque los países produjeron más petróleo",
+            "Por decisiones del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuál fue el nivel más alto del petróleo mencionado en la historia?",
+          "options": [
+            "Desde 2022",
+            "Desde 2023",
+            "Desde 2024",
+            "Desde 2021"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas participaron en el acuerdo con la Casa Blanca?",
+          "options": [
+            "Apple, Facebook y Twitter",
+            "Google, Microsoft y Amazon",
+            "Netflix, Spotify y Uber",
+            "Tesla, Ford y General Motors"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cómo planean las empresas tecnológicas evitar costos extra para los consumidores?",
+          "options": [
+            "Reduciendo el uso de inteligencia artificial",
+            "Construyendo sus propias plantas de energía",
+            "Cerrando los centros de datos",
+            "Aumentando los precios de sus productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué muestran estos acuerdos entre el gobierno y las empresas?",
+          "options": [
+            "Competencia económica",
+            "Problemas legales",
+            "Cooperación mutua",
+            "Conflictos políticos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-11T09:11:49.612632"
+    },
+    {
       "date": "2026-03-10",
       "filename": "spanish_lesson_2026-03-10.pdf",
       "path": "pdfs/spanish_lesson_2026-03-10.pdf",
@@ -20672,7 +20894,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-10T09:12:07.821614",
+  "last_updated": "2026-03-11T09:11:49.612655",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
