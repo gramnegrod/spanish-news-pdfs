@@ -1,11 +1,159 @@
 {
-  "date": "2026-03-11",
-  "generated_at": "2026-03-11T09:18:48.179037Z",
+  "date": "2026-03-12",
+  "generated_at": "2026-03-12T09:22:18.788506Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 280,
+  "total_stories": 284,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250312",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Tratar Heridas Crónicas: Un Enfoque Nuevo y Efectivo",
+      "headline_en": "Treating Chronic Wounds: A New and Effective Approach",
+      "summary_es": "Los médicos ahora utilizan un nuevo método para tratar heridas crónicas. Este enfoque mejora la curación y reduce el tiempo de tratamiento.",
+      "body_es": "Las heridas crónicas son lesiones que no cierran rápidamente. Los expertos recomiendan un enfoque diferente para el tratamiento. Deben considerar cada herida como un proyecto importante. Es necesario evaluar el sitio de la herida cuidadosamente. Los médicos examinan la piel, el tejido y el exudado. Este método nuevo es similar a evaluar una propiedad inmobiliaria. Los profesionales sanitarios miden la herida y observan la granulación. Documentan los cambios en cada visita. El apósito correcto es muy importante para la curación. Este enfoque integral mejora los resultados del paciente.",
+      "body_en": "Chronic wounds are injuries that do not close quickly. Experts recommend a different approach to treatment. Each wound site should be considered carefully. Healthcare providers must examine the skin, tissue, and exudate. This new method is similar to evaluating real estate property. Professionals measure the wound and observe granulation. They document changes at each visit. The correct dressing is very important for healing. This comprehensive approach improves patient outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTNudG4tdEV4Q2taNWludjFielhIR3J5VWhqN3FnNndfM0h1ZW1QMmJkZ0xVS1RBcGgtOThmaXViYXBEQUl5dWZuNEFaR2tWQTJJZ09qMnBISmZHeldyZDd3bURhSGw5T1JVd1pNOEF4clhUTTllOTRwSTJVcEFrT1d2bXBYNjNQLUJRSkdGcGVaMDlzV2lpN21Nd1VGRFpPWUctdldqUk5nQ3hCX3Z5dVUzazE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-12/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that drains from a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido nuevo que se forma durante la curación",
+          "definition_en": "granulation - new tissue that forms during healing"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "vendaje o material para cubrir heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        }
+      ],
+      "added_at": "2026-03-12T09:22:18.788506Z"
+    },
+    {
+      "id": "burn-care-20250312",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Manejo de Quemaduras por Ácido Fluorhídrico: Protocolo de Emergencia",
+      "headline_en": "Management of Hydrofluoric Acid Burns: Emergency Protocol",
+      "summary_es": "Un nuevo estudio sistemático revisa el manejo de emergencia de quemaduras por ácido fluorhídrico. Los protocolos de atención inmediata son críticos para prevenir complicaciones graves.",
+      "body_es": "Las quemaduras por ácido fluorhídrico son lesiones químicas graves que requieren atención de emergencia inmediata. Según una revisión sistemática publicada en Cureus, el manejo correcto en la fase inicial es esencial para prevenir daño tisular profundo. Los profesionales sanitarios deben evaluar la profundidad de la quemadura y la extensión del área afectada. El tratamiento incluye irrigación abundante, neutralización del ácido, y evaluación de complicaciones sistémicas. Las secuelas quirúrgicas pueden incluir necrosis tisular, infección, y necesidad de desbridamiento. El personal de cirugía general debe estar preparado para intervenciones quirúrgicas si hay daño profundo. La documentación cuidadosa y el seguimiento médico prolongado son fundamentales para la recuperación del paciente.",
+      "body_en": "Hydrofluoric acid burns are severe chemical injuries requiring immediate emergency care. According to a systematic review published in Cureus, correct management in the initial phase is essential to prevent deep tissue damage. Healthcare professionals must assess burn depth and affected area extension. Treatment includes abundant irrigation, acid neutralization, and evaluation of systemic complications. Surgical sequelae may include tissue necrosis, infection, and need for debridement. General surgery staff must be prepared for surgical interventions if deep damage occurs. Careful documentation and prolonged medical follow-up are fundamental for patient recovery.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmRuUm1VbFVWZ0xRa01KUmU3WGNyVC1FcTBvcHFQVExjeHFTS3paeVIzV2NIanpVNlhoSmJXZ201cm1CRnFFWDBTUFR5M3JKNGNGMTdVYkNpR0RseGQzSnRENTQ2aUxWZWN3WnNwUlVFcWxORkVkenpNZU9pVVFCVWVxYlU2NVlYT0FPVVloYkpqVEtjZkN1Vklvdm1tOE1ROGhZRm1saTFQMHZpOFI3am45R0ZaUng5TG11aDhlR1REdDhSM2tCMi1UZE5XWUxxek9BdXlDVGJsS3UtTWJv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-12/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura química",
+          "definition_es": "lesión causada por sustancias químicas como ácidos",
+          "definition_en": "chemical burn - injury caused by chemical substances such as acids"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido vivo",
+          "definition_en": "necrosis - death of living tissue"
+        },
+        {
+          "word": "irrigación",
+          "definition_es": "lavado abundante de la herida con líquido",
+          "definition_en": "irrigation - abundant washing of wound with fluid"
+        }
+      ],
+      "added_at": "2026-03-12T09:22:18.788506Z"
+    },
+    {
+      "id": "surgical-wounds-20250312",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Investigación Clínica: Nuevos Apósitos para Heridas Quirúrgicas",
+      "headline_en": "Clinical Research: New Dressings for Surgical Wounds",
+      "summary_es": "Sanara MedTech publica resultados de investigación sobre apósitos innovadores para heridas quirúrgicas. El estudio demuestra mejores resultados de cicatrización en pacientes.",
+      "body_es": "Sanara MedTech Inc. ha publicado recientemente un estudio revisado por pares sobre el uso de apósitos avanzados en heridas quirúrgicas. La investigación clínica evalúa cómo estos vendajes especializados mejoran la epitelización y reducen complicaciones postoperatorias. Los apósitos modernos contienen componentes que promueven la granulación tisular y previenen infecciones. El estudio incluye pacientes con diferentes tipos de heridas quirúrgicas, desde incisiones simples hasta heridas complejas. Los resultados demuestran que el uso de estos apósitos acorta el tiempo de curación comparado con vendajes tradicionales. Los profesionales sanitarios observaron menor exudado y mejor cierre de la epidermis. Estos hallazgos son importantes para el desarrollo de mejores protocolos de cuidado postoperatorio en hospitales y clínicas.",
+      "body_en": "Sanara MedTech Inc. recently published a peer-reviewed study on the use of advanced dressings in surgical wounds. Clinical research evaluates how these specialized bandages improve epithelialization and reduce postoperative complications. Modern dressings contain components that promote tissue granulation and prevent infections. The study includes patients with different types of surgical wounds, from simple incisions to complex wounds. Results demonstrate that using these dressings shortens healing time compared with traditional bandages. Healthcare professionals observed less exudate and better epithelial closure. These findings are important for developing better postoperative care protocols in hospitals and clinics.",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxONWtUS1Jac2xFTGxBbTZwZzFCUVJMaHN1allQbjlOWXNwVFE3bUlhM3BBOFNxSEs3ZFNPclRQa3NiU2dGTERrS25ZOURCSjJpc3BvbVpwb05EaXhOdllGV0lwMUZZajBweUZFRzkxWUlvT1pmWUpqNFZ3eWdCTGg5WVBfV0RCc1k4LWNXdWJ4bDVEcjF4ZGZvUHZiSklIeVVEMU03WlRIS2tRUW9WXzBSZUVobWxZNGQ4T3hnU3BmU3psX1EwVnlXNlJSdkZ6MzJNeVc4bVhjUW1uWXd3eDg0ZEFXdUJFSTZob1hhRVM1b3ppYlcxajJPdjFpTmoyR1ExTGMxRU4tQk1FNnVnRnY3d1lFa1VfeGpTNFRzRldoQnEyYjNxYWhWYXk3LURteUk4ekdJWFRVNjJMQjMxWHdYMVBfVUs4QkNzSDR5a1Y2WWEwdGF6OEZKVk1TbFJRWWhaam1FWm5kdlJUUmM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-12/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel sobre la herida",
+          "definition_en": "epithelialization - process of new skin formation over wound"
+        },
+        {
+          "word": "apósito avanzado",
+          "definition_es": "vendaje moderno con componentes que promueven curación",
+          "definition_en": "advanced dressing - modern bandage with components that promote healing"
+        },
+        {
+          "word": "postoperatorio",
+          "definition_es": "período después de la cirugía",
+          "definition_en": "postoperative - period after surgery"
+        },
+        {
+          "word": "complicaciones",
+          "definition_es": "problemas o condiciones que surgen durante el tratamiento",
+          "definition_en": "complications - problems or conditions that arise during treatment"
+        }
+      ],
+      "added_at": "2026-03-12T09:22:18.788506Z"
+    },
+    {
+      "id": "wound-research-20250312",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Innovación en Medicina: Avances en Investigación de Heridas",
+      "headline_en": "Innovation in Medicine: Advances in Wound Research",
+      "summary_es": "Investigadores de Texas A&M desarrollan nuevas estrategias para mejorar la curación de heridas. La innovación promete revolucionar el tratamiento de lesiones complejas.",
+      "body_es": "Investigadores de la Universidad de Texas A&M están creando un futuro más saludable a través de innovaciones en medicina y ciencia. Su investigación se enfoca en desarrollar nuevos métodos para mejorar la curación de heridas complejas. El equipo estudia cómo acelerar la epitelización y la formación de tejido de granulación. Utilizan tecnologías avanzadas para analizar los procesos biológicos que ocurren durante la cicatrización. Su trabajo incluye la evaluación de factores que reducen la infección y promueven la regeneración tisular. Los investigadores colaboran con clínicos para traducir estos descubrimientos en tratamientos prácticos. Este enfoque integrativo combina investigación básica con aplicaciones clínicas. Los resultados de estos estudios prometen mejorar significativamente el cuidado de pacientes con heridas difíciles de curar.",
+      "body_en": "Researchers at Texas A&M University are creating a healthier future through innovations in medicine and science. Their research focuses on developing new methods to improve healing of complex wounds. The team studies how to accelerate epithelialization and granulation tissue formation. They use advanced technologies to analyze biological processes that occur during wound healing. Their work includes evaluating factors that reduce infection and promote tissue regeneration. Researchers collaborate with clinicians to translate discoveries into practical treatments. This integrative approach combines basic research with clinical applications. Results of these studies promise to significantly improve care for patients with difficult-to-heal wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEg2ckNLTGtmaTZsdmtCWnktUkJQMGhGbm83bUtzZlp3X0lmX0w5YmU0aVl0OV91S1JkZW9BNE82ZWJVQjlnUXFaZnBUN09YRFZ5b3BpRHNPYkJHSTQ4SXI3Y2pmTDRCQkpnUW9yUU5xTkJlWnlsYm1EbHF4c045MFZRaUl3U2t4cXFVOU1HVDdnaGx0bzI4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-12/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "regeneración tisular",
+          "definition_es": "crecimiento de nuevo tejido después de lesión",
+          "definition_en": "tissue regeneration - growth of new tissue after injury"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso completo de curación de una herida",
+          "definition_en": "wound healing - complete process of wound repair"
+        },
+        {
+          "word": "innovación",
+          "definition_es": "método o idea nueva para resolver problemas",
+          "definition_en": "innovation - new method or idea to solve problems"
+        },
+        {
+          "word": "método avanzado",
+          "definition_es": "técnica moderna y sofisticada para tratamiento",
+          "definition_en": "advanced method - modern and sophisticated treatment technique"
+        }
+      ],
+      "added_at": "2026-03-12T09:22:18.788506Z"
+    },
     {
       "id": "chronic-wounds-20250311",
       "category": "Chronic Wounds",
@@ -10361,6 +10509,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-11T09:18:48.179037Z",
+  "last_updated": "2026-03-12T09:22:18.788506Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
