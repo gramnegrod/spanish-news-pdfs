@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-12",
+      "filename": "spanish_lesson_2026-03-12.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-12.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Gobernadores Demócratas Piden al Congreso Parar los Aranceles de Trump",
+          "headline_en": "Democratic Governors Ask Congress to Stop Trump's Tariffs",
+          "body_es": "Diecinueve gobernadores demócratas escribieron una carta al Congreso estadounidense. En la carta, piden que el Congreso pare los nuevos aranceles que quiere poner el presidente Trump. Los gobernadores dicen que estos aranceles van a hacer más caros los productos que compran las familias americanas. El gobernador Pritzker de Illinois lidera este grupo de gobernadores. Ellos piensan que los aranceles van a dañar la economía de sus estados. Los aranceles son impuestos especiales que se pagan por productos de otros países. Cuando hay aranceles, los productos cuestan más dinero en las tiendas. Los gobernadores están preocupados porque las familias van a tener que pagar más por la comida, la ropa y otros productos necesarios.",
+          "body_en": "Nineteen Democratic governors wrote a letter to the US Congress. In the letter, they ask Congress to stop the new tariffs that President Trump wants to impose. The governors say these tariffs will make products that American families buy more expensive. Governor Pritzker of Illinois leads this group of governors. They think the tariffs will damage their states' economies. Tariffs are special taxes paid on products from other countries. When there are tariffs, products cost more money in stores. The governors are worried because families will have to pay more for food, clothing, and other necessary products.",
+          "source": "WTTW Chicago"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Guerra con Irán Podría Subir Precios de Gasolina y Vuelos",
+          "headline_en": "War with Iran Could Raise Gas and Flight Prices",
+          "body_es": "Los expertos en economía están preocupados por una posible guerra con Irán. Si hay guerra, los precios del petróleo van a subir mucho en todo el mundo. Esto significa que la gasolina para los coches va a costar más dinero. También los billetes de avión van a ser más caros porque los aviones usan mucho combustible. Las familias americanas van a pagar más dinero por muchas cosas de la vida diaria. Los precios de la comida también pueden subir porque los camiones necesitan gasolina para transportar productos. Irán produce mucho petróleo y lo vende a otros países. Si hay problemas con Irán, va a haber menos petróleo en el mercado mundial. Los economistas dicen que esto puede crear una crisis económica global.",
+          "body_en": "Economic experts are worried about a possible war with Iran. If there is war, oil prices will rise a lot worldwide. This means gasoline for cars will cost more money. Airplane tickets will also be more expensive because planes use a lot of fuel. American families will pay more money for many things in daily life. Food prices can also rise because trucks need gasoline to transport products. Iran produces a lot of oil and sells it to other countries. If there are problems with Iran, there will be less oil in the world market. Economists say this can create a global economic crisis.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Netflix Paga 600 Millones por Empresa de Inteligencia Artificial de Ben Affleck",
+          "headline_en": "Netflix Pays 600 Million for Ben Affleck's AI Company",
+          "body_es": "Netflix, la plataforma de películas y series, compró una empresa de inteligencia artificial. Esta empresa pertenece al actor famoso Ben Affleck. Netflix pagó hasta 600 millones de dólares por esta compra. La empresa de Ben Affleck usa inteligencia artificial para hacer películas y programas de televisión de manera más rápida y barata. Esta tecnología puede crear efectos especiales, escribir guiones y hasta hacer actores virtuales. Netflix quiere usar esta tecnología para competir mejor con otras plataformas como Disney+ y Amazon Prime. Ben Affleck va a continuar trabajando con Netflix después de la venta. Los expertos dicen que esta compra muestra cómo la inteligencia artificial está cambiando la industria del entretenimiento. Muchas empresas de Hollywood están invirtiendo en esta nueva tecnología.",
+          "body_en": "Netflix, the movie and series platform, bought an artificial intelligence company. This company belongs to famous actor Ben Affleck. Netflix paid up to 600 million dollars for this purchase. Ben Affleck's company uses artificial intelligence to make movies and TV shows faster and cheaper. This technology can create special effects, write scripts, and even make virtual actors. Netflix wants to use this technology to compete better with other platforms like Disney+ and Amazon Prime. Ben Affleck will continue working with Netflix after the sale. Experts say this purchase shows how artificial intelligence is changing the entertainment industry. Many Hollywood companies are investing in this new technology.",
+          "source": "Bloomberg"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "arancel",
+          "syllables": "a-ran-CEL",
+          "pos": "sustantivo",
+          "context": "Los gobernadores demócratas quieren que el Congreso bloquee los aranceles de Trump.",
+          "definition_es": "Impuesto que se paga por productos que vienen de otros países",
+          "definition_en": "Tax paid on products that come from other countries"
+        },
+        {
+          "word": "gobernador",
+          "syllables": "go-ber-na-DOR",
+          "pos": "sustantivo",
+          "context": "Diecinueve gobernadores demócratas escribieron una carta al Congreso.",
+          "definition_es": "Persona que gobierna un estado o región",
+          "definition_en": "Person who governs a state or region"
+        },
+        {
+          "word": "guerra",
+          "syllables": "GUE-rra",
+          "pos": "sustantivo",
+          "context": "Una guerra con Irán podría aumentar los precios del petróleo.",
+          "definition_es": "Conflicto armado entre países o grupos",
+          "definition_en": "Armed conflict between countries or groups"
+        },
+        {
+          "word": "gasolina",
+          "syllables": "ga-so-LI-na",
+          "pos": "sustantivo",
+          "context": "El precio de la gasolina podría subir mucho por la guerra.",
+          "definition_es": "Combustible líquido para los coches",
+          "definition_en": "Liquid fuel for cars"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Netflix compró la empresa de inteligencia artificial de Ben Affleck.",
+          "definition_es": "Organización que vende productos o servicios",
+          "definition_en": "Organization that sells products or services"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La empresa de Ben Affleck hace películas con inteligencia artificial.",
+          "definition_es": "Tecnología que hace que las máquinas piensen como humanos",
+          "definition_en": "Technology that makes machines think like humans"
+        },
+        {
+          "word": "bloquear",
+          "syllables": "blo-que-AR",
+          "pos": "verbo",
+          "context": "Los gobernadores quieren bloquear los nuevos impuestos.",
+          "definition_es": "Impedir que algo pase o continúe",
+          "definition_en": "To prevent something from happening or continuing"
+        },
+        {
+          "word": "millones",
+          "syllables": "mi-LLO-nes",
+          "pos": "sustantivo",
+          "context": "Netflix pagó 600 millones de dólares por la empresa.",
+          "definition_es": "Número muy grande: 1.000.000",
+          "definition_en": "Very large number: 1,000,000"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'arancel'?",
+          "options": [
+            "Una carta al gobierno",
+            "Un impuesto sobre productos extranjeros",
+            "Un tipo de gasolina",
+            "Una empresa tecnológica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Quién es un 'gobernador'?",
+          "options": [
+            "Un actor de Hollywood",
+            "Una persona que gobierna un estado",
+            "Un experto en economía",
+            "Un trabajador de Netflix"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es 'inteligencia artificial'?",
+          "options": [
+            "Un tipo de combustible",
+            "Tecnología que hace que las máquinas piensen como humanos",
+            "Un método para extraer petróleo",
+            "Una forma de gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'bloquear' en el contexto político?",
+          "options": [
+            "Comprar una empresa",
+            "Impedir que algo pase",
+            "Subir los precios",
+            "Hacer una película"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos gobernadores demócratas escribieron la carta sobre los aranceles?",
+          "options": [
+            "18 gobernadores",
+            "19 gobernadores",
+            "20 gobernadores",
+            "17 gobernadores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué país podría causar problemas en los precios del petróleo?",
+          "options": [
+            "Estados Unidos",
+            "China",
+            "Irán",
+            "España"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero pagó Netflix por la empresa de Ben Affleck?",
+          "options": [
+            "500 millones de dólares",
+            "Hasta 600 millones de dólares",
+            "700 millones de dólares",
+            "300 millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué están preocupados los gobernadores sobre los aranceles?",
+          "options": [
+            "Porque van a ayudar a la economía",
+            "Porque van a hacer más caros los productos",
+            "Porque van a crear más empleos",
+            "Porque van a mejorar el comercio"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué efecto tendría una guerra con Irán en los vuelos?",
+          "options": [
+            "Los billetes serían más baratos",
+            "Habría más vuelos disponibles",
+            "Los billetes serían más caros",
+            "No habría ningún cambio"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué puede hacer la inteligencia artificial en la industria del entretenimiento?",
+          "options": [
+            "Solo crear efectos especiales",
+            "Crear efectos especiales, escribir guiones y hacer actores virtuales",
+            "Solo escribir guiones",
+            "Solo hacer actores virtuales"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-12T09:12:45.186154"
+    },
+    {
       "date": "2026-03-11",
       "filename": "spanish_lesson_2026-03-11.pdf",
       "path": "pdfs/spanish_lesson_2026-03-11.pdf",
@@ -20894,7 +21116,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-11T09:11:49.612655",
+  "last_updated": "2026-03-12T09:12:45.186178",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
