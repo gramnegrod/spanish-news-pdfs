@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-13",
+      "filename": "spanish_lesson_2026-03-13.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-13.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Senado aprueba nueva ley bipartidista de vivienda",
+          "headline_en": "Senate approves new bipartisan housing law",
+          "body_es": "El Senado de Estados Unidos aprobó una importante ley de vivienda con apoyo bipartidista. Esta nueva legislación ayudará a millones de familias estadounidenses a encontrar casas más baratas. La ley incluye programas especiales para familias con pocos ingresos. También creará más apartamentos y casas en diferentes ciudades del país. Los senadores de ambos partidos políticos trabajaron juntos durante varios meses para crear esta ley. El presidente de la comisión de vivienda dijo que es un gran paso para resolver la crisis de vivienda. La ley ahora va a la Cámara de Representantes para su aprobación final. Si se aprueba, las nuevas reglas comenzarán el próximo año.",
+          "body_en": "The United States Senate approved an important housing law with bipartisan support. This new legislation will help millions of American families find cheaper homes. The law includes special programs for low-income families. It will also create more apartments and houses in different cities across the country. Senators from both political parties worked together for several months to create this law. The housing committee chairman said it is a big step toward solving the housing crisis. The law now goes to the House of Representatives for final approval. If approved, the new rules will begin next year.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos pierde 92,000 empleos en febrero",
+          "headline_en": "United States loses 92,000 jobs in February",
+          "body_es": "El mercado laboral de Estados Unidos perdió 92,000 empleos en febrero. Esta noticia preocupa mucho a los economistas del país. Es la primera vez en muchos meses que el desempleo aumenta tanto. Los sectores más afectados fueron la construcción, los restaurantes y las tiendas. Muchas empresas redujeron su personal debido a la inflación y los altos costos. Los expertos dicen que esto puede ser una señal de problemas económicos futuros. El gobierno federal está estudiando nuevas políticas para ayudar a los trabajadores. También planea crear programas de entrenamiento laboral. La tasa de desempleo nacional subió del 3.7% al 4.1% en solo un mes. Los analistas esperan que la situación mejore en los próximos meses.",
+          "body_en": "The United States labor market lost 92,000 jobs in February. This news greatly worries the country's economists. It is the first time in many months that unemployment has increased so much. The most affected sectors were construction, restaurants, and stores. Many companies reduced their staff due to inflation and high costs. Experts say this could be a sign of future economic problems. The federal government is studying new policies to help workers. It also plans to create job training programs. The national unemployment rate rose from 3.7% to 4.1% in just one month. Analysts hope the situation will improve in the coming months.",
+          "source": "Virginia Business"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Los chatbots de inteligencia artificial quieren acceso a datos médicos",
+          "headline_en": "Artificial intelligence chatbots want access to medical data",
+          "body_es": "Los nuevos chatbots de inteligencia artificial están pidiendo acceso a los datos médicos de los usuarios. Estas tecnologías prometen ayudar con diagnósticos y consejos de salud. Sin embargo, los expertos advierten sobre los riesgos para la privacidad. Los chatbots pueden usar esta información personal de maneras peligrosas. Algunas empresas tecnológicas ya están desarrollando estos sistemas. Dicen que pueden mejorar la atención médica y reducir costos. Pero los médicos están preocupados por la seguridad de los pacientes. La información médica es muy sensible y debe protegerse bien. Los especialistas recomiendan ser muy cuidadosos antes de compartir datos personales. También sugieren leer las políticas de privacidad de estas aplicaciones. El gobierno está considerando nuevas reglas para proteger a los usuarios.",
+          "body_en": "New artificial intelligence chatbots are asking for access to users' medical data. These technologies promise to help with diagnoses and health advice. However, experts warn about privacy risks. Chatbots could use this personal information in dangerous ways. Some technology companies are already developing these systems. They say they can improve medical care and reduce costs. But doctors are worried about patient safety. Medical information is very sensitive and must be well protected. Specialists recommend being very careful before sharing personal data. They also suggest reading the privacy policies of these applications. The government is considering new rules to protect users.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "bipartidista",
+          "syllables": "bi-par-ti-DIS-ta",
+          "pos": "adjetivo",
+          "context": "El Senado aprobó un proyecto de ley bipartidista sobre vivienda.",
+          "definition_es": "Que tiene apoyo de dos partidos políticos diferentes",
+          "definition_en": "Having support from two different political parties"
+        },
+        {
+          "word": "vivienda",
+          "syllables": "vi-VIEN-da",
+          "pos": "sustantivo",
+          "context": "La nueva ley ayudará a crear más vivienda para las familias.",
+          "definition_es": "Casa o lugar donde vive una persona",
+          "definition_en": "House or place where a person lives"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral estadounidense perdió muchos empleos en febrero.",
+          "definition_es": "El sistema donde las personas buscan y encuentran trabajo",
+          "definition_en": "The system where people seek and find jobs"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "de-sem-PLE-o",
+          "pos": "sustantivo",
+          "context": "El aumento del desempleo preocupa a los economistas.",
+          "definition_es": "Situación de no tener trabajo",
+          "definition_en": "The situation of not having a job"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial puede acceder a información médica privada.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "privacidad",
+          "syllables": "pri-va-ci-DAD",
+          "pos": "sustantivo",
+          "context": "Los pacientes deben proteger la privacidad de sus datos médicos.",
+          "definition_es": "El derecho a mantener la información personal en secreto",
+          "definition_en": "The right to keep personal information secret"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "Los senadores van a aprobar la nueva ley de vivienda.",
+          "definition_es": "Aceptar oficialmente una propuesta o ley",
+          "definition_en": "To officially accept a proposal or law"
+        },
+        {
+          "word": "datos médicos",
+          "syllables": "DA-tos MÉ-di-cos",
+          "pos": "sustantivo",
+          "context": "Los chatbots quieren acceder a los datos médicos de los usuarios.",
+          "definition_es": "Información sobre la salud de una persona",
+          "definition_en": "Information about a person's health"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'bipartidista'?",
+          "options": [
+            "Que tiene apoyo de dos partidos políticos",
+            "Que divide a los políticos",
+            "Que es solo para un partido",
+            "Que no es político"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'mercado laboral'?",
+          "options": [
+            "Un lugar para comprar comida",
+            "El sistema donde las personas buscan trabajo",
+            "Una tienda muy grande",
+            "Un tipo de mercado financiero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'privacidad'?",
+          "options": [
+            "Una empresa privada",
+            "El derecho a mantener información personal en secreto",
+            "Un tipo de hospital",
+            "Una aplicación de teléfono"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'aprobar' una ley?",
+          "options": [
+            "Rechazarla oficialmente",
+            "Aceptarla oficialmente",
+            "Escribirla por primera vez",
+            "Traducirla a otro idioma"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿adónde va la ley de vivienda después del Senado?",
+          "options": [
+            "Al presidente directamente",
+            "A la Cámara de Representantes",
+            "A los estados",
+            "A los tribunales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos perdió Estados Unidos en febrero?",
+          "options": [
+            "82,000",
+            "92,000",
+            "102,000",
+            "72,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuál fue la nueva tasa de desempleo después de febrero?",
+          "options": [
+            "3.7%",
+            "4.0%",
+            "4.1%",
+            "4.5%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿qué quieren los chatbots?",
+          "options": [
+            "Dinero de los usuarios",
+            "Acceso a datos médicos",
+            "Reemplazar a los médicos",
+            "Vender medicinas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores perdieron más empleos según la historia económica?",
+          "options": [
+            "Tecnología y medicina",
+            "Educación y gobierno",
+            "Construcción, restaurantes y tiendas",
+            "Transporte y agricultura"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué recomiendan los expertos sobre los chatbots médicos?",
+          "options": [
+            "Usarlos inmediatamente",
+            "Ser muy cuidadosos",
+            "Ignorarlos completamente",
+            "Comprar acciones de las empresas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-13T09:10:49.993047"
+    },
+    {
       "date": "2026-03-12",
       "filename": "spanish_lesson_2026-03-12.pdf",
       "path": "pdfs/spanish_lesson_2026-03-12.pdf",
@@ -21116,7 +21338,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-12T09:12:45.186178",
+  "last_updated": "2026-03-13T09:10:49.993066",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
