@@ -1,11 +1,122 @@
 {
-  "date": "2026-03-12",
-  "generated_at": "2026-03-12T09:22:18.788506Z",
+  "date": "2026-03-13",
+  "generated_at": "2026-03-13T09:16:53.521542Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 284,
-  "new_today": 4,
+  "total_stories": 287,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250313",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevas terapias con oxígeno ayudan a sanar heridas crónicas",
+      "headline_en": "New oxygen therapies help heal chronic wounds",
+      "summary_es": "Investigadores descubren que la terapia de oxígeno tópico multimodal es superior para el tratamiento de heridas crónicas. Este nuevo tratamiento mejora significativamente la curación en pacientes con úlceras difíciles.",
+      "body_es": "Un estudio reciente analiza datos de muchos pacientes con heridas crónicas. Los resultados muestran beneficios superiores de la terapia de oxígeno tópico. Esta terapia es un tratamiento adjuntivo que ayuda a sanar heridas. La terapia multimodal combina varios métodos para mejorar la curación. Los pacientes con úlceras venosas y arteriales reciben este tratamiento. Los profesionales de enfermería aplican el apósito con oxígeno en la herida. La evaluación del exudado y la granulación es importante. Este tratamiento acelera la epitelización de la piel. Los resultados demuestran que el oxígeno tópico es efectivo. Los pacientes responden bien a esta nueva terapia. El tratamiento es seguro y efectivo para heridas crónicas.",
+      "body_en": "A recent study analyzes data from many patients with chronic wounds. Results show superior benefits of topical oxygen therapy. This therapy is an adjunctive treatment that helps heal wounds. Multimodal therapy combines several methods to improve healing. Patients with venous and arterial ulcers receive this treatment. Nursing professionals apply the oxygen dressing to the wound. Evaluation of exudate and granulation is important. This treatment accelerates skin epithelialization. Results demonstrate that topical oxygen is effective. Patients respond well to this new therapy. The treatment is safe and effective for chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejhUakhvd0xxSE84Y2NPcDM4NVFDNkp5ZGZNamktSjRwdTExdlpNeXhSUHpILUt5Ulp0ZVA4WWhMZ0djZW1zaFdqZjVrN0VtOGRhMUVaTTZRdkV0ZEp2emtob04zbTVFV01MZG54VC1ueGhOQmdZTjRxd1V0R25iMHJDQUF1Z1YySWtkTA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-13/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre y protege la herida",
+          "definition_en": "dressing - material that covers and protects the wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de la herida",
+          "definition_en": "exudate - fluid that comes from the wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "proceso de nueva formación de tejido en la herida",
+          "definition_en": "granulation - process of new tissue formation in the wound"
+        }
+      ],
+      "added_at": "2026-03-13T09:16:53.521542Z"
+    },
+    {
+      "id": "burn-care-20250313",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Aquacel® Ag demuestra eficacia en el tratamiento de quemaduras parciales",
+      "headline_en": "Aquacel® Ag demonstrates effectiveness in treating partial-thickness burns",
+      "summary_es": "Un estudio en un centro terciario muestra que Aquacel® Ag es un apósito efectivo para manejar quemaduras de espesor parcial. El apósito antimicrobiano reduce infecciones y mejora la curación de las heridas.",
+      "body_es": "En un centro terciario de atención, los investigadores evaluaron el uso de Aquacel® Ag para tratar quemaduras de espesor parcial. Este apósito antimicrobiano contiene plata que previene infecciones bacterianas. Los resultados mostraron que Aquacel® Ag reduce significativamente el tiempo de curación. Los pacientes con quemaduras recibieron evaluaciones regulares de la epitelización y formación de tejido de granulación. El apósito se cambió según los protocolos establecidos del centro. Los profesionales de enfermería observaron que la terapia minimizaba el dolor durante los cambios de vendaje. El exudado se manejó de manera efectiva con el apósito. La tasa de infección de heridas quirúrgicas fue baja en pacientes tratados con este método. El Aquacel® Ag demostró ser superior en comparación con otros apósitos tradicionales. Este estudio proporciona evidencia para el uso de apósitos antimicrobianos en quemaduras.",
+      "body_en": "In a tertiary care center, researchers evaluated the use of Aquacel® Ag to treat partial-thickness burns. This antimicrobial dressing contains silver that prevents bacterial infections. Results showed that Aquacel® Ag significantly reduced healing time. Patients with burns received regular evaluations of epithelialization and granulation tissue formation. The dressing was changed according to established center protocols. Nursing professionals observed that therapy minimized pain during dressing changes. Exudate was managed effectively with the dressing. The rate of surgical site infections was low in patients treated with this method. Aquacel® Ag proved superior compared to other traditional dressings. This study provides evidence for the use of antimicrobial dressings in burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ2IzMlF3WFpJejlOSUIzN19yLWNITjdTMUNsd29BQ2Z1Tk1NMkp5OXJSSmtGcm9KaUpDc010TkZTZDFuSm50M3R0ekVZMGl0aU80OHVjems0THhqTkViMmp0N0R6eVJjcDRHMkUtNlN4WVV5TjR3YVBnQ0lNMnhodXFUcVptdG1KV3RnWkdSTjYtRXFwbTBWLTMxZTd2MG9KVmxOa3RJV3RrM2xVOEphRjJrN0RqQV9scjZXdTJvY2FIMGhHOUE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-13/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura de espesor parcial",
+          "definition_es": "lesión térmica que afecta epidermis y parte de la dermis",
+          "definition_en": "partial-thickness burn - thermal injury affecting epidermis and part of dermis"
+        },
+        {
+          "word": "apósito antimicrobiano",
+          "definition_es": "vendaje que contiene agentes que matan bacterias",
+          "definition_en": "antimicrobial dressing - bandage containing agents that kill bacteria"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva capa de piel",
+          "definition_en": "epithelialization - formation of new skin layer"
+        },
+        {
+          "word": "infección de herida quirúrgica",
+          "definition_es": "contaminación bacteriana después de una cirugía",
+          "definition_en": "surgical site infection - bacterial contamination after surgery"
+        }
+      ],
+      "added_at": "2026-03-13T09:16:53.521542Z"
+    },
+    {
+      "id": "surgical-wounds-20250313",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Investigadores descubren cómo las bacterias suprimen defensas inmunitarias en infecciones de heridas",
+      "headline_en": "Researchers discover how bacteria suppress immune defenses in wound infections",
+      "summary_es": "Un equipo de investigadores de SMART reveló mecanismos mediante los cuales las bacterias escapan del sistema inmunitario en infecciones de heridas persistentes. Este descubrimiento abre nuevas estrategias para combatir infecciones quirúrgicas.",
+      "body_es": "Investigadores del grupo SMART realizaron un estudio detallado sobre infecciones de heridas quirúrgicas obstinadas. Descubrieron que las bacterias patógenas utilizan estrategias sofisticadas para suprimir las defensas inmunitarias del huésped. Estas bacterias forman biofilms que protegen la colonia microbiana. El sistema inmunitario tiene dificultades para penetrar estas estructuras complejas. Los investigadores identificaron proteínas bacterianas específicas que inhiben la respuesta inflamatoria. Comprenden ahora cómo los patógenos evaden la opsonización y la fagocitosis. Este conocimiento es fundamental para desarrollar nuevas terapias antimicrobianas. Los profesionales de heridas pueden utilizar estos datos para optimizar protocolos de tratamiento. El desbridamiento quirúrgico sigue siendo necesario para eliminar tejido necrótico. Los apósitos avanzados deben combinarse con terapias que refuercen la inmunidad. Este descubrimiento revoluciona nuestra comprensión de infecciones crónicas.",
+      "body_en": "Researchers from the SMART group conducted a detailed study on stubborn surgical wound infections. They discovered that pathogenic bacteria use sophisticated strategies to suppress the host's immune defenses. These bacteria form biofilms that protect the microbial colony. The immune system has difficulty penetrating these complex structures. Researchers identified specific bacterial proteins that inhibit the inflammatory response. They now understand how pathogens evade opsonization and phagocytosis. This knowledge is fundamental for developing new antimicrobial therapies. Wound care professionals can use this data to optimize treatment protocols. Surgical debridement remains necessary to remove necrotic tissue. Advanced dressings must be combined with therapies that strengthen immunity. This discovery revolutionizes our understanding of chronic infections.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YZTBkYnZFcnY3VTJsbTJtU0g4dGdWaUw2VzQtNXU3ODJfWWpMZ2M2TzJPbTl5bkVCaEhQa0JCakxNdFBETnJCd29BTkdRNENVNGt1MjR2TFdSMmVw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-13/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "biofilm",
+          "definition_es": "comunidad de microorganismos protegida por matriz",
+          "definition_en": "biofilm - community of microorganisms protected by matrix"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación quirúrgica de tejido dañado o muerto",
+          "definition_en": "debridement - surgical removal of damaged or dead tissue"
+        },
+        {
+          "word": "fagocitosis",
+          "definition_es": "proceso de ingesta de bacterias por células inmunitarias",
+          "definition_en": "phagocytosis - process of ingestion of bacteria by immune cells"
+        },
+        {
+          "word": "opsonización",
+          "definition_es": "marcaje de patógenos para destrucción inmunitaria",
+          "definition_en": "opsonization - marking of pathogens for immune destruction"
+        }
+      ],
+      "added_at": "2026-03-13T09:16:53.521542Z"
+    },
     {
       "id": "chronic-wounds-20250312",
       "category": "Chronic Wounds",
@@ -10509,6 +10620,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-12T09:22:18.788506Z",
+  "last_updated": "2026-03-13T09:16:53.521542Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
