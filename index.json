@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-14",
+      "filename": "spanish_lesson_2026-03-14.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-14.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El gobierno de Estados Unidos sigue cerrado después de un mes",
+          "headline_en": "US government remains shut down after one month",
+          "body_es": "El Congreso de Estados Unidos continúa buscando una solución al cierre del gobierno. El problema principal es el Departamento de Seguridad Nacional (DHS). Los políticos no pueden encontrar un compromiso. El cierre ya dura casi un mes completo. Esto afecta a muchos trabajadores del gobierno que no reciben su salario. Los servicios públicos también están limitados. Los ciudadanos esperan que los representantes encuentren una solución pronto. Sin embargo, las negociaciones son difíciles porque los dos partidos tienen ideas muy diferentes sobre las políticas de seguridad.",
+          "body_en": "The US Congress continues searching for a solution to the government shutdown. The main problem is the Department of Homeland Security (DHS). Politicians cannot find a compromise. The shutdown has lasted almost a full month. This affects many government workers who are not receiving their salary. Public services are also limited. Citizens hope that representatives will find a solution soon. However, negotiations are difficult because the two parties have very different ideas about security policies.",
+          "source": "Scripps News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía estadounidense creció solo 0,7% en el último trimestre",
+          "headline_en": "US economy grew only 0.7% in the last quarter",
+          "body_es": "La economía de Estados Unidos creció muy poco en el último trimestre del año. El crecimiento fue de solo 0,7%, que es bastante bajo. Los expertos están preocupados por varios factores. Uno de los problemas principales es la posible guerra con Irán. Esta situación puede crear inestabilidad en los mercados financieros. También puede afectar el precio del petróleo y otros productos importantes. Los analistas económicos piensan que el próximo trimestre puede ser aún más difícil. Las empresas y los consumidores están nerviosos por el futuro. El gobierno está monitoreando la situación económica muy de cerca.",
+          "body_en": "The US economy grew very little in the last quarter of the year. Growth was only 0.7%, which is quite low. Experts are worried about several factors. One of the main problems is a possible war with Iran. This situation can create instability in financial markets. It can also affect the price of oil and other important products. Economic analysts think the next quarter may be even more difficult. Companies and consumers are nervous about the future. The government is monitoring the economic situation very closely.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa Block despide al 40% de sus empleados por la inteligencia artificial",
+          "headline_en": "Block company fires 40% of its employees due to artificial intelligence",
+          "body_es": "La empresa de tecnología Block anunció despidos masivos de sus trabajadores. Van a despedir al 40% de todos sus empleados. La compañía dice que la inteligencia artificial es la razón principal. Las máquinas inteligentes pueden hacer el trabajo que antes hacían las personas. Sin embargo, algunos expertos piensan que esto es solo una excusa. Quizás la empresa tiene problemas financieros y usa la AI como justificación. Muchas otras compañías tecnológicas también están reduciendo su personal. Los trabajadores están preocupados por sus empleos. La inteligencia artificial está cambiando rápidamente el mundo del trabajo. Es un tema muy controversial en la industria tecnológica.",
+          "body_en": "Technology company Block announced massive layoffs of its workers. They will fire 40% of all their employees. The company says artificial intelligence is the main reason. Smart machines can do the work that people used to do. However, some experts think this is just an excuse. Maybe the company has financial problems and uses AI as justification. Many other technology companies are also reducing their staff. Workers are worried about their jobs. Artificial intelligence is rapidly changing the world of work. It's a very controversial topic in the technology industry.",
+          "source": "Darden School of Business News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso busca una solución para evitar el cierre del gobierno.",
+          "definition_es": "Institución donde se reúnen los representantes del pueblo para hacer leyes",
+          "definition_en": "Legislative body where representatives make laws"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno ya dura casi un mes.",
+          "definition_es": "Acción de cerrar o dejar de funcionar",
+          "definition_en": "Shutdown or closing"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía de Estados Unidos creció muy poco este trimestre.",
+          "definition_es": "Sistema de producción y distribución de dinero y bienes de un país",
+          "definition_en": "Economic system of a country"
+        },
+        {
+          "word": "crecer",
+          "syllables": "cre-CER",
+          "pos": "verbo",
+          "context": "La economía creció solo 0,7% en el último trimestre.",
+          "definition_es": "Aumentar de tamaño o cantidad",
+          "definition_en": "To grow or increase"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "La empresa Block anunció despidos del 40% de sus trabajadores.",
+          "definition_es": "Acción de quitar el trabajo a los empleados",
+          "definition_en": "Layoffs or firings"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial puede ser la causa de muchos despidos.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence (AI)"
+        },
+        {
+          "word": "compromiso",
+          "syllables": "com-pro-MI-so",
+          "pos": "sustantivo",
+          "context": "Los políticos buscan un compromiso para resolver el problema.",
+          "definition_es": "Acuerdo entre partes que tienen opiniones diferentes",
+          "definition_en": "Compromise or agreement"
+        },
+        {
+          "word": "estrategia",
+          "syllables": "es-tra-TE-gia",
+          "pos": "sustantivo",
+          "context": "¿Es la inteligencia artificial una estrategia o una excusa?",
+          "definition_es": "Plan para conseguir un objetivo",
+          "definition_en": "Strategy or plan"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'compromiso' en el contexto político?",
+          "options": [
+            "Una promesa",
+            "Un acuerdo entre partes diferentes",
+            "Una reunión",
+            "Un problema"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'despidos'?",
+          "options": [
+            "Contrataciones",
+            "Promociones",
+            "Eliminación de empleos",
+            "Aumentos de salario"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Cuando algo 'crece', significa que:",
+          "options": [
+            "Disminuye",
+            "Se mantiene igual",
+            "Aumenta",
+            "Desaparece"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'estrategia'?",
+          "options": [
+            "Un problema",
+            "Un plan para conseguir un objetivo",
+            "Un error",
+            "Una excusa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto tiempo lleva cerrado el gobierno estadounidense?",
+          "options": [
+            "Una semana",
+            "Dos semanas",
+            "Casi un mes",
+            "Dos meses"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál fue el crecimiento económico de Estados Unidos en el último trimestre?",
+          "options": [
+            "0,5%",
+            "0,7%",
+            "1,0%",
+            "1,5%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje de empleados va a despedir la empresa Block?",
+          "options": [
+            "30%",
+            "35%",
+            "40%",
+            "45%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el problema principal en las negociaciones del Congreso?",
+          "options": [
+            "El presupuesto general",
+            "El Departamento de Seguridad Nacional",
+            "Los salarios",
+            "Las elecciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué puede causar inestabilidad en los mercados financieros?",
+          "options": [
+            "El crecimiento económico",
+            "Una posible guerra con Irán",
+            "Los despidos en Block",
+            "El cierre del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué dice la empresa Block sobre la razón de los despidos?",
+          "options": [
+            "Problemas financieros",
+            "Falta de trabajo",
+            "La inteligencia artificial",
+            "Cambios en el mercado"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-14T09:07:01.738820"
+    },
+    {
       "date": "2026-03-13",
       "filename": "spanish_lesson_2026-03-13.pdf",
       "path": "pdfs/spanish_lesson_2026-03-13.pdf",
@@ -21338,7 +21560,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-13T09:10:49.993066",
+  "last_updated": "2026-03-14T09:07:01.738847",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
