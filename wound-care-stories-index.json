@@ -1,11 +1,122 @@
 {
-  "date": "2026-03-13",
-  "generated_at": "2026-03-13T09:16:53.521542Z",
+  "date": "2026-03-14",
+  "generated_at": "2026-03-14T09:12:48.130408Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 287,
+  "total_stories": 290,
   "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250314",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos tratamientos tópicos para úlceras crónicas de las piernas",
+      "headline_en": "New topical treatments for chronic leg ulcers",
+      "summary_es": "Un estudio comparativo analiza diferentes tratamientos tópicos para úlceras crónicas de las piernas en múltiples centros de salud. Los resultados muestran mejoras importantes en la cicatrización de las heridas.",
+      "body_es": "Las úlceras crónicas de las piernas son un problema común en los pacientes. Estos estudios comparan diferentes tratamientos tópicos para encontrar las mejores opciones. Los investigadores evaluaron el exudado, la granulación y la epitelización en cada herida. Los tratamientos tópicos son vendajes especiales que aplicamos directamente en la piel. Algunos apósitos contienen medicinas que ayudan a sanar más rápido. El estudio incluyó pacientes de varios centros de salud diferentes. Los resultados demuestran que ciertos tratamientos funcionan mejor que otros. La evaluación regular de las úlceras es muy importante. Los enfermeros deben medir y documentar los cambios en la herida cada semana. Este tipo de investigación ayuda a los profesionales sanitarios a dar mejor cuidado a los pacientes.",
+      "body_en": "Chronic leg ulcers are a common problem in patients. These studies compare different topical treatments to find the best options. Researchers evaluated exudate, granulation, and epithelialization in each wound. Topical treatments are special dressings that we apply directly to the skin. Some dressings contain medicines that help heal faster. The study included patients from several different healthcare centers. The results demonstrate that certain treatments work better than others. Regular assessment of ulcers is very important. Nurses must measure and document changes in the wound each week. This type of research helps healthcare professionals provide better care to patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdTJZNllVdDhCSWZocjB2dlEtM1dvbFNRWjloMXZsRkFaQi02dS1LMlpVamVkTm1Jd1RUdFpFTlVjZzMzMlBEOUpLNkhlTjdTUEZCQk8xVTB6TWUyWTlhSVM1S2hPWmhGNnNzanRvYmZVTWJzblFuS05sd1BPeW9udGwwNFJ1MTlJaHNJS3VaOW9LZzA2QkxIWEtsNmhuYzlHSXgycDZXeVVLSlFSZ0RlalFpMVVIaGZvbUJVZ3QtdldvbFUwWEFxVnBBajBKSTVZWFRNbEhrU0s0MnRrZUU4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-14/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza rápidamente",
+          "definition_en": "ulcer - open wound on the skin that does not heal quickly"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de la herida",
+          "definition_en": "exudate - fluid that comes from the wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido nuevo que se forma durante la cicatrización",
+          "definition_en": "granulation - new tissue that forms during healing"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "vendaje o material especial para cubrir heridas",
+          "definition_en": "dressing - bandage or special material to cover wounds"
+        }
+      ],
+      "added_at": "2026-03-14T09:12:48.130408Z"
+    },
+    {
+      "id": "burn-care-20250314",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Sistemas probióticos y postbióticos para la curación de heridas crónicas",
+      "headline_en": "Probiotic and postbiotic systems for chronic wound healing",
+      "summary_es": "Una revisión reciente examina cómo los sistemas de probióticos y postbióticos pueden mejorar el tratamiento de heridas crónicas. Estos enfoques innovadores representan estrategias emergentes en el manejo de úlceras y quemaduras.",
+      "body_es": "Los probióticos y postbióticos son microorganismos beneficiosos que pueden acelerar la cicatrización de heridas crónicas. Estos sistemas de entrega trabajan modificando el microbioma de la herida, lo que reduce la infección y promueve la epitelización. Los investigadores han identificado varias estrategias emergentes para aplicar estas terapias en pacientes con quemaduras, úlceras diabéticas y otras lesiones complejas. Los probióticos son organismos vivos, mientras que los postbióticos son sus metabolitos. El desbridamiento autolítico mejora cuando se combinan estos tratamientos con apósitos convencionales. Los estudios demuestran que la necrosis disminuye significativamente cuando se utiliza esta estrategia multimodal. Los enfermeros deben evaluar regularmente la granulación y el eritema alrededor de la herida. Esta revisión sugiere que estas terapias innovadoras podrían transformar el manejo de heridas crónicas en los próximos años.",
+      "body_en": "Probiotics and postbiotics are beneficial microorganisms that can accelerate chronic wound healing. These delivery systems work by modifying the wound's microbiome, which reduces infection and promotes epithelialization. Researchers have identified several emerging strategies for applying these therapies in patients with burns, diabetic ulcers, and other complex injuries. Probiotics are living organisms, while postbiotics are their metabolites. Autolytic debridement improves when these treatments are combined with conventional dressings. Studies show that necrosis decreases significantly when this multimodal strategy is used. Nurses must regularly evaluate granulation and erythema around the wound. This review suggests that these innovative therapies could transform chronic wound management in the coming years.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSDNSZWlqQWdRYXZVM0FESlQ5YkVKYlo1SnlzMGNDdkROX3g5bS14TGNrWVJQby1odFBjQUJRUlJPNllxamtkZF9FeWc0U1BnaU01MVZUb2pUdWxtbEs0RGN3dWh4MW8yYTZPOWdxS1hWN2JZRVY4YlhXQ1ZiRzVBNXNzOXVmN2hQcGVYeW9fV1d4VzA5M1M5X2tQNlM2eW95Q19BcUtXS0pvSXBNRjZXaW1SQXNJMmhMbWIxVjhobTFVc1ZXelZkWFM2R2VUWHotaGl3U0NHZlJBVFAzdG5sTGVYSQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-14/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "probiótico",
+          "definition_es": "microorganismo vivo beneficioso para la salud",
+          "definition_en": "probiotic - beneficial living microorganism for health"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación del tejido muerto o dañado de la herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from the wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido por falta de oxígeno o infección",
+          "definition_en": "necrosis - tissue death due to lack of oxygen or infection"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre la herida",
+          "definition_en": "epithelialization - formation of new skin over the wound"
+        }
+      ],
+      "added_at": "2026-03-14T09:12:48.130408Z"
+    },
+    {
+      "id": "surgical-wounds-20250314",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Manejo de infecciones del sitio quirúrgico en pacientes complejos",
+      "headline_en": "Management of surgical site infections in complex patients",
+      "summary_es": "El manejo adecuado de infecciones en sitios quirúrgicos es crucial para prevenir complicaciones. Los protocolos modernos combinan evaluación clínica, cultivos bacterianos y tratamientos antimicrobianos específicos.",
+      "body_es": "Las infecciones del sitio quirúrgico representan una complicación importante que puede retrasar la cicatrización y aumentar la morbilidad. Los signos clínicos incluyen eritema, edema, exudado purulento y dolor aumentado alrededor de la sutura. La evaluación temprana es fundamental para identificar la infección antes de que se desarrolle necrosis o isquemia. Los profesionales deben realizar cultivos bacterianos para identificar el patógeno específico y seleccionar el antibiótico más efectivo. El desbridamiento quirúrgico puede ser necesario si hay tejido necrótico extenso. Los apósitos especializados mantienen el ambiente óptimo para la granulación mientras controlan la infección. La medición regular de la herida documenta el progreso de cicatrización. Los enfermeros deben observar signos de complicaciones sistémicas como fiebre o linfadenitis. El manejo multimodal que combina antibióticos, desbridamiento y cuidado local mejora significativamente los resultados clínicos.",
+      "body_en": "Surgical site infections represent an important complication that can delay healing and increase morbidity. Clinical signs include erythema, edema, purulent exudate, and increased pain around the suture. Early assessment is fundamental to identify infection before necrosis or ischemia develops. Professionals must perform bacterial cultures to identify the specific pathogen and select the most effective antibiotic. Surgical debridement may be necessary if there is extensive necrotic tissue. Specialized dressings maintain the optimal environment for granulation while controlling infection. Regular wound measurement documents healing progress. Nurses should observe signs of systemic complications such as fever or lymphadenitis. Multimodal management combining antibiotics, debridement, and local care significantly improves clinical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWJ5dExzamVRNHhFUVp2eHlNNUN1UFRpZmhUZGdaWXU3YkFJSnRTRDh1T0YwYmdySlBhUGxJY25GSi1BNnI2b0I2bk1COTY0U256NmNFNVY4cDdIVVJKaWV4a19lQ0p3WXRaeXRvWFQxTTU5QV81eTF4aFg1cXhoUENxc3A4TG5wUWZLM1dqZnJJY2tlcS1BaTBkaFY1TVdwMHFJ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-14/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel por inflamación o infección",
+          "definition_en": "erythema - redness of skin due to inflammation or infection"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de oxígeno en los tejidos por reducción del flujo sanguíneo",
+          "definition_en": "ischemia - lack of oxygen in tissues due to reduced blood flow"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo que une los bordes de una herida quirúrgica",
+          "definition_en": "suture - thread that joins the edges of a surgical wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso mediante el cual la herida se cura y forma tejido nuevo",
+          "definition_en": "healing - process by which the wound heals and forms new tissue"
+        }
+      ],
+      "added_at": "2026-03-14T09:12:48.130408Z"
+    },
     {
       "id": "chronic-wounds-20250313",
       "category": "Chronic Wounds",
@@ -10620,6 +10731,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-13T09:16:53.521542Z",
+  "last_updated": "2026-03-14T09:12:48.130408Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
