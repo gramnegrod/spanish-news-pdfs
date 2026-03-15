@@ -1,225 +1,225 @@
 {
-  "date": "2026-03-14",
-  "generated_at": "2026-03-14T09:14:51.585711Z",
+  "date": "2026-03-15",
+  "generated_at": "2026-03-15T09:15:30.130218Z",
   "description": "Daily conversation stories for Spanish practice",
   "stories": [
     {
-      "id": "tech-20250314",
+      "id": "tech-20260315",
       "category": "Tecnología",
       "difficulty": "A2",
       "emoji": "🤖",
       "gradient": "blue",
-      "headline_es": "La inteligencia artificial llega a más empresas de tecnología",
-      "headline_en": "Artificial Intelligence Reaches More Technology Companies",
-      "summary_es": "Las grandes empresas de tecnología están usando la inteligencia artificial de diferentes formas. Cada empresa decide cómo integrar esta nueva tecnología en sus productos y servicios.",
-      "body_es": "La inteligencia artificial es muy importante ahora. Las empresas grandes de tecnología como Google, Microsoft y Apple usan la IA en sus productos. Pero cada empresa usa la IA de manera diferente. Algunas empresas integran la IA rápidamente en sus servicios. Otras empresas son más lentas. La IA ayuda a los trabajadores. También ayuda a los clientes. Los clientes pueden usar la IA para buscar información más rápido. Las empresas pueden usar la IA para trabajar mejor. La inteligencia artificial cambia el mundo de la tecnología cada día.",
-      "body_en": "Artificial intelligence is very important now. Large technology companies like Google, Microsoft, and Apple use AI in their products. But each company uses AI differently. Some companies integrate AI quickly into their services. Other companies are slower. AI helps workers. It also helps customers. Customers can use AI to search for information faster. Companies can use AI to work better. Artificial intelligence changes the technology world every day.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-14/tech.mp3",
+      "headline_es": "Las empresas de tecnología pagan los costos de electricidad para nuevos centros de datos de inteligencia artificial",
+      "headline_en": "Big Tech Companies to Pay for Electricity Costs of New AI Data Centers",
+      "summary_es": "La Casa Blanca anunció que las grandes empresas tecnológicas pagarán los costos de electricidad para los nuevos centros de datos de inteligencia artificial. Esta es una decisión importante para el desarrollo de la tecnología en Estados Unidos.",
+      "body_es": "La Casa Blanca ha anunciado una decisión importante sobre los nuevos centros de datos de inteligencia artificial. Las grandes empresas de tecnología como OpenAI, Google y Meta tendrán que pagar los costos de electricidad para estos centros. Los centros de datos necesitan mucha electricidad para funcionar correctamente. Esta decisión ayuda a proteger el medio ambiente y reduce los gastos del gobierno. Las empresas de tecnología están de acuerdo con esta medida porque quieren desarrollar la inteligencia artificial de forma responsable. El presidente Trump apoya este plan. Muchos expertos piensan que esto es bueno para el futuro de la tecnología en América.",
+      "body_en": "The White House has announced an important decision about new artificial intelligence data centers. Large technology companies like OpenAI, Google, and Meta will have to pay the electricity costs for these centers. Data centers need a lot of electricity to function properly. This decision helps protect the environment and reduces government spending. Technology companies agree with this measure because they want to develop artificial intelligence responsibly. President Trump supports this plan. Many experts think this is good for the future of technology in America.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-15/tech.mp3",
       "key_vocabulary": [
         {
+          "word": "centros de datos",
+          "definition_es": "lugares donde están las computadoras que guardan información",
+          "definition_en": "places where computers that store information are located"
+        },
+        {
+          "word": "electricidad",
+          "definition_es": "energía que usan las máquinas para funcionar",
+          "definition_en": "energy that machines use to operate"
+        },
+        {
           "word": "inteligencia artificial",
-          "definition_es": "máquinas y programas que pueden pensar y aprender como las personas",
-          "definition_en": "machines and programs that can think and learn like people"
+          "definition_es": "tecnología que permite a las máquinas pensar como los humanos",
+          "definition_en": "technology that allows machines to think like humans"
         },
         {
-          "word": "integrar",
-          "definition_es": "combinar o incorporar algo en un sistema",
-          "definition_en": "to combine or incorporate something into a system"
-        },
-        {
-          "word": "empresas",
-          "definition_es": "negocios o compañías que venden productos o servicios",
-          "definition_en": "businesses or companies that sell products or services"
-        },
-        {
-          "word": "cambiar",
-          "definition_es": "hacer algo diferente o nuevo",
-          "definition_en": "to make something different or new"
+          "word": "gastos",
+          "definition_es": "dinero que se usa para algo",
+          "definition_en": "money that is spent on something"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-14/tech-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste la nota? La IA ya se metió a más empresas tech. ¡Está en todos lados!  \nCARLOS: Sí, Google, Microsoft, Apple… ya parece que si no traes IA, no existes.  \nLAURA: ¡No manches! Y cada quien la usa diferente: unos la meten rapidísimo y otros bien lentos.  \nCARLOS: Ajá, como el compa que “ya va en camino” y sigue en su casa.  \nLAURA: Exacto. Pero sí está chido que ayude a los trabajadores, ¿no? Menos cosas repetitivas.  \nCARLOS: Mientras no sea “hola, IA, haz mi chamba completa”. Ahí sí me da cosita.  \nLAURA: Pero para clientes, ¡qué padre! Buscar info más rápido, resumir cosas… adiós a leer 30 páginas.  \nCARLOS: Aunque luego se inventa datos, ¿eh? Como amigo que exagera en la peda.  \nLAURA: Jajaja. Igual, el mundo tech cambia diario. Ya ni me da tiempo de actualizarme.  \nCARLOS: Pues vámonos por un café… y que la IA nos escoja el postre."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-15/tech-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, ¿ya viste esto? ¡Ahora las tech tienen que pagar la luz de sus centros de datos de IA!  \nCARLOS: ¿En serio? ¡No manches! Esos centros tragan electricidad como si fuera buffet.  \nLAURA: Sí, la Casa Blanca dijo: “si quieres tus robots listos, tú pagas el recibo”.  \nCARLOS: La neta, tiene sentido. Menos gasto del gobierno y, supuestamente, más cuidado al medio ambiente.  \nLAURA: Y OpenAI, Google, Meta… todos “sí, va”. ¡Qué raro verlos de acuerdo!  \nCARLOS: Pues es que la IA sin energía es puro humo. Y con tanta demanda, alguien tenía que poner orden.  \nLAURA: Además Trump anda apoyando el plan. Eso sí me sacó de onda.  \nCARLOS: Capaz y es de esas veces que se alinean: negocio, imagen y regulación.  \nLAURA: Pero imagínate el recibo… “Centro de datos: 3 millones. Propina: 0”.  \nCARLOS: Jajaja. Oye, mínimo que con eso optimicen y no hagan que ChatGPT te responda con puro “depende”.  \nLAURA: ¡Qué padre! Próximo episodio: ¿quién paga el WiFi del futuro?"
     },
     {
-      "id": "sports-20250314",
+      "id": "sports-20260315",
       "category": "Deportes",
       "difficulty": "A2",
       "emoji": "🏀",
       "gradient": "orange",
-      "headline_es": "El torneo de baloncesto de la SEC llega en marzo 2026",
-      "headline_en": "The SEC Basketball Tournament Arrives in March 2026",
-      "summary_es": "El torneo de baloncesto de la Southeastern Conference (SEC) es uno de los eventos más importantes del año. Muchos equipos compiten para ganar el campeonato.",
-      "body_es": "El torneo de baloncesto de la SEC es muy emocionante. En 2026, el torneo ocurre en marzo. Los mejores equipos de la SEC participan en el torneo. Los equipos juegan partidos en días diferentes. Los aficionados pueden ver los partidos en televisión o en línea. El torneo tiene muchos partidos interesantes. Los equipos fuertes juegan contra equipos débiles. Los jugadores corren, saltan y tiran la pelota. Los aficionados gritan en el estadio. El ganador del torneo es muy importante. Muchas personas ven los partidos de baloncesto de la SEC.",
-      "body_en": "The SEC basketball tournament is very exciting. In 2026, the tournament takes place in March. The best SEC teams participate in the tournament. The teams play games on different days. Fans can watch the games on television or online. The tournament has many interesting games. Strong teams play against weak teams. The players run, jump, and shoot the ball. The fans cheer in the stadium. The tournament winner is very important. Many people watch SEC basketball games.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-14/sports.mp3",
+      "headline_es": "El torneo March Madness 2026 comienza con equipos nuevos",
+      "headline_en": "March Madness 2026 Begins with New Teams Dancing",
+      "summary_es": "UMBC juega en el torneo March Madness por primera vez desde 2018. El equipo está muy emocionado de participar en este importante torneo de baloncesto.",
+      "body_es": "UMBC regresa al torneo March Madness de 2026 después de ocho años. El equipo no juega en este torneo desde 2018. En 2018, UMBC hizo una cosa increíble: derrotó a Virginia en la primera ronda. Eso fue una sorpresa muy grande en el baloncesto. Ahora, en 2026, el equipo tiene otra oportunidad de jugar en March Madness. Los jugadores están muy motivados. El entrenador prepara al equipo para ganar. Los aficionados están emocionados de ver jugar a UMBC de nuevo. El torneo March Madness es el evento de baloncesto más importante de Estados Unidos. Muchas personas ven los juegos en televisión.",
+      "body_en": "UMBC returns to the 2026 March Madness tournament after eight years. The team has not played in this tournament since 2018. In 2018, UMBC did something incredible: they defeated Virginia in the first round. That was a very big surprise in basketball. Now, in 2026, the team has another opportunity to play in March Madness. The players are very motivated. The coach prepares the team to win. Fans are excited to see UMBC play again. The March Madness tournament is the most important basketball event in the United States. Many people watch the games on television.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-15/sports.mp3",
       "key_vocabulary": [
         {
           "word": "torneo",
-          "definition_es": "competencia entre muchos equipos o jugadores",
-          "definition_en": "a competition between many teams or players"
+          "definition_es": "competencia donde muchos equipos juegan para ganar un premio",
+          "definition_en": "competition where many teams play to win a prize"
         },
         {
-          "word": "baloncesto",
-          "definition_es": "deporte donde dos equipos tiran una pelota a una canasta",
-          "definition_en": "sport where two teams throw a ball into a basket"
+          "word": "derrotar",
+          "definition_es": "ganar contra un equipo en un juego",
+          "definition_en": "to beat another team in a game"
         },
         {
           "word": "aficionados",
-          "definition_es": "personas que les gusta ver o practicar un deporte",
-          "definition_en": "people who like to watch or play a sport"
+          "definition_es": "personas que les gusta ver y seguir un deporte",
+          "definition_en": "people who like to watch and follow a sport"
         },
         {
-          "word": "ganador",
-          "definition_es": "la persona o el equipo que gana una competencia",
-          "definition_en": "the person or team that wins a competition"
+          "word": "motivados",
+          "definition_es": "con ganas y entusiasmo de hacer algo",
+          "definition_en": "with desire and enthusiasm to do something"
         }
       ]
     },
     {
-      "id": "culture-20250314",
+      "id": "cultura-20260315",
       "category": "Cultura",
       "difficulty": "B1",
       "emoji": "🎬",
       "gradient": "purple",
-      "headline_es": "Nueva York regala 5,000 entradas de cine durante la Semana del Cine de Arte",
-      "headline_en": "New York Gives Away 5,000 Movie Tickets During Art House Cinema Week",
-      "summary_es": "La ciudad de Nueva York está promoviendo el cine de arte mediante una iniciativa especial que ofrece miles de entradas gratuitas. Esta es una oportunidad excelente para que los neoyorquinos disfruten de películas independientes y artísticas.",
-      "body_es": "Nueva York está celebrando la Semana del Cine de Arte con una iniciativa muy especial. Están regalando 5,000 entradas de cine completamente gratis a los ciudadanos. El objetivo es que más personas descubran películas de arte y filmes independientes. Las películas de arte son diferentes a las películas comerciales grandes. Normalmente, estas películas exploran temas profundos y tienen un estilo más creativo. Durante esta semana, los cinéfilos pueden ver películas de directores reconocidos en salas de cine especializadas. Los organizadores creen que es importante apoyar el cine de arte. Si asistes a esta semana, tendrás la oportunidad de experimentar nuevas historias y perspectivas. Esta iniciativa demuestra cómo la ciudad valora la cultura y el arte cinematográfico.",
-      "body_en": "New York is celebrating Art House Cinema Week with a very special initiative. They are giving away 5,000 free movie tickets to citizens. The goal is for more people to discover art films and independent movies. Art films are different from big commercial movies. Usually, these films explore deep themes and have a more creative style. During this week, film enthusiasts can watch films by renowned directors in specialized cinemas. The organizers believe it is important to support art cinema. If you attend this week, you will have the opportunity to experience new stories and perspectives. This initiative demonstrates how the city values culture and cinema art.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-14/culture.mp3",
+      "headline_es": "La película 'Sinners' ambientada en Mississippi podría hacer historia en los Oscars",
+      "headline_en": "'Sinners,' a Mississippi-Set Film, Could Make Oscars History",
+      "summary_es": "La película 'Sinners', que transcurre en Mississippi, tiene el potencial de hacer historia en la ceremonia de los Oscars. El filme ha generado mucha expectativa entre críticos y audiencias.",
+      "body_es": "La película 'Sinners' ha capturado la atención de muchos críticos y espectadores en todo el país. Ambientada en Mississippi, esta producción explora temas complejos relacionados con la historia y la identidad cultural. Los directores y productores han trabajado durante años para llevar esta historia a la pantalla de manera auténtica y respetuosa. La película ha recibido nominaciones importantes y se considera una de las favoritas para los premios de la Academia. Si gana en las categorías principales, sería un momento histórico para el cine estadounidense. La cinematografía es hermosa y la actuación de los protagonistas es memorable. Muchas personas consideran que esta película representa un cambio importante en cómo Hollywood cuenta historias sobre la experiencia afroamericana. La ceremonia de los Oscars se transmitirá por televisión para que millones de personas puedan verla.",
+      "body_en": "The film 'Sinners' has captured the attention of many critics and viewers throughout the country. Set in Mississippi, this production explores complex themes related to history and cultural identity. Directors and producers have worked for years to bring this story to the screen authentically and respectfully. The film has received major nominations and is considered one of the favorites for Academy Awards. If it wins in the main categories, it would be a historic moment for American cinema. The cinematography is beautiful and the acting of the main characters is memorable. Many people believe this film represents an important change in how Hollywood tells stories about the African American experience. The Oscars ceremony will be broadcast on television so that millions of people can watch it.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-15/culture.mp3",
       "key_vocabulary": [
         {
-          "word": "entradas",
-          "definition_es": "billetes que permiten entrar a un lugar como un cine o teatro",
-          "definition_en": "tickets that allow entry to a place like a cinema or theater"
+          "word": "ambientada",
+          "definition_es": "que tiene lugar en un lugar o tiempo específico",
+          "definition_en": "set in a specific place or time"
         },
         {
-          "word": "cine de arte",
-          "definition_es": "películas creativas e independientes que exploran temas profundos",
-          "definition_en": "creative and independent films that explore deep themes"
+          "word": "nominaciones",
+          "definition_es": "selecciones de películas o actores para competir por premios",
+          "definition_en": "selections of films or actors to compete for awards"
         },
         {
-          "word": "cinéfilos",
-          "definition_es": "personas apasionadas por ver películas de buena calidad",
-          "definition_en": "people passionate about watching high-quality films"
+          "word": "cinematografía",
+          "definition_es": "el arte de filmar y la calidad visual de una película",
+          "definition_en": "the art of filming and the visual quality of a film"
         },
         {
-          "word": "perspectivas",
-          "definition_es": "puntos de vista o formas diferentes de entender algo",
-          "definition_en": "viewpoints or different ways of understanding something"
+          "word": "memorable",
+          "definition_es": "que se recuerda fácilmente porque es muy bueno",
+          "definition_en": "easy to remember because it is very good"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-14/culture-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¡no manches! Vi que en Nueva York están regalando 5,000 entradas de cine por la Semana del Cine de Arte.  \nCARLOS: ¿En serio? Eso suena a “me quiero sentir culto” pero sin pagar, y eso me encanta.  \nLAURA: ¡Qué padre! Porque luego uno dice “cine de arte” y piensa: “voy a sufrir dos horas viendo una silla”.  \nCARLOS: Jajaja, pero también hay joyitas. Pelis indie que te dejan pensando… o mínimo con una buena conversación.  \nLAURA: Exacto, y dicen que es para que la banda descubra historias diferentes, no las típicas palomeras.  \nCARLOS: Y en salas especializadas… o sea, el lugar donde nadie saca el celular y sí respetan el silencio.  \nLAURA: ¡Uff, sueño! Además, directores reconocidos, así de “ah, sí, yo lo vi antes de que fuera famoso”.  \nCARLOS: Eso es pura felicidad hipster.  \nLAURA: Si yo viviera allá, me lanzo por unas tres.  \nCARLOS: Y salimos diciendo: “no entendí todo… pero me encantó”."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-15/culture-podcast.mp3",
+      "podcast_transcript": "LAURA: ¡Oye, Carlos! ¿Ya viste lo de la peli “Sinners”? Dicen que podría hacer historia en los Oscars.  \nCARLOS: ¿En serio? Suena intenso… ¿de qué va o qué?  \nLAURA: Está ambientada en Mississippi y se mete con historia e identidad cultural, pero sin ponerse mamona, según los críticos.  \nCARLOS: Ah, eso me late. Cuando lo hacen con respeto, se nota.  \nLAURA: ¡Y trabajaron años para que se sintiera auténtica! O sea, no nomás “vamos a grabar y ya”.  \nCARLOS: Eso explica por qué la traen tan fuerte. ¿Ya tiene nominaciones?  \nLAURA: Sí, importantes. Y dicen que es de las favoritas para las categorías chonchas.  \nCARLOS: No manches… si gana, sería un momentazo para el cine gringo, ¿no?  \nLAURA: Total. Y la foto está “de postal”, y las actuaciones… memorables, así de “me quedé pensando”.  \nCARLOS: Además, que cambie cómo Hollywood cuenta la experiencia afroamericana… eso sí pesa.  \nLAURA: Pues ya quedó: noche de Oscars, botana y debate existencial… pero con palomitas."
     },
     {
-      "id": "economy-20250314",
+      "id": "economia-20260315",
       "category": "Economía",
       "difficulty": "B1",
-      "emoji": "📈",
+      "emoji": "📊",
       "gradient": "green",
-      "headline_es": "Robinhood Markets nombra a la Dra. Naomi Boyd como asesora económica",
-      "headline_en": "Robinhood Markets Appoints Dr. Naomi Boyd as Chief Economic Advisor",
-      "summary_es": "La plataforma de inversión Robinhood ha anunciado un nuevo nombramiento estratégico. La Dra. Naomi Boyd asumirá el rol de asesora económica principal de la empresa.",
-      "body_es": "Robinhood Markets, una plataforma popular para invertir en acciones, ha tomado una decisión importante. La compañía ha nombrado a la Dra. Naomi Boyd como asesora económica principal. Este nombramiento refleja el compromiso de Robinhood con el análisis económico riguroso. La Dra. Boyd traerá experiencia significativa en economía y finanzas. Su papel será proporcionar análisis económico a los ejecutivos y a los inversores de la plataforma. Si Robinhood continúa mejorando sus servicios económicos, más inversores podrían confiar en la plataforma. El nombramiento también sugiere que Robinhood quiere expandir su influencia en el mercado financiero. La Dra. Boyd será responsable de evaluar tendencias económicas y proporcionar recomendaciones estratégicas. Este cambio podría beneficiar a millones de usuarios que buscan información económica confiable.",
-      "body_en": "Robinhood Markets, a popular platform for investing in stocks, has made an important decision. The company has appointed Dr. Naomi Boyd as Chief Economic Advisor. This appointment reflects Robinhood's commitment to rigorous economic analysis. Dr. Boyd will bring significant experience in economics and finance. Her role will be to provide economic analysis to the company's executives and investors. If Robinhood continues to improve its economic services, more investors could trust the platform. The appointment also suggests that Robinhood wants to expand its influence in the financial market. Dr. Boyd will be responsible for evaluating economic trends and providing strategic recommendations. This change could benefit millions of users who seek reliable economic information.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-14/economy.mp3",
+      "headline_es": "El mercado inmobiliario estadounidense enfrenta incertidumbre económica a mitad de 2026",
+      "headline_en": "US Housing Market Faces Economic Uncertainty Amid Geopolitical Tensions",
+      "summary_es": "El mercado de vivienda estadounidense comenzó 2026 con esperanzas de recuperación, pero ahora se enfrenta a una profunda niebla de incertidumbre económica provocada por conflictos geopolíticos y desempleo.",
+      "body_es": "El mercado inmobiliario de Estados Unidos inició el año 2026 con la esperanza de una recuperación modesta. Sin embargo, la situación ha cambiado significativamente en los últimos meses. Actualmente, el mercado enfrenta una profunda incertidumbre económica causada por varios factores importantes. Los conflictos geopolíticos en diferentes regiones del mundo han afectado la economía global. El crecimiento del empleo se ha ralentizado considerablemente, lo que preocupa a los economistas. Los precios de las viviendas son volátiles y fluctúan constantemente. Los analistas financieros advierten que si la situación no mejora, podría haber una desaceleración económica importante. Las personas están menos seguras de invertir en propiedades debido a esta incertidumbre. Los bancos están siendo más cautelosos con los préstamos hipotecarios. Muchos expertos recomiendan que las familias esperen antes de comprar una casa.",
+      "body_en": "The US real estate market started 2026 with hopes for modest recovery. However, the situation has changed significantly in recent months. Currently, the market faces deep economic uncertainty caused by several important factors. Geopolitical conflicts in different regions of the world have affected the global economy. Employment growth has slowed considerably, which concerns economists. Housing prices are volatile and fluctuate constantly. Financial analysts warn that if the situation does not improve, there could be a significant economic slowdown. People are less confident about investing in properties due to this uncertainty. Banks are being more cautious with mortgage loans. Many experts recommend that families wait before buying a house.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-15/economy.mp3",
       "key_vocabulary": [
         {
-          "word": "nombra",
-          "definition_es": "designa a alguien para un puesto o responsabilidad",
-          "definition_en": "appoints someone to a position or responsibility"
+          "word": "incertidumbre",
+          "definition_es": "falta de seguridad o claridad sobre lo que va a pasar",
+          "definition_en": "lack of certainty or clarity about what will happen"
         },
         {
-          "word": "asesora económica",
-          "definition_es": "persona que da consejos sobre dinero y economía a una empresa",
-          "definition_en": "person who gives advice on money and economics to a company"
+          "word": "geopolíticos",
+          "definition_es": "relacionado con la política y conflictos entre países",
+          "definition_en": "related to politics and conflicts between countries"
         },
         {
-          "word": "tendencias",
-          "definition_es": "direcciones o cambios que está tomando algo en el tiempo",
-          "definition_en": "directions or changes that something is taking over time"
+          "word": "volátiles",
+          "definition_es": "que cambian rápidamente y sin predicción",
+          "definition_en": "that change rapidly and unpredictably"
         },
         {
-          "word": "inversores",
-          "definition_es": "personas que ponen dinero en empresas o acciones para ganar dinero",
-          "definition_en": "people who put money into companies or stocks to make money"
+          "word": "hipotecarios",
+          "definition_es": "relacionado con los préstamos para comprar casas",
+          "definition_en": "related to loans for buying houses"
         }
       ]
     },
     {
-      "id": "environment-20250314",
+      "id": "ambiente-20260315",
       "category": "Medio Ambiente",
       "difficulty": "B2",
-      "emoji": "🌲",
+      "emoji": "🌍",
       "gradient": "teal",
-      "headline_es": "La ecóloga Suzanne Simard revela los secretos inteligentes de los bosques",
-      "headline_en": "Ecologist Suzanne Simard Reveals the Intelligent Secrets of Forests",
-      "summary_es": "La renombrada ecóloga Suzanne Simard desafía las concepciones tradicionales sobre los bosques, argumentando que los árboles poseen formas de inteligencia y comunicación que merecen ser reconocidas en la lucha contra el cambio climático.",
-      "body_es": "La ecóloga Suzanne Simard ha dedicado su carrera a comprender los sistemas complejos que existen dentro de los bosques. Sus ideas, aunque consideradas revolucionarias por algunos, sugieren que los árboles están conectados a través de redes subterráneas de hongos, las cuales facilitan la comunicación y el intercambio de nutrientes entre diferentes árboles. Simard argumenta que es esencial reconocer esta inteligencia forestal si deseamos enfrentar adecuadamente el cambio climático. Aunque sus investigaciones han sido cuestionadas por algunos críticos, la evidencia que ha acumulado resulta cada vez más convincente. Si incorporáramos estos conocimientos en nuestras estrategias de conservación, podríamos proteger mejor los bosques y, consecuentemente, mitigar los efectos del cambio climático global. Su trabajo demuestra que la ciencia ambiental requiere una perspectiva más holística. Los bosques no son simplemente colecciones de árboles individuales, sino sistemas vivos y conscientes que merecen nuestra atención y respeto.",
-      "body_en": "Ecologist Suzanne Simard has dedicated her career to understanding the complex systems that exist within forests. Her ideas, though considered revolutionary by some, suggest that trees are connected through underground fungal networks, which facilitate communication and nutrient exchange between different trees. Simard argues that it is essential to recognize this forest intelligence if we wish to properly address climate change. Although her research has been questioned by some critics, the evidence she has accumulated is increasingly convincing. If we were to incorporate this knowledge into our conservation strategies, we could better protect forests and, consequently, mitigate the effects of global climate change. Her work demonstrates that environmental science requires a more holistic perspective. Forests are not simply collections of individual trees, but living and conscious systems that deserve our attention and respect.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-14/environment.mp3",
+      "headline_es": "Científicos descubren enormes remolinos ocultos en las profundidades del hielo de Groenlandia",
+      "headline_en": "Scientists Discover Giant Swirling Plumes Hidden Deep Inside Greenland's Ice Sheet",
+      "summary_es": "Investigadores han identificado enormes remolinos de agua ocultos bajo el hielo de Groenlandia, un descubrimiento que podría revolucionar nuestra comprensión del deshielo polar y el cambio climático global.",
+      "body_es": "Un equipo internacional de científicos ha realizado un descubrimiento significativo en las profundidades del manto de hielo de Groenlandia. Utilizando tecnología de mapeo avanzada, los investigadores identificaron enormes remolinos de agua subglacial que habían permanecido ocultos durante milenios. Estos remolinos, conocidos como plumas, circulan agua cálida desde el océano hacia el interior del hielo, acelerando potencialmente el proceso de fusión. El hallazgo sugiere que el deshielo de Groenlandia podría ser más rápido de lo que se había calculado anteriormente. Los científicos advierten que si esta tendencia continúa sin control, podría contribuir significativamente al aumento del nivel del mar en las próximas décadas. Este descubrimiento destaca la complejidad de los sistemas climáticos y subraya la urgencia de implementar medidas para mitigar el cambio climático. Los investigadores recomiendan que se realicen estudios adicionales para comprender mejor cómo estos remolinos afectan el balance global del hielo.",
+      "body_en": "An international team of scientists has made a significant discovery in the depths of Greenland's ice sheet. Using advanced mapping technology, researchers identified enormous subglacial water plumes that had remained hidden for millennia. These plumes circulate warm water from the ocean toward the interior of the ice, potentially accelerating the melting process. The finding suggests that Greenland's melting could be faster than previously calculated. Scientists warn that if this trend continues unchecked, it could significantly contribute to sea level rise in the coming decades. This discovery highlights the complexity of climate systems and underscores the urgency of implementing measures to mitigate climate change. Researchers recommend that additional studies be conducted to better understand how these plumes affect the global ice balance.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-15/environment.mp3",
       "key_vocabulary": [
         {
-          "word": "redes subterráneas",
-          "definition_es": "sistemas de conexiones que existen bajo tierra, principalmente entre raíces y hongos",
-          "definition_en": "systems of connections that exist underground, mainly between roots and fungi"
+          "word": "remolinos",
+          "definition_es": "movimientos circulares de agua o aire que giran sobre sí mismos",
+          "definition_en": "circular movements of water or air that spin on themselves"
+        },
+        {
+          "word": "subglacial",
+          "definition_es": "situado o que ocurre bajo una capa de hielo",
+          "definition_en": "located or occurring beneath a layer of ice"
+        },
+        {
+          "word": "deshielo",
+          "definition_es": "proceso de fusión del hielo cuando aumenta la temperatura",
+          "definition_en": "process of ice melting when temperature increases"
         },
         {
           "word": "mitigar",
-          "definition_es": "reducir la intensidad o gravedad de algo, especialmente un problema",
-          "definition_en": "to reduce the intensity or severity of something, especially a problem"
-        },
-        {
-          "word": "holística",
-          "definition_es": "que considera el todo como un sistema completo, no solo las partes individuales",
-          "definition_en": "that considers the whole as a complete system, not just individual parts"
-        },
-        {
-          "word": "consecuentemente",
-          "definition_es": "como resultado de algo; por lo tanto",
-          "definition_en": "as a result of something; therefore"
+          "definition_es": "reducir la intensidad o gravedad de algo negativo",
+          "definition_en": "to reduce the intensity or severity of something negative"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-14/environment-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste lo de Suzanne Simard? Dice que los bosques son… medio inteligentes.  \nCARLOS: ¿En serio? Suena a “Avatar”, pero en versión pino. ¿Qué onda?  \nLAURA: ¡No manches! Que los árboles se conectan con hongos bajo tierra, como un WiFi subterráneo.  \nCARLOS: Ah, la famosa red micorrízica. O sea, comparten nutrientes y hasta “mensajitos”, ¿no?  \nLAURA: Sí, tipo: “Oye, vecino, te falta agüita, toma tantito azúcar”. ¡Qué padre!  \nCARLOS: Y eso cambia cómo cuidamos los bosques. No es nomás plantar árboles y ya.  \nLAURA: Exacto, porque si rompes la red, es como cortar el internet de toda la colonia.  \nCARLOS: Aunque dicen que algunos científicos la cuestionan. Pero la evidencia va agarrando fuerza.  \nLAURA: Y si lo tomamos en serio, ayudaría contra el cambio climático. O sea, bosques más sanos, planeta más feliz.  \nCARLOS: Moral: respeta al hongo.  \nLAURA: Jajaja, sí: la próxima vez que vea un hongo, le digo “gracias por tu servicio”."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-15/environment-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, ¿viste esto? ¡Encontraron remolinos gigantes escondidos bajo el hielo de Groenlandia!  \nCARLOS: ¿Remolinos… bajo hielo? No manches, suena como licuadora congelada.  \nLAURA: ¡Ajá! Usaron mapeo súper avanzado y hallaron “plumas” de agua subglacial.  \nCARLOS: ¿Plumas? Yo pensé en aves, pero ok… ¿y qué hacen?  \nLAURA: Pues jalan agua calientita del océano hacia adentro del hielo, y eso acelera la fusión.  \nCARLOS: O sea, como si el hielo tuviera calefacción interna. Qué miedo.  \nLAURA: Exacto, y dicen que Groenlandia podría derretirse más rápido de lo calculado.  \nCARLOS: Y eso… sube el nivel del mar. Adiós playas, hola sandalias en la sala.  \nLAURA: ¡Qué fuerte! Y lo peor: estuvieron ocultos por milenios. Bien ninja esos remolinos.  \nCARLOS: Sí, el clima trae DLC nuevo cada año.  \nLAURA: Moraleja: necesitamos actuar ya… pero mientras, yo pido otro café helado—con menos “plumas”, porfa."
     },
     {
-      "id": "gastronomy-20250314",
+      "id": "gastronomia-20260315",
       "category": "Gastronomía",
       "difficulty": "B2",
-      "emoji": "🍽️",
+      "emoji": "👨‍🍳",
       "gradient": "red",
-      "headline_es": "Los utensilios de cocina no tóxicos: la perspectiva de un chef experimentado",
-      "headline_en": "Non-Toxic Kitchen Tools: An Experienced Chef's Perspective",
-      "summary_es": "Un chef con una década de experiencia comparte sus recomendaciones sobre los utensilios de cocina más seguros y eficientes. La salud en la cocina es fundamental para preparar alimentos de calidad.",
-      "body_es": "Durante una década trabajando en cocinas profesionales, un chef reconocido ha desarrollado un profundo conocimiento sobre los utensilios que verdaderamente importan. Su experiencia lo ha llevado a investigar exhaustivamente cuáles son los materiales más seguros para cocinar sin comprometer la salud. El chef enfatiza que es crucial seleccionar utensilios fabricados con materiales no tóxicos, ya que estos entran en contacto directo con los alimentos que consumimos. Recomienda evitar los revestimientos químicos peligrosos que, aunque convenientes inicialmente, pueden desprenderse y contaminar la comida. Entre sus sugerencias destacan los utensilios de acero inoxidable de alta calidad, hierro fundido bien mantenido y cerámica especializada. El experto sostiene que, aunque estos materiales requieran más cuidado y mantenimiento, la inversión en utensilios seguros es esencial para la cocina profesional y doméstica. Si todos adoptáramos estas prácticas, podríamos mejorar significativamente nuestra salud alimentaria. Sus recomendaciones no solo benefician a los chefs profesionales, sino también a cualquier persona que desee cocinar de forma más consciente y responsable.",
-      "body_en": "During a decade working in professional kitchens, a renowned chef has developed deep knowledge about utensils that truly matter. His experience has led him to thoroughly investigate which materials are safest for cooking without compromising health. The chef emphasizes that it is crucial to select utensils made from non-toxic materials, as these come into direct contact with the food we consume. He recommends avoiding dangerous chemical coatings that, while initially convenient, can flake off and contaminate food. Among his suggestions are high-quality stainless steel utensils, well-maintained cast iron, and specialized ceramic. The expert maintains that, although these materials require more care and maintenance, investing in safe utensils is essential for professional and home cooking. If we all adopted these practices, we could significantly improve our food health. His recommendations benefit not only professional chefs but also anyone who wishes to cook more consciously and responsibly.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-14/gastronomy.mp3",
+      "headline_es": "Trufas, paté de hígado de ganso y sexismo: la cocina nueva lo sirvió todo",
+      "headline_en": "Truffles, Foie Gras and Sexism: Nouvelle Cuisine Served It All",
+      "summary_es": "Un análisis profundo revela cómo la cocina nueva francesa de los años sesenta y setenta revolucionó la gastronomía mundial, aunque perpetuó desigualdades de género en la industria culinaria.",
+      "body_es": "La cocina nueva, o \"nouvelle cuisine,\" emergió en Francia durante los años sesenta como una rebelión contra las tradiciones culinarias establecidas. Aunque este movimiento innovador introdujo técnicas refinadas y presentaciones artísticas, también reflejó las prejudicios sociales de su época. Los chefs, predominantemente hombres, ganaron reconocimiento internacional mientras que las mujeres cocineras permanecían en la sombra. La gastronomía de lujo, con ingredientes exclusivos como trufas y paté de hígado de ganso, se convirtió en un símbolo de estatus que reforzaba divisiones sociales. A pesar de que muchas mujeres contribuyeron significativamente al desarrollo de estas técnicas culinarias, rara vez recibieron el crédito o el reconocimiento que merecían. Este desequilibrio histórico ha dejado un legado duradero en la industria gastronómica contemporánea. Los historiadores de la gastronomía enfatizan que es crucial reevaluar y reconocer las contribuciones olvidadas de las mujeres chefs que moldearon la cocina moderna. Las nuevas generaciones de cocineros están trabajando para transformar una cultura culinaria que sea más inclusiva y equitativa.",
+      "body_en": "Nouvelle cuisine emerged in France during the 1960s as a rebellion against established culinary traditions. Although this innovative movement introduced refined techniques and artistic presentations, it also reflected the social prejudices of its time. Chefs, predominantly men, gained international recognition while female cooks remained in the shadows. Luxury gastronomy, with exclusive ingredients like truffles and foie gras, became a symbol of status that reinforced social divisions. Despite many women contributing significantly to the development of these culinary techniques, they rarely received the credit or recognition they deserved. This historical imbalance has left a lasting legacy in contemporary gastronomy. Food historians emphasize that it is crucial to reevaluate and recognize the forgotten contributions of female chefs who shaped modern cuisine. New generations of cooks are working to transform a culinary culture that is more inclusive and equitable.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-03-15/gastronomy.mp3",
       "key_vocabulary": [
         {
-          "word": "utensilios",
-          "definition_es": "herramientas o instrumentos que se usan para preparar o servir comida",
-          "definition_en": "tools or instruments used to prepare or serve food"
+          "word": "rebelión",
+          "definition_es": "rechazo o resistencia contra algo establecido o tradicional",
+          "definition_en": "rejection or resistance against something established or traditional"
         },
         {
-          "word": "revestimientos",
-          "definition_es": "capas o cubiertas que protegen o decoran la superficie de algo",
-          "definition_en": "layers or coverings that protect or decorate the surface of something"
+          "word": "perpetuó",
+          "definition_es": "hizo que algo continúe indefinidamente o durante mucho tiempo",
+          "definition_en": "made something continue indefinitely or for a long time"
         },
         {
-          "word": "desprenderse",
-          "definition_es": "separarse o caerse de un objeto del cual estaba adherido",
-          "definition_en": "to separate or fall off from an object to which it was attached"
+          "word": "legado",
+          "definition_es": "lo que se deja o transmite de una generación a otra",
+          "definition_en": "what is left or passed from one generation to another"
         },
         {
-          "word": "consciente",
-          "definition_es": "que actúa con conocimiento y consideración de las consecuencias",
-          "definition_en": "acting with awareness and consideration of the consequences"
+          "word": "equitativa",
+          "definition_es": "que es justa e imparcial para todos",
+          "definition_en": "that is fair and impartial to everyone"
         }
       ]
     }
   ],
-  "last_updated": "2026-03-14T09:14:51.585711Z",
+  "last_updated": "2026-03-15T09:15:30.130218Z",
   "generated_by": "GitHub Actions + Anthropic API"
 }
