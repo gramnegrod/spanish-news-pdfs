@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-15",
+      "filename": "spanish_lesson_2026-03-15.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-15.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Senado aprueba nueva ley para viviendas más baratas",
+          "headline_en": "Senate approves new law for cheaper housing",
+          "body_es": "El Senado de Estados Unidos aprobó una importante ley sobre vivienda. Esta nueva ley quiere ayudar a las personas a encontrar casas más baratas. Muchas familias no pueden comprar una casa porque los precios son muy altos. La ley recibió votos de los dos partidos políticos principales. Los senadores republicanos y demócratas trabajaron juntos. La nueva ley dará dinero para construir más viviendas. También ayudará a las familias con menos dinero. Los expertos dicen que esta ley puede ayudar a millones de americanos. Ahora la ley va a la Cámara de Representantes. Si la Cámara también la aprueba, el presidente la firmará. Esta es una buena noticia para las familias que buscan casa.",
+          "body_en": "The United States Senate approved an important housing law. This new law wants to help people find cheaper homes. Many families cannot buy a house because prices are very high. The law received votes from both main political parties. Republican and Democratic senators worked together. The new law will give money to build more housing. It will also help families with less money. Experts say this law can help millions of Americans. Now the law goes to the House of Representatives. If the House also approves it, the president will sign it. This is good news for families looking for homes.",
+          "source": "Scripps News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Warren Buffett se jubila y advierte sobre problemas económicos",
+          "headline_en": "Warren Buffett retires and warns about economic problems",
+          "body_es": "Warren Buffett, uno de los hombres más ricos del mundo, decidió jubilarse a los 94 años. Buffett es famoso por ser muy bueno invirtiendo dinero. Su empresa, Berkshire Hathaway, vale 373 mil millones de dólares. Antes de jubilarse, Buffett hizo una advertencia importante. Él dice que la economía de Estados Unidos tiene problemas serios. Piensa que los precios van a subir mucho. También cree que muchas empresas van a tener dificultades. Buffett vendió muchas acciones de su empresa este año. Esto significa que no confía en el mercado actual. Los expertos están preocupados por sus palabras. Buffett casi nunca se equivoca con sus predicciones económicas. Su retiro marca el final de una era en Wall Street.",
+          "body_en": "Warren Buffett, one of the richest men in the world, decided to retire at age 94. Buffett is famous for being very good at investing money. His company, Berkshire Hathaway, is worth 373 billion dollars. Before retiring, Buffett made an important warning. He says the United States economy has serious problems. He thinks prices will rise a lot. He also believes many companies will have difficulties. Buffett sold many shares of his company this year. This means he doesn't trust the current market. Experts are worried about his words. Buffett is almost never wrong with his economic predictions. His retirement marks the end of an era on Wall Street.",
+          "source": "MSN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas pagarán electricidad de centros de inteligencia artificial",
+          "headline_en": "Tech companies will pay electricity for artificial intelligence centers",
+          "body_es": "La Casa Blanca anunció un plan importante sobre inteligencia artificial. Las grandes empresas tecnológicas van a pagar los costos de electricidad de los nuevos centros de datos. Estos centros usan inteligencia artificial y necesitan muchísima electricidad. Empresas como Google, Microsoft y Amazon participarán en este plan. El gobierno está preocupado porque estos centros gastan mucha energía. Si el gobierno pagara estos costos, sería muy caro para los ciudadanos. Por eso, las empresas pagarán sus propios gastos de electricidad. Los centros de datos son muy importantes para el desarrollo de la inteligencia artificial. Pero también pueden causar problemas al medio ambiente. El plan busca un equilibrio entre innovación tecnológica y responsabilidad. Esta decisión afectará el futuro de la tecnología en Estados Unidos.",
+          "body_en": "The White House announced an important plan about artificial intelligence. Large tech companies will pay the electricity costs of new data centers. These centers use artificial intelligence and need a lot of electricity. Companies like Google, Microsoft and Amazon will participate in this plan. The government is worried because these centers spend a lot of energy. If the government paid these costs, it would be very expensive for citizens. Therefore, companies will pay their own electricity expenses. Data centers are very important for artificial intelligence development. But they can also cause environmental problems. The plan seeks a balance between technological innovation and responsibility. This decision will affect the future of technology in the United States.",
+          "source": "Scripps News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "senado",
+          "syllables": "se-NA-do",
+          "pos": "sustantivo",
+          "context": "El senado aprobó una nueva ley sobre vivienda.",
+          "definition_es": "Cámara alta del poder legislativo de un país",
+          "definition_en": "Upper chamber of a country's legislative branch"
+        },
+        {
+          "word": "vivienda",
+          "syllables": "vi-VIEN-da",
+          "pos": "sustantivo",
+          "context": "La nueva ley mejorará el acceso a la vivienda.",
+          "definition_es": "Casa o lugar donde vive una persona",
+          "definition_en": "House or place where a person lives"
+        },
+        {
+          "word": "jubilarse",
+          "syllables": "ju-bi-LAR-se",
+          "pos": "verbo",
+          "context": "Warren Buffett decidió jubilarse a los 94 años.",
+          "definition_es": "Dejar de trabajar por la edad o después de muchos años",
+          "definition_en": "To stop working due to age or after many years"
+        },
+        {
+          "word": "advertencia",
+          "syllables": "ad-ver-TEN-cia",
+          "pos": "sustantivo",
+          "context": "Buffett hizo una advertencia sobre la economía.",
+          "definition_es": "Aviso de algo que puede ser peligroso",
+          "definition_en": "Warning about something that could be dangerous"
+        },
+        {
+          "word": "tecnológicas",
+          "syllables": "tec-no-LÓ-gi-cas",
+          "pos": "adjetivo",
+          "context": "Las empresas tecnológicas pagarán los costos de electricidad.",
+          "definition_es": "Relacionado con la tecnología",
+          "definition_en": "Related to technology"
+        },
+        {
+          "word": "electricidad",
+          "syllables": "e-lec-tri-ci-DAD",
+          "pos": "sustantivo",
+          "context": "Los centros de datos necesitan mucha electricidad.",
+          "definition_es": "Energía que hace funcionar las máquinas y da luz",
+          "definition_en": "Energy that powers machines and provides light"
+        },
+        {
+          "word": "centros de datos",
+          "syllables": "CEN-tros de DA-tos",
+          "pos": "sustantivo",
+          "context": "Los nuevos centros de datos usarán inteligencia artificial.",
+          "definition_es": "Edificios con muchas computadoras que guardan información",
+          "definition_en": "Buildings with many computers that store information"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El senado aprobó la ley con votos de ambos partidos.",
+          "definition_es": "Aceptar oficialmente una propuesta o ley",
+          "definition_en": "To officially accept a proposal or law"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'senado'?",
+          "options": [
+            "Una empresa grande",
+            "Cámara alta del poder legislativo",
+            "Un tipo de casa",
+            "Una advertencia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'jubilarse'?",
+          "options": [
+            "Comprar una casa",
+            "Vender acciones",
+            "Dejar de trabajar por la edad",
+            "Gastar electricidad"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'centros de datos'?",
+          "options": [
+            "Casas baratas",
+            "Edificios con computadoras que guardan información",
+            "Empresas de electricidad",
+            "Partidos políticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'aprobar' una ley?",
+          "options": [
+            "Rechazarla",
+            "Aceptarla oficialmente",
+            "Venderla",
+            "Comprarla"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué partidos políticos apoyaron la ley de vivienda?",
+          "options": [
+            "Solo republicanos",
+            "Solo demócratas",
+            "Republicanos y demócratas",
+            "Ningún partido"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos años tiene Warren Buffett?",
+          "options": [
+            "84 años",
+            "94 años",
+            "104 años",
+            "74 años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto vale la empresa de Buffett?",
+          "options": [
+            "273 mil millones",
+            "373 mil millones",
+            "473 mil millones",
+            "173 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Quién pagará la electricidad de los centros de datos de IA?",
+          "options": [
+            "El gobierno",
+            "Los ciudadanos",
+            "Las empresas tecnológicas",
+            "Nadie"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué vendió Buffett muchas acciones?",
+          "options": [
+            "Porque se jubiló",
+            "Porque no confía en el mercado",
+            "Porque quiere comprar casa",
+            "Porque necesita electricidad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas participarán en el plan de centros de datos?",
+          "options": [
+            "Solo Google",
+            "Google, Microsoft y Amazon",
+            "Solo Amazon",
+            "Ninguna empresa"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-15T09:07:49.861757"
+    },
+    {
       "date": "2026-03-14",
       "filename": "spanish_lesson_2026-03-14.pdf",
       "path": "pdfs/spanish_lesson_2026-03-14.pdf",
@@ -21560,7 +21782,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-14T09:07:01.738847",
+  "last_updated": "2026-03-15T09:07:49.861777",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
