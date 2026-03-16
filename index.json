@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-16",
+      "filename": "spanish_lesson_2026-03-16.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-16.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Los Americanos de Origen Indio Ganan Poder Político en Illinois",
+          "headline_en": "Indian Americans Gain Political Power in Illinois",
+          "body_es": "En las elecciones primarias de Illinois, los americanos de origen indio mostraron su creciente poder político. Varios candidatos de esta comunidad ganaron importantes posiciones. Esta comunidad representa solo el 2% de la población de Illinois, pero su influencia política es cada vez mayor. Los candidatos ganadores hablaron sobre temas importantes como la educación y la economía. Muchos votantes apoyan a estos políticos porque tienen buenas ideas para mejorar el estado. Los expertos dicen que esta tendencia va a continuar en futuras elecciones. Illinois se convierte así en un ejemplo para otros estados del país.",
+          "body_en": "In the Illinois primary elections, Indian Americans showed their growing political power. Several candidates from this community won important positions. This community represents only 2% of Illinois' population, but their political influence is increasing. The winning candidates spoke about important issues like education and economy. Many voters support these politicians because they have good ideas to improve the state. Experts say this trend will continue in future elections. Illinois thus becomes an example for other states in the country.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los Precios del Petróleo Pueden Causar Problemas en el Mercado",
+          "headline_en": "Oil Prices Could Cause Problems in the Market",
+          "body_es": "El banco JPMorgan advierte que los precios altos del petróleo pueden crear serios problemas económicos. Si el petróleo sube mucho de precio, esto puede causar un efecto dominó negativo. El mercado de valores S&P 500 podría bajar hasta un 15%. Los precios altos del petróleo afectan el costo de transporte y producción. Esto significa que muchos productos van a costar más dinero para los consumidores. Las empresas también van a gastar más en energía. Los expertos del banco recomiendan estar preparados para estos cambios. La situación mundial del petróleo es muy importante para la economía americana.",
+          "body_en": "JPMorgan bank warns that high oil prices can create serious economic problems. If oil prices rise a lot, this can cause a negative domino effect. The S&P 500 stock market could fall up to 15%. High oil prices affect transportation and production costs. This means many products will cost more money for consumers. Companies will also spend more on energy. Bank experts recommend being prepared for these changes. The global oil situation is very important for the American economy.",
+          "source": "Business Insider"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Las Empresas Tecnológicas Despiden Trabajadores por la Inteligencia Artificial",
+          "headline_en": "Tech Companies Fire Workers Because of Artificial Intelligence",
+          "body_es": "Muchas empresas de tecnología están despidiendo a miles de trabajadores. Estas empresas dicen que la inteligencia artificial puede hacer el trabajo de las personas. Sin embargo, algunos expertos no están de acuerdo con esta explicación. Piensan que las empresas tienen otros motivos económicos para reducir empleados. La inteligencia artificial es útil, pero todavía necesita supervisión humana. Muchos trabajadores perdieron sus empleos en empresas famosas de tecnología. Los sindicatos están preocupados por esta situación. Los expertos recomiendan que los trabajadores aprendan nuevas habilidades tecnológicas. El futuro del trabajo va a cambiar mucho con estas nuevas tecnologías.",
+          "body_en": "Many technology companies are firing thousands of workers. These companies say that artificial intelligence can do people's work. However, some experts disagree with this explanation. They think companies have other economic reasons to reduce employees. Artificial intelligence is useful, but it still needs human supervision. Many workers lost their jobs at famous technology companies. Unions are worried about this situation. Experts recommend that workers learn new technological skills. The future of work will change a lot with these new technologies.",
+          "source": "The Conversation"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "influencia",
+          "syllables": "in-flu-EN-cia",
+          "pos": "sustantivo",
+          "context": "Los políticos de origen indio tienen más influencia en Illinois.",
+          "definition_es": "Poder o capacidad de cambiar las decisiones de otras personas",
+          "definition_en": "Power or ability to change other people's decisions"
+        },
+        {
+          "word": "primarias",
+          "syllables": "pri-MA-rias",
+          "pos": "sustantivo",
+          "context": "En las primarias de Illinois votaron muchos ciudadanos.",
+          "definition_es": "Elecciones donde los partidos eligen a sus candidatos",
+          "definition_en": "Elections where parties choose their candidates"
+        },
+        {
+          "word": "precios",
+          "syllables": "PRE-cios",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo pueden subir mucho este año.",
+          "definition_es": "Cantidad de dinero que cuesta algo",
+          "definition_en": "Amount of money something costs"
+        },
+        {
+          "word": "efectos",
+          "syllables": "e-FEC-tos",
+          "pos": "sustantivo",
+          "context": "Los efectos económicos del petróleo son muy importantes.",
+          "definition_es": "Consecuencias o resultados de algo",
+          "definition_en": "Consequences or results of something"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas anunciaron muchos despidos.",
+          "definition_es": "Cuando una empresa termina el trabajo de sus empleados",
+          "definition_en": "When a company ends employees' jobs"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las empresas de tecnología usan mucha inteligencia artificial.",
+          "definition_es": "Organizaciones que producen bienes o servicios",
+          "definition_en": "Organizations that produce goods or services"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado de valores puede bajar por el petróleo.",
+          "definition_es": "Lugar donde se compran y venden productos o acciones",
+          "definition_en": "Place where products or stocks are bought and sold"
+        },
+        {
+          "word": "candidatos",
+          "syllables": "can-di-DA-tos",
+          "pos": "sustantivo",
+          "context": "Muchos candidatos de origen indio ganaron las elecciones.",
+          "definition_es": "Personas que quieren ganar un puesto político",
+          "definition_en": "People who want to win a political position"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'influencia'?",
+          "options": [
+            "Poder para cambiar decisiones",
+            "Tipo de elección",
+            "Grupo de personas",
+            "Precio alto"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Las 'primarias' son:",
+          "options": [
+            "Las primeras noticias",
+            "Elecciones para elegir candidatos",
+            "Precios iniciales",
+            "Empresas nuevas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'despidos'?",
+          "options": [
+            "Nuevos empleos",
+            "Cuando las empresas terminan el trabajo de empleados",
+            "Aumentos de salario",
+            "Productos tecnológicos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un 'mercado' es:",
+          "options": [
+            "Un tipo de petróleo",
+            "Un candidato político",
+            "Lugar donde se compra y vende",
+            "Una empresa grande"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje de la población de Illinois representan los americanos de origen indio?",
+          "options": [
+            "15%",
+            "5%",
+            "2%",
+            "10%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según JPMorgan, ¿cuánto podría bajar el S&P 500?",
+          "options": [
+            "5%",
+            "10%",
+            "20%",
+            "15%"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué banco hizo la advertencia sobre los precios del petróleo?",
+          "options": [
+            "Bank of America",
+            "JPMorgan",
+            "Wells Fargo",
+            "Citibank"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué las empresas tecnológicas dicen que despiden trabajadores?",
+          "options": [
+            "Por problemas económicos",
+            "Por la inteligencia artificial",
+            "Por falta de clientes",
+            "Por nuevas leyes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué recomiendan los expertos a los trabajadores de tecnología?",
+          "options": [
+            "Cambiar de trabajo",
+            "Aprender nuevas habilidades",
+            "Trabajar más horas",
+            "Protestar contra las empresas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál de estos temas NO mencionaron los candidatos políticos de Illinois?",
+          "options": [
+            "Educación",
+            "Economía",
+            "Deportes",
+            "Mejoras para el estado"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-16T09:19:15.516809"
+    },
+    {
       "date": "2026-03-15",
       "filename": "spanish_lesson_2026-03-15.pdf",
       "path": "pdfs/spanish_lesson_2026-03-15.pdf",
@@ -21782,7 +22004,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-15T09:07:49.861777",
+  "last_updated": "2026-03-16T09:19:15.516829",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
