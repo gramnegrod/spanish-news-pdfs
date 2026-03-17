@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-17",
+      "filename": "spanish_lesson_2026-03-17.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-17.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Aerolíneas piden al Congreso que termine el cierre del gobierno",
+          "headline_en": "Airlines ask Congress to end government shutdown",
+          "body_es": "Los directores ejecutivos de las principales aerolíneas estadounidenses enviaron una carta urgente al Congreso. En la carta, piden que termine el cierre del gobierno federal. Este cierre afecta gravemente a los aeropuertos del país. Miles de trabajadores de aeropuertos no reciben su salario desde hace semanas. Los controladores aéreos, la seguridad y otros empleados esenciales trabajan sin pago. Las aerolíneas dicen que esta situación es peligrosa para los pasajeros. También causa muchos retrasos en los vuelos. Los directores explican que el sistema de transporte aéreo necesita funcionar correctamente. Sin trabajadores bien pagados, los aeropuertos no pueden operar de forma segura. Las empresas aéreas pierden millones de dólares cada día por esta crisis política.",
+          "body_en": "The chief executives of major US airlines sent an urgent letter to Congress. In the letter, they ask for the federal government shutdown to end. This shutdown seriously affects the country's airports. Thousands of airport workers have not received their salary for weeks. Air traffic controllers, security, and other essential employees work without pay. Airlines say this situation is dangerous for passengers. It also causes many flight delays. The directors explain that the air transport system needs to function properly. Without well-paid workers, airports cannot operate safely. Airlines lose millions of dollars every day from this political crisis.",
+          "source": "BBC"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La Fed mantendrá las tasas de interés sin cambios",
+          "headline_en": "The Fed will keep interest rates unchanged",
+          "body_es": "La Reserva Federal de Estados Unidos, conocida como 'la Fed', probablemente no cambiará las tasas de interés este mes. Los economistas esperan que las tasas se mantengan estables. Hay varias razones importantes para esta decisión. Primero, los precios del petróleo cambian mucho cada día. Esta volatilidad hace difícil predecir la inflación futura. Segundo, los últimos datos de empleo en el país son muy malos. Menos personas encontraron trabajo el mes pasado. Esto preocupa a los expertos económicos. La Fed usa las tasas de interés para controlar la economía. Cuando suben las tasas, es más caro pedir dinero prestado. Cuando bajan, es más fácil conseguir préstamos. Por ahora, la Fed prefiere esperar y observar qué pasa con la economía antes de hacer cambios importantes.",
+          "body_en": "The Federal Reserve of the United States, known as 'the Fed', will probably not change interest rates this month. Economists expect rates to remain stable. There are several important reasons for this decision. First, oil prices change a lot every day. This volatility makes it difficult to predict future inflation. Second, the latest employment data in the country is very bad. Fewer people found jobs last month. This worries economic experts. The Fed uses interest rates to control the economy. When rates rise, it's more expensive to borrow money. When they fall, it's easier to get loans. For now, the Fed prefers to wait and observe what happens with the economy before making important changes.",
+          "source": "Business Insider"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La industria tecnológica de India enfrenta el desafío de la inteligencia artificial",
+          "headline_en": "India's tech industry faces the challenge of artificial intelligence",
+          "body_es": "India tiene una de las industrias de subcontratación más grandes del mundo. Esta industria vale aproximadamente 300 mil millones de dólares. Miles de empresas indias hacen trabajos tecnológicos para compañías de otros países. Programan software, manejan bases de datos y ofrecen soporte técnico. Sin embargo, ahora enfrentan un gran problema: la inteligencia artificial. Las computadoras con IA pueden hacer muchos de estos trabajos automáticamente. Esto significa que las empresas extranjeras necesitarán menos trabajadores humanos. Los expertos se preguntan si la industria india puede sobrevivir a este cambio. Algunas empresas ya están adaptándose. Entrenan a sus empleados para trabajar con IA en lugar de competir contra ella. Otras crean nuevos servicios más complejos que las máquinas no pueden hacer todavía.",
+          "body_en": "India has one of the world's largest outsourcing industries. This industry is worth approximately 300 billion dollars. Thousands of Indian companies do technological work for companies from other countries. They program software, manage databases, and offer technical support. However, they now face a big problem: artificial intelligence. Computers with AI can do many of these jobs automatically. This means foreign companies will need fewer human workers. Experts wonder if the Indian industry can survive this change. Some companies are already adapting. They train their employees to work with AI instead of competing against it. Others create new, more complex services that machines cannot do yet.",
+          "source": "BBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "aerolínea",
+          "syllables": "a-e-ro-LÍ-ne-a",
+          "pos": "sustantivo",
+          "context": "Los directores de las aerolíneas pidieron ayuda al Congreso.",
+          "definition_es": "Empresa que transporta pasajeros en aviones",
+          "definition_en": "Airline company that transports passengers by plane"
+        },
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso debe ayudar a los trabajadores del aeropuerto.",
+          "definition_es": "Institución política que hace las leyes de un país",
+          "definition_en": "Political institution that makes laws for a country"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno afecta a muchos trabajadores.",
+          "definition_es": "Acción de cerrar o parar algo temporalmente",
+          "definition_en": "Action of closing or stopping something temporarily"
+        },
+        {
+          "word": "tasas",
+          "syllables": "TA-sas",
+          "pos": "sustantivo",
+          "context": "La Fed mantendrá las tasas de interés estables.",
+          "definition_es": "Porcentajes que se pagan por usar dinero prestado",
+          "definition_en": "Percentages paid for borrowing money"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo cambian mucho cada día.",
+          "definition_es": "Líquido negro del que se obtiene gasolina y energía",
+          "definition_en": "Black liquid from which gasoline and energy are obtained"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Los datos de empleo en Estados Unidos son malos.",
+          "definition_es": "Trabajo que una persona tiene para ganar dinero",
+          "definition_en": "Job that a person has to earn money"
+        },
+        {
+          "word": "subcontratación",
+          "syllables": "sub-con-tra-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "La industria de subcontratación de India vale mucho dinero.",
+          "definition_es": "Práctica de contratar empresas externas para hacer trabajos",
+          "definition_en": "Practice of hiring external companies to do work"
+        },
+        {
+          "word": "sobrevivir",
+          "syllables": "so-bre-vi-VIR",
+          "pos": "verbo",
+          "context": "¿Puede la industria sobrevivir a la inteligencia artificial?",
+          "definition_es": "Continuar existiendo a pesar de las dificultades",
+          "definition_en": "To continue existing despite difficulties"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'aerolínea'?",
+          "options": [
+            "Empresa que transporta pasajeros en aviones",
+            "Trabajador del aeropuerto",
+            "Tipo de combustible para aviones",
+            "Terminal de un aeropuerto"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Las 'tasas de interés' son:",
+          "options": [
+            "Precios de los vuelos",
+            "Porcentajes que se pagan por dinero prestado",
+            "Salarios de trabajadores",
+            "Impuestos del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'subcontratación'?",
+          "options": [
+            "Comprar petróleo barato",
+            "Contratar empresas externas para hacer trabajos",
+            "Cerrar una empresa",
+            "Subir los precios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Sobrevivir' significa:",
+          "options": [
+            "Ganar mucho dinero",
+            "Trabajar más horas",
+            "Continuar existiendo a pesar de dificultades",
+            "Cambiar de profesión"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el primer artículo, ¿por qué las aerolíneas escribieron al Congreso?",
+          "options": [
+            "Para pedir más dinero",
+            "Para terminar el cierre del gobierno",
+            "Para cambiar las leyes",
+            "Para comprar nuevos aviones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué problema tienen los trabajadores de aeropuertos?",
+          "options": [
+            "Trabajan demasiadas horas",
+            "No reciben su salario",
+            "No tienen vacaciones",
+            "Quieren cambiar de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué la Fed mantendrá las tasas estables?",
+          "options": [
+            "Los precios del petróleo son estables",
+            "Los datos de empleo son excelentes",
+            "Hay volatilidad en petróleo y mal empleo",
+            "El gobierno se lo pidió"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto vale la industria de subcontratación de India?",
+          "options": [
+            "100 mil millones de dólares",
+            "200 mil millones de dólares",
+            "300 mil millones de dólares",
+            "400 mil millones de dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el principal desafío para la industria india?",
+          "options": [
+            "La falta de trabajadores",
+            "Los altos salarios",
+            "La inteligencia artificial",
+            "La competencia china"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cómo se adaptan algunas empresas indias?",
+          "options": [
+            "Cierran sus oficinas",
+            "Bajan los precios",
+            "Entrenan empleados para trabajar con IA",
+            "Se mudan a otros países"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-17T09:15:41.728749"
+    },
+    {
       "date": "2026-03-16",
       "filename": "spanish_lesson_2026-03-16.pdf",
       "path": "pdfs/spanish_lesson_2026-03-16.pdf",
@@ -22004,7 +22226,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-16T09:19:15.516829",
+  "last_updated": "2026-03-17T09:15:41.728772",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
