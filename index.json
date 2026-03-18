@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-18",
+      "filename": "spanish_lesson_2026-03-18.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-18.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso busca solución mientras el cierre del gobierno continúa",
+          "headline_en": "Congress seeks solution while government shutdown continues",
+          "body_es": "El gobierno de Estados Unidos lleva cerrado casi un mes. El Congreso no encuentra una solución para el problema. Los políticos no pueden llegar a un acuerdo sobre el presupuesto del Departamento de Seguridad Nacional. Miles de trabajadores federales no reciben salario durante este tiempo. Muchas oficinas públicas están cerradas. Los servicios esenciales continúan funcionando, pero otros servicios han parado. Esta situación afecta la economía del país. Los ciudadanos están preocupados por la falta de servicios gubernamentales. Los líderes políticos trabajan para encontrar una solución rápida. Es importante resolver este problema pronto para que el gobierno funcione normalmente otra vez.",
+          "body_en": "The United States government has been shut down for almost a month. Congress cannot find a solution to the problem. Politicians cannot reach an agreement on the Department of Homeland Security budget. Thousands of federal workers are not receiving salaries during this time. Many public offices are closed. Essential services continue to function, but other services have stopped. This situation affects the country's economy. Citizens are worried about the lack of government services. Political leaders are working to find a quick solution. It is important to resolve this problem soon so the government can function normally again.",
+          "source": "Scripps News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La Reserva Federal anuncia nueva decisión sobre tasas de interés",
+          "headline_en": "Federal Reserve announces new decision on interest rates",
+          "body_es": "La Reserva Federal de Estados Unidos tomará una decisión importante sobre las tasas de interés este miércoles. Los expertos esperan que el banco central mantenga las tasas sin cambios. Las tasas de interés afectan directamente la economía del país. Cuando las tasas suben, es más caro pedir dinero prestado. Esto influye en las decisiones de compra de casas y automóviles. También afecta las inversiones de las empresas. La inflación ha bajado en los últimos meses. Esto permite a la Reserva Federal considerar diferentes opciones. Los mercados financieros están atentos a esta decisión. Los inversores esperan señales sobre el futuro de la economía. Esta decisión impactará los préstamos bancarios y las hipotecas en todo el país.",
+          "body_en": "The Federal Reserve of the United States will make an important decision about interest rates this Wednesday. Experts expect the central bank to keep rates unchanged. Interest rates directly affect the country's economy. When rates go up, it is more expensive to borrow money. This influences decisions to buy houses and cars. It also affects business investments. Inflation has decreased in recent months. This allows the Federal Reserve to consider different options. Financial markets are paying attention to this decision. Investors expect signals about the future of the economy. This decision will impact bank loans and mortgages throughout the country.",
+          "source": "CNBC"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Estados Unidos dice que empresa de tecnología es riesgo para seguridad nacional",
+          "headline_en": "United States says technology company is risk to national security",
+          "body_es": "El gobierno de Estados Unidos considera que la empresa Anthropic es un riesgo inaceptable para la seguridad nacional. Anthropic es una empresa de inteligencia artificial que desarrolla sistemas muy avanzados. Las autoridades estadounidenses están preocupadas por la tecnología de esta compañía. Creen que puede ser peligrosa si cae en las manos equivocadas. La empresa trabaja con inteligencia artificial generativa, similar a ChatGPT. El gobierno teme que otros países puedan usar esta tecnología para actividades militares. Esta decisión afecta las operaciones de Anthropic en territorio estadounidense. La empresa debe seguir nuevas reglas de seguridad muy estrictas. Este caso muestra la creciente preocupación del gobierno sobre las empresas de inteligencia artificial. La tecnología avanza muy rápido y las leyes no siempre pueden seguir el ritmo.",
+          "body_en": "The United States government considers that the company Anthropic is an unacceptable risk to national security. Anthropic is an artificial intelligence company that develops very advanced systems. US authorities are concerned about this company's technology. They believe it could be dangerous if it falls into the wrong hands. The company works with generative artificial intelligence, similar to ChatGPT. The government fears that other countries could use this technology for military activities. This decision affects Anthropic's operations on US territory. The company must follow new very strict security rules. This case shows the government's growing concern about artificial intelligence companies. Technology advances very quickly and laws cannot always keep up with the pace.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso busca una solución para el cierre del gobierno.",
+          "definition_es": "Institución que hace las leyes del país",
+          "definition_en": "Institution that makes the country's laws"
+        },
+        {
+          "word": "gobierno",
+          "syllables": "go-BIER-no",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno afecta a muchos trabajadores.",
+          "definition_es": "Organización que administra un país",
+          "definition_en": "Organization that administers a country"
+        },
+        {
+          "word": "tasas",
+          "syllables": "TA-sas",
+          "pos": "sustantivo",
+          "context": "El banco central decidirá sobre las tasas de interés.",
+          "definition_es": "Porcentaje que se cobra por el dinero prestado",
+          "definition_en": "Percentage charged for borrowed money"
+        },
+        {
+          "word": "decisión",
+          "syllables": "de-ci-SIÓN",
+          "pos": "sustantivo",
+          "context": "La Reserva Federal anunciará su decisión el miércoles.",
+          "definition_es": "Elección que se hace entre varias opciones",
+          "definition_en": "Choice made between several options"
+        },
+        {
+          "word": "seguridad",
+          "syllables": "se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "La empresa representa un riesgo para la seguridad nacional.",
+          "definition_es": "Protección contra peligros",
+          "definition_en": "Protection against dangers"
+        },
+        {
+          "word": "riesgo",
+          "syllables": "RIES-go",
+          "pos": "sustantivo",
+          "context": "Anthropic es considerada un riesgo inaceptable.",
+          "definition_es": "Posibilidad de que ocurra algo malo",
+          "definition_en": "Possibility that something bad will happen"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La empresa de tecnología preocupa al gobierno estadounidense.",
+          "definition_es": "Ciencia aplicada para crear herramientas útiles",
+          "definition_en": "Applied science to create useful tools"
+        },
+        {
+          "word": "nacional",
+          "syllables": "na-cio-NAL",
+          "pos": "adjetivo",
+          "context": "La seguridad nacional está en peligro según las autoridades.",
+          "definition_es": "Que pertenece a una nación o país",
+          "definition_en": "That belongs to a nation or country"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'congreso'?",
+          "options": [
+            "Una empresa privada",
+            "Institución que hace las leyes",
+            "Un tipo de tecnología",
+            "Un banco central"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'tasas de interés'?",
+          "options": [
+            "Impuestos del gobierno",
+            "Porcentaje que se cobra por dinero prestado",
+            "Salarios de trabajadores",
+            "Precios de productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'riesgo' para la seguridad?",
+          "options": [
+            "Una solución perfecta",
+            "Una empresa exitosa",
+            "Posibilidad de algo malo",
+            "Un beneficio económico"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'seguridad nacional'?",
+          "options": [
+            "Protección del país contra peligros",
+            "Servicios médicos públicos",
+            "Educación universitaria",
+            "Transporte público"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto tiempo lleva cerrado el gobierno según la historia política?",
+          "options": [
+            "Una semana",
+            "Dos semanas",
+            "Casi un mes",
+            "Tres meses"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué día tomará la decisión la Reserva Federal?",
+          "options": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de empresa es Anthropic?",
+          "options": [
+            "Banco",
+            "Inteligencia artificial",
+            "Construcción",
+            "Agricultura"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué no pueden llegar a un acuerdo los políticos?",
+          "options": [
+            "Por el presupuesto del Departamento de Seguridad Nacional",
+            "Por las tasas de interés",
+            "Por la inteligencia artificial",
+            "Por los impuestos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué ha pasado con la inflación según la historia económica?",
+          "options": [
+            "Ha subido mucho",
+            "Ha bajado",
+            "Está igual",
+            "No se menciona"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué está preocupado el gobierno por Anthropic?",
+          "options": [
+            "Porque es muy cara",
+            "Porque puede ser riesgo de seguridad",
+            "Porque no paga impuestos",
+            "Porque es extranjera"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-18T09:15:31.158081"
+    },
+    {
       "date": "2026-03-17",
       "filename": "spanish_lesson_2026-03-17.pdf",
       "path": "pdfs/spanish_lesson_2026-03-17.pdf",
@@ -22226,7 +22448,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-17T09:15:41.728772",
+  "last_updated": "2026-03-18T09:15:31.158105",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
