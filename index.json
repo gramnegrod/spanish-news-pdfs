@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-19",
+      "filename": "spanish_lesson_2026-03-19.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-19.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Juliana Stratton gana las primarias demócratas para el Senado",
+          "headline_en": "Juliana Stratton wins Democratic primary for Senate",
+          "body_es": "Juliana Stratton es la teniente gobernadora de Illinois. Recientemente ganó la primaria demócrata para el Senado de Estados Unidos. Esto significa que será la candidata oficial del Partido Demócrata en las próximas elecciones. Stratton trabajó como abogada antes de entrar en política. Ahora quiere representar a Illinois en Washington D.C. Las primarias son elecciones donde los partidos políticos eligen sus candidatos. Los votantes demócratas de Illinois decidieron que Stratton es su mejor opción. En noviembre, competirá contra el candidato republicano. Si gana, trabajará en el Senado haciendo leyes para todo el país. Esta es una oportunidad importante para su carrera política.",
+          "body_en": "Juliana Stratton is the lieutenant governor of Illinois. She recently won the Democratic primary for the US Senate. This means she will be the official Democratic Party candidate in the upcoming elections. Stratton worked as a lawyer before entering politics. Now she wants to represent Illinois in Washington D.C. Primaries are elections where political parties choose their candidates. Democratic voters in Illinois decided that Stratton is their best option. In November, she will compete against the Republican candidate. If she wins, she will work in the Senate making laws for the entire country. This is an important opportunity for her political career.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía estadounidense creció solo 0.7% en el último trimestre",
+          "headline_en": "US economy grew only 0.7% in the last quarter",
+          "body_es": "La economía de Estados Unidos creció muy poco en el último trimestre. Solo aumentó 0.7%, lo cual es menos de lo esperado. Los economistas esperaban un crecimiento mayor. Este resultado muestra que la economía está creciendo lentamente. Hay varias razones para este crecimiento bajo. Los problemas internacionales pueden afectar la economía. También hay preocupaciones sobre posibles conflictos en otras partes del mundo. Cuando hay tensiones políticas, las empresas invierten menos dinero. Los consumidores también gastan menos cuando están preocupados. El gobierno está observando estos números muy cuidadosamente. Los expertos esperan que la economía mejore en los próximos meses. Sin embargo, necesita tiempo para crecer más rápidamente.",
+          "body_en": "The US economy grew very little in the last quarter. It only increased 0.7%, which is less than expected. Economists expected greater growth. This result shows that the economy is growing slowly. There are several reasons for this low growth. International problems can affect the economy. There are also concerns about possible conflicts in other parts of the world. When there are political tensions, companies invest less money. Consumers also spend less when they are worried. The government is watching these numbers very carefully. Experts hope the economy will improve in the coming months. However, it needs time to grow more rapidly.",
+          "source": "AOL.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa de drones con IA aumenta su valor 1,000% en dos días",
+          "headline_en": "AI drone company increases its value 1,000% in two days",
+          "body_es": "Una pequeña empresa de tecnología tuvo un éxito increíble en el mercado financiero. La empresa fabrica drones muy pequeños con inteligencia artificial. En solo dos días, el valor de sus acciones aumentó 1,000%. Esto significa que si alguien invirtió $100, ahora tiene $1,100. Los drones de esta empresa son especiales porque usan tecnología muy avanzada. Pueden volar solos y tomar decisiones inteligentes. Los inversionistas creen que esta tecnología será muy importante en el futuro. Muchas personas quieren comprar acciones de la empresa. Cuando muchos quieren comprar algo, el precio sube rápidamente. Sin embargo, los expertos dicen que los precios pueden bajar también muy rápido. Invertir en empresas pequeñas puede ser muy arriesgado.",
+          "body_en": "A small technology company had incredible success in the financial market. The company manufactures very small drones with artificial intelligence. In just two days, the value of its shares increased 1,000%. This means that if someone invested $100, they now have $1,100. This company's drones are special because they use very advanced technology. They can fly alone and make intelligent decisions. Investors believe this technology will be very important in the future. Many people want to buy shares of the company. When many want to buy something, the price goes up quickly. However, experts say that prices can also fall very fast. Investing in small companies can be very risky.",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "primaria",
+          "syllables": "pri-MA-ria",
+          "pos": "sustantivo",
+          "context": "Juliana Stratton ganó la primaria demócrata.",
+          "definition_es": "Elección para elegir candidatos de un partido político",
+          "definition_en": "Primary election to choose party candidates"
+        },
+        {
+          "word": "teniente",
+          "syllables": "te-NIEN-te",
+          "pos": "sustantivo",
+          "context": "Es la teniente gobernadora de Illinois.",
+          "definition_es": "Persona que ayuda al gobernador en sus funciones",
+          "definition_en": "Lieutenant, person who assists the governor"
+        },
+        {
+          "word": "creció",
+          "syllables": "cre-CIÓ",
+          "pos": "verbo",
+          "context": "La economía creció solo 0.7% este trimestre.",
+          "definition_es": "Aumentó de tamaño o cantidad",
+          "definition_en": "Grew, increased in size or amount"
+        },
+        {
+          "word": "trimestre",
+          "syllables": "tri-MES-tre",
+          "pos": "sustantivo",
+          "context": "Los datos económicos del último trimestre son importantes.",
+          "definition_es": "Período de tres meses",
+          "definition_en": "Quarter, period of three months"
+        },
+        {
+          "word": "drones",
+          "syllables": "DRO-nes",
+          "pos": "sustantivo",
+          "context": "La empresa fabrica drones pequeños con inteligencia artificial.",
+          "definition_es": "Vehículos aéreos sin piloto controlados remotamente",
+          "definition_en": "Unmanned aerial vehicles controlled remotely"
+        },
+        {
+          "word": "aumentó",
+          "syllables": "au-men-TÓ",
+          "pos": "verbo",
+          "context": "El valor de la empresa aumentó 1,000% en dos días.",
+          "definition_es": "Creció, se hizo más grande",
+          "definition_en": "Increased, became larger"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La tecnología de inteligencia artificial es muy avanzada.",
+          "definition_es": "Conocimiento y herramientas para resolver problemas",
+          "definition_en": "Technology, knowledge and tools to solve problems"
+        },
+        {
+          "word": "senado",
+          "syllables": "se-NA-do",
+          "pos": "sustantivo",
+          "context": "Quiere ser elegida para el Senado de Estados Unidos.",
+          "definition_es": "Una de las dos cámaras del Congreso estadounidense",
+          "definition_en": "One of the two chambers of the US Congress"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'primaria' en el contexto político?",
+          "options": [
+            "Escuela para niños pequeños",
+            "Elección para elegir candidatos de un partido",
+            "Primera vez que alguien vota",
+            "Reunión de políticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuánto tiempo dura un 'trimestre'?",
+          "options": [
+            "Un mes",
+            "Dos meses",
+            "Tres meses",
+            "Seis meses"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Los 'drones' son:",
+          "options": [
+            "Robots terrestres",
+            "Vehículos aéreos sin piloto",
+            "Computadoras muy rápidas",
+            "Teléfonos inteligentes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué trabajo tenía Juliana Stratton antes de la política?",
+          "options": [
+            "Doctora",
+            "Abogada",
+            "Profesora",
+            "Ingeniera"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto creció la economía estadounidense en el último trimestre?",
+          "options": [
+            "0.5%",
+            "0.7%",
+            "1.0%",
+            "1.5%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿En cuántos días aumentó 1,000% el valor de la empresa de drones?",
+          "options": [
+            "Un día",
+            "Dos días",
+            "Tres días",
+            "Una semana"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué puesto tiene Juliana Stratton actualmente?",
+          "options": [
+            "Gobernadora",
+            "Teniente gobernadora",
+            "Senadora",
+            "Alcaldesa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué estado representa Juliana Stratton?",
+          "options": [
+            "Illinois",
+            "California",
+            "Texas",
+            "Nueva York"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué hace especiales a los drones de la empresa?",
+          "options": [
+            "Son muy baratos",
+            "Usan inteligencia artificial",
+            "Son muy grandes",
+            "Funcionan con agua"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué pasa cuando hay tensiones políticas?",
+          "options": [
+            "Las empresas invierten más",
+            "Los consumidores gastan más",
+            "Las empresas invierten menos",
+            "La economía crece rápidamente"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-19T09:13:15.705374"
+    },
+    {
       "date": "2026-03-18",
       "filename": "spanish_lesson_2026-03-18.pdf",
       "path": "pdfs/spanish_lesson_2026-03-18.pdf",
@@ -22448,7 +22670,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-18T09:15:31.158105",
+  "last_updated": "2026-03-19T09:13:15.705394",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
