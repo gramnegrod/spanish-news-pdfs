@@ -1,11 +1,196 @@
 {
-  "date": "2026-03-19",
-  "generated_at": "2026-03-19T09:19:37.232063Z",
+  "date": "2026-03-20",
+  "generated_at": "2026-03-20T09:17:37.230620Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 314,
+  "total_stories": 319,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250320",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Un nuevo vendaje impreso en 3D acelera la curación de heridas crónicas",
+      "headline_en": "A new 3D-printed bandage accelerates chronic wound healing",
+      "summary_es": "Un equipo de farmacéuticos innovó un vendaje especial impreso en 3D para tratar heridas crónicas. Este nuevo apósito ayuda a sanar las heridas más rápido que los vendajes tradicionales.",
+      "body_es": "Los farmacéuticos crearon un vendaje nuevo e innovador con tecnología de impresión 3D. Este vendaje es diferente a los vendajes comunes. El nuevo apósito ayuda a las heridas crónicas a sanar más rápido. Las heridas crónicas son lesiones que no cierran bien después de mucho tiempo. El vendaje 3D tiene propiedades especiales. Acelera el proceso de curación y protege la herida. Los expertos dicen que este apósito es muy importante para los pacientes. Muchas personas con heridas crónicas pueden beneficiarse de este nuevo tratamiento. El vendaje impreso en 3D representa un avance significativo en la medicina de heridas.",
+      "body_en": "Pharmacists created a new and innovative bandage using 3D printing technology. This bandage is different from common bandages. The new dressing helps chronic wounds heal faster. Chronic wounds are injuries that do not close well after a long time. The 3D bandage has special properties. It accelerates the healing process and protects the wound. Experts say this dressing is very important for patients. Many people with chronic wounds can benefit from this new treatment. The 3D-printed bandage represents a significant advance in wound care medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYTNCRVAyV1N6SlZyZ1BsRktTU1pYM01IMVdpLTZqUDRTQm96MmdKbU1hOXFSNklaRDdoNU45YnJKdW9UcFo4T2otaWV6YUtDWUVMaXMybkF6amozUS1sZGxDUkpHcXR1alVya3cyZDV6WGFXdlExV05RSEVrZ3AtRkdqRDU4ZldUS3dnMGZZdnYzbFRoOXU4QjZ5Mlc4alBpalpuand4SjU4ZWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-20/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no sana después de mucho tiempo",
+          "definition_en": "chronic wound - injury that does not heal after a long time"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "bandage/dressing - material to cover and protect wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar y cerrar una herida",
+          "definition_en": "healing - process of healing and closing a wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico que se aplica directamente sobre la herida",
+          "definition_en": "dressing - medical material applied directly to the wound"
+        }
+      ],
+      "added_at": "2026-03-20T09:17:37.230620Z"
+    },
+    {
+      "id": "diabetic-foot-20250320",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "purple",
+      "headline_es": "Una aplicación inteligente revoluciona el tratamiento de úlceras del pie diabético",
+      "headline_en": "An intelligent app revolutionizes diabetic foot ulcer treatment",
+      "summary_es": "La aplicación 'Salva el Pie' utiliza inteligencia artificial para monitorear y acelerar la curación de úlceras del pie diabético. Esta tecnología transforma el cuidado de pacientes diabéticos permitiendo un seguimiento más efectivo.",
+      "body_es": "La aplicación móvil 'Salva el Pie' ha transformado el tratamiento de las úlceras del pie diabético (UPD) mediante inteligencia artificial. Esta herramienta permite que los médicos y pacientes monitoreen las heridas de manera más efectiva. La aplicación utiliza tecnología avanzada para evaluar el progreso de la curación en tiempo real. Antes, el tratamiento era principalmente reactivo, respondiendo a complicaciones cuando ocurrían. Ahora, con esta aplicación, el enfoque es proactivo, previniendo problemas antes de que se desarrollen. Los pacientes pueden registrar fotografías de sus heridas y recibir retroalimentación inmediata. Los médicos pueden acceder a esta información desde cualquier lugar. Esta aplicación empodera a los pacientes para participar activamente en su tratamiento. El sistema ha demostrado mejorar significativamente los resultados de curación en pacientes con diabetes.",
+      "body_en": "The mobile application 'Save the Foot' has transformed the treatment of diabetic foot ulcers through artificial intelligence. This tool allows doctors and patients to monitor wounds more effectively. The application uses advanced technology to evaluate healing progress in real time. Before, treatment was mainly reactive, responding to complications when they occurred. Now, with this application, the approach is proactive, preventing problems before they develop. Patients can record photos of their wounds and receive immediate feedback. Doctors can access this information from anywhere. This application empowers patients to actively participate in their treatment. The system has demonstrated significantly improving healing outcomes in diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbmtmUE9GcktSbVdkcUxPSHhpaXpmUzJNUHVFWHF3MGREQmZYc0wzR2RmbkdWc2lIbjYtaTZ4ZUpYU2YyUWpjXzUwcTFGbm1ta1JXYWNXQy1TdEZSMThqZ3lZMDNqS0pmeURyUDRwdzdNNHRkYTZNUVYzV21WRXlpQWhITnhrOEtQLWY0cWcyemhJS0hHaHp6bkZjalZrZFpjclJrRmJlaEdSMkpTNkNiS3BpZENTYzBidTZGUHR2UWxuVGVMa2drWVZrU1laUFdXd3NIQ2s2b3RxV0dpMWdoRTVEQ1PSAewBQVVfeXFMT0NwRnBCN29TQXkxeFVUVkNzTjcxVndvMW9oYWktempnamE3cU1mbUstWTVmcEhZMEYwUTZrNHFmeXBhRXBvWkM3dVRFR2VuTm9Ub2tVdmI1UEpmX0RhWldWeXVIYlJhOHlHOFpUNE9Cd0VsMWpaX0NERElzUDJueWljR20zbGxUQ2tWNm01Wm1RcmZwaDFYbk9MTTNHeEN3VWhxbGt4enRGbG0xekwwV1U5cE5vMjAtQ3RkTG9RV0o4cHNGOGczSzhpT25jYlNQX1FnbUdIWHBjZ1pfd3N2REwwQVlUbHRLSkplcUc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-20/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "herida abierta en el pie causada por diabetes",
+          "definition_en": "diabetic foot ulcer - open wound on the foot caused by diabetes"
+        },
+        {
+          "word": "monitoreo",
+          "definition_es": "vigilancia continua del estado de una herida",
+          "definition_en": "monitoring - continuous observation of wound status"
+        },
+        {
+          "word": "inteligencia artificial",
+          "definition_es": "tecnología que permite a las máquinas analizar datos médicos",
+          "definition_en": "artificial intelligence - technology that allows machines to analyze medical data"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y sanación de heridas",
+          "definition_en": "healing - process of wound closure and recovery"
+        }
+      ],
+      "added_at": "2026-03-20T09:17:37.230620Z"
+    },
+    {
+      "id": "burn-care-20250320",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Sustitutos de piel sintética avanzan hacia nuevos tratamientos para quemaduras",
+      "headline_en": "Synthetic skin substitutes advance toward new burn treatments",
+      "summary_es": "El mercado de sustitutos de piel sintética está experimentando un crecimiento significativo. Se espera que alcance nuevas alturas con una tasa de crecimiento anual del 12.1% hasta 2032, revolucionando el tratamiento de quemaduras.",
+      "body_es": "Los sustitutos de piel sintética representan una innovación crucial en el tratamiento de quemaduras graves. El mercado global de estos materiales está creciendo rápidamente. Se proyecta que la industria crecerá a una tasa anual del 12.1% hasta el año 2032. Estos sustitutos de piel tienen múltiples ventajas comparados con los injertos tradicionales. Proporcionan una barrera protectora contra infecciones mientras la piel se regenera. Ayudan a reducir el dolor y mejoran la cicatrización. Los sustitutos sintéticos pueden ser producidos en el laboratorio sin necesidad de donantes. Esto es especialmente importante para pacientes con quemaduras extensas. Los investigadores continúan desarrollando nuevas fórmulas más efectivas. Estas innovaciones prometen mejorar significativamente los resultados para los pacientes con quemaduras severas.",
+      "body_en": "Synthetic skin substitutes represent a crucial innovation in the treatment of severe burns. The global market for these materials is growing rapidly. The industry is projected to grow at an annual rate of 12.1% through 2032. These skin substitutes have multiple advantages compared to traditional grafts. They provide a protective barrier against infections while skin regenerates. They help reduce pain and improve scarring. Synthetic substitutes can be produced in the laboratory without the need for donors. This is especially important for patients with extensive burns. Researchers continue to develop new, more effective formulas. These innovations promise to significantly improve outcomes for patients with severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzlDTjV3NHhWWUZhTm5rQVJzLTNqVlZHLW1namxLc3N2elNuMkZ5akpzbEs3UlZ3cEtaMEllS0NUeUI5MWlHNUdib3JQM2FtY08yNm9jZldSZVVYNXE1WGVtdHQ0d29rUGNXSU5pSVh6X2draGZMM0RuTzdqYmlQV1hFeXBjNzl1WHpuc2Y3YWhma0tsQm9kbURuR1U2WWdL?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-20/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o químicos en la piel",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals to the skin"
+        },
+        {
+          "word": "sustituto de piel",
+          "definition_es": "material artificial que reemplaza la piel dañada",
+          "definition_en": "skin substitute - artificial material that replaces damaged skin"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "fragmento de piel trasplantada para cubrir heridas",
+          "definition_en": "graft - piece of skin transplanted to cover wounds"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo después de una herida",
+          "definition_en": "scarring - process of new tissue formation after a wound"
+        }
+      ],
+      "added_at": "2026-03-20T09:17:37.230620Z"
+    },
+    {
+      "id": "surgical-wounds-20250320",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "La terapia de presión negativa en incisiones cerradas mejora resultados de cirugías de riesgo alto",
+      "headline_en": "Negative pressure therapy in closed incisions improves high-risk surgery outcomes",
+      "summary_es": "Un estudio evaluó el uso de terapia de presión negativa en incisiones cerradas después de cesáreas de alto riesgo. Los resultados muestran mejoras significativas en la cicatrización y prevención de complicaciones en poblaciones de Oriente Medio.",
+      "body_es": "Un estudio reciente investigó el uso de terapia de presión negativa en incisiones cerradas (TNPIC) después de cesáreas clasificadas como de alto riesgo. Esta técnica innovadora se aplicó en una población de Oriente Medio para evaluar su efectividad. La terapia de presión negativa funciona extrayendo líquido de la herida y promoviendo la cicatrización. Los investigadores evaluaron varios resultados incluyendo complicaciones infecciosas y dehiscencia de heridas. Los hallazgos demostraron que la TNPIC redujo significativamente las complicaciones postoperatorias. Los pacientes que recibieron esta terapia tuvieron menos infecciones y mejor cicatrización. La aplicación de presión negativa en incisiones cerradas es especialmente beneficiosa para pacientes de alto riesgo. Este enfoque representa una mejora importante en el cuidado postquirúrgico. Los cirujanos ahora consideran esta técnica como una opción valiosa para cesáreas complicadas.",
+      "body_en": "A recent study investigated the use of negative pressure therapy in closed incisions (NPWT-CI) after cesarean sections classified as high-risk. This innovative technique was applied in a Middle East population to evaluate its effectiveness. Negative pressure therapy works by extracting fluid from the wound and promoting healing. Researchers evaluated several outcomes including infectious complications and wound dehiscence. The findings demonstrated that NPWT-CI significantly reduced postoperative complications. Patients who received this therapy had fewer infections and better scarring. The application of negative pressure in closed incisions is especially beneficial for high-risk patients. This approach represents an important improvement in postoperative care. Surgeons now consider this technique as a valuable option for complicated cesarean sections.",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOX0dqR0JMdnZkRWpPSmRIZmNOOTMzZDl6RDVJZWt3aGZnSXZlZmpsTF9hb1BnczF3RTYtZzJLTmRPNk9DR2ZYV1JOMEhSSVU3N0M4RlhmWlVTLW1VQlJfR2VrTVg4SF91dFY5eExYOHJoUEM2ZnlIc0w0akpkTDBCblEzeEdBMEg3QmFSSkFfeTZ3dEpSdVVIR1JsVlh1NG9udzEyal9CYzdjclVXMXN0WnhxWVhITW13ZDRXdElNa2REYjdueThOR1paY3FYdkhrMlUwWmI5QjNnQnJ1Q2VLTnBPTkQ5QlFjT3N0TlFYV0EwRDg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-20/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "terapia de presión negativa",
+          "definition_es": "tratamiento que extrae líquido de heridas para promover cicatrización",
+          "definition_en": "negative pressure therapy - treatment that removes wound fluid to promote healing"
+        },
+        {
+          "word": "incisión quirúrgica",
+          "definition_es": "corte hecho durante una operación para acceder al cuerpo",
+          "definition_en": "surgical incision - cut made during surgery to access the body"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y sanación de una herida",
+          "definition_en": "healing - process of wound closure and recovery"
+        },
+        {
+          "word": "complicaciones postoperatorias",
+          "definition_es": "problemas que ocurren después de una cirugía",
+          "definition_en": "postoperative complications - problems that occur after surgery"
+        }
+      ],
+      "added_at": "2026-03-20T09:17:37.230620Z"
+    },
+    {
+      "id": "wound-research-20250320",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "UT Health San Antonio inaugura Centro de Excelencia en Diabetes para avanzar investigación de heridas",
+      "headline_en": "UT Health San Antonio launches Center for Excellence in Diabetes for wound research advancement",
+      "summary_es": "UT Health San Antonio ha establecido un nuevo Centro de Excelencia en Diabetes dedicado a la investigación avanzada de complicaciones diabéticas, incluyendo úlceras de pie diabético y heridas crónicas.",
+      "body_es": "UT Health San Antonio ha lanzado recientemente un Centro de Excelencia en Diabetes. Este centro representa un compromiso importante con la investigación y el tratamiento de complicaciones diabéticas. El centro se enfoca en múltiples aspectos del cuidado de la diabetes, incluyendo las úlceras del pie diabético. Los investigadores del centro trabajan en desarrollar nuevas estrategias de prevención y tratamiento. El centro integra la atención clínica con investigación de vanguardia. Los pacientes diabéticos pueden acceder a protocolos de tratamiento innovadores. El equipo multidisciplinario incluye endocrinólogos, cirujanos vasculares y especialistas en heridas. La investigación realizada en este centro contribuye al avance del conocimiento en medicina de heridas diabéticas. El establecimiento de este centro refleja la creciente necesidad de enfoques especializados. Los hallazgos del centro prometen mejorar los resultados para millones de pacientes con diabetes.",
+      "body_en": "UT Health San Antonio has recently launched a Center for Excellence in Diabetes. This center represents an important commitment to research and treatment of diabetic complications. The center focuses on multiple aspects of diabetes care, including diabetic foot ulcers. The center's researchers work on developing new prevention and treatment strategies. The center integrates clinical care with cutting-edge research. Diabetic patients can access innovative treatment protocols. The multidisciplinary team includes endocrinologists, vascular surgeons, and wound care specialists. Research conducted at this center contributes to advancing knowledge in diabetic wound medicine. The establishment of this center reflects the growing need for specialized approaches. The center's findings promise to improve outcomes for millions of patients with diabetes.",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZEt4RXRSbkQweF9FUHRhX2FzV3RYcVJoQVRzVVJaWEczUjh5RXlyVE41UHZfaktWcWh5VjY5TXBsVHF6VENUbmhwVV9talJONEFhWk52XzRlYUI3VVNWNTVvYVZURVotekZoVklwVUNhbkF5WHR2azRRaXlydHFyMTRHNl96T1pmWTBCNlcwN3c2bFI2?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-20/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "centro de excelencia",
+          "definition_es": "institución especializada que realiza investigación y tratamiento avanzado",
+          "definition_en": "center of excellence - specialized institution conducting advanced research and treatment"
+        },
+        {
+          "word": "investigación clínica",
+          "definition_es": "estudio científico que evalúa nuevos tratamientos en pacientes",
+          "definition_en": "clinical research - scientific study evaluating new treatments in patients"
+        },
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "herida abierta en el pie causada por complicaciones de diabetes",
+          "definition_en": "diabetic foot ulcer - open wound on the foot caused by diabetes complications"
+        },
+        {
+          "word": "protocolo de tratamiento",
+          "definition_es": "plan estandarizado de cuidado para una enfermedad específica",
+          "definition_en": "treatment protocol - standardized plan of care for a specific disease"
+        }
+      ],
+      "added_at": "2026-03-20T09:17:37.230620Z"
+    },
     {
       "id": "chronic-wounds-20250319",
       "category": "Chronic Wounds",
@@ -11619,6 +11804,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-19T09:19:37.232063Z",
+  "last_updated": "2026-03-20T09:17:37.230620Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
