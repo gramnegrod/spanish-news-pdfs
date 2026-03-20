@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-20",
+      "filename": "spanish_lesson_2026-03-20.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-20.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "División en el Partido Republicano por los costos de guerra con Irán",
+          "headline_en": "Division in Republican Party over Iran war costs",
+          "body_es": "El Partido Republicano está dividido sobre los gastos militares en Irán. El gobierno estadounidense pidió al Congreso más de 200 mil millones de dólares para la guerra. Algunos republicanos apoyan esta solicitud de dinero. Otros piensan que es demasiado costoso para el país. Las grietas en el partido son cada vez más visibles. Los líderes políticos debaten sobre cuánto dinero gastar en operaciones militares. Esta división puede afectar las decisiones futuras del Congreso. La guerra en Irán genera muchos gastos para Estados Unidos. Los ciudadanos también están preocupados por estos altos costos militares.",
+          "body_en": "The Republican Party is divided over military spending in Iran. The US government asked Congress for more than 200 billion dollars for the war. Some Republicans support this money request. Others think it's too expensive for the country. The cracks in the party are increasingly visible. Political leaders debate how much money to spend on military operations. This division may affect future Congressional decisions. The Iran war generates many expenses for the United States. Citizens are also worried about these high military costs.",
+          "source": "CNN"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Gastos de salud podrían alcanzar 20% del PIB estadounidense en 2033",
+          "headline_en": "Health spending could reach 20% of US GDP by 2033",
+          "body_es": "Los gastos médicos en Estados Unidos están creciendo rápidamente. Según expertos, podrían alcanzar el 20% del Producto Interno Bruto para 2033. Esto significa que una quinta parte de toda la economía del país será para salud. Los precios de medicamentos y tratamientos médicos suben cada año. Los hospitales también cobran más por sus servicios. Las personas mayores necesitan más atención médica costosa. El gobierno gasta miles de millones en programas de salud pública. Esta tendencia preocupa a los economistas. Muchas familias ya tienen problemas para pagar sus gastos médicos. El sistema de salud necesita reformas urgentes.",
+          "body_en": "Medical expenses in the United States are growing rapidly. According to experts, they could reach 20% of the Gross Domestic Product by 2033. This means that one-fifth of the country's entire economy will be for health. Prices of medicines and medical treatments rise every year. Hospitals also charge more for their services. Older people need more expensive medical care. The government spends billions on public health programs. This trend worries economists. Many families already have problems paying their medical expenses. The health system needs urgent reforms.",
+          "source": "Telehealth.org"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Tres personas acusadas de enviar ilegalmente tecnología de IA a China",
+          "headline_en": "Three people charged with illegally sending AI technology to China",
+          "body_es": "Las autoridades estadounidenses acusaron a tres personas de un delito grave. Estas personas enviaron ilegalmente tecnología de inteligencia artificial a China. La IA es muy importante para la seguridad nacional de Estados Unidos. Por esta razón, existen leyes estrictas sobre su exportación. Los acusados trabajaban en empresas de tecnología avanzada. Tenían acceso a información secreta y muy valiosa. China quiere obtener esta tecnología para sus propios programas militares. El gobierno americano protege cuidadosamente sus avances tecnológicos. Si son culpables, estas personas podrían ir a prisión por muchos años. Este caso muestra la importancia de proteger la tecnología nacional.",
+          "body_en": "US authorities charged three people with a serious crime. These people illegally sent artificial intelligence technology to China. AI is very important for US national security. For this reason, strict laws exist about its export. The accused worked at advanced technology companies. They had access to secret and very valuable information. China wants to obtain this technology for its own military programs. The American government carefully protects its technological advances. If guilty, these people could go to prison for many years. This case shows the importance of protecting national technology.",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "grietas",
+          "syllables": "GRIE-tas",
+          "pos": "sustantivo",
+          "context": "Aparecen grietas en el Partido Republicano sobre el costo de la guerra.",
+          "definition_es": "Separaciones o divisiones que aparecen en algo",
+          "definition_en": "Cracks or divisions that appear in something"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El gobierno presenta un presupuesto de 200 mil millones de dólares.",
+          "definition_es": "Plan de gastos y dinero para un período determinado",
+          "definition_en": "A plan of expenses and money for a specific period"
+        },
+        {
+          "word": "gasto",
+          "syllables": "GAS-to",
+          "pos": "sustantivo",
+          "context": "El gasto en salud podría alcanzar el 20% del PIB.",
+          "definition_es": "Dinero que se usa para comprar algo o pagar un servicio",
+          "definition_en": "Money used to buy something or pay for a service"
+        },
+        {
+          "word": "alcanzar",
+          "syllables": "al-can-ZAR",
+          "pos": "verbo",
+          "context": "Los gastos médicos podrían alcanzar niveles históricos.",
+          "definition_es": "Llegar a un nivel, lugar o cantidad específica",
+          "definition_en": "To reach a specific level, place, or amount"
+        },
+        {
+          "word": "acusados",
+          "syllables": "a-cu-SA-dos",
+          "pos": "sustantivo/adjetivo",
+          "context": "Tres personas fueron acusadas de enviar tecnología ilegalmente.",
+          "definition_es": "Personas a quienes se les imputa un delito o falta",
+          "definition_en": "People who are charged with a crime or offense"
+        },
+        {
+          "word": "ilegalmente",
+          "syllables": "i-le-gal-MEN-te",
+          "pos": "adverbio",
+          "context": "Enviaron tecnología ilegalmente a otro país.",
+          "definition_es": "De manera que no está permitida por la ley",
+          "definition_en": "In a way that is not permitted by law"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La tecnología de inteligencia artificial es muy avanzada.",
+          "definition_es": "Conocimientos y herramientas técnicas para resolver problemas",
+          "definition_en": "Technical knowledge and tools to solve problems"
+        },
+        {
+          "word": "solicitud",
+          "syllables": "so-li-CI-tud",
+          "pos": "sustantivo",
+          "context": "El gobierno hizo una solicitud de dinero al Congreso.",
+          "definition_es": "Petición formal para obtener algo",
+          "definition_en": "Formal request to obtain something"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'grietas'?",
+          "options": [
+            "Separaciones o divisiones",
+            "Dinero gastado",
+            "Leyes nuevas",
+            "Tecnología avanzada"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'presupuesto' es:",
+          "options": [
+            "Un edificio gubernamental",
+            "Un plan de gastos y dinero",
+            "Una ley nueva",
+            "Un tipo de medicina"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa hacer algo 'ilegalmente'?",
+          "options": [
+            "De manera permitida",
+            "Con mucho dinero",
+            "Sin permiso de la ley",
+            "Con tecnología avanzada"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Alcanzar' significa:",
+          "options": [
+            "Gastar dinero",
+            "Llegar a un nivel",
+            "Acusar a alguien",
+            "Dividir algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero pidió el gobierno para la guerra con Irán?",
+          "options": [
+            "100 mil millones",
+            "Más de 200 mil millones",
+            "50 mil millones",
+            "300 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje del PIB podrían alcanzar los gastos de salud en 2033?",
+          "options": [
+            "15%",
+            "25%",
+            "20%",
+            "10%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántas personas fueron acusadas de enviar tecnología a China?",
+          "options": [
+            "Dos",
+            "Cuatro",
+            "Cinco",
+            "Tres"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de tecnología enviaron ilegalmente a China?",
+          "options": [
+            "Tecnología médica",
+            "Inteligencia artificial",
+            "Tecnología espacial",
+            "Tecnología nuclear"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué partido político está dividido por los costos de guerra?",
+          "options": [
+            "Partido Demócrata",
+            "Partido Verde",
+            "Partido Republicano",
+            "Partido Liberal"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿por qué suben los gastos médicos?",
+          "options": [
+            "Solo por las personas mayores",
+            "Por medicamentos y tratamientos más caros",
+            "Solo por los hospitales",
+            "Por las reformas del gobierno"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-20T09:10:47.662796"
+    },
+    {
       "date": "2026-03-19",
       "filename": "spanish_lesson_2026-03-19.pdf",
       "path": "pdfs/spanish_lesson_2026-03-19.pdf",
@@ -22670,7 +22892,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-19T09:13:15.705394",
+  "last_updated": "2026-03-20T09:10:47.662813",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
