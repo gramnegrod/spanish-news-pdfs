@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-21",
+      "filename": "spanish_lesson_2026-03-21.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-21.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos llega a 39 billones de dólares en deuda nacional",
+          "headline_en": "United States reaches $39 trillion in national debt",
+          "body_es": "Estados Unidos alcanzó una deuda nacional de 39 billones de dólares. Esta cantidad es muy grande y preocupa a muchos políticos. El Congreso puede usar una solución constitucional para controlar el gasto. Sin embargo, los políticos no quieren tocar este tema difícil. La deuda sigue creciendo cada año porque el gobierno gasta más dinero del que recibe. Algunos expertos dicen que esta situación es peligrosa para la economía del país. La solución requiere cambios en la constitución, pero es muy complicado. Los ciudadanos también están preocupados por el futuro económico.",
+          "body_en": "The United States reached a national debt of $39 trillion. This amount is very large and worries many politicians. Congress can use a constitutional solution to control spending. However, politicians don't want to touch this difficult topic. The debt continues growing each year because the government spends more money than it receives. Some experts say this situation is dangerous for the country's economy. The solution requires changes to the constitution, but it's very complicated. Citizens are also worried about the economic future.",
+          "source": "Fortune"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos aprueba venta de petróleo iraní para resolver crisis energética",
+          "headline_en": "United States approves sale of Iranian oil to resolve energy crisis",
+          "body_es": "El gobierno estadounidense aprobó la venta de petróleo iraní en el mar. Esta decisión busca resolver la crisis de suministro de combustible. Los precios del petróleo han subido mucho en los últimos meses. La situación afecta a las familias y las empresas del país. El petróleo iraní se venderá directamente desde barcos en el océano. Esta es una solución temporal para bajar los precios. Muchos expertos creen que esta medida ayudará a la economía. Sin embargo, algunos políticos no están de acuerdo con esta decisión. La crisis energética es un problema mundial actualmente.",
+          "body_en": "The US government approved the sale of Iranian oil at sea. This decision seeks to resolve the fuel supply crisis. Oil prices have risen a lot in recent months. The situation affects families and businesses in the country. Iranian oil will be sold directly from ships in the ocean. This is a temporary solution to lower prices. Many experts believe this measure will help the economy. However, some politicians disagree with this decision. The energy crisis is currently a global problem.",
+          "source": "South China Morning Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Cofundador de empresa tecnológica acusado de enviar secretos a China",
+          "headline_en": "Technology company co-founder charged with sending secrets to China",
+          "body_es": "Un cofundador de Super Micro fue acusado oficialmente por las autoridades. La acusación dice que envió tecnología secreta de inteligencia artificial a China. Esta tecnología pertenece a la empresa Nvidia y es muy avanzada. El gobierno considera que estos secretos son importantes para la seguridad nacional. La inteligencia artificial es una tecnología muy valiosa actualmente. China y Estados Unidos compiten por ser líderes en este campo. Las autoridades investigan si otras personas participaron en estas actividades. El caso muestra la importancia de proteger la tecnología nacional. Las empresas tecnológicas deben tener más cuidado con sus secretos.",
+          "body_en": "A Super Micro co-founder was officially charged by authorities. The charge says he sent secret artificial intelligence technology to China. This technology belongs to Nvidia company and is very advanced. The government considers these secrets important for national security. Artificial intelligence is very valuable technology currently. China and the United States compete to be leaders in this field. Authorities are investigating if other people participated in these activities. The case shows the importance of protecting national technology. Technology companies must be more careful with their secrets.",
+          "source": "The Mercury News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "deuda",
+          "syllables": "DEU-da",
+          "pos": "sustantivo",
+          "context": "Estados Unidos alcanzó 39 billones de dólares en deuda nacional.",
+          "definition_es": "Dinero que se debe a otra persona o institución",
+          "definition_en": "Money owed to another person or institution; debt"
+        },
+        {
+          "word": "constitucional",
+          "syllables": "cons-ti-tu-cio-NAL",
+          "pos": "adjetivo",
+          "context": "El Congreso no quiere tocar la solución constitucional.",
+          "definition_es": "Relacionado con la constitución o las leyes fundamentales",
+          "definition_en": "Related to the constitution or fundamental laws"
+        },
+        {
+          "word": "aprueba",
+          "syllables": "a-PRUE-ba",
+          "pos": "verbo",
+          "context": "Estados Unidos aprueba la venta de petróleo iraní.",
+          "definition_es": "Dar permiso oficial para hacer algo",
+          "definition_en": "To give official permission for something"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "La venta de petróleo iraní ayudará con la crisis energética.",
+          "definition_es": "Líquido natural usado para hacer combustible",
+          "definition_en": "Natural liquid used to make fuel; oil"
+        },
+        {
+          "word": "acusado",
+          "syllables": "a-cu-SA-do",
+          "pos": "participio/adjetivo",
+          "context": "El cofundador fue acusado de enviar tecnología a China.",
+          "definition_es": "Persona que es culpada formalmente de un crimen",
+          "definition_en": "Person formally blamed for a crime; charged"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Envió tecnología avanzada de inteligencia artificial.",
+          "definition_es": "Conocimiento científico aplicado a crear máquinas",
+          "definition_en": "Scientific knowledge applied to create machines"
+        },
+        {
+          "word": "crisis",
+          "syllables": "CRI-sis",
+          "pos": "sustantivo",
+          "context": "La crisis de suministro de petróleo afecta los precios.",
+          "definition_es": "Situación muy difícil o peligrosa",
+          "definition_en": "Very difficult or dangerous situation"
+        },
+        {
+          "word": "enviar",
+          "syllables": "en-vi-AR",
+          "pos": "verbo",
+          "context": "Fue acusado de enviar secretos tecnológicos al extranjero.",
+          "definition_es": "Mandar algo a otra persona o lugar",
+          "definition_en": "To send something to another person or place"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'deuda'?",
+          "options": [
+            "Dinero que se debe a alguien",
+            "Dinero que se gana",
+            "Dinero que se ahorra",
+            "Dinero que se encuentra"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'aprueba'?",
+          "options": [
+            "Rechazar algo",
+            "Dar permiso oficial",
+            "Estudiar algo",
+            "Comprar algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Una persona 'acusada' es alguien que:",
+          "options": [
+            "Ganó un premio",
+            "Es culpada de un crimen",
+            "Trabaja en el gobierno",
+            "Estudia tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'crisis'?",
+          "options": [
+            "Una celebración",
+            "Una situación muy difícil",
+            "Un nuevo invento",
+            "Un tipo de tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero debe Estados Unidos según la primera historia?",
+          "options": [
+            "39 millones de dólares",
+            "39 billones de dólares",
+            "39 mil dólares",
+            "390 billones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué Estados Unidos aprobó la venta de petróleo iraní?",
+          "options": [
+            "Para ayudar a Irán",
+            "Para resolver la crisis energética",
+            "Para ganar más dinero",
+            "Para crear empleos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Dónde se venderá el petróleo iraní según la segunda historia?",
+          "options": [
+            "En gasolineras",
+            "En el mar",
+            "En refinerías",
+            "En el desierto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿De qué empresa era la tecnología que se envió a China?",
+          "options": [
+            "Super Micro",
+            "Nvidia",
+            "Apple",
+            "Google"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de tecnología se envió a China ilegalmente?",
+          "options": [
+            "Tecnología médica",
+            "Tecnología espacial",
+            "Inteligencia artificial",
+            "Tecnología militar"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué el gobierno considera importantes estos secretos tecnológicos?",
+          "options": [
+            "Por el dinero",
+            "Por la seguridad nacional",
+            "Por la educación",
+            "Por el medio ambiente"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-21T09:06:09.970979"
+    },
+    {
       "date": "2026-03-20",
       "filename": "spanish_lesson_2026-03-20.pdf",
       "path": "pdfs/spanish_lesson_2026-03-20.pdf",
@@ -22892,7 +23114,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-20T09:10:47.662813",
+  "last_updated": "2026-03-21T09:06:09.971002",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
