@@ -1,11 +1,159 @@
 {
-  "date": "2026-03-21",
-  "generated_at": "2026-03-21T09:12:09.242319Z",
+  "date": "2026-03-22",
+  "generated_at": "2026-03-22T09:12:21.524889Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 324,
-  "new_today": 5,
+  "total_stories": 328,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20260322",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El mercado mundial de cuidado de heridas crece rápidamente",
+      "headline_en": "Global Wound Care Market Grows Rapidly",
+      "summary_es": "El mercado de cuidado de heridas alcanzará 35.48 mil millones de dólares en 2033. Este crecimiento ocurre porque hay más personas con enfermedades crónicas que necesitan tratamiento de heridas.",
+      "body_es": "El mercado mundial de cuidado de heridas crece cada año. En 2033, alcanzará 35.48 mil millones de dólares. ¿Por qué crece? Hay más personas con diabetes, obesidad y otras enfermedades crónicas. Estas enfermedades causan heridas que no cierran rápidamente. Los pacientes necesitan vendajes especiales y tratamientos nuevos. Los hospitales compran más productos para el cuidado de heridas. Las enfermeras usan apósitos modernos. Los médicos prescriben nuevos tratamientos. El cuidado de heridas es importante. Las heridas crónicas afectan la calidad de vida. El tratamiento es costoso pero necesario. La investigación continúa para mejorar la curación.",
+      "body_en": "The global wound care market grows every year. By 2033, it will reach 35.48 billion dollars. Why does it grow? There are more people with diabetes, obesity, and other chronic diseases. These diseases cause wounds that do not close quickly. Patients need special bandages and new treatments. Hospitals buy more wound care products. Nurses use modern dressings. Doctors prescribe new treatments. Wound care is important. Chronic wounds affect quality of life. Treatment is expensive but necessary. Research continues to improve healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGVQNUdlemxKSVhtY3R1MzJFME5lZ0JMT3ZZSkVhc1FBSVl5ckJtN0xYVHI1QzZPRFkwSVRSQ25ZQ1BZUlpqYXhtd1BHNE51UGJRZTdqVnFxWUVUX19OSWk4Y0Q4aENXVU54aEpxd0ZJT2JnajFhZ3lIRU5qMTlIUm9MckM1a1NVcFZ4V1laVUxrSG5wUTdmVkJIOUtXQXI2WGZlU2l2YW5Qa2lod2pHV2hRVHhXa3Zq?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-22/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que tarda mucho tiempo en sanar",
+          "definition_en": "chronic wound - injury that takes a long time to heal"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "parche medicado que se coloca sobre una herida",
+          "definition_en": "dressing - medicated patch placed on a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cerrar y sanar una herida",
+          "definition_en": "healing - process of closing and recovering from a wound"
+        }
+      ],
+      "added_at": "2026-03-22T09:12:21.524889Z"
+    },
+    {
+      "id": "diabetic-foot-20260322",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "Aplicación móvil 'Salva el Pie' utiliza inteligencia artificial para tratar úlceras diabéticas",
+      "headline_en": "'Save the Foot' Mobile App Uses Artificial Intelligence to Treat Diabetic Foot Ulcers",
+      "summary_es": "Una nueva aplicación móvil llamada 'Salva el Pie' está transformando el tratamiento de las úlceras del pie diabético. La tecnología de inteligencia artificial permite monitoreo proactivo en lugar de solo reaccionar a los problemas.",
+      "body_es": "Una aplicación innovadora llamada 'Salva el Pie' está revolucionando el cuidado del pie diabético. Esta herramienta utiliza inteligencia artificial para ayudar a médicos y pacientes en el tratamiento de úlceras del pie diabético. Anteriormente, los profesionales de salud solo monitoreaban las heridas de manera reactiva. Ahora, la aplicación permite un seguimiento proactivo del estado de las úlceras. Los pacientes pueden registrar cambios en sus heridas diariamente. El sistema analiza las imágenes y datos que el paciente envía. Los médicos reciben alertas si detectan problemas. La curación se acelera cuando el tratamiento es temprano. Esta tecnología reduce la necesidad de amputaciones. Muchos pacientes pueden evitar la pérdida de extremidades. El sistema facilita la comunicación entre pacientes y médicos. La inteligencia artificial mejora significativamente los resultados clínicos.",
+      "body_en": "An innovative application called 'Save the Foot' is revolutionizing diabetic foot care. This tool uses artificial intelligence to help doctors and patients treat diabetic foot ulcers. Previously, healthcare professionals only monitored wounds reactively. Now, the application allows proactive monitoring of ulcer status. Patients can record changes in their wounds daily. The system analyzes images and data that the patient sends. Doctors receive alerts if problems are detected. Healing accelerates when treatment is early. This technology reduces the need for amputations. Many patients can avoid losing limbs. The system facilitates communication between patients and doctors. Artificial intelligence significantly improves clinical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbmtmUE9GcktSbVdkcUxPSHhpaXpmUzJNUHVFWHF3MGREQmZYc0wzR2RmbkdWc2lIbjYtaTZ4ZUpYU2YyUWpjXzUwcTFGbm1ta1JXYWNXQy1TdEZSMThqZ3lZMDNqS0pmeURyUDRwdzdNNHRkYTZNUVYzV21WRXlpQWhITnhrOEtQLWY0cWcyemhJS0hHaHp6bkZjalZrZFpjclJrRmJlaEdSMkpTNkNiS3BpZENTYzBidTZGUHR2UWxuVGVMa2drWVZrU1laUFdXd3NIQ2s2b3RxV0dpMWdoRTVEQ1PSAewBQVVfeXFMT0NwRnBCN29TQXkxeFVUVkNzTjcxVndvMW9oYWktempnamE3cU1mbUstWTVmcEhZMEYwUTZrNHFmeXBhRXBvWkM3dVRFR2VuTm9Ub2tVdmI1UEpmX0RhWldWeXVIYlJhOHlHOFpUNE9Cd0VsMWpaX0NERElzUDJueWljR20zbGxUQ2tWNm01Wm1RcmZwaDFYbk9MTTNHeEN3VWhxbGt4enRGbG0xekwwV1U5cE5vMjAtQ3RkTG9RV0o4cHNGOGczSzhpT25jYlNQX1FnbUdIWHBjZ1pfd3N2REwwQVlUbHRLSkplcUc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-22/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta en el pie causada por diabetes que no cierra normalmente",
+          "definition_en": "diabetic ulcer - open wound on the foot caused by diabetes that does not heal normally"
+        },
+        {
+          "word": "monitoreo proactivo",
+          "definition_es": "seguimiento anticipado para detectar problemas antes de que empeoren",
+          "definition_en": "proactive monitoring - anticipatory tracking to detect problems before they worsen"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de la herida",
+          "definition_en": "exudate - fluid that drains from the wound"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de un miembro o extremidad",
+          "definition_en": "amputation - surgical removal of a limb or extremity"
+        }
+      ],
+      "added_at": "2026-03-22T09:12:21.524889Z"
+    },
+    {
+      "id": "burn-care-20260322",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Nuevo vendaje especializado combate infecciones y reduce el uso de antibióticos",
+      "headline_en": "New Specialized Dressing Fights Infections and Reduces Antibiotic Use",
+      "summary_es": "Un nuevo tipo de vendaje para heridas está demostrando ser efectivo contra infecciones. Este apósito reduce la necesidad de antibióticos, lo que ayuda a evitar la resistencia bacteriana.",
+      "body_es": "Los investigadores han desarrollado un vendaje revolucionario que combate infecciones en heridas, especialmente en quemaduras y heridas quirúrgicas. Este nuevo apósito tiene propiedades antimicrobianas integradas. El vendaje elimina bacterias sin necesidad de antibióticos sistémicos. La resistencia antibiótica es un problema grave en hospitales. Cuando los pacientes reciben menos antibióticos, el riesgo disminuye. El apósito mantiene la herida limpia y protegida. Los profesionales sanitarios aplican el vendaje durante la curación. El material acelera la granulación de los tejidos dañados. Los pacientes experimentan menos infecciones secundarias. La epitelización ocurre más rápidamente con este tratamiento. Los estudios clínicos muestran resultados prometedores. Este innovador apósito representa un avance en el manejo de heridas agudas. La tecnología beneficia especialmente a pacientes con quemaduras severas.",
+      "body_en": "Researchers have developed a revolutionary dressing that fights infections in wounds, especially in burns and surgical wounds. This new dressing has integrated antimicrobial properties. The dressing eliminates bacteria without the need for systemic antibiotics. Antibiotic resistance is a serious problem in hospitals. When patients receive fewer antibiotics, the risk decreases. The dressing keeps the wound clean and protected. Healthcare professionals apply the dressing during wound care. The material accelerates tissue granulation of damaged areas. Patients experience fewer secondary infections. Epithelialization occurs more rapidly with this treatment. Clinical studies show promising results. This innovative dressing represents an advance in acute wound management. The technology especially benefits patients with severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRHlzenlTVC0tRTh2YjJOUHJ5REhVVGs0U1ZydWdoZjR6OUw0c3Y1bmpUVWlUMGc1dHMwMlMxSXFhV2wwRk1vTXNheUM1OWVqTWRDZVhIWU1saDJtbWdoNFU5NlZXaURtRVgxYXNtT1Y2ay1MYU5MbUx5d1hEVVlmMkY5VUxXbzltVlNwdFhRQWJWb0xyZzBvN2t1YU9KMGpQUXNMYVlubm1IV1pBNUFnYk5JTGFsWXAyX3Y4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-22/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o químicos",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "apósito antimicrobiano",
+          "definition_es": "vendaje que mata bacterias y previene infecciones",
+          "definition_en": "antimicrobial dressing - bandage that kills bacteria and prevents infections"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo durante la curación",
+          "definition_en": "granulation - formation of new tissue during healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel sobre la herida",
+          "definition_en": "epithelialization - process of forming new skin over the wound"
+        }
+      ],
+      "added_at": "2026-03-22T09:12:21.524889Z"
+    },
+    {
+      "id": "surgical-wounds-20260322",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Cuidado de heridas quirúrgicas mejora con nuevos protocolos de seguimiento",
+      "headline_en": "Surgical Wound Care Improves with New Follow-up Protocols",
+      "summary_es": "El mercado global de cuidado de heridas está en crecimiento, especialmente en el tratamiento de heridas quirúrgicas. Los nuevos protocolos permiten un seguimiento más efectivo después de las operaciones.",
+      "body_es": "El cuidado de heridas quirúrgicas es fundamental para prevenir complicaciones postoperatorias. Los protocolos modernos enfatizan la evaluación cuidadosa en las primeras semanas después de la cirugía. Las enfermeras realizan curaciones regulares usando técnicas asépticas. El desbridamiento se realiza cuando hay tejido necrótico. La inspección diaria de la herida detecta signos de infección tempranamente. El enrojecimiento, edema y exudado anormal requieren intervención inmediata. Los apósitos se cambian según las necesidades de la herida. Las suturas se retiran cuando la herida está suficientemente cicatrizada. El control del dolor facilita la movilidad del paciente. La irrigación con solución salina mantiene la herida limpia. La prevención de la isquemia es crucial en cirugía vascular. Los hospitales utilizan nuevas tecnologías para el monitoreo remoto. El seguimiento proactivo reduce las readmisiones hospitalarias significativamente.",
+      "body_en": "Surgical wound care is fundamental to preventing postoperative complications. Modern protocols emphasize careful evaluation in the weeks following surgery. Nurses perform regular dressings using aseptic techniques. Debridement is performed when there is necrotic tissue. Daily wound inspection detects signs of infection early. Redness, swelling, and abnormal exudate require immediate intervention. Dressings are changed according to wound needs. Sutures are removed when the wound is sufficiently healed. Pain control facilitates patient mobility. Irrigation with saline solution keeps the wound clean. Prevention of ischemia is crucial in vascular surgery. Hospitals use new technologies for remote monitoring. Proactive follow-up significantly reduces hospital readmissions.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGVQNUdlemxKSVhtY3R1MzJFME5lZ0JMT3ZZSkVhc1FBSVl5ckJtN0xYVHI1QzZPRFkwSVRSQ25ZQ1BZUlpqYXhtd1BHNE51UGJRZTdqVnFxWUVUX19OSWk4Y0Q4aENXVU54aEpxd0ZJT2JnajFhZ3lIRU5qMTlIUm9MckM1a1NVcFZ4V1laVUxrSG5wUTdmVkJIOUtXQXI2WGZlU2l2YW5Qa2lod2pHV2hRVHhXa3Zq?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-22/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo a una parte del cuerpo",
+          "definition_en": "ischemia - lack of blood flow to part of the body"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "punto médico que cierra una herida quirúrgica",
+          "definition_en": "suture - medical stitch that closes a surgical wound"
+        },
+        {
+          "word": "técnica aséptica",
+          "definition_es": "método para evitar contaminación bacteriana durante curaciones",
+          "definition_en": "aseptic technique - method to prevent bacterial contamination during dressings"
+        }
+      ],
+      "added_at": "2026-03-22T09:12:21.524889Z"
+    },
     {
       "id": "chronic-wounds-20260321",
       "category": "Chronic Wounds",
@@ -11989,6 +12137,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-21T09:12:09.242319Z",
+  "last_updated": "2026-03-22T09:12:21.524889Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
