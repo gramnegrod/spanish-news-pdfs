@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-22",
+      "filename": "spanish_lesson_2026-03-22.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-22.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Muere Robert Mueller, ex director del FBI que investigó a Trump",
+          "headline_en": "Robert Mueller, former FBI director who investigated Trump, dies",
+          "body_es": "Robert Mueller, el famoso ex director del FBI, murió a los 81 años. Mueller dirigió una investigación muy importante sobre el expresidente Donald Trump entre 2017 y 2019. Durante su carrera, Mueller trabajó como director del FBI por 12 años, desde 2001 hasta 2013. Fue nombrado una semana antes de los ataques del 11 de septiembre. Su investigación sobre Trump examinó las posibles conexiones entre la campaña presidencial y Rusia. Mueller era respetado por políticos de ambos partidos por su honestidad y dedicación al trabajo. Su muerte marca el final de una larga carrera en el servicio público estadounidense.",
+          "body_en": "Robert Mueller, the famous former FBI director, died at age 81. Mueller led a very important investigation about former president Donald Trump between 2017 and 2019. During his career, Mueller worked as FBI director for 12 years, from 2001 to 2013. He was appointed one week before the September 11 attacks. His investigation about Trump examined possible connections between the presidential campaign and Russia. Mueller was respected by politicians from both parties for his honesty and dedication to work. His death marks the end of a long career in American public service.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos pierde 92,000 empleos en febrero",
+          "headline_en": "United States loses 92,000 jobs in February",
+          "body_es": "La economía estadounidense tuvo malas noticias en febrero. El país perdió 92,000 empleos, un resultado muy inesperado. Los economistas pensaban que la economía iba a crear nuevos trabajos, no perderlos. Esta pérdida de empleos es preocupante para el gobierno y los trabajadores. Muchos sectores económicos fueron afectados, especialmente los servicios y la manufactura. Los expertos dicen que varios factores causaron este problema, incluyendo el clima frío y cambios en el mercado laboral. El gobierno está estudiando nuevas políticas para ayudar a crear más empleos. Esta situación muestra que la economía todavía enfrenta desafíos importantes en 2024.",
+          "body_en": "The American economy had bad news in February. The country lost 92,000 jobs, a very unexpected result. Economists thought the economy was going to create new jobs, not lose them. This job loss is worrying for the government and workers. Many economic sectors were affected, especially services and manufacturing. Experts say several factors caused this problem, including cold weather and changes in the job market. The government is studying new policies to help create more jobs. This situation shows that the economy still faces important challenges in 2024.",
+          "source": "AOL.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Miles de personas venden sus identidades para entrenar inteligencia artificial",
+          "headline_en": "Thousands of people sell their identities to train artificial intelligence",
+          "body_es": "Un nuevo negocio está creciendo en internet: vender datos personales a empresas de inteligencia artificial. Miles de personas están vendiendo información sobre sus identidades, incluyendo fotos, voces y datos biométricos. Las empresas de IA pagan dinero por esta información para entrenar sus sistemas. Algunas personas pueden ganar entre 100 y 1,000 dólares por vender sus datos. Sin embargo, los expertos están preocupados por los riesgos. Cuando vendes tu identidad, puedes perder control sobre cómo se usa tu información personal. También existe el riesgo de que criminales usen estos datos para actividades ilegales. Los gobiernos están estudiando nuevas leyes para proteger a las personas en este mercado digital.",
+          "body_en": "A new business is growing on the internet: selling personal data to artificial intelligence companies. Thousands of people are selling information about their identities, including photos, voices and biometric data. AI companies pay money for this information to train their systems. Some people can earn between 100 and 1,000 dollars for selling their data. However, experts are worried about the risks. When you sell your identity, you can lose control over how your personal information is used. There's also the risk that criminals use this data for illegal activities. Governments are studying new laws to protect people in this digital market.",
+          "source": "The Guardian"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "investigación",
+          "syllables": "in-ves-ti-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "Mueller dirigió una investigación importante sobre Trump.",
+          "definition_es": "Proceso de buscar información y examinar hechos para descubrir la verdad",
+          "definition_en": "Investigation"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense perdió muchos empleos en febrero.",
+          "definition_es": "Sistema de producción y distribución de dinero y recursos en un país",
+          "definition_en": "Economy"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Estados Unidos perdió 92,000 empleos el mes pasado.",
+          "definition_es": "Trabajo que una persona hace para ganar dinero",
+          "definition_en": "Job/employment"
+        },
+        {
+          "word": "identidad",
+          "syllables": "i-den-ti-DAD",
+          "pos": "sustantivo",
+          "context": "Miles de personas están vendiendo sus identidades para entrenar inteligencia artificial.",
+          "definition_es": "Características que hacen única a una persona",
+          "definition_en": "Identity"
+        },
+        {
+          "word": "entrenar",
+          "syllables": "en-tre-NAR",
+          "pos": "verbo",
+          "context": "Las empresas usan datos personales para entrenar sistemas de IA.",
+          "definition_es": "Enseñar o preparar algo para que funcione mejor",
+          "definition_en": "To train"
+        },
+        {
+          "word": "inesperado",
+          "syllables": "i-nes-pe-RA-do",
+          "pos": "adjetivo",
+          "context": "La pérdida de empleos fue un resultado inesperado.",
+          "definition_es": "Algo que no se esperaba que pasara",
+          "definition_en": "Unexpected"
+        },
+        {
+          "word": "director",
+          "syllables": "di-rec-TOR",
+          "pos": "sustantivo",
+          "context": "Mueller fue director del FBI durante muchos años.",
+          "definition_es": "Persona que está a cargo de una organización o departamento",
+          "definition_en": "Director"
+        },
+        {
+          "word": "artificial",
+          "syllables": "ar-ti-fi-CIAL",
+          "pos": "adjetivo",
+          "context": "La inteligencia artificial necesita muchos datos para aprender.",
+          "definition_es": "Hecho por humanos, no natural",
+          "definition_en": "Artificial"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'investigación'?",
+          "options": [
+            "Proceso de buscar información para descubrir la verdad",
+            "Tipo de trabajo en una oficina",
+            "Sistema de gobierno",
+            "Método de enseñanza"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "La palabra 'inesperado' significa algo que:",
+          "options": [
+            "Es muy caro",
+            "No se esperaba que pasara",
+            "Pasa todos los días",
+            "Es muy fácil de hacer"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'entrenar' en el contexto de inteligencia artificial?",
+          "options": [
+            "Hacer ejercicio físico",
+            "Viajar en tren",
+            "Enseñar o preparar algo para que funcione mejor",
+            "Competir en deportes"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'empleo'?",
+          "options": [
+            "Un tipo de comida",
+            "Trabajo que una persona hace para ganar dinero",
+            "Un lugar para vivir",
+            "Una forma de transporte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos años tenía Robert Mueller cuando murió?",
+          "options": [
+            "79 años",
+            "80 años",
+            "81 años",
+            "82 años"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos perdió Estados Unidos en febrero?",
+          "options": [
+            "82,000",
+            "92,000",
+            "102,000",
+            "112,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Durante qué años Mueller dirigió la investigación sobre Trump?",
+          "options": [
+            "2015-2017",
+            "2016-2018",
+            "2017-2019",
+            "2018-2020"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según el artículo sobre empleos, ¿qué sectores fueron más afectados?",
+          "options": [
+            "Agricultura y pesca",
+            "Servicios y manufactura",
+            "Educación y salud",
+            "Turismo y entretenimiento"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero pueden ganar las personas vendiendo sus datos de identidad?",
+          "options": [
+            "50-500 dólares",
+            "100-1,000 dólares",
+            "200-2,000 dólares",
+            "500-5,000 dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué los expertos están preocupados por la venta de identidades?",
+          "options": [
+            "Porque es muy caro",
+            "Porque la gente puede perder control sobre su información personal",
+            "Porque es ilegal en todos los países",
+            "Porque no funciona la tecnología"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-22T09:06:48.907277"
+    },
+    {
       "date": "2026-03-21",
       "filename": "spanish_lesson_2026-03-21.pdf",
       "path": "pdfs/spanish_lesson_2026-03-21.pdf",
@@ -23114,7 +23336,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-21T09:06:09.971002",
+  "last_updated": "2026-03-22T09:06:48.907303",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
