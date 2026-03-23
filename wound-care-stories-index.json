@@ -1,11 +1,159 @@
 {
-  "date": "2026-03-22",
-  "generated_at": "2026-03-22T09:12:21.524889Z",
+  "date": "2026-03-23",
+  "generated_at": "2026-03-23T09:26:51.659140Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 328,
+  "total_stories": 332,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20260323",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo vendaje inteligente cura y controla heridas al mismo tiempo",
+      "headline_en": "Smart bandage could heal and monitor wounds at the same time",
+      "summary_es": "Un nuevo vendaje inteligente puede curar heridas crónicas y monitorear el proceso de cicatrización simultáneamente. Esta tecnología revolucionaria ofrece una solución innovadora para el cuidado de heridas.",
+      "body_es": "Un nuevo vendaje inteligente promete cambiar el tratamiento de heridas crónicas. Este vendaje no solo cura la herida, sino que también controla el proceso de cicatrización en tiempo real. El dispositivo mide la humedad, la temperatura y otros factores importantes. Los profesionales de salud pueden monitorear los datos desde un dispositivo móvil. Esta tecnología es especialmente útil para pacientes con heridas difíciles de curar. El vendaje inteligente reduce visitas al hospital. Los pacientes reciben mejor cuidado en casa. Los médicos reciben información precisa sobre el progreso de la herida. Esta innovación representa un avance importante en el cuidado de heridas crónicas.",
+      "body_en": "A new smart bandage promises to change the treatment of chronic wounds. This bandage not only heals the wound but also monitors the healing process in real time. The device measures humidity, temperature, and other important factors. Healthcare professionals can monitor data from a mobile device. This technology is especially useful for patients with difficult-to-heal wounds. The smart bandage reduces hospital visits. Patients receive better care at home. Doctors receive accurate information about wound progress. This innovation represents an important advance in chronic wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ocy1kRU1JQ3l4WS02MENsZWlBQ3NvMDJOMmF4aVo3enVNWXlrTzdCVjNmdW0yTzJ0RWFTTVltNXUxYzE4S1NOb0VEb19Ha3daX3R4TVpQNGpzWGRUYTJwY1hVNjBOcFZsOUh3Qmpid05QUQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-23/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente y requiere tratamiento prolongado",
+          "definition_en": "chronic wound - injury that does not heal quickly and requires long-term treatment"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y curación de una herida",
+          "definition_en": "healing process - closure and recovery of a wound"
+        },
+        {
+          "word": "monitorear",
+          "definition_es": "observar y registrar el progreso de un proceso",
+          "definition_en": "to monitor - observe and record the progress of a process"
+        }
+      ],
+      "added_at": "2026-03-23T09:26:51.659140Z"
+    },
+    {
+      "id": "diabetic-foot-20260323",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "Aplicación de IA 'Salva el Pie' transforma el tratamiento de úlceras diabéticas",
+      "headline_en": "'Save the Foot' AI App Transforms DFU Treatment from Reactive Monitoring to Proactive Healing",
+      "summary_es": "Una nueva aplicación basada en inteligencia artificial llamada 'Salva el Pie' está revolucionando el tratamiento de úlceras del pie diabético. La app permite a los médicos y pacientes pasar de un monitoreo reactivo a una curación proactiva.",
+      "body_es": "La aplicación 'Salva el Pie' utiliza inteligencia artificial para transformar el cuidado de las úlceras del pie diabético. Anteriormente, los médicos solo monitoreaban las heridas de forma pasiva. Ahora, la tecnología permite identificar problemas antes de que se compliquen. Los pacientes pueden fotografiar sus heridas y compartirlas con sus médicos en tiempo real. La aplicación analiza las imágenes utilizando algoritmos avanzados de IA. Los resultados se envían instantáneamente a los profesionales de salud. Esto permite intervenciones más rápidas y efectivas. Los pacientes reciben consejos personalizados para mejorar la cicatrización. Los estudios demuestran que esta aplicación reduce significativamente las amputaciones. El sistema ha demostrado ser especialmente efectivo en comunidades con acceso limitado a podiatras especializados.",
+      "body_en": "The 'Save the Foot' application uses artificial intelligence to transform the care of diabetic foot ulcers. Previously, doctors only monitored wounds passively. Now, technology allows problems to be identified before they become complicated. Patients can photograph their wounds and share them with their doctors in real time. The application analyzes images using advanced AI algorithms. Results are sent instantly to healthcare professionals. This allows for faster and more effective interventions. Patients receive personalized advice to improve healing. Studies show that this application significantly reduces amputations. The system has proven especially effective in communities with limited access to specialized podiatrists.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbmtmUE9GcktSbVdkcUxPSHhpaXpmUzJNUHVFWHF3MGREQmZYc0wzR2RmbkdWc2lIbjYtaTZ4ZUpYU2YyUWpjXzUwcTFGbm1ta1JXYWNXQy1TdEZSMThqZ3lZMDNqS0pmeURyUDRwdzdNNHRkYTZNUVYzV21WRXlpQWhITnhrOEtQLWY0cWcyemhJS0hHaHp6bkZjalZrZFpjclJrRmJlaEdSMkpTNkNiS3BpZENTYzBidTZGUHR2UWxuVGVMa2drWVZrU1laUFdXd3NIQ2s2b3RxV0dpMWdoRTVEQ1BSAewBQVVfeXFMT0NwRnBCN29TQXkxeFVUVkNzTjcxVndvMW9oYWktempnamE3cU1mbUstWTVmcEhZMEYwUTZrNHFmeXBhRXBvWkM3dVRFR2VuTm9Ub2tVdmI1UEpmX0RhWldWeXVIYlJhOHlHOFpUNE9Cd0VsMWpaX0NERElzUDJueWljR20zbGxUQ2tWNm01Wm1RcmZwaDFYbk9MTTNHeEN3VWhxbGt4enRGbG0xekwwV1U5cE5vMjAtQ3RkTG9RV0o4cHNGOGczSzhpT25jYlNQX1FnbUdIWHBjZ1pfd3N2REwwQVlUbHRLSkplcUc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-23/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "herida abierta en el pie causada por diabetes que dificulta la cicatrización",
+          "definition_en": "diabetic foot ulcer - open wound on the foot caused by diabetes that impairs healing"
+        },
+        {
+          "word": "inteligencia artificial",
+          "definition_es": "tecnología que permite a las máquinas analizar datos y tomar decisiones",
+          "definition_en": "artificial intelligence - technology that allows machines to analyze data and make decisions"
+        },
+        {
+          "word": "intervención",
+          "definition_es": "acción médica para tratar o prevenir una complicación",
+          "definition_en": "intervention - medical action to treat or prevent a complication"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-03-23T09:26:51.659140Z"
+    },
+    {
+      "id": "burn-care-20260323",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Investigación revela nuevo método para regenerar piel sin cicatrices",
+      "headline_en": "Study reveals new way to fully regenerate skin without scarring",
+      "summary_es": "Un nuevo estudio científico ha descubierto un método revolucionario para regenerar la piel completamente sin dejar cicatrices. Este hallazgo tiene implicaciones importantes para el tratamiento de quemaduras y otras lesiones cutáneas.",
+      "body_es": "Los investigadores han identificado un nuevo método que permite regenerar la piel de forma completa sin producir cicatrices visibles. El estudio muestra que es posible restaurar la función normal de la piel después de quemaduras graves. El proceso implica estimular la capacidad natural del cuerpo para reparar el tejido dañado. Los científicos utilizaron técnicas avanzadas de biología celular para lograr este resultado. El método es particularmente útil en quemaduras extensas donde las cicatrices tradicionales causan problemas funcionales y estéticos. En ensayos preliminares, los pacientes tratados con este nuevo enfoque mostraron una regeneración significativa de la piel. La cicatrización se redujo notablemente en comparación con los tratamientos convencionales. Este descubrimiento abre nuevas posibilidades para mejorar la calidad de vida de los pacientes quemados. Los investigadores esperan llevar este tratamiento a las clínicas en los próximos años.",
+      "body_en": "Researchers have identified a new method that allows complete skin regeneration without producing visible scars. The study shows that it is possible to restore normal skin function after severe burns. The process involves stimulating the body's natural ability to repair damaged tissue. Scientists used advanced cellular biology techniques to achieve this result. The method is particularly useful in extensive burns where traditional scars cause functional and aesthetic problems. In preliminary trials, patients treated with this new approach showed significant skin regeneration. Scarring was markedly reduced compared to conventional treatments. This discovery opens new possibilities for improving the quality of life for burned patients. Researchers expect to bring this treatment to clinics in the coming years.",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcjVBYXp5MXAtWFM1RWlwT2l0V2FIbDVxNFZGc3dYYXF5T3hsTzIxS3FYVEVEYXF0T0otZ1lIaWhLQmtoZFdUeW9hNG5YSFVmQnlMMndoUDJnSjhicmJ1U1JfQ2JvN0JWU3U0VUdrTGdfYks3V3pGcXc4OFV0dXhpLVhBX2cyQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-23/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to skin caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca permanente que queda después de que una herida se cura",
+          "definition_en": "scar - permanent mark left after a wound heals"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "proceso natural de crecimiento de nuevo tejido para reemplazar el dañado",
+          "definition_en": "regeneration - natural process of new tissue growth to replace damaged tissue"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "conjunto de células similares que forman una estructura corporal",
+          "definition_en": "tissue - group of similar cells that form a body structure"
+        }
+      ],
+      "added_at": "2026-03-23T09:26:51.659140Z"
+    },
+    {
+      "id": "surgical-wounds-20260323",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Factores de riesgo para la readmisión hospitalaria después de cirugía de hombro",
+      "headline_en": "Risk indicators for hospital readmission after shoulder surgery in Pennsylvania",
+      "summary_es": "Un nuevo estudio de la Universidad de Penn State identifica los factores de riesgo que contribuyen a la readmisión hospitalaria después de cirugía de hombro en Pennsylvania.",
+      "body_es": "Los investigadores de la Universidad de Penn State han realizado un estudio exhaustivo para identificar los factores de riesgo asociados con la readmisión hospitalaria después de cirugía de hombro. El estudio analizó datos de cientos de pacientes en hospitales de Pennsylvania. Los resultados revelan que varios factores aumentan el riesgo de complicaciones postoperatorias. Los pacientes de mayor edad presentan mayor riesgo de readmisión en los 30 días después de la cirugía. Las complicaciones infecciosas de la herida quirúrgica son una causa frecuente de readmisión. El manejo inadecuado del dolor postoperatorio también contribuye significativamente a las readmisiones. Los investigadores encontraron que la evaluación preoperatoria exhaustiva es crucial para identificar a los pacientes de alto riesgo. La implementación de programas de cuidado postoperatorio mejorado redujo las tasas de readmisión. Los hallazgos sugieren que se necesitan intervenciones específicas para reducir complicaciones quirúrgicas en poblaciones vulnerables.",
+      "body_en": "Researchers at Penn State University conducted a comprehensive study to identify risk factors associated with hospital readmission after shoulder surgery. The study analyzed data from hundreds of patients in Pennsylvania hospitals. Results reveal that several factors increase the risk of postoperative complications. Older patients present a higher risk of readmission within 30 days after surgery. Infectious complications of the surgical wound are a frequent cause of readmission. Inadequate management of postoperative pain also significantly contributes to readmissions. Researchers found that thorough preoperative evaluation is crucial for identifying high-risk patients. Implementation of enhanced postoperative care programs reduced readmission rates. Findings suggest that specific interventions are needed to reduce surgical complications in vulnerable populations.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1VNVGFLTjhUOS04N0xoOEQwTmxyUVFSZ0kydmFMNVBXbF96VXlYSW82WmF4Vm9iZWVFUU1PSkJnczQ1UE1qT2hlN0l2Y3FFd3NTd3RicllEQTdjQTJ1cl8zSVVtQXVDY0lZUnYwVXA3dXFHemg1Zlo0eFdsNE5RUlloek9HRm9vVTJ0VjE4ajFYTW8ySWpFYTZxbHhBc3BzbUpnUnhhSk5fU2lDQXFoOWtobzEzLTlyVFFr?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-23/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión o lesión causada durante una intervención quirúrgica",
+          "definition_en": "surgical wound - incision or injury caused during a surgical procedure"
+        },
+        {
+          "word": "readmisión",
+          "definition_es": "regreso de un paciente al hospital poco después de haber sido dado de alta",
+          "definition_en": "readmission - return of a patient to the hospital shortly after discharge"
+        },
+        {
+          "word": "complicación postoperatoria",
+          "definition_es": "problema que surge después de una cirugía como infección o dehiscencia",
+          "definition_en": "postoperative complication - problem arising after surgery such as infection or wound separation"
+        },
+        {
+          "word": "infección de la herida",
+          "definition_es": "contaminación de la incisión quirúrgica por microorganismos patógenos",
+          "definition_en": "wound infection - contamination of the surgical incision by pathogenic microorganisms"
+        }
+      ],
+      "added_at": "2026-03-23T09:26:51.659140Z"
+    },
     {
       "id": "chronic-wounds-20260322",
       "category": "Chronic Wounds",
@@ -12137,6 +12285,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-22T09:12:21.524889Z",
+  "last_updated": "2026-03-23T09:26:51.659140Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
