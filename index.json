@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-23",
+      "filename": "spanish_lesson_2026-03-23.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-23.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump conecta financiación de seguridad con nueva ley electoral",
+          "headline_en": "Trump connects security funding with new electoral law",
+          "body_es": "El expresidente Donald Trump ha propuesto una nueva estrategia política. Quiere conectar la financiación del Departamento de Seguridad Nacional con la aprobación de una ley electoral. Esta propuesta ha creado debate en el Congreso americano. Los republicanos apoyan la idea, pero los demócratas están en contra. La financiación del DHS es muy importante para la seguridad del país. Sin esta financiación, muchos programas de seguridad pueden tener problemas. Los expertos políticos dicen que esta estrategia es arriesgada. La ley electoral que Trump quiere aprobar incluye nuevas reglas para votar. Algunos políticos piensan que estas reglas son necesarias. Otros creen que pueden dificultar el voto a algunas personas. La situación continúa desarrollándose en Washington.",
+          "body_en": "Former President Donald Trump has proposed a new political strategy. He wants to connect Department of Homeland Security funding with the approval of an electoral law. This proposal has created debate in the American Congress. Republicans support the idea, but Democrats are against it. DHS funding is very important for the country's security. Without this funding, many security programs may have problems. Political experts say this strategy is risky. The electoral law that Trump wants to approve includes new voting rules. Some politicians think these rules are necessary. Others believe they may make voting difficult for some people. The situation continues to develop in Washington.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los mercados financieros caen tras ultimátum de Trump sobre Irán",
+          "headline_en": "Financial markets fall after Trump's ultimatum on Iran",
+          "body_es": "Los mercados financieros mundiales experimentaron una fuerte caída ayer. La razón principal fue el ultimátum que Trump dio sobre la situación con Irán. Los inversores están muy preocupados por una posible crisis internacional. Las acciones de las empresas de energía y tecnología bajaron considerablemente. El precio del petróleo subió debido a la tensión en la región. Los expertos económicos explican que los mercados no les gustan las situaciones inciertas. Cuando hay conflictos políticos, los inversores prefieren vender sus acciones. La bolsa de Nueva York perdió tres puntos porcentuales. Las bolsas europeas y asiáticas también tuvieron pérdidas importantes. Los analistas financieros recomiendan precaución a los inversores. Esperan que la situación se calme pronto para evitar más problemas económicos.",
+          "body_en": "Global financial markets experienced a sharp fall yesterday. The main reason was the ultimatum that Trump gave about the situation with Iran. Investors are very worried about a possible international crisis. Energy and technology company stocks fell considerably. Oil prices rose due to tension in the region. Economic experts explain that markets don't like uncertain situations. When there are political conflicts, investors prefer to sell their stocks. The New York stock exchange lost three percentage points. European and Asian stock exchanges also had significant losses. Financial analysts recommend caution to investors. They hope the situation will calm down soon to avoid more economic problems.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Tencent conecta mil millones de usuarios de WeChat con inteligencia artificial",
+          "headline_en": "Tencent connects one billion WeChat users with artificial intelligence",
+          "body_es": "La empresa china Tencent ha anunciado una nueva innovación tecnológica. Van a conectar todos los usuarios de WeChat con un agente de inteligencia artificial llamado OpenClaw. WeChat es una aplicación muy popular en China con más de mil millones de usuarios activos. Este nuevo sistema de IA podrá ayudar a las personas con muchas tareas diarias. Por ejemplo, podrá responder preguntas, hacer reservas en restaurantes y dar consejos sobre compras. Los desarrolladores de Tencent han trabajado durante dos años en este proyecto. Dicen que OpenClaw es muy avanzado y puede entender el lenguaje natural muy bien. Los usuarios podrán hablar con la IA como si fuera una persona real. Esta innovación puede cambiar la forma en que las personas usan las aplicaciones móviles. La empresa espera lanzar el servicio el próximo mes.",
+          "body_en": "Chinese company Tencent has announced a new technological innovation. They will connect all WeChat users with an artificial intelligence agent called OpenClaw. WeChat is a very popular application in China with more than one billion active users. This new AI system will be able to help people with many daily tasks. For example, it will be able to answer questions, make restaurant reservations and give shopping advice. Tencent developers have worked on this project for two years. They say OpenClaw is very advanced and can understand natural language very well. Users will be able to talk to the AI as if it were a real person. This innovation could change how people use mobile applications. The company hopes to launch the service next month.",
+          "source": "Technology Org"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "financiación",
+          "syllables": "fi-nan-cia-CIÓN",
+          "pos": "sustantivo",
+          "context": "Trump relaciona la financiación del DHS con la aprobación de una ley electoral.",
+          "definition_es": "Acción de proporcionar dinero para algo",
+          "definition_en": "The action of providing funding or money for something"
+        },
+        {
+          "word": "aprobación",
+          "syllables": "a-pro-ba-CIÓN",
+          "pos": "sustantivo",
+          "context": "El presidente busca la aprobación de nuevas leyes electorales.",
+          "definition_es": "Acción de aceptar o dar el visto bueno a algo",
+          "definition_en": "The action of approving or giving consent to something"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros cayeron después del ultimátum.",
+          "definition_es": "Lugares donde se compran y venden productos o acciones",
+          "definition_en": "Places where products or stocks are bought and sold"
+        },
+        {
+          "word": "caída",
+          "syllables": "ca-Í-da",
+          "pos": "sustantivo",
+          "context": "La caída de las acciones preocupa a los inversores.",
+          "definition_es": "Descenso o disminución de algo",
+          "definition_en": "A fall or decrease in something"
+        },
+        {
+          "word": "ultimátum",
+          "syllables": "ul-ti-MÁ-tum",
+          "pos": "sustantivo",
+          "context": "Trump dio un ultimátum sobre la situación con Irán.",
+          "definition_es": "Demanda final antes de tomar una acción",
+          "definition_en": "Final demand before taking action"
+        },
+        {
+          "word": "usuarios",
+          "syllables": "u-sua-RIOS",
+          "pos": "sustantivo",
+          "context": "WeChat tiene más de mil millones de usuarios activos.",
+          "definition_es": "Personas que usan un servicio o producto",
+          "definition_en": "People who use a service or product"
+        },
+        {
+          "word": "conectar",
+          "syllables": "co-nec-TAR",
+          "pos": "verbo",
+          "context": "Tencent quiere conectar a los usuarios con inteligencia artificial.",
+          "definition_es": "Unir o establecer comunicación entre cosas",
+          "definition_en": "To join or establish communication between things"
+        },
+        {
+          "word": "inversores",
+          "syllables": "in-ver-SO-res",
+          "pos": "sustantivo",
+          "context": "Los inversores están preocupados por la situación política.",
+          "definition_es": "Personas que ponen dinero en negocios para ganar más",
+          "definition_en": "People who put money into businesses to earn more"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'financiación'?",
+          "options": [
+            "Proporcionar dinero para algo",
+            "Votar en elecciones",
+            "Hacer una ley nueva",
+            "Cerrar el gobierno"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'ultimátum'?",
+          "options": [
+            "Una pregunta difícil",
+            "Una demanda final antes de tomar acción",
+            "Un tipo de mercado",
+            "Una aplicación móvil"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Los 'usuarios' son:",
+          "options": [
+            "Personas que venden productos",
+            "Personas que hacen leyes",
+            "Personas que usan un servicio",
+            "Personas que trabajan en bancos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué palabra describe el descenso de las acciones?",
+          "options": [
+            "Aprobación",
+            "Caída",
+            "Conexión",
+            "Financiación"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Con qué quiere Trump conectar la financiación del DHS?",
+          "options": [
+            "Con un ultimátum sobre Irán",
+            "Con una ley electoral",
+            "Con WeChat",
+            "Con inteligencia artificial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué cayeron los mercados financieros?",
+          "options": [
+            "Por una nueva aplicación",
+            "Por el ultimátum de Trump sobre Irán",
+            "Por problemas con WeChat",
+            "Por nuevas leyes electorales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántos usuarios tiene WeChat?",
+          "options": [
+            "Mil usuarios",
+            "Un millón de usuarios",
+            "Más de mil millones de usuarios",
+            "Cien mil usuarios"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama el agente de inteligencia artificial de Tencent?",
+          "options": [
+            "WeChat",
+            "OpenClaw",
+            "Trump",
+            "DHS"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuántos puntos porcentuales perdió la bolsa de Nueva York?",
+          "options": [
+            "Uno",
+            "Dos",
+            "Tres",
+            "Cuatro"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuándo espera Tencent lanzar el servicio de IA?",
+          "options": [
+            "Esta semana",
+            "El próximo mes",
+            "El próximo año",
+            "En dos años"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-23T09:18:07.714130"
+    },
+    {
       "date": "2026-03-22",
       "filename": "spanish_lesson_2026-03-22.pdf",
       "path": "pdfs/spanish_lesson_2026-03-22.pdf",
@@ -23336,7 +23558,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-22T09:06:48.907303",
+  "last_updated": "2026-03-23T09:18:07.714150",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
