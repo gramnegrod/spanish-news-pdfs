@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-24",
+      "filename": "spanish_lesson_2026-03-24.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-24.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Muere Robert Mueller, famoso investigador del FBI",
+          "headline_en": "Robert Mueller, famous FBI investigator, dies",
+          "body_es": "Robert Mueller murió a los 81 años. Fue director del FBI durante 12 años. Mueller trabajó para reconstruir la organización después de los ataques del 11 de septiembre. También dirigió la investigación sobre la campaña electoral de Donald Trump. Esta investigación duró dos años y fue muy importante para la política estadounidense. Mueller nació en 1944 y estudió derecho. Trabajó como abogado antes de unirse al FBI. Muchas personas lo respetaban por su trabajo honesto. Mueller dedicó su vida al servicio público. Su muerte marca el final de una carrera muy importante en la justicia americana.",
+          "body_en": "Robert Mueller died at age 81. He was FBI director for 12 years. Mueller worked to rebuild the organization after the September 11 attacks. He also led the investigation into Donald Trump's electoral campaign. This investigation lasted two years and was very important for American politics. Mueller was born in 1944 and studied law. He worked as a lawyer before joining the FBI. Many people respected him for his honest work. Mueller dedicated his life to public service. His death marks the end of a very important career in American justice.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Jóvenes graduados enfrentan el peor mercado laboral en años",
+          "headline_en": "Young graduates face the worst job market in years",
+          "body_es": "Los jóvenes que terminaron la universidad este año enfrentan muchas dificultades. El mercado laboral está muy competitivo y hay pocas oportunidades. Muchas empresas no están contratando nuevos empleados. Los graduados envían cientos de solicitudes pero no reciben respuestas. Algunos aceptan trabajos que no requieren título universitario. La situación económica actual hace todo más difícil. Los expertos dicen que la situación puede mejorar el próximo año. Mientras tanto, los jóvenes buscan alternativas como cursos adicionales o prácticas no pagadas. Esta generación debe ser muy paciente y persistente para encontrar el trabajo que desea.",
+          "body_en": "Young people who finished university this year face many difficulties. The job market is very competitive and there are few opportunities. Many companies are not hiring new employees. Graduates send hundreds of applications but receive no responses. Some accept jobs that don't require a university degree. The current economic situation makes everything more difficult. Experts say the situation may improve next year. Meanwhile, young people look for alternatives like additional courses or unpaid internships. This generation must be very patient and persistent to find the job they want.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Los chatbots de inteligencia artificial quieren acceso a datos médicos",
+          "headline_en": "AI chatbots want access to medical data",
+          "body_es": "Las nuevas tecnologías de inteligencia artificial quieren acceder a nuestros registros médicos. Los chatbots prometen ayudar con problemas de salud. Sin embargo, los expertos recomiendan actuar cuidadosamente. Estos sistemas pueden usar nuestra información personal de formas no deseadas. Los datos médicos son muy privados y sensibles. Las empresas de tecnología dicen que la información estará segura. Pero algunos doctores no están seguros de esto. Es importante leer bien los términos antes de compartir información. Los pacientes deben pensar dos veces antes de dar acceso a sus datos. La tecnología puede ayudar, pero la privacidad también es muy importante.",
+          "body_en": "New artificial intelligence technologies want to access our medical records. Chatbots promise to help with health problems. However, experts recommend acting carefully. These systems may use our personal information in unwanted ways. Medical data is very private and sensitive. Technology companies say the information will be secure. But some doctors are not sure about this. It's important to read the terms carefully before sharing information. Patients should think twice before giving access to their data. Technology can help, but privacy is also very important.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "investigación",
+          "syllables": "in-ves-ti-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "Mueller dirigió la investigación sobre Trump.",
+          "definition_es": "Acción de buscar información detallada sobre algo",
+          "definition_en": "Investigation, inquiry"
+        },
+        {
+          "word": "graduados",
+          "syllables": "gra-du-A-dos",
+          "pos": "sustantivo",
+          "context": "Los jóvenes graduados enfrentan dificultades para encontrar trabajo.",
+          "definition_es": "Personas que terminaron sus estudios universitarios",
+          "definition_en": "Graduates"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral está muy difícil este año.",
+          "definition_es": "Sistema donde se ofrecen y buscan empleos",
+          "definition_en": "Job market"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial puede acceder a información médica.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence"
+        },
+        {
+          "word": "reconstruir",
+          "syllables": "re-cons-tru-ÍR",
+          "pos": "verbo",
+          "context": "Mueller ayudó a reconstruir el FBI después de los ataques.",
+          "definition_es": "Construir algo de nuevo o reparar lo dañado",
+          "definition_en": "To rebuild, to reconstruct"
+        },
+        {
+          "word": "registros médicos",
+          "syllables": "re-GIS-tros MÉ-di-cos",
+          "pos": "sustantivo",
+          "context": "Los chatbots quieren acceso a nuestros registros médicos.",
+          "definition_es": "Documentos con información sobre la salud de una persona",
+          "definition_en": "Medical records"
+        },
+        {
+          "word": "enfrentar",
+          "syllables": "en-fren-TAR",
+          "pos": "verbo",
+          "context": "Los estudiantes enfrentan muchos problemas para conseguir empleo.",
+          "definition_es": "Confrontar o lidiar con una situación difícil",
+          "definition_en": "To face, to confront"
+        },
+        {
+          "word": "cuidadosamente",
+          "syllables": "cui-da-do-sa-MEN-te",
+          "pos": "adverbio",
+          "context": "Debemos actuar cuidadosamente con nuestros datos personales.",
+          "definition_es": "De manera atenta y con precaución",
+          "definition_en": "Carefully"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reconstruir'?",
+          "options": [
+            "Destruir completamente",
+            "Construir algo de nuevo",
+            "Pintar una casa",
+            "Comprar un edificio"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Quiénes son los 'graduados'?",
+          "options": [
+            "Estudiantes de primaria",
+            "Personas que terminaron la universidad",
+            "Profesores",
+            "Trabajadores de fábrica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'registros médicos'?",
+          "options": [
+            "Libros de medicina",
+            "Documentos sobre la salud de una persona",
+            "Hospitales",
+            "Medicinas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Cómo debemos actuar con nuestros datos según el texto?",
+          "options": [
+            "Rápidamente",
+            "Cuidadosamente",
+            "Sin pensar",
+            "Con prisa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos años tenía Robert Mueller cuando murió?",
+          "options": [
+            "79 años",
+            "80 años",
+            "81 años",
+            "82 años"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué Mueller reconstruyó el FBI?",
+          "options": [
+            "Por los ataques del 11 de septiembre",
+            "Por la investigación de Trump",
+            "Por su cumpleaños",
+            "Por una nueva ley"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué problema enfrentan los jóvenes graduados?",
+          "options": [
+            "No saben leer",
+            "El mercado laboral está difícil",
+            "No tienen dinero",
+            "No les gusta estudiar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué hacen algunos graduados sin trabajo?",
+          "options": [
+            "Estudian más",
+            "Viajan",
+            "Aceptan trabajos sin título requerido",
+            "Duermen todo el día"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué quieren los chatbots de inteligencia artificial?",
+          "options": [
+            "Nuestro dinero",
+            "Nuestros registros médicos",
+            "Nuestra casa",
+            "Nuestra comida"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué recomiendan los expertos sobre la inteligencia artificial?",
+          "options": [
+            "Usarla sin pensar",
+            "Evitarla completamente",
+            "Actuar cuidadosamente",
+            "Comprar más tecnología"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-24T09:15:55.574106"
+    },
+    {
       "date": "2026-03-23",
       "filename": "spanish_lesson_2026-03-23.pdf",
       "path": "pdfs/spanish_lesson_2026-03-23.pdf",
@@ -23558,7 +23780,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-23T09:18:07.714150",
+  "last_updated": "2026-03-24T09:15:55.574133",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
