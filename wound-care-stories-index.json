@@ -1,11 +1,196 @@
 {
-  "date": "2026-03-23",
-  "generated_at": "2026-03-23T09:26:51.659140Z",
+  "date": "2026-03-24",
+  "generated_at": "2026-03-24T09:23:10.862713Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 332,
-  "new_today": 4,
+  "total_stories": 337,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250324",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El ácido lipoteicoico acelera la curación de heridas crónicas",
+      "headline_en": "Lipoteichoic acid accelerates healing of chronic wounds",
+      "summary_es": "Un nuevo descubrimiento científico muestra que el ácido lipoteicoico en bacterias grampositivas ayuda a sanar heridas crónicas. Este hallazgo puede cambiar los tratamientos de curación en el futuro.",
+      "body_es": "Los investigadores descubren que el ácido lipoteicoico es importante para la curación de heridas. Esta sustancia viene de las bacterias grampositivas. El ácido lipoteicoico ayuda al cuerpo a reparar la piel dañada. Los médicos estudian cómo usar esta sustancia en los tratamientos. Las heridas crónicas son difíciles de sanar. Ahora los científicos entienden mejor el proceso natural de curación. Este descubrimiento abre nuevas posibilidades para los pacientes. El tratamiento puede ser más rápido y efectivo en el futuro.",
+      "body_en": "Researchers discover that lipoteichoic acid is important for wound healing. This substance comes from gram-positive bacteria. Lipoteichoic acid helps the body repair damaged skin. Doctors study how to use this substance in treatments. Chronic wounds are difficult to heal. Now scientists understand the natural healing process better. This discovery opens new possibilities for patients. Treatment may be faster and more effective in the future.",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kanVfbTY3OGNFTDlRVjE2cWpVeE1hNm5Nb0p6LTFYZlRPVHF5bDJuTUhxYXRWNE13OHRrZUxKUzl6dkFab0czTlFWeG9na080cmU4SHFFclBYMmItY2dyeFpXTkdlRTkwd2M1S2Q3bzRSWDZYU21XMWJTNA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-24/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que tarda mucho tiempo en sanar",
+          "definition_en": "chronic wound - injury that takes a long time to heal"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar y reparar tejido",
+          "definition_en": "healing - process of repair and tissue recovery"
+        },
+        {
+          "word": "ácido lipoteicoico",
+          "definition_es": "sustancia en bacterias que ayuda a sanar",
+          "definition_en": "lipoteichoic acid - substance in bacteria that aids healing"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método médico para curar una enfermedad",
+          "definition_en": "treatment - medical method to cure disease"
+        }
+      ],
+      "added_at": "2026-03-24T09:23:10.862713Z"
+    },
+    {
+      "id": "diabetic-foot-20250324",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "El podólogo de University Health lucha contra las amputaciones en el pie diabético",
+      "headline_en": "University Health podiatrist fights against amputations in diabetic foot",
+      "summary_es": "Un podólogo de University Health en San Antonio trabaja para reducir las amputaciones causadas por úlceras del pie diabético. Su programa educativo ayuda a los pacientes a prevenir complicaciones graves.",
+      "body_es": "En San Antonio, un podólogo de University Health establece un nuevo programa para reducir las amputaciones relacionadas con el pie diabético. Las estadísticas locales muestran que muchas personas pierden sus extremidades inferiores debido a úlceras no tratadas. El profesional realiza evaluaciones regulares del pie y educa a los pacientes sobre el cuidado diario. El programa incluye inspección de los pies, evaluación de la circulación y control de la presión. Los pacientes aprenden a identificar signos de infección y complicaciones temprano. El equipo de cuidado coordina con endocrinólogos para controlar la glucosa en sangre. Este enfoque integral reduce significativamente el riesgo de amputación. University Health demuestra que la prevención es más efectiva que el tratamiento quirúrgico de emergencia.",
+      "body_en": "In San Antonio, a University Health podiatrist establishes a new program to reduce amputations related to diabetic foot. Local statistics show that many people lose their lower extremities due to untreated ulcers. The professional performs regular foot evaluations and educates patients about daily care. The program includes foot inspection, circulation assessment, and pressure control. Patients learn to identify signs of infection and complications early. The care team coordinates with endocrinologists to control blood glucose. This comprehensive approach significantly reduces amputation risk. University Health demonstrates that prevention is more effective than emergency surgical treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWmd5dEpPTlBSWGhUQkZSY0F5V0Q2TXNITVF1cnQ0RlJBeGlIcGpJSnI3UWhpbDNVNFdsbUNaZzFsRkJkMmkxUFlzVWFqVm9Vc0RCQ3dfTUx6Szc0Nm16U0U2NjhMVUh4WndmTHBzejBqaGx6X3NqbHVKLXU2Q0ZuMTMzNHdQbDM0VEFNMEluSFF2RU52VHAyeXB3X0xqV2Ns?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-24/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "herida abierta en el pie causada por diabetes",
+          "definition_en": "diabetic foot ulcer - open wound on foot caused by diabetes"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "remoción quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen cuidadoso del estado de salud",
+          "definition_en": "evaluation - careful examination of health status"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de la sangre por las venas y arterias",
+          "definition_en": "circulation - movement of blood through veins and arteries"
+        }
+      ],
+      "added_at": "2026-03-24T09:23:10.862713Z"
+    },
+    {
+      "id": "burn-care-20250324",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Células estromales mesenquimales revolucionan la curación de quemaduras",
+      "headline_en": "Mesenchymal stromal cells revolutionize burn wound healing",
+      "summary_es": "Investigadores descubren que las células estromales mesenquimales y sus derivados aceleran significativamente la curación de quemaduras graves. Este avance representa una frontera regenerativa importante en la medicina de quemaduras.",
+      "body_es": "Las células estromales mesenquimales (CEM) son componentes clave en la medicina regenerativa para pacientes con quemaduras severas. Estos investigadores han documentado cómo las CEM promueven la proliferación de fibroblastos y aceleran la epitelización. El proceso de curación de quemaduras requiere múltiples fases: inflamación, proliferación y remodelación de la piel. Las células derivadas de CEM reducen la formación de cicatrices y mejoran la función de la piel regenerada. Los estudios muestran que estos tratamientos disminuyen el tiempo de hospitalización hasta un 30 por ciento. Los pacientes tratados con CEM requieren menos procedimientos de injerto de piel. La terapia celular también reduce las complicaciones infecciosas en quemaduras profundas. Esta investigación abre nuevas esperanzas para pacientes con quemaduras de tercer grado.",
+      "body_en": "Mesenchymal stromal cells (MSCs) are key components in regenerative medicine for severe burn patients. Researchers have documented how MSCs promote fibroblast proliferation and accelerate epithelialization. The burn healing process requires multiple phases: inflammation, proliferation, and skin remodeling. Cells derived from MSCs reduce scar formation and improve regenerated skin function. Studies show these treatments decrease hospitalization time by up to 30 percent. Patients treated with MSCs require fewer skin graft procedures. Cell therapy also reduces infectious complications in deep burns. This research opens new hope for third-degree burn patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJOTM5VVUwbER1dENFWmxFcDZnXzhPa0ppU3lnNmZuUHlRMnlBSVloRWVZNnA1MlB0OHVhbUNjbEVUMk1mS2VZRXdFLTlXazNIemowQmdMaF9vSXBlc09aTUN2OGFXWTVvNDkzS3NDVlZWdWFucXozUWVsWQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-24/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel por calor o fuego",
+          "definition_en": "burn - skin injury from heat or fire"
+        },
+        {
+          "word": "células estromales mesenquimales",
+          "definition_es": "células que regeneran y reparan tejidos",
+          "definition_en": "mesenchymal stromal cells - cells that regenerate and repair tissues"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de la capa externa de piel nueva",
+          "definition_en": "epithelialization - growth of new outer skin layer"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        }
+      ],
+      "added_at": "2026-03-24T09:23:10.862713Z"
+    },
+    {
+      "id": "surgical-wounds-20250324",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Mejorar los resultados quirúrgicos en pacientes con obesidad",
+      "headline_en": "Improving surgical outcomes in patients with obesity",
+      "summary_es": "Un estudio del servicio de cirugía aguda examina cómo optimizar los cuidados postquirúrgicos en pacientes con obesidad. El objetivo es reducir complicaciones de heridas quirúrgicas y mejorar la cicatrización.",
+      "body_es": "Los cirujanos del servicio de cirugía aguda implementan protocolos especializados para pacientes obesos sometidos a procedimientos quirúrgicos de emergencia. La obesidad complica la cicatrización de heridas quirúrgicas debido a la vascularización deficiente del tejido adiposo. El estudio demuestra que estos pacientes tienen mayor riesgo de infección de la herida, dehiscencia y seroma. Los nuevos protocolos incluyen evaluación nutricional preoperatoria, técnicas quirúrgicas modificadas y cuidados postoperatorios intensificados. El control de glucosa es crítico durante el período de curación para prevenir complicaciones infecciosas. Los equipos usan apósitos especializados y monitoreo frecuente de la herida. El equipo quirúrgico coordina con nutricionistas para optimizar los sustratos proteicos necesarios para la epitelización. Los resultados iniciales muestran una reducción del 25 por ciento en complicaciones de heridas en esta población desafiante.",
+      "body_en": "Acute care surgery teams implement specialized protocols for obese patients undergoing emergency surgical procedures. Obesity complicates surgical wound healing due to poor vascularization of adipose tissue. The study shows these patients have higher risk of wound infection, dehiscence, and seroma formation. New protocols include preoperative nutritional assessment, modified surgical techniques, and intensified postoperative care. Glucose control is critical during the healing period to prevent infectious complications. Teams use specialized dressings and frequent wound monitoring. The surgical team coordinates with nutritionists to optimize protein substrates needed for epithelialization. Initial results show a 25 percent reduction in wound complications in this challenging population.",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckVfdi1VcHl2TG03VDJGR016dTlHdjc1bFZ5SDlzblp6SHFUOFNsVWYwQkw2dnRwejlTaGVtNExTWnRja1NkZVYtaXZzWHpzOGtPS1JGTU9pZFl0d0dZVEFwd0lnNDR2Q19QVTQxeXNfR2FBYUtsZFQzNHppWmhRYXNtSGpMUjZMcmVxdW5GNzdBekVlNzFEbEx5MWRCNUcxem5hSUlTVUdLX3ViZEJ4djE0VQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-24/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión o apertura hecha durante una operación",
+          "definition_en": "surgical wound - incision or opening made during surgery"
+        },
+        {
+          "word": "dehiscencia",
+          "definition_es": "apertura no deseada de una herida cerrada",
+          "definition_en": "dehiscence - unwanted opening of a closed wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - material placed over wound for protection"
+        },
+        {
+          "word": "seroma",
+          "definition_es": "acumulación de líquido claro bajo la cicatriz",
+          "definition_en": "seroma - accumulation of clear fluid under scar tissue"
+        }
+      ],
+      "added_at": "2026-03-24T09:23:10.862713Z"
+    },
+    {
+      "id": "wound-research-20250324",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "La inteligencia artificial mejora el diagnóstico y tratamiento de lesiones intestinales inflamatorias",
+      "headline_en": "Artificial intelligence improves diagnosis and treatment of inflammatory bowel wounds",
+      "summary_es": "Una revisión publicada en Nature examina cómo la inteligencia artificial transforma la evaluación y el tratamiento de lesiones en la enfermedad inflamatoria intestinal. Esta innovación tecnológica crea puentes entre investigación, implementación y impacto clínico.",
+      "body_es": "La enfermedad inflamatoria intestinal causa úlceras y lesiones crónicas en el intestino que desafían a los médicos. Los investigadores de Nature ahora utilizan inteligencia artificial para identificar patrones de cicatrización y ulceración que el ojo humano no puede detectar. Los algoritmos de aprendizaje automático analizan imágenes endoscópicas para medir la extensión de las lesiones y predecir la respuesta al tratamiento. La IA también identifica marcadores bioquímicos asociados con cicatrización deficiente y predispone a complicaciones infecciosas. El sistema clasifica automáticamente la severidad de las úlceras según criterios internacionales de evaluación. Esta tecnología acelera el diagnóstico y permite tratamientos personalizados más tempranos. Los clínicos pueden ahora monitorear la progresión de la cicatrización de forma objetiva durante la terapia. La integración de inteligencia artificial en la investigación de heridas intestinales representa un avance significativo hacia la medicina de precisión.",
+      "body_en": "Inflammatory bowel disease causes ulcers and chronic intestinal lesions that challenge physicians. Researchers at Nature now use artificial intelligence to identify scarring and ulceration patterns that human eyes cannot detect. Machine learning algorithms analyze endoscopic images to measure lesion extent and predict treatment response. AI also identifies biochemical markers associated with poor scarring and complications predisposing to infections. The system automatically classifies ulcer severity according to international assessment criteria. This technology accelerates diagnosis and enables earlier personalized treatments. Clinicians can now objectively monitor wound healing progression during therapy. The integration of artificial intelligence in intestinal wound research represents a significant advance toward precision medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yWWdMV3oycjRJTkp3a0xkdTRvS01DS05YeWFEMHdCZmpCOUZ1b0R6R25pWXE2Y2NpSWdkNXlyUUZVUi1JMEhnYkc0RnFzMGxIZWNSd0pCX1VqY0dneTlv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-24/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "inteligencia artificial",
+          "definition_es": "tecnología que imita procesos inteligentes humanos",
+          "definition_en": "artificial intelligence - technology that mimics human intelligent processes"
+        },
+        {
+          "word": "úlcera intestinal",
+          "definition_es": "lesión abierta en la mucosa del intestino",
+          "definition_en": "intestinal ulcer - open wound in intestinal lining"
+        },
+        {
+          "word": "endoscopia",
+          "definition_es": "técnica para visualizar el interior del cuerpo",
+          "definition_en": "endoscopy - technique to visualize interior body structures"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido cicatricial durante curación",
+          "definition_en": "scar formation - process of forming scar tissue during healing"
+        }
+      ],
+      "added_at": "2026-03-24T09:23:10.862713Z"
+    },
     {
       "id": "chronic-wounds-20260323",
       "category": "Chronic Wounds",
@@ -12285,6 +12470,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-23T09:26:51.659140Z",
+  "last_updated": "2026-03-24T09:23:10.862713Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
