@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-25",
+      "filename": "spanish_lesson_2026-03-25.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-25.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Republicanos Buscan Solución para Financiar el Gobierno",
+          "headline_en": "Republicans Seek Solution to Fund the Government",
+          "body_es": "Los políticos republicanos están trabajando más para encontrar una solución al problema de financiamiento del gobierno. El Departamento de Seguridad Nacional necesita dinero para continuar sus operaciones. Sin este financiamiento, algunas partes del gobierno no pueden funcionar normalmente. Los republicanos quieren hacer un acuerdo rápido para terminar esta situación difícil. Están hablando con otros políticos para encontrar una solución que todos puedan aceptar. Este problema afecta a muchos trabajadores del gobierno. Los ciudadanos esperan que los políticos resuelvan esta situación pronto. El financiamiento del gobierno es muy importante para mantener los servicios públicos funcionando.",
+          "body_en": "Republican politicians are working harder to find a solution to the government funding problem. The Department of Homeland Security needs money to continue its operations. Without this funding, some parts of the government cannot function normally. Republicans want to make a quick agreement to end this difficult situation. They are talking with other politicians to find a solution that everyone can accept. This problem affects many government workers. Citizens hope that politicians will solve this situation soon. Government funding is very important to keep public services running.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Economista Advierte Sobre Peligros del Petróleo Caro",
+          "headline_en": "Economist Warns About Dangers of Expensive Oil",
+          "body_es": "Mark Zandi, un economista muy conocido, dice que los precios altos del petróleo pueden causar problemas graves a la economía estadounidense. Él explica exactamente cuánto pueden subir los precios antes de crear una recesión económica. Una recesión significa que la economía funciona mal y muchas personas pierden sus trabajos. Los precios del petróleo afectan el costo de la gasolina y otros productos importantes. Cuando el petróleo cuesta más, las empresas gastan más dinero y los consumidores también pagan más. Zandi cree que es importante observar estos precios cuidadosamente. Su análisis ayuda a entender cómo proteger la economía de estos problemas. Los expertos usan esta información para tomar mejores decisiones económicas.",
+          "body_en": "Mark Zandi, a well-known economist, says that high oil prices can cause serious problems for the US economy. He explains exactly how much prices can rise before creating an economic recession. A recession means the economy works poorly and many people lose their jobs. Oil prices affect the cost of gasoline and other important products. When oil costs more, companies spend more money and consumers also pay more. Zandi believes it's important to watch these prices carefully. His analysis helps understand how to protect the economy from these problems. Experts use this information to make better economic decisions.",
+          "source": "Business Insider"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Arm Holdings Cambia su Estrategia de Negocios Completamente",
+          "headline_en": "Arm Holdings Completely Changes its Business Strategy",
+          "body_es": "Arm Holdings, una empresa importante de tecnología, está haciendo un cambio muy grande en su forma de trabajar. Por primera vez en su historia, la empresa va a vender sus propios chips de computadora directamente a los clientes. Antes, Arm solo diseñaba los chips y otras empresas los fabricaban y vendían. Esta nueva estrategia es muy diferente de lo que hacían en el pasado. Los chips de Arm se usan en muchos teléfonos móviles y computadoras en todo el mundo. La empresa cree que vender directamente les dará más control y mejores ganancias. Este cambio puede afectar a otras empresas de tecnología que trabajaban con Arm. Los expertos están observando cómo esta decisión cambiará el mercado de tecnología.",
+          "body_en": "Arm Holdings, an important technology company, is making a very big change in how it works. For the first time in its history, the company will sell its own computer chips directly to customers. Before, Arm only designed chips and other companies manufactured and sold them. This new strategy is very different from what they did in the past. Arm's chips are used in many mobile phones and computers around the world. The company believes that selling directly will give them more control and better profits. This change may affect other technology companies that worked with Arm. Experts are watching how this decision will change the technology market.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "esfuerzos",
+          "syllables": "es-FUER-zos",
+          "pos": "sustantivo",
+          "context": "Los republicanos aumentan sus esfuerzos para llegar a un acuerdo de financiamiento.",
+          "definition_es": "Acciones o intentos para lograr algo",
+          "definition_en": "Efforts or attempts to achieve something"
+        },
+        {
+          "word": "financiamiento",
+          "syllables": "fi-nan-cia-MIEN-to",
+          "pos": "sustantivo",
+          "context": "El gobierno necesita financiamiento para operar normalmente.",
+          "definition_es": "Dinero necesario para pagar gastos o proyectos",
+          "definition_en": "Funding or money needed to pay for expenses or projects"
+        },
+        {
+          "word": "economista",
+          "syllables": "e-co-no-MIS-ta",
+          "pos": "sustantivo",
+          "context": "Un economista famoso predice problemas con los precios del petróleo.",
+          "definition_es": "Experto que estudia la economía y el dinero",
+          "definition_en": "Expert who studies the economy and money"
+        },
+        {
+          "word": "precios",
+          "syllables": "PRE-cios",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo pueden afectar la economía estadounidense.",
+          "definition_es": "Cantidad de dinero que cuesta algo",
+          "definition_en": "Amount of money something costs"
+        },
+        {
+          "word": "chips",
+          "syllables": "chips",
+          "pos": "sustantivo",
+          "context": "La empresa Arm Holdings empezará a vender sus propios chips de computadora.",
+          "definition_es": "Pequeñas piezas electrónicas que hacen funcionar las computadoras",
+          "definition_en": "Small electronic pieces that make computers work"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "La empresa cambia su estrategia de negocios después de muchos años.",
+          "definition_es": "Organización que hace negocios y vende productos o servicios",
+          "definition_en": "Organization that does business and sells products or services"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Los políticos buscan un acuerdo para resolver el problema del gobierno.",
+          "definition_es": "Decisión tomada entre dos o más personas o grupos",
+          "definition_en": "Decision made between two or more people or groups"
+        },
+        {
+          "word": "estrategia",
+          "syllables": "es-tra-TE-gia",
+          "pos": "sustantivo",
+          "context": "Arm Holdings cambia su estrategia de negocios para vender directamente.",
+          "definition_es": "Plan para lograr un objetivo específico",
+          "definition_en": "Plan to achieve a specific goal"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'esfuerzos'?",
+          "options": [
+            "Acciones para lograr algo",
+            "Problemas difíciles",
+            "Dinero gastado",
+            "Tiempo perdido"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'economista' es una persona que:",
+          "options": [
+            "Vende productos caros",
+            "Estudia la economía",
+            "Trabaja en el gobierno",
+            "Fabrica computadoras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'chips' en tecnología?",
+          "options": [
+            "Programas de computadora",
+            "Piezas electrónicas pequeñas",
+            "Teléfonos móviles",
+            "Pantallas de computadora"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Una 'estrategia' es:",
+          "options": [
+            "Un problema económico",
+            "Una empresa de tecnología",
+            "Un plan para lograr objetivos",
+            "Un tipo de financiamiento"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué necesita el Departamento de Seguridad Nacional?",
+          "options": [
+            "Nuevos trabajadores",
+            "Dinero para operar",
+            "Mejor tecnología",
+            "Más tiempo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según Mark Zandi, ¿qué puede causar una recesión?",
+          "options": [
+            "Los precios bajos del petróleo",
+            "Los precios altos del petróleo",
+            "Las empresas pequeñas",
+            "Los trabajadores nuevos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué hacía Arm Holdings antes de este cambio?",
+          "options": [
+            "Vendía chips directamente",
+            "Solo diseñaba chips",
+            "Fabricaba teléfonos",
+            "Compraba empresas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Quiénes están buscando un acuerdo de financiamiento?",
+          "options": [
+            "Los economistas",
+            "Las empresas de tecnología",
+            "Los republicanos",
+            "Los trabajadores"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Dónde se usan los chips de Arm Holdings?",
+          "options": [
+            "Solo en computadoras",
+            "En teléfonos y computadoras",
+            "Solo en teléfonos",
+            "En carros solamente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué es importante observar los precios del petróleo?",
+          "options": [
+            "Porque afectan la economía",
+            "Porque son muy baratos",
+            "Porque cambian poco",
+            "Porque son fáciles de entender"
+          ],
+          "answer": "A"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-25T09:15:23.093476"
+    },
+    {
       "date": "2026-03-24",
       "filename": "spanish_lesson_2026-03-24.pdf",
       "path": "pdfs/spanish_lesson_2026-03-24.pdf",
@@ -23780,7 +24002,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-24T09:15:55.574133",
+  "last_updated": "2026-03-25T09:15:23.093497",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
