@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-26",
+      "filename": "spanish_lesson_2026-03-26.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-26.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Demócratas y republicanos no llegan a acuerdo sobre seguridad nacional",
+          "headline_en": "Democrats and Republicans fail to reach agreement on national security",
+          "body_es": "Las negociaciones sobre seguridad nacional en Estados Unidos tienen problemas. Los demócratas quieren nuevas restricciones para ICE, la agencia de inmigración. Los republicanos no están de acuerdo con estas limitaciones. ICE es responsable de arrestar inmigrantes sin documentos legales. Los demócratas dicen que ICE necesita más control. Quieren reglas más estrictas sobre cómo trabaja la agencia. Los republicanos piensan que ICE debe tener más libertad para hacer su trabajo. Esta diferencia de opiniones hace difícil llegar a un acuerdo. El Congreso necesita aprobar el presupuesto para el Departamento de Seguridad Nacional. Sin acuerdo, puede haber problemas con el dinero para seguridad. Las dos partes continúan hablando para encontrar una solución.",
+          "body_en": "Negotiations on national security in the United States are having problems. Democrats want new restrictions for ICE, the immigration agency. Republicans disagree with these limitations. ICE is responsible for arresting immigrants without legal documents. Democrats say ICE needs more control. They want stricter rules about how the agency works. Republicans think ICE should have more freedom to do its job. This difference of opinion makes it difficult to reach an agreement. Congress needs to approve the budget for the Department of Homeland Security. Without agreement, there may be problems with money for security. Both parties continue talking to find a solution.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Aumentan las posibilidades de recesión en Estados Unidos",
+          "headline_en": "Recession chances increase in the United States",
+          "body_es": "Los expertos económicos están preocupados por la economía estadounidense. Las posibilidades de una recesión están aumentando según Wall Street. Una recesión significa que la economía se hace más pequeña y hay menos trabajos. Los analistas ven problemas en diferentes sectores económicos. Las empresas venden menos productos que antes. Algunos indicadores económicos muestran signos negativos. El mercado de valores también muestra preocupación. Los inversionistas están nerviosos por el futuro económico. Sin embargo, algunos economistas piensan que la situación puede mejorar. La inflación está bajando lentamente. El gobierno está tomando medidas para ayudar a la economía. Los próximos meses serán importantes para saber si habrá recesión. Los ciudadanos deben prepararse para posibles cambios económicos.",
+          "body_en": "Economic experts are worried about the American economy. The chances of a recession are increasing according to Wall Street. A recession means the economy gets smaller and there are fewer jobs. Analysts see problems in different economic sectors. Companies are selling fewer products than before. Some economic indicators show negative signs. The stock market also shows concern. Investors are nervous about the economic future. However, some economists think the situation can improve. Inflation is slowly falling. The government is taking measures to help the economy. The next few months will be important to know if there will be a recession. Citizens should prepare for possible economic changes.",
+          "source": "CNBC"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "China prohíbe a ejecutivos de empresa de inteligencia artificial salir del país",
+          "headline_en": "China bans artificial intelligence company executives from leaving the country",
+          "body_es": "El gobierno chino tomó una decisión importante sobre una empresa de tecnología. China prohíbe a varios ejecutivos de una empresa de inteligencia artificial salir del país. Esta empresa pertenece a Meta, la compañía dueña de Facebook e Instagram. Los ejecutivos no pueden viajar fuera de China ahora. Esta situación crea tensión entre China y Estados Unidos. Las dos naciones tienen diferencias sobre tecnología y negocios. La inteligencia artificial es muy importante para ambos países. China quiere controlar más las empresas tecnológicas extranjeras. Meta invierte mucho dinero en investigación de inteligencia artificial. La empresa está preocupada por sus trabajadores en China. Este conflicto puede afectar las relaciones comerciales. Otras empresas estadounidenses también pueden tener problemas similares. La situación muestra la competencia tecnológica entre las dos potencias mundiales.",
+          "body_en": "The Chinese government made an important decision about a technology company. China bans several executives from an artificial intelligence company from leaving the country. This company belongs to Meta, the company that owns Facebook and Instagram. The executives cannot travel outside of China now. This situation creates tension between China and the United States. The two nations have differences about technology and business. Artificial intelligence is very important for both countries. China wants to control foreign technology companies more. Meta invests a lot of money in artificial intelligence research. The company is worried about its workers in China. This conflict can affect commercial relations. Other American companies may also have similar problems. The situation shows the technological competition between the two world powers.",
+          "source": "The Washington Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "seguridad",
+          "syllables": "se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "El Departamento de Seguridad Nacional discute nuevas reglas.",
+          "definition_es": "Protección contra peligros o riesgos",
+          "definition_en": "Protection against dangers or risks"
+        },
+        {
+          "word": "restricciones",
+          "syllables": "res-tric-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Los demócratas quieren restricciones para ICE.",
+          "definition_es": "Limitaciones o prohibiciones",
+          "definition_en": "Limitations or prohibitions"
+        },
+        {
+          "word": "recesión",
+          "syllables": "re-ce-SIÓN",
+          "pos": "sustantivo",
+          "context": "Los expertos hablan de una posible recesión económica.",
+          "definition_es": "Período de reducción en la actividad económica",
+          "definition_en": "Period of reduced economic activity"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense muestra signos de debilidad.",
+          "definition_es": "Sistema de producción y consumo de un país",
+          "definition_en": "System of production and consumption of a country"
+        },
+        {
+          "word": "ejecutivos",
+          "syllables": "e-je-cu-TI-vos",
+          "pos": "sustantivo",
+          "context": "China prohíbe a los ejecutivos salir del país.",
+          "definition_es": "Personas que dirigen empresas importantes",
+          "definition_en": "People who lead important companies"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "La empresa de inteligencia artificial pertenece a Meta.",
+          "definition_es": "Organización que produce bienes o servicios",
+          "definition_en": "Organization that produces goods or services"
+        },
+        {
+          "word": "prohibir",
+          "syllables": "pro-hi-BIR",
+          "pos": "verbo",
+          "context": "El gobierno chino decide prohibir su salida.",
+          "definition_es": "No permitir que algo se haga",
+          "definition_en": "Not allow something to be done"
+        },
+        {
+          "word": "negociaciones",
+          "syllables": "ne-go-cia-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las negociaciones en el Congreso son difíciles.",
+          "definition_es": "Conversaciones para llegar a un acuerdo",
+          "definition_en": "Conversations to reach an agreement"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'restricciones'?",
+          "options": [
+            "Libertades",
+            "Limitaciones",
+            "Oportunidades",
+            "Beneficios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'recesión'?",
+          "options": [
+            "Crecimiento económico",
+            "Período de reducción económica",
+            "Aumento de empleos",
+            "Subida de precios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'ejecutivos'?",
+          "options": [
+            "Trabajadores normales",
+            "Personas que dirigen empresas",
+            "Clientes",
+            "Productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'prohibir'?",
+          "options": [
+            "Permitir",
+            "Ayudar",
+            "No permitir",
+            "Recomendar"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto político, ¿qué quieren los demócratas para ICE?",
+          "options": [
+            "Más libertad",
+            "Nuevas restricciones",
+            "Más dinero",
+            "Menos trabajadores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué problema existe en las negociaciones del Congreso?",
+          "options": [
+            "Falta de tiempo",
+            "Diferencias de opinión",
+            "Poco dinero",
+            "Problemas técnicos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según el texto económico, ¿qué está pasando con la economía?",
+          "options": [
+            "Está creciendo mucho",
+            "Las posibilidades de recesión aumentan",
+            "Todo está perfecto",
+            "No hay cambios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué muestra el mercado de valores según el texto?",
+          "options": [
+            "Mucha alegría",
+            "Preocupación",
+            "Estabilidad total",
+            "Crecimiento rápido"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿A qué empresa pertenece la compañía de inteligencia artificial mencionada?",
+          "options": [
+            "Google",
+            "Apple",
+            "Meta",
+            "Microsoft"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué no pueden hacer los ejecutivos en China?",
+          "options": [
+            "Trabajar",
+            "Hablar",
+            "Salir del país",
+            "Usar internet"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-26T09:18:06.579603"
+    },
+    {
       "date": "2026-03-25",
       "filename": "spanish_lesson_2026-03-25.pdf",
       "path": "pdfs/spanish_lesson_2026-03-25.pdf",
@@ -24002,7 +24224,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-25T09:15:23.093497",
+  "last_updated": "2026-03-26T09:18:06.579622",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
