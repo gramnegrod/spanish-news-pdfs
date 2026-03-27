@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-27",
+      "filename": "spanish_lesson_2026-03-27.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-27.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Senado aprueba dinero para seguridad nacional después de promesas de Trump",
+          "headline_en": "Senate approves money for national security after Trump's promises",
+          "body_es": "El Senado de Estados Unidos aprobó el financiamiento para el Departamento de Seguridad Nacional. Esta decisión llegó pocas horas después de que Trump prometiera reiniciar los pagos a los trabajadores de la TSA. La TSA es la organización responsable de la seguridad en los aeropuertos. Durante semanas, estos empleados no recibieron sus salarios por problemas en el presupuesto del gobierno. Los senadores votaron a favor del financiamiento para asegurar que los trabajadores de seguridad puedan continuar protegiendo a los viajeros. Esta aprobación significa que miles de empleados federales recibirán sus pagos atrasados. El departamento podrá mantener sus operaciones normales en aeropuertos y fronteras del país.",
+          "body_en": "The United States Senate approved funding for the Department of Homeland Security. This decision came just hours after Trump promised to restart payments to TSA workers. The TSA is the organization responsible for airport security. For weeks, these employees did not receive their salaries due to problems with the government budget. Senators voted in favor of funding to ensure that security workers can continue protecting travelers. This approval means that thousands of federal employees will receive their back pay. The department will be able to maintain its normal operations at airports and borders throughout the country.",
+          "source": "CBS News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Conflicto con Irán causa pérdida de 10,000 empleos mensuales en Estados Unidos",
+          "headline_en": "Conflict with Iran causes loss of 10,000 monthly jobs in the United States",
+          "body_es": "Según Goldman Sachs, el conflicto de Trump con Irán está costando a la economía estadounidense aproximadamente 10,000 empleos cada mes. Esta cifra preocupa a los expertos económicos del país. La tensión entre ambas naciones ha afectado varios sectores de la economía, especialmente el comercio internacional y la industria del petróleo. Las empresas están reduciendo su personal porque tienen menos trabajo y menores ganancias. Goldman Sachs es uno de los bancos más importantes del mundo y sus análisis económicos son muy respetados. Los economistas explican que cuando hay conflictos internacionales, las empresas se vuelven más cautelosas con sus inversiones. Esta situación está creando incertidumbre en el mercado laboral americano y afectando a familias trabajadoras.",
+          "body_en": "According to Goldman Sachs, Trump's conflict with Iran is costing the American economy approximately 10,000 jobs each month. This figure worries economic experts in the country. The tension between both nations has affected various sectors of the economy, especially international trade and the oil industry. Companies are reducing their staff because they have less work and lower profits. Goldman Sachs is one of the most important banks in the world and their economic analyses are highly respected. Economists explain that when there are international conflicts, companies become more cautious with their investments. This situation is creating uncertainty in the American job market and affecting working families.",
+          "source": "Fortune"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa de drones militares recauda 2 mil millones de dólares",
+          "headline_en": "Military drone company raises 2 billion dollars",
+          "body_es": "Shield AI, una empresa joven que fabrica drones militares, logró recaudar 2 mil millones de dólares de inversores. Esta compañía tecnológica se especializa en crear drones inteligentes para uso militar. Los drones de Shield AI pueden volar y tomar decisiones sin necesidad de un piloto humano. La empresa utiliza inteligencia artificial avanzada para hacer que sus drones sean más efectivos en misiones militares. Este financiamiento convierte a Shield AI en una de las empresas de defensa más valiosas del país. Los inversores creen que la tecnología de drones militares será muy importante en el futuro. La compañía planea usar este dinero para desarrollar nuevos productos y expandir sus operaciones. Shield AI compite con otras empresas tecnológicas que también producen equipos para las fuerzas armadas.",
+          "body_en": "Shield AI, a young company that manufactures military drones, managed to raise 2 billion dollars from investors. This technology company specializes in creating intelligent drones for military use. Shield AI's drones can fly and make decisions without needing a human pilot. The company uses advanced artificial intelligence to make their drones more effective in military missions. This funding makes Shield AI one of the most valuable defense companies in the country. Investors believe that military drone technology will be very important in the future. The company plans to use this money to develop new products and expand its operations. Shield AI competes with other technology companies that also produce equipment for the armed forces.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El Senado aprobó el financiamiento para el departamento de seguridad.",
+          "definition_es": "Dar autorización o consentimiento oficial a algo",
+          "definition_en": "To approve, to give official authorization"
+        },
+        {
+          "word": "financiamiento",
+          "syllables": "fi-nan-cia-MIEN-to",
+          "pos": "sustantivo",
+          "context": "El gobierno necesita financiamiento para pagar a los trabajadores.",
+          "definition_es": "Dinero que se da para apoyar un proyecto o actividad",
+          "definition_en": "Funding, financing"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía del país está perdiendo muchos empleos cada mes.",
+          "definition_es": "Sistema de producción y distribución de dinero y recursos",
+          "definition_en": "Economy"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "El conflicto está causando la pérdida de miles de empleos.",
+          "definition_es": "Trabajo o ocupación remunerada",
+          "definition_en": "Job, employment"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Una empresa tecnológica recibió dos mil millones de dólares.",
+          "definition_es": "Organización que produce bienes o servicios para ganar dinero",
+          "definition_en": "Company, business"
+        },
+        {
+          "word": "militar",
+          "syllables": "mi-li-TAR",
+          "pos": "adjetivo",
+          "context": "La compañía produce drones para uso militar.",
+          "definition_es": "Relacionado con las fuerzas armadas o la guerra",
+          "definition_en": "Military"
+        },
+        {
+          "word": "recaudar",
+          "syllables": "re-cau-DAR",
+          "pos": "verbo",
+          "context": "La empresa logró recaudar dos mil millones de dólares de inversores.",
+          "definition_es": "Reunir o conseguir dinero para un propósito específico",
+          "definition_en": "To raise (money), to collect funds"
+        },
+        {
+          "word": "seguridad",
+          "syllables": "se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "El departamento de seguridad nacional protege al país.",
+          "definition_es": "Protección contra peligros o amenazas",
+          "definition_en": "Security, safety"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'aprobar' en el contexto político?",
+          "options": [
+            "Rechazar una propuesta",
+            "Dar autorización oficial",
+            "Crear una nueva ley",
+            "Cancelar un proyecto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'financiamiento'?",
+          "options": [
+            "Dinero para apoyar un proyecto",
+            "Documento legal",
+            "Tipo de impuesto",
+            "Reunión de negocios"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Una 'empresa' es:",
+          "options": [
+            "Un edificio del gobierno",
+            "Una organización que produce bienes o servicios",
+            "Un tipo de empleo",
+            "Una ley comercial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'recaudar' dinero?",
+          "options": [
+            "Gastarlo rápidamente",
+            "Guardarlo en el banco",
+            "Reunir o conseguir fondos",
+            "Prestarlo a otros"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la primera historia, ¿qué organización es responsable de la seguridad en aeropuertos?",
+          "options": [
+            "El Senado",
+            "La TSA",
+            "Goldman Sachs",
+            "Shield AI"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos pierde Estados Unidos cada mes según Goldman Sachs?",
+          "options": [
+            "5,000",
+            "10,000",
+            "15,000",
+            "20,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero recaudó Shield AI?",
+          "options": [
+            "1 mil millones",
+            "2 mil millones",
+            "3 mil millones",
+            "5 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de productos fabrica Shield AI?",
+          "options": [
+            "Computadoras",
+            "Teléfonos móviles",
+            "Drones militares",
+            "Automóviles"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué país está causando problemas económicos a Estados Unidos según el artículo?",
+          "options": [
+            "China",
+            "Irán",
+            "Rusia",
+            "México"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué los trabajadores de la TSA no recibían sus salarios?",
+          "options": [
+            "Por una huelga",
+            "Por problemas en el presupuesto",
+            "Por falta de trabajo",
+            "Por cambios en la empresa"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-27T09:15:09.964565"
+    },
+    {
       "date": "2026-03-26",
       "filename": "spanish_lesson_2026-03-26.pdf",
       "path": "pdfs/spanish_lesson_2026-03-26.pdf",
@@ -24224,7 +24446,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-26T09:18:06.579622",
+  "last_updated": "2026-03-27T09:15:09.964605",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
