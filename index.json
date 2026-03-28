@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-28",
+      "filename": "spanish_lesson_2026-03-28.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-28.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump firma orden para pagar empleados tras crisis en el Congreso",
+          "headline_en": "Trump signs order to pay employees after crisis in Congress",
+          "body_es": "El presidente Trump firmó una orden ejecutiva especial para pagar a los trabajadores del TSA. El TSA es la agencia que controla la seguridad en los aeropuertos estadounidenses. Esta decisión llegó después de que un proyecto de ley importante colapsó en el Congreso. Los congresistas no pudieron ponerse de acuerdo sobre el presupuesto del gobierno. Sin financiación aprobada, muchos empleados federales no iban a recibir sus salarios. La orden ejecutiva asegura que los trabajadores del TSA continúen trabajando y recibiendo su pago. Esta situación muestra las dificultades políticas en Washington. El TSA es muy importante para mantener seguros los viajes en avión. Sin estos empleados, los aeropuertos no pueden funcionar correctamente. La crisis política afecta directamente a los ciudadanos estadounidenses.",
+          "body_en": "President Trump signed a special executive order to pay TSA workers. TSA is the agency that controls security at US airports. This decision came after an important bill collapsed in Congress. Congressmen could not agree on the government budget. Without approved funding, many federal employees were not going to receive their salaries. The executive order ensures that TSA workers continue working and receiving their pay. This situation shows the political difficulties in Washington. TSA is very important for keeping air travel safe. Without these employees, airports cannot function properly. The political crisis directly affects American citizens.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los mercados caen y el petróleo llega a 100 dólares por las preocupaciones económicas",
+          "headline_en": "Markets fall and oil reaches $100 due to economic concerns",
+          "body_es": "Los mercados financieros estadounidenses sufrieron una gran caída esta semana. Al mismo tiempo, el precio del petróleo subió hasta 100 dólares por barril. Esta situación preocupa mucho a los inversores de Wall Street. Muchas personas que tienen dinero invertido en acciones están perdiendo dinero. El presidente Trump intentó calmar los mercados con declaraciones públicas. Sin embargo, sus palabras no tuvieron el efecto esperado. Los expertos económicos dicen que hay varios problemas que causan esta crisis. La inflación sigue siendo alta en Estados Unidos. También hay tensiones internacionales que afectan el comercio. El petróleo es más caro porque hay problemas con el suministro mundial. Esta situación económica difícil puede afectar a todos los estadounidenses. Los precios de la gasolina y otros productos pueden subir más.",
+          "body_en": "US financial markets suffered a major drop this week. At the same time, oil prices rose to $100 per barrel. This situation greatly concerns Wall Street investors. Many people who have money invested in stocks are losing money. President Trump tried to calm markets with public statements. However, his words did not have the expected effect. Economic experts say there are several problems causing this crisis. Inflation remains high in the United States. There are also international tensions affecting trade. Oil is more expensive because there are problems with global supply. This difficult economic situation can affect all Americans. Gasoline and other product prices may rise further.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Guerra fría tecnológica: Estados Unidos acusa a China de robar investigación",
+          "headline_en": "Technological cold war: United States accuses China of stealing research",
+          "body_es": "Las empresas tecnológicas estadounidenses están acusando a compañías chinas de robar información muy valiosa. Según estas acusaciones, China ha robado miles de millones de dólares en investigación sobre inteligencia artificial. La inteligencia artificial es una tecnología muy importante para el futuro. Permite que las computadoras piensen y aprendan como los humanos. Las compañías estadounidenses dicen que China copia sus ideas sin permiso. Este problema está creando lo que algunos expertos llaman una 'guerra fría tecnológica'. Los dos países están compitiendo para ser líderes en inteligencia artificial. Esta competencia afecta la economía y la política mundial. El gobierno estadounidense está considerando nuevas leyes para proteger la tecnología. China niega estas acusaciones y dice que su investigación es original. Esta situación puede cambiar las relaciones internacionales en el futuro.",
+          "body_en": "US technology companies are accusing Chinese companies of stealing very valuable information. According to these accusations, China has stolen billions of dollars in artificial intelligence research. Artificial intelligence is a very important technology for the future. It allows computers to think and learn like humans. US companies say China copies their ideas without permission. This problem is creating what some experts call a 'technological cold war'. The two countries are competing to be leaders in artificial intelligence. This competition affects the global economy and politics. The US government is considering new laws to protect technology. China denies these accusations and says their research is original. This situation may change international relations in the future.",
+          "source": "MSN"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "orden ejecutiva",
+          "syllables": "OR-den e-je-cu-TI-va",
+          "pos": "sustantivo",
+          "context": "Trump firmó una orden ejecutiva para pagar a los empleados del TSA.",
+          "definition_es": "Documento oficial que firma el presidente para dar instrucciones al gobierno",
+          "definition_en": "Official document signed by the president to give instructions to the government"
+        },
+        {
+          "word": "colapsar",
+          "syllables": "co-lap-SAR",
+          "pos": "verbo",
+          "context": "El proyecto de ley colapsó en el Congreso y no fue aprobado.",
+          "definition_es": "Fallar completamente, no funcionar",
+          "definition_en": "To fail completely, to break down"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros cayeron después de las malas noticias económicas.",
+          "definition_es": "Lugares donde se compran y venden acciones y otros productos financieros",
+          "definition_en": "Places where stocks and other financial products are bought and sold"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo estadounidense llegó a 100 dólares por barril.",
+          "definition_es": "Líquido negro que se extrae de la tierra y se usa para hacer combustible",
+          "definition_en": "Black liquid extracted from the earth and used to make fuel"
+        },
+        {
+          "word": "investigación",
+          "syllables": "in-ves-ti-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las empresas chinas robaron miles de millones en investigación tecnológica.",
+          "definition_es": "Trabajo científico para descubrir nueva información",
+          "definition_en": "Scientific work to discover new information"
+        },
+        {
+          "word": "acusar",
+          "syllables": "a-cu-SAR",
+          "pos": "verbo",
+          "context": "Las compañías estadounidenses acusan a China de robar tecnología.",
+          "definition_es": "Decir que alguien hizo algo malo",
+          "definition_en": "To say that someone did something wrong"
+        },
+        {
+          "word": "financiación",
+          "syllables": "fi-nan-cia-CIÓN",
+          "pos": "sustantivo",
+          "context": "La financiación del gobierno se detuvo cuando el Congreso no aprobó el presupuesto.",
+          "definition_es": "Dinero que se da para pagar algo",
+          "definition_en": "Money that is given to pay for something"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La guerra fría de la inteligencia artificial entre Estados Unidos y China está creciendo.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'orden ejecutiva'?",
+          "options": [
+            "Documento oficial firmado por el presidente",
+            "Una ley aprobada por el Congreso",
+            "Un tipo de elección",
+            "Un tribunal de justicia"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'colapsar'?",
+          "options": [
+            "Crecer mucho",
+            "Fallar completamente",
+            "Mejorar la situación",
+            "Cambiar de opinión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'mercados' en economía?",
+          "options": [
+            "Tiendas de comida",
+            "Lugares donde se compran acciones",
+            "Edificios del gobierno",
+            "Aeropuertos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'acusar'?",
+          "options": [
+            "Ayudar a alguien",
+            "Decir que alguien hizo algo malo",
+            "Dar dinero",
+            "Estudiar algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué Trump firmó la orden ejecutiva para el TSA?",
+          "options": [
+            "Porque el Congreso no aprobó la financiación",
+            "Porque quería más seguridad",
+            "Porque los aeropuertos cerraron",
+            "Porque cambió la ley"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿A qué precio llegó el petróleo según la historia económica?",
+          "options": [
+            "50 dólares",
+            "75 dólares",
+            "100 dólares",
+            "125 dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué hace el TSA?",
+          "options": [
+            "Controla la seguridad en aeropuertos",
+            "Maneja los mercados financieros",
+            "Desarrolla inteligencia artificial",
+            "Produce petróleo"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué las palabras de Trump no calmaron los mercados?",
+          "options": [
+            "Porque habló muy poco",
+            "Porque los problemas económicos son complicados",
+            "Porque no habla bien",
+            "Porque los mercados estaban cerrados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿De qué acusan las empresas estadounidenses a China?",
+          "options": [
+            "De vender productos baratos",
+            "De robar investigación de inteligencia artificial",
+            "De no comprar tecnología",
+            "De cerrar mercados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cómo llaman los expertos a la competencia tecnológica entre Estados Unidos y China?",
+          "options": [
+            "Guerra mundial",
+            "Guerra fría tecnológica",
+            "Batalla económica",
+            "Conflicto comercial"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-28T09:09:54.018803"
+    },
+    {
       "date": "2026-03-27",
       "filename": "spanish_lesson_2026-03-27.pdf",
       "path": "pdfs/spanish_lesson_2026-03-27.pdf",
@@ -24446,7 +24668,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-27T09:15:09.964605",
+  "last_updated": "2026-03-28T09:09:54.018829",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
