@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-29",
+      "filename": "spanish_lesson_2026-03-29.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-29.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "La Cámara de Representantes aprueba presupuesto temporal tras rechazo republicano",
+          "headline_en": "House of Representatives approves temporary budget after Republican rejection",
+          "body_es": "La Cámara de Representantes de Estados Unidos aprobó un presupuesto temporal para el Departamento de Seguridad Nacional. Esta decisión llegó después de que los republicanos rechazaran el acuerdo propuesto por el Senado. El presupuesto temporal permite que el departamento continue funcionando por algunas semanas más. Los políticos republicanos no estaban de acuerdo con las condiciones del primer acuerdo. Ahora el gobierno tiene más tiempo para negociar una solución permanente. El Departamento de Seguridad Nacional es responsable de proteger las fronteras del país. Sin este presupuesto, muchos servicios importantes podrían parar. Los demócratas y republicanos deben trabajar juntos para encontrar una solución final antes de que termine este período temporal.",
+          "body_en": "The US House of Representatives approved a temporary budget for the Department of Homeland Security. This decision came after Republicans rejected the agreement proposed by the Senate. The temporary budget allows the department to continue operating for several more weeks. Republican politicians disagreed with the conditions of the first agreement. Now the government has more time to negotiate a permanent solution. The Department of Homeland Security is responsible for protecting the country's borders. Without this budget, many important services could stop. Democrats and Republicans must work together to find a final solution before this temporary period ends.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El precio del petróleo sube por riesgos en el suministro tras negativa de Irán",
+          "headline_en": "Oil prices rise due to supply risks after Iran's denial",
+          "body_es": "Los precios del petróleo subieron en los mercados internacionales esta semana. La razón principal es la preocupación por el suministro mundial de petróleo. Irán negó las conversaciones con Estados Unidos sobre acuerdos comerciales. Esta situación crea incertidumbre en los mercados financieros. Los expertos evalúan cuánto petróleo puede llegar a los mercados mundiales. Irán es uno de los países que produce más petróleo en el mundo. Las relaciones entre Estados Unidos e Irán afectan directamente los precios de la energía. Cuando hay problemas políticos, el petróleo se vuelve más caro. Los consumidores pueden ver precios más altos en la gasolina. Las empresas también pagan más por la energía que necesitan para funcionar.",
+          "body_en": "Oil prices rose in international markets this week. The main reason is concern about the global oil supply. Iran denied talks with the United States about trade agreements. This situation creates uncertainty in financial markets. Experts evaluate how much oil can reach world markets. Iran is one of the countries that produces the most oil in the world. Relations between the United States and Iran directly affect energy prices. When there are political problems, oil becomes more expensive. Consumers may see higher gasoline prices. Companies also pay more for the energy they need to operate.",
+          "source": "The Business Standard"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La inteligencia artificial divide a Washington entre empresas tecnológicas y trabajadores",
+          "headline_en": "Artificial intelligence divides Washington between tech companies and workers",
+          "body_es": "Una gran división sobre la inteligencia artificial está ocurriendo en Washington. Las empresas tecnológicas y los trabajadores tienen opiniones muy diferentes sobre esta tecnología. Las compañías de tecnología quieren desarrollar la inteligencia artificial más rápidamente. Ellas creen que esta tecnología puede mejorar la economía del país. Sin embargo, los trabajadores están preocupados por sus empleos. Muchas personas temen que las máquinas inteligentes reemplacen a los humanos en el trabajo. Los sindicatos de trabajadores piden más regulaciones para proteger los empleos. El gobierno debe decidir qué reglas crear para la inteligencia artificial. Esta tecnología puede cambiar muchos aspectos de la vida moderna. Los políticos buscan un equilibrio entre la innovación y la protección de los trabajadores.",
+          "body_en": "A major division over artificial intelligence is happening in Washington. Tech companies and workers have very different opinions about this technology. Technology companies want to develop artificial intelligence more quickly. They believe this technology can improve the country's economy. However, workers are worried about their jobs. Many people fear that intelligent machines will replace humans at work. Worker unions ask for more regulations to protect jobs. The government must decide what rules to create for artificial intelligence. This technology can change many aspects of modern life. Politicians seek a balance between innovation and worker protection.",
+          "source": "Bloomberg.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "La Cámara aprobó un presupuesto temporal para el departamento de seguridad.",
+          "definition_es": "Plan de gastos de dinero público",
+          "definition_en": "Budget, financial plan"
+        },
+        {
+          "word": "rechazar",
+          "syllables": "re-cha-ZAR",
+          "pos": "verbo",
+          "context": "Los republicanos decidieron rechazar el acuerdo del Senado.",
+          "definition_es": "No aceptar algo, decir que no",
+          "definition_en": "To reject, to refuse"
+        },
+        {
+          "word": "suministro",
+          "syllables": "su-mi-NIS-tro",
+          "pos": "sustantivo",
+          "context": "Los mercados evalúan el riesgo del suministro de petróleo.",
+          "definition_es": "Provisión o entrega de productos",
+          "definition_en": "Supply, provision"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros reaccionaron a las noticias de Irán.",
+          "definition_es": "Lugares donde se compran y venden productos",
+          "definition_en": "Markets"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial causa división en Washington.",
+          "definition_es": "Tecnología que simula el pensamiento humano",
+          "definition_en": "Artificial intelligence"
+        },
+        {
+          "word": "trabajadores",
+          "syllables": "tra-ba-ja-DO-res",
+          "pos": "sustantivo",
+          "context": "Los trabajadores compiten con las empresas tecnológicas.",
+          "definition_es": "Personas que tienen un empleo",
+          "definition_en": "Workers, employees"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "El acuerdo entre partidos fue rechazado por los republicanos.",
+          "definition_es": "Decisión tomada entre varias personas",
+          "definition_en": "Agreement, deal"
+        },
+        {
+          "word": "seguridad",
+          "syllables": "se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "El Departamento de Seguridad Nacional necesita financiación.",
+          "definition_es": "Protección contra peligros",
+          "definition_en": "Security, safety"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'rechazar'?",
+          "options": [
+            "Aceptar algo",
+            "No aceptar algo",
+            "Comprar algo",
+            "Vender algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'suministro' es:",
+          "options": [
+            "Un precio",
+            "Una provisión de productos",
+            "Un mercado",
+            "Un acuerdo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'mercados' en economía?",
+          "options": [
+            "Lugares donde se compran y venden productos",
+            "Tipos de dinero",
+            "Empresas grandes",
+            "Gobiernos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La 'inteligencia artificial' es:",
+          "options": [
+            "Un tipo de computadora",
+            "Tecnología que simula el pensamiento humano",
+            "Un robot físico",
+            "Una empresa tecnológica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué los republicanos rechazaron el primer acuerdo del presupuesto?",
+          "options": [
+            "Era muy caro",
+            "No estaban de acuerdo con las condiciones",
+            "Era muy corto",
+            "No incluía seguridad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué país negó las conversaciones con Estados Unidos sobre petróleo?",
+          "options": [
+            "Arabia Saudí",
+            "Venezuela",
+            "Irán",
+            "Rusia"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué subieron los precios del petróleo?",
+          "options": [
+            "Por mayor demanda",
+            "Por riesgos en el suministro",
+            "Por nuevos impuestos",
+            "Por problemas de transporte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué quieren las empresas tecnológicas respecto a la inteligencia artificial?",
+          "options": [
+            "Prohibirla completamente",
+            "Desarrollarla más lentamente",
+            "Desarrollarla más rápidamente",
+            "Venderla a otros países"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿De qué se preocupan los trabajadores sobre la inteligencia artificial?",
+          "options": [
+            "De los costos",
+            "De la velocidad",
+            "De que las máquinas reemplacen sus empleos",
+            "De la calidad"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué permite el presupuesto temporal del Departamento de Seguridad Nacional?",
+          "options": [
+            "Contratar más personal",
+            "Continuar funcionando por algunas semanas",
+            "Aumentar los salarios",
+            "Comprar nueva tecnología"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-29T09:10:26.874494"
+    },
+    {
       "date": "2026-03-28",
       "filename": "spanish_lesson_2026-03-28.pdf",
       "path": "pdfs/spanish_lesson_2026-03-28.pdf",
@@ -24668,7 +24890,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-28T09:09:54.018829",
+  "last_updated": "2026-03-29T09:10:26.874533",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
