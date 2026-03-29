@@ -1,11 +1,196 @@
 {
-  "date": "2026-03-28",
-  "generated_at": "2026-03-28T09:15:23.123234Z",
+  "date": "2026-03-29",
+  "generated_at": "2026-03-29T09:16:03.362743Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 356,
-  "new_today": 4,
+  "total_stories": 361,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250329",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos tratamientos para úlceras del pie diabético",
+      "headline_en": "New treatments for diabetic foot ulcers",
+      "summary_es": "Los investigadores de Nature evalúan una sustancia llamada oleuropeína para curar úlceras del pie diabético más rápidamente. Este nuevo tratamiento puede ayudar a muchos pacientes con diabetes.",
+      "body_es": "Un estudio publicado en Nature examina un tratamiento nuevo para las úlceras del pie diabético. Los investigadores probaron una sustancia llamada oleuropeína en dos formas: en laboratorio y en pacientes. La oleuropeína se coloca en unas estructuras especiales llamadas hialorosomas. Estos hialorosomas ayudan a llevar el medicamento a la herida. Los resultados muestran que este tratamiento acelera la curación de las úlceras. Las úlceras del pie diabético son heridas graves que afectan a muchos pacientes. Con frecuencia, estas úlceras no cierran bien. El nuevo tratamiento ofrece esperanza para mejorar la cicatrización. Los médicos creen que esta investigación puede cambiar el tratamiento de estas heridas difíciles.",
+      "body_en": "A study published in Nature examines a new treatment for diabetic foot ulcers. Researchers tested a substance called oleuropein in two ways: in the laboratory and in patients. Oleuropein is placed in special structures called hyalurosomes. These hyalurosomes help deliver the medication to the wound. Results show this treatment accelerates ulcer healing. Diabetic foot ulcers are serious wounds affecting many patients. Often, these ulcers do not close well. The new treatment offers hope to improve scarring. Doctors believe this research can change how these difficult wounds are treated.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBT3ZSSjhQVXIwSUtrY0o0SDJNNXc0bW1YY04xVjVQNG0xWFVJYWROYjZGLWZxWEw1NmdnYUZNMDk1OXZicm1FTkhXaWhvWmlRZkF3V2gwTjF0UU5Fc09v?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-29/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta que no cierra bien en la piel",
+          "definition_en": "ulcer - open wound that does not close properly on skin"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de tejido nuevo para cerrar una herida",
+          "definition_en": "scarring - formation of new tissue to close a wound"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método médico para curar una enfermedad",
+          "definition_en": "treatment - medical method to cure an illness"
+        }
+      ],
+      "added_at": "2026-03-29T09:16:03.362743Z"
+    },
+    {
+      "id": "diabetic-foot-20250329",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Estudio revela prevalencia de úlceras del pie diabético en centros de salud",
+      "headline_en": "Study reveals prevalence of diabetic foot ulcers in primary healthcare centers",
+      "summary_es": "Un estudio transversal realizado en Bahréin examina la prevalencia de úlceras del pie diabético entre pacientes con diabetes mellitus que asisten a centros de atención primaria. Los hallazgos proporcionan información importante sobre este problema de salud pública.",
+      "body_es": "Un estudio publicado en Cureus evaluó la prevalencia de úlceras del pie diabético entre pacientes con diabetes mellitus en centros de atención primaria de Bahréin. El diseño transversal permitió a los investigadores recopilar datos de múltiples pacientes en un momento específico. Los resultados del estudio demuestran que las úlceras del pie diabético representan una complicación importante en la población estudiada. Las úlceras del pie diabético se desarrollan cuando la diabetes daña los nervios y reduce la circulación sanguínea. Los pacientes pierden sensibilidad en los pies y no sienten lesiones pequeñas que se convierten en úlceras graves. El estudio subraya la importancia del cuidado preventivo y el monitoreo regular de los pies. Los investigadores recomiendan que los pacientes diabéticos reciban educación sobre el cuidado del pie y evaluaciones periódicas en los centros de salud. Estos hallazgos pueden guiar políticas de prevención y tratamiento en sistemas de salud primaria.",
+      "body_en": "A study published in Cureus evaluated the prevalence of diabetic foot ulcers among patients with diabetes mellitus in primary healthcare centers in Bahrain. The cross-sectional design allowed researchers to collect data from multiple patients at a specific time. The study results demonstrate that diabetic foot ulcers represent an important complication in the studied population. Diabetic foot ulcers develop when diabetes damages nerves and reduces blood circulation. Patients lose sensation in their feet and do not feel small injuries that become serious ulcers. The study emphasizes the importance of preventive care and regular foot monitoring. Researchers recommend that diabetic patients receive foot care education and periodic evaluations at health centers. These findings may guide prevention and treatment policies in primary healthcare systems.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNHV2ai1GMGQxUGtmOXNTMG9UT1UwbDFRUHJmekZXY3BvOWZyNWFvdlJXblFOMW13eTZ4Ykg0Mlg4VFhDbzNEcTVPdTlQeVVRSFFtV3ZxcVBYd0lyeHBMQ2JId3BXOVBMUDdpMDl2M1VEeW5tTElTOTl0VEpDcWNmbXRUYllycFNRamNVV1NSNS1HSEU2SkhKNTl6UXk2ZS1VX0pKbDdrLWRlYnFsUkZmeXRZbjhPZWdFVjRycFFURTZsbTNTbVdGekpIbzhwbFh4NHZ2MWU0SzFxV0RjVHZiS3g4SnVjdUJZeDR4VG5YS0dFYldCYXk2YWpXMldEQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-29/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "herida abierta en el pie causada por diabetes y mala circulación",
+          "definition_en": "diabetic foot ulcer - open wound on the foot caused by diabetes and poor circulation"
+        },
+        {
+          "word": "neuropatía",
+          "definition_es": "daño a los nervios que causa pérdida de sensibilidad",
+          "definition_en": "neuropathy - nerve damage that causes loss of sensation"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen médico para determinar la salud o condición",
+          "definition_en": "evaluation - medical examination to determine health or condition"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar que ocurra una enfermedad",
+          "definition_en": "prevention - actions to avoid disease occurrence"
+        }
+      ],
+      "added_at": "2026-03-29T09:16:03.362743Z"
+    },
+    {
+      "id": "burn-care-20250329",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Quemaduras químicas provocan complicaciones multiorgánicas graves",
+      "headline_en": "Chemical burns lead to severe multi-organ complications",
+      "summary_es": "Un estudio de casos en Cureus describe quemaduras químicas que causaron complicaciones en múltiples órganos y daño de órganos terminales. Este análisis proporciona información clínica valiosa para el manejo de estas lesiones graves.",
+      "body_es": "Un estudio de casos publicado en Cureus examina los efectos graves de las quemaduras químicas que causaron complicaciones multiorgánicas y daño de órganos terminales. Las quemaduras químicas ocurren cuando sustancias cáusticas entran en contacto con la piel. Estas sustancias destruyen rápidamente el tejido epidérmico y penetran en capas más profundas. El daño inicial por la quemadura no es el único problema. Los ácidos o bases fuertes pueden absorberse sistémicamente y afectar órganos vitales como el hígado, riñones y corazón. El estudio presenta varios casos donde los pacientes desarrollaron insuficiencia renal, daño hepático y arritmias cardíacas. La evaluación rápida y el tratamiento inmediato son cruciales. El cuidado de la herida incluye limpieza continua, desbridamiento de tejido necrótico y apósitos especializados. Los pacientes requieren monitoreo cercano de función orgánica y soporte multimodal. El estudio destaca que las quemaduras químicas demandan intervención rápida y cuidado intensivo multidisciplinario para mejorar los resultados.",
+      "body_en": "A case series published in Cureus examines the severe effects of chemical burns that caused multi-organ complications and end-organ damage. Chemical burns occur when caustic substances contact the skin. These substances rapidly destroy epidermal tissue and penetrate deeper layers. Initial burn damage is not the only problem. Strong acids or bases can be absorbed systemically and affect vital organs such as the liver, kidneys, and heart. The study presents several cases where patients developed renal failure, liver damage, and cardiac arrhythmias. Rapid evaluation and immediate treatment are crucial. Wound care includes continuous cleaning, debridement of necrotic tissue, and specialized dressings. Patients require close monitoring of organ function and multimodal supportive care. The study emphasizes that chemical burns demand rapid intervention and intensive multidisciplinary care to improve outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZEUxMVhTNV90ejNUZ3VvTU5naEJFQ1FUUEY1MzhiX2NZOVNpdV9nX1R6R0F6ZUxoU0ZnOEZ5QUFrbHNjcVpTSUlDaHpqZGhJUVowTnNGWnA5djF1TVVSQjdYb2NOd2RGRVEyc0xwMWJFWnBqenpDanpMazBPRGdOMm41UHJ0S3Y1MEVoSmpwbVlFd0FQZFZWVGFNYVlKQlJXeE1uM1JQMGpXWUMtWDdfT0VpWmhzcVg5T0plZUNodkhjdWkteEF1SmloVWMzZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-29/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura química",
+          "definition_es": "lesión de la piel causada por contacto con sustancias cáusticas",
+          "definition_en": "chemical burn - skin injury caused by contact with caustic substances"
+        },
+        {
+          "word": "tejido necrótico",
+          "definition_es": "tejido muerto que resulta de una lesión grave",
+          "definition_en": "necrotic tissue - dead tissue resulting from severe injury"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido dañado o muerto",
+          "definition_en": "debridement - surgical removal of damaged or dead tissue"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico para cubrir y proteger una herida",
+          "definition_en": "dressing - medical material to cover and protect a wound"
+        }
+      ],
+      "added_at": "2026-03-29T09:16:03.362743Z"
+    },
+    {
+      "id": "surgical-wounds-20250329",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "indigo",
+      "headline_es": "Cirujano advierte sobre aumento de infecciones de heridas postquirúrgicas",
+      "headline_en": "Surgeon warns about increase in post-surgery wound infection cases",
+      "summary_es": "Un cirujano laparoscópico reporta un aumento en casos de infección de heridas después de cirugía y comparte medidas prácticas de prevención. La educación sobre cuidado de heridas quirúrgicas es crucial para reducir estas complicaciones.",
+      "body_es": "Un cirujano laparoscópico ha advertido sobre un aumento preocupante en los casos de infección de heridas postquirúrgicas. Las infecciones de heridas quirúrgicas son complicaciones que pueden desarrollarse días o semanas después de la operación. El cirujano destaca que muchas de estas infecciones son prevenibles mediante medidas simples pero efectivas. Las prácticas de prevención incluyen mantener la herida limpia y seca, cambiar los apósitos según las indicaciones médicas y observar signos de infección como enrojecimiento, calor, hinchazón o secreción. Los pacientes deben evitar sumergir la herida en agua hasta que esté completamente cicatrizada. La nutrición adecuada y la actividad física moderada también favorecen la cicatrización. Los profesionales de la salud recomiendan que los pacientes reciban instrucciones claras sobre el cuidado de heridas antes de salir del hospital. Las evaluaciones regulares de seguimiento permiten detectar infecciones tempranamente. El cirujano enfatiza que la educación del paciente y el monitoreo cuidadoso pueden reducir significativamente las complicaciones postquirúrgicas.",
+      "body_en": "A laparoscopic surgeon has warned about a concerning increase in post-surgery wound infection cases. Surgical wound infections are complications that can develop days or weeks after operation. The surgeon emphasizes that many of these infections are preventable through simple but effective measures. Prevention practices include keeping the wound clean and dry, changing dressings according to medical instructions, and watching for signs of infection such as redness, heat, swelling, or discharge. Patients should avoid soaking the wound in water until it is completely healed. Proper nutrition and moderate physical activity also promote healing. Healthcare professionals recommend that patients receive clear wound care instructions before leaving the hospital. Regular follow-up evaluations allow early infection detection. The surgeon emphasizes that patient education and careful monitoring can significantly reduce post-surgical complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdG5VS2hWbm5fX3pVYzZQT1R0OWQ1OW55MmxuNGxMZFBrYjhyRVVIeGRqcmlQZmx1amVTYnVCcEVVTzBfeFA3SGpxVUVCWG16SngyRUdCRGxUT1k0UktyUDhQT1pqbThHWXk3SkdvZ1NDZ3lEeDZpZFN2MlR6WUxwN19hNFpmWW9MNjZERDZyTkFndExtdmVQQmtyOTJGMnk0UVNadjZ5bXY0ZzVwcm1oNjRRSHFwY1dLRzlRczQ4SWJGc3ZPWUNfZzRJZG5jbUsxZWZSMzIxaGpteUtfenY4bXBEek1PVkhUcWNZTGpBYzg3bi1qMmRqQVluYVgzZU1VdE56eFNR0gGLAkFVX3lxTE5qdTZLV2FuZFk5WDUzeXQ4U2hYajNIajBnVFVTTnRFRFl3ZkY3Tm1ydm1PQ1g4V3h5bW5idlVhQUd1a09lV0YzOWdfM1lhckdXcGpuUE44SXVlTnByWExFMmVuY2J6a0EyZm9PZUs2b2JNdHJYNEM5TDREcXdUdzhsanJneHZaQkpWMkVlRncwZ1J4OGlEeVctOUUyeHphNUxRWFlESmlxaXhkNXZFbXNDNF8zREt4YUJaWDZ0eDVfclRpaXhWV200X2hnV3JhZ0xNX0c2bzhWM0lsSnFqc1d0MElDZEkySWZKQ1NEbGlZQnZoY0ZvcVZob1FucXhVNGYyMVdOWER2TjZocw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-29/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección de herida",
+          "definition_es": "crecimiento de bacterias en una herida quirúrgica que causa complicaciones",
+          "definition_en": "wound infection - bacterial growth in surgical wound that causes complications"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "vendaje o material que cubre la herida quirúrgica",
+          "definition_en": "dressing - bandage or material that covers surgical wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación donde se forma tejido nuevo en la herida",
+          "definition_en": "healing - process where new tissue forms in the wound"
+        },
+        {
+          "word": "seguimiento",
+          "definition_es": "vigilancia médica después de una cirugía",
+          "definition_en": "follow-up - medical monitoring after surgery"
+        }
+      ],
+      "added_at": "2026-03-29T09:16:03.362743Z"
+    },
+    {
+      "id": "wound-research-20250329",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "SAWC Spring 2026 presenta investigación innovadora en cuidado de heridas",
+      "headline_en": "SAWC Spring 2026 features first-to-podium wound care research",
+      "summary_es": "HMP Global anuncia que su conferencia SAWC Spring 2026 presentará investigación de vanguardia en cuidado de heridas con conferencias magistrales de NASA y foros sobre la voz del paciente. Este evento reunirá a profesionales líderes en medicina de heridas.",
+      "body_es": "HMP Global ha anunciado que la conferencia SAWC Spring 2026 presentará investigación innovadora en cuidado de heridas y atención de úlceras. El evento incluye presentaciones de investigación de primera línea, conocidas como estudios first-to-podium, que representan hallazgos nuevos y significativos en el campo. La conferencia también contará con conferencias magistrales especiales de la NASA, explorando cómo la tecnología espacial puede aplicarse a la medicina de heridas. Un componente importante del evento es el Foro de la Voz del Paciente, donde las personas con experiencia vivida en tratamiento de heridas comparten sus perspectivas. Este enfoque integrador reconoce que la investigación clínica debe considerarse junto con las necesidades y experiencias de los pacientes. El evento reunirá a especialistas en heridas, cirujanos, enfermeros de cuidado de heridas y otros profesionales de la salud. La colaboración entre investigadores, clínicos y pacientes impulsa innovaciones en tratamientos de úlceras crónicas, heridas quirúrgicas y otras lesiones complejas. SAWC Spring 2026 se espera sea un punto de referencia importante para avances en medicina de heridas.",
+      "body_en": "HMP Global has announced that the SAWC Spring 2026 conference will feature cutting-edge wound care and ulcer treatment research. The event includes first-to-podium research presentations, representing new and significant findings in the field. The conference also features special keynote lectures from NASA, exploring how space technology can be applied to wound medicine. An important component of the event is the Patients' Voice Forum, where people with lived experience in wound treatment share their perspectives. This integrative approach recognizes that clinical research must be considered alongside patient needs and experiences. The event will gather wound specialists, surgeons, wound care nurses, and other healthcare professionals. Collaboration between researchers, clinicians, and patients drives innovations in chronic ulcer, surgical wound, and other complex injury treatments. SAWC Spring 2026 is expected to be an important milestone for advances in wound medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUHJNU0hnVEpVLWRnRVlaRTc2eFNrVUR2U3NDLWdMd05aTGRuMU95TDZmMUdHa042ay1zdVN5WmEzaktPOFRtTDNVYjM1ZVRnVllkcU1zd2dnRVpRRkN0REI5Q0I2empiWnJ0M3U1UlZTYV9pOVRici13T3NGRnR5dE9oNXFGYkpaWDRLTU9ZWXo0ZS04dnRXVmpwUVNFSGNQX1N1cXFOZktKbWNUVGIzRUxlaE9OS1pZdHpfYW13YWVrZmtaTHlpeGV3elZNNG1Vd0Y3Y1dnbW5EckFCa1dVX1dKbHZDa25nSHFfM1VHVkFBeVNB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-29/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "investigación",
+          "definition_es": "estudio científico para descubrir nuevos conocimientos en medicina",
+          "definition_en": "research - scientific study to discover new medical knowledge"
+        },
+        {
+          "word": "úlcera crónica",
+          "definition_es": "herida de larga duración que no cicatriza fácilmente",
+          "definition_en": "chronic ulcer - long-lasting wound that does not heal easily"
+        },
+        {
+          "word": "conferencia",
+          "definition_es": "reunión de profesionales para presentar y discutir hallazgos científicos",
+          "definition_en": "conference - meeting of professionals to present and discuss scientific findings"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "intervención médica para curar una enfermedad o herida",
+          "definition_en": "treatment - medical intervention to cure disease or wound"
+        }
+      ],
+      "added_at": "2026-03-29T09:16:03.362743Z"
+    },
     {
       "id": "chronic-wounds-20250328",
       "category": "Chronic Wounds",
@@ -13173,6 +13358,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-28T09:15:23.123234Z",
+  "last_updated": "2026-03-29T09:16:03.362743Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
