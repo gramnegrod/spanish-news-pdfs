@@ -1,11 +1,122 @@
 {
-  "date": "2026-03-29",
-  "generated_at": "2026-03-29T09:16:03.362743Z",
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T09:36:08.609455Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 361,
-  "new_today": 5,
+  "total_stories": 364,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20260330",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El Cuidado de Úlceras por Presión en Casa Aumenta",
+      "headline_en": "Pressure Ulcer Care at Home Increases",
+      "summary_es": "El mercado de productos para úlceras por presión crece hasta 2035. Más pacientes reciben tratamiento en el hogar porque la población envejece.",
+      "body_es": "Las úlceras por presión son lesiones graves de la piel. Afectan a pacientes que permanecen en cama o en silla. El tratamiento en el hogar es más común ahora. Las personas mayores necesitan más cuidado de heridas. Los apósitos especiales ayudan a la curación. El vendaje correcto previene infecciones. Los enfermeros usan evaluación diaria para medir la úlcera. La población envejece en todo el mundo. Por eso el mercado de productos de curación crece mucho. Las clínicas y hospitales necesitan más personal capacitado. El cuidado en el hogar es más económico. Los pacientes pueden recuperarse mejor en su hogar.",
+      "body_en": "Pressure ulcers are serious skin injuries. They affect patients who remain in bed or in a chair. Home treatment is now more common. Elderly people need more wound care. Special dressings help with healing. Correct bandaging prevents infections. Nurses use daily assessment to measure the ulcer. The population is aging worldwide. This is why the market for healing products is growing significantly. Clinics and hospitals need more trained staff. Home care is more economical. Patients can recover better at home.",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3pQdU9FU0p3TncyQkdGclYyTmhjc2tmdlF0dFJlV3piRmdCMjJnSW1ETTlkdDhFU09mZnJzS1M5OWI3bDVKN2pwWlMzN19CclZSeUpEOWtQWWlpcUdPM3RjeFBocFNieDF0LUlVNHdKTjJBXzZZS1VWajlEWkE3a0hLSHBYYy00cUV4b2VJTTMtd3VBT2FfaUt1SXNfbl9HSDZ6UkhRMmpTZ2YwNnRMTWd5M1ZuVmpZcGdPMWRIRnRIWk5VbFFFUw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-30/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on the skin that does not heal easily"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material especial que se coloca sobre la herida para curarla",
+          "definition_en": "dressing - special material placed on the wound to treat it"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de recuperación y cierre de una herida",
+          "definition_en": "healing - process of recovery and closure of a wound"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen médico para valorar la herida",
+          "definition_en": "assessment - medical examination to evaluate the wound"
+        }
+      ],
+      "added_at": "2026-03-30T09:36:08.609455Z"
+    },
+    {
+      "id": "burn-care-20260330",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Clínica Especializada en Heridas y Úlceras Abre en Hospital Apollo",
+      "headline_en": "Specialized Wound and Ulcer Clinic Opens at Apollo Hospital",
+      "summary_es": "El Hospital Apollo BGS en Mysuru abrió una nueva clínica GAAYA para tratar todos los tipos de heridas y úlceras. Esta clínica ofrece tratamientos avanzados para pacientes con quemaduras y lesiones complejas.",
+      "body_es": "El Hospital Apollo BGS de Mysuru ha inaugurado la Clínica GAAYA, dedicada al tratamiento integral de heridas y úlceras. Esta nueva instalación proporciona cuidados especializados para pacientes con quemaduras, úlceras diabéticas y lesiones traumáticas. El equipo médico utiliza técnicas modernas de desbridamiento y apósitos avanzados para promover la epitelización. Los enfermeros realizan evaluaciones diarias del exudado y la granulación tisular. La clínica atiende pacientes ambulatorios y hospitalizados. Se utilizan protocolos basados en evidencia para prevenir infecciones y acelerar la cicatrización. Los pacientes reciben educación sobre cuidados en el hogar. El personal está entrenado en manejo de heridas complejas y manejo del dolor. Esta iniciativa mejora significativamente los resultados clínicos en la región.",
+      "body_en": "Apollo BGS Hospital in Mysuru has inaugurated the GAAYA Clinic, dedicated to comprehensive wound and ulcer treatment. This new facility provides specialized care for patients with burns, diabetic ulcers, and traumatic injuries. The medical team uses modern debridement techniques and advanced dressings to promote epithelialization. Nurses perform daily assessments of exudate and tissue granulation. The clinic serves both outpatient and hospitalized patients. Evidence-based protocols are used to prevent infections and accelerate healing. Patients receive education about home care. Staff are trained in complex wound management and pain control. This initiative significantly improves clinical outcomes in the region.",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdnMwQkxoRVlkVURPVzRhb0ZEV0VSUkdDZW56SzNWak5RV01XR2JmUGJoUExyRmRwS2c5WE5WQVFIM3hGSVRBd0JKWjh4c2dGaHdwYVVxQVk4UzZTQnliSkpNcFNZMXhkSVlNRGZjTnd0QUEtVTFvOXFoVUR2VEk1QlBBWThsVmhOSUVuUU5HY1pyRDd1cklOSk90cGlIb2VkRldYTWxybmdLR0s0RlRQRlFiUVExWmQwZThmbW9uRkxEVkdrLWtR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-30/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo y rosado durante la cicatrización",
+          "definition_en": "granulation - formation of new pink tissue during healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de cubrimiento de la herida con piel nueva",
+          "definition_en": "epithelialization - process of wound coverage with new skin"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida durante la curación",
+          "definition_en": "exudate - fluid that flows from a wound during healing"
+        }
+      ],
+      "added_at": "2026-03-30T09:36:08.609455Z"
+    },
+    {
+      "id": "surgical-wounds-20260330",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Tiras de Cierre de Heridas: Mercado Global en Crecimiento",
+      "headline_en": "Wound Closure Strips: Growing Global Market",
+      "summary_es": "El mercado mundial de tiras para cerrar heridas quirúrgicas está en expansión. Estas tiras son alternativas efectivas a las suturas tradicionales para ciertos tipos de lesiones.",
+      "body_es": "Las tiras de cierre de heridas son dispositivos médicos especializados utilizados en el cierre de heridas quirúrgicas. Ofrecen una alternativa menos invasiva que las suturas tradicionales para muchos tipos de lesiones. El análisis de mercado indica crecimiento significativo en los próximos años. Estas tiras promueven una cicatrización más rápida con menos complicaciones. Los cirujanos las utilizan frecuentemente en heridas de poca profundidad y en áreas donde se busca minimizar las cicatrices. Los apósitos de cierre ayudan a mantener los bordes de la herida unidos mientras la piel se cura naturalmente. El vendaje con tiras es más cómodo para los pacientes que las suturas. Se pueden remover gradualmente sin causar dolor o trauma adicional. La evaluación del tipo de herida determina si se usan tiras o suturas. Las tendencias del mercado muestran preferencia creciente por estos materiales modernos de cierre.",
+      "body_en": "Wound closure strips are specialized medical devices used to close surgical wounds. They offer a less invasive alternative to traditional sutures for many types of injuries. Market analysis indicates significant growth in coming years. These strips promote faster healing with fewer complications. Surgeons frequently use them in shallow wounds and areas where minimizing scars is desired. Closure dressings help keep the wound edges together while the skin heals naturally. Strapping with closure strips is more comfortable for patients than sutures. They can be gradually removed without causing pain or additional trauma. Assessment of wound type determines whether strips or sutures are used. Market trends show growing preference for these modern closure materials.",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjluRU01dVNET0l5S3EyaHp0bjJxaHhCMHlGSjJoTUVwMGNnYnJKSFlLQmtab2tnUFY1QnNZRGRBdmZsNnoxZFF4cWxPeUVkZ1BMR295bEs1SGMyRnFBQUJHQjg5VnIyM0c1RDJyTmxSZmNCZ0FnaUtxSVRaY2hUaFhicHEtYVRRZUJzWndPUVZ6YzRFUVlBT3hvUmhkVVpLYUNqUVlPVEFYSlV0OWc4U0UzdFNkeFJmcG8zTQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-30/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "sutura",
+          "definition_es": "puntos que cierran una herida quirúrgica",
+          "definition_en": "suture - stitches that close a surgical wound"
+        },
+        {
+          "word": "cierre",
+          "definition_es": "acción de cerrar o juntar los bordes de una herida",
+          "definition_en": "closure - action of closing or joining wound edges"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de curar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        },
+        {
+          "word": "lesión",
+          "definition_es": "daño o herida en los tejidos del cuerpo",
+          "definition_en": "injury - damage or wound to body tissues"
+        }
+      ],
+      "added_at": "2026-03-30T09:36:08.609455Z"
+    },
     {
       "id": "chronic-wounds-20250329",
       "category": "Chronic Wounds",
@@ -13358,6 +13469,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-29T09:16:03.362743Z",
+  "last_updated": "2026-03-30T09:36:08.609455Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
