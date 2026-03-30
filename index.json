@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-30",
+      "filename": "spanish_lesson_2026-03-30.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-30.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos tiene el cierre de gobierno más largo de su historia",
+          "headline_en": "United States has the longest government shutdown in its history",
+          "body_es": "Estados Unidos vive el cierre de gobierno más largo de su historia. El cierre parcial del gobierno comenzó hace más de un mes. Miles de trabajadores del gobierno no pueden trabajar y no reciben dinero. Los servicios públicos están cerrados. Los parques nacionales no funcionan normalmente. El presidente y el Congreso no pueden llegar a un acuerdo. El problema principal es el dinero para construir un muro en la frontera con México. Los demócratas no quieren dar dinero para el muro. Los republicanos dicen que el muro es necesario. Mientras tanto, los ciudadanos sufren las consecuencias de este cierre histórico. Muchas familias no tienen dinero para pagar sus gastos.",
+          "body_en": "The United States is experiencing the longest government shutdown in its history. The partial government shutdown began more than a month ago. Thousands of government workers cannot work and do not receive money. Public services are closed. National parks are not functioning normally. The president and Congress cannot reach an agreement. The main problem is money to build a wall on the border with Mexico. Democrats do not want to give money for the wall. Republicans say the wall is necessary. Meanwhile, citizens suffer the consequences of this historic shutdown. Many families do not have money to pay their expenses.",
+          "source": "BBC"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El precio del petróleo sube mucho por la guerra en Irán",
+          "headline_en": "Oil prices rise sharply due to war in Iran",
+          "body_es": "El precio del petróleo está subiendo de manera histórica este mes. La guerra en Irán está causando problemas en los mercados mundiales. Los inversores están preocupados porque Irán produce mucho petróleo. Si hay guerra, puede haber menos petróleo en el mundo. Esto hace que los precios suban rápidamente. Los mercados financieros están muy nerviosos. Las empresas que usan petróleo van a pagar más dinero. Esto puede afectar el precio de la gasolina para los conductores. Los expertos dicen que la situación puede empeorar si la guerra continúa. Algunos países están usando sus reservas de petróleo para ayudar. Sin embargo, esto puede no ser suficiente si el conflicto dura mucho tiempo.",
+          "body_en": "Oil prices are rising historically this month. The war in Iran is causing problems in global markets. Investors are worried because Iran produces a lot of oil. If there is war, there may be less oil in the world. This makes prices rise quickly. Financial markets are very nervous. Companies that use oil will pay more money. This can affect gasoline prices for drivers. Experts say the situation may worsen if the war continues. Some countries are using their oil reserves to help. However, this may not be enough if the conflict lasts a long time.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa europea recibe 830 millones para competir con gigantes americanos",
+          "headline_en": "European company receives 830 million to compete with American giants",
+          "body_es": "Una empresa europea de inteligencia artificial recibió 830 millones de dólares en inversión. Esta gran cantidad de dinero ayudará a la empresa a competir con los gigantes tecnológicos de Estados Unidos. La empresa quiere desarrollar nuevas tecnologías de inteligencia artificial. Los inversores europeos creen que es importante tener competencia contra las empresas americanas. Compañías como Google y Microsoft dominan el mercado mundial de tecnología. La nueva inversión permitirá contratar más empleados y crear mejores productos. Los expertos dicen que esta es una de las inversiones más grandes en Europa. La empresa planea usar el dinero en los próximos tres años. Esto puede cambiar el futuro de la tecnología en Europa.",
+          "body_en": "A European artificial intelligence company received 830 million dollars in investment. This large amount of money will help the company compete with US technology giants. The company wants to develop new artificial intelligence technologies. European investors believe it is important to have competition against American companies. Companies like Google and Microsoft dominate the global technology market. The new investment will allow hiring more employees and creating better products. Experts say this is one of the largest investments in Europe. The company plans to use the money over the next three years. This could change the future of technology in Europe.",
+          "source": "Fine Day 102.3"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno duró más de un mes.",
+          "definition_es": "Acción de cerrar o suspender algo",
+          "definition_en": "Shutdown, closure"
+        },
+        {
+          "word": "histórico",
+          "syllables": "his-TÓ-ri-co",
+          "pos": "adjetivo",
+          "context": "Este fue el cierre más histórico de Estados Unidos.",
+          "definition_es": "Muy importante en la historia",
+          "definition_en": "Historic, historical"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo subió mucho este mes.",
+          "definition_es": "Líquido negro que se usa para hacer gasolina",
+          "definition_en": "Oil, petroleum"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros están nerviosos por la guerra.",
+          "definition_es": "Lugares donde se compran y venden cosas",
+          "definition_en": "Markets"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Una empresa europea recibió mucho dinero.",
+          "definition_es": "Organización que hace negocios",
+          "definition_en": "Company, business"
+        },
+        {
+          "word": "competir",
+          "syllables": "com-pe-TIR",
+          "pos": "verbo",
+          "context": "La empresa quiere competir con las compañías americanas.",
+          "definition_es": "Luchar contra otros para ganar",
+          "definition_en": "To compete"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "La inversión de 830 millones ayudará a la empresa.",
+          "definition_es": "Dinero que se pone en un negocio",
+          "definition_en": "Investment"
+        },
+        {
+          "word": "gigantes",
+          "syllables": "gi-GAN-tes",
+          "pos": "sustantivo",
+          "context": "Los gigantes tecnológicos dominan el mercado.",
+          "definition_es": "Empresas muy grandes y poderosas",
+          "definition_en": "Giants"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'cierre' en el contexto del gobierno?",
+          "options": [
+            "Abrir oficinas",
+            "Suspender servicios",
+            "Construir edificios",
+            "Contratar empleados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es el petróleo?",
+          "options": [
+            "Un metal precioso",
+            "Un líquido para hacer gasolina",
+            "Un tipo de comida",
+            "Una moneda"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'competir'?",
+          "options": [
+            "Ayudar a otros",
+            "Luchar para ganar",
+            "Comprar productos",
+            "Vender servicios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'gigantes tecnológicos'?",
+          "options": [
+            "Robots muy altos",
+            "Empresas muy grandes",
+            "Computadoras pequeñas",
+            "Teléfonos nuevos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué el cierre del gobierno de Estados Unidos fue histórico?",
+          "options": [
+            "Fue muy corto",
+            "Fue el más largo",
+            "Fue en diciembre",
+            "Fue muy barato"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el problema principal del cierre de gobierno?",
+          "options": [
+            "El dinero para un muro",
+            "Los parques nacionales",
+            "Los trabajadores",
+            "El presidente"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué subió el precio del petróleo?",
+          "options": [
+            "Por la lluvia",
+            "Por la guerra en Irán",
+            "Por las vacaciones",
+            "Por los carros nuevos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué puede pasar si hay menos petróleo?",
+          "options": [
+            "Los precios bajan",
+            "Los precios suben",
+            "No pasa nada",
+            "Se acaba el dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero recibió la empresa europea?",
+          "options": [
+            "830 euros",
+            "830 mil dólares",
+            "830 millones",
+            "83 millones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Con qué empresas quiere competir la empresa europea?",
+          "options": [
+            "Con empresas chinas",
+            "Con empresas americanas",
+            "Con empresas africanas",
+            "Con empresas australianas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-30T09:26:33.094445"
+    },
+    {
       "date": "2026-03-29",
       "filename": "spanish_lesson_2026-03-29.pdf",
       "path": "pdfs/spanish_lesson_2026-03-29.pdf",
@@ -24890,7 +25112,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-29T09:10:26.874533",
+  "last_updated": "2026-03-30T09:26:33.094471",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
