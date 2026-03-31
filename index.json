@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-03-31",
+      "filename": "spanish_lesson_2026-03-31.pdf",
+      "path": "pdfs/spanish_lesson_2026-03-31.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump pide al Congreso terminar vacaciones para solucionar cierre gubernamental",
+          "headline_en": "Trump asks Congress to end vacation to solve government shutdown",
+          "body_es": "El expresidente Trump pidió al Congreso estadounidense que termine su receso temprano. Quiere que los legisladores regresen a trabajar para resolver el cierre del Departamento de Seguridad Nacional. La Casa Blanca confirmó esta petición oficial. El cierre afecta servicios importantes de seguridad en todo el país. Trump considera que es urgente encontrar una solución rápida. Los congressistas estaban en vacaciones programadas. Ahora deben decidir si regresan antes de tiempo. Este cierre causa problemas en aeropuertos y fronteras. La situación preocupa a millones de ciudadanos americanos. El gobierno necesita aprobar un nuevo presupuesto pronto.",
+          "body_en": "Former President Trump asked the US Congress to end their recess early. He wants legislators to return to work to resolve the Department of Homeland Security shutdown. The White House confirmed this official request. The shutdown affects important security services throughout the country. Trump considers it urgent to find a quick solution. Congresspeople were on scheduled vacation. Now they must decide whether to return early. This shutdown causes problems at airports and borders. The situation worries millions of American citizens. The government needs to approve a new budget soon.",
+          "source": "ABC7 Chicago"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Petróleo supera 100 dólares mientras mercados caen por guerra con Irán",
+          "headline_en": "Oil tops $100 while markets fall due to Iran war",
+          "body_es": "El precio del petróleo estadounidense subió por encima de 100 dólares por barril. Esta subida ocurre mientras la guerra con Irán entra en su segundo mes. El índice bursátil S&P 500 se acerca a una corrección importante. Los inversionistas están muy preocupados por la situación internacional. La guerra afecta directamente los precios de la energía mundial. Muchas empresas pierden dinero en la bolsa de valores. Los expertos económicos predicen más problemas financieros. El conflicto interrumpe el suministro normal de petróleo. Las familias americanas pagan más por la gasolina ahora. El gobierno estudia medidas para controlar la inflación creciente.",
+          "body_en": "The price of US oil rose above $100 per barrel. This increase occurs while the war with Iran enters its second month. The S&P 500 stock index approaches a significant correction. Investors are very worried about the international situation. The war directly affects global energy prices. Many companies lose money in the stock market. Economic experts predict more financial problems. The conflict disrupts normal oil supply. American families now pay more for gasoline. The government studies measures to control growing inflation.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Gobernador de California fortalece protecciones de inteligencia artificial",
+          "headline_en": "California Governor strengthens artificial intelligence protections",
+          "body_es": "El gobernador Newsom firmó una orden ejecutiva histórica sobre inteligencia artificial. Esta nueva ley fortalece las protecciones y promueve el uso responsable de la IA. La decisión llega mientras Trump elimina otras protecciones federales. California se convierte en el primer estado con estas medidas específicas. La orden regula cómo las empresas pueden usar la inteligencia artificial. Protege especialmente la privacidad de los datos personales. Las compañías tecnológicas deben seguir nuevas reglas estrictas. El gobernador quiere evitar el mal uso de esta tecnología. Esta ley afecta a grandes empresas como Google y Apple. California lidera la innovación tecnológica responsable en Estados Unidos.",
+          "body_en": "Governor Newsom signed a historic executive order on artificial intelligence. This new law strengthens protections and promotes responsible use of AI. The decision comes while Trump eliminates other federal protections. California becomes the first state with these specific measures. The order regulates how companies can use artificial intelligence. It especially protects personal data privacy. Technology companies must follow new strict rules. The governor wants to prevent misuse of this technology. This law affects large companies like Google and Apple. California leads responsible technological innovation in the United States.",
+          "source": "California State Portal"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "receso",
+          "syllables": "re-CE-so",
+          "pos": "sustantivo",
+          "context": "Trump pidió al Congreso cortar el receso para resolver el problema.",
+          "definition_es": "Período de descanso o pausa en las actividades",
+          "definition_en": "Recess, break period"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del Departamento de Seguridad Nacional preocupa a muchos.",
+          "definition_es": "Acción de cerrar o suspender operaciones",
+          "definition_en": "Shutdown, closure"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo estadounidense superó los 100 dólares.",
+          "definition_es": "Líquido natural usado como combustible",
+          "definition_en": "Oil, petroleum"
+        },
+        {
+          "word": "corrección",
+          "syllables": "co-rrec-CIÓN",
+          "pos": "sustantivo",
+          "context": "El mercado de valores se acerca a una corrección significativa.",
+          "definition_es": "Cambio para mejorar algo o bajada en el mercado",
+          "definition_en": "Correction"
+        },
+        {
+          "word": "protecciones",
+          "syllables": "pro-tec-CIO-nes",
+          "pos": "sustantivo",
+          "context": "El gobernador firmó nuevas protecciones para la inteligencia artificial.",
+          "definition_es": "Medidas para defender o cuidar algo",
+          "definition_en": "Protections"
+        },
+        {
+          "word": "orden ejecutiva",
+          "syllables": "OR-den e-je-cu-TI-va",
+          "pos": "sustantivo",
+          "context": "Newsom firmó una orden ejecutiva histórica sobre la IA.",
+          "definition_es": "Decreto oficial firmado por un gobernador o presidente",
+          "definition_en": "Executive order"
+        },
+        {
+          "word": "guerra",
+          "syllables": "GUE-rra",
+          "pos": "sustantivo",
+          "context": "La guerra con Irán ya lleva dos meses de duración.",
+          "definition_es": "Conflicto armado entre países o grupos",
+          "definition_en": "War"
+        },
+        {
+          "word": "responsable",
+          "syllables": "res-pon-SA-ble",
+          "pos": "adjetivo",
+          "context": "La nueva ley promueve el uso responsable de la tecnología.",
+          "definition_es": "Que actúa con cuidado y considera las consecuencias",
+          "definition_en": "Responsible"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'receso' en el contexto político?",
+          "options": [
+            "Período de vacaciones del Congreso",
+            "Reunión urgente",
+            "Votación secreta",
+            "Debate público"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una 'orden ejecutiva' es:",
+          "options": [
+            "Una ley del Congreso",
+            "Un decreto oficial del gobernador",
+            "Una decisión judicial",
+            "Un voto popular"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'corrección' en el mercado financiero?",
+          "options": [
+            "Una subida de precios",
+            "Una bajada significativa",
+            "Un error contable",
+            "Una nueva inversión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'responsable' en el contexto de tecnología?",
+          "options": [
+            "Rápido y eficiente",
+            "Caro pero útil",
+            "Cuidadoso y ético",
+            "Nuevo y moderno"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿por qué Trump quiere que termine el receso?",
+          "options": [
+            "Para aprobar nuevas leyes",
+            "Para resolver el cierre del DHS",
+            "Para discutir el presupuesto",
+            "Para votar sobre inmigración"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto tiempo lleva la guerra con Irán según el artículo?",
+          "options": [
+            "Un mes",
+            "Dos meses",
+            "Tres meses",
+            "Cuatro meses"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué precio superó el petróleo estadounidense?",
+          "options": [
+            "50 dólares",
+            "75 dólares",
+            "100 dólares",
+            "150 dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué estado es pionero en protecciones de IA?",
+          "options": [
+            "Texas",
+            "Nueva York",
+            "Florida",
+            "California"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué índice bursátil se menciona en la historia económica?",
+          "options": [
+            "Dow Jones",
+            "NASDAQ",
+            "S&P 500",
+            "Russell 2000"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Quién firmó la orden ejecutiva sobre inteligencia artificial?",
+          "options": [
+            "Trump",
+            "Biden",
+            "Newsom",
+            "Harris"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-03-31T09:21:07.025732"
+    },
+    {
       "date": "2026-03-30",
       "filename": "spanish_lesson_2026-03-30.pdf",
       "path": "pdfs/spanish_lesson_2026-03-30.pdf",
@@ -25112,7 +25334,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-30T09:26:33.094471",
+  "last_updated": "2026-03-31T09:21:07.025753",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
