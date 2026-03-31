@@ -1,11 +1,196 @@
 {
-  "date": "2026-03-30",
-  "generated_at": "2026-03-30T09:36:08.609455Z",
+  "date": "2026-03-31",
+  "generated_at": "2026-03-31T09:28:43.763063Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 364,
-  "new_today": 3,
+  "total_stories": 369,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250331",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El pH de la herida: clave para entender la curación",
+      "headline_en": "Wound pH: Key to Understanding Healing",
+      "summary_es": "Un estudio reciente descubre que las heridas que cicatrizan tienen un pH más bajo. Las heridas crónicas tienen un pH más alto y no cierran bien.",
+      "body_es": "Un estudio importante de Nature analiza el pH en heridas durante la curación. Los investigadores midieron el nivel de acidez en muchos pacientes. Las heridas que cicatrizan bien tienen un pH bajo y progresivo. En cambio, las heridas crónicas que no cierran tienen un pH alto. Este descubrimiento es importante para enfermeras y especialistas en cuidado de heridas. Ahora podemos entender mejor por qué algunas úlceras no cicatrizan. El pH es un indicador importante de la salud de la herida. Los profesionales pueden usar esta información para mejorar los tratamientos. Este estudio multicéntrico prospectivo ofrece datos valiosos para la práctica clínica diaria.",
+      "body_en": "An important Nature study analyzes pH levels in wounds during healing. Researchers measured acidity levels in many patients. Wounds that heal well have low and progressive pH. In contrast, chronic non-healing wounds have high pH. This discovery is important for nurses and wound care specialists. Now we can better understand why some ulcers do not heal. pH is an important indicator of wound health. Healthcare professionals can use this information to improve treatments. This prospective, multicenter cohort study offers valuable data for daily clinical practice.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vVzhhTnJlSFdfSkdDbU5NSW9WUkI5WkVwSTA5eUtWcVhLOXhoa0NoaWo4VHNEMC1rNDRjRzN4VWMwSVFwbmtXZlhDcnRKQjNndnZDdXpYRFI1VnRJNTNJ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-31/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pH",
+          "definition_es": "medida de acidez o alcalinidad",
+          "definition_en": "measure of acidity or alkalinity"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida profunda que no cicatriza",
+          "definition_en": "ulcer - deep wound that does not heal"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre de la herida",
+          "definition_en": "healing - process of wound closure"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of recovery"
+        }
+      ],
+      "added_at": "2026-03-31T09:28:43.763063Z"
+    },
+    {
+      "id": "diabetic-foot-20250331",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Tres sistemas de evaluación para úlceras diabéticas en los pies",
+      "headline_en": "Three Scoring Systems for Diabetic Foot Ulcers Validated",
+      "summary_es": "Un estudio de Cureus valida y compara la confiabilidad de tres sistemas diferentes para evaluar úlceras diabéticas en los pies. Estos instrumentos ayudan a los profesionales a medir la gravedad de las lesiones.",
+      "body_es": "La investigación publicada en Cureus examina la validez y confiabilidad de tres sistemas de puntuación utilizados para evaluar úlceras diabéticas del pie. Los profesionales de enfermería y especialistas en heridas utilizan estas escalas para determinar la severidad y el pronóstico de las úlceras. El estudio comparó la precisión, sensibilidad y especificidad de cada sistema de evaluación. La validación de estos instrumentos es fundamental para estandarizar el cuidado de pacientes diabéticos. Mediante el uso de sistemas de puntuación confiables, los profesionales pueden monitorear el progreso del tratamiento de manera objetiva. Estos hallazgos permiten a los equipos multidisciplinarios tomar decisiones clínicas más informadas. La evaluación consistente también facilita la comunicación entre profesionales sobre el estado de la úlcera diabética.",
+      "body_en": "Research published in Cureus examines the validity and reliability of three scoring systems used to assess diabetic foot ulcers. Nursing professionals and wound care specialists use these scales to determine the severity and prognosis of ulcers. The study compared the accuracy, sensitivity, and specificity of each evaluation system. Validation of these instruments is fundamental to standardizing care for diabetic patients. By using reliable scoring systems, professionals can monitor treatment progress objectively. These findings enable multidisciplinary teams to make more informed clinical decisions. Consistent assessment also facilitates communication among professionals regarding diabetic ulcer status.",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeU9xeEVXRE93ZDJ1ZV9ub1hYcnFFQXB6LXo2aV8xUklhTmFlS0RYbmZKQkF1MGFpOFl1Sk51NHFzUXJCak11R2w3NW1HM1ZXd3VkMnVCUDVHbFpycW01VGxDaW4zMzRKYXpvaF9RMmtpVndSdFlWcWdNaDEzX19UNGYzaFBVU1NTWk8zV2NLcTZlN1I5ZEhObkFOS05Cb3Q4YndveFYtSzlfNE9fNjQ1QmV1VTZmVEljZWxadm01WE9FN1NZRHVmTHRWNEY?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-31/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida en el pie de persona con diabetes",
+          "definition_en": "diabetic ulcer - wound in the foot of a person with diabetes"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "proceso de medir y valorar el estado de la herida",
+          "definition_en": "assessment - process of measuring and evaluating wound status"
+        },
+        {
+          "word": "puntuación",
+          "definition_es": "sistema numérico para clasificar gravedad",
+          "definition_en": "score - numerical system to classify severity"
+        },
+        {
+          "word": "confiabilidad",
+          "definition_es": "capacidad de un sistema para dar resultados consistentes",
+          "definition_en": "reliability - ability of a system to produce consistent results"
+        }
+      ],
+      "added_at": "2026-03-31T09:28:43.763063Z"
+    },
+    {
+      "id": "burn-care-20250331",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Quemaduras químicas causan complicaciones en múltiples órganos",
+      "headline_en": "Chemical Burns Lead to Multi-organ Complications",
+      "summary_es": "Un serie de casos de Cureus describe cómo las quemaduras químicas pueden afectar múltiples órganos y causar daño grave en pacientes. Estas lesiones requieren manejo especializado en cuidados intensivos.",
+      "body_es": "Un estudio de casos de Cureus analiza pacientes que sufrieron quemaduras químicas por asalto. Las quemaduras químicas son lesiones graves que van más allá del daño cutáneo. El contacto con sustancias químicas corrosivas puede afectar la piel, los pulmones, los riñones y otros órganos vitales. Los pacientes presentaron complicaciones sistémicas graves incluyendo daño multiorgánico. El cuidado de estos pacientes requiere atención inmediata en unidades de quemados especializadas. Los profesionales de enfermería deben monitorear continuamente signos de insuficiencia orgánica. El desbridamiento de tejido necrótico es esencial para prevenir infecciones secundarias. La evaluación respiratoria es crítica cuando hay quemaduras en vías aéreas. Este tipo de lesiones traumáticas presenta un pronóstico complicado que demanda equipos multidisciplinarios.",
+      "body_en": "A case series from Cureus analyzes patients who suffered chemical burns from assault. Chemical burns are serious injuries that extend beyond skin damage. Contact with corrosive chemical substances can affect the skin, lungs, kidneys, and other vital organs. Patients presented with serious systemic complications including multi-organ damage. Care for these patients requires immediate attention in specialized burn units. Nursing professionals must continuously monitor for signs of organ failure. Debridement of necrotic tissue is essential to prevent secondary infections. Respiratory assessment is critical when there are airway burns. This type of traumatic injury presents a complicated prognosis requiring multidisciplinary teams.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdnhaYVhhZjBKMEgwQUZtUkx4TnB1b1h6TXFXSkpmYlVTSFU0STRrU1puUkQxV1FpNm1HR2RaMjN2M3Utb2xKOXFNMUlXamV1MC00Ylp1RlBEeUpWbDhzTHE0aEtrQWRsZ21leVFUXzNYUFEwakpjRGVsb0IzMk1hYnZvbmNmclZCcVFZNUd4UFI0dW1PZ2sxZjM0RXBEbF81VEF1YndjZUJBTWhveE5weG5kRGxibDRqRk5lLVp5ci11eHdEQl81TVVBMTVIQkY4N3hzSmJDWGIwWGs1RXFwa2VQLU1zdEk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-31/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura química",
+          "definition_es": "lesión causada por contacto con sustancias corrosivas",
+          "definition_en": "chemical burn - injury caused by contact with corrosive substances"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "daño multiorgánico",
+          "definition_es": "afectación simultánea de varios órganos",
+          "definition_en": "multi-organ damage - simultaneous failure of multiple organs"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido corporal",
+          "definition_en": "necrosis - death of body tissue"
+        }
+      ],
+      "added_at": "2026-03-31T09:28:43.763063Z"
+    },
+    {
+      "id": "surgical-wounds-20250331",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Perspectiva de superviviente: MRSA, sepsis y heridas quirúrgicas",
+      "headline_en": "Survivor's Perspective: MRSA, Sepsis, and Surgical Wound Complications",
+      "summary_es": "Una historia personal de un experto en prevención de infecciones que sobrevivió a complicaciones graves de heridas quirúrgicas, incluyendo infección por MRSA y sepsis.",
+      "body_es": "Una profesional experta en prevención de infecciones comparte su experiencia como paciente con complicaciones graves de heridas quirúrgicas. La infección por MRSA en el sitio quirúrgico condujo al desarrollo de sepsis, una complicación potencialmente mortal. El impacto a largo plazo incluye secuelas físicas y psicológicas significativas. Este testimonio destaca la importancia crítica del control de infecciones en el entorno quirúrgico. Las heridas quirúrgicas requieren monitoreo cuidadoso para detectar signos tempranos de infección como enrojecimiento, calor y exudado purulento. El cuidado de la herida debe seguir protocolos estrictos de asepsia y antisepsia. Los profesionales de enfermería juegan un papel fundamental en la prevención de infecciones del sitio quirúrgico. La educación del paciente sobre cuidados en el hogar también es esencial para evitar complicaciones postoperatorias. Esta historia subraya cómo las complicaciones infecciosas pueden tener consecuencias duraderas para los pacientes.",
+      "body_en": "An infection prevention expert shares her experience as a patient with serious surgical wound complications. MRSA infection at the surgical site led to the development of sepsis, a potentially life-threatening complication. Long-term impact includes significant physical and psychological sequelae. This testimony highlights the critical importance of infection control in the surgical environment. Surgical wounds require careful monitoring to detect early signs of infection such as redness, warmth, and purulent drainage. Wound care must follow strict asepsis and antisepsis protocols. Nursing professionals play a fundamental role in preventing surgical site infections. Patient education about home care is also essential to prevent postoperative complications. This story underscores how infectious complications can have lasting consequences for patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXhKdHhYUGk4a2E3bkljQzRXNjFiNGc3dThmVTBpUFhETEFxNHNwYjhKcGRVcGJtYmp4SEpDdzRCemFjdDg0bFZ1eHZFalliYkNHRTVXa29qTTFvak5TZFZXWUF6bzV3NDYycnFXdzY2NjBBcGlGQjZPY0NPT1lyR0FnaDh2TElMejlEbmdjSG4xRlk1TmdtWEgyTnV5RXBrRER0X3pkTUNsb0p5NWNaMFN3QzRoOU90empFRUFPc01hanhOTG1RVmNn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-31/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "MRSA",
+          "definition_es": "bacteria resistente a antibióticos comunes",
+          "definition_en": "MRSA - methicillin-resistant Staphylococcus aureus"
+        },
+        {
+          "word": "sepsis",
+          "definition_es": "respuesta grave del cuerpo a una infección",
+          "definition_en": "sepsis - severe body response to infection"
+        },
+        {
+          "word": "sitio quirúrgico",
+          "definition_es": "área del cuerpo donde se realizó la operación",
+          "definition_en": "surgical site - area of the body where surgery was performed"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that drains from a wound"
+        }
+      ],
+      "added_at": "2026-03-31T09:28:43.763063Z"
+    },
+    {
+      "id": "wound-research-20250331",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "blue",
+      "headline_es": "Nuevas terapias revolucionan el tratamiento de heridas en dermatología",
+      "headline_en": "Emerging Therapies Transform Wound Treatment in Dermatology",
+      "summary_es": "Un análisis de AJMC examina cómo nuevas terapias e innovaciones están transformando el panorama del tratamiento en dermatología, incluyendo avances en cuidado de heridas.",
+      "body_es": "Una revisión publicada en AJMC analiza las nuevas terapias que están emergiendo en el tratamiento dermatológico. El panorama de la dermatología está evolucionando rápidamente con innovaciones tecnológicas y farmacológicas. Los tratamientos de heridas incluyen apósitos avanzados, factores de crecimiento y terapias biológicas revolucionarias. Estas innovaciones mejoran significativamente los resultados de cicatrización en heridas crónicas y agudas. Los investigadores están desarrollando nuevas opciones terapéuticas basadas en evidencia científica sólida. La ingeniería tisular y la medicina regenerativa ofrecen posibilidades prometedoras para restaurar la función de la piel. Los especialistas en heridas pueden ahora ofrecer tratamientos personalizados según las características específicas de cada úlcera. La colaboración entre investigadores clínicos y profesionales de atención permite la implementación rápida de nuevos tratamientos. Estos avances representan un cambio paradigmático en cómo abordamos la curación de heridas complejas.",
+      "body_en": "A review published in AJMC analyzes emerging therapies in dermatological treatment. The dermatology landscape is rapidly evolving with technological and pharmacological innovations. Wound treatments include advanced dressings, growth factors, and revolutionary biological therapies. These innovations significantly improve healing outcomes in chronic and acute wounds. Researchers are developing new therapeutic options based on solid scientific evidence. Tissue engineering and regenerative medicine offer promising possibilities for restoring skin function. Wound specialists can now offer personalized treatments based on the specific characteristics of each ulcer. Collaboration between clinical researchers and care professionals enables rapid implementation of new treatments. These advances represent a paradigm shift in how we approach complex wound healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ3ZyWkI3eG5Ic1ZMbF8tak5pSmNXUGNiWHRxSm94MWZsSGFPeFYyMEtJdlFFNy1XNG1BbHhTTzJHbkdQRVRXN1NhZmFYdnJ4a3R5Q3lRX01paWhHckVid1hJY2ItY0JxR2tmMjM3X0FZQjJTSE5LcmlxWXAxM2xMLUFfN18wMFllWmpFbFEyLTljTDhQUFpZNnFrcXlBeXM4dFZGNEdKb3hvZ29JT0Jsbw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-03-31/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito avanzado",
+          "definition_es": "material moderno para cubrir heridas con propiedades especiales",
+          "definition_en": "advanced dressing - modern material to cover wounds with special properties"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "proteína que estimula el crecimiento de tejido nuevo",
+          "definition_en": "growth factor - protein that stimulates new tissue growth"
+        },
+        {
+          "word": "medicina regenerativa",
+          "definition_es": "campo que busca restaurar función de tejidos dañados",
+          "definition_en": "regenerative medicine - field that seeks to restore function of damaged tissues"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - formation of new skin over a wound"
+        }
+      ],
+      "added_at": "2026-03-31T09:28:43.763063Z"
+    },
     {
       "id": "chronic-wounds-20260330",
       "category": "Chronic Wounds",
@@ -13469,6 +13654,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-30T09:36:08.609455Z",
+  "last_updated": "2026-03-31T09:28:43.763063Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
