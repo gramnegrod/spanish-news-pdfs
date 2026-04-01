@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-01",
+      "filename": "spanish_lesson_2026-04-01.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-01.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos vive el cierre de gobierno más largo de su historia",
+          "headline_en": "United States experiences the longest government shutdown in its history",
+          "body_es": "Estados Unidos experimentó el cierre parcial de gobierno más largo de su historia. Duró 35 días, desde diciembre de 2018 hasta enero de 2019. El problema comenzó cuando el Congreso no pudo aprobar el presupuesto federal. El presidente Donald Trump quería dinero para construir un muro en la frontera con México. Los demócratas se opusieron a esta propuesta. Durante el cierre, miles de empleados federales no recibieron su salario. Muchos servicios del gobierno se suspendieron. Los parques nacionales cerraron parcialmente. Finalmente, el gobierno reabrió temporalmente para negociar una solución. Este evento mostró las divisiones políticas profundas en Estados Unidos. El cierre afectó la economía del país negativamente.",
+          "body_en": "The United States experienced the longest partial government shutdown in its history. It lasted 35 days, from December 2018 to January 2019. The problem began when Congress could not approve the federal budget. President Donald Trump wanted money to build a wall on the border with Mexico. Democrats opposed this proposal. During the shutdown, thousands of federal employees did not receive their salary. Many government services were suspended. National parks partially closed. Finally, the government reopened temporarily to negotiate a solution. This event showed the deep political divisions in the United States. The shutdown negatively affected the country's economy.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La contratación en Estados Unidos cae a niveles mínimos de la pandemia",
+          "headline_en": "Hiring in the United States falls to pandemic low levels",
+          "body_es": "La contratación de nuevos empleados en Estados Unidos bajó a niveles muy preocupantes. Los números son similares a los peores momentos de la pandemia de COVID-19. Durante la presidencia de Trump, el mercado laboral mostró signos de estancamiento. Las empresas contrataron menos personas de lo esperado. Esta situación afecta especialmente a los trabajadores jóvenes y a las minorías. Muchos sectores como restaurantes, comercio y construcción reportaron menos ofertas de trabajo. Los expertos dicen que la economía está en una fase difícil. La inflación alta y las tasas de interés también influyen en este problema. Los políticos discuten qué medidas tomar para mejorar la situación. Miles de familias estadounidenses buscan trabajo pero encuentran pocas oportunidades.",
+          "body_en": "The hiring of new employees in the United States dropped to very concerning levels. The numbers are similar to the worst moments of the COVID-19 pandemic. During Trump's presidency, the job market showed signs of stagnation. Companies hired fewer people than expected. This situation especially affects young workers and minorities. Many sectors like restaurants, retail, and construction reported fewer job offers. Experts say the economy is in a difficult phase. High inflation and interest rates also influence this problem. Politicians discuss what measures to take to improve the situation. Thousands of American families look for work but find few opportunities.",
+          "source": "Al Jazeera"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Oracle, gigante tecnológico, realiza despidos significativos",
+          "headline_en": "Oracle, tech giant, makes significant layoffs",
+          "body_es": "Oracle, una de las empresas tecnológicas más grandes del mundo, anunció despidos importantes. La compañía eliminó muchos puestos de trabajo en diferentes departamentos. Oracle es famosa por sus bases de datos y software empresarial. La decisión afecta a empleados en Estados Unidos y otros países. Los despidos forman parte de una reorganización de la empresa. Oracle quiere reducir costos y enfocarse en nuevas tecnologías como la inteligencia artificial. Muchos trabajadores experimentados perdieron sus empleos. La compañía dijo que estos cambios son necesarios para competir en el mercado actual. Otros gigantes tecnológicos como Meta y Amazon también han hecho despidos recientemente. Esta tendencia preocupa a los trabajadores del sector tecnológico en todo el mundo.",
+          "body_en": "Oracle, one of the world's largest technology companies, announced significant layoffs. The company eliminated many jobs in different departments. Oracle is famous for its databases and enterprise software. The decision affects employees in the United States and other countries. The layoffs are part of a company reorganization. Oracle wants to reduce costs and focus on new technologies like artificial intelligence. Many experienced workers lost their jobs. The company said these changes are necessary to compete in the current market. Other tech giants like Meta and Amazon have also made layoffs recently. This trend worries workers in the technology sector worldwide.",
+          "source": "BBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno duró 35 días.",
+          "definition_es": "Acción de cerrar o suspender las actividades",
+          "definition_en": "Closure or shutdown"
+        },
+        {
+          "word": "contratación",
+          "syllables": "con-tra-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "La contratación de empleados bajó mucho durante la pandemia.",
+          "definition_es": "Proceso de dar trabajo a nuevas personas",
+          "definition_en": "Hiring"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Oracle anunció despidos significativos en la empresa.",
+          "definition_es": "Acción de quitar el trabajo a los empleados",
+          "definition_en": "Job cuts or layoffs"
+        },
+        {
+          "word": "empleado",
+          "syllables": "em-ple-A-do",
+          "pos": "sustantivo",
+          "context": "Miles de empleados federales no recibieron salario.",
+          "definition_es": "Persona que trabaja para una empresa o institución",
+          "definition_en": "Employee"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral estadounidense está en dificultades.",
+          "definition_es": "Sistema donde se ofrecen y buscan trabajos",
+          "definition_en": "Job market"
+        },
+        {
+          "word": "pandemia",
+          "syllables": "pan-DE-mia",
+          "pos": "sustantivo",
+          "context": "Los niveles de empleo cayeron a mínimos de la pandemia.",
+          "definition_es": "Enfermedad que afecta a todo el mundo",
+          "definition_en": "Pandemic"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El Congreso no aprobó el presupuesto federal.",
+          "definition_es": "Plan de gastos del gobierno o una empresa",
+          "definition_en": "Budget"
+        },
+        {
+          "word": "gigante tecnológico",
+          "syllables": "gi-GAN-te tec-no-LÓ-gi-co",
+          "pos": "sustantivo",
+          "context": "Oracle es un gigante tecnológico muy importante.",
+          "definition_es": "Empresa muy grande del sector de tecnología",
+          "definition_en": "Tech giant"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'cierre' en el contexto del gobierno?",
+          "options": [
+            "Abrir nuevas oficinas",
+            "Suspender las actividades",
+            "Contratar empleados",
+            "Aumentar el presupuesto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'contratación'?",
+          "options": [
+            "Despidos",
+            "Empleo de nuevas personas",
+            "Cierre de empresas",
+            "Reducción de salarios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'gigante tecnológico'?",
+          "options": [
+            "Un robot muy grande",
+            "Una empresa pequeña de tecnología",
+            "Una compañía muy grande del sector tecnológico",
+            "Un programa de computadora"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Los 'despidos' se refieren a:",
+          "options": [
+            "Contratar nuevos empleados",
+            "Quitar el trabajo a los empleados",
+            "Aumentar salarios",
+            "Abrir nuevas oficinas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto tiempo duró el cierre de gobierno mencionado en la primera historia?",
+          "options": [
+            "25 días",
+            "30 días",
+            "35 días",
+            "40 días"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué razón principal ocurrió el cierre del gobierno?",
+          "options": [
+            "Una huelga de empleados",
+            "Falta de presupuesto aprobado",
+            "Un desastre natural",
+            "Problemas técnicos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la segunda historia, ¿a qué niveles cayó la contratación?",
+          "options": [
+            "Niveles normales",
+            "Niveles altos",
+            "Niveles de la pandemia",
+            "Niveles históricos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores reportaron menos ofertas de trabajo?",
+          "options": [
+            "Tecnología y medicina",
+            "Restaurantes, comercio y construcción",
+            "Educación y gobierno",
+            "Agricultura y pesca"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿En qué tecnologías quiere enfocarse Oracle después de los despidos?",
+          "options": [
+            "Bases de datos tradicionales",
+            "Inteligencia artificial",
+            "Redes sociales",
+            "Videojuegos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué otras empresas también han hecho despidos según la historia de Oracle?",
+          "options": [
+            "Apple y Google",
+            "Meta y Amazon",
+            "Microsoft y IBM",
+            "Tesla y Netflix"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-01T09:23:13.808368"
+    },
+    {
       "date": "2026-03-31",
       "filename": "spanish_lesson_2026-03-31.pdf",
       "path": "pdfs/spanish_lesson_2026-03-31.pdf",
@@ -25334,7 +25556,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-03-31T09:21:07.025753",
+  "last_updated": "2026-04-01T09:23:13.808390",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
