@@ -1,11 +1,122 @@
 {
-  "date": "2026-03-31",
-  "generated_at": "2026-03-31T09:28:43.763063Z",
+  "date": "2026-04-01",
+  "generated_at": "2026-04-01T09:30:23.861147Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 369,
-  "new_today": 5,
+  "total_stories": 372,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250401",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo tratamiento muestra resultados positivos para úlceras diabéticas",
+      "headline_en": "New treatment shows positive results for diabetic ulcers",
+      "summary_es": "Un estudio clínico reciente demuestra que un nuevo tratamiento es efectivo para curar úlceras del pie diabético. Los resultados son prometedores para los pacientes con esta complicación grave.",
+      "body_es": "La empresa Aroa Biosurgery ha completado un ensayo clínico importante. El estudio se llama Symphony RCT. El tratamiento es para úlceras del pie diabético. Estos son problemas graves en pacientes con diabetes. El nuevo tratamiento alcanzó su objetivo principal en el estudio. Los resultados son positivos. Los pacientes con diabetes sufren úlceras en los pies. Estas heridas son difíciles de curar. El tratamiento nuevo ofrece esperanza. Los enfermeros pueden usar esta información. Mejora la atención a los pacientes diabéticos. Este avance es importante para la medicina moderna.",
+      "body_en": "Aroa Biosurgery has completed an important clinical trial. The study is called Symphony RCT. The treatment is for diabetic foot ulcers. These are serious problems in diabetic patients. The new treatment achieved its main goal in the study. The results are positive. Patients with diabetes suffer from foot ulcers. These wounds are difficult to heal. The new treatment offers hope. Nurses can use this information. It improves care for diabetic patients. This advance is important for modern medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNHBzeGVDdUZoQUxMblBSUS13N1d6UVRqaXQzOHp5Y3RCcXFrMzRpX3RfLXpTazVaUTYwNlpuRF9yRlE3SEl0UWg4VjZEZGQ3MGNzRFFUdGZ0U3BrMmU2d0thUnd5WGZLQUZ5YTVId2xTbXQxci1TWDVROTh0TWRCTFVJMGFsLXNpSVVmS2lac0lLZ0JQZ0xFcFlLZkpqTEZ5QlhWQUllTF9BSFJTQ01HMTlTUk9SZTk5MWJVMmVMMVRhSkpEbVBhOVZjcjh2NW9zbWh2ZnpvSmJzU1o0cUFB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-01/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cierra fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not close easily"
+        },
+        {
+          "word": "diabético/a",
+          "definition_es": "persona con diabetes, enfermedad del azúcar en sangre",
+          "definition_en": "diabetic - person with diabetes, blood sugar disease"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método médico para curar una enfermedad",
+          "definition_en": "treatment - medical method to cure a disease"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida o enfermedad",
+          "definition_en": "healing - process of recovering from wound or illness"
+        }
+      ],
+      "added_at": "2026-04-01T09:30:23.861147Z"
+    },
+    {
+      "id": "surgical-wounds-20250401",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Ácido hialurónico tópico mejora cicatrización y reduce dolor en heridas quirúrgicas",
+      "headline_en": "Topical hyaluronic acid improves healing and reduces pain in surgical wounds",
+      "summary_es": "Un ensayo controlado aleatorio demuestra que el ácido hialurónico aplicado tópicamente acelera la cicatrización de heridas quirúrgicas y disminuye el dolor postoperatorio en pacientes sometidos a frenectomía.",
+      "body_es": "Un estudio reciente publicado en Cureus evaluó los efectos del ácido hialurónico tópico en heridas quirúrgicas. El ensayo incluyó pacientes que se sometieron a frenectomía por electrocauterio. Los investigadores compararon dos grupos: uno recibió ácido hialurónico y el otro recibió un tratamiento estándar. Los resultados demostraron que el ácido hialurónico aceleró significativamente la cicatrización de las heridas. Los pacientes que utilizaron este tratamiento experimentaron menos dolor postoperatorio. La epitelización ocurrió más rápidamente en el grupo tratado. Este hallazgo es relevante para los profesionales de cuidado de heridas. El ácido hialurónico es una opción efectiva para mejorar los resultados de la cicatrización.",
+      "body_en": "A recent study published in Cureus evaluated the effects of topical hyaluronic acid on surgical wounds. The trial included patients who underwent electrocautery frenectomy. Researchers compared two groups: one received hyaluronic acid and the other received standard treatment. The results demonstrated that hyaluronic acid significantly accelerated wound healing. Patients using this treatment experienced less postoperative pain. Epithelialization occurred more rapidly in the treated group. This finding is relevant for wound care professionals. Hyaluronic acid is an effective option to improve healing outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdmg4YXl0ckJlcFB6dlZqZUdWQUJFUjFocnowSFl1QVp1aF90OUE1dTAzRldybVpUZHdSdUJKX3p4S0FteXYxb3lJX282d3hxRW1Nb1lFamJaaU9udnFmQ0FuQ3kyVlZ6VHYzSHdFVDlTenU3QURBSEg1TW1jSmJrSlhwVlF2ZnBwamtYTHhHN1pGaTk1LWdLNmxaaDN4ajVzbjdpSF9VX2MwOEhXWE9Sb0Nua2N5bXZKanBfWWJBN1VncWNoZjFWWUpoQmFXTmxvQ2Exc0dJa0haMVQ1UEdHUVl6MGNCTjFVb3c2b1pWV3JlNVl1U1lz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-01/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "ácido hialurónico",
+          "definition_es": "sustancia que hidrata y acelera la cicatrización de heridas",
+          "definition_en": "hyaluronic acid - substance that hydrates and accelerates wound healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nuevas células de piel en la herida",
+          "definition_en": "epithelialization - process of new skin cell formation in wound"
+        },
+        {
+          "word": "postoperatorio/a",
+          "definition_es": "período después de una operación quirúrgica",
+          "definition_en": "postoperative - period after surgical operation"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y curación de una herida",
+          "definition_en": "healing/scarring - process of wound closure and recovery"
+        }
+      ],
+      "added_at": "2026-04-01T09:30:23.861147Z"
+    },
+    {
+      "id": "wound-research-20250401",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Ensayo clínico Tigris evalúa terapia innovadora para el shock séptico endotóxico",
+      "headline_en": "Tigris clinical trial evaluates innovative therapy for endotoxic septic shock",
+      "summary_es": "El ensayo Tigris de la Universidad de Alabama en Birmingham ha completado la evaluación de una nueva terapia para el shock séptico endotóxico, una condición crítica que requiere intervención médica inmediata.",
+      "body_es": "El ensayo Tigris realizado por investigadores de la Universidad de Alabama en Birmingham ha evaluado una terapia novedosa para el tratamiento del shock séptico endotóxico. Esta es una condición crítica que afecta a pacientes gravemente enfermos en unidades de cuidados intensivos. El shock séptico es una respuesta inflamatoria severa del cuerpo a la infección. El ensayo investigó la efectividad de una nueva estrategia terapéutica. Los resultados de este estudio contribuyen al conocimiento de los tratamientos para infecciones graves. Los profesionales de enfermería pueden utilizar estos hallazgos para mejorar la atención a pacientes sépticos. La investigación clínica continúa avanzando en soluciones para condiciones potencialmente mortales.",
+      "body_en": "The Tigris trial conducted by researchers at the University of Alabama in Birmingham evaluated a novel therapy for treating endotoxic septic shock. This is a critical condition affecting severely ill patients in intensive care units. Septic shock is a severe inflammatory response of the body to infection. The trial investigated the effectiveness of a new therapeutic strategy. The results of this study contribute to knowledge of treatments for severe infections. Nursing professionals can use these findings to improve care for septic patients. Clinical research continues advancing solutions for potentially fatal conditions.",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWk0dXdQcjZOZjIwN2Z2V3hlblVydDJNNHU4SWxDYVQtTDNoZ2Fsd0RreURmSWpzRl9wc0hXcjZLa0Zmb3AybEFKX3hEZ3pnX2lzOEQ5QkRSVGljeW1oZFFOUGVqTXRrYnM3T0ZVQ1RJdnBDTDI1cExzYzRZRHVEV0UwVUpMOThFSXV0Q2Q5ZXBLMjh5Slc2VllLek85UlQwdEt4OGFjY09yMF8zdHRlczFsZzA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-01/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "shock séptico",
+          "definition_es": "estado de insuficiencia circulatoria causado por infección grave",
+          "definition_en": "septic shock - circulatory failure state caused by severe infection"
+        },
+        {
+          "word": "endotóxico/a",
+          "definition_es": "relacionado con toxinas producidas por bacterias",
+          "definition_en": "endotoxic - related to toxins produced by bacteria"
+        },
+        {
+          "word": "terapia",
+          "definition_es": "tratamiento de una enfermedad o condición médica",
+          "definition_en": "therapy - treatment of a disease or medical condition"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos patógenos en el cuerpo",
+          "definition_en": "infection - invasion of pathogenic microorganisms in body"
+        }
+      ],
+      "added_at": "2026-04-01T09:30:23.861147Z"
+    },
     {
       "id": "chronic-wounds-20250331",
       "category": "Chronic Wounds",
@@ -13654,6 +13765,6 @@
       ]
     }
   ],
-  "last_updated": "2026-03-31T09:28:43.763063Z",
+  "last_updated": "2026-04-01T09:30:23.861147Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
