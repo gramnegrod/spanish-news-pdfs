@@ -1,11 +1,85 @@
 {
-  "date": "2026-04-01",
-  "generated_at": "2026-04-01T09:30:23.861147Z",
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T09:43:38.254405Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 372,
-  "new_today": 3,
+  "total_stories": 374,
+  "new_today": 2,
   "stories": [
+    {
+      "id": "chronic-wounds-20250402",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Centro de Heridas gana premio nacional por excelencia en curación",
+      "headline_en": "Wound Care Center Wins National Award for Excellence in Healing",
+      "summary_es": "El Centro de Curación de Heridas en Wellington Regional Medical Center recibe un reconocimiento nacional importante. Este premio destaca su trabajo excepcional en el cuidado de heridas crónicas y medicina hiperbárica.",
+      "body_es": "El Centro de Curación de Heridas y Medicina Hiperbárica del Wellington Regional Medical Center recibió un premio nacional de excelencia. Este reconocimiento es muy importante para los especialistas en heridas. El centro trata úlceras crónicas y heridas difíciles. Los pacientes reciben cuidados modernos y especializados. El equipo médico usa técnicas avanzadas de curación. La medicina hiperbárica es un tratamiento efectivo para muchas heridas. El premio muestra la calidad del trabajo en el centro. Los profesionales de enfermería y médicos trabajan juntos. Este éxito es importante para la comunidad de salud.",
+      "body_en": "The Center for Wound Care and Hyperbaric Medicine at Wellington Regional Medical Center received a national award for excellence. This recognition is very important for wound care specialists. The center treats chronic ulcers and difficult wounds. Patients receive modern and specialized care. The medical team uses advanced healing techniques. Hyperbaric medicine is an effective treatment for many wounds. The award shows the quality of work at the center. Nursing professionals and doctors work together. This success is important for the healthcare community.",
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPUzA1VnJzZkdlbVhRNnI1WHBxZEhxb0RlWURuVlRUdWRSQWQ5MDJSZkl3TmVCaGlCeDEtN1liZlZSUFBubmdTZ0JPUHVZdm1uTF9KMWNGTlRnQ0huT0s0blpVRkE3dHpRT2gwNFN2VHRDNGkzSTQ3QzM5d3R0SWZ0TkxVWkxFb2dLaGp5U3BfUnp3QVZCTHJjNGltWDd1TmdSQ093SW84WHJ1VXlCd2lBR3BLRE5Gc3psQ0FLN1dqdEpPOXZmVW9RVjM1d1NubVlGTEZWNmJNazktSm5rRTNQYWEzUVdXdkFkamduWi16MkR4ZHdGSS1qMFcyM2R3UklpcFhyTzBVQlNGaHZKSHR0ZnVB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-02/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión abierta en la piel o tejido del cuerpo",
+          "definition_en": "wound - open injury to the skin or body tissue"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida profunda que no cicatriza rápidamente",
+          "definition_en": "ulcer - deep wound that does not heal quickly"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y recuperación de una herida",
+          "definition_en": "healing - process of scarring and wound recovery"
+        },
+        {
+          "word": "medicina hiperbárica",
+          "definition_es": "tratamiento con oxígeno a presión alta en una cámara especial",
+          "definition_en": "hyperbaric medicine - treatment with high-pressure oxygen in a special chamber"
+        }
+      ],
+      "added_at": "2026-04-02T09:43:38.254405Z"
+    },
+    {
+      "id": "surgical-wounds-20250402",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "El ácido hialurónico reduce el dolor en heridas quirúrgicas después de frenectomía",
+      "headline_en": "Hyaluronic Acid Reduces Pain in Surgical Wounds After Frenectomy",
+      "summary_es": "Un estudio controlado aleatorio demuestra que el ácido hialurónico tópico acelera la cicatrización y disminuye el dolor postoperatorio en heridas de frenectomía por electrocauterio. Este tratamiento es prometedor para mejorar la recuperación del paciente.",
+      "body_es": "Un ensayo clínico aleatorio publicado en Cureus evaluó el efecto del ácido hialurónico tópico en la curación de heridas quirúrgicas. Los investigadores estudiaron pacientes sometidos a frenectomía con electrocauterio, un procedimiento común en odontología. Los resultados demostraron que el ácido hialurónico redujo significativamente el dolor postoperatorio en comparación con el grupo de control. Además, se observó una cicatrización más rápida y una mejor epitelización de las heridas tratadas con esta sustancia. El ácido hialurónico promueve la granulación tisular y reduce la inflamación local. Estos hallazgos sugieren que el tratamiento tópico con ácido hialurónico es efectivo para mejorar la recuperación después de procedimientos quirúrgicos menores. Los profesionales de enfermería pueden aplicar este apósito facilmente en el consultorio.",
+      "body_en": "A randomized clinical trial published in Cureus evaluated the effect of topical hyaluronic acid on surgical wound healing. Researchers studied patients undergoing frenectomy with electrocautery, a common dental procedure. The results showed that hyaluronic acid significantly reduced postoperative pain compared to the control group. Additionally, faster healing and better epithelialization of wounds treated with this substance were observed. Hyaluronic acid promotes tissue granulation and reduces local inflammation. These findings suggest that topical hyaluronic acid treatment is effective for improving recovery after minor surgical procedures. Nursing professionals can easily apply this dressing in the office.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdmg4YXl0ckJlcFB6dlZqZUdWQUJFUjFocnowSFl1QVp1aF90OUE1dTAzRldybVpUZHdSdUJKX3p4S0FteXYxb3lJX282d3hxRW1Nb1lFamJaaU9udnFmQ0FuQ3kyVlZ6VHYzSHdFVDlTenU3QURBSEg1TW1jSmJrSlhwVlF2ZnBwamtYTHhHN1pGaTk1LWdLNmxaaDN4ajVzbjdpSF9VX2MwOEhXWE9Sb0Nua2N5bXZKanBfWWJBN1VncWNoZjFWWUpoQmFXTmxvQ2Exc0dJa0haMVQ1UEdHUVl6MGNCTjFVb3c2b1pWV3JlNVl1U1lz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-02/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "ácido hialurónico",
+          "definition_es": "sustancia natural que retiene agua y promueve la cicatrización",
+          "definition_en": "hyaluronic acid - natural substance that retains water and promotes healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva capa de piel sobre una herida",
+          "definition_en": "epithelialization - formation of new skin layer over a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "crecimiento de tejido nuevo rosado en una herida durante la curación",
+          "definition_en": "granulation - growth of new pink tissue in a wound during healing"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se coloca sobre una herida para protegerla y curarla",
+          "definition_en": "dressing - material placed over a wound to protect and heal it"
+        }
+      ],
+      "added_at": "2026-04-02T09:43:38.254405Z"
+    },
     {
       "id": "chronic-wounds-20250401",
       "category": "Chronic Wounds",
@@ -13765,6 +13839,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-01T09:30:23.861147Z",
+  "last_updated": "2026-04-02T09:43:38.254405Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
