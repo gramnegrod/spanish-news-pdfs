@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-02",
+      "filename": "spanish_lesson_2026-04-02.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-02.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Congresista Ocasio-Cortez se opone a ayuda militar para Israel",
+          "headline_en": "Congresswoman Ocasio-Cortez opposes military aid to Israel",
+          "body_es": "La congresista Alexandria Ocasio-Cortez anunció que se va a oponer a toda la ayuda militar de Estados Unidos para Israel. Esta decisión es muy importante en la política estadounidense. Ocasio-Cortez representa el estado de Nueva York en el Congreso. Muchos políticos están hablando de este tema. La ayuda militar entre países es un asunto complicado. Estados Unidos da ayuda militar a varios países del mundo. Algunos políticos están de acuerdo con Ocasio-Cortez, pero otros no. Esta noticia muestra las diferentes opiniones que existen en el Congreso americano sobre la política internacional.",
+          "body_en": "Congresswoman Alexandria Ocasio-Cortez announced that she will oppose all U.S. military aid to Israel. This decision is very important in American politics. Ocasio-Cortez represents New York state in Congress. Many politicians are talking about this topic. Military aid between countries is a complicated matter. The United States gives military aid to several countries around the world. Some politicians agree with Ocasio-Cortez, but others don't. This news shows the different opinions that exist in the American Congress about international politics.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La caída de la bolsa puede dañar más la economía que los precios altos de gasolina",
+          "headline_en": "Stock market fall may hurt economy more than high gas prices",
+          "body_es": "Los expertos en economía están preocupados por la bolsa de valores. Dicen que cuando la bolsa baja mucho, puede ser peor para la economía que los precios altos de la gasolina. Muchas personas piensan que la gasolina cara es el problema más grande. Sin embargo, los economistas explican que la bolsa de valores afecta a más personas. Cuando las acciones bajan, las personas pierden dinero de sus ahorros. También las empresas tienen más dificultades para conseguir dinero. Los precios altos de gasolina son un problema, pero la bolsa de valores es más importante para la economía total del país.",
+          "body_en": "Economics experts are worried about the stock market. They say that when the stock market falls a lot, it can be worse for the economy than high gas prices. Many people think that expensive gas is the biggest problem. However, economists explain that the stock market affects more people. When stocks go down, people lose money from their savings. Companies also have more difficulty getting money. High gas prices are a problem, but the stock market is more important for the country's overall economy.",
+          "source": "MarketWatch"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Hermanos usan inteligencia artificial para crear empresa de $1.8 mil millones",
+          "headline_en": "Brothers use artificial intelligence to create $1.8 billion company",
+          "body_es": "Dos hermanos usaron la inteligencia artificial para construir una empresa muy exitosa. Su compañía ahora vale 1.8 mil millones de dólares. La inteligencia artificial los ayudó a resolver problemas difíciles en su negocio. Esta tecnología puede hacer muchas tareas que antes solo hacían las personas. Los hermanos empezaron su empresa hace pocos años. Al principio era muy pequeña, pero creció rápidamente. Muchos empresarios están usando inteligencia artificial para mejorar sus negocios. Esta historia muestra cómo la tecnología moderna puede ayudar a crear empresas muy valiosas. La inteligencia artificial está cambiando el mundo de los negocios.",
+          "body_en": "Two brothers used artificial intelligence to build a very successful company. Their company is now worth 1.8 billion dollars. Artificial intelligence helped them solve difficult problems in their business. This technology can do many tasks that previously only people could do. The brothers started their company a few years ago. At first it was very small, but it grew quickly. Many entrepreneurs are using artificial intelligence to improve their businesses. This story shows how modern technology can help create very valuable companies. Artificial intelligence is changing the business world.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "ayuda militar",
+          "syllables": "a-YU-da mi-li-TAR",
+          "pos": "sustantivo",
+          "context": "La congresista se opone a la ayuda militar de Estados Unidos.",
+          "definition_es": "Apoyo con armas y equipos de guerra que da un país a otro",
+          "definition_en": "Military assistance and weapons support given by one country to another"
+        },
+        {
+          "word": "oponerse",
+          "syllables": "o-po-NER-se",
+          "pos": "verbo",
+          "context": "Ocasio-Cortez dice que se va a oponer a toda la ayuda militar.",
+          "definition_es": "Estar en contra de algo, no estar de acuerdo",
+          "definition_en": "To oppose, to be against something"
+        },
+        {
+          "word": "bolsa de valores",
+          "syllables": "BOL-sa de va-LO-res",
+          "pos": "sustantivo",
+          "context": "La bolsa de valores está bajando mucho este mes.",
+          "definition_es": "Mercado donde se compran y venden acciones de empresas",
+          "definition_en": "Stock market where company shares are bought and sold"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "Los expertos dicen que la economía puede tener problemas.",
+          "definition_es": "Sistema de dinero, trabajo y comercio de un país",
+          "definition_en": "The economic system of money, jobs and trade in a country"
+        },
+        {
+          "word": "gasolina",
+          "syllables": "ga-so-LI-na",
+          "pos": "sustantivo",
+          "context": "Los precios altos de la gasolina preocupan a las familias.",
+          "definition_es": "Combustible líquido que usan los coches",
+          "definition_en": "Liquid fuel used by cars"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial ayudó a crear una empresa muy exitosa.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Los hermanos construyeron una empresa de 1.8 mil millones de dólares.",
+          "definition_es": "Organización que hace negocios para ganar dinero",
+          "definition_en": "A business organization that operates to make money"
+        },
+        {
+          "word": "construir",
+          "syllables": "cons-tru-IR",
+          "pos": "verbo",
+          "context": "Dos hermanos lograron construir una compañía muy valiosa.",
+          "definition_es": "Crear o hacer algo nuevo, como un edificio o negocio",
+          "definition_en": "To build or create something new"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'oponerse'?",
+          "options": [
+            "Estar de acuerdo",
+            "Estar en contra",
+            "Estar contento",
+            "Estar preocupado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'bolsa de valores'?",
+          "options": [
+            "Un tipo de bolsa para comprar",
+            "Un mercado para acciones",
+            "Una tienda de ropa",
+            "Un banco"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué combustible usan los coches?",
+          "options": [
+            "Agua",
+            "Gasolina",
+            "Leche",
+            "Aceite de cocina"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué permite hacer la inteligencia artificial?",
+          "options": [
+            "Cocinar mejor",
+            "Que las máquinas piensen como humanos",
+            "Viajar más rápido",
+            "Dormir mejor"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿A qué se opone Ocasio-Cortez según la historia política?",
+          "options": [
+            "A los impuestos altos",
+            "A la ayuda militar para Israel",
+            "A los precios de gasolina",
+            "A la inteligencia artificial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según los expertos, ¿qué puede dañar más la economía?",
+          "options": [
+            "Los precios altos de gasolina",
+            "La caída de la bolsa",
+            "Las nuevas empresas",
+            "La inteligencia artificial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto vale la empresa de los hermanos?",
+          "options": [
+            "1.8 millones de dólares",
+            "1.8 mil millones de dólares",
+            "18 millones de dólares",
+            "180 mil dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué estado representa Ocasio-Cortez?",
+          "options": [
+            "California",
+            "Texas",
+            "Nueva York",
+            "Florida"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué pasa cuando las acciones bajan según la historia económica?",
+          "options": [
+            "Las personas ganan dinero",
+            "Las personas pierden dinero de sus ahorros",
+            "La gasolina baja de precio",
+            "Las empresas crecen"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cómo empezó la empresa de los hermanos?",
+          "options": [
+            "Era muy grande",
+            "Era muy pequeña",
+            "Era mediana",
+            "No se sabe"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-02T09:19:30.195883"
+    },
+    {
       "date": "2026-04-01",
       "filename": "spanish_lesson_2026-04-01.pdf",
       "path": "pdfs/spanish_lesson_2026-04-01.pdf",
@@ -25556,7 +25778,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-01T09:23:13.808390",
+  "last_updated": "2026-04-02T09:19:30.195901",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
