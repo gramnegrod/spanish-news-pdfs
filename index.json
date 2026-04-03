@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-03",
+      "filename": "spanish_lesson_2026-04-03.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-03.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Juez Detiene Construcción de Salón de Baile en la Casa Blanca",
+          "headline_en": "Judge Halts White House Ballroom Construction",
+          "body_es": "Un juez federal detuvo la construcción de un nuevo salón de baile en la Casa Blanca. El proyecto costaba varios millones de dólares. El tribunal dijo que la construcción no siguió las reglas correctas. La Casa Blanca quería usar el salón para eventos oficiales y cenas importantes. Los abogados del gobierno dijeron que van a apelar la decisión. El juez explicó que primero deben revisar todos los documentos. La construcción comenzó hace seis meses. Muchos trabajadores ahora deben parar su trabajo. El salón iba a estar listo el próximo año. Esta decisión puede retrasar el proyecto por varios meses más.",
+          "body_en": "A federal judge halted the construction of a new ballroom at the White House. The project cost several million dollars. The court said the construction didn't follow the correct rules. The White House wanted to use the ballroom for official events and important dinners. Government lawyers said they will appeal the decision. The judge explained that they must first review all documents. Construction began six months ago. Many workers now must stop their work. The ballroom was going to be ready next year. This decision may delay the project for several more months.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Las Acciones se Recuperan y el Petróleo Sube a 110 Dólares",
+          "headline_en": "Stocks Recover and Oil Rises to $110",
+          "body_es": "Las acciones estadounidenses tuvieron un día difícil pero terminaron bien. Por la mañana, los mercados bajaron mucho. Los inversores estaban preocupados por la inflación. Pero durante la tarde, las acciones subieron otra vez. Al final de la semana, los mercados ganaron dinero. El petróleo estadounidense ahora cuesta más de 110 dólares por barril. Este precio es muy alto comparado con el año pasado. Los expertos dicen que el petróleo sube por problemas internacionales. Las empresas de energía ganaron mucho dinero hoy. Los bancos también tuvieron buenos resultados. Muchos analistas piensan que la economía está mejorando lentamente.",
+          "body_en": "US stocks had a difficult day but ended well. In the morning, markets fell a lot. Investors were worried about inflation. But during the afternoon, stocks rose again. At the end of the week, markets made money. US oil now costs more than $110 per barrel. This price is very high compared to last year. Experts say oil rises due to international problems. Energy companies made a lot of money today. Banks also had good results. Many analysts think the economy is slowly improving.",
+          "source": "Audacy"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "OpenAI Compra Programa de TV para Mejorar Imagen de la IA",
+          "headline_en": "OpenAI Buys TV Show to Improve AI Image",
+          "body_es": "La empresa OpenAI compró un programa de televisión llamado 'TBPN'. La compañía quiere cambiar la opinión de la gente sobre la inteligencia artificial. Muchas personas tienen miedo de la tecnología AI. El programa va a mostrar los beneficios de la inteligencia artificial. OpenAI es la empresa que creó ChatGPT. Esta es la primera vez que compran contenido de entretenimiento. El programa se va a transmitir en plataformas digitales. Los ejecutivos de OpenAI dijeron que la educación es muy importante. Quieren que la gente entienda mejor su tecnología. El show va a explicar cómo la AI puede ayudar en la vida diaria. Esta estrategia es nueva en la industria tecnológica.",
+          "body_en": "OpenAI company bought a television show called 'TBPN'. The company wants to change people's opinion about artificial intelligence. Many people are afraid of AI technology. The show will display the benefits of artificial intelligence. OpenAI is the company that created ChatGPT. This is the first time they buy entertainment content. The program will be broadcast on digital platforms. OpenAI executives said that education is very important. They want people to better understand their technology. The show will explain how AI can help in daily life. This strategy is new in the technology industry.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "juez",
+          "syllables": "JUEZ",
+          "pos": "sustantivo",
+          "context": "Un juez detuvo la construcción del salón de baile en la Casa Blanca.",
+          "definition_es": "Persona que decide sobre asuntos legales en un tribunal",
+          "definition_en": "Judge - person who decides legal matters in court"
+        },
+        {
+          "word": "detener",
+          "syllables": "de-te-NER",
+          "pos": "verbo",
+          "context": "El tribunal decidió detener el proyecto de construcción.",
+          "definition_es": "Parar o suspender algo temporalmente",
+          "definition_en": "To halt or stop something temporarily"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones subieron después de bajar por la mañana.",
+          "definition_es": "Partes de una empresa que se pueden comprar y vender",
+          "definition_en": "Stocks - shares of a company that can be bought and sold"
+        },
+        {
+          "word": "recuperarse",
+          "syllables": "re-cu-pe-RAR-se",
+          "pos": "verbo",
+          "context": "Los mercados lograron recuperarse de las pérdidas iniciales.",
+          "definition_es": "Volver a estar bien después de un problema",
+          "definition_en": "To recover - to get better after a problem"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo estadounidense superó los 110 dólares.",
+          "definition_es": "Líquido natural que se usa para hacer gasolina y energía",
+          "definition_en": "Oil - natural liquid used to make gasoline and energy"
+        },
+        {
+          "word": "comprar",
+          "syllables": "com-PRAR",
+          "pos": "verbo",
+          "context": "OpenAI decidió comprar un programa de televisión.",
+          "definition_es": "Pagar dinero para obtener algo",
+          "definition_en": "To buy - to pay money to get something"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La empresa quiere cambiar la opinión sobre la inteligencia artificial.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence - technology that allows machines to think like humans"
+        },
+        {
+          "word": "narrativa",
+          "syllables": "na-rra-TI-va",
+          "pos": "sustantivo",
+          "context": "OpenAI quiere cambiar la narrativa sobre su tecnología.",
+          "definition_es": "La forma de contar o explicar una historia",
+          "definition_en": "Narrative - the way of telling or explaining a story"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'juez'?",
+          "options": [
+            "Una persona que construye edificios",
+            "Una persona que decide asuntos legales",
+            "Una persona que vende acciones",
+            "Una persona que hace programas de TV"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'recuperarse'?",
+          "options": [
+            "Comprar algo nuevo",
+            "Volver a estar bien después de un problema",
+            "Detener una construcción",
+            "Subir los precios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en economía?",
+          "options": [
+            "Movimientos del cuerpo",
+            "Partes de una empresa que se pueden comprar",
+            "Tipos de petróleo",
+            "Programas de televisión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inteligencia artificial'?",
+          "options": [
+            "Un tipo de petróleo",
+            "Tecnología que permite a las máquinas pensar como humanos",
+            "Un programa de televisión",
+            "Un salón de baile"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué detuvo el juez la construcción en la Casa Blanca?",
+          "options": [
+            "Porque costaba mucho dinero",
+            "Porque no siguió las reglas correctas",
+            "Porque los trabajadores no querían trabajar",
+            "Porque el salón era muy pequeño"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto cuesta ahora el petróleo estadounidense?",
+          "options": [
+            "Menos de 100 dólares",
+            "Exactamente 100 dólares",
+            "Más de 110 dólares",
+            "50 dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cómo terminaron las acciones al final de la semana?",
+          "options": [
+            "Bajaron mucho",
+            "Se mantuvieron igual",
+            "Ganaron dinero",
+            "Perdieron todo su valor"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama el programa que compró OpenAI?",
+          "options": [
+            "ChatGPT",
+            "TBPN",
+            "OpenAI Show",
+            "AI News"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué OpenAI compró un programa de televisión?",
+          "options": [
+            "Para ganar dinero",
+            "Para competir con otras empresas",
+            "Para cambiar la opinión sobre la IA",
+            "Para entrenar sus empleados"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuándo iba a estar listo el salón de baile de la Casa Blanca?",
+          "options": [
+            "Este año",
+            "El próximo año",
+            "En dos años",
+            "Ya está listo"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-03T09:16:41.955957"
+    },
+    {
       "date": "2026-04-02",
       "filename": "spanish_lesson_2026-04-02.pdf",
       "path": "pdfs/spanish_lesson_2026-04-02.pdf",
@@ -25778,7 +26000,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-02T09:19:30.195901",
+  "last_updated": "2026-04-03T09:16:41.955981",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
