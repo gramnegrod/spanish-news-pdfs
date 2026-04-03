@@ -1,11 +1,159 @@
 {
-  "date": "2026-04-02",
-  "generated_at": "2026-04-02T09:43:38.254405Z",
+  "date": "2026-04-03",
+  "generated_at": "2026-04-03T09:23:23.465926Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 374,
-  "new_today": 2,
+  "total_stories": 378,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250403",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Probióticos de Soja Mejoran la Curación de Úlceras del Pie Diabético",
+      "headline_en": "Soybean-Based Probiotics Improve Healing of Diabetic Foot Ulcers",
+      "summary_es": "Un nuevo tratamiento con probióticos basados en soja muestra resultados prometedores en la curación de úlceras del pie en pacientes diabéticos. Este método tópico acelera el proceso de cicatrización.",
+      "body_es": "Los investigadores descubrieron que los probióticos de soja aplicados directamente en las úlceras del pie diabético mejoran la curación. El tratamiento tópico funciona estimulando la regeneración del tejido dañado. Los pacientes con diabetes tipo 2 sufren úlceras en el pie con frecuencia. Estas heridas son difíciles de curar y pueden causar complicaciones serias. El nuevo tratamiento probiótico es seguro y fácil de usar. Los médicos aplican el producto directamente sobre la úlcera. El proceso de cicatrización es más rápido con este método. Los estudios muestran buenos resultados en pacientes diabéticos.",
+      "body_en": "Researchers discovered that soybean-based probiotics applied directly to diabetic foot ulcers improve healing. The topical treatment works by stimulating the regeneration of damaged tissue. Patients with type 2 diabetes frequently suffer from foot ulcers. These wounds are difficult to heal and can cause serious complications. The new probiotic treatment is safe and easy to use. Doctors apply the product directly to the ulcer. The healing process is faster with this method. Studies show good results in diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZm9ERmxDN0VmXzRqVmJmdk1KbEc3eEE1enFoajNNTmJzYkxuUk44QXRNc19jelJGUDM4cnBhcWFrb3p1c3M1MkpCeGxFa2N6WERIOWo3VTVpVmdRaFBkakVHZ2dnU1FtNU1rUWxDT0JxdTdWV0ZILS12OVE0QzdUY3VZSllZdnJFSjdvMlFjSU5fX3FRaТZDQWh6Z1k4ZWNBaGJxcHI0YjZvbUktNz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-03/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta y profunda en la piel",
+          "definition_en": "ulcer - open and deep wound in the skin"
+        },
+        {
+          "word": "probiótico",
+          "definition_es": "microorganismo beneficioso para la salud",
+          "definition_en": "probiotic - beneficial microorganism for health"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cierre y cicatrización de una herida",
+          "definition_en": "healing - process of wound closure and scarring"
+        },
+        {
+          "word": "tópico",
+          "definition_es": "aplicado directamente sobre la piel o herida",
+          "definition_en": "topical - applied directly to skin or wound"
+        }
+      ],
+      "added_at": "2026-04-03T09:23:23.465926Z"
+    },
+    {
+      "id": "diabetic-foot-20250403",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "blue",
+      "headline_es": "Dispositivos de Prueba de Presión de Perfusión Cutánea: Avances en el Cuidado del Pie Diabético",
+      "headline_en": "Skin Perfusion Pressure Testing Devices: Advances in Diabetic Foot Care",
+      "summary_es": "Los dispositivos de prueba de presión de perfusión cutánea representan un avance significativo en la evaluación y prevención de úlceras en pacientes con pie diabético. Estos instrumentos permiten detectar problemas circulatorios antes de que se desarrollen úlceras.",
+      "body_es": "La presión de perfusión cutánea es un indicador importante para evaluar la circulación en los pies de los pacientes diabéticos. Los nuevos dispositivos de prueba permiten medir esta presión de manera no invasiva y rápida. Mediante el análisis de estas mediciones, los médicos pueden identificar áreas con riesgo de úlcera antes de que se formen heridas abiertas. El mercado mundial de estos dispositivos ha experimentado un crecimiento considerable en los últimos años. Los profesionales de la salud utilizan estas pruebas para determinar si los pacientes necesitan intervenciones preventivas. La detección temprana de problemas circulatorios reduce significativamente el riesgo de amputación. Estos dispositivos son especialmente valiosos en unidades de atención primaria y clínicas especializadas en diabetes.",
+      "body_en": "Skin perfusion pressure is an important indicator for evaluating circulation in the feet of diabetic patients. New testing devices allow this pressure to be measured in a non-invasive and quick manner. Through analysis of these measurements, doctors can identify areas at risk of ulcer formation before open wounds develop. The global market for these devices has experienced considerable growth in recent years. Healthcare professionals use these tests to determine if patients need preventive interventions. Early detection of circulatory problems significantly reduces the risk of amputation. These devices are especially valuable in primary care units and diabetes-specialized clinics.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmQ4ckZxcVRmMUliSnhDWjg3dkxMT2cwd0hiYXlHUnhjbW94Rms0Vm1GNW9GS2RLRTFBYkZiTzhpNkk0OHZLcm1veG1NYUc2NFNlMEp1VE52bEs2Q0JzelN2Q2tWd2w0UjNUOW9TbjQ3OXE4SzRyYkFLbVlZX3EtU3p3VU9YU19aUWZjT0RGSzZPa2VLbXQ5MTktOTllMHNCeXNIdWhNU1VQUGFWMF9pLUN5bExONW1GdUNWVFhtN29QUEctamdMYlZYZG1mOGxwbXNiU3RfQjlfQXpQYlVjMkN3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-03/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "perfusión",
+          "definition_es": "flujo de sangre a través de los tejidos",
+          "definition_en": "perfusion - blood flow through tissues"
+        },
+        {
+          "word": "presión cutánea",
+          "definition_es": "medida de presión en la piel",
+          "definition_en": "skin pressure - measurement of pressure on skin"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de la sangre por el cuerpo",
+          "definition_en": "circulation - movement of blood through the body"
+        },
+        {
+          "word": "intervención preventiva",
+          "definition_es": "acción para evitar que ocurra una enfermedad",
+          "definition_en": "preventive intervention - action to prevent disease from occurring"
+        }
+      ],
+      "added_at": "2026-04-03T09:23:23.465926Z"
+    },
+    {
+      "id": "burn-care-20250403",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "PV-10 Demuestra Potencial en la Modulación Inmunológica para la Curación de Quemaduras",
+      "headline_en": "PV-10 Shows Promise in Immune Modulation for Burn Wound Healing",
+      "summary_es": "Un estudio preclínico con animales muestra que PV-10 modula la respuesta inmunológica en heridas por quemadura, promoviendo un ambiente más favorable para la regeneración tisular. Los resultados sugieren un nuevo enfoque terapéutico para el cuidado de quemaduras.",
+      "body_es": "Provectus Biopharmaceuticals ha presentado evidencia preclínica sobre cómo PV-10 facilita la curación de heridas por quemadura mediante modulación inmunológica. En un estudio realizado en modelos porcinos, el tratamiento demostró que cambia el ambiente local de la herida hacia condiciones más propicias para la regeneración. Las quemaduras graves requieren tratamientos complejos que incluyen desbridamiento, control del exudado, y prevención de infecciones. El estudio encontró que PV-10 reduce la inflamación excesiva mientras mantiene la respuesta inmunológica necesaria para la cicatrización. Este enfoque representa un avance importante en la medicina de quemaduras, donde la curación rápida es crítica para prevenir complicaciones. Los investigadores continúan evaluando cómo esta terapia podría aplicarse en pacientes humanos con quemaduras.",
+      "body_en": "Provectus Biopharmaceuticals has presented preclinical evidence on how PV-10 facilitates burn wound healing through immune modulation. In a study conducted in porcine models, the treatment demonstrated that it shifts the local wound environment toward conditions more favorable for regeneration. Severe burns require complex treatments including debridement, exudate control, and infection prevention. The study found that PV-10 reduces excessive inflammation while maintaining the immune response necessary for wound healing. This approach represents an important advance in burn medicine, where rapid healing is critical to prevent complications. Researchers continue to evaluate how this therapy could be applied in human patients with burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3p4SzBGeXZLREJIUDJlNkRyTldVcmR5MDc3T3Iwbmh3Q3QtZVhSd0dqVVpxMGc3OVpoWlYxbnE2eHhrTW1aWDJnQW4xbTBCNzkzc1ZmMjlYem5ZSXE5a2JwVVFjUF9YLXZuQkJYLXdxa2hUMVdIcXFLTXlYZUV0aFBCM19vdHpVM1FUSHlXUmRLY1N4aXlRbXpFeDFxdHJmNUh3MkF4b3lnSzJCM0pfdWk3SE15bm5xRE5hTHBiZFZPakF3NHlsbQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-03/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión producida por calor, fuego o químicos",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "modulación inmunológica",
+          "definition_es": "regulación de la respuesta del sistema inmunológico",
+          "definition_en": "immune modulation - regulation of immune system response"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción del tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "regeneración tisular",
+          "definition_es": "crecimiento y formación de nuevo tejido",
+          "definition_en": "tissue regeneration - growth and formation of new tissue"
+        }
+      ],
+      "added_at": "2026-04-03T09:23:23.465926Z"
+    },
+    {
+      "id": "surgical-wounds-20250403",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Ácido Hialurónico Tópico Mejora la Cicatrización y Reduce el Dolor en Frenectomía por Electrocauterio",
+      "headline_en": "Topical Hyaluronic Acid Improves Healing and Reduces Pain in Electrocautery Frenectomy",
+      "summary_es": "Un ensayo clínico controlado demuestra que la aplicación de ácido hialurónico tópico después de una frenectomía por electrocauterio acelera la cicatrización y disminuye significativamente el dolor postoperatorio.",
+      "body_es": "La frenectomía por electrocauterio es un procedimiento quirúrgico común para tratar restricciones del frenillo lingual o labial. Un estudio reciente publicado en Cureus evaluó el efecto del ácido hialurónico tópico en la curación de estas heridas quirúrgicas. El ácido hialurónico es una sustancia natural que promueve la hidratación del tejido y estimula la formación de colágeno durante el proceso de cicatrización. El ensayo controlado incluyó pacientes que recibieron ácido hialurónico después de la cirugía, comparados con un grupo control que recibió tratamiento estándar. Los resultados mostraron que el grupo tratado con ácido hialurónico experimentó menor dolor postoperatorio y cicatrización más rápida. Los pacientes también reportaron mayor comodidad y mejor calidad de vida durante el período de recuperación. Estos hallazgos sugieren que el ácido hialurónico tópico es una opción efectiva para mejorar los resultados en cirugía intraoral.",
+      "body_en": "Electrocautery frenectomy is a common surgical procedure to treat restrictions of the lingual or labial frenulum. A recent study published in Cureus evaluated the effect of topical hyaluronic acid on healing of these surgical wounds. Hyaluronic acid is a natural substance that promotes tissue hydration and stimulates collagen formation during the healing process. The controlled trial included patients who received hyaluronic acid after surgery, compared to a control group that received standard treatment. Results showed that the group treated with hyaluronic acid experienced less postoperative pain and faster wound healing. Patients also reported greater comfort and better quality of life during the recovery period. These findings suggest that topical hyaluronic acid is an effective option for improving outcomes in intraoral surgery.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdmg4YXl0ckJlcFB6dlZqZUdWQUJFUjFocnowSFl1QVp1aF90OUE1dTAzRldybVpUZHdSdUJKX3p4S0FteXYxb3lJX282d3hxRW1Nb1lFamJaaU9udnFmQ0FuQ3kyVlZ6VHYzSHdFVDlTenU3QURBSEg1TW1jSmJrSlhwVlF2ZnBwamtYTHhHN1pGaTk1LWdLNmxaaDN4ajVzbjdpSF9VX2MwOEhXWE9Sb0Nua2N5bXZKanBfWWJBN1VncWNoZjFWWUpoQmFXTmxvQ2Exc0dJa0haMVQ1UEdHUVl6MGNCTjFVb3c2b1pWV3JlNVl1U1lz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-03/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "frenectomía",
+          "definition_es": "extirpación quirúrgica del frenillo",
+          "definition_en": "frenectomy - surgical removal of the frenulum"
+        },
+        {
+          "word": "ácido hialurónico",
+          "definition_es": "sustancia que hidrata y protege los tejidos",
+          "definition_en": "hyaluronic acid - substance that hydrates and protects tissues"
+        },
+        {
+          "word": "electrocauterio",
+          "definition_es": "instrumento quirúrgico que usa calor eléctrico para cortar o sellar tejidos",
+          "definition_en": "electrocautery - surgical instrument using electrical heat to cut or seal tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de nueva piel en una herida",
+          "definition_en": "healing - process of new skin formation in a wound"
+        }
+      ],
+      "added_at": "2026-04-03T09:23:23.465926Z"
+    },
     {
       "id": "chronic-wounds-20250402",
       "category": "Chronic Wounds",
@@ -13839,6 +13987,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-02T09:43:38.254405Z",
+  "last_updated": "2026-04-03T09:23:23.465926Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
