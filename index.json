@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-04",
+      "filename": "spanish_lesson_2026-04-04.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-04.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump propone presupuesto histórico para defensa militar",
+          "headline_en": "Trump proposes historic budget for military defense",
+          "body_es": "El expresidente Trump ha presentado una nueva propuesta de presupuesto para Estados Unidos. Su plan incluye un aumento histórico en el gasto de defensa militar. Trump quiere más dinero para el ejército y la seguridad nacional. Sin embargo, su propuesta también incluye recortes importantes. Planea reducir el gasto en otros programas federales en un 10%. Estos recortes afectarían programas sociales y educativos. Los republicanos apoyan más gasto en defensa. Los demócratas critican los recortes a programas sociales. El Congreso debe aprobar cualquier cambio en el presupuesto federal. Esta propuesta será muy debatida en Washington. Los expertos dicen que el plan es muy ambicioso.",
+          "body_en": "Former President Trump has presented a new budget proposal for the United States. His plan includes a historic increase in military defense spending. Trump wants more money for the army and national security. However, his proposal also includes important cuts. He plans to reduce spending on other federal programs by 10%. These cuts would affect social and educational programs. Republicans support more defense spending. Democrats criticize cuts to social programs. Congress must approve any changes to the federal budget. This proposal will be heavily debated in Washington. Experts say the plan is very ambitious.",
+          "source": "reuters.com"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Economía estadounidense crea más empleos de lo esperado",
+          "headline_en": "US economy creates more jobs than expected",
+          "body_es": "La economía de Estados Unidos mostró resultados positivos en marzo. El país creó 178,000 nuevos empleos durante ese mes. Este número es mayor de lo que esperaban los economistas. Los expertos predijeron menos crecimiento en el empleo. Los nuevos trabajos aparecieron en diferentes sectores económicos. Los servicios, la construcción y la manufactura crecieron. La tasa de desempleo se mantuvo baja durante marzo. Estos datos indican que la economía estadounidense está fuerte. Los trabajadores pueden encontrar empleos más fácilmente ahora. Sin embargo, algunos sectores todavía tienen problemas. La inflación sigue siendo una preocupación importante. Los economistas están optimistas sobre el futuro económico del país.",
+          "body_en": "The US economy showed positive results in March. The country created 178,000 new jobs during that month. This number is higher than economists expected. Experts predicted less employment growth. The new jobs appeared in different economic sectors. Services, construction, and manufacturing grew. The unemployment rate remained low during March. This data indicates that the US economy is strong. Workers can find jobs more easily now. However, some sectors still have problems. Inflation remains an important concern. Economists are optimistic about the country's economic future.",
+          "source": "Axios"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Inteligencia artificial causa 25% de despidos en marzo",
+          "headline_en": "Artificial intelligence causes 25% of layoffs in March",
+          "body_es": "La inteligencia artificial está cambiando el mercado laboral estadounidense. En marzo, la IA fue responsable del 25% de todos los despidos laborales. Muchas empresas están reemplazando trabajadores humanos con máquinas inteligentes. Las compañías tecnológicas lideran esta transformación digital. Los robots y programas de computadora pueden hacer trabajos más rápido. También cuestan menos dinero que los empleados humanos. Los trabajos más afectados incluyen servicio al cliente y análisis de datos. Algunos empleados están aprendiendo nuevas habilidades tecnológicas. Las universidades ofrecen cursos sobre inteligencia artificial. Los expertos dicen que esta tendencia continuará creciendo. El gobierno está considerando nuevas políticas laborales. Los trabajadores necesitan adaptarse a estos cambios tecnológicos.",
+          "body_en": "Artificial intelligence is changing the American job market. In March, AI was responsible for 25% of all job layoffs. Many companies are replacing human workers with intelligent machines. Technology companies are leading this digital transformation. Robots and computer programs can do jobs faster. They also cost less money than human employees. The most affected jobs include customer service and data analysis. Some employees are learning new technological skills. Universities offer courses on artificial intelligence. Experts say this trend will continue growing. The government is considering new labor policies. Workers need to adapt to these technological changes.",
+          "source": "Fast Company"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "Trump propone un presupuesto histórico para defensa.",
+          "definition_es": "Plan de gastos e ingresos para un período específico",
+          "definition_en": "Budget - a plan for spending and income over a specific period"
+        },
+        {
+          "word": "defensa",
+          "syllables": "de-FEN-sa",
+          "pos": "sustantivo",
+          "context": "El gobierno quiere más dinero para la defensa nacional.",
+          "definition_es": "Protección militar de un país",
+          "definition_en": "Defense - military protection of a country"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense creó 178,000 nuevos empleos.",
+          "definition_es": "Trabajo remunerado que tiene una persona",
+          "definition_en": "Employment/job - paid work that a person has"
+        },
+        {
+          "word": "recorte",
+          "syllables": "re-COR-te",
+          "pos": "sustantivo",
+          "context": "Trump planea un recorte del 10% en otros programas federales.",
+          "definition_es": "Reducción o disminución de algo",
+          "definition_en": "Cut - a reduction or decrease in something"
+        },
+        {
+          "word": "económica",
+          "syllables": "e-co-NÓ-mi-ca",
+          "pos": "adjetivo",
+          "context": "La situación económica del país está mejorando.",
+          "definition_es": "Relacionado con la economía y el dinero",
+          "definition_en": "Economic - related to the economy and money"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial causó despidos en marzo.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence - technology that allows machines to think like humans"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Hubo muchos despidos en empresas tecnológicas.",
+          "definition_es": "Cuando una empresa termina el trabajo de sus empleados",
+          "definition_en": "Layoffs - when a company ends the employment of its workers"
+        },
+        {
+          "word": "histórico",
+          "syllables": "his-TÓ-ri-co",
+          "pos": "adjetivo",
+          "context": "Trump describe su presupuesto como histórico.",
+          "definition_es": "Muy importante o significativo en la historia",
+          "definition_en": "Historic - very important or significant in history"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'presupuesto'?",
+          "options": [
+            "Plan de gastos e ingresos",
+            "Tipo de empleo",
+            "Máquina inteligente",
+            "Programa social"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'recorte'?",
+          "options": [
+            "Aumento de dinero",
+            "Reducción o disminución",
+            "Nuevo empleo",
+            "Tipo de tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'despidos'?",
+          "options": [
+            "Nuevos trabajos",
+            "Aumentos de salario",
+            "Terminación de empleos",
+            "Programas de entrenamiento"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'histórico'?",
+          "options": [
+            "Muy caro",
+            "Del pasado solamente",
+            "Muy importante",
+            "Relacionado con economía"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué quiere hacer Trump con el gasto en defensa?",
+          "options": [
+            "Reducirlo en 10%",
+            "Mantenerlo igual",
+            "Aumentarlo históricamente",
+            "Eliminarlo completamente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos se crearon en marzo según la historia económica?",
+          "options": [
+            "150,000",
+            "178,000",
+            "200,000",
+            "100,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje de despidos causó la IA en marzo?",
+          "options": [
+            "15%",
+            "20%",
+            "25%",
+            "30%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores económicos crecieron según la historia de empleos?",
+          "options": [
+            "Solo tecnología",
+            "Servicios, construcción y manufactura",
+            "Solo construcción",
+            "Solo servicios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué dice la historia sobre los recortes de Trump?",
+          "options": [
+            "Afectarán programas militares",
+            "Afectarán programas sociales y educativos",
+            "No afectarán nada",
+            "Afectarán solo la tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué trabajos están más afectados por la inteligencia artificial?",
+          "options": [
+            "Construcción y manufactura",
+            "Servicio al cliente y análisis de datos",
+            "Educación y medicina",
+            "Agricultura y transporte"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-04T09:11:18.923372"
+    },
+    {
       "date": "2026-04-03",
       "filename": "spanish_lesson_2026-04-03.pdf",
       "path": "pdfs/spanish_lesson_2026-04-03.pdf",
@@ -26000,7 +26222,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-03T09:16:41.955981",
+  "last_updated": "2026-04-04T09:11:18.923396",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
