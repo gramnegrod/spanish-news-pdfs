@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-05",
+      "filename": "spanish_lesson_2026-04-05.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-05.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "La Casa Blanca quiere aumentar el gasto militar en un 40%",
+          "headline_en": "White House wants to increase military spending by 40%",
+          "body_es": "El gobierno de Estados Unidos planea aumentar mucho el dinero para el ejército. La Casa Blanca quiere un presupuesto militar 40% más grande que el año pasado. Este aumento significa más dinero para armas, soldados y defensa nacional. Los políticos dicen que es necesario para proteger el país. Sin embargo, algunos congresistas no están de acuerdo con este plan. Ellos piensan que es demasiado dinero y prefieren gastarlo en educación y salud. El Congreso debe votar esta propuesta en las próximas semanas. Si aprueban el plan, Estados Unidos gastará más en defensa que nunca antes. Esta decisión puede afectar otros programas del gobierno que también necesitan dinero.",
+          "body_en": "The United States government plans to greatly increase money for the military. The White House wants a military budget 40% larger than last year. This increase means more money for weapons, soldiers and national defense. Politicians say it's necessary to protect the country. However, some congresspeople don't agree with this plan. They think it's too much money and prefer to spend it on education and health. Congress must vote on this proposal in the coming weeks. If they approve the plan, the United States will spend more on defense than ever before. This decision may affect other government programs that also need money.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El mercado de trabajo muestra excelentes resultados en octubre",
+          "headline_en": "Job market shows excellent results in October",
+          "body_es": "Las noticias sobre empleo en Estados Unidos son muy positivas este mes. El gobierno publicó un informe que muestra datos excelentes sobre trabajos. En octubre, muchas empresas contrataron nuevos empleados. La tasa de desempleo bajó al 3.8%, que es un número muy bueno. Esto significa que más personas tienen trabajo ahora. Los sectores que más crecieron fueron servicios, construcción y tecnología. Los salarios también aumentaron un poco comparado con el año pasado. Los economistas están contentos con estos resultados. Dicen que la economía estadounidense está fuerte y saludable. Sin embargo, algunos expertos advierten que la inflación puede ser un problema en el futuro si la economía crece demasiado rápido.",
+          "body_en": "News about employment in the United States is very positive this month. The government published a report showing excellent job data. In October, many companies hired new employees. The unemployment rate fell to 3.8%, which is a very good number. This means more people have jobs now. The sectors that grew most were services, construction and technology. Wages also increased a little compared to last year. Economists are happy with these results. They say the American economy is strong and healthy. However, some experts warn that inflation could be a problem in the future if the economy grows too fast.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Gobernador de California firma nueva ley sobre inteligencia artificial",
+          "headline_en": "California Governor signs new law about artificial intelligence",
+          "body_es": "El gobernador Gavin Newsom firmó una orden ejecutiva importante sobre inteligencia artificial en California. Esta nueva ley quiere proteger mejor a las personas que usan tecnología AI. La orden dice que las empresas deben usar la inteligencia artificial de forma responsable y segura. También establece reglas más estrictas para proteger la información personal de los ciudadanos. California es el primer estado en crear leyes tan específicas sobre AI. El gobernador explica que esta tecnología puede ayudar mucho a la sociedad, pero también puede ser peligrosa si no se controla bien. Las empresas de tecnología ahora deben seguir estas nuevas reglas cuando desarrollan productos con inteligencia artificial. Esta decisión puede influir en otros estados para crear leyes similares.",
+          "body_en": "Governor Gavin Newsom signed an important executive order about artificial intelligence in California. This new law wants to better protect people who use AI technology. The order says companies must use artificial intelligence responsibly and safely. It also establishes stricter rules to protect citizens' personal information. California is the first state to create such specific laws about AI. The governor explains that this technology can help society a lot, but can also be dangerous if not controlled well. Technology companies now must follow these new rules when developing products with artificial intelligence. This decision may influence other states to create similar laws.",
+          "source": "Contra Costa News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "La Casa Blanca quiere aumentar el presupuesto militar.",
+          "definition_es": "Plan de gastos y dinero para una organización",
+          "definition_en": "Budget, financial plan for spending"
+        },
+        {
+          "word": "aumentar",
+          "syllables": "au-men-TAR",
+          "pos": "verbo",
+          "context": "El gobierno planea aumentar el gasto militar en un 40%.",
+          "definition_es": "Hacer algo más grande o mayor",
+          "definition_en": "To increase, to make bigger"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "El mercado de empleo muestra buenos resultados este mes.",
+          "definition_es": "Trabajo que una persona hace para ganar dinero",
+          "definition_en": "Employment, job"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "de-sem-PLE-o",
+          "pos": "sustantivo",
+          "context": "La tasa de desempleo bajó al 3.8% en octubre.",
+          "definition_es": "Situación de no tener trabajo",
+          "definition_en": "Unemployment, being without a job"
+        },
+        {
+          "word": "firmar",
+          "syllables": "fir-MAR",
+          "pos": "verbo",
+          "context": "El gobernador firmó una orden ejecutiva sobre inteligencia artificial.",
+          "definition_es": "Escribir el nombre en un documento oficial",
+          "definition_en": "To sign, to put signature on document"
+        },
+        {
+          "word": "protección",
+          "syllables": "pro-tec-CIÓN",
+          "pos": "sustantivo",
+          "context": "La nueva ley busca mejorar la protección de datos personales.",
+          "definition_es": "Acción de cuidar y defender algo o alguien",
+          "definition_en": "Protection, act of keeping safe"
+        },
+        {
+          "word": "responsable",
+          "syllables": "res-pon-SA-ble",
+          "pos": "adjetivo",
+          "context": "Las empresas deben usar la tecnología de forma responsable.",
+          "definition_es": "Que actúa con cuidado y cumple sus obligaciones",
+          "definition_en": "Responsible, acting with care and duty"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando muchas industrias.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence, technology that makes machines think"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'presupuesto'?",
+          "options": [
+            "Plan de gastos y dinero",
+            "Tipo de impuesto",
+            "Edificio del gobierno",
+            "Reunión política"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el antónimo (opuesto) de 'empleo'?",
+          "options": [
+            "Trabajo",
+            "Desempleo",
+            "Salario",
+            "Empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué verbo significa 'hacer algo más grande'?",
+          "options": [
+            "Disminuir",
+            "Reducir",
+            "Aumentar",
+            "Mantener"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'firmar' un documento?",
+          "options": [
+            "Leerlo",
+            "Escribir el nombre en él",
+            "Guardarlo",
+            "Copiarlo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el artículo sobre militar, ¿cuánto quiere aumentar la Casa Blanca el gasto militar?",
+          "options": [
+            "30%",
+            "40%",
+            "50%",
+            "35%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál fue la tasa de desempleo en octubre según el informe económico?",
+          "options": [
+            "3.5%",
+            "4.1%",
+            "3.8%",
+            "4.5%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores crecieron más en empleo según el artículo económico?",
+          "options": [
+            "Solo tecnología",
+            "Servicios, construcción y tecnología",
+            "Solo construcción",
+            "Agricultura y minería"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Quién firmó la orden ejecutiva sobre inteligencia artificial?",
+          "options": [
+            "El presidente",
+            "Gavin Newsom",
+            "Un senador",
+            "Un alcalde"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué estado es el primero en crear leyes específicas sobre AI?",
+          "options": [
+            "Texas",
+            "Nueva York",
+            "Florida",
+            "California"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué deben hacer las empresas según la nueva ley de California?",
+          "options": [
+            "Parar de usar AI",
+            "Usar AI de forma responsable",
+            "Pagar más impuestos",
+            "Mudarse a otro estado"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-05T09:12:23.911940"
+    },
+    {
       "date": "2026-04-04",
       "filename": "spanish_lesson_2026-04-04.pdf",
       "path": "pdfs/spanish_lesson_2026-04-04.pdf",
@@ -26222,7 +26444,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-04T09:11:18.923396",
+  "last_updated": "2026-04-05T09:12:23.911968",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
