@@ -1,11 +1,159 @@
 {
-  "date": "2026-04-04",
-  "generated_at": "2026-04-04T09:17:17.096102Z",
+  "date": "2026-04-05",
+  "generated_at": "2026-04-05T09:17:51.239953Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 382,
+  "total_stories": 386,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250405",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Los Vendajes de Alivio de Presión Ayudan a Sanar las Heridas",
+      "headline_en": "Pressure Relief Dressings Help Heal Wounds",
+      "summary_es": "Los vendajes especiales reducen la presión en las heridas crónicas. Este tratamiento es importante para pacientes con úlceras por presión.",
+      "body_es": "Las heridas crónicas son un problema grave en los hospitales. Los vendajes de alivio de presión son muy efectivos. Estos vendajes protegen la piel dañada. El mercado de estos productos crece cada año. Los enfermeros usan estos vendajes todos los días. La curación es más rápida con el tratamiento correcto. Los pacientes con úlceras por presión necesitan cuidado especial. Un buen vendaje reduce el dolor. La evaluación regular de la herida es importante. Los profesionales de la salud recomiendan estos productos. El costo es menor cuando se previene la infección. La prevención es el mejor tratamiento.",
+      "body_en": "Chronic wounds are a serious problem in hospitals. Pressure relief dressings are very effective. These dressings protect damaged skin. The market for these products grows every year. Nurses use these dressings every day. Healing is faster with correct treatment. Patients with pressure ulcers need special care. A good dressing reduces pain. Regular wound evaluation is important. Healthcare professionals recommend these products. Cost is lower when infection is prevented. Prevention is the best treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcWhRQ3Z2T3FCNzVyTXhjQlFwOXZKdnlwNF9Jb1BaeUFTSGhEWHc2UHN5bFQ0ekNrcGFqZ01NYjU3MtNNtNjUhRyTc2cjRQjVub3LTOkDJ2tVUmw0eXJCTnBzNFFXTFZpVUhPcjN3OGY2WThGeGpkcGoxdm4yakJLNXhla3A2Rm0xMFdnTEFLcjV0NXZ0cEgwdDZNanNPNHpvYUY0S1VHWGFqUVZ2NTJZMHBsOUlqc3FZVmwyZzE3VVBabTlPZ201RnNiLTM2OTFsemlEYnZENy14OTl3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-05/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida causada por presión prolongada en la piel",
+          "definition_en": "pressure ulcer - wound caused by prolonged pressure on skin"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de recuperación y sanar de una herida",
+          "definition_en": "healing - process of recovery and wound repair"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen cuidadoso del estado de la herida",
+          "definition_en": "evaluation - careful examination of wound condition"
+        }
+      ],
+      "added_at": "2026-04-05T09:17:51.239953Z"
+    },
+    {
+      "id": "diabetic-foot-20250405",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "La Diabetes Causa el 60% de las Amputaciones de Miembros en Nigeria",
+      "headline_en": "Diabetes Responsible for 60% of Limb Amputations in Nigeria",
+      "summary_es": "Los especialistas en Nigeria advierten que la diabetes es la causa principal de amputaciones de extremidades. El control glucémico es esencial para prevenir estas complicaciones graves.",
+      "body_es": "Según especialistas en Nigeria, la diabetes es responsable del 60% de las amputaciones de miembros en el país. Esta estadística alarmante refleja la falta de acceso a tratamientos preventivos adecuados. Los pacientes diabéticos desarrollan úlceras del pie cuando no controlan su glucosa en sangre. Las infecciones bacterianas en estas úlceras pueden llevar a la necrosis de los tejidos. El desbridamiento quirúrgico es necesario cuando la isquemia avanza. Los especialistas recomiendan evaluación regular de los pies mediante inspección visual y exploración sensorial. La prevención mediante educación del paciente es fundamental. El uso de calzado especial protege contra lesiones. La neuropatía diabética reduce la sensibilidad, lo que impide detectar heridas pequeñas. La amputación se puede evitar con diagnóstico temprano y tratamiento agresivo de las úlceras.",
+      "body_en": "According to specialists in Nigeria, diabetes is responsible for 60% of limb amputations in the country. This alarming statistic reflects lack of access to adequate preventive treatments. Diabetic patients develop foot ulcers when they do not control their blood glucose. Bacterial infections in these ulcers can lead to tissue necrosis. Surgical debridement is necessary when ischemia advances. Specialists recommend regular foot evaluation through visual inspection and sensory testing. Prevention through patient education is fundamental. The use of special footwear protects against injuries. Diabetic neuropathy reduces sensitivity, preventing detection of small wounds. Amputation can be prevented with early diagnosis and aggressive ulcer treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHhoZUNWNjdZTkRGREFSRFJPdWZSZHNicXlRQW9uQnBHTXY0NVptNi1kVVNzdE1yWktBY21qeG8wZl9pUGpSQlVvUkJZTml4c1laeVF4ejZMdHN3V1Ezbl8wR08xYm1NTzlYajNUWFpQR2pJTlV6b3Z5ZnkzQ2FFOGpVNnBqa3R4TEJfclpvU25jdUVjUjJR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-05/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "lesión abierta en el pie causada por diabetes mal controlada",
+          "definition_en": "diabetic foot ulcer - open wound on foot caused by poorly controlled diabetes"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        },
+        {
+          "word": "neuropatía diabética",
+          "definition_es": "daño a los nervios causado por niveles altos de glucosa",
+          "definition_en": "diabetic neuropathy - nerve damage caused by high glucose levels"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de irrigación sanguínea en un tejido u órgano",
+          "definition_en": "ischemia - lack of blood supply to tissue or organ"
+        }
+      ],
+      "added_at": "2026-04-05T09:17:51.239953Z"
+    },
+    {
+      "id": "burn-care-20250405",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Los Sistemas de Injerto de Piel Avanzan Rápidamente en el Mercado",
+      "headline_en": "Skin Grafting Systems Expand Rapidly in the Market",
+      "summary_es": "Los sistemas de injerto de piel son cada vez más accesibles para el tratamiento de quemaduras graves. Esta tecnología mejora los resultados de la cicatrización en pacientes con lesiones extensas.",
+      "body_es": "El mercado de sistemas de injerto de piel está experimentando un crecimiento significativo en todo el mundo. Estos sistemas son esenciales para el tratamiento de quemaduras de espesor total y lesiones traumáticas graves. El injerto de piel es un procedimiento donde se toma piel sana de una zona donante y se coloca sobre la herida. Los injertos de espesor parcial se utilizan principalmente porque cicatrizan mejor. El epitelización ocurre cuando la piel regenera naturalmente. Los sistemas modernos permiten cubrir grandes áreas con menos donación de piel. La vascularización es crítica para el éxito del injerto. Los cirujanos especializados realizan estos procedimientos en unidades de quemados. La prevención de infecciones durante la curación es fundamental. Los apósitos especiales mantienen el injerto hidratado y protegido. El cuidado post-operatorio requiere vigilancia continua para detectar rechazo o complicaciones.",
+      "body_en": "The market for skin grafting systems is experiencing significant growth worldwide. These systems are essential for treating full-thickness burns and severe traumatic injuries. Skin grafting is a procedure where healthy skin from a donor site is placed over the wound. Partial-thickness grafts are primarily used because they heal better. Epithelialization occurs when skin regenerates naturally. Modern systems allow covering large areas with less skin donation. Vascularization is critical for graft success. Specialized surgeons perform these procedures in burn units. Infection prevention during healing is fundamental. Special dressings keep the graft hydrated and protected. Post-operative care requires continuous monitoring for rejection or complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdHVBbFZrR0l1ZGd3dTlsZkNXejNNWUhLSTZ6NTM3cHVQc0k3d3NJNmJ3MWRJMUU0bnpBUVpjMGdPVFhQSzZUQkF2aVl4WXVNWGI2Tmw2LVRKMnJCMzkzd0NRV3ZZeXhodXFqYXBfQkpFbkFHQkQzTDhvUURLamlFeGlfUkM1am05bFR4aE9SRUhtZE1ZdnFfMUh5MS0?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-05/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de tejido de piel para cubrir áreas dañadas",
+          "definition_en": "skin graft - transplant of skin tissue to cover damaged areas"
+        },
+        {
+          "word": "quemadura de espesor total",
+          "definition_es": "lesión que daña todas las capas de la piel",
+          "definition_en": "full-thickness burn - injury that damages all skin layers"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de regeneración de la epidermis sobre una herida",
+          "definition_en": "epithelialization - process of epidermis regeneration over a wound"
+        },
+        {
+          "word": "vascularización",
+          "definition_es": "desarrollo de nuevos vasos sanguíneos en un tejido",
+          "definition_en": "vascularization - development of new blood vessels in tissue"
+        }
+      ],
+      "added_at": "2026-04-05T09:17:51.239953Z"
+    },
+    {
+      "id": "surgical-wounds-20250405",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "✂️",
+      "gradient": "purple",
+      "headline_es": "El Ácido Hialurónico Mejora la Cicatrización tras Cirugía Dental",
+      "headline_en": "Hyaluronic Acid Improves Healing After Dental Surgery",
+      "summary_es": "Un estudio controlado demuestra que el ácido hialurónico tópico acelera la cicatrización de heridas quirúrgicas orales. Este tratamiento reduce significativamente el dolor post-operatorio.",
+      "body_es": "Un ensayo clínico randomizado evaluó el efecto del ácido hialurónico tópico en la cicatrización de heridas quirúrgicas. El estudio se realizó en pacientes sometidos a frenectomía por electrocauterio. El ácido hialurónico es una sustancia natural que retiene agua en los tejidos. Esta propiedad acelera la epitelización y la formación de granulación. Los resultados mostraron mejora significativa en la curación de heridas en el grupo tratado. El dolor post-operatorio fue menor en los pacientes que recibieron el apósito con ácido hialurónico. La cicatriz resultante fue más estética después del tratamiento. El ácido hialurónico estimula la proliferación de fibroblastos y neovascularización. Los pacientes requieren evaluación regular para detectar complicaciones como infección o dehiscencia de sutura. Este tratamiento puede aplicarse en otras heridas quirúrgicas orales. Los apósitos con ácido hialurónico son seguros y bien tolerados.",
+      "body_en": "A randomized clinical trial evaluated the effect of topical hyaluronic acid on surgical wound healing. The study was conducted in patients undergoing frenectomy with electrocautery. Hyaluronic acid is a natural substance that retains water in tissues. This property accelerates epithelialization and granulation formation. Results showed significant improvement in wound healing in the treated group. Post-operative pain was lower in patients who received the hyaluronic acid dressing. The resulting scar was more aesthetic after treatment. Hyaluronic acid stimulates fibroblast proliferation and neovascularization. Patients require regular evaluation to detect complications such as infection or suture dehiscence. This treatment can be applied to other oral surgical wounds. Hyaluronic acid dressings are safe and well tolerated.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdmg4YXl0ckJlcFB6dlZqZUdWQUJFUjFocnowSFl1QVp1aF90OUE1dTAzRldybVpUZHdSdUJKX3p4S0FteXYxb3lJX282d3hxRW1Nb1lFamJaaU9udnFmQ0FuQ3kyVlZ6VHYzSHdFVDlTenU3QURBSEg1TW1jSmJrSlhwVlF2ZnBwamtYTHhHN1pGaTk1LWdLNmxaaDN4ajVzbjdpSF9VX2MwOEhXWE9Sb0Nua2N5bXZKanBfWWJBN1VncWNoZjFWWUpoQmFXTmxvQ2Exc0dJa0haMVQ1UEdHUVl6MGNCTjFVb3c2b1pWV3JlNVl1U1lz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-05/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "ácido hialurónico",
+          "definition_es": "sustancia natural que hidrata y acelera la cicatrización",
+          "definition_en": "hyaluronic acid - natural substance that hydrates and accelerates healing"
+        },
+        {
+          "word": "frenectomía",
+          "definition_es": "extirpación quirúrgica del frenillo bucal",
+          "definition_en": "frenectomy - surgical removal of the oral frenum"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nuevo tejido epitelial",
+          "definition_en": "epithelialization - process of new epithelial tissue formation"
+        },
+        {
+          "word": "dehiscencia de sutura",
+          "definition_es": "separación de los bordes de una herida cerrada quirúrgicamente",
+          "definition_en": "suture dehiscence - separation of edges of surgically closed wound"
+        }
+      ],
+      "added_at": "2026-04-05T09:17:51.239953Z"
+    },
     {
       "id": "chronic-wounds-20250404",
       "category": "Chronic Wounds",
@@ -14135,6 +14283,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-04T09:17:17.096102Z",
+  "last_updated": "2026-04-05T09:17:51.239953Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
