@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-06",
+      "filename": "spanish_lesson_2026-04-06.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-06.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Ex ejecutivo de Google deja campaña para el Senado",
+          "headline_en": "Former Google executive drops Senate campaign",
+          "body_es": "Un antiguo trabajador de Google ha decidido abandonar su campaña para el Senado de Estados Unidos. En lugar de esto, ahora quiere competir contra el republicano Carlos Giménez por su puesto en la Cámara de Representantes. Esta decisión cambia el panorama político en Florida. El ex ejecutivo cree que tiene mejores oportunidades de ganar contra Giménez. Carlos Giménez es un político republicano muy conocido en el estado. La campaña será difícil para ambos candidatos. Los votantes tendrán que decidir entre diferentes opciones políticas. Esta elección será muy importante para el futuro de Florida. Muchas personas están siguiendo esta competencia electoral con mucho interés.",
+          "body_en": "A former Google worker has decided to abandon his campaign for the U.S. Senate. Instead, he now wants to compete against Republican Carlos Giménez for his seat in the House of Representatives. This decision changes the political landscape in Florida. The former executive believes he has better opportunities to win against Giménez. Carlos Giménez is a well-known Republican politician in the state. The campaign will be difficult for both candidates. Voters will have to decide between different political options. This election will be very important for Florida's future. Many people are following this electoral competition with great interest.",
+          "source": "WLRN"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El mercado inmobiliario de Nueva York mejora con el nuevo alcalde",
+          "headline_en": "New York's real estate market improves with new mayor",
+          "body_es": "El mercado de oficinas en Nueva York está mejorando después de problemas económicos. Muchas empresas habían salido de la ciudad durante los últimos años. Esto se llamaba 'éxodo de empresas'. Pero ahora la situación está cambiando positivamente. El nuevo alcalde está trabajando para atraer más negocios a la ciudad. Los precios de las oficinas están subiendo otra vez. Zohran Mamdani, un político local, habla sobre estos cambios económicos. Las empresas están regresando al centro de Manhattan. Los trabajadores también están volviendo a las oficinas. Esta recuperación es buena para la economía de Nueva York. Muchos expertos están optimistas sobre el futuro. La ciudad espera continuar creciendo económicamente en los próximos meses.",
+          "body_en": "The office market in New York is improving after economic problems. Many companies had left the city during recent years. This was called 'business exodus'. But now the situation is changing positively. The new mayor is working to attract more businesses to the city. Office prices are rising again. Zohran Mamdani, a local politician, talks about these economic changes. Companies are returning to downtown Manhattan. Workers are also returning to offices. This recovery is good for New York's economy. Many experts are optimistic about the future. The city hopes to continue growing economically in the coming months.",
+          "source": "CNBC"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Irán amenaza con atacar empresas tecnológicas americanas",
+          "headline_en": "Iran threatens to attack American tech companies",
+          "body_es": "Irán ha anunciado que planea atacar diecisiete empresas tecnológicas americanas en Medio Oriente. Estos ataques podrían ocurrir antes del primero de abril. La amenaza preocupa mucho a las compañías de tecnología. Estas empresas trabajan con internet, computadoras y teléfonos móviles. Muchas tienen oficinas en países del Medio Oriente. El gobierno americano está tomando medidas de seguridad. Las empresas también están preparando planes de protección. Esta situación crea tensión entre los dos países. Los expertos en seguridad están muy preocupados. Las empresas tecnológicas son muy importantes para la economía mundial. Un ataque podría afectar servicios de internet y comunicaciones. La comunidad internacional está observando esta situación con atención.",
+          "body_en": "Iran has announced plans to attack seventeen American tech companies in the Middle East. These attacks could happen before April 1st. The threat greatly worries technology companies. These companies work with internet, computers and mobile phones. Many have offices in Middle Eastern countries. The American government is taking security measures. Companies are also preparing protection plans. This situation creates tension between the two countries. Security experts are very concerned. Tech companies are very important for the world economy. An attack could affect internet and communication services. The international community is watching this situation carefully.",
+          "source": "MSN"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "ejecutivo",
+          "syllables": "e-je-cu-TI-vo",
+          "pos": "sustantivo",
+          "context": "Un ex ejecutivo de Google abandona su campaña para el Senado.",
+          "definition_es": "Persona que dirige una empresa o tiene un cargo importante",
+          "definition_en": "Executive, person who manages a company or has an important position"
+        },
+        {
+          "word": "campaña",
+          "syllables": "cam-PA-ña",
+          "pos": "sustantivo",
+          "context": "El candidato abandona su campaña política para el Senado.",
+          "definition_es": "Conjunto de actividades para conseguir un objetivo político",
+          "definition_en": "Campaign, set of activities to achieve a political goal"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado inmobiliario de Nueva York está mejorando.",
+          "definition_es": "Lugar donde se compran y venden productos o servicios",
+          "definition_en": "Market, place where products or services are bought and sold"
+        },
+        {
+          "word": "inmobiliario",
+          "syllables": "in-mo-bi-LIA-rio",
+          "pos": "adjetivo",
+          "context": "El sector inmobiliario incluye casas y oficinas.",
+          "definition_es": "Relacionado con la compra y venta de propiedades",
+          "definition_en": "Real estate, related to buying and selling properties"
+        },
+        {
+          "word": "atacar",
+          "syllables": "a-ta-CAR",
+          "pos": "verbo",
+          "context": "Irán dice que va a atacar empresas tecnológicas americanas.",
+          "definition_es": "Usar violencia contra alguien o algo",
+          "definition_en": "To attack, to use violence against someone or something"
+        },
+        {
+          "word": "amenaza",
+          "syllables": "a-me-NA-za",
+          "pos": "sustantivo",
+          "context": "La amenaza de Irán preocupa a las empresas de tecnología.",
+          "definition_es": "Advertencia de que algo malo puede pasar",
+          "definition_en": "Threat, warning that something bad might happen"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Diecisiete empresas tecnológicas están en peligro.",
+          "definition_es": "Organización que hace negocios para ganar dinero",
+          "definition_en": "Company, organization that does business to make money"
+        },
+        {
+          "word": "tecnológica",
+          "syllables": "tec-no-LÓ-gi-ca",
+          "pos": "adjetivo",
+          "context": "Las empresas tecnológicas trabajan con computadoras e internet.",
+          "definition_es": "Relacionado con la tecnología y las computadoras",
+          "definition_en": "Technological, related to technology and computers"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'ejecutivo'?",
+          "options": [
+            "Una persona que dirige una empresa",
+            "Un tipo de computadora",
+            "Un edificio de oficinas",
+            "Una elección política"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es la definición de 'campaña' en contexto político?",
+          "options": [
+            "Un lugar para votar",
+            "Actividades para conseguir un objetivo político",
+            "Un tipo de empresa",
+            "Un mercado de oficinas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'amenaza'?",
+          "options": [
+            "Una empresa tecnológica",
+            "Una oficina grande",
+            "Advertencia de que algo malo puede pasar",
+            "Un político famoso"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'inmobiliario'?",
+          "options": [
+            "Relacionado con teléfonos móviles",
+            "Relacionado con la compra y venta de propiedades",
+            "Relacionado con empresas de Google",
+            "Relacionado con ataques militares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué decidió hacer el ex ejecutivo de Google?",
+          "options": [
+            "Competir por el Senado",
+            "Competir contra Carlos Giménez en la Cámara",
+            "Regresar a Google",
+            "Mudarse a Nueva York"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cómo está el mercado inmobiliario de Nueva York?",
+          "options": [
+            "Está empeorando",
+            "Está mejorando",
+            "No ha cambiado",
+            "Está cerrado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántas empresas tecnológicas planea atacar Irán?",
+          "options": [
+            "Quince",
+            "Dieciséis",
+            "Diecisiete",
+            "Dieciocho"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuándo podrían ocurrir los ataques de Irán?",
+          "options": [
+            "Antes del 1 de marzo",
+            "Antes del 1 de abril",
+            "Antes del 1 de mayo",
+            "Antes del 1 de junio"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué está pasando con las empresas en Nueva York?",
+          "options": [
+            "Todas están saliendo",
+            "Están regresando a la ciudad",
+            "No hay cambios",
+            "Solo llegan empresas pequeñas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Dónde están las empresas tecnológicas que Irán quiere atacar?",
+          "options": [
+            "En Estados Unidos",
+            "En Europa",
+            "En Medio Oriente",
+            "En Asia"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-06T09:24:12.115027"
+    },
+    {
       "date": "2026-04-05",
       "filename": "spanish_lesson_2026-04-05.pdf",
       "path": "pdfs/spanish_lesson_2026-04-05.pdf",
@@ -26444,7 +26666,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-05T09:12:23.911968",
+  "last_updated": "2026-04-06T09:24:12.115049",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
