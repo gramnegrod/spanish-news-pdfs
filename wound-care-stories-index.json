@@ -1,11 +1,122 @@
 {
-  "date": "2026-04-05",
-  "generated_at": "2026-04-05T09:17:51.239953Z",
+  "date": "2026-04-06",
+  "generated_at": "2026-04-06T09:33:01.760440Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 386,
-  "new_today": 4,
+  "total_stories": 389,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250406",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La Miel: Un Tratamiento Efectivo para Heridas",
+      "headline_en": "Honey: An Effective Treatment for Wounds",
+      "summary_es": "Un nuevo estudio sistemático muestra que los apósitos de miel ayudan a sanar heridas quirúrgicas, úlceras y quemaduras. Este tratamiento natural es seguro y eficaz.",
+      "body_es": "Un equipo de investigadores revisó muchos estudios sobre el uso de miel en heridas. Los resultados son muy positivos. La miel acelera la curación de heridas postoperatorias, úlceras crónicas y quemaduras. Este apósito natural reduce infecciones y promueve la granulación del tejido. La miel tiene propiedades antibacterianas que protegen la herida. Los pacientes necesitan vendajes limpios con miel regularmente. El tratamiento es económico y fácil de aplicar. Los profesionales de salud recomiendan esta opción para heridas difíciles de curar. La miel es un producto natural efectivo que mejora la cicatrización.",
+      "body_en": "A team of researchers reviewed many studies on honey use in wounds. The results are very positive. Honey accelerates healing of postoperative wounds, chronic ulcers, and burns. This natural dressing reduces infections and promotes tissue granulation. Honey has antibacterial properties that protect the wound. Patients need clean dressings with honey regularly. The treatment is economical and easy to apply. Healthcare professionals recommend this option for difficult-to-heal wounds. Honey is an effective natural product that improves scarring and healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS21GalNmU2l4ZTlCbGJEUW1zT0Nna21oNFl4cnZDVVZVMGoxZkNsRE04ZHFyeFEzRlpjUWlUS2R3LVBjRlBBUW4wU3RWM3NuWmU1NmVvX1lwX0RpVFRRVEhmZlVDTmlBY2VBRlNlWEVydDdPVThBamhuX1BoalZvSjlGZThHOFVaUC0zMTBieXZ6QWtwMmFiSkJGbDlDSTRON0dxaW94aGRUNTZtMUw2ZHluQ2dPOTNXZXRTOVpJbkhOVEMxR01mMndrMXZTTzY1M1RkaGlPYkhBU1ZCcnNiektzVFdVMEczaVpnejhRV1NjRVJtZWRYbEdB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-06/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo en la herida",
+          "definition_en": "granulation - formation of new tissue in wound"
+        },
+        {
+          "word": "antibacteriana",
+          "definition_es": "propiedad que mata las bacterias",
+          "definition_en": "antibacterial - property that kills bacteria"
+        }
+      ],
+      "added_at": "2026-04-06T09:33:01.760440Z"
+    },
+    {
+      "id": "diabetic-foot-20250406",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "Probióticos Tópicos: Una Nueva Esperanza para las Úlceras del Pie Diabético",
+      "headline_en": "Topical Probiotics: New Hope for Diabetic Foot Ulcers",
+      "summary_es": "Investigadores descubren que los probióticos tópicos pueden mejorar la cicatrización en pacientes con úlceras del pie diabético. Este tratamiento innovador complementa la atención estándar.",
+      "body_es": "Los probióticos tópicos representan un avance prometedor en el tratamiento de las úlceras del pie diabético. Estos microorganismos beneficiosos aceleran el proceso de epitelización y reducen el riesgo de infecciones secundarias. Los estudios demuestran que los probióticos modulan la respuesta inmunológica local, promoviendo una mejor granulación del tejido. El tratamiento se aplica directamente sobre la úlcera después del desbridamiento. Los pacientes con diabetes mellitus frecuentemente desarrollan úlceras crónicas que requieren múltiples apósitos especializados. La aplicación de probióticos mejora los resultados clínicos comparados con los vendajes convencionales. Este enfoque terapéutico es particularmente beneficioso en úlceras infectadas o de lenta cicatrización. Los profesionales recomiendan combinar probióticos con cuidados estándar de heridas.",
+      "body_en": "Topical probiotics represent a promising advance in treating diabetic foot ulcers. These beneficial microorganisms accelerate the epithelialization process and reduce the risk of secondary infections. Studies show that probiotics modulate local immune response, promoting better tissue granulation. The treatment is applied directly to the ulcer after debridement. Patients with diabetes mellitus frequently develop chronic ulcers requiring multiple specialized dressings. Applying probiotics improves clinical outcomes compared with conventional dressings. This therapeutic approach is particularly beneficial for infected or slow-healing ulcers. Professionals recommend combining probiotics with standard wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjRiVVJIMFZiaFg2M3VpV3dTelU4NFByTmdkSnBvRkJUdDRXOVI1VzFHMy14S0Z1Y1lQN1AtMjhiTTZ2ZzdjMTAzQXd0VHRock14SGFTY1lHamZCbmhvU2IwVVFGdGtiYjdORmY5SlpMeTNJS3lLdXJhUzFjMWczdzlfbGhtTC1WUWYyalduRGg0ODdUVHBfVU9uYVZLbWJpVlQwU0lTRQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-06/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "probióticos",
+          "definition_es": "microorganismos beneficiosos que mejoran la salud",
+          "definition_en": "probiotics - beneficial microorganisms that improve health"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de la capa externa de piel nueva",
+          "definition_en": "epithelialization - formation of new outer skin layer"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo en un área",
+          "definition_en": "ischemia - lack of blood flow to an area"
+        }
+      ],
+      "added_at": "2026-04-06T09:33:01.760440Z"
+    },
+    {
+      "id": "surgical-wounds-20250406",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Ácido Hialurónico Tópico Reduce el Dolor y Acelera la Cicatrización Quirúrgica",
+      "headline_en": "Topical Hyaluronic Acid Reduces Pain and Accelerates Surgical Wound Healing",
+      "summary_es": "Un ensayo clínico controlado demuestra que el ácido hialurónico tópico reduce significativamente el dolor y mejora la cicatrización después de la frenectomía por electrocauterio.",
+      "body_es": "Un estudio randomizado controlado evaluó el efecto del ácido hialurónico tópico en heridas quirúrgicas post-frenectomía. Los resultados demuestran que este apósito innovador reduce considerablemente el dolor postoperatorio en los primeros días. El ácido hialurónico promueve la hidratación tisular y acelera el proceso de epitelización. Los pacientes que recibieron este tratamiento experimentaron menor inflamación y mejor cicatrización comparados con los controles. La aplicación del apósito fue simple: se colocó directamente sobre la herida después del procedimiento de electrocauterio. Este gel de ácido hialurónico mantiene el ambiente húmedo óptimo para la granulación del tejido. Los profesionales observaron reducción significativa de eritema y edema en el seguimiento postoperatorio. Este apósito representa un avance importante en el manejo del dolor quirúrgico y la cicatrización de heridas.",
+      "body_en": "A randomized controlled trial evaluated the effect of topical hyaluronic acid on post-frenectomy surgical wounds. Results demonstrate that this innovative dressing significantly reduces postoperative pain in the first days. Hyaluronic acid promotes tissue hydration and accelerates the epithelialization process. Patients receiving this treatment experienced less inflammation and better wound healing compared to controls. Dressing application was simple: placed directly on the wound after electrocautery procedure. This hyaluronic acid gel maintains the optimal moist environment for tissue granulation. Professionals observed significant reduction in erythema and edema during postoperative follow-up. This dressing represents an important advance in surgical pain management and wound healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdmg4YXl0ckJlcFB6dlZqZUdWQUJFUjFocnowSHl1QVp1aF90OUE1dTAzRldybVpUZHdSdUJKX3p4S0FteXYxb3lJX282d3hxRW1Nb1lFamJaaU9udnFmQ0FuQ3kyVlZ6VHYzSHdFVDlTenU3QURBSEg1TW1jSmJrSlhwVlF2ZnBwamtYTHhHN1pGaTk1LWdLNmxaaDN4ajVzbjdpSF9VX2MwOEhXWE9Sb0Nua2N5bXZKanBfWWJBN1VncWNoZjFWWUpoQmFXTmxvQ2Exc0dJa0haMVQ1UEdHUVl6MGNCTjFVb3c2b1pWV3JlNVl1U1lz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-06/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material adherente para proteger heridas quirúrgicas",
+          "definition_en": "dressing - adhesive material to protect surgical wounds"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva capa de epidermis",
+          "definition_en": "epithelialization - formation of new epidermal layer"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel por inflamación",
+          "definition_en": "erythema - skin redness from inflammation"
+        },
+        {
+          "word": "edema",
+          "definition_es": "hinchazón por acumulación de líquido en tejidos",
+          "definition_en": "edema - swelling from fluid accumulation in tissues"
+        }
+      ],
+      "added_at": "2026-04-06T09:33:01.760440Z"
+    },
     {
       "id": "chronic-wounds-20250405",
       "category": "Chronic Wounds",
@@ -14283,6 +14394,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-05T09:17:51.239953Z",
+  "last_updated": "2026-04-06T09:33:01.760440Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
