@@ -1,11 +1,196 @@
 {
-  "date": "2026-04-06",
-  "generated_at": "2026-04-06T09:33:01.760440Z",
+  "date": "2026-04-07",
+  "generated_at": "2026-04-07T09:29:38.354351Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 389,
-  "new_today": 3,
+  "total_stories": 394,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250407",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La Miel es Efectiva para Curar Heridas y Úlceras",
+      "headline_en": "Honey is Effective for Healing Wounds and Ulcers",
+      "summary_es": "Una revisión sistemática demuestra que el vendaje con miel acelera la curación de heridas postoperatorias, úlceras y quemaduras. Este tratamiento natural es seguro y efectivo para los pacientes.",
+      "body_es": "Un estudio reciente publicado en Cureus examina el uso de miel en vendajes para heridas. Los resultados muestran que la miel ayuda a cicatrizar heridas más rápido. Los apósitos con miel previenen infecciones en heridas postoperatorias. También son efectivos para úlceras crónicas y quemaduras. La miel tiene propiedades antibacterianas naturales. Los enfermeros pueden aplicar vendajes con miel en la clínica. Este tratamiento es económico y accesible. Los pacientes con heridas difíciles de curar se benefician especialmente. La investigación recomienda usar miel como opción de tratamiento. Este método tradicional ahora tiene validación científica moderna.",
+      "body_en": "A recent study published in Cureus examines the use of honey in wound dressings. The results show that honey helps wounds heal faster. Honey dressings prevent infections in postoperative wounds. They are also effective for chronic ulcers and burns. Honey has natural antibacterial properties. Nurses can apply honey dressings in clinical settings. This treatment is economical and accessible. Patients with difficult-to-heal wounds benefit especially. The research recommends using honey as a treatment option. This traditional method now has modern scientific validation.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUQ4N1NhZlVfMzR3M3RIR0Q4dlNNMXlxSEZwakw1RUFyNEdzcXAwc1hwakg4Z1djelgtc01uZ1l6R2ZwVmZKNWFGVlZLNjFUem1PWjJVS2Fzem83QWxOSHZteUdqR1dJSjlGQ1dMaTYyNVM2M05Zak1HVjVrU2NQeVVpRjVGcVdpX0VVOUVMZDFKYXRsa25tVmU3UGlKbVZtREV5bnIwWktJZzlWbXh5cl9wXzc4UFJVdkpqN2N1NWhaOUtBYUlpVUNLMnM2eXF5Q3BBaEZ5S1NGZEw4UVlCOQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-07/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        },
+        {
+          "word": "herida postoperatoria",
+          "definition_es": "lesión en la piel después de una cirugía",
+          "definition_en": "postoperative wound - skin injury after surgery"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de bacterias en una herida",
+          "definition_en": "infection - invasion of bacteria in a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y cierre de heridas",
+          "definition_en": "healing - process of wound closure and repair"
+        }
+      ],
+      "added_at": "2026-04-07T09:29:38.354351Z"
+    },
+    {
+      "id": "diabetic-foot-20250407",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "La Diabetes Causa el 60% de las Amputaciones de Miembros en Nigeria",
+      "headline_en": "Diabetes Responsible for 60% of Limb Amputations in Nigeria",
+      "summary_es": "Especialistas en Nigeria advierten que la diabetes es responsable del 60% de las amputaciones de extremidades. Esta cifra alarmante destaca la necesidad de mejorar el cuidado de heridas diabéticas y la prevención.",
+      "body_es": "Según especialistas médicos en Nigeria, la diabetes es la causa principal de amputaciones de miembros en el país. Aproximadamente el 60% de todas las amputaciones están relacionadas con complicaciones diabéticas. Las úlceras del pie diabético se desarrollan cuando los pacientes no reciben tratamiento adecuado. Los profesionales de enfermería deben evaluar regularmente los pies de pacientes diabéticos. La detección temprana de lesiones puede prevenir amputaciones. El manejo del edema y la evaluación del exudado son esenciales. Los especialistas recomiendan educación del paciente sobre el cuidado de heridas. Se necesita mejorar el acceso a servicios de podología. Las úlceras por presión y las lesiones isquémicas requieren atención inmediata. Este problema de salud pública requiere intervención urgente en toda la región.",
+      "body_en": "According to medical specialists in Nigeria, diabetes is the leading cause of limb amputations in the country. Approximately 60% of all amputations are related to diabetic complications. Diabetic foot ulcers develop when patients do not receive proper treatment. Nursing professionals must regularly evaluate the feet of diabetic patients. Early detection of injuries can prevent amputations. Management of edema and evaluation of exudate are essential. Specialists recommend patient education on wound care. There is a need to improve access to podiatry services. Pressure ulcers and ischemic lesions require immediate attention. This public health problem requires urgent intervention throughout the region.",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS0tNRjFEU2J2STRHYmNoN0pwM2YyRkdWeEFha2tqMVN5M29PMF9rRmFwRHR4U0EwNldLejR5Q3hTblFrTXhwN1E5LW5RWFZXaXlJM2RYS2p2UjJtZHY2RU1XTjhjb2tQaE04dW5VV3ZYUGhiaFBRQjkxbG53SmwyNW9Rd1AzQkd0Q2t0MDZxdmhaUQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-07/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "lesión en el pie causada por complicaciones de diabetes",
+          "definition_en": "diabetic foot ulcer - foot wound caused by diabetes complications"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de un miembro",
+          "definition_en": "amputation - surgical removal of a limb"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo en un tejido",
+          "definition_en": "ischemia - lack of blood flow to tissue"
+        },
+        {
+          "word": "edema",
+          "definition_es": "inflamación causada por acumulación de líquido",
+          "definition_en": "edema - swelling caused by fluid accumulation"
+        }
+      ],
+      "added_at": "2026-04-07T09:29:38.354351Z"
+    },
+    {
+      "id": "burn-care-20250407",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Apósitos de Miel Demuestran Eficacia en el Tratamiento de Quemaduras",
+      "headline_en": "Honey Dressings Prove Effective in Burn Treatment",
+      "summary_es": "Una revisión sistemática en Cureus confirma que los apósitos con miel aceleran la cicatrización en quemaduras. Los hallazgos sugieren que la miel puede ser una opción terapéutica segura y efectiva para pacientes quemados.",
+      "body_es": "Un análisis sistemático de estudios publicado en Cureus evalúa la aplicación de vendajes con miel en quemaduras. Los resultados demuestran que la miel acelera la epitelización y reduce la necrosis tisular. El apósito con miel crea un ambiente húmedo que favorece la granulación. Los pacientes con quemaduras de espesor parcial responden bien a este tratamiento. La miel tiene propiedades antimicrobianas que previenen infecciones secundarias. Los enfermeros pueden cambiar los vendajes con miel regularmente sin dañar el tejido. Este tratamiento también disminuye el dolor durante los cambios de apósito. Se observó que las cicatrices fueron menos visibles con este método. La investigación recomienda usar miel en quemaduras de segundo grado. Este apósito natural ofrece una alternativa económica a los vendajes sintéticos costosos.",
+      "body_en": "A systematic analysis of studies published in Cureus evaluates the application of honey dressings in burns. The results demonstrate that honey accelerates epithelialization and reduces tissue necrosis. Honey dressing creates a moist environment that favors granulation. Patients with partial-thickness burns respond well to this treatment. Honey has antimicrobial properties that prevent secondary infections. Nurses can change honey dressings regularly without damaging the tissue. This treatment also reduces pain during dressing changes. Scarring was observed to be less visible with this method. The research recommends using honey in second-degree burns. This natural dressing offers an economical alternative to expensive synthetic dressings.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUQ4N1NhZlVfMzR3M3RIR0Q4dlNNMXlxSEZwakw1RUFyNEdzcXAwc1hwakg4Z1djelgtc01uZ1l6R2ZwVmZKNWFGVlZLNjFUem1PWjJVS2Fzem83QWxOSHZteUdqR1dJSjlGQ1dMaTYyNVM2M05Zak1HVjVrU2NQeVVpRjVGcVdpX0VVOUVMZDFKYXRsa25tVmU3UGlKbVZtREV5bnIwWktJZzlWbXh5cl9wXzc4UFJVdkpqN2N1NWhaOUtBYUlpVUNLMnM2eXF5Q3BBaEZ5S1NGZEw4UVlCOQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-07/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura de espesor parcial",
+          "definition_es": "lesión térmica que afecta epidermis y parte de la dermis",
+          "definition_en": "partial-thickness burn - thermal injury affecting epidermis and part of dermis"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel",
+          "definition_en": "epithelialization - process of new skin formation"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido de reparación en heridas",
+          "definition_en": "granulation - formation of repair tissue in wounds"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de células o tejido",
+          "definition_en": "necrosis - death of cells or tissue"
+        }
+      ],
+      "added_at": "2026-04-07T09:29:38.354351Z"
+    },
+    {
+      "id": "surgical-wounds-20250407",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "✂️",
+      "gradient": "blue",
+      "headline_es": "Apósitos de Miel Mejoran la Curación de Heridas Postoperatorias",
+      "headline_en": "Honey Dressings Improve Healing of Postoperative Wounds",
+      "summary_es": "Una revisión de Cureus demuestra que los apósitos con miel aceleran la cicatrización de heridas postoperatorias. Este tratamiento reduce complicaciones y mejora los resultados quirúrgicos.",
+      "body_es": "Un estudio publicado en Cureus analiza la efectividad de los apósitos con miel en heridas postoperatorias. Los hallazgos muestran que la miel promueve la cicatrización más rápida comparada con apósitos convencionales. El ambiente húmedo creado por la miel favorece la formación de tejido de granulación. Los pacientes tienen menos infecciones cuando se utilizan vendajes con miel. La eritema y el edema disminuyen significativamente con este tratamiento. Los especialistas observaron que las sutures se pueden retirar más temprano. La miel también reduce el dolor postoperatorio durante los cambios de vendaje. Este apósito es especialmente efectivo en cirugías abdominales y torácicas. La evaluación del exudado se facilita con apósitos transparentes de miel. Se recomienda cambiar los vendajes cada dos días en heridas con drenaje moderado.",
+      "body_en": "A study published in Cureus analyzes the effectiveness of honey dressings in postoperative wounds. The findings show that honey promotes faster healing compared to conventional dressings. The moist environment created by honey promotes granulation tissue formation. Patients have fewer infections when honey dressings are used. Erythema and edema decrease significantly with this treatment. Specialists observed that sutures can be removed earlier. Honey also reduces postoperative pain during dressing changes. This dressing is especially effective in abdominal and thoracic surgery. Evaluation of exudate is facilitated with transparent honey dressings. It is recommended to change dressings every two days in wounds with moderate drainage.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUQ4N1NhZlVfMzR3M3RIR0Q4dlNNMXlxSEZwakw1RUFyNEdzcXAwc1hwakg4Z1djelgtc01uZ1l6R2ZwVmZKNWFGVlZLNjFUem1PWjJVS2Fzem83QWxOSHZteUdqR1dJSjlGQ1dMaTYyNVM2M05Zak1HVjVrU2NQeVVpRjVGcVdpX0VVOUVMZDFKYXRsa25tVmU3UGlKbVZtREV5bnIwWktJZzlWbXh5cl9wXzc4UFJVdkpqN2N1NWhaOUtBYUlpVUNLMnM2eXF5Q3BBaEZ5S1NGZEw4UVlCOQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-07/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida postoperatoria",
+          "definition_es": "lesión en la piel después de una intervención quirúrgica",
+          "definition_en": "postoperative wound - skin injury after surgical intervention"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel causado por inflamación",
+          "definition_en": "erythema - skin redness caused by inflammation"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que se filtra de una herida",
+          "definition_en": "exudate - fluid that seeps from a wound"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "técnica de cierre de heridas con hilo",
+          "definition_en": "suture - wound closure technique using thread"
+        }
+      ],
+      "added_at": "2026-04-07T09:29:38.354351Z"
+    },
+    {
+      "id": "wound-research-20250407",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Los Avances Recientes Transforman el Mercado de Dispositivos para Heridas",
+      "headline_en": "Recent Advances Transform the Wound Care Devices Market",
+      "summary_es": "Nuevas tecnologías están revolucionando el tratamiento de heridas crónicas y complejas. El mercado de dispositivos para cuidado de heridas crece gracias a innovaciones en apósitos inteligentes y sistemas de drenaje.",
+      "body_es": "Según análisis de mercado recientes, los avances tecnológicos están transformando el cuidado de heridas. Los dispositivos innovadores permiten monitoreo continuo de heridas mediante sensores integrados. Los apósitos inteligentes pueden detectar infecciones antes de que se desarrollen completamente. La presión negativa y los sistemas de drenaje mejorado aceleran la cicatrización. Los enfermeros pueden evaluar la granulación y el exudado más precisamente. Las nuevas técnicas de desbridamiento son menos invasivas y más efectivas. La investigación demuestra que los apósitos bioactivos reducen la inflamación y el edema. Los hospitales invierten en tecnologías que mejoran los resultados de las heridas. Se espera que el mercado continúe creciendo en los próximos años. Estos avances mejoran la calidad de vida de pacientes con heridas crónicas.",
+      "body_en": "According to recent market analysis, technological advances are transforming wound care. Innovative devices allow continuous monitoring of wounds through integrated sensors. Smart dressings can detect infections before they fully develop. Negative pressure and improved drainage systems accelerate healing. Nurses can evaluate granulation and exudate more precisely. New debridement techniques are less invasive and more effective. Research demonstrates that bioactive dressings reduce inflammation and edema. Hospitals invest in technologies that improve wound outcomes. The market is expected to continue growing in the coming years. These advances improve the quality of life for patients with chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0Uwd0d2WjVlc2RlbEV0UXhKMkVSb3FxYmhjSEoyWWZ5aUJMQkhvTE1XRjBxZ3M4TG1NTWdEUmdaU0lMVTZOa1FrUGhGZHl5enVUWHF3VVB3ZnoycGVXOENLeFBsSFhFbVAzNE5RUkFoS2txOGEwVkRYTWMwaW8ydkYtbXMxT3ZPR1RkZzNrLVlmZjlKVHc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-07/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito inteligente",
+          "definition_es": "vendaje con sensores para monitorear heridas",
+          "definition_en": "smart dressing - dressing with sensors to monitor wounds"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "presión negativa",
+          "definition_es": "técnica de succión para promover cicatrización",
+          "definition_en": "negative pressure - suction technique to promote healing"
+        },
+        {
+          "word": "bioactivo",
+          "definition_es": "material que interactúa biológicamente con tejidos",
+          "definition_en": "bioactive - material that biologically interacts with tissues"
+        }
+      ],
+      "added_at": "2026-04-07T09:29:38.354351Z"
+    },
     {
       "id": "chronic-wounds-20250406",
       "category": "Chronic Wounds",
@@ -14394,6 +14579,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-06T09:33:01.760440Z",
+  "last_updated": "2026-04-07T09:29:38.354351Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
