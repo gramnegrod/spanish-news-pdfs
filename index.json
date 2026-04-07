@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-07",
+      "filename": "spanish_lesson_2026-04-07.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-07.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "¿Pueden los políticos remover al presidente con la enmienda 25?",
+          "headline_en": "Can politicians remove the president with the 25th amendment?",
+          "body_es": "La enmienda 25 es una ley especial de Estados Unidos. Esta ley permite cambiar al presidente si no puede hacer su trabajo. El vicepresidente y otros ministros deben estar de acuerdo. Necesitan votar juntos para usar esta ley. Algunos políticos hablan de invocar esta enmienda contra Trump. Sin embargo, es muy difícil de usar. La enmienda 25 existe desde 1967. Se creó para situaciones de emergencia. Por ejemplo, si el presidente está muy enfermo. Muchos expertos dicen que es casi imposible usar esta ley. El Congreso también debe votar. Se necesita una mayoría muy grande. Esta enmienda es controversial en la política americana.",
+          "body_en": "The 25th amendment is a special law in the United States. This law allows changing the president if they cannot do their job. The vice president and other ministers must agree. They need to vote together to use this law. Some politicians talk about invoking this amendment against Trump. However, it is very difficult to use. The 25th amendment has existed since 1967. It was created for emergency situations. For example, if the president is very sick. Many experts say it is almost impossible to use this law. Congress must also vote. A very large majority is needed. This amendment is controversial in American politics.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Banquero advierte que guerra con Irán puede aumentar precios",
+          "headline_en": "Banker warns that war with Iran could increase prices",
+          "body_es": "Jamie Dimon es el director del banco JPMorgan. Es uno de los bancos más grandes del mundo. Dimon advierte sobre problemas económicos. Dice que una guerra con Irán puede ser muy costosa. Esta guerra puede causar inflación en todo el mundo. Los precios de la gasolina subirían mucho. También subirían los precios de la comida. Las tasas de interés también pueden aumentar. Esto significa que pedir dinero prestado será más caro. Las familias tendrían menos dinero para gastar. Dimon habla con otros banqueros sobre estos riesgos. Los mercados financieros están nerviosos. Muchos inversores tienen miedo. La situación en Medio Oriente afecta la economía global. Los expertos recomiendan tener cuidado con las inversiones.",
+          "body_en": "Jamie Dimon is the director of JPMorgan bank. It is one of the largest banks in the world. Dimon warns about economic problems. He says that a war with Iran could be very costly. This war could cause inflation worldwide. Gas prices would rise a lot. Food prices would also rise. Interest rates could also increase. This means that borrowing money will be more expensive. Families would have less money to spend. Dimon talks with other bankers about these risks. Financial markets are nervous. Many investors are afraid. The situation in the Middle East affects the global economy. Experts recommend being careful with investments.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Fábricas prueban inteligencia artificial para traducir idiomas",
+          "headline_en": "Factories test artificial intelligence to translate languages",
+          "body_es": "Las fábricas americanas tienen un problema de comunicación. Muchos trabajadores hablan diferentes idiomas. Esto puede causar accidentes y errores. Los fabricantes están probando nueva tecnología. Usan inteligencia artificial para traducir en tiempo real. Esta tecnología puede traducir del español al inglés instantáneamente. También traduce otros idiomas como chino y árabe. Los trabajadores usan dispositivos especiales con micrófonos. La traducción aparece en pantallas o auriculares. Esta tecnología mejora la seguridad en el trabajo. Los supervisores pueden comunicarse mejor con todos. También ayuda con el entrenamiento de nuevos empleados. Las empresas dicen que reduce los accidentes. La tecnología todavía está en prueba. Pero los resultados son prometedores para el futuro.",
+          "body_en": "American factories have a communication problem. Many workers speak different languages. This can cause accidents and errors. Manufacturers are testing new technology. They use artificial intelligence to translate in real time. This technology can translate from Spanish to English instantly. It also translates other languages like Chinese and Arabic. Workers use special devices with microphones. The translation appears on screens or headphones. This technology improves workplace safety. Supervisors can communicate better with everyone. It also helps with training new employees. Companies say it reduces accidents. The technology is still being tested. But the results are promising for the future.",
+          "source": "Manufacturing Dive"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "enmienda",
+          "syllables": "en-MIEN-da",
+          "pos": "sustantivo",
+          "context": "La enmienda 25 permite cambiar al presidente.",
+          "definition_es": "Cambio oficial en una ley o constitución",
+          "definition_en": "Official change to a law or constitution"
+        },
+        {
+          "word": "invocar",
+          "syllables": "in-vo-CAR",
+          "pos": "verbo",
+          "context": "Los políticos pueden invocar esta ley especial.",
+          "definition_es": "Usar o aplicar una ley o regla",
+          "definition_en": "To use or apply a law or rule"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La guerra puede causar inflación en los precios.",
+          "definition_es": "Aumento general de los precios",
+          "definition_en": "General increase in prices"
+        },
+        {
+          "word": "advertir",
+          "syllables": "ad-ver-TIR",
+          "pos": "verbo",
+          "context": "El banquero advierte sobre problemas económicos.",
+          "definition_es": "Avisar sobre un peligro o problema",
+          "definition_en": "To warn about a danger or problem"
+        },
+        {
+          "word": "fabricantes",
+          "syllables": "fa-bri-CAN-tes",
+          "pos": "sustantivo",
+          "context": "Los fabricantes usan nueva tecnología.",
+          "definition_es": "Personas o empresas que hacen productos",
+          "definition_en": "People or companies that make products"
+        },
+        {
+          "word": "traducción",
+          "syllables": "tra-duc-CIÓN",
+          "pos": "sustantivo",
+          "context": "La traducción automática ayuda a los trabajadores.",
+          "definition_es": "Cambiar palabras de un idioma a otro",
+          "definition_en": "Changing words from one language to another"
+        },
+        {
+          "word": "comunicación",
+          "syllables": "co-mu-ni-ca-CIÓN",
+          "pos": "sustantivo",
+          "context": "La buena comunicación es importante en el trabajo.",
+          "definition_es": "Intercambio de información entre personas",
+          "definition_en": "Exchange of information between people"
+        },
+        {
+          "word": "tasas de interés",
+          "syllables": "TA-sas de in-te-RÉS",
+          "pos": "sustantivo",
+          "context": "Las tasas de interés pueden subir por la guerra.",
+          "definition_es": "Precio del dinero que prestan los bancos",
+          "definition_en": "Price of money that banks lend"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'enmienda'?",
+          "options": [
+            "Un cambio oficial en una ley",
+            "Un tipo de elección",
+            "Un partido político",
+            "Un edificio del gobierno"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'advertir'?",
+          "options": [
+            "Comprar algo",
+            "Avisar sobre un peligro",
+            "Vender productos",
+            "Trabajar en un banco"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es 'inflación'?",
+          "options": [
+            "Una guerra",
+            "Un aumento de precios",
+            "Un tipo de tecnología",
+            "Una ley política"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'fabricantes'?",
+          "options": [
+            "Personas que traducen",
+            "Políticos importantes",
+            "Empresas que hacen productos",
+            "Trabajadores de bancos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿desde cuándo existe la enmienda 25?",
+          "options": [
+            "1965",
+            "1967",
+            "1970",
+            "1975"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Quién es Jamie Dimon?",
+          "options": [
+            "Un político",
+            "Director de JPMorgan",
+            "Un fabricante",
+            "Un trabajador"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué problema tienen las fábricas americanas?",
+          "options": [
+            "Falta de trabajadores",
+            "Problemas de comunicación",
+            "Máquinas rotas",
+            "Precios altos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según Dimon, ¿qué puede causar una guerra con Irán?",
+          "options": [
+            "Menos trabajos",
+            "Inflación",
+            "Más fábricas",
+            "Mejor tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué necesita el Congreso para usar la enmienda 25?",
+          "options": [
+            "Una mayoría pequeña",
+            "Una mayoría muy grande",
+            "Solo el presidente",
+            "Solo el vicepresidente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué idiomas puede traducir la nueva tecnología?",
+          "options": [
+            "Solo español",
+            "Solo inglés",
+            "Español, inglés, chino y árabe",
+            "Solo chino"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-07T09:22:05.820738"
+    },
+    {
       "date": "2026-04-06",
       "filename": "spanish_lesson_2026-04-06.pdf",
       "path": "pdfs/spanish_lesson_2026-04-06.pdf",
@@ -26666,7 +26888,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-06T09:24:12.115049",
+  "last_updated": "2026-04-07T09:22:05.820757",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
