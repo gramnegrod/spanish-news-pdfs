@@ -1,11 +1,196 @@
 {
-  "date": "2026-04-07",
-  "generated_at": "2026-04-07T09:29:38.354351Z",
+  "date": "2026-04-08",
+  "generated_at": "2026-04-08T09:29:31.422306Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 394,
+  "total_stories": 399,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20260408",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Un nuevo vendaje bioelectrónico trata heridas crónicas",
+      "headline_en": "A new bioelectronic dressing treats chronic wounds",
+      "summary_es": "Investigadores desarrollan un vendaje especial que usa tecnología bioelectrónica para tratar heridas crónicas. Este nuevo vendaje combina varias terapias en un solo producto.",
+      "body_es": "Un equipo de científicos ha creado un vendaje nuevo y especial. Este vendaje usa tecnología bioelectrónica para curar heridas crónicas. El vendaje combina múltiples terapias en un apósito. Los investigadores probaron el vendaje en varios pacientes. Los resultados fueron positivos y prometedores. El vendaje ayuda a las heridas a cicatrizar más rápido. La tecnología es innovadora y revolucionaria. Los médicos creen que este tratamiento mejorará la vida de muchos pacientes. El vendaje bioelectrónico representa un avance importante en la medicina de heridas.",
+      "body_en": "A team of scientists has created a new and special dressing. This dressing uses bioelectronic technology to heal chronic wounds. The dressing combines multiple therapies in one dressing. Researchers tested the dressing in several patients. The results were positive and promising. The dressing helps wounds heal faster. The technology is innovative and revolutionary. Doctors believe this treatment will improve the lives of many patients. The bioelectronic dressing represents an important advance in wound medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IejcteTVuSnhfWnFRR0tVbU9IQVJwd1BJdThSNFdaeHVQRDFjNzJpWnZGeTlGRUZuc2hrT1JKTk81ekVRUTJ0aFlsTS1FWWZTSG8xb2p5WW9MdVVJZWQ4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-08/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material que cubre una herida para protegerla",
+          "definition_en": "dressing - material that covers a wound to protect it"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente y dura mucho tiempo",
+          "definition_en": "chronic wound - injury that does not heal quickly and lasts a long time"
+        },
+        {
+          "word": "cicatrizar",
+          "definition_es": "proceso natural de curación de una herida",
+          "definition_en": "to heal - natural process of wound recovery"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "vendaje o cubierta médica para heridas",
+          "definition_en": "dressing - medical covering or bandage for wounds"
+        }
+      ],
+      "added_at": "2026-04-08T09:29:31.422306Z"
+    },
+    {
+      "id": "diabetic-foot-20260408",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "blue",
+      "headline_es": "Estudio piloto promete mejorar el tratamiento de úlceras diabéticas",
+      "headline_en": "Pilot study promises to improve treatment of diabetic ulcers",
+      "summary_es": "Un nuevo estudio piloto muestra resultados prometedores en el tratamiento de úlceras crónicas del pie en pacientes diabéticos. Los investigadores están desarrollando nuevas terapias que podrían cambiar la atención médica.",
+      "body_es": "Investigadores han completado un estudio piloto que examina nuevos tratamientos para las úlceras del pie diabético crónicas. El estudio evaluó la efectividad de varias intervenciones terapéuticas en pacientes con diabetes tipo 2. Los resultados preliminares indican que los nuevos tratamientos aceleran la cicatrización y reducen complicaciones. Las úlceras diabéticas del pie representan un desafío clínico significativo que afecta a millones de pacientes worldwide. El tratamiento tradicional requiere evaluación regular, desbridamiento y cuidado de heridas avanzado. Este estudio piloto abre nuevas posibilidades para mejorar los resultados del paciente y prevenir amputaciones. Los investigadores planean expandir el estudio a más centros médicos en el próximo año.",
+      "body_en": "Researchers have completed a pilot study examining new treatments for chronic diabetic foot ulcers. The study evaluated the effectiveness of several therapeutic interventions in patients with type 2 diabetes. Preliminary results indicate that the new treatments accelerate healing and reduce complications. Diabetic foot ulcers represent a significant clinical challenge affecting millions of patients worldwide. Traditional treatment requires regular evaluation, debridement, and advanced wound care. This pilot study opens new possibilities for improving patient outcomes and preventing amputations. Researchers plan to expand the study to more medical centers in the coming year.",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeHFCVGRUWV9KTUd0X0lVSnNPM2Z6OUYtbFJOdzRWdEMxampSSjByTkk4T2NRcUUxTUhUdXZkSmluOGpYdjc4QnVUaDRreHgtRUR5dTl2VUxSc0VMRTZVTFpHQTlLUmQ5anhKdXgyTWR2b1RxT2dTUVpRTzZ1Y2xDd0NkbDVUMXloRUkzQWdGcEs2WTVyT1VZRFFhbnBWSUlk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-08/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on the skin that does not heal easily"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso por el cual una herida se cierra y cura",
+          "definition_en": "healing - process by which a wound closes and recovers"
+        },
+        {
+          "word": "complicaciones",
+          "definition_es": "problemas adicionales que surgen durante el tratamiento",
+          "definition_en": "complications - additional problems that arise during treatment"
+        }
+      ],
+      "added_at": "2026-04-08T09:29:31.422306Z"
+    },
+    {
+      "id": "burn-care-20260408",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Tratamiento innovador reduce hospitalizaciones por quemaduras en 36%",
+      "headline_en": "Innovative burn treatment reduces hospitalizations by 36%",
+      "summary_es": "AVITA Medical presenta nuevos datos sobre un tratamiento de quemaduras que reduce significativamente el tiempo de hospitalización. La empresa participa en 19 presentaciones en la conferencia de la Asociación Americana de Quemados.",
+      "body_es": "AVITA Medical ha demostrado que su nuevo tratamiento para quemaduras agudas reduce las estancias hospitalarias en un 36 por ciento. La empresa presentará estos datos innovadores en la conferencia de 2026 de la Asociación Americana de Quemados (ABA). El tratamiento utiliza tecnología avanzada para acelerar la cicatrización de heridas por quemadura. Los pacientes tratados con este método experimental experimentaron recuperación más rápida y menos complicaciones infecciosas. AVITA Medical ha programado 19 presentaciones en la conferencia para mostrar su cartera completa de cuidado de quemaduras agudas. Este avance es significativo porque las quemaduras graves requieren tratamiento prolongado y cuidado intensivo. Los resultados sugieren que esta nueva terapia podría revolucionar el tratamiento estándar de quemaduras en centros de traumatología.",
+      "body_en": "AVITA Medical has demonstrated that its new acute burn treatment reduces hospital stays by 36 percent. The company will present these innovative data at the 2026 American Burn Association (ABA) conference. The treatment uses advanced technology to accelerate wound healing from burn injuries. Patients treated with this experimental method experienced faster recovery and fewer infectious complications. AVITA Medical has scheduled 19 presentations at the conference to showcase its complete acute burn care portfolio. This advance is significant because severe burns require prolonged treatment and intensive care. The results suggest this new therapy could revolutionize standard burn treatment in trauma centers.",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnBVNFpkZndGc1FoanhqSzNMT0dhdTYwZ2U4aTRQSlpsUV8tNmxPcXF3OFptRFp6ZzhWSjlSZUNPNVJfMmxUMEdZRlIyS2hnYzI2SGhuclVvZEVUMnBWVVlxc2tfRXRJVndmQXpYZEZOMWJZcnJRTWFmY19EdDloaUFQMFFlZFdiUWNtclBzODhpX0NTeng3TlA3T1Brc0ZNZ0F2dUVrMkJ5QWt3dmtDNkI4QW9fUFJ4ZlJSY0xn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-08/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to skin caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de una herida o quemadura",
+          "definition_en": "healing - process of wound or burn recovery"
+        },
+        {
+          "word": "estancia hospitalaria",
+          "definition_es": "período de tiempo que un paciente permanece en el hospital",
+          "definition_en": "hospital stay - period of time a patient remains in the hospital"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos patógenos en el cuerpo",
+          "definition_en": "infection - invasion of pathogenic microorganisms in the body"
+        }
+      ],
+      "added_at": "2026-04-08T09:29:31.422306Z"
+    },
+    {
+      "id": "surgical-wounds-20260408",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Medicamentos GLP-1 pueden retrasar la cicatrización de heridas quirúrgicas",
+      "headline_en": "GLP-1 medications may delay surgical wound healing",
+      "summary_es": "Un nuevo estudio vincula el uso de agonistas del receptor GLP-1 con cicatrización retrasada de heridas quirúrgicas. Los profesionales de enfermedades infecciosas advierten sobre esta complicación potencial.",
+      "body_es": "Un análisis reciente de la literatura médica sugiere que los agonistas del receptor GLP-1, medicamentos ampliamente utilizados para la diabetes y la pérdida de peso, pueden retrasar la cicatrización de heridas quirúrgicas. Los investigadores examinaron múltiples estudios clínicos y encontraron una asociación consistente entre el uso de estos medicamentos y complicaciones de heridas. Los agonistas GLP-1 como la semaglutida y la tirzepatida son extremadamente populares actualmente. Sin embargo, los pacientes que toman estos medicamentos presentan cicatrización más lenta después de cirugías. Este hallazgo tiene implicaciones importantes para la planificación preoperatoria y el cuidado postoperatorio. Los clínicos deben evaluar cuidadosamente si estos medicamentos deben suspenderse antes de procedimientos quirúrgicos electivos. Se necesita más investigación para comprender completamente los mecanismos biológicos detrás de esta complicación.",
+      "body_en": "A recent analysis of medical literature suggests that GLP-1 receptor agonists, medications widely used for diabetes and weight loss, may delay surgical wound healing. Researchers examined multiple clinical studies and found a consistent association between the use of these medications and wound complications. GLP-1 agonists such as semaglutide and tirzepatide are extremely popular currently. However, patients taking these medications experience slower healing after surgeries. This finding has important implications for preoperative planning and postoperative care. Clinicians must carefully evaluate whether these medications should be discontinued before elective surgical procedures. More research is needed to fully understand the biological mechanisms behind this complication.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQW5iWFF1RDlmUjAzRFM1eEdYV196elVCNThoYnpfNV9NcllnU3ZWcVJSUm1idWFBNTVwcnJSNVY5X1loTU9STnctaTRsejZtRHgtMC1oWWQyTVlxUWwtdk0ydjZyUUszcmhjei1ZcjJqd2RXdDZsanB6ZldicmR3Q3Z1dHV1NnR1dDBMcHJEUWpUMjJvaHdYWUtkcF9JRGFDTHJYYU96QUIxRW9EejZkdEJR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-08/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada intencionalmente durante una operación quirúrgica",
+          "definition_en": "surgical wound - injury intentionally created during a surgical operation"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso fisiológico de recuperación de una herida",
+          "definition_en": "healing - physiological process of wound recovery"
+        },
+        {
+          "word": "agonista",
+          "definition_es": "medicamento que activa receptores específicos en el cuerpo",
+          "definition_en": "agonist - medication that activates specific receptors in the body"
+        },
+        {
+          "word": "complicación",
+          "definition_es": "problema médico adicional que surge durante o después del tratamiento",
+          "definition_en": "complication - additional medical problem that arises during or after treatment"
+        }
+      ],
+      "added_at": "2026-04-08T09:29:31.422306Z"
+    },
+    {
+      "id": "wound-research-20260408",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Vendaje bioelectrónico multiterapéutico revoluciona el tratamiento de heridas",
+      "headline_en": "Multi-therapy bioelectronic dressing revolutionizes wound treatment",
+      "summary_es": "Investigadores publican en Nature un estudio sobre un nuevo vendaje bioelectrónico que combina múltiples terapias para acelerar la cicatrización de heridas. Esta innovación representa un avance significativo en la medicina regenerativa.",
+      "body_es": "Un equipo internacional de científicos ha desarrollado un vendaje bioelectrónico innovador publicado en la revista Nature. Este apósito combina varias modalidades terapéuticas en un único dispositivo portátil. El vendaje utiliza estimulación eléctrica para mejorar la cicatrización de heridas. Los investigadores demostraron que el dispositivo acelera la angiogénesis y la epitelización en modelos preclínicos. El vendaje bioelectrónico también reduce la carga bacteriana y minimiza la inflamación excesiva. La tecnología representa un cambio de paradigma en cómo abordamos el tratamiento de heridas crónicas y agudas. Este dispositivo podría transformar el cuidado de heridas en contextos clínicos, hospitalarios y de cuidado domiciliario. Los autores sugieren que la próxima fase incluirá ensayos clínicos en humanos. El desarrollo de este vendaje multiterapéutico muestra el potencial de la ingeniería biomédica para resolver problemas clínicos complejos.",
+      "body_en": "An international team of scientists has developed an innovative bioelectronic dressing published in the journal Nature. This dressing combines several therapeutic modalities in a single portable device. The dressing uses electrical stimulation to improve wound healing. Researchers demonstrated that the device accelerates angiogenesis and epithelialization in preclinical models. The bioelectronic dressing also reduces bacterial load and minimizes excessive inflammation. The technology represents a paradigm shift in how we approach the treatment of chronic and acute wounds. This device could transform wound care in clinical, hospital, and home care settings. The authors suggest the next phase will include clinical trials in humans. The development of this multi-therapy dressing demonstrates the potential of biomedical engineering to solve complex clinical problems.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IejcteTVuSnhfWnFRR0tVbU9IQVJwd1BJdThSNFdaeHVQRDFjNzJpWnZGeTlGRUZuc2hrT1JKTk81ekVRUTJ0aFlsTS1FWWZTSG8xb2p5WW9MdVVJZWQ4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-08/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nuevas células epiteliales en una herida",
+          "definition_en": "epithelialization - process of formation of new epithelial cells in a wound"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos",
+          "definition_en": "angiogenesis - formation of new blood vessels"
+        },
+        {
+          "word": "bioelectrónico",
+          "definition_es": "dispositivo que combina procesos biológicos con estimulación eléctrica",
+          "definition_en": "bioelectronic - device that combines biological processes with electrical stimulation"
+        },
+        {
+          "word": "estimulación",
+          "definition_es": "acción de provocar una respuesta fisiológica",
+          "definition_en": "stimulation - action of triggering a physiological response"
+        }
+      ],
+      "added_at": "2026-04-08T09:29:31.422306Z"
+    },
     {
       "id": "chronic-wounds-20250407",
       "category": "Chronic Wounds",
@@ -14579,6 +14764,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-07T09:29:38.354351Z",
+  "last_updated": "2026-04-08T09:29:31.422306Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
