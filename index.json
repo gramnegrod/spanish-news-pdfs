@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-08",
+      "filename": "spanish_lesson_2026-04-08.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-08.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El cierre del gobierno estadounidense llega a 52 días",
+          "headline_en": "US government shutdown reaches 52 days",
+          "body_es": "El cierre del gobierno de Estados Unidos continúa por 52 días. Esta situación afecta a muchos trabajadores federales que no pueden trabajar. El problema principal es la financiación del Departamento de Seguridad Nacional. Los políticos no pueden llegar a un acuerdo sobre el presupuesto. La Cámara de Representantes debe votar sobre este tema muy pronto. Muchas oficinas del gobierno están cerradas durante este período. Los ciudadanos esperan que los políticos resuelvan el problema rápidamente. Este cierre es uno de los más largos en la historia del país. La falta de acuerdo político causa muchos problemas económicos y sociales.",
+          "body_en": "The United States government shutdown continues for 52 days. This situation affects many federal workers who cannot work. The main problem is the funding of the Department of Homeland Security. Politicians cannot reach an agreement on the budget. The House of Representatives must vote on this issue very soon. Many government offices are closed during this period. Citizens hope that politicians solve the problem quickly. This shutdown is one of the longest in the country's history. The lack of political agreement causes many economic and social problems.",
+          "source": "The Providence Journal"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los precios del petróleo bajan tras acuerdo entre EE.UU. e Irán",
+          "headline_en": "Oil prices fall after agreement between US and Iran",
+          "body_es": "Los precios del petróleo se hundieron después de una noticia importante. Estados Unidos e Irán acordaron un alto el fuego de dos semanas. Esta decisión calmó los mercados financieros mundiales. Los futuros de las acciones estadounidenses saltaron rápidamente tras el anuncio. Los inversores estaban preocupados por un posible conflicto militar en la región. El acuerdo reduce las tensiones en el Medio Oriente temporalmente. Los expertos económicos celebran esta noticia porque puede estabilizar los precios de la energía. Las bolsas de valores de todo el mundo reaccionaron positivamente. Sin embargo, es un acuerdo temporal y la situación puede cambiar pronto.",
+          "body_en": "Oil prices sank after important news. The United States and Iran agreed to a two-week ceasefire. This decision calmed global financial markets. US stock futures jumped quickly after the announcement. Investors were worried about a possible military conflict in the region. The agreement reduces tensions in the Middle East temporarily. Economic experts celebrate this news because it can stabilize energy prices. Stock markets around the world reacted positively. However, it is a temporary agreement and the situation may change soon.",
+          "source": "Orlando Sentinel"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Anthropic presenta proyecto para mejorar la ciberseguridad",
+          "headline_en": "Anthropic presents project to improve cybersecurity",
+          "body_es": "La empresa Anthropic lanzó un nuevo proyecto llamado Glasswing. Este proyecto probará inteligencia artificial avanzada para mejorar la ciberseguridad. La tecnología ayudará a proteger computadoras y sistemas digitales contra ataques. Los ataques cibernéticos son cada vez más frecuentes en todo el mundo. Las empresas y gobiernos necesitan mejor protección digital. El proyecto Glasswing usará algoritmos muy sofisticados para detectar amenazas. Los expertos en tecnología creen que esta innovación puede cambiar la industria. La inteligencia artificial puede identificar peligros más rápido que los humanos. Esta tecnología representa un gran avance en la protección de datos personales y empresariales.",
+          "body_en": "The company Anthropic launched a new project called Glasswing. This project will test advanced artificial intelligence to improve cybersecurity. The technology will help protect computers and digital systems against attacks. Cyberattacks are becoming more frequent worldwide. Companies and governments need better digital protection. Project Glasswing will use very sophisticated algorithms to detect threats. Technology experts believe this innovation can change the industry. Artificial intelligence can identify dangers faster than humans. This technology represents a major advance in protecting personal and business data.",
+          "source": "The Indian Express"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno afecta a muchos trabajadores federales.",
+          "definition_es": "Acción de cerrar o suspender las operaciones",
+          "definition_en": "Shutdown, closure"
+        },
+        {
+          "word": "financiación",
+          "syllables": "fi-nan-cia-CIÓN",
+          "pos": "sustantivo",
+          "context": "El Congreso debe votar sobre la financiación del departamento.",
+          "definition_es": "Dinero necesario para pagar gastos de una organización",
+          "definition_en": "Funding, financing"
+        },
+        {
+          "word": "hundirse",
+          "syllables": "hun-DIR-se",
+          "pos": "verbo",
+          "context": "Los precios del petróleo se hundieron después del acuerdo.",
+          "definition_es": "Bajar mucho de precio o valor",
+          "definition_en": "To sink, to plummet"
+        },
+        {
+          "word": "alto el fuego",
+          "syllables": "AL-to el FUE-go",
+          "pos": "sustantivo",
+          "context": "Estados Unidos e Irán acordaron un alto el fuego de dos semanas.",
+          "definition_es": "Parada temporal de un conflicto militar",
+          "definition_en": "Ceasefire"
+        },
+        {
+          "word": "lanzar",
+          "syllables": "lan-ZAR",
+          "pos": "verbo",
+          "context": "Anthropic lanzó un nuevo proyecto de inteligencia artificial.",
+          "definition_es": "Presentar o iniciar algo nuevo al público",
+          "definition_en": "To launch"
+        },
+        {
+          "word": "ciberseguridad",
+          "syllables": "ci-ber-se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "El proyecto probará la IA avanzada para la ciberseguridad.",
+          "definition_es": "Protección de sistemas informáticos contra ataques",
+          "definition_en": "Cybersecurity"
+        },
+        {
+          "word": "votar",
+          "syllables": "vo-TAR",
+          "pos": "verbo",
+          "context": "La Cámara de Representantes debe votar sobre el presupuesto.",
+          "definition_es": "Expresar una opinión o decisión en una elección",
+          "definition_en": "To vote"
+        },
+        {
+          "word": "saltar",
+          "syllables": "sal-TAR",
+          "pos": "verbo",
+          "context": "Los futuros de las acciones estadounidenses saltaron tras la noticia.",
+          "definition_es": "Subir rápidamente de precio o valor",
+          "definition_en": "To jump, to rise sharply"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'cierre' en el contexto del gobierno?",
+          "options": [
+            "Suspensión de operaciones",
+            "Apertura de oficinas",
+            "Elección de políticos",
+            "Firma de leyes"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'hundirse' cuando hablamos de precios?",
+          "options": [
+            "Subir",
+            "Bajar mucho",
+            "Mantenerse igual",
+            "Fluctuar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'alto el fuego'?",
+          "options": [
+            "Un incendio grande",
+            "Una parada temporal del conflicto",
+            "Una explosión",
+            "Una celebración"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'lanzar' un proyecto?",
+          "options": [
+            "Cancelarlo",
+            "Terminarlo",
+            "Iniciarlo o presentarlo",
+            "Venderlo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos días lleva el cierre del gobierno estadounidense?",
+          "options": [
+            "25 días",
+            "40 días",
+            "52 días",
+            "60 días"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué causó la caída en los precios del petróleo?",
+          "options": [
+            "Una guerra",
+            "Un acuerdo de paz temporal",
+            "Un desastre natural",
+            "Una crisis económica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama el proyecto de Anthropic?",
+          "options": [
+            "Glasswing",
+            "Cybersafe",
+            "TechGuard",
+            "AIProtect"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué departamento necesita financiación según la historia política?",
+          "options": [
+            "Departamento de Educación",
+            "Departamento de Seguridad Nacional",
+            "Departamento de Salud",
+            "Departamento de Agricultura"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por cuánto tiempo acordaron el alto el fuego EE.UU. e Irán?",
+          "options": [
+            "Una semana",
+            "Dos semanas",
+            "Un mes",
+            "Tres meses"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el objetivo principal del proyecto Glasswing?",
+          "options": [
+            "Crear videojuegos",
+            "Mejorar la ciberseguridad",
+            "Desarrollar redes sociales",
+            "Producir música"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-08T09:21:45.820279"
+    },
+    {
       "date": "2026-04-07",
       "filename": "spanish_lesson_2026-04-07.pdf",
       "path": "pdfs/spanish_lesson_2026-04-07.pdf",
@@ -26888,7 +27110,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-07T09:22:05.820757",
+  "last_updated": "2026-04-08T09:21:45.820305",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
