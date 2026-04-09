@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-09",
+      "filename": "spanish_lesson_2026-04-09.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-09.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Demócratas critican amenazas de Trump contra Irán",
+          "headline_en": "Democrats criticize Trump's threats against Iran",
+          "body_es": "Muchos políticos demócratas en el Congreso estadounidense critican las amenazas de Donald Trump contra Irán. Los demócratas dicen que las declaraciones de Trump son peligrosas e irresponsables. Trump habló sobre usar fuerza militar contra Irán en redes sociales. Los políticos de la oposición están muy preocupados por estas palabras. Ellos piensan que Trump no debe hacer amenazas militares tan fuertes. La situación en Medio Oriente es muy complicada ahora. Los demócratas quieren una solución pacífica, no guerra. También dicen que el presidente debe hablar con el Congreso antes de tomar decisiones militares importantes. Esta controversia muestra las diferencias políticas en Estados Unidos sobre política internacional.",
+          "body_en": "Many Democratic politicians in the US Congress criticize Donald Trump's threats against Iran. Democrats say Trump's statements are dangerous and irresponsible. Trump talked about using military force against Iran on social media. Opposition politicians are very concerned about these words. They think Trump should not make such strong military threats. The situation in the Middle East is very complicated now. Democrats want a peaceful solution, not war. They also say the president should speak with Congress before making important military decisions. This controversy shows political differences in the United States about international policy.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Precio del petróleo baja por noticias de paz en Irán",
+          "headline_en": "Oil price drops due to peace news in Iran",
+          "body_es": "El precio del petróleo bajó mucho después de noticias sobre un posible alto el fuego en Irán. Los mercados financieros reaccionaron rápidamente a esta información. Cuando hay menos conflictos en Medio Oriente, el petróleo generalmente cuesta menos. Esta bajada es buena noticia para los conductores estadounidenses. Los expertos dicen que los precios de la gasolina pueden bajar en las próximas semanas. Las familias van a pagar menos dinero para llenar sus automóviles. Los analistas económicos explican que la paz en la región reduce los riesgos para la producción de petróleo. Irán es un país muy importante para la industria petrolera mundial. Si hay estabilidad política, más petróleo llega al mercado internacional y los precios bajan naturalmente.",
+          "body_en": "Oil prices dropped significantly after news about a possible ceasefire in Iran. Financial markets reacted quickly to this information. When there are fewer conflicts in the Middle East, oil generally costs less. This drop is good news for American drivers. Experts say gasoline prices may fall in the coming weeks. Families will pay less money to fill their cars. Economic analysts explain that peace in the region reduces risks for oil production. Iran is a very important country for the global oil industry. If there is political stability, more oil reaches the international market and prices naturally fall.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Ejecutivo tecnológico cambia trabajo por inteligencia artificial",
+          "headline_en": "Tech executive changes job for artificial intelligence",
+          "body_es": "Un ejecutivo importante de la empresa Workday dejó su posición de director de tecnología para trabajar en Anthropic, una compañía de inteligencia artificial. Esta decisión muestra cómo la inteligencia artificial está cambiando el mundo del trabajo. El ejecutivo ahora tiene un título más simple pero trabaja directamente con tecnología muy avanzada. Anthropic es famosa por crear sistemas de inteligencia artificial muy sofisticados. Muchos profesionales de tecnología están haciendo cambios similares para trabajar con IA. Los expertos dicen que esto es normal en la era de la inteligencia artificial. Las empresas de IA ofrecen proyectos muy interesantes y innovadores. Este cambio representa una tendencia importante en Silicon Valley, donde los mejores talentos van a compañías de inteligencia artificial para crear el futuro de la tecnología.",
+          "body_en": "An important executive from Workday company left his position as technology director to work at Anthropic, an artificial intelligence company. This decision shows how artificial intelligence is changing the work world. The executive now has a simpler title but works directly with very advanced technology. Anthropic is famous for creating very sophisticated artificial intelligence systems. Many technology professionals are making similar changes to work with AI. Experts say this is normal in the artificial intelligence era. AI companies offer very interesting and innovative projects. This change represents an important trend in Silicon Valley, where the best talents go to artificial intelligence companies to create the future of technology.",
+          "source": "Business Insider"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "amenazas",
+          "syllables": "a-me-NA-zas",
+          "pos": "sustantivo",
+          "context": "Los demócratas critican las amenazas de Trump contra Irán.",
+          "definition_es": "Palabras o acciones que muestran intención de hacer daño",
+          "definition_en": "Threats; words or actions showing intention to cause harm"
+        },
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "Muchos miembros del congreso expresaron su preocupación.",
+          "definition_es": "Institución legislativa del gobierno",
+          "definition_en": "Congress; legislative institution of government"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo bajó después de las noticias.",
+          "definition_es": "Líquido negro usado para energía y combustible",
+          "definition_en": "Oil; black liquid used for energy and fuel"
+        },
+        {
+          "word": "alto el fuego",
+          "syllables": "AL-to el FUE-go",
+          "pos": "sustantivo",
+          "context": "Las noticias del alto el fuego afectaron los mercados.",
+          "definition_es": "Acuerdo para parar la guerra temporalmente",
+          "definition_en": "Ceasefire; agreement to stop fighting temporarily"
+        },
+        {
+          "word": "gasolina",
+          "syllables": "ga-so-LI-na",
+          "pos": "sustantivo",
+          "context": "Los precios de la gasolina podrían bajar pronto.",
+          "definition_es": "Combustible para automóviles",
+          "definition_en": "Gasoline; fuel for cars"
+        },
+        {
+          "word": "ejecutivo",
+          "syllables": "e-je-cu-TI-vo",
+          "pos": "sustantivo",
+          "context": "Un ejecutivo de tecnología cambió de trabajo.",
+          "definition_es": "Persona con posición importante en una empresa",
+          "definition_en": "Executive; person with important position in a company"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando el trabajo.",
+          "definition_es": "Tecnología que hace que las máquinas piensen como humanos",
+          "definition_en": "Artificial intelligence; technology that makes machines think like humans"
+        },
+        {
+          "word": "criticar",
+          "syllables": "cri-ti-CAR",
+          "pos": "verbo",
+          "context": "Los políticos van a criticar esta decisión.",
+          "definition_es": "Decir que algo está mal o es incorrecto",
+          "definition_en": "To criticize; to say something is wrong or incorrect"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'amenazas'?",
+          "options": [
+            "Promesas de ayuda",
+            "Palabras que muestran intención de hacer daño",
+            "Invitaciones amigables",
+            "Consejos útiles"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'alto el fuego'?",
+          "options": [
+            "Un incendio grande",
+            "Acuerdo para parar la guerra temporalmente",
+            "Una celebración militar",
+            "Un tipo de arma"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inteligencia artificial'?",
+          "options": [
+            "Estudiantes muy inteligentes",
+            "Tecnología que hace que las máquinas piensen como humanos",
+            "Un tipo de robot",
+            "Una universidad especial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'criticar'?",
+          "options": [
+            "Alabar algo",
+            "Decir que algo está mal",
+            "Ignorar completamente",
+            "Comprar productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué piensan los demócratas sobre las amenazas de Trump?",
+          "options": [
+            "Son muy buenas",
+            "Son peligrosas e irresponsables",
+            "Son normales",
+            "Son divertidas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué bajó el precio del petróleo según la historia económica?",
+          "options": [
+            "Por mal tiempo",
+            "Por noticias de alto el fuego en Irán",
+            "Por problemas técnicos",
+            "Por nuevos descubrimientos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa dejó el ejecutivo tecnológico?",
+          "options": [
+            "Anthropic",
+            "Workday",
+            "Microsoft",
+            "Google"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué quieren los demócratas en lugar de guerra?",
+          "options": [
+            "Más amenazas",
+            "Una solución pacífica",
+            "Más conflictos",
+            "Ignorar el problema"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cómo afecta la bajada del petróleo a los conductores estadounidenses?",
+          "options": [
+            "Van a pagar más por gasolina",
+            "No les afecta",
+            "Van a pagar menos por gasolina",
+            "No pueden conducir"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué es importante Anthropic según la historia de tecnología?",
+          "options": [
+            "Vende automóviles",
+            "Es famosa por crear sistemas de IA sofisticados",
+            "Hace comida",
+            "Construye casas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-09T09:24:58.928937"
+    },
+    {
       "date": "2026-04-08",
       "filename": "spanish_lesson_2026-04-08.pdf",
       "path": "pdfs/spanish_lesson_2026-04-08.pdf",
@@ -27110,7 +27332,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-08T09:21:45.820305",
+  "last_updated": "2026-04-09T09:24:58.928956",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
