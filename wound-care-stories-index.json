@@ -1,11 +1,196 @@
 {
-  "date": "2026-04-09",
-  "generated_at": "2026-04-09T09:32:59.147751Z",
+  "date": "2026-04-10",
+  "generated_at": "2026-04-10T09:32:13.927830Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 404,
+  "total_stories": 409,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20260410",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Un nuevo vendaje bioelectrónico ayuda a curar heridas crónicas",
+      "headline_en": "A new bioelectronic dressing helps heal chronic wounds",
+      "summary_es": "Investigadores crean un vendaje inteligente que usa tecnología para mejorar la curación de heridas difíciles. Este vendaje combina varios tratamientos en uno.",
+      "body_es": "Una investigación nueva de Nature presenta un vendaje bioelectrónico innovador. Este vendaje es especial porque usa tecnología electrónica para curar heridas. El vendaje inteligente ayuda a controlar la infección y estimula la curación natural del cuerpo.\n\nLa herida crónica es un problema grave en la medicina. Las heridas no cicatrizan bien por muchas razones. El nuevo vendaje combina varias terapias en un solo producto. Los pacientes con heridas difíciles pueden beneficiarse de este tratamiento avanzado. Los investigadores continúan estudiando los resultados de este vendaje innovador.",
+      "body_en": "New research from Nature presents an innovative bioelectronic dressing. This dressing is special because it uses electronic technology to heal wounds. The smart dressing helps control infection and stimulates the body's natural healing.\n\nChronic wounds are a serious problem in medicine. Wounds do not heal well for many reasons. The new dressing combines several therapies in one product. Patients with difficult wounds can benefit from this advanced treatment. Researchers continue studying the results of this innovative dressing.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IejcteTVuSnhfWnFRR0tVbU9IQVJwd1BJdThSNFdaeHVQRDFjNzJpWnZGeTlGRUZuc2hrT1JKTk85ekVRUTJ0aFlsTS1FWWZTSG8xb2p5WW9MdVVJZWQ4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-10/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material que cubre una herida",
+          "definition_en": "dressing - material that covers a wound"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no sana rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "cicatrizar",
+          "definition_es": "proceso de cerrar y sanar una herida",
+          "definition_en": "to heal - process of closing and healing a wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de bacterias en la herida",
+          "definition_en": "infection - invasion of bacteria in the wound"
+        }
+      ],
+      "added_at": "2026-04-10T09:32:13.927830Z"
+    },
+    {
+      "id": "diabetic-foot-20260410",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "El mercado de úlceras diabéticas del pie alcanzará 9.25 mil millones de dólares en 2033",
+      "headline_en": "The diabetic foot ulcer market will reach $9.25 billion by 2033",
+      "summary_es": "Un nuevo análisis de mercado indica un crecimiento significativo en el tratamiento de úlceras diabéticas del pie. Este aumento refleja la necesidad de mejores soluciones de cuidado.",
+      "body_es": "Según el análisis de openPR.com, el mercado global de úlceras diabéticas del pie experimentará un crecimiento importante en los próximos años. Se espera que alcance 9.25 mil millones de dólares para el año 2033. Este crecimiento económico indica una mayor demanda de tratamientos innovadores y especializados.\n\nLas úlceras diabéticas del pie son complicaciones serias de la diabetes. Afectan a millones de pacientes en todo el mundo y requieren atención especializada constante. El aumento del mercado refleja tanto el número creciente de pacientes diabéticos como los avances en tecnologías de curación. Los profesionales de la salud deben estar preparados para proporcionar cuidados cada vez más sofisticados a estos pacientes vulnerables.",
+      "body_en": "According to openPR.com analysis, the global diabetic foot ulcer market will experience significant growth in the coming years. It is expected to reach $9.25 billion by 2033. This economic growth indicates greater demand for innovative and specialized treatments.\n\nDiabetic foot ulcers are serious complications of diabetes. They affect millions of patients worldwide and require constant specialized attention. The market increase reflects both the growing number of diabetic patients and advances in healing technologies. Healthcare professionals must be prepared to provide increasingly sophisticated care to these vulnerable patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNclEtTUJyTkhqNmwyazJfSmVvbEdvXzRRQ1g0S2JaQThZdUdGZVBIcTlOdExNVmtiTGZBdkhDMXJVQUJYd19jTlRsR21xelJoSUdfa0FnaEJxc1I3Q0xERDBFTk1menlBYlNtbEljclR1eklyUzB5bjFnR2t3NDNzMG1sbVlUMVZRTnI4Q09MZUN1ZlpSd0hlQ2hzbFM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-10/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta en el pie causada por diabetes",
+          "definition_en": "diabetic ulcer - open wound on the foot caused by diabetes"
+        },
+        {
+          "word": "complicación",
+          "definition_es": "problema de salud adicional que surge de una enfermedad",
+          "definition_en": "complication - additional health problem that arises from a disease"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso y tecnologías para sanar heridas",
+          "definition_en": "healing - process and technologies to heal wounds"
+        },
+        {
+          "word": "especializado",
+          "definition_es": "enfocado en un área específica de medicina",
+          "definition_en": "specialized - focused on a specific area of medicine"
+        }
+      ],
+      "added_at": "2026-04-10T09:32:13.927830Z"
+    },
+    {
+      "id": "burn-care-20260410",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Nuevos datos clínicos sobre injertos de piel de pez en quemaduras",
+      "headline_en": "New clinical data on fish-skin grafts for burn care",
+      "summary_es": "Kerecis presenta resultados prometedores sobre el uso de injertos de piel de pez para tratar quemaduras graves. Este enfoque innovador muestra beneficios significativos en la curación.",
+      "body_es": "Durante la Conferencia SAWC Spring, Kerecis presentó nuevos datos clínicos sobre los injertos de piel de pez. Este tratamiento revolucionario utiliza piel de pez del Atlántico para cubrir y curar quemaduras extensas. Los resultados preliminares muestran que el injerto de pez acelera la cicatrización y reduce las complicaciones infecciosas.\n\nLos injertos de piel tradicionales tienen limitaciones importantes. El injerto de pez ofrece una alternativa biológica que es más accesible y efectiva. Los pacientes con quemaduras graves experimentan menos dolor y tiempos de recuperación más cortos con este tratamiento. Los investigadores continúan documentando resultados a largo plazo para confirmar la eficacia del método. Este avance representa un progreso significativo en el cuidado de quemaduras.",
+      "body_en": "During the SAWC Spring Conference, Kerecis presented new clinical data on fish-skin grafts. This revolutionary treatment uses Atlantic fish skin to cover and heal extensive burns. Preliminary results show that fish grafts accelerate scarring and reduce infectious complications.\n\nTraditional skin grafts have significant limitations. Fish grafts offer a biological alternative that is more accessible and effective. Patients with severe burns experience less pain and shorter recovery times with this treatment. Researchers continue to document long-term results to confirm the method's efficacy. This advance represents significant progress in burn care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY29XZGhDSlRldm82Z08tRVE2S0J2bTV2LUNMTGtYMnJJcDlYYUFCNGNRMUM2VHRfNjhsc2k1aVVZNGs2Y1VNdWZmd20wcXVKQ19LSUp0QlJBRVpNRFdZU1FMQk54RU15bml3MEtfckRiRk90YU1Ja2dRM2gyN0I4WHpScUJVdWJLR3RwaVdadFhRVVZDaHg1NkFaY1F6cVFRdWYzQkRQWDNUM0V1OUtCTkw2SzktZmVubFJITlFFdWxIdmVuT0ZSRXNtZ0JNR3BzaEdDMA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-10/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "injerto",
+          "definition_es": "tejido trasplantado para cubrir una herida",
+          "definition_en": "graft - tissue transplanted to cover a wound"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor o fuego",
+          "definition_en": "burn - injury caused by heat or fire"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de una herida",
+          "definition_en": "scarring - wound healing process"
+        },
+        {
+          "word": "infección",
+          "definition_es": "complicación bacterial en la herida",
+          "definition_en": "infection - bacterial complication in the wound"
+        }
+      ],
+      "added_at": "2026-04-10T09:32:13.927830Z"
+    },
+    {
+      "id": "surgical-wounds-20260410",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "El programa ERAS promete reducir infecciones de heridas quirúrgicas",
+      "headline_en": "ERAS program shows promise in reducing surgical site infections",
+      "summary_es": "Un nuevo programa de recuperación mejorada tras cirugía (ERAS) demuestra resultados prometedores en la prevención de infecciones quirúrgicas. Este enfoque multidisciplinario mejora significativamente los resultados del paciente.",
+      "body_es": "Según reportes de Anesthesiology News, los programas de Recuperación Mejorada Tras Anestesia Quirúrgica (ERAS) están mostrando resultados alentadores en la reducción de infecciones de herida quirúrgica. Estos programas coordinan el cuidado preoperatorio, intraoperatorio y postoperatorio del paciente. El enfoque integral mejora la cicatrización y reduce las complicaciones infecciosas.\n\nLas infecciones quirúrgicas son una complicación seria que prolonga la hospitalización. El programa ERAS utiliza mejores prácticas basadas en evidencia para optimizar cada fase de la cirugía. Los pacientes reciben manejo del dolor mejorado, nutrición optimizada y movilización temprana. Estas intervenciones trabajan juntas para fortalecer el sistema inmunológico del paciente. Los resultados iniciales indican que ERAS reduce significativamente las tasas de infección postoperatoria.",
+      "body_en": "According to Anesthesiology News reports, Enhanced Recovery After Surgery (ERAS) programs are showing encouraging results in reducing surgical site infections. These programs coordinate preoperative, intraoperative, and postoperative patient care. The comprehensive approach improves healing and reduces infectious complications.\n\nSurgical infections are a serious complication that prolongs hospitalization. The ERAS program uses evidence-based best practices to optimize each phase of surgery. Patients receive improved pain management, optimized nutrition, and early mobilization. These interventions work together to strengthen the patient's immune system. Initial results indicate that ERAS significantly reduces postoperative infection rates.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1IxTWpSSWpDZmJRZGJEN3JxMmZLZ1d2b05FOTZzR2FSdDhxbFZTNVVjem5kaW14WElvTFBkZ0FGaFlUNFdnZDFhTk1fa0xlQWJNNWxxVFJCVzRyTXBISnYzN2d6NkdTdnRVVUZsdE1nOHJxSUJjbU8tR3BaYzNmMFBwWXlGTk55bFdaeXFtaFNuMWNCcDVVN20tVVdFSnM1WERvWlNlRFFTYzllMmI4V3BA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-10/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada durante una operación",
+          "definition_en": "surgical wound - injury created during an operation"
+        },
+        {
+          "word": "infección postoperatoria",
+          "definition_es": "contaminación bacterial después de cirugía",
+          "definition_en": "postoperative infection - bacterial contamination after surgery"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de curación de la herida",
+          "definition_en": "healing - natural process of wound repair"
+        },
+        {
+          "word": "complicación",
+          "definition_es": "problema inesperado durante la recuperación",
+          "definition_en": "complication - unexpected problem during recovery"
+        }
+      ],
+      "added_at": "2026-04-10T09:32:13.927830Z"
+    },
+    {
+      "id": "wound-research-20260410",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación innovadora sobre vendaje bioelectrónico multicapa para curación avanzada",
+      "headline_en": "Innovative research on multi-therapy bioelectronic dressing for advanced healing",
+      "summary_es": "Nature publica investigación revolucionaria sobre un nuevo vendaje bioelectrónico que combina múltiples terapias en una sola plataforma. Este descubrimiento promete transformar el tratamiento de heridas complejas.",
+      "body_es": "Un equipo de investigadores publicó recientemente en Nature un estudio sobre un vendaje bioelectrónico innovador que revoluciona el cuidado de heridas. Este vendaje combina terapias electrónicas, química y biológica en un solo dispositivo inteligente. El sistema multifuncional controla activamente el ambiente de la herida para optimizar la curación.\n\nLa investigación demuestra que el vendaje bioelectrónico reduce infecciones y acelera la granulación tisular. El dispositivo utiliza bioelectricidad para estimular las células de curación del cuerpo naturalmente. Los resultados preliminares muestran mejoras significativas en heridas que previamente eran difíciles de tratar. Este avance representa un cambio paradigmático en la medicina de heridas. Los investigadores esperan que el vendaje bioelectrónico esté disponible clínicamente en los próximos años.",
+      "body_en": "A team of researchers recently published in Nature a study on an innovative bioelectronic dressing that revolutionizes wound care. This dressing combines electronic, chemical, and biological therapies in a single smart device. The multifunctional system actively controls the wound environment to optimize healing.\n\nThe research demonstrates that the bioelectronic dressing reduces infections and accelerates tissue granulation. The device uses bioelectricity to naturally stimulate the body's healing cells. Preliminary results show significant improvements in wounds that were previously difficult to treat. This advancement represents a paradigm shift in wound medicine. Researchers expect the bioelectronic dressing to be clinically available in the coming years.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IejcteTVuSnhfWnFRR0tVbU9IQVJwd1BJdThSNFdaeHVQRDFjNzJpWnZGeTlGRUZuc2hrT1JKTk85ekVRUTJ0aFlsTS1FWWZTSG8xb2p5WW9MdVVJZWQ4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-10/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "bioelectrónico",
+          "definition_es": "que combina biología y tecnología electrónica",
+          "definition_en": "bioelectronic - combining biology and electronic technology"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido en una herida",
+          "definition_en": "granulation - formation of new tissue in a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de restauración de la salud de la herida",
+          "definition_en": "healing - process of wound health restoration"
+        },
+        {
+          "word": "estimular",
+          "definition_es": "incitar o promover una respuesta biológica",
+          "definition_en": "to stimulate - to incite or promote a biological response"
+        }
+      ],
+      "added_at": "2026-04-10T09:32:13.927830Z"
+    },
     {
       "id": "chronic-wounds-20260409",
       "category": "Chronic Wounds",
@@ -14949,6 +15134,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-09T09:32:59.147751Z",
+  "last_updated": "2026-04-10T09:32:13.927830Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
