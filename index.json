@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-10",
+      "filename": "spanish_lesson_2026-04-10.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-10.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Cierre del gobierno estadounidense dura 54 días sin solución",
+          "headline_en": "US government shutdown lasts 54 days without solution",
+          "body_es": "El gobierno de Estados Unidos está cerrado por 54 días. Esta es una situación muy difícil para el país. El cierre comenzó porque el Congreso no puede votar sobre el presupuesto. Los políticos no están de acuerdo sobre el dinero para el Departamento de Seguridad Nacional. Muchos trabajadores del gobierno no reciben su salario. Los servicios públicos están suspendidos. La gente está preocupada porque no sabe cuándo terminará esta crisis. El Congreso necesita tomar una decisión rápida. Los ciudadanos esperan que los políticos resuelvan este problema pronto. Es importante que el gobierno funcione normalmente para ayudar a todas las personas.",
+          "body_en": "The United States government has been shut down for 54 days. This is a very difficult situation for the country. The shutdown began because Congress cannot vote on the budget. Politicians do not agree on money for the Department of Homeland Security. Many government workers are not receiving their salary. Public services are suspended. People are worried because they don't know when this crisis will end. Congress needs to make a quick decision. Citizens hope that politicians will solve this problem soon. It is important that the government functions normally to help all people.",
+          "source": "The Providence Journal"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El gasto de los consumidores estadounidenses está en problemas",
+          "headline_en": "US consumer spending is in trouble",
+          "body_es": "El gasto de los consumidores es muy importante para la economía de Estados Unidos. Ahora, este gasto está bajo mucha presión. Las personas están comprando menos productos y servicios. Esto es un problema porque las empresas venden menos. Cuando la gente no compra, las tiendas ganan menos dinero. Los precios de muchos productos son muy altos. Las familias tienen menos dinero para gastar. Los economistas están preocupados por esta situación. Si los consumidores no gastan dinero, la economía puede tener problemas grandes. Es necesario encontrar soluciones para ayudar a las familias. El gobierno debe crear políticas para mejorar la situación económica del país.",
+          "body_en": "Consumer spending is very important for the US economy. Now, this spending is under a lot of pressure. People are buying fewer products and services. This is a problem because companies sell less. When people don't buy, stores earn less money. The prices of many products are very high. Families have less money to spend. Economists are worried about this situation. If consumers don't spend money, the economy can have big problems. It is necessary to find solutions to help families. The government must create policies to improve the country's economic situation.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Dos hermanos usan inteligencia artificial para crear empresa millonaria",
+          "headline_en": "Two brothers use artificial intelligence to create million-dollar company",
+          "body_es": "Dos hermanos crearon una empresa que vale 1.8 mil millones de dólares. Usaron la inteligencia artificial para construir su negocio. La inteligencia artificial es una tecnología muy avanzada. Esta tecnología puede hacer muchas cosas que normalmente hacen las personas. Los hermanos tuvieron una idea muy buena. Trabajaron mucho para desarrollar su proyecto. Su empresa ayuda a otras compañías con tecnología inteligente. Muchas personas quieren usar sus servicios. El éxito de estos hermanos muestra que la tecnología puede crear oportunidades increíbles. Estudiaron mucho sobre computadoras y programación. Su historia inspira a otros jóvenes emprendedores. La inteligencia artificial está cambiando el mundo de los negocios.",
+          "body_en": "Two brothers created a company worth 1.8 billion dollars. They used artificial intelligence to build their business. Artificial intelligence is a very advanced technology. This technology can do many things that people normally do. The brothers had a very good idea. They worked hard to develop their project. Their company helps other companies with intelligent technology. Many people want to use their services. The success of these brothers shows that technology can create incredible opportunities. They studied a lot about computers and programming. Their story inspires other young entrepreneurs. Artificial intelligence is changing the business world.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno duró 54 días.",
+          "definition_es": "Acción de cerrar o suspender las actividades",
+          "definition_en": "Closure or shutdown of activities"
+        },
+        {
+          "word": "votar",
+          "syllables": "vo-TAR",
+          "pos": "verbo",
+          "context": "El Congreso debe votar sobre el presupuesto.",
+          "definition_es": "Expresar su opinión o decisión en una elección",
+          "definition_en": "To cast a vote or make a decision"
+        },
+        {
+          "word": "gasto",
+          "syllables": "GAS-to",
+          "pos": "sustantivo",
+          "context": "El gasto de los consumidores está bajo presión.",
+          "definition_es": "Dinero que se usa para comprar algo",
+          "definition_en": "Money spent on purchasing something"
+        },
+        {
+          "word": "consumidor",
+          "syllables": "con-su-mi-DOR",
+          "pos": "sustantivo",
+          "context": "Los consumidores compran menos productos.",
+          "definition_es": "Persona que compra bienes y servicios",
+          "definition_en": "Person who buys goods and services"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Dos hermanos construyeron una empresa de 1.8 mil millones.",
+          "definition_es": "Organización que produce bienes o servicios",
+          "definition_en": "Organization that produces goods or services"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial ayudó a crear la empresa.",
+          "definition_es": "Tecnología que simula la inteligencia humana",
+          "definition_en": "Technology that simulates human intelligence"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El Congreso discute el presupuesto para seguridad nacional.",
+          "definition_es": "Plan de gastos e ingresos de dinero",
+          "definition_en": "Plan of income and expenses"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "El gasto del consumidor es motor de la economía estadounidense.",
+          "definition_es": "Sistema de producción y consumo de un país",
+          "definition_en": "System of production and consumption of a country"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'cierre'?",
+          "options": [
+            "Abrir algo",
+            "Cerrar o suspender actividades",
+            "Comprar productos",
+            "Votar en elecciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'consumidor' es una persona que:",
+          "options": [
+            "Trabaja en el gobierno",
+            "Compra bienes y servicios",
+            "Programa computadoras",
+            "Dirige una empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'presupuesto'?",
+          "options": [
+            "Un tipo de tecnología",
+            "Un plan de gastos e ingresos",
+            "Una tienda grande",
+            "Un trabajador del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La 'inteligencia artificial' es:",
+          "options": [
+            "Una persona muy inteligente",
+            "Un tipo de empresa",
+            "Tecnología que simula inteligencia humana",
+            "Un método de votación"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos días duró el cierre del gobierno estadounidense?",
+          "options": [
+            "45 días",
+            "50 días",
+            "54 días",
+            "60 días"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué el gasto de los consumidores está bajo presión?",
+          "options": [
+            "Las personas compran más productos",
+            "Los precios son muy altos",
+            "Las tiendas están cerradas",
+            "No hay productos para comprar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto vale la empresa que crearon los dos hermanos?",
+          "options": [
+            "1.8 millones de dólares",
+            "1.8 mil millones de dólares",
+            "18 millones de dólares",
+            "18 mil millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué problema causa el cierre del gobierno?",
+          "options": [
+            "Los trabajadores no reciben salario",
+            "Las empresas ganan más dinero",
+            "Los precios bajan",
+            "La gente compra más productos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué tecnología usaron los hermanos para su empresa?",
+          "options": [
+            "Computadoras normales",
+            "Inteligencia artificial",
+            "Teléfonos móviles",
+            "Internet básico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué pasa cuando los consumidores no gastan dinero?",
+          "options": [
+            "La economía mejora",
+            "Las tiendas ganan más",
+            "La economía puede tener problemas",
+            "Los precios bajan automáticamente"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-10T09:24:38.463631"
+    },
+    {
       "date": "2026-04-09",
       "filename": "spanish_lesson_2026-04-09.pdf",
       "path": "pdfs/spanish_lesson_2026-04-09.pdf",
@@ -27332,7 +27554,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-09T09:24:58.928956",
+  "last_updated": "2026-04-10T09:24:38.463653",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
