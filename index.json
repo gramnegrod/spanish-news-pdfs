@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-11",
+      "filename": "spanish_lesson_2026-04-11.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-11.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "¿Puede Estados Unidos traer de vuelta el servicio militar obligatorio?",
+          "headline_en": "Can the United States bring back mandatory military service?",
+          "body_es": "En Estados Unidos hay discusiones sobre el reclutamiento militar obligatorio. Actualmente, el ejército estadounidense es voluntario. Los jóvenes pueden decidir si quieren ser soldados o no. Algunos políticos piensan que el servicio militar obligatorio puede ser necesario en el futuro. Otros creen que el sistema voluntario funciona mejor. El presidente Trump ha expresado diferentes opiniones sobre este tema durante su carrera política. El reclutamiento obligatorio existió en Estados Unidos durante las guerras de Vietnam y la Segunda Guerra Mundial. Muchos ciudadanos tienen opiniones fuertes sobre esta posibilidad. Los expertos militares estudian diferentes opciones para mantener un ejército fuerte. Esta decisión afectaría a millones de jóvenes estadounidenses si se implementa.",
+          "body_en": "In the United States there are discussions about mandatory military draft. Currently, the American military is voluntary. Young people can decide if they want to be soldiers or not. Some politicians think that mandatory military service may be necessary in the future. Others believe the voluntary system works better. President Trump has expressed different opinions on this topic during his political career. Mandatory draft existed in the United States during the Vietnam War and World War II. Many citizens have strong opinions about this possibility. Military experts study different options to maintain a strong army. This decision would affect millions of young Americans if implemented.",
+          "source": "Yahoo"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los gastos de consumidores estadounidenses están bajo presión",
+          "headline_en": "American consumer spending is under pressure",
+          "body_es": "El gasto de los consumidores es muy importante para la economía de Estados Unidos. Representa aproximadamente el 70% de toda la actividad económica del país. Sin embargo, ahora los estadounidenses están gastando menos dinero. Los precios de muchos productos han subido mucho en los últimos años. La comida, la vivienda y la gasolina cuestan más que antes. Muchas familias tienen dificultades para pagar sus gastos básicos. Los salarios no han crecido tan rápido como los precios. Esto significa que las personas pueden comprar menos cosas con el mismo dinero. Los economistas están preocupados porque cuando los consumidores gastan menos, la economía puede crecer más lentamente. Las empresas pueden vender menos productos y contratar menos trabajadores. Esta situación afecta a toda la economía nacional.",
+          "body_en": "Consumer spending is very important for the United States economy. It represents approximately 70% of all economic activity in the country. However, now Americans are spending less money. Prices of many products have risen a lot in recent years. Food, housing and gasoline cost more than before. Many families have difficulties paying their basic expenses. Wages have not grown as fast as prices. This means people can buy fewer things with the same money. Economists are worried because when consumers spend less, the economy can grow more slowly. Companies may sell fewer products and hire fewer workers. This situation affects the entire national economy.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Grandes empresas tecnológicas invierten en energía nuclear para inteligencia artificial",
+          "headline_en": "Big tech companies invest in nuclear energy for artificial intelligence",
+          "body_es": "Las empresas más grandes de tecnología están invirtiendo mucho dinero en energía nuclear moderna. Compañías como Google, Microsoft y Amazon necesitan mucha electricidad para sus centros de datos. Estos centros funcionan día y noche para procesar información de inteligencia artificial. La inteligencia artificial consume muchísima energía eléctrica. Las empresas buscan fuentes de energía limpia y confiable. La energía nuclear puede producir electricidad sin contaminar el aire. Las nuevas plantas nucleares son más seguras que las antiguas. Usan tecnología avanzada para reducir los riesgos. Estas inversiones pueden cambiar el futuro de la energía en Estados Unidos. Los expertos creen que la demanda de electricidad va a crecer mucho en los próximos años. La inteligencia artificial será parte importante de nuestras vidas diarias.",
+          "body_en": "The biggest technology companies are investing a lot of money in modern nuclear energy. Companies like Google, Microsoft and Amazon need a lot of electricity for their data centers. These centers operate day and night to process artificial intelligence information. Artificial intelligence consumes enormous amounts of electrical energy. Companies seek clean and reliable energy sources. Nuclear energy can produce electricity without polluting the air. New nuclear plants are safer than old ones. They use advanced technology to reduce risks. These investments could change the future of energy in the United States. Experts believe electricity demand will grow a lot in coming years. Artificial intelligence will be an important part of our daily lives.",
+          "source": "Reuters"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "reclutamiento",
+          "syllables": "re-clu-ta-MIEN-to",
+          "pos": "sustantivo",
+          "context": "El reclutamiento militar obligatorio es un tema controvertido en Estados Unidos.",
+          "definition_es": "Proceso de llamar a ciudadanos al servicio militar obligatorio",
+          "definition_en": "Military draft; compulsory military service"
+        },
+        {
+          "word": "gastos",
+          "syllables": "GAS-tos",
+          "pos": "sustantivo",
+          "context": "Los gastos de los consumidores están bajo presión económica.",
+          "definition_es": "Dinero que se usa para comprar cosas",
+          "definition_en": "Expenses; spending"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "Las grandes empresas tecnológicas hacen inversión en energía nuclear.",
+          "definition_es": "Dinero puesto en un negocio para ganar más dinero",
+          "definition_en": "Investment"
+        },
+        {
+          "word": "demanda",
+          "syllables": "de-MAN-da",
+          "pos": "sustantivo",
+          "context": "La demanda de energía para inteligencia artificial está creciendo.",
+          "definition_es": "Cantidad de productos que la gente quiere comprar",
+          "definition_en": "Demand"
+        },
+        {
+          "word": "consumidores",
+          "syllables": "con-su-mi-DO-res",
+          "pos": "sustantivo",
+          "context": "Los consumidores estadounidenses gastan menos dinero este año.",
+          "definition_es": "Personas que compran productos y servicios",
+          "definition_en": "Consumers"
+        },
+        {
+          "word": "nuclear",
+          "syllables": "nu-cle-AR",
+          "pos": "adjetivo",
+          "context": "La energía nuclear es importante para las nuevas tecnologías.",
+          "definition_es": "Relacionado con la energía del átomo",
+          "definition_en": "Nuclear"
+        },
+        {
+          "word": "obligatorio",
+          "syllables": "o-bli-ga-TO-rio",
+          "pos": "adjetivo",
+          "context": "El servicio militar obligatorio no existe actualmente en Estados Unidos.",
+          "definition_es": "Que se debe hacer por ley",
+          "definition_en": "Mandatory; compulsory"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las grandes empresas de tecnología invierten en nuevas formas de energía.",
+          "definition_es": "Organizaciones que hacen negocios",
+          "definition_en": "Companies; businesses"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reclutamiento'?",
+          "options": [
+            "Proceso de llamar a ciudadanos al servicio militar",
+            "Tipo de entrenamiento físico",
+            "Ceremonia militar",
+            "Uniforme de soldado"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'demanda'?",
+          "options": [
+            "Protesta política",
+            "Cantidad de productos que la gente quiere comprar",
+            "Tipo de empresa",
+            "Problema económico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'consumidores'?",
+          "options": [
+            "Trabajadores de fábricas",
+            "Personas que venden productos",
+            "Personas que compran productos y servicios",
+            "Empleados del gobierno"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'obligatorio'?",
+          "options": [
+            "Opcional",
+            "Que se debe hacer por ley",
+            "Difícil",
+            "Costoso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia sobre política, ¿cómo es el ejército estadounidense actualmente?",
+          "options": [
+            "Obligatorio",
+            "Voluntario",
+            "Solo para mujeres",
+            "No existe"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje de la economía estadounidense representan los gastos de consumidores?",
+          "options": [
+            "50%",
+            "60%",
+            "70%",
+            "80%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué las empresas tecnológicas necesitan mucha energía?",
+          "options": [
+            "Para calentar edificios",
+            "Para procesar inteligencia artificial",
+            "Para iluminar oficinas",
+            "Para transporte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuál es un problema actual con los precios según la historia económica?",
+          "options": [
+            "Están bajando mucho",
+            "Han subido más que los salarios",
+            "Son iguales que antes",
+            "Solo afectan a los ricos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué ventaja tiene la energía nuclear según el texto?",
+          "options": [
+            "Es muy barata",
+            "No contamina el aire",
+            "Es fácil de producir",
+            "No necesita plantas especiales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuándo existió el reclutamiento obligatorio en Estados Unidos?",
+          "options": [
+            "Nunca ha existido",
+            "Solo durante la Guerra Civil",
+            "Durante Vietnam y la Segunda Guerra Mundial",
+            "Solo en tiempos de paz"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-11T09:13:15.158985"
+    },
+    {
       "date": "2026-04-10",
       "filename": "spanish_lesson_2026-04-10.pdf",
       "path": "pdfs/spanish_lesson_2026-04-10.pdf",
@@ -27554,7 +27776,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-10T09:24:38.463653",
+  "last_updated": "2026-04-11T09:13:15.159009",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
