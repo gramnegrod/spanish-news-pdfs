@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-12",
+      "filename": "spanish_lesson_2026-04-12.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-12.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Congresista estadounidense acusado de agresión sexual",
+          "headline_en": "US Congressman accused of sexual assault",
+          "body_es": "Eric Swalwell, un congresista de California, fue acusado de agresión sexual por una mujer que trabajaba en su oficina. La acusación dice que el incidente ocurrió hace varios años. Un fiscal de Nueva York está investigando el caso ahora. Swalwell niega todas las acusaciones y dice que son falsas. El congresista ha trabajado en el gobierno federal por muchos años. Esta situación puede afectar su carrera política. Los fiscales van a revisar toda la evidencia antes de tomar una decisión final. El caso ha generado mucha atención en los medios de comunicación. Las investigaciones de este tipo pueden durar varios meses.",
+          "body_en": "Eric Swalwell, a congressman from California, was accused of sexual assault by a woman who worked in his office. The accusation says the incident occurred several years ago. A prosecutor in New York is investigating the case now. Swalwell denies all accusations and says they are false. The congressman has worked in federal government for many years. This situation may affect his political career. Prosecutors will review all evidence before making a final decision. The case has generated much media attention. Investigations of this type can last several months.",
+          "source": "Los Angeles Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Familias estadounidenses luchan contra el aumento de precios",
+          "headline_en": "American families struggle against rising prices",
+          "body_es": "CNN pregunta a las familias americanas sobre la inflación y sus efectos en el presupuesto familiar. Los precios de comida, gasolina y vivienda han subido mucho este año. Muchas familias dicen que es difícil comprar las cosas que necesitan. Los expertos económicos explican que la inflación afecta más a las familias con menos dinero. Algunas personas han cambiado sus hábitos de compra para ahorrar dinero. Los padres de familia buscan ofertas especiales en los supermercados. El gobierno federal está tratando de controlar la inflación. Los economistas esperan que los precios se estabilicen el próximo año. Las familias necesitan planificar mejor sus gastos mensuales.",
+          "body_en": "CNN asks American families about inflation and its effects on family budgets. Prices for food, gasoline, and housing have risen significantly this year. Many families say it's difficult to buy the things they need. Economic experts explain that inflation affects families with less money more. Some people have changed their shopping habits to save money. Parents look for special offers at supermarkets. The federal government is trying to control inflation. Economists hope prices will stabilize next year. Families need to better plan their monthly expenses.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Ataque a casa de ejecutivo de inteligencia artificial genera preocupación",
+          "headline_en": "Attack on AI executive's home generates concern",
+          "body_es": "Alguien atacó la casa de Sam Altman, el presidente de OpenAI, una empresa importante de inteligencia artificial. Este ataque ha creado nuevos temores sobre la seguridad de los líderes tecnológicos. Altman es conocido por desarrollar ChatGPT, un programa muy popular de inteligencia artificial. Algunas personas están preocupadas porque la tecnología AI está cambiando muchos trabajos. La policía está investigando el ataque, pero no han arrestado a nadie todavía. Los expertos en seguridad dicen que los ejecutivos de tecnología necesitan más protección. Este incidente muestra que algunas personas tienen miedo de los cambios que trae la inteligencia artificial. Las empresas tecnológicas están aumentando la seguridad para sus empleados importantes.",
+          "body_en": "Someone attacked the home of Sam Altman, the president of OpenAI, an important artificial intelligence company. This attack has created new fears about the security of technology leaders. Altman is known for developing ChatGPT, a very popular artificial intelligence program. Some people are worried because AI technology is changing many jobs. Police are investigating the attack, but haven't arrested anyone yet. Security experts say technology executives need more protection. This incident shows that some people are afraid of the changes that artificial intelligence brings. Technology companies are increasing security for their important employees.",
+          "source": "The San Francisco Standard"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "acusar",
+          "syllables": "a-cu-SAR",
+          "pos": "verbo",
+          "context": "El político fue acusado de agresión sexual por una empleada.",
+          "definition_es": "Decir que alguien ha hecho algo malo o ilegal",
+          "definition_en": "To accuse, to charge someone with wrongdoing"
+        },
+        {
+          "word": "fiscal",
+          "syllables": "fis-CAL",
+          "pos": "sustantivo",
+          "context": "El fiscal de Nueva York está investigando el caso.",
+          "definition_es": "Persona que representa al gobierno en casos legales",
+          "definition_en": "Prosecutor, district attorney"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación hace que los precios suban cada mes.",
+          "definition_es": "Cuando los precios de los productos aumentan",
+          "definition_en": "Inflation, general increase in prices"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "Mi presupuesto familiar no puede soportar más aumentos de precios.",
+          "definition_es": "Plan de gastos y dinero disponible",
+          "definition_en": "Budget, financial plan"
+        },
+        {
+          "word": "atacar",
+          "syllables": "a-ta-CAR",
+          "pos": "verbo",
+          "context": "Alguien atacó la casa del ejecutivo de tecnología.",
+          "definition_es": "Usar violencia contra una persona o lugar",
+          "definition_en": "To attack, to assault"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando muchas industrias.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence, AI technology"
+        },
+        {
+          "word": "investigar",
+          "syllables": "in-ves-ti-GAR",
+          "pos": "verbo",
+          "context": "La policía está investigando el ataque a la casa.",
+          "definition_es": "Buscar información sobre un problema o crimen",
+          "definition_en": "To investigate, to look into"
+        },
+        {
+          "word": "peligroso",
+          "syllables": "pe-li-GRO-so",
+          "pos": "adjetivo",
+          "context": "Los ataques contra empresarios de tecnología son muy peligrosos.",
+          "definition_es": "Que puede causar daño o problemas",
+          "definition_en": "Dangerous, risky"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'acusar' en español?",
+          "options": [
+            "Ayudar a alguien",
+            "Decir que alguien hizo algo malo",
+            "Preguntar por información",
+            "Dar dinero a alguien"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'fiscal' es una persona que:",
+          "options": [
+            "Vende productos en una tienda",
+            "Representa al gobierno en casos legales",
+            "Enseña en una universidad",
+            "Trabaja en un hospital"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es la inflación?",
+          "options": [
+            "Cuando los precios bajan",
+            "Cuando aumentan los salarios",
+            "Cuando los precios suben",
+            "Cuando hay más trabajo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La palabra 'presupuesto' se refiere a:",
+          "options": [
+            "Un plan de gastos y dinero",
+            "Un tipo de comida",
+            "Una máquina tecnológica",
+            "Un edificio del gobierno"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Quién está investigando las acusaciones contra el congresista Swalwell?",
+          "options": [
+            "Un fiscal de California",
+            "Un fiscal de Nueva York",
+            "La policía local",
+            "El FBI"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia sobre inflación, ¿qué precios han subido mucho?",
+          "options": [
+            "Solo la gasolina",
+            "Comida, gasolina y vivienda",
+            "Solo la comida",
+            "Solo la vivienda"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Quién es Sam Altman?",
+          "options": [
+            "Un congresista",
+            "El presidente de OpenAI",
+            "Un fiscal",
+            "Un economista"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué han hecho algunas familias para enfrentar la inflación?",
+          "options": [
+            "Cambiaron de trabajo",
+            "Cambiaron sus hábitos de compra",
+            "Se mudaron de casa",
+            "Compraron más cosas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué es conocido Sam Altman?",
+          "options": [
+            "Por atacar casas",
+            "Por desarrollar ChatGPT",
+            "Por ser fiscal",
+            "Por estudiar economía"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según los expertos económicos, ¿quiénes sufren más con la inflación?",
+          "options": [
+            "Las familias ricas",
+            "Los políticos",
+            "Las familias con menos dinero",
+            "Los empresarios tecnológicos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-12T09:14:44.693827"
+    },
+    {
       "date": "2026-04-11",
       "filename": "spanish_lesson_2026-04-11.pdf",
       "path": "pdfs/spanish_lesson_2026-04-11.pdf",
@@ -27776,7 +27998,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-11T09:13:15.159009",
+  "last_updated": "2026-04-12T09:14:44.693855",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
