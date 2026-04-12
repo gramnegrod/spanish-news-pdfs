@@ -1,11 +1,122 @@
 {
-  "date": "2026-04-11",
-  "generated_at": "2026-04-11T09:18:15.291853Z",
+  "date": "2026-04-12",
+  "generated_at": "2026-04-12T09:20:42.960563Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 414,
-  "new_today": 5,
+  "total_stories": 417,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20260412",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Las bacterias bloquean las defensas del cuerpo en heridas infectadas",
+      "headline_en": "Bacteria block body's defenses in infected wounds",
+      "summary_es": "Investigadores del MIT descubren cómo las bacterias suprimen el sistema inmunológico en infecciones de heridas crónicas. Este hallazgo ayuda a entender por qué algunas heridas no cicatrizan.",
+      "body_es": "Los científicos del Instituto Tecnológico de Massachusetts (MIT) han descubierto un mecanismo importante. Las bacterias en heridas crónicas suprimen las defensas del cuerpo. El sistema inmunológico no puede eliminar las infecciones. Las heridas no cicatrizan correctamente.\n\nEsta investigación explica por qué algunos pacientes tienen heridas que no sanan. Las bacterias producen sustancias especiales. Estas sustancias inhiben la respuesta inmunológica del paciente. Los médicos pueden usar esta información para desarrollar nuevos tratamientos.\n\nComprender este proceso es fundamental para mejorar la curación de heridas crónicas. Los tratamientos futuros pueden bloquear las sustancias que usan las bacterias. Esto permitirá que el sistema inmunológico trabaje mejor.",
+      "body_en": "Scientists at the Massachusetts Institute of Technology (MIT) have discovered an important mechanism. Bacteria in chronic wounds suppress the body's defenses. The immune system cannot eliminate infections. Wounds do not heal properly.\n\nThis research explains why some patients have wounds that do not heal. Bacteria produce special substances. These substances inhibit the patient's immune response. Doctors can use this information to develop new treatments.\n\nUnderstanding this process is fundamental for improving chronic wound healing. Future treatments can block the substances that bacteria use. This will allow the immune system to work better.",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFd1ZTYzOFR6bkZvaUtCX0d5MjNfSlpjNlFDWEZzN1BfM29uMmx2N2h3RWU4MWhFWEtOcW1sZlllS0tEdk1qYTlWRDVMdlBZZ1padUdmLXE4V3VnTGJrNEpkSHpGWC11bnBJVzZGcGJUdEY1RV9yaldqc2lrTXlrbjI5ejRORV9QSl9KRG53YWVsemtmR3B0UWxn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-12/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de bacterias en tejidos",
+          "definition_en": "infection - invasion of bacteria in tissues"
+        },
+        {
+          "word": "sistema inmunológico",
+          "definition_es": "defensas del cuerpo contra enfermedades",
+          "definition_en": "immune system - body's defense against disease"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        }
+      ],
+      "added_at": "2026-04-12T09:20:42.960563Z"
+    },
+    {
+      "id": "burn-care-20260412",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "AVITA Medical presenta nuevas opciones de tratamiento para quemaduras agudas",
+      "headline_en": "AVITA Medical presents new treatment options for acute burns",
+      "summary_es": "AVITA Medical ha presentado nuevos datos sobre Cohealyx en la conferencia de la Asociación Americana de Quemados (ABA) 2026. El producto forma parte del portafolio de cuidado de heridas y quemaduras.",
+      "body_es": "La empresa AVITA Medical ha exhibido su portafolio completo de productos para el cuidado de quemaduras agudas y heridas en la conferencia anual de la Asociación Americana de Quemados (ABA) 2026. El enfoque principal fue presentar nuevos datos clínicos sobre Cohealyx, una solución innovadora para el tratamiento de quemaduras.\n\nCohealyx es un producto diseñado para acelerar la curación de quemaduras agudas. Los datos presentados muestran resultados prometedores en pacientes con diferentes grados de quemadura. El producto utiliza tecnología avanzada para promover la epitelización y reducir el tiempo de cicatrización.\n\nEsta presentación es importante para los profesionales de cuidado de quemaduras. Las nuevas opciones de tratamiento pueden mejorar los resultados clínicos en pacientes quemados. La investigación continua es esencial para desarrollar terapias más efectivas.",
+      "body_en": "AVITA Medical exhibited its complete portfolio of products for acute burn and wound care at the annual American Burn Association (ABA) 2026 conference. The main focus was presenting new clinical data on Cohealyx, an innovative solution for burn treatment.\n\nCohealyx is a product designed to accelerate healing of acute burns. The data presented show promising results in patients with different burn degrees. The product uses advanced technology to promote epithelialization and reduce healing time.\n\nThis presentation is important for burn care professionals. New treatment options can improve clinical outcomes in burned patients. Continued research is essential for developing more effective therapies.",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU0ktakxGYUpFUEJGSU0tR1N5cC1ScGdSempvRmxSc00wUXpsZWVzaVpIT1RsVG93VWNpclRLdlFNUzRycG1DQVFQYktiQVd5dWU5Z200bzVJN3JWalJxVHBvMnVWWDlHNFJQYm5qdTBpVzlZeGR2OGU2Mk1LZUA5ZWlyVEtjLTNHcEE0?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-12/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura aguda",
+          "definition_es": "lesión por calor que ocurre recientemente",
+          "definition_en": "acute burn - heat injury that occurred recently"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel",
+          "definition_en": "epithelialization - process of new skin formation"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de una herida",
+          "definition_en": "scarring/healing - process of wound closure"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material para cubrir heridas o quemaduras",
+          "definition_en": "dressing - material to cover wounds or burns"
+        }
+      ],
+      "added_at": "2026-04-12T09:20:42.960563Z"
+    },
+    {
+      "id": "surgical-wounds-20260412",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Mercado de cuidado de heridas quirúrgicas en República Checa crece significativamente",
+      "headline_en": "Surgical wound care market in Czech Republic shows significant growth",
+      "summary_es": "El análisis del mercado de cuidado de heridas quirúrgicas en República Checa proyecta un crecimiento importante entre 2026 y 2035. Este aumento refleja la demanda de productos y servicios especializados.",
+      "body_es": "El mercado de cuidado de heridas quirúrgicas en República Checa experimenta un crecimiento notable según el análisis de IndexBox. El período de evaluación comprende desde 2026 hasta 2035, mostrando tendencias positivas en la adopción de productos innovadores.\n\nEl crecimiento del mercado se debe a varios factores. Aumenta la demanda de apósitos especializados y vendajes avanzados. Los hospitales invierten en tecnologías nuevas para mejorar la curación de heridas quirúrgicas. Los profesionales de enfermería requieren capacitación en protocolos modernos de cuidado.\n\nLos productos para cuidado de heridas quirúrgicas incluyen apósitos antimicrobianos, vendajes de gel y sistemas de presión negativa. Estos productos aceleran la cicatrización y reducen complicaciones como infecciones. La tendencia del mercado indica que los profesionales de salud buscan soluciones más efectivas para el cuidado postoperatorio.",
+      "body_en": "The surgical wound care market in the Czech Republic is experiencing notable growth according to IndexBox analysis. The evaluation period spans from 2026 to 2035, showing positive trends in the adoption of innovative products.\n\nMarket growth is due to several factors. There is increased demand for specialized dressings and advanced bandages. Hospitals invest in new technologies to improve surgical wound healing. Nursing professionals require training in modern care protocols.\n\nProducts for surgical wound care include antimicrobial dressings, gel bandages, and negative pressure systems. These products accelerate healing and reduce complications such as infections. Market trends indicate that healthcare professionals seek more effective solutions for postoperative wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSFJZZmxEV0RFU1JOM2twRlZoWWhZY2dkVXl6X0JfZXhoRnFTenMzMHc5bWZQcGlOeXhIRVNhOXlOVFBnRzVlWGRyWVF4UlJBUVJjMjc4TXBMZ0diUEFiY1pXdXNoOWFYTHlvMkJnNWVWZjBaQzdTdFVyZVJmdmY2a1RlOC1IOXN1Zk5CVmRrblhaTXZGYjYxdTNDbWcwUzlPZnA3OUVlUE9WU0VKcHBIa2doaEJVQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-12/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada durante una operación",
+          "definition_en": "surgical wound - injury created during an operation"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material estéril para cubrir heridas",
+          "definition_en": "dressing - sterile material to cover wounds"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y curación de heridas",
+          "definition_en": "healing - process of wound closure and recovery"
+        },
+        {
+          "word": "infección",
+          "definition_es": "complicación causada por bacterias en heridas",
+          "definition_en": "infection - complication caused by bacteria in wounds"
+        }
+      ],
+      "added_at": "2026-04-12T09:20:42.960563Z"
+    },
     {
       "id": "chronic-wounds-20250411",
       "category": "Chronic Wounds",
@@ -15319,6 +15430,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-11T09:18:15.291853Z",
+  "last_updated": "2026-04-12T09:20:42.960563Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
