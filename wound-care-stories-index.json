@@ -1,11 +1,196 @@
 {
-  "date": "2026-04-12",
-  "generated_at": "2026-04-12T09:20:42.960563Z",
+  "date": "2026-04-13",
+  "generated_at": "2026-04-13T09:40:49.704407Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 417,
-  "new_today": 3,
+  "total_stories": 422,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250413",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Los hidrogeles antibacterianos ayudan a sanar heridas crónicas",
+      "headline_en": "Antibacterial Hydrogels Help Heal Chronic Wounds",
+      "summary_es": "Los científicos crean nuevos hidrogeles con propiedades antibacterianas y térmicas para mejorar la curación de heridas. Estos materiales pueden combatir infecciones y acelerar el proceso de sanación.",
+      "body_es": "Los investigadores desarrollan hidrogeles especiales llamados GelMA. Estos materiales tienen propiedades antibacterianas nuevas. Los hidrogeles utilizan una reacción de Fenton para eliminar bacterias. El proceso es rápido y efectivo. Los materiales también usan luz para calentar la herida. El calor ayuda a matar las bacterias malas. Las heridas crónicas son difíciles de sanar. Las infecciones son un problema común. Estos nuevos hidrogeles ofrecen una solución prometedora. Los estudios muestran resultados buenos. El material es seguro para la piel. Los profesionales de salud consideran esta tecnología muy importante. La curación es más rápida con este tratamiento nuevo.",
+      "body_en": "Researchers develop special hydrogels called GelMA. These materials have new antibacterial properties. The hydrogels use a Fenton reaction to eliminate bacteria. The process is fast and effective. The materials also use light to heat the wound. Heat helps kill bad bacteria. Chronic wounds are difficult to heal. Infections are a common problem. These new hydrogels offer a promising solution. Studies show good results. The material is safe for skin. Healthcare professionals consider this technology very important. Healing is faster with this new treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EcU9xUnBhT3FoSEt0bmhKWjNJTXFsSUlJb0NsMkFBQXZLQTUxMXZTUks3RDllQnRXNDBLLXBLYWc0N2NBejVGckZPNXN2RDBqcGZnMzdmQTU3TUNCOFNrdGExbGM1T3V2TjluZ2JNVlp3b1ZQZkszSFhtRQ",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-13/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "hidrogel",
+          "definition_es": "material gelatinoso que absorbe agua",
+          "definition_en": "hydrogel - gel-like material that absorbs water"
+        },
+        {
+          "word": "antibacteriano",
+          "definition_es": "que mata o previene bacterias",
+          "definition_en": "antibacterial - that kills or prevents bacteria"
+        },
+        {
+          "word": "infección",
+          "definition_es": "enfermedad causada por bacterias o virus",
+          "definition_en": "infection - disease caused by bacteria or virus"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of wound repair"
+        }
+      ],
+      "added_at": "2026-04-13T09:40:49.704407Z"
+    },
+    {
+      "id": "diabetic-foot-20250413",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Las diferencias en el cuidado del pie diabético afectan el riesgo de amputación",
+      "headline_en": "Differences in Diabetic Foot Care Affect Amputation Risk",
+      "summary_es": "Un estudio reciente muestra que la variación en la calidad del cuidado de úlceras diabéticas entre diferentes centros de salud puede aumentar significativamente el riesgo de amputación de la pierna.",
+      "body_es": "La investigación publicada en Physician's Weekly revela que el cuidado de las úlceras del pie diabético varía considerablemente entre instalaciones médicas. Los pacientes que reciben tratamiento en centros con protocolos estandarizados tienen mejores resultados. Las úlceras diabéticas son complicaciones serias que requieren atención especializada. El desbridamiento regular y la evaluación cuidadosa de la circulación son esenciales. Los centros que utilizaban educación del paciente estructurada mostraban tasas más bajas de amputación. La prevención de infecciones secundarias es crítica para preservar la extremidad. Los profesionales de enfermería juegan un papel importante en el seguimiento. La evaluación completa debe incluir inspección diaria de la piel y medición de la herida. El cuidado multidisciplinario produce mejores desenlaces clínicos.",
+      "body_en": "Research published in Physician's Weekly reveals that care for diabetic foot ulcers varies considerably among medical facilities. Patients receiving treatment at centers with standardized protocols have better outcomes. Diabetic ulcers are serious complications requiring specialized attention. Regular debridement and careful circulation assessment are essential. Centers using structured patient education showed lower amputation rates. Prevention of secondary infections is critical for limb preservation. Nursing professionals play an important role in follow-up care. Complete assessment should include daily skin inspection and wound measurement. Multidisciplinary care produces better clinical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHAyaWotdnhLN244MG9MQUF0SFNiSkZQSHBTMy13TjFIWlFDMV9VTzRwMUVWdjRHSjZyNmhUUXAxWlhpb3ppZEpfZFhZZWtiQVBHd3RrdHIzMFZGdExLUEtQVEduOXJCOFNPVk1kZ1pJZFc5SjFVejdHYURmT1J1aWxtYUtIRkxOOFdraGo0WGFPSjluREVheUdCUGNRUl84ZkJlLUJCOXBqMzllZklVRTNHVWFaUUZqejQzdDMySXROZEFuMmJJOGs3RFlqTkFr",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-13/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación del tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "flujo de sangre a través del cuerpo",
+          "definition_en": "circulation - blood flow through the body"
+        }
+      ],
+      "added_at": "2026-04-13T09:40:49.704407Z"
+    },
+    {
+      "id": "burn-care-20250413",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Degeneración maligna de cicatrices de quemaduras: úlcera de Marjolin",
+      "headline_en": "Malignant Degeneration of Burn Scars: Marjolin's Ulcer",
+      "summary_es": "Un estudio retrospectivo describe nueve casos de degeneración maligna en cicatrices de quemaduras antiguas, conocida como úlcera de Marjolin, destacando la importancia del seguimiento a largo plazo.",
+      "body_es": "La úlcera de Marjolin es una complicación rara pero grave de las cicatrices de quemaduras antiguas. Este estudio retrospectivo en Cureus analiza nueve pacientes que desarrollaron cáncer en sus cicatrices quemadas. La transformación maligna puede ocurrir décadas después de la quemadura inicial. Los síntomas incluyen cambios en la apariencia de la cicatriz, ulceración y sangrado. El diagnóstico requiere biopsia y evaluación histopatológica cuidadosa. El tratamiento usualmente involucra escisión quirúrgica amplia y posiblemente quimioterapia. Los pacientes con quemaduras profundas o antiguas tienen mayor riesgo. El seguimiento clínico a largo plazo es esencial para la detección temprana. Los profesionales deben educar a los pacientes sobre cambios sospechosos en sus cicatrices.",
+      "body_en": "Marjolin's ulcer is a rare but serious complication of old burn scars. This retrospective study in Cureus analyzes nine patients who developed cancer in their burn scars. Malignant transformation can occur decades after the initial burn. Symptoms include changes in scar appearance, ulceration, and bleeding. Diagnosis requires biopsy and careful histopathological evaluation. Treatment usually involves wide surgical excision and possibly chemotherapy. Patients with deep or old burns have higher risk. Long-term clinical follow-up is essential for early detection. Healthcare professionals should educate patients about suspicious changes in their scars.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOWRzczZfQklNX25nUVdTamQteUFHdVpYTDBPZ0pSdjV5cnJ0OHI1RklKN2d4T2xJa3B5RzhVUG5ydzU5TU1waGVWejdiT3NlRUZpMDhzcjlzaFF4ZDFOaEdLODZIVThUelNPTkZhdGVKcHJIVW5MU0JJTUxvVmh1NjVkYUtQdVRLYVdCbVVRU3Z4ak9rdHRib2NHWEpXSENOck5pb2trUTY3eUVYUHB6RFVseERjRThQVW1Cc1duTk9kWVROM3lNUVdOM3pmWl82bHc",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-13/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel por calor o fuego",
+          "definition_en": "burn - skin injury from heat or fire"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        },
+        {
+          "word": "biopsia",
+          "definition_es": "extirpación de tejido para examen microscópico",
+          "definition_en": "biopsy - removal of tissue for microscopic examination"
+        },
+        {
+          "word": "escisión",
+          "definition_es": "extirpación quirúrgica de tejido",
+          "definition_en": "excision - surgical removal of tissue"
+        }
+      ],
+      "added_at": "2026-04-13T09:40:49.704407Z"
+    },
+    {
+      "id": "surgical-wounds-20250413",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "purple",
+      "headline_es": "El método de enseñanza reduce infecciones de heridas quirúrgicas",
+      "headline_en": "Teaching Method Reduces Surgical Site Infections",
+      "summary_es": "Un estudio presentado en AORN26 demuestra que el método de enseñanza 'teach-back' en la educación al alta del PACU reduce significativamente las infecciones del sitio quirúrgico.",
+      "body_es": "El estudio presentado en la conferencia AORN26 examina el impacto de la educación al alta usando el método 'teach-back' en la unidad de recuperación post-anestésica (PACU). Este método requiere que los pacientes repitan las instrucciones para confirmar comprensión. Los investigadores encontraron que los pacientes que recibieron esta educación estructurada tenían tasas más bajas de infecciones quirúrgicas. Las instrucciones de cuidado de heridas son cruciales para prevenir complicaciones. El método mejora la retención de información y el cumplimiento del paciente. La evaluación incluye cambios de apósitos, signos de infección y medicamentos. El personal de enfermería debe verificar la comprensión antes del alta. La educación clara reduce los costos sanitarios y mejora los resultados. Este enfoque es especialmente importante en procedimientos de mayor riesgo.",
+      "body_en": "The study presented at the AORN26 conference examines the impact of discharge education using the 'teach-back' method in the post-anesthetic recovery unit (PACU). This method requires patients to repeat instructions to confirm understanding. Researchers found that patients receiving this structured education had lower rates of surgical infections. Wound care instructions are crucial for preventing complications. The method improves information retention and patient compliance. Assessment includes dressing changes, signs of infection, and medications. Nursing staff must verify understanding before discharge. Clear education reduces healthcare costs and improves outcomes. This approach is especially important in higher-risk procedures.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa1VrNldkcG02MF85Z3dpN3htWHJmUi0xLVBKSFB4OGNPYnhMREJ6T0hfb04zNlh3dFFkZkdKM0lHcERFOUJxUmhSSVRSWWdGSmZUVE14WDZqNGNtV1huNXJaaWVZenBHdjJFR3gzcHh5TFQwNWQ5ZjJOUFlmZEIydWNVZFBjQjJjQTJDclMtb2NrM2NIc1NNNDdjaGxiWU5nWjZxbGtHUE1pUDZkZEpqTFJJYnhiUEk2SHFhVHBjRFlFNnM",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-13/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material aplicado sobre una herida para protegerla",
+          "definition_en": "dressing - material applied over a wound for protection"
+        },
+        {
+          "word": "infección quirúrgica",
+          "definition_es": "complicación infecciosa en el sitio de la operación",
+          "definition_en": "surgical infection - infectious complication at surgical site"
+        },
+        {
+          "word": "PACU",
+          "definition_es": "unidad de recuperación post-anestésica donde se vigila al paciente",
+          "definition_en": "PACU - post-anesthetic care unit where patient is monitored"
+        },
+        {
+          "word": "educación al alta",
+          "definition_es": "instrucciones dadas al paciente antes de dejar el hospital",
+          "definition_en": "discharge education - instructions given to patient before leaving hospital"
+        }
+      ],
+      "added_at": "2026-04-13T09:40:49.704407Z"
+    },
+    {
+      "id": "wound-research-20250413",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Nueva investigación acerca la reparación articular para millones con osteoartritis",
+      "headline_en": "New Research Brings Joint Repair Closer for Millions With Osteoarthritis",
+      "summary_es": "Duke Health presenta investigación innovadora que acerca la reparación articular para pacientes con osteoartritis, ofreciendo esperanza a millones de personas que sufren esta enfermedad degenerativa.",
+      "body_es": "Los investigadores de Duke Health reportan avances significativos en la reparación de articulaciones dañadas por osteoartritis. La enfermedad afecta el cartílago, causando dolor y limitación de movimiento. Los científicos estudian cómo regenerar el tejido cartilaginoso dañado. El enfoque incluye técnicas de ingeniería de tejidos y terapia celular. Los estudios preclínicos muestran resultados prometedores en modelos animales. La investigación podría beneficiar a millones de pacientes diagnosticados con osteoartritis. El tratamiento actual es principalmente sintomático y no revierte el daño. La reparación regenerativa podría mejorar significativamente la calidad de vida. Los ensayos clínicos podrían comenzar en los próximos años. Este trabajo representa un avance importante en medicina regenerativa.",
+      "body_en": "Researchers at Duke Health report significant advances in joint repair for osteoarthritis damage. The disease affects cartilage, causing pain and movement limitation. Scientists study how to regenerate damaged cartilage tissue. The approach includes tissue engineering techniques and cell therapy. Preclinical studies show promising results in animal models. Research could benefit millions of patients diagnosed with osteoarthritis. Current treatment is mainly symptomatic and does not reverse damage. Regenerative repair could significantly improve quality of life. Clinical trials could begin in coming years. This work represents an important advance in regenerative medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeWQwdS1rMXdiTWhvMjZVNnpmRjJoZjlyZkhxVGd0empwZXJsU0VtcUFLZkhISGcxUUNFUnpOYWFjRlhzMkVaZ1IxSHZxYWdDcGx5RmNBbVcyQ1Z4ZF9jU3NJeTl4dk4yWlI2ejMzNGNyMWVOLUJsOUhhVE1aYl94a2lKNnluWEZYTm90S2t4Y1I4NUYtdTlGeUlPTVYtR0duRThJ",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-13/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "osteoartritis",
+          "definition_es": "enfermedad degenerativa de las articulaciones",
+          "definition_en": "osteoarthritis - degenerative joint disease"
+        },
+        {
+          "word": "cartílago",
+          "definition_es": "tejido resistente que cubre los extremos de los huesos en las articulaciones",
+          "definition_en": "cartilage - tough tissue that covers bone ends in joints"
+        },
+        {
+          "word": "ingeniería de tejidos",
+          "definition_es": "técnica para cultivar y regenerar tejido biológico",
+          "definition_en": "tissue engineering - technique to grow and regenerate biological tissue"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "proceso de crecimiento de nuevo tejido",
+          "definition_en": "regeneration - process of new tissue growth"
+        }
+      ],
+      "added_at": "2026-04-13T09:40:49.704407Z"
+    },
     {
       "id": "chronic-wounds-20260412",
       "category": "Chronic Wounds",
@@ -15430,6 +15615,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-12T09:20:42.960563Z",
+  "last_updated": "2026-04-13T09:40:49.704407Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
