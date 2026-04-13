@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-13",
+      "filename": "spanish_lesson_2026-04-13.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-13.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Demócratas quieren expulsar a congresista por acusaciones graves",
+          "headline_en": "Democrats want to expel congressman over serious accusations",
+          "body_es": "Los políticos demócratas ahora quieren expulsar al congresista Eric Swalwell del Congreso de Estados Unidos. Las acusaciones son sobre conducta sexual inapropiada. Antes, solo los republicanos pedían su expulsión. Ahora algunos demócratas también están de acuerdo. Swalwell dice que las acusaciones no son verdad. Él trabaja en el Congreso desde hace muchos años. La situación es muy complicada para su partido político. Los líderes del Congreso deben decidir qué hacer. Si lo expulsan, Swalwell perderá su trabajo como congresista. Esta decisión puede cambiar el equilibrio político en el Congreso estadounidense.",
+          "body_en": "Democratic politicians now want to expel congressman Eric Swalwell from the US Congress. The accusations are about inappropriate sexual conduct. Before, only Republicans asked for his expulsion. Now some Democrats also agree. Swalwell says the accusations are not true. He has worked in Congress for many years. The situation is very complicated for his political party. Congress leaders must decide what to do. If they expel him, Swalwell will lose his job as congressman. This decision could change the political balance in the US Congress.",
+          "source": "BBC"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los precios del petróleo suben después de amenaza de bloqueo",
+          "headline_en": "Oil prices rise after blockade threat",
+          "body_es": "Los precios del petróleo subieron mucho después de las declaraciones del expresidente Trump. Él dijo que Estados Unidos va a bloquear el Estrecho de Hormuz. Este estrecho es muy importante para el transporte de petróleo mundial. Muchos barcos con petróleo pasan por allí cada día. Si Estados Unidos bloquea esta zona, será difícil transportar petróleo. Los mercados financieros reaccionaron rápidamente a esta noticia. Los expertos en economía están preocupados. Un bloqueo puede causar problemas económicos en todo el mundo. Los precios de la gasolina también pueden subir. Esta situación afecta a todos los países que compran petróleo.",
+          "body_en": "Oil prices rose a lot after former president Trump's statements. He said that the United States will block the Strait of Hormuz. This strait is very important for global oil transport. Many ships with oil pass through there every day. If the United States blocks this area, it will be difficult to transport oil. Financial markets reacted quickly to this news. Economics experts are worried. A blockade can cause economic problems worldwide. Gasoline prices may also rise. This situation affects all countries that buy oil.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "CEO de Amazon defiende gran inversión en inteligencia artificial",
+          "headline_en": "Amazon CEO defends large investment in artificial intelligence",
+          "body_es": "El director ejecutivo de Amazon defendió la gran inversión de 200 mil millones de dólares en inteligencia artificial. Él dijo que su empresa debe perseguir esta tecnología del futuro. La inteligencia artificial está cambiando muchas industrias. Amazon quiere ser líder en este campo tecnológico. Algunos inversionistas piensan que es demasiado dinero. Pero el CEO cree que es necesario para competir. La inteligencia artificial ayuda a Amazon a mejorar sus servicios. También puede crear nuevos productos para los clientes. Esta tecnología hace que las computadoras trabajen como humanos. El CEO dice que las empresas que no inviertan en inteligencia artificial van a tener problemas.",
+          "body_en": "Amazon's CEO defended the large investment of 200 billion dollars in artificial intelligence. He said his company must pursue this technology of the future. Artificial intelligence is changing many industries. Amazon wants to be a leader in this technological field. Some investors think it's too much money. But the CEO believes it's necessary to compete. Artificial intelligence helps Amazon improve its services. It can also create new products for customers. This technology makes computers work like humans. The CEO says companies that don't invest in artificial intelligence will have problems.",
+          "source": "The Business Journals"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "expulsar",
+          "syllables": "ex-pul-SAR",
+          "pos": "verbo",
+          "context": "Los demócratas quieren expulsar al congresista del Congreso.",
+          "definition_es": "Echar a alguien de un lugar o grupo",
+          "definition_en": "To expel, to remove someone from a place or group"
+        },
+        {
+          "word": "acusaciones",
+          "syllables": "a-cu-sa-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acusaciones contra el político son muy graves.",
+          "definition_es": "Declaraciones que dicen que alguien hizo algo malo",
+          "definition_en": "Accusations, claims that someone did something wrong"
+        },
+        {
+          "word": "bloquear",
+          "syllables": "blo-que-AR",
+          "pos": "verbo",
+          "context": "Estados Unidos dice que va a bloquear el estrecho.",
+          "definition_es": "Cerrar el paso, impedir que algo pase",
+          "definition_en": "To block, to prevent passage"
+        },
+        {
+          "word": "precios",
+          "syllables": "PRE-cios",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo subieron mucho ayer.",
+          "definition_es": "El dinero que cuesta comprar algo",
+          "definition_en": "Prices, the cost of buying something"
+        },
+        {
+          "word": "defender",
+          "syllables": "de-fen-DER",
+          "pos": "verbo",
+          "context": "El CEO defiende la inversión de su empresa.",
+          "definition_es": "Proteger o apoyar algo o alguien",
+          "definition_en": "To defend, to protect or support"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "Amazon hizo una gran inversión en inteligencia artificial.",
+          "definition_es": "Dinero que se gasta para ganar más dinero después",
+          "definition_en": "Investment, money spent to make more money later"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial es el futuro de la tecnología.",
+          "definition_es": "Tecnología que hace que las máquinas piensen como humanos",
+          "definition_en": "Artificial intelligence, technology that makes machines think like humans"
+        },
+        {
+          "word": "perseguir",
+          "syllables": "per-se-GUIR",
+          "pos": "verbo",
+          "context": "Las empresas deben perseguir nuevas oportunidades.",
+          "definition_es": "Seguir algo con determinación para conseguirlo",
+          "definition_en": "To pursue, to follow something with determination"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'expulsar'?",
+          "options": [
+            "Invitar a alguien",
+            "Echar a alguien de un lugar",
+            "Ayudar a una persona",
+            "Dar dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son 'acusaciones'?",
+          "options": [
+            "Regalos",
+            "Declaraciones de que alguien hizo algo malo",
+            "Celebraciones",
+            "Comida"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Una 'inversión' es:",
+          "options": [
+            "Una fiesta",
+            "Dinero gastado para ganar más después",
+            "Un problema",
+            "Una enfermedad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'defender'?",
+          "options": [
+            "Atacar",
+            "Proteger o apoyar",
+            "Vender",
+            "Comprar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué quieren hacer los demócratas con Eric Swalwell?",
+          "options": [
+            "Promoverlo",
+            "Expulsarlo del Congreso",
+            "Darle un premio",
+            "Ayudarlo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué subieron los precios del petróleo?",
+          "options": [
+            "Por una celebración",
+            "Por las declaraciones de Trump sobre bloqueo",
+            "Por el buen tiempo",
+            "Por las vacaciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero invirtió Amazon en inteligencia artificial?",
+          "options": [
+            "100 mil millones",
+            "200 mil millones",
+            "300 mil millones",
+            "50 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué es el Estrecho de Hormuz?",
+          "options": [
+            "Una ciudad",
+            "Un lugar importante para transporte de petróleo",
+            "Una empresa",
+            "Un político"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué dice el CEO de Amazon sobre las empresas que no inviertan en IA?",
+          "options": [
+            "Van a tener éxito",
+            "Van a tener problemas",
+            "Van a ganar dinero",
+            "No van a cambiar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Quiénes pedían antes la expulsión de Swalwell?",
+          "options": [
+            "Solo los demócratas",
+            "Solo los republicanos",
+            "Nadie",
+            "Todos los políticos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-13T09:31:52.280992"
+    },
+    {
       "date": "2026-04-12",
       "filename": "spanish_lesson_2026-04-12.pdf",
       "path": "pdfs/spanish_lesson_2026-04-12.pdf",
@@ -27998,7 +28220,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-12T09:14:44.693855",
+  "last_updated": "2026-04-13T09:31:52.281021",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
