@@ -1,11 +1,159 @@
 {
-  "date": "2026-04-13",
-  "generated_at": "2026-04-13T09:40:49.704407Z",
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14T09:36:57.976839Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 422,
-  "new_today": 5,
+  "total_stories": 426,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250414",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevas estrategias para el desbridamiento de heridas crónicas",
+      "headline_en": "New strategies for chronic wound debridement",
+      "summary_es": "Expertos de Estados Unidos apoyan nuevas estrategias para el tratamiento de heridas crónicas. El desbridamiento es un proceso importante para la curación.",
+      "body_es": "El desbridamiento es un tratamiento importante para las heridas crónicas. Los expertos estadounidenses recomiendan nuevas estrategias para este proceso. El desbridamiento elimina el tejido muerto de la herida. Esto ayuda a que la herida sane mejor. Los profesionales de la salud pueden usar diferentes técnicas. El objetivo es promover la curación y prevenir infecciones. Las heridas crónicas requieren cuidados especiales y evaluación regular. Este tratamiento es esencial en la atención de heridas complejas.",
+      "body_en": "Debridement is an important treatment for chronic wounds. U.S. experts recommend new strategies for this process. Debridement removes dead tissue from the wound. This helps the wound heal better. Healthcare professionals can use different techniques. The goal is to promote healing and prevent infections. Chronic wounds require special care and regular evaluation. This treatment is essential in complex wound management.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeVlGU09zWWwyTWhUZ3pMSWZlWEdVTVJweXVpUDZjWEo0T0REeUhibXZSRmJraTMxaE5acEhfWjdWN0RkWVRPR2czRjBOUGQwLUN3cUxGek42bDBzSzVQWHluYkVzUUNUZUtKbnhLZm9Db3pPYUM1aVNiODhJT3VMZGVFclh1bEhST19hbWo1VlJId2tMRTlYRkl3eXVDMkJYdFZsX1c1WVowM05kMXlPMFhsWlBIZHZScUI5VGtxMmtwbDJObkp5YWlPb2g2cWlHUVRMUEhDNA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-14/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente, durando más de 4 semanas",
+          "definition_en": "chronic wound - injury that does not heal quickly, lasting more than 4 weeks"
+        },
+        {
+          "word": "tejido necrótico",
+          "definition_es": "tejido muerto que no funciona",
+          "definition_en": "necrotic tissue - dead tissue that no longer functions"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanación y recuperación de una herida",
+          "definition_en": "healing - process of recovery and repair of a wound"
+        }
+      ],
+      "added_at": "2026-04-14T09:36:57.976839Z"
+    },
+    {
+      "id": "burn-care-20250414",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Cartera de cuidado de quemaduras agudas presentada en congreso médico",
+      "headline_en": "Acute burn care portfolio presented at medical conference",
+      "summary_es": "AVITA Medical presentó nuevos productos para el tratamiento de quemaduras agudas en la conferencia de la Asociación Americana de Quemados. Los datos de Cohealyx muestran avances prometedores en la atención de quemaduras.",
+      "body_es": "AVITA Medical ha presentado su cartera completa de cuidado de quemaduras agudas en la conferencia ABA 2026. La empresa mostró nuevos datos de Cohealyx, un producto innovador para el tratamiento de quemaduras. Los productos presentados incluyen soluciones para acelerar la cicatrización y reducir el tiempo de hospitalización. Los especialistas en quemaduras reconocen la importancia de tratamientos efectivos durante las primeras horas después de la lesión. La cartera de AVITA Medical ofrece opciones de terapia que pueden mejorar los resultados clínicos. Estos avances representan un progreso significativo en la medicina de quemaduras y la atención de heridas agudas.",
+      "body_en": "AVITA Medical presented its comprehensive acute burn care portfolio at the ABA 2026 conference. The company showcased new Cohealyx data, an innovative product for burn treatment. The presented products include solutions to accelerate healing and reduce hospitalization time. Burn specialists recognize the importance of effective treatments during the first hours after injury. AVITA Medical's portfolio offers therapy options that can improve clinical outcomes. These advances represent significant progress in burn medicine and acute wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGRKT1ZjaElFNTFOczE0ZVE4VEkxbVZXQXFyRF9qQi1HY2RoWmhJcVpvcTlvMFE1Y0Vqa21SaEZ0S0ZvSmYxOGZNUzhVbjNJaGFUY3VvUTV5MmNmZDROSnM5S1hYLUZlakdWYThjUks2by1JTnpOeDNsTmhvVmlFcjNJVWttUjNES04yTGVmMFhya19Sd0wtR3V2dXp6WWtFQWk4eExn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-14/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura aguda",
+          "definition_es": "lesión por calor que ocurre recientemente y requiere tratamiento inmediato",
+          "definition_en": "acute burn - heat injury that occurs recently and requires immediate treatment"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido cicatricial y reparación de la herida",
+          "definition_en": "healing - process of scar tissue formation and wound repair"
+        },
+        {
+          "word": "apósito biológico",
+          "definition_es": "material de curación derivado de tejido biológico para promover cicatrización",
+          "definition_en": "biological dressing - healing material derived from biological tissue to promote healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre la herida",
+          "definition_en": "epithelialization - formation of new skin over the wound"
+        }
+      ],
+      "added_at": "2026-04-14T09:36:57.976839Z"
+    },
+    {
+      "id": "surgical-wounds-20250414",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "✂️",
+      "gradient": "blue",
+      "headline_es": "Método de educación del paciente reduce infecciones en heridas quirúrgicas",
+      "headline_en": "Patient education method reduces surgical site infections",
+      "summary_es": "El método de enseñanza en la unidad de cuidado postanestésico disminuye significativamente las infecciones de sitio quirúrgico. Este enfoque mejora la comprensión y el cumplimiento del paciente durante el alta.",
+      "body_es": "La Asociación de Enfermeras de Quirófano (AORN) presentó un estudio importante en su conferencia 2026. El método de enseñanza conocido como teach-back mostró resultados prometedores en la reducción de infecciones quirúrgicas. Esta técnica se utiliza en la unidad de cuidado postanestésico (PACU) durante la educación del alta hospitalaria. El teach-back requiere que los pacientes repitan la información de cuidados recibida para confirmar la comprensión. Los investigadores encontraron que esta estrategia educativa disminuye significativamente las complicaciones postoperatorias. La implementación de este método simple pero efectivo puede mejorar la seguridad del paciente y los resultados clínicos después de la cirugía.",
+      "body_en": "The Association of Operating Room Nurses (AORN) presented important research at its 2026 conference. The teaching method known as teach-back showed promising results in reducing surgical infections. This technique is used in the post-anesthesia care unit (PACU) during discharge education. Teach-back requires patients to repeat the care information received to confirm understanding. Researchers found that this educational strategy significantly decreases postoperative complications. Implementation of this simple yet effective method can improve patient safety and clinical outcomes after surgery.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa1VrNldkcG02MF85Z3dpN3htWHJmUi0xLVBKSFB4OGNPYnhMREJ6T0hfb04zNlh3dFFkZkdKM0lHcERFOUJxUmhSSVRSWWdGSmZUVE14WDZqNGNtV1huNXJaaWVZenBHdjJFR3gzcHh5TFQwNWQ5ZjJOUFlmZEIydWNVZFBjQjJjQTJDclMtb2NrM2NIc1NNNDdjaGxiWU5nWjZxbGtHUE1pUDZkZEpqTFJJYnhiUEk2SHFhVHBjRFlFNnM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-14/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección de sitio quirúrgico",
+          "definition_es": "complicación postoperatoria causada por bacterias en el área de la incisión",
+          "definition_en": "surgical site infection - postoperative complication caused by bacteria in the incision area"
+        },
+        {
+          "word": "educación del paciente",
+          "definition_es": "enseñanza sobre cuidados postoperatorios y prevención de complicaciones",
+          "definition_en": "patient education - teaching about postoperative care and complication prevention"
+        },
+        {
+          "word": "método teach-back",
+          "definition_es": "técnica donde el paciente repite la información recibida para confirmar comprensión",
+          "definition_en": "teach-back method - technique where patient repeats received information to confirm understanding"
+        },
+        {
+          "word": "alta hospitalaria",
+          "definition_es": "momento cuando el paciente abandona el hospital después del tratamiento",
+          "definition_en": "hospital discharge - moment when patient leaves the hospital after treatment"
+        }
+      ],
+      "added_at": "2026-04-14T09:36:57.976839Z"
+    },
+    {
+      "id": "wound-research-20250414",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación revela desafíos en el cuidado de heridas en pacientes que usan opioides ilícitos",
+      "headline_en": "Research reveals challenges in wound care for illicit opioid users",
+      "summary_es": "Un estudio de la Universidad de Pittsburgh muestra que las heridas son frecuentes en personas que consumen opioides ilícitos, pero el acceso a cuidados apropiados es limitado. Esta población vulnerable necesita servicios de curación especializados.",
+      "body_es": "Investigadores de la Universidad de Pittsburgh han publicado un estudio importante sobre la prevalencia de heridas en personas que usan opioides ilícitos. El análisis revela que estas personas experimentan heridas comunes con mayor frecuencia que la población general. Sin embargo, el acceso a servicios de cuidado de heridas apropiado es significativamente limitado. Las barreras incluyen estigma, falta de centros especializados y dificultades económicas. Los profesionales sanitarios reconocen que esta población vulnerable requiere programas de curación integrados y accesibles. La investigación subraya la necesidad de políticas públicas para mejorar el acceso a cuidados de heridas de calidad. Este estudio contribuye a la comprensión de los determinantes de salud en comunidades marginalizadas.",
+      "body_en": "Researchers from the University of Pittsburgh have published important research on wound prevalence in illicit opioid users. The analysis reveals that these individuals experience common wounds at higher frequency than the general population. However, access to appropriate wound care services is significantly limited. Barriers include stigma, lack of specialized centers, and economic difficulties. Healthcare professionals recognize that this vulnerable population requires integrated and accessible wound care programs. The research underscores the need for public policies to improve access to quality wound care. This study contributes to understanding health determinants in marginalized communities.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa1JPbUJvTm9mMF9OV3dNT2kyLVo3OFI0UDkycnZDejBxSGozc3IxbHR0M092MWdtWjVyUGZIUlVrRTg1aTRqZmJGdXR3MWtfbktvM2c5UC1UZFhOd1M2Y1dtVUItOHV1cXV3Z0F4cl9WQXZyYVI5dzkyRkhHSkduSm9nQkg4VTlCVFM5Y19IdjR0WThiLVJkRXZ4YWZwVFJfTmVhMnEtLU9fblNGVXRtak5HZ0hFNjcyTXVwd01jcTJCQk1JcmFqNTQ0T0JlWVpSaFZ0M1dXcFZaWks1cUpF?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-14/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "heridas comunes",
+          "definition_es": "lesiones frecuentes como úlceras, abscesos e infecciones de piel",
+          "definition_en": "common wounds - frequent injuries such as ulcers, abscesses and skin infections"
+        },
+        {
+          "word": "barrera de acceso",
+          "definition_es": "obstáculo que impide que los pacientes reciban atención médica adecuada",
+          "definition_en": "access barrier - obstacle preventing patients from receiving appropriate medical care"
+        },
+        {
+          "word": "población vulnerable",
+          "definition_es": "grupo de personas con mayor riesgo de problemas de salud y limitado acceso a servicios",
+          "definition_en": "vulnerable population - group of people at higher health risk with limited service access"
+        },
+        {
+          "word": "determinantes de salud",
+          "definition_es": "factores sociales, económicos y ambientales que afectan la salud de las personas",
+          "definition_en": "health determinants - social, economic and environmental factors affecting people's health"
+        }
+      ],
+      "added_at": "2026-04-14T09:36:57.976839Z"
+    },
     {
       "id": "chronic-wounds-20250413",
       "category": "Chronic Wounds",
@@ -15615,6 +15763,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-13T09:40:49.704407Z",
+  "last_updated": "2026-04-14T09:36:57.976839Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
