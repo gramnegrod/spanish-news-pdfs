@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-14",
+      "filename": "spanish_lesson_2026-04-14.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-14.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Congresista republicano Tony Gonzales renuncia a su puesto",
+          "headline_en": "Republican congressman Tony Gonzales resigns from his position",
+          "body_es": "El congresista republicano Tony Gonzales anunció que dejará el Congreso de Estados Unidos. Gonzales representaba a Texas en la Cámara de Representantes. Su decisión sorprendió a muchas personas en Washington. El político enfrentaba problemas dentro de su propio partido. Algunos republicanos no estaban contentos con sus decisiones políticas. Gonzales dijo que quiere pasar más tiempo con su familia. También mencionó que buscará nuevas oportunidades fuera de la política. Su renuncia significa que habrá una elección especial en Texas. Los votantes elegirán a un nuevo representante para ese distrito. Esta noticia es importante para el equilibrio político en el Congreso.",
+          "body_en": "Republican congressman Tony Gonzales announced he will leave the US Congress. Gonzales represented Texas in the House of Representatives. His decision surprised many people in Washington. The politician faced problems within his own party. Some Republicans were not happy with his political decisions. Gonzales said he wants to spend more time with his family. He also mentioned he will look for new opportunities outside politics. His resignation means there will be a special election in Texas. Voters will choose a new representative for that district. This news is important for the political balance in Congress.",
+          "source": "CNN"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El precio del petróleo sube a más de 100 dólares por barril",
+          "headline_en": "Oil price rises to over 100 dollars per barrel",
+          "body_es": "El precio del petróleo subió nuevamente y ahora cuesta más de 100 dólares por barril. Este aumento preocupa a muchos países porque hace que la gasolina sea más cara. Sin embargo, el mercado de valores de Estados Unidos se mantiene estable. Los inversionistas tienen esperanza por las posibles negociaciones entre Estados Unidos e Irán. Estas conversaciones podrían ayudar a resolver problemas sobre el petróleo. Si los dos países llegan a un acuerdo, los precios podrían bajar. El petróleo es muy importante para la economía mundial. Cuando su precio sube, muchos productos se vuelven más caros. Los expertos están observando la situación cuidadosamente. Esperan que las negociaciones tengan resultados positivos pronto.",
+          "body_en": "The price of oil rose again and now costs more than 100 dollars per barrel. This increase worries many countries because it makes gasoline more expensive. However, the US stock market remains stable. Investors have hope for possible negotiations between the United States and Iran. These talks could help solve problems about oil. If the two countries reach an agreement, prices could drop. Oil is very important for the world economy. When its price rises, many products become more expensive. Experts are watching the situation carefully. They hope the negotiations will have positive results soon.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Experta dice que la inteligencia artificial está muy promocionada",
+          "headline_en": "Expert says artificial intelligence is overhyped",
+          "body_es": "Kara Swisher es una experta en tecnología muy conocida. Ella tiene un programa de radio muy popular sobre temas tecnológicos. Swisher cree que la inteligencia artificial está muy promocionada en estos días. Según ella, las empresas hablan demasiado sobre esta tecnología. Swisher dice que la inteligencia artificial 'sabe como un Twinkie'. Con esta comparación, explica que parece buena pero no es muy nutritiva. El problema principal es que muchas personas no confían en esta tecnología. La gente prefiere hablar con humanos reales en lugar de máquinas. Swisher piensa que las compañías exageran las capacidades de la inteligencia artificial. Ella recomienda ser más realistas sobre lo que esta tecnología puede hacer realmente. Sus comentarios han generado mucho debate en la industria tecnológica.",
+          "body_en": "Kara Swisher is a well-known technology expert. She has a very popular radio program about technology topics. Swisher believes artificial intelligence is overhyped these days. According to her, companies talk too much about this technology. Swisher says artificial intelligence 'tastes like a Twinkie'. With this comparison, she explains it seems good but is not very nutritious. The main problem is that many people don't trust this technology. People prefer to talk with real humans instead of machines. Swisher thinks companies exaggerate artificial intelligence capabilities. She recommends being more realistic about what this technology can actually do. Her comments have generated much debate in the technology industry.",
+          "source": "Fortune"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congresista",
+          "syllables": "con-gre-SIS-ta",
+          "pos": "sustantivo",
+          "context": "El congresista Tony Gonzales anunció que dejará su puesto.",
+          "definition_es": "Persona que forma parte del Congreso",
+          "definition_en": "Member of Congress"
+        },
+        {
+          "word": "renunciar",
+          "syllables": "re-nun-CIAR",
+          "pos": "verbo",
+          "context": "El político decidió renunciar a su cargo.",
+          "definition_es": "Dejar voluntariamente un trabajo o posición",
+          "definition_en": "To resign, to step down"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo subió a más de 100 dólares.",
+          "definition_es": "Líquido negro que se usa para hacer gasolina",
+          "definition_en": "Oil, petroleum"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado de valores se mantuvo estable.",
+          "definition_es": "Lugar donde se compran y venden productos",
+          "definition_en": "Market"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está muy promocionada.",
+          "definition_es": "Tecnología que hace que las máquinas piensen como humanos",
+          "definition_en": "Artificial intelligence"
+        },
+        {
+          "word": "promocionado",
+          "syllables": "pro-mo-cio-NA-do",
+          "pos": "adjetivo",
+          "context": "La tecnología está muy promocionada en los medios.",
+          "definition_es": "Algo que se anuncia mucho o se exagera",
+          "definition_en": "Overhyped, overpromoted"
+        },
+        {
+          "word": "negociaciones",
+          "syllables": "ne-go-cia-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las negociaciones entre países pueden afectar los precios.",
+          "definition_es": "Conversaciones para llegar a un acuerdo",
+          "definition_en": "Negotiations, talks"
+        },
+        {
+          "word": "experto",
+          "syllables": "ex-PER-to",
+          "pos": "sustantivo",
+          "context": "Un experto en tecnología habló sobre la inteligencia artificial.",
+          "definition_es": "Persona que sabe mucho sobre un tema",
+          "definition_en": "Expert"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'renunciar'?",
+          "options": [
+            "Conseguir un nuevo trabajo",
+            "Dejar voluntariamente un trabajo",
+            "Cambiar de ciudad",
+            "Estudiar una carrera"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es el petróleo?",
+          "options": [
+            "Un tipo de comida",
+            "Un líquido negro usado para hacer gasolina",
+            "Una moneda",
+            "Un animal marino"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa que algo esté 'promocionado'?",
+          "options": [
+            "Que es muy barato",
+            "Que se anuncia mucho o se exagera",
+            "Que es muy pequeño",
+            "Que es muy antiguo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son las negociaciones?",
+          "options": [
+            "Conversaciones para llegar a un acuerdo",
+            "Fiestas tradicionales",
+            "Exámenes difíciles",
+            "Deportes olímpicos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué Tony Gonzales decidió dejar el Congreso?",
+          "options": [
+            "Para estudiar en la universidad",
+            "Para pasar tiempo con su familia y buscar nuevas oportunidades",
+            "Para mudarse a otro país",
+            "Para trabajar en una empresa privada"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué estado representaba Tony Gonzales en el Congreso?",
+          "options": [
+            "California",
+            "Florida",
+            "Texas",
+            "Nueva York"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué el mercado de valores se mantiene estable según la historia?",
+          "options": [
+            "Porque el petróleo es muy barato",
+            "Por la esperanza en las negociaciones entre EE.UU. e Irán",
+            "Porque hay muchas fiestas",
+            "Porque es verano"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto cuesta ahora el barril de petróleo?",
+          "options": [
+            "Menos de 50 dólares",
+            "Entre 50 y 80 dólares",
+            "Más de 100 dólares",
+            "Exactamente 90 dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Con qué compara Kara Swisher la inteligencia artificial?",
+          "options": [
+            "Con una hamburguesa",
+            "Con un Twinkie",
+            "Con una pizza",
+            "Con una ensalada"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el problema principal de la inteligencia artificial según Swisher?",
+          "options": [
+            "Es muy cara",
+            "Es muy lenta",
+            "Las personas no confían en ella",
+            "Es muy grande"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-14T09:28:57.365833"
+    },
+    {
       "date": "2026-04-13",
       "filename": "spanish_lesson_2026-04-13.pdf",
       "path": "pdfs/spanish_lesson_2026-04-13.pdf",
@@ -28220,7 +28442,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-13T09:31:52.281021",
+  "last_updated": "2026-04-14T09:28:57.365856",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
