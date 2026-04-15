@@ -1,11 +1,196 @@
 {
-  "date": "2026-04-14",
-  "generated_at": "2026-04-14T09:36:57.976839Z",
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T09:36:53.189572Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 426,
-  "new_today": 4,
+  "total_stories": 431,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250415",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Centro de Cicatrización de Heridas Logra Distinción de Excelencia",
+      "headline_en": "Wound Healing Center Achieves Center of Distinction Status",
+      "summary_es": "El Centro de Cicatrización de Heridas del Sistema de Salud del Sur de Texas recibió la certificación Healogics® Center of Distinction. Este reconocimiento refleja la excelencia en el cuidado de heridas crónicas.",
+      "body_es": "El Sistema de Salud del Sur de Texas anunció que su Centro de Cicatrización de Heridas alcanzó el estado de Healogics® Center of Distinction. Este certificado reconoce la calidad excepcional en el tratamiento de heridas crónicas y úlceras de presión. El centro utiliza apósitos avanzados y técnicas modernas de curación. Los enfermeros evalúan cada herida cuidadosamente. Miden el tamaño, observan el exudado y valoran la granulación del tejido. El equipo multidisciplinario trabaja junto con los pacientes. Ofrecen planes de tratamiento personalizados. Este logro demuestra el compromiso del hospital con la cicatrización efectiva y la atención integral del paciente.",
+      "body_en": "South Texas Health System announced that its Wound Healing Center achieved Healogics® Center of Distinction status. This certificate recognizes exceptional quality in treating chronic wounds and pressure ulcers. The center uses advanced dressings and modern healing techniques. Nurses carefully evaluate each wound. They measure the size, observe the exudate, and assess tissue granulation. The multidisciplinary team works with patients. They offer personalized treatment plans. This achievement demonstrates the hospital's commitment to effective wound healing and comprehensive patient care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNllMTmFfN1J1TmZaWjdHZ25uUTI0a3JucGRhdDU0bVpad19hSzhOTExucmhsVkhFZ25mQTJIYWQzYXBBbXFxbkIwM01odWpjbmVXX1o3dWVvNkV2aXZMWG5OcURZYjRRZGxxWjRFS1lSOXYtTmVHWmFtTWg0YUJTcnctZkxqTVRpTTZpTlVSX19lRm83Z0J5QUVBbmxubVQ2R01Xb1hkamV3aVUyTlVoSVRMbkxISjVWa1pqbjUzR29nM0tCUlVOSUllQUxUSXpaVDZ0MnVn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-15/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de una herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cierra",
+          "definition_en": "ulcer - open wound on skin that does not close"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre una herida",
+          "definition_en": "dressing - material that covers a wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes from a wound"
+        }
+      ],
+      "added_at": "2026-04-15T09:36:53.189572Z"
+    },
+    {
+      "id": "diabetic-foot-20250415",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "La Metformina Previene Complicaciones de Diabetes en Pacientes de Alto Riesgo",
+      "headline_en": "Metformin Prevents Diabetes Complications in High-Risk Patients",
+      "summary_es": "Un nuevo estudio demuestra que la metformina es beneficiosa para prevenir complicaciones diabéticas. Los pacientes de alto riesgo que reciben este tratamiento presentan mejores resultados en la salud de sus pies.",
+      "body_es": "Según la revista Physician's Weekly, la metformina ha demostrado beneficios significativos para la prevención de complicaciones en pacientes con diabetes de alto riesgo. El medicamento reduce la incidencia de úlceras del pie diabético y otras complicaciones vasculares. Los especialistas en cuidado de heridas recomiendan evaluar regularmente los pies de los pacientes diabéticos. La evaluación incluye la inspección visual de la piel, la palpación de pulsos periféricos y el examen de la sensibilidad. El personal de enfermería debe educar a los pacientes sobre el cuidado diario de los pies, incluyendo la higiene, el uso de zapatos apropiados y la detección temprana de lesiones. El control glucémico mediante tratamiento farmacológico, combinado con cambios en el estilo de vida, mejora significativamente los resultados clínicos.",
+      "body_en": "According to Physician's Weekly, metformin has demonstrated significant benefits for preventing complications in high-risk diabetic patients. The medication reduces the incidence of diabetic foot ulcers and other vascular complications. Wound care specialists recommend regular foot evaluation for diabetic patients. Assessment includes visual skin inspection, palpation of peripheral pulses, and sensory examination. Nursing staff must educate patients about daily foot care, including hygiene, appropriate footwear, and early detection of injuries. Glycemic control through pharmacological treatment, combined with lifestyle modifications, significantly improves clinical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLWlLdWNyYXo2WVh6Q01CeU5CVFpoMU10VlJkZFEwX2d4YTZtVXVjUlpROTJzZWZXT3FLd2ZvT3hJSlZQMmxNYTlEbGJYM3NlMldHdVFJYkdZQlBRY2FyZWVUTnZvZG1iSUVSdnl2RFduSHdVTUVkeU1SblhvbmZnaEFrTk00QTVFRmk5SFh5UTk5MjRWdGxIc1FIN25wVnBRaFU5b0YwWXUzOGpyQWRPN2hlTjJneGdWQXVpNQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-15/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "lesión abierta en el pie de pacientes con diabetes",
+          "definition_en": "diabetic foot ulcer - open wound on the foot of diabetic patients"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen cuidadoso de una condición médica",
+          "definition_en": "assessment - careful examination of medical condition"
+        },
+        {
+          "word": "sensibilidad",
+          "definition_es": "capacidad de sentir el tacto o dolor",
+          "definition_en": "sensation - ability to feel touch or pain"
+        },
+        {
+          "word": "control glucémico",
+          "definition_es": "manejo de los niveles de glucosa en la sangre",
+          "definition_en": "glycemic control - management of blood glucose levels"
+        }
+      ],
+      "added_at": "2026-04-15T09:36:53.189572Z"
+    },
+    {
+      "id": "burn-care-20250415",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Cohealyx® Acelera la Cicatrización de Quemaduras en Injertos de Piel",
+      "headline_en": "Cohealyx® Accelerates Burn Healing for Skin Grafting",
+      "summary_es": "AVITA Medical publicó resultados positivos del estudio Cohealyx® que demuestra cicatrización acelerada en quemaduras. Los pacientes alcanzaron injertos de piel en aproximadamente 11 días.",
+      "body_es": "AVITA Medical anunció resultados prometedores del estudio clínico Cohealyx® para el tratamiento de quemaduras. Los datos preliminares muestran que el tratamiento acelera significativamente el tiempo necesario para preparar las heridas para injertos de piel. Los pacientes completaron la fase de cicatrización en aproximadamente 11 días, reduciendo considerablemente el tiempo de hospitalización. El protocolo de Cohealyx® incluye evaluaciones frecuentes de la herida para monitorizar la epitelización y la granulación del tejido. Los enfermeros aplican apósitos especializados que promueven la curación activa. Este tratamiento innovador reduce el riesgo de infecciones y complicaciones. Los resultados demuestran que el manejo avanzado de heridas por quemadura mediante tecnología de vanguardia mejora significativamente los desenlaces clínicos y la calidad de vida del paciente.",
+      "body_en": "AVITA Medical announced promising results from the Cohealyx® clinical trial for burn treatment. Preliminary data shows that the treatment significantly accelerates the time needed to prepare wounds for skin grafting. Patients completed the healing phase in approximately 11 days, substantially reducing hospitalization time. The Cohealyx® protocol includes frequent wound assessments to monitor epithelialization and tissue granulation. Nurses apply specialized dressings that promote active healing. This innovative treatment reduces infection and complication risk. Results demonstrate that advanced burn wound management using cutting-edge technology significantly improves clinical outcomes and patient quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdEUxUjdYdDY2dFZYQzIxeTNTSXJoaF84UWtVUkgzX2VNLWxUcmxYa3Fmck9JaTlKNE5rRTZVd19FUEJsV3ZhUWlGX2RnQ1FZTlZSWnU1N3RfdWRfZWQwck81ajVua3RjRFZCWWFpbmZTTDZ0WDBYT0tiOUhRV2ZHWHA3b2dBcXZMMnY3Y29ESWpFenEzTzI2NUpUeVk4dHhjeTZQSnFxQ096VUxseGVxbkp4ZGNQejFXVGxxbzRUVkJkdTFIOU1CUTRINll5Z25pQkJ5d21QbXM4ZUZUNUA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-15/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancia química",
+          "definition_en": "burn - injury caused by heat, fire or chemical substance"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "procedimiento de trasplante de piel para cubrir heridas",
+          "definition_en": "skin graft - transplant procedure to cover wounds"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nuevas capas de piel sobre una herida",
+          "definition_en": "epithelialization - formation of new skin layers over a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido de cicatrización rojo y blandito",
+          "definition_en": "granulation - formation of red healing tissue"
+        }
+      ],
+      "added_at": "2026-04-15T09:36:53.189572Z"
+    },
+    {
+      "id": "surgical-wounds-20250415",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Programa ERAS Reduce Infecciones de Heridas Quirúrgicas",
+      "headline_en": "ERAS Program Reduces Surgical Site Infections",
+      "summary_es": "Un programa de recuperación mejorada después de cirugía (ERAS) demuestra resultados prometedores reduciendo infecciones de sitios quirúrgicos. Los protocolos estandarizados mejoran la cicatrización.",
+      "body_es": "Según Anesthesiology News, el programa ERAS (Enhanced Recovery After Surgery) ha mostrado promesa significativa en la reducción de infecciones del sitio quirúrgico. Los protocolos ERAS incluyen cuidados perioperatorios estandarizados que optimizan la recuperación de los pacientes. El manejo de heridas quirúrgicas requiere evaluación regular del estado de la sutura, inspección visual para detectar signos de infección como eritema y edema, y vigilancia del exudado seroso. Los profesionales de enfermería educan a los pacientes sobre el cuidado de la herida en el hogar, incluyendo técnicas de limpieza aséptica y cambios de vendaje. El programa implementa intervenciones nutricionales, control del dolor optimizado, y movilización temprana. Estas estrategias multidisciplinarias mejoran la epitelización, reducen complicaciones infecciosas y aceleran el regreso a la actividad normal.",
+      "body_en": "According to Anesthesiology News, the ERAS (Enhanced Recovery After Surgery) program has shown significant promise in reducing surgical site infections. ERAS protocols include standardized perioperative care that optimizes patient recovery. Surgical wound management requires regular suture assessment, visual inspection for infection signs such as erythema and edema, and monitoring of serous exudate. Nursing professionals educate patients on home wound care, including aseptic cleansing techniques and dressing changes. The program implements nutritional interventions, optimized pain control, and early mobilization. These multidisciplinary strategies improve epithelialization, reduce infectious complications, and accelerate return to normal activity.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1IxTWpSSWpDZmJRZGJEN3JxMmZLZ1d2b05FOTZzR2FSdDhxbFZTNVVjem5kaW14WElvTFBkZ0FGaFlUNFdnZDFhTk1fa0xlQWJNNWxxVFJCVzRyTXBISnYzN2d6NkdTdnRVVUZsdE1nOHJxSUJjbU8tR3BaYzNmMFBwWXlGTk55bFdaeXFtaFNuMWNCcDVVN20tVVdFSnM1WERvWlNlRFFTYzllMmI4V3BA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-15/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección quirúrgica",
+          "definition_es": "infección que ocurre en el sitio de una incisión",
+          "definition_en": "surgical infection - infection occurring at incision site"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo usado para cerrar una herida",
+          "definition_en": "suture - thread used to close a wound"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel",
+          "definition_en": "erythema - redness of the skin"
+        },
+        {
+          "word": "edema",
+          "definition_es": "inflamación causada por acumulación de líquido",
+          "definition_en": "edema - swelling caused by fluid accumulation"
+        }
+      ],
+      "added_at": "2026-04-15T09:36:53.189572Z"
+    },
+    {
+      "id": "wound-research-20250415",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Estudiante Desarrolla Innovación RAP-VAC Asequible para Terapia de Heridas",
+      "headline_en": "Student Develops Affordable RAP-VAC Innovation for Wound Therapy",
+      "summary_es": "Un estudiante de la Universidad Gadjah Mada creó una innovación RAP-VAC de bajo costo para tratamiento de heridas. Esta tecnología de terapia de vacío asequible mejora el acceso al tratamiento.",
+      "body_es": "Un estudiante de la Universitas Gadjah Mada en Indonesia desarrolló una innovación revolucionaria llamada RAP-VAC para la terapia de heridas. Este sistema proporciona terapia de presión negativa controlada a un costo significativamente reducido en comparación con los sistemas comerciales existentes. La terapia de vacío acelera la cicatrización al remover exudado, reducir el edema tisular, y estimular la granulación. El dispositivo RAP-VAC utiliza componentes asequibles y tecnología sencilla, lo que lo hace accesible para hospitales en países en desarrollo. La investigación demuestra que el sistema es efectivo en el tratamiento de úlceras crónicas, heridas quirúrgicas complejas y lesiones por presión. Esta innovación representa un avance significativo en hacer la terapia de vanguardia disponible para poblaciones de bajos recursos, mejorando resultados clínicos y reduciendo costos hospitalarios.",
+      "body_en": "A student from Universitas Gadjah Mada in Indonesia developed a revolutionary innovation called RAP-VAC for wound therapy. This system provides controlled negative pressure therapy at a significantly reduced cost compared to existing commercial systems. Vacuum therapy accelerates healing by removing exudate, reducing tissue edema, and stimulating granulation. The RAP-VAC device uses affordable components and straightforward technology, making it accessible for hospitals in developing countries. Research demonstrates the system is effective in treating chronic ulcers, complex surgical wounds, and pressure injuries. This innovation represents significant progress in making cutting-edge therapy available to low-resource populations, improving clinical outcomes and reducing hospital costs.",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnVtWXN4MDY1ZHBMQjdHNm9qdHI4VmktRkZjczFEUmttaDdlczBrQkRoMENNQUkwRHhjU002RDhtaVEtWUtWZkZ1Wm5aYUthYnZ1WEw2el9sUXlXdGNGREtDcElET0MxQjNRaHZwWk5nYWd5aTFFS1NMN1RFdnkxNzRiZGhENDZ2M2VkalNjTmR6NTlqcFFvOGtjOA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-15/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "terapia de vacío",
+          "definition_es": "tratamiento que usa presión negativa para acelerar cicatrización",
+          "definition_en": "vacuum therapy - treatment using negative pressure to accelerate healing"
+        },
+        {
+          "word": "presión negativa",
+          "definition_es": "succión controlada aplicada a una herida",
+          "definition_en": "negative pressure - controlled suction applied to a wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida durante la cicatrización",
+          "definition_en": "exudate - fluid that comes from a wound during healing"
+        },
+        {
+          "word": "úlcera crónica",
+          "definition_es": "herida abierta que persiste por largo tiempo sin cicatrizar",
+          "definition_en": "chronic ulcer - open wound that persists without healing for long time"
+        }
+      ],
+      "added_at": "2026-04-15T09:36:53.189572Z"
+    },
     {
       "id": "chronic-wounds-20250414",
       "category": "Chronic Wounds",
@@ -15763,6 +15948,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-14T09:36:57.976839Z",
+  "last_updated": "2026-04-15T09:36:53.189572Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
