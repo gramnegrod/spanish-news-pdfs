@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-15",
+      "filename": "spanish_lesson_2026-04-15.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-15.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Nuevo congresista republicano jura su cargo en Georgia",
+          "headline_en": "New Republican congressman sworn into office in Georgia",
+          "body_es": "Clay Fuller, un político republicano, juró como nuevo congresista de Georgia. Fuller ocupará el escaño que dejó vacante Marjorie Taylor Greene. La ceremonia se realizó en el Congreso de Estados Unidos. Fuller prometió trabajar por los ciudadanos de Georgia. Este cambio es importante para la política del estado. Los republicanos mantienen el control del escaño. Fuller tiene experiencia en política local. Ahora representará a Georgia en Washington. Los votantes eligieron a Fuller en una elección especial. Su trabajo comenzará inmediatamente en el Congreso.",
+          "body_en": "Clay Fuller, a Republican politician, was sworn in as the new congressman from Georgia. Fuller will occupy the seat left vacant by Marjorie Taylor Greene. The ceremony took place in the US Congress. Fuller promised to work for the citizens of Georgia. This change is important for state politics. Republicans maintain control of the seat. Fuller has experience in local politics. He will now represent Georgia in Washington. Voters chose Fuller in a special election. His work will begin immediately in Congress.",
+          "source": "Local 3 News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Ex secretaria del Tesoro dice que las tasas de interés pueden bajar",
+          "headline_en": "Former Treasury Secretary says interest rates may go down",
+          "body_es": "Janet Yellen, ex secretaria del Tesoro de Estados Unidos, habló sobre la economía. Ella dijo que es posible una reducción de las tasas de interés este año. La Reserva Federal controla estas tasas importantes. Las tasas de interés afectan los préstamos y la economía. Si bajan las tasas, es más fácil pedir dinero prestado. Yellen tiene mucha experiencia en economía. Trabajó en el gobierno durante muchos años. Su opinión es importante para los mercados. Los bancos y las empresas escuchan sus comentarios. Una reducción ayudaría a la economía del país.",
+          "body_en": "Janet Yellen, former US Treasury Secretary, spoke about the economy. She said that an interest rate reduction is possible this year. The Federal Reserve controls these important rates. Interest rates affect loans and the economy. If rates go down, it's easier to borrow money. Yellen has a lot of experience in economics. She worked in government for many years. Her opinion is important for the markets. Banks and companies listen to her comments. A reduction would help the country's economy.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa invierte 84 millones de dólares en inteligencia artificial",
+          "headline_en": "Company invests 84 million dollars in artificial intelligence",
+          "body_es": "Coupang, una empresa importante, anunció una gran inversión en tecnología. La empresa invertirá 84 millones de dólares en empresas nuevas de inteligencia artificial. Estas empresas desarrollan tecnología avanzada. La inteligencia artificial es muy importante para el futuro. Coupang quiere apoyar a empresas de todo el mundo. El dinero ayudará a crear nuevos productos tecnológicos. La inversión muestra que la inteligencia artificial crece rápidamente. Las empresas nuevas necesitan dinero para desarrollar sus ideas. Esta inversión creará muchos empleos nuevos. La tecnología cambiará muchos aspectos de nuestras vidas.",
+          "body_en": "Coupang, an important company, announced a large investment in technology. The company will invest 84 million dollars in new artificial intelligence companies. These companies develop advanced technology. Artificial intelligence is very important for the future. Coupang wants to support companies from around the world. The money will help create new technological products. The investment shows that artificial intelligence is growing rapidly. New companies need money to develop their ideas. This investment will create many new jobs. Technology will change many aspects of our lives.",
+          "source": "Business Wire"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congresista",
+          "syllables": "con-gre-SIS-ta",
+          "pos": "sustantivo",
+          "context": "Clay Fuller es el nuevo congresista de Georgia.",
+          "definition_es": "Persona que forma parte del Congreso",
+          "definition_en": "Member of Congress"
+        },
+        {
+          "word": "jurar",
+          "syllables": "ju-RAR",
+          "pos": "verbo",
+          "context": "Clay Fuller juró como nuevo representante.",
+          "definition_es": "Prometer solemnemente cumplir un cargo",
+          "definition_en": "To swear in, take an oath"
+        },
+        {
+          "word": "tasa",
+          "syllables": "TA-sa",
+          "pos": "sustantivo",
+          "context": "La tasa de interés puede bajar este año.",
+          "definition_es": "Porcentaje que se paga por el dinero prestado",
+          "definition_en": "Interest rate"
+        },
+        {
+          "word": "reducción",
+          "syllables": "re-duc-CIÓN",
+          "pos": "sustantivo",
+          "context": "Es posible una reducción de las tasas de interés.",
+          "definition_es": "Acción de hacer algo más pequeño",
+          "definition_en": "Reduction, cut"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "La empresa anunció una inversión de 84 millones de dólares.",
+          "definition_es": "Dinero que se usa para ganar más dinero",
+          "definition_en": "Investment"
+        },
+        {
+          "word": "artificial",
+          "syllables": "ar-ti-fi-CIAL",
+          "pos": "adjetivo",
+          "context": "Las empresas desarrollan inteligencia artificial.",
+          "definition_es": "Hecho por el ser humano, no natural",
+          "definition_en": "Artificial"
+        },
+        {
+          "word": "escaño",
+          "syllables": "es-CA-ño",
+          "pos": "sustantivo",
+          "context": "Fuller ocupará el escaño vacante en el Congreso.",
+          "definition_es": "Asiento de un representante en el parlamento",
+          "definition_en": "Congressional seat"
+        },
+        {
+          "word": "millones",
+          "syllables": "mi-LLO-nes",
+          "pos": "sustantivo",
+          "context": "La inversión es de 84 millones de dólares.",
+          "definition_es": "Número que representa 1.000.000 multiplicado",
+          "definition_en": "Millions"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'congresista'?",
+          "options": [
+            "Persona que trabaja en un banco",
+            "Persona que forma parte del Congreso",
+            "Persona que enseña en la universidad",
+            "Persona que vende productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'tasa' en contexto económico?",
+          "options": [
+            "Una copa pequeña",
+            "Un tipo de impuesto",
+            "Porcentaje que se paga por dinero prestado",
+            "Una medida de peso"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'inversión'?",
+          "options": [
+            "Cambiar la posición de algo",
+            "Dinero usado para ganar más dinero",
+            "Una operación matemática",
+            "Un tipo de medicina"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'jurar' en el contexto político?",
+          "options": [
+            "Decir palabras ofensivas",
+            "Prometer cumplir un cargo solemnemente",
+            "Hablar en voz alta",
+            "Firmar un documento"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Quién es Clay Fuller según la historia política?",
+          "options": [
+            "Un demócrata de Georgia",
+            "Un republicano que juró como congresista",
+            "Un secretario del Tesoro",
+            "Un empleado de Coupang"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué dijo Janet Yellen sobre las tasas de interés?",
+          "options": [
+            "Van a subir mucho",
+            "Es posible una reducción este año",
+            "No van a cambiar",
+            "Subirán el próximo mes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero invertirá Coupang en inteligencia artificial?",
+          "options": [
+            "48 millones de dólares",
+            "74 millones de dólares",
+            "84 millones de dólares",
+            "94 millones de dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué escaño ocupará Clay Fuller?",
+          "options": [
+            "El que dejó vacante Marjorie Taylor Greene",
+            "Un escaño nuevo en Texas",
+            "El escaño de Janet Yellen",
+            "Un escaño en California"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué organización controla las tasas de interés según la historia?",
+          "options": [
+            "El Congreso",
+            "Coupang",
+            "La Reserva Federal",
+            "El Tesoro"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿En qué tipo de empresas invertirá Coupang?",
+          "options": [
+            "Empresas de comida",
+            "Empresas de inteligencia artificial",
+            "Empresas de ropa",
+            "Empresas de transporte"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-15T09:29:14.279487"
+    },
+    {
       "date": "2026-04-14",
       "filename": "spanish_lesson_2026-04-14.pdf",
       "path": "pdfs/spanish_lesson_2026-04-14.pdf",
@@ -28442,7 +28664,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-14T09:28:57.365856",
+  "last_updated": "2026-04-15T09:29:14.279515",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
