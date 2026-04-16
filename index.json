@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-16",
+      "filename": "spanish_lesson_2026-04-16.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-16.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El gobierno de Estados Unidos lleva 60 días cerrado",
+          "headline_en": "US government has been shut down for 60 days",
+          "body_es": "El gobierno de Estados Unidos está cerrado desde hace 60 días. El Departamento de Seguridad Nacional no está funcionando. Los políticos no pueden ponerse de acuerdo sobre el presupuesto nacional. Muchos empleados del gobierno no están trabajando y no reciben su salario. Los ciudadanos no pueden usar algunos servicios públicos importantes. El Congreso debe votar hoy para decidir si aprueban un nuevo presupuesto. Si votan a favor, el gobierno puede abrir otra vez. Los expertos dicen que este cierre está afectando la economía del país. La situación es muy seria para millones de americanos.",
+          "body_en": "The US government has been shut down for 60 days. The Department of Homeland Security is not functioning. Politicians cannot agree on the national budget. Many government employees are not working and not receiving their salary. Citizens cannot use some important public services. Congress must vote today to decide if they approve a new budget. If they vote in favor, the government can open again. Experts say this shutdown is affecting the country's economy. The situation is very serious for millions of Americans.",
+          "source": "The Providence Journal"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los bancos americanos ganan 50 mil millones de dólares durante la guerra",
+          "headline_en": "American banks earn 50 billion dollars during the war",
+          "body_es": "Los bancos más grandes de Estados Unidos ganaron casi 50 mil millones de dólares este año. Estas ganancias son muy altas porque hay una guerra en la región de Irán. Cuando hay conflictos en el mundo, los mercados financieros cambian mucho. La gente invierte su dinero de manera diferente durante las crisis. Los bancos aprovechan esta situación para ganar más dinero. Muchos ciudadanos críticos dicen que no es correcto ganar tanto dinero durante una guerra. Sin embargo, los bancos explican que sus servicios son importantes para la economía. Los expertos financieros están estudiando estos resultados para entender mejor el mercado.",
+          "body_en": "The largest banks in the United States earned almost 50 billion dollars this year. These profits are very high because there is a war in the Iran region. When there are conflicts in the world, financial markets change a lot. People invest their money differently during crises. Banks take advantage of this situation to earn more money. Many critical citizens say it is not right to earn so much money during a war. However, banks explain that their services are important for the economy. Financial experts are studying these results to better understand the market.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Muchas empresas despiden trabajadores por la inteligencia artificial",
+          "headline_en": "Many companies lay off workers because of artificial intelligence",
+          "body_es": "En 2026, muchas empresas importantes están despidiendo empleados. La razón principal es la inteligencia artificial. Esta nueva tecnología puede hacer el trabajo de muchas personas. Las empresas prefieren usar máquinas inteligentes porque son más baratas que los empleados humanos. Los sectores más afectados son las oficinas, el servicio al cliente y la contabilidad. Miles de trabajadores perdieron sus empleos este año. Los sindicatos están protestando contra esta situación. Algunos políticos quieren crear leyes para proteger a los trabajadores. Sin embargo, las empresas dicen que deben usar nueva tecnología para competir en el mercado global. Es un problema muy difícil de resolver.",
+          "body_en": "In 2026, many important companies are laying off employees. The main reason is artificial intelligence. This new technology can do the work of many people. Companies prefer to use intelligent machines because they are cheaper than human employees. The most affected sectors are offices, customer service, and accounting. Thousands of workers lost their jobs this year. Unions are protesting against this situation. Some politicians want to create laws to protect workers. However, companies say they must use new technology to compete in the global market. It is a very difficult problem to solve.",
+          "source": "Forbes"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno ya dura 60 días.",
+          "definition_es": "Acción de cerrar o detener las operaciones",
+          "definition_en": "Shutdown, closure"
+        },
+        {
+          "word": "votar",
+          "syllables": "vo-TAR",
+          "pos": "verbo",
+          "context": "Los políticos van a votar hoy sobre el presupuesto.",
+          "definition_es": "Dar su opinión o decisión en una elección",
+          "definition_en": "To vote"
+        },
+        {
+          "word": "ganancias",
+          "syllables": "ga-NAN-cias",
+          "pos": "sustantivo",
+          "context": "Los bancos obtuvieron ganancias de 50 mil millones de dólares.",
+          "definition_es": "Dinero que se obtiene de un negocio",
+          "definition_en": "Profits, earnings"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros están nerviosos por la guerra.",
+          "definition_es": "Lugares donde se compran y venden productos o acciones",
+          "definition_en": "Markets"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Muchas empresas anunciaron despidos por la inteligencia artificial.",
+          "definition_es": "Cuando una empresa termina el trabajo de los empleados",
+          "definition_en": "Layoffs"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las grandes empresas están usando más tecnología.",
+          "definition_es": "Organizaciones que producen bienes o servicios",
+          "definition_en": "Companies"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El Congreso debe aprobar el presupuesto nacional.",
+          "definition_es": "Plan de gastos y ingresos de dinero",
+          "definition_en": "Budget"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología está cambiando el mundo del trabajo.",
+          "definition_es": "Conocimiento científico aplicado a resolver problemas",
+          "definition_en": "Technology"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'cierre'?",
+          "options": [
+            "Abrir algo",
+            "Cerrar o detener operaciones",
+            "Comprar productos",
+            "Estudiar mucho"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Las 'ganancias' son:",
+          "options": [
+            "Pérdidas de dinero",
+            "Dinero que se obtiene de un negocio",
+            "Gastos de una empresa",
+            "Empleados nuevos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'despidos'?",
+          "options": [
+            "Contratar empleados nuevos",
+            "Terminar el trabajo de los empleados",
+            "Dar vacaciones",
+            "Aumentar el salario"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un 'presupuesto' es:",
+          "options": [
+            "Un edificio del gobierno",
+            "Un plan de gastos y ingresos",
+            "Una máquina inteligente",
+            "Un banco grande"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos días lleva cerrado el gobierno estadounidense?",
+          "options": [
+            "30 días",
+            "45 días",
+            "60 días",
+            "90 días"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero ganaron los bancos americanos?",
+          "options": [
+            "30 mil millones",
+            "40 mil millones",
+            "50 mil millones",
+            "60 mil millones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué las empresas están despidiendo trabajadores?",
+          "options": [
+            "Por la guerra",
+            "Por el cierre del gobierno",
+            "Por la inteligencia artificial",
+            "Por los bancos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué departamento del gobierno no está funcionando?",
+          "options": [
+            "Departamento de Educación",
+            "Departamento de Seguridad Nacional",
+            "Departamento de Salud",
+            "Departamento de Transporte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué los bancos ganaron tanto dinero?",
+          "options": [
+            "Por la tecnología",
+            "Por el cierre del gobierno",
+            "Por la guerra en Irán",
+            "Por los despidos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿En qué año están ocurriendo los despidos por inteligencia artificial?",
+          "options": [
+            "2024",
+            "2025",
+            "2026",
+            "2027"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-16T09:29:10.901289"
+    },
+    {
       "date": "2026-04-15",
       "filename": "spanish_lesson_2026-04-15.pdf",
       "path": "pdfs/spanish_lesson_2026-04-15.pdf",
@@ -28664,7 +28886,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-15T09:29:14.279515",
+  "last_updated": "2026-04-16T09:29:10.901309",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
