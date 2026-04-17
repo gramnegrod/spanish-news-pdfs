@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-17",
+      "filename": "spanish_lesson_2026-04-17.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-17.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Cien antiguos políticos americanos trabajan para gobiernos extranjeros",
+          "headline_en": "One hundred former American politicians work for foreign governments",
+          "body_es": "Un estudio reciente muestra que cien antiguos legisladores estadounidenses ahora trabajan como cabilderos para gobiernos extranjeros. Estos políticos dejaron sus puestos en el Congreso y ahora representan intereses de otros países. Los cabilderos extranjeros intentan influir en las decisiones del gobierno americano. Muchas personas están preocupadas por esta situación. Creen que puede crear conflictos de interés. Los antiguos políticos conocen bien el sistema político americano. Por eso, otros países los contratan para defender sus intereses. Esta práctica es legal pero controversial. Algunos expertos piden más regulaciones para controlar el cabildeo extranjero en Estados Unidos.",
+          "body_en": "A recent study shows that one hundred former US lawmakers now work as lobbyists for foreign governments. These politicians left their positions in Congress and now represent other countries' interests. Foreign lobbyists try to influence American government decisions. Many people are worried about this situation. They believe it can create conflicts of interest. Former politicians know the American political system well. That's why other countries hire them to defend their interests. This practice is legal but controversial. Some experts ask for more regulations to control foreign lobbying in the United States.",
+          "source": "Responsible Statecraft"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El mercado inmobiliario de primavera se detiene por la guerra y altas hipotecas",
+          "headline_en": "The spring housing market stops due to war and high mortgages",
+          "body_es": "El mercado inmobiliario americano está muy lento esta primavera. Normalmente, la primavera es la mejor época para comprar y vender casas. Sin embargo, este año es diferente. Las tasas de hipotecas están muy altas. Esto significa que comprar una casa es muy caro. También, la guerra en Europa afecta la economía global. Los compradores prefieren esperar mejores condiciones. Muchas familias no pueden pagar las altas tasas de interés. Los vendedores también esperan porque hay pocos compradores. Los expertos dicen que la situación puede continuar varios meses. El gobierno estudia maneras de ayudar a los compradores de casas.",
+          "body_en": "The American housing market is very slow this spring. Normally, spring is the best time to buy and sell houses. However, this year is different. Mortgage rates are very high. This means buying a house is very expensive. Also, the war in Europe affects the global economy. Buyers prefer to wait for better conditions. Many families cannot pay the high interest rates. Sellers also wait because there are few buyers. Experts say the situation may continue for several months. The government is studying ways to help house buyers.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas usan la IA como excusa para despedir trabajadores",
+          "headline_en": "Tech companies use AI as excuse to fire workers",
+          "body_es": "Un director ejecutivo importante dice que las empresas tecnológicas usan la inteligencia artificial como excusa para despedir trabajadores. Muchas compañías tecnológicas han anunciado despidos masivos este año. Dicen que la IA puede hacer el trabajo de las personas. Sin embargo, algunos líderes empresariales no están de acuerdo. Creen que las empresas realmente despiden por problemas económicos. La IA es solo una excusa conveniente. Los trabajadores tecnológicos están preocupados por sus empleos. Muchos estudian nuevas habilidades para adaptarse. Las empresas invierten millones en tecnología de IA. Pero también eliminan miles de puestos de trabajo. Esta situación crea debate sobre el futuro del trabajo en tecnología.",
+          "body_en": "An important CEO says that tech companies use artificial intelligence as an excuse to fire workers. Many tech companies have announced mass layoffs this year. They say that AI can do people's work. However, some business leaders disagree. They believe companies really fire people due to economic problems. AI is just a convenient excuse. Tech workers are worried about their jobs. Many study new skills to adapt. Companies invest millions in AI technology. But they also eliminate thousands of jobs. This situation creates debate about the future of work in technology.",
+          "source": "Forbes Australia"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "legisladores",
+          "syllables": "le-gis-la-DO-res",
+          "pos": "sustantivo",
+          "context": "Cien antiguos legisladores estadounidenses trabajan ahora como cabilderos extranjeros.",
+          "definition_es": "Personas que hacen las leyes en el gobierno",
+          "definition_en": "People who make laws in government; lawmakers"
+        },
+        {
+          "word": "cabilderos",
+          "syllables": "ca-bil-DE-ros",
+          "pos": "sustantivo",
+          "context": "Los cabilderos intentan influir en las decisiones políticas.",
+          "definition_es": "Personas que intentan influir en políticos para beneficiar a sus clientes",
+          "definition_en": "People who try to influence politicians for their clients; lobbyists"
+        },
+        {
+          "word": "hipotecas",
+          "syllables": "hi-po-TE-cas",
+          "pos": "sustantivo",
+          "context": "Las altas tasas de hipotecas dificultan la compra de casas.",
+          "definition_es": "Préstamos para comprar una casa",
+          "definition_en": "Loans to buy a house; mortgages"
+        },
+        {
+          "word": "compradores",
+          "syllables": "com-pra-DO-res",
+          "pos": "sustantivo",
+          "context": "Los compradores esperan mejores precios antes de comprar casas.",
+          "definition_es": "Personas que compran algo",
+          "definition_en": "People who buy something; buyers"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas anunciaron muchos despidos este año.",
+          "definition_es": "Cuando una empresa termina el trabajo de sus empleados",
+          "definition_en": "When a company ends workers' employment; layoffs"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando muchos trabajos.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans; artificial intelligence"
+        },
+        {
+          "word": "excusa",
+          "syllables": "ex-CU-sa",
+          "pos": "sustantivo",
+          "context": "Algunas empresas usan la IA como excusa para despedir trabajadores.",
+          "definition_es": "Razón falsa que se da para justificar algo",
+          "definition_en": "False reason given to justify something; excuse"
+        },
+        {
+          "word": "mercado inmobiliario",
+          "syllables": "mer-CA-do in-mo-bi-LIA-rio",
+          "pos": "sustantivo",
+          "context": "El mercado inmobiliario está muy lento en primavera.",
+          "definition_es": "Sector económico de compra y venta de casas",
+          "definition_en": "Economic sector of buying and selling houses; housing market"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'cabilderos'?",
+          "options": [
+            "Personas que construyen edificios",
+            "Personas que influyen en políticos",
+            "Personas que venden casas",
+            "Personas que programan computadoras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una 'hipoteca' es:",
+          "options": [
+            "Un tipo de casa",
+            "Un préstamo para comprar casa",
+            "Una empresa inmobiliaria",
+            "Un documento legal"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'despidos'?",
+          "options": [
+            "Contratar nuevos empleados",
+            "Terminar el empleo de trabajadores",
+            "Dar vacaciones a empleados",
+            "Aumentar salarios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Los 'compradores' son personas que:",
+          "options": [
+            "Venden productos",
+            "Compran algo",
+            "Alquilan casas",
+            "Trabajan en bancos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos antiguos legisladores americanos trabajan como cabilderos extranjeros?",
+          "options": [
+            "50",
+            "75",
+            "100",
+            "125"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué está lento el mercado inmobiliario esta primavera?",
+          "options": [
+            "Por las altas temperaturas",
+            "Por las altas tasas de hipotecas y la guerra",
+            "Por falta de casas",
+            "Por problemas tecnológicos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué dice el CEO sobre las empresas tecnológicas y la IA?",
+          "options": [
+            "La IA es muy útil",
+            "Usan la IA como excusa para despedir",
+            "La IA creará más empleos",
+            "La IA es muy cara"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la mejor época para comprar casas normalmente?",
+          "options": [
+            "Invierno",
+            "Verano",
+            "Otoño",
+            "Primavera"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué otros países contratan a antiguos políticos americanos?",
+          "options": [
+            "Son más baratos",
+            "Hablan muchos idiomas",
+            "Conocen bien el sistema político",
+            "Tienen más tiempo libre"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cómo reaccionan los trabajadores tecnológicos ante los despidos?",
+          "options": [
+            "Cambian de carrera",
+            "Estudian nuevas habilidades",
+            "Protestan en las calles",
+            "Dejan de trabajar"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-17T09:28:56.723745"
+    },
+    {
       "date": "2026-04-16",
       "filename": "spanish_lesson_2026-04-16.pdf",
       "path": "pdfs/spanish_lesson_2026-04-16.pdf",
@@ -28886,7 +29108,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-16T09:29:10.901309",
+  "last_updated": "2026-04-17T09:28:56.723769",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
