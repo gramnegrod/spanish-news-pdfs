@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-18",
+      "filename": "spanish_lesson_2026-04-18.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-18.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Congreso estadounidense aprueba extensión de ley de vigilancia",
+          "headline_en": "US Congress approves extension of surveillance law",
+          "body_es": "El Congreso de Estados Unidos aprobó una extensión de diez días para una importante ley de vigilancia. Esta decisión llegó después de debates entre los republicanos. La ley permite al gobierno monitorear comunicaciones para proteger la seguridad nacional. Los legisladores no pudieron ponerse de acuerdo sobre cambios a la ley original. Por eso decidieron extender el tiempo para seguir discutiendo. La extensión da más tiempo para negociar. Algunos políticos quieren más protecciones para los ciudadanos. Otros creen que la ley actual es necesaria para la seguridad. El debate continuará en los próximos días.",
+          "body_en": "The US Congress approved a ten-day extension for an important surveillance law. This decision came after debates among Republicans. The law allows the government to monitor communications to protect national security. Legislators couldn't agree on changes to the original law. So they decided to extend the time to continue discussing. The extension gives more time to negotiate. Some politicians want more protections for citizens. Others believe the current law is necessary for security. The debate will continue in the coming days.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Precios del petróleo bajan tras reapertura del Estrecho de Hormuz",
+          "headline_en": "Oil prices drop after Strait of Hormuz reopening",
+          "body_es": "Los precios del petróleo cayeron más del 10% después de que Irán reabriera el Estrecho de Hormuz. Este estrecho es muy importante para el transporte mundial de petróleo. Las acciones estadounidenses subieron mucho con esta noticia. Los inversores estaban preocupados por problemas en esta región. El Estrecho de Hormuz conecta el Golfo Pérsico con el océano. Por allí pasa mucho petróleo del mundo. Cuando hay problemas en esta zona, los precios suben. Ahora que está abierto otra vez, los mercados se calmaron. Esta situación muestra cómo los eventos geopolíticos afectan la economía mundial.",
+          "body_en": "Oil prices fell more than 10% after Iran reopened the Strait of Hormuz. This strait is very important for global oil transport. US stocks rose significantly with this news. Investors were worried about problems in this region. The Strait of Hormuz connects the Persian Gulf with the ocean. Much of the world's oil passes through there. When there are problems in this area, prices go up. Now that it's open again, markets calmed down. This situation shows how geopolitical events affect the global economy.",
+          "source": "Audacy"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa de chips de IA Cerebras planea volverse pública",
+          "headline_en": "AI chip company Cerebras plans to go public",
+          "body_es": "Cerebras, una empresa que fabrica chips de inteligencia artificial, quiere volverse pública. Esto significa que cualquier persona podrá comprar acciones de la empresa. La compañía presentó documentos oficiales para este proceso. Cerebras hace chips especiales para inteligencia artificial. Sus productos son diferentes de los chips normales de computadora. La empresa se une a otras compañías de tecnología que también quieren volverse públicas este año. El mercado de inteligencia artificial está creciendo muy rápido. Los inversores están muy interesados en estas empresas. Si todo va bien, las personas podrán comprar acciones de Cerebras pronto.",
+          "body_en": "Cerebras, a company that makes artificial intelligence chips, wants to go public. This means that anyone will be able to buy shares of the company. The company filed official documents for this process. Cerebras makes special chips for artificial intelligence. Their products are different from normal computer chips. The company joins other technology companies that also want to go public this year. The artificial intelligence market is growing very fast. Investors are very interested in these companies. If all goes well, people will be able to buy Cerebras shares soon.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "vigilancia",
+          "syllables": "vi-gi-LAN-cia",
+          "pos": "sustantivo",
+          "context": "El Congreso aprobó una extensión de la ley de vigilancia.",
+          "definition_es": "Control y observación de actividades para seguridad",
+          "definition_en": "Surveillance, monitoring for security purposes"
+        },
+        {
+          "word": "extensión",
+          "syllables": "ex-ten-SIÓN",
+          "pos": "sustantivo",
+          "context": "Aprobaron una extensión de diez días para la ley.",
+          "definition_es": "Prolongación de tiempo o espacio",
+          "definition_en": "Extension, prolongation of time or space"
+        },
+        {
+          "word": "precios",
+          "syllables": "PRE-cios",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo bajaron más del 10%.",
+          "definition_es": "Cantidad de dinero que cuesta algo",
+          "definition_en": "Prices, cost of something"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones estadounidenses subieron mucho.",
+          "definition_es": "Partes de una empresa que se pueden comprar",
+          "definition_en": "Stocks, shares of a company"
+        },
+        {
+          "word": "estrecho",
+          "syllables": "es-TRE-cho",
+          "pos": "sustantivo",
+          "context": "Irán reabrió el Estrecho de Hormuz.",
+          "definition_es": "Paso angosto de agua entre dos tierras",
+          "definition_en": "Strait, narrow water passage between lands"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "La empresa Cerebras fabrica chips de inteligencia artificial.",
+          "definition_es": "Organización que produce bienes o servicios",
+          "definition_en": "Company, organization that produces goods or services"
+        },
+        {
+          "word": "público",
+          "syllables": "PÚ-bli-co",
+          "pos": "adjetivo",
+          "context": "Cerebras quiere volverse una empresa pública.",
+          "definition_es": "Abierto a todas las personas",
+          "definition_en": "Public, open to all people"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Las ofertas de tecnología están aumentando.",
+          "definition_es": "Aplicación de conocimientos científicos",
+          "definition_en": "Technology, application of scientific knowledge"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'vigilancia'?",
+          "options": [
+            "Control y observación",
+            "Extensión de tiempo",
+            "Precio alto",
+            "Empresa pública"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'estrecho'?",
+          "options": [
+            "Precio del petróleo",
+            "Empresa de tecnología",
+            "Paso angosto de agua",
+            "Chip de computadora"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en economía?",
+          "options": [
+            "Actividades diarias",
+            "Partes de una empresa",
+            "Precios del petróleo",
+            "Leyes del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa que una empresa sea 'pública'?",
+          "options": [
+            "Que es del gobierno",
+            "Que está abierta a todos",
+            "Que fabrica chips",
+            "Que tiene tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por cuánto tiempo extendió el Congreso la ley de vigilancia?",
+          "options": [
+            "5 días",
+            "10 días",
+            "15 días",
+            "20 días"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto bajaron los precios del petróleo?",
+          "options": [
+            "5%",
+            "8%",
+            "Más del 10%",
+            "15%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué país reabrió el Estrecho de Hormuz?",
+          "options": [
+            "Estados Unidos",
+            "Irán",
+            "Arabia Saudí",
+            "Irak"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de chips fabrica Cerebras?",
+          "options": [
+            "Chips normales",
+            "Chips de teléfono",
+            "Chips de inteligencia artificial",
+            "Chips de videojuegos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué hubo debates en el Congreso sobre la ley de vigilancia?",
+          "options": [
+            "Los republicanos no se ponían de acuerdo",
+            "La ley era muy cara",
+            "No había tiempo",
+            "Los demócratas se opusieron"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con las acciones estadounidenses cuando se reabrió el estrecho?",
+          "options": [
+            "Bajaron mucho",
+            "Se mantuvieron igual",
+            "Subieron mucho",
+            "Cerraron"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-18T09:14:28.258965"
+    },
+    {
       "date": "2026-04-17",
       "filename": "spanish_lesson_2026-04-17.pdf",
       "path": "pdfs/spanish_lesson_2026-04-17.pdf",
@@ -29108,7 +29330,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-17T09:28:56.723769",
+  "last_updated": "2026-04-18T09:14:28.258986",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
