@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-19",
+      "filename": "spanish_lesson_2026-04-19.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-19.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso pregunta si Trump puede enviar soldados a las elecciones",
+          "headline_en": "Congress asks if Trump can send soldiers to elections",
+          "body_es": "Los miembros del Congreso hicieron preguntas importantes a un general de la Guardia Nacional. Querían saber si el presidente Trump puede ordenar que las tropas vayan a los lugares de votación el día de las elecciones. Esta situación preocupa a muchas personas porque las elecciones deben ser libres y seguras. El general respondió las preguntas del Congreso sobre este tema delicado. Los políticos quieren proteger el proceso democrático. Es importante que los ciudadanos puedan votar sin presión militar. Las elecciones son un derecho fundamental en Estados Unidos. El debate continúa en Washington sobre este asunto controvertido.",
+          "body_en": "Congress members asked important questions to a National Guard general. They wanted to know if President Trump can order troops to go to polling places on election day. This situation worries many people because elections must be free and safe. The general answered Congress's questions about this delicate topic. Politicians want to protect the democratic process. It's important that citizens can vote without military pressure. Elections are a fundamental right in the United States. The debate continues in Washington about this controversial matter.",
+          "source": "Idaho State Journal"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Warren Buffett advierte sobre peligro en el mercado de acciones",
+          "headline_en": "Warren Buffett warns about danger in stock market",
+          "body_es": "Warren Buffett es uno de los inversores más famosos del mundo. Él usa una métrica especial para predecir problemas en el mercado de acciones. Esta métrica económica acaba de llegar a un nivel muy alto y peligroso. Según Buffett, cuando esta medida sube tanto, el mercado puede colapsar. Los expertos están preocupados porque la situación actual es similar a crisis pasadas. Esta métrica compara el valor total del mercado con la economía del país. Cuando el número es demasiado alto, significa que las acciones cuestan más de lo que valen realmente. Los inversores inteligentes prestan atención a estas señales de advertencia para proteger su dinero.",
+          "body_en": "Warren Buffett is one of the world's most famous investors. He uses a special metric to predict problems in the stock market. This economic metric just reached a very high and dangerous level. According to Buffett, when this measure rises so much, the market can collapse. Experts are worried because the current situation is similar to past crises. This metric compares the total market value with the country's economy. When the number is too high, it means stocks cost more than they're really worth. Smart investors pay attention to these warning signals to protect their money.",
+          "source": "Fortune"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La Casa Blanca habla sobre nueva tecnología de inteligencia artificial",
+          "headline_en": "White House talks about new artificial intelligence technology",
+          "body_es": "El jefe de personal de la Casa Blanca se reunió con el CEO de Anthropic para hablar sobre inteligencia artificial. Anthropic es una empresa que desarrolla tecnología de IA muy avanzada. Esta reunión es importante porque el gobierno quiere entender mejor estas nuevas tecnologías. La inteligencia artificial está cambiando rápidamente muchos aspectos de nuestra vida. Los líderes políticos necesitan conocer los beneficios y los riesgos de la IA. Durante la reunión, discutieron cómo usar esta tecnología de manera segura y responsable. El gobierno quiere crear reglas apropiadas para proteger a los ciudadanos. Esta colaboración entre el sector privado y público es fundamental para el futuro tecnológico del país.",
+          "body_en": "The White House chief of staff met with Anthropic's CEO to talk about artificial intelligence. Anthropic is a company that develops very advanced AI technology. This meeting is important because the government wants to better understand these new technologies. Artificial intelligence is rapidly changing many aspects of our lives. Political leaders need to know the benefits and risks of AI. During the meeting, they discussed how to use this technology safely and responsibly. The government wants to create appropriate rules to protect citizens. This collaboration between the private and public sectors is fundamental for the country's technological future.",
+          "source": "1News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso hace preguntas sobre las tropas en las elecciones.",
+          "definition_es": "Institución que hace las leyes del país",
+          "definition_en": "Institution that makes the country's laws"
+        },
+        {
+          "word": "general",
+          "syllables": "ge-ne-RAL",
+          "pos": "sustantivo",
+          "context": "Un general de la Guardia Nacional habló con el Congreso.",
+          "definition_es": "Oficial militar de alto rango",
+          "definition_en": "High-ranking military officer"
+        },
+        {
+          "word": "tropas",
+          "syllables": "TRO-pas",
+          "pos": "sustantivo",
+          "context": "Las tropas podrían ir a los lugares de votación.",
+          "definition_es": "Soldados organizados en grupos militares",
+          "definition_en": "Soldiers organized in military groups"
+        },
+        {
+          "word": "métrica",
+          "syllables": "MÉ-tri-ca",
+          "pos": "sustantivo",
+          "context": "Warren Buffett usa una métrica para predecir problemas.",
+          "definition_es": "Sistema para medir o evaluar algo",
+          "definition_en": "System to measure or evaluate something"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado de acciones puede tener problemas.",
+          "definition_es": "Lugar donde se compran y venden productos o acciones",
+          "definition_en": "Place where products or stocks are bought and sold"
+        },
+        {
+          "word": "jefe",
+          "syllables": "JE-fe",
+          "pos": "sustantivo",
+          "context": "El jefe de personal se reunió con el CEO.",
+          "definition_es": "Persona que dirige o manda a otras",
+          "definition_en": "Person who leads or commands others"
+        },
+        {
+          "word": "reunirse",
+          "syllables": "re-u-NIR-se",
+          "pos": "verbo",
+          "context": "Los líderes se reunieron para hablar de inteligencia artificial.",
+          "definition_es": "Juntarse con otras personas para hablar o trabajar",
+          "definition_en": "To get together with other people to talk or work"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología de IA es muy avanzada.",
+          "definition_es": "Conocimientos y herramientas para crear productos modernos",
+          "definition_en": "Knowledge and tools to create modern products"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'congreso'?",
+          "options": [
+            "Un edificio grande",
+            "Institución que hace las leyes",
+            "Un grupo de soldados",
+            "Una empresa tecnológica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'tropas'?",
+          "options": [
+            "Políticos del gobierno",
+            "Soldados organizados",
+            "Inversores famosos",
+            "Empleados de empresas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Una 'métrica' es:",
+          "options": [
+            "Un tipo de dinero",
+            "Un sistema para medir",
+            "Una reunión importante",
+            "Un lugar de votación"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reunirse'?",
+          "options": [
+            "Trabajar solo",
+            "Juntarse con otras personas",
+            "Comprar acciones",
+            "Votar en elecciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué preguntó el Congreso al general?",
+          "options": [
+            "Sobre nuevas tecnologías",
+            "Si Trump puede enviar tropas a elecciones",
+            "Sobre problemas económicos",
+            "Sobre reuniones con empresarios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Quién es Warren Buffett según la historia económica?",
+          "options": [
+            "Un general militar",
+            "Un político importante",
+            "Un inversor famoso",
+            "Un CEO de tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué pasa cuando la métrica de Buffett está muy alta?",
+          "options": [
+            "Las elecciones son mejores",
+            "El mercado puede colapsar",
+            "La tecnología avanza más",
+            "Los políticos se reúnen"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa se menciona en la historia de tecnología?",
+          "options": [
+            "Buffett Industries",
+            "Guardia Nacional",
+            "Anthropic",
+            "Casa Blanca Corp"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué es importante la reunión sobre inteligencia artificial?",
+          "options": [
+            "Para ganar dinero",
+            "Para entender mejor la tecnología",
+            "Para organizar elecciones",
+            "Para entrenar soldados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el tema común en las tres historias?",
+          "options": [
+            "Todas hablan de dinero",
+            "Todas mencionan líderes importantes",
+            "Todas ocurren en el mismo día",
+            "Todas son sobre tecnología"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-19T09:14:59.956445"
+    },
+    {
       "date": "2026-04-18",
       "filename": "spanish_lesson_2026-04-18.pdf",
       "path": "pdfs/spanish_lesson_2026-04-18.pdf",
@@ -29330,7 +29552,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-18T09:14:28.258986",
+  "last_updated": "2026-04-19T09:14:59.956463",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
