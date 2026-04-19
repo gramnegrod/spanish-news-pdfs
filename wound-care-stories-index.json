@@ -1,11 +1,196 @@
 {
-  "date": "2026-04-18",
-  "generated_at": "2026-04-18T09:20:51.318690Z",
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T09:21:16.036522Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 442,
-  "new_today": 4,
+  "total_stories": 447,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20260419",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Centro de Heridas Gana Premios Nacionales por Excelencia Clínica",
+      "headline_en": "Wound Care Center Wins National Awards for Clinical Excellence",
+      "summary_es": "El Centro de Cuidado de Heridas Cape Fear Valley en Dunn recibió dos premios nacionales por su excelente trabajo en el tratamiento de heridas crónicas y la calidad de la atención a los pacientes.",
+      "body_es": "El Centro de Cuidado de Heridas Cape Fear Valley, ubicado en Dunn, recibió dos premios nacionales importantes. Estos premios reconocen la excelencia clínica en el tratamiento de heridas crónicas. Las heridas crónicas son lesiones que no cicatrizan rápidamente. El centro trata úlceras de presión, úlceras diabéticas y otras heridas complicadas. Los profesionales del centro usan métodos modernos para la curación. Utilizan apósitos especiales y evaluaciones detalladas. El equipo de enfermería proporciona vendajes adecuados a cada paciente. Los premios nacionales demuestran el compromiso del centro con la calidad. La excelencia clínica es muy importante para los pacientes con heridas crónicas. Este reconocimiento motiva al equipo a seguir mejorando.",
+      "body_en": "Cape Fear Valley Wound Care Center in Dunn received two important national awards. These awards recognize clinical excellence in treating chronic wounds. Chronic wounds are injuries that do not heal quickly. The center treats pressure ulcers, diabetic ulcers, and other complicated wounds. The center's professionals use modern treatment methods for healing. They use special dressings and detailed assessments. The nursing team provides appropriate dressings for each patient. National awards demonstrate the center's commitment to quality. Clinical excellence is very important for patients with chronic wounds. This recognition motivates the team to continue improving.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNi1LeVp4eG8xYTRyZExvcW9Jd0lrYmxaUFRLUHZvUmU3a1Nla1pmeGszMzFxRDhaMW5ib0JKcFJocEtYS05aWjVPb3dneDhFSU01Vllud2laWnBRMzEwNjY4eXBlLXQyWElyd3RSNEdSLTZ5R1RhbGtUa1dVSmYzSll4MUxtRlBWXzF1RE80cTAyYWFBbkFwT24ycDlaVzdBMlAtT1prS3lHUFZITHhNOXNPRFNIdThIenhHc0FmcmpWd1cwMjlPTDk2U2Y3aklKZEhNX0RzVllFRThCbDJVVjhjMExIaFU?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-19/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión en la piel que no cicatriza rápidamente",
+          "definition_en": "chronic wound - injury to skin that does not heal quickly"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material especial para cubrir y proteger heridas",
+          "definition_en": "dressing - special material to cover and protect wounds"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para envolver y sujetar un apósito en la herida",
+          "definition_en": "bandage - material to wrap and secure a dressing on a wound"
+        },
+        {
+          "word": "excelencia clínica",
+          "definition_es": "calidad superior en el cuidado y tratamiento de pacientes",
+          "definition_en": "clinical excellence - superior quality in patient care and treatment"
+        }
+      ],
+      "added_at": "2026-04-19T09:21:16.036522Z"
+    },
+    {
+      "id": "pressure-ulcers-20260419",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "rose",
+      "headline_es": "Dispositivo Inteligente Ayuda a Prevenir Úlceras por Presión",
+      "headline_en": "Smart Device Helps Prevent Pressure Ulcers",
+      "summary_es": "Un adolescente desarrolló un dispositivo inteligente que puede revolucionar la prevención de úlceras por presión en pacientes que pasan mucho tiempo en cama.",
+      "body_es": "Un joven ingeniero creó un dispositivo inteligente para prevenir úlceras por presión. Las úlceras por presión ocurren cuando una persona permanece en cama mucho tiempo. La presión continua daña la piel y los tejidos. El dispositivo nuevo puede detectar problemas temprano. Monitoriza la presión en diferentes áreas del cuerpo. Alerta al personal de enfermería cuando hay riesgo. Los pacientes en cama son muy vulnerables a estas úlceras. El cuidado de la piel es fundamental. Las enfermeras deben cambiar de posición al paciente regularmente. Este dispositivo inteligente puede reducir significativamente las úlceras por presión. Es una innovación importante para los hospitales y centros de cuidado.",
+      "body_en": "A young engineer created a smart device to prevent pressure ulcers. Pressure ulcers occur when a person stays in bed for a long time. Continuous pressure damages the skin and tissues. The new device can detect problems early. It monitors pressure in different areas of the body. It alerts nursing staff when there is risk. Patients in bed are very vulnerable to these ulcers. Skin care is fundamental. Nurses must regularly reposition the patient. This smart device can significantly reduce pressure ulcers. It is an important innovation for hospitals and care centers.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQbkdWXzRJX3M3WUdILUUtQWEwdEhmNlAwMTVudlRkZ0ZncEJVb2hndDR2d1BnQ1d4WHRJOW5BOVU3akVjYWdtTTl1Q29QeERUM05wdjZDNWt5ZjM2NTl6VjdOS0NwX1dSaHJuS3lxTHBPdVlUSDNGNl9SaFFjaTRqV2xHekNRM0ktTDU1djVVUXZudmFqSHdVWGZId3plVTBEMElfUzZ3YWYxcjIwZ2hJbmFLWmh3N0x1Sm9aaW9vMXUxMGloZlNQckktSVh6MUVvbWkydThvOF9ncHM1MV9zMmREaTIweXo4Wm1rZC1CU2lWa3VpX1Jab195SGp6SW5KUDg4V0NWUVRrMjhuNDB3M3dCenVVMGMteFI2bmtxNDk0bTFyS2F4LWhhcXhCZGhRaF96WU9QNUpUdS1PZnE1VEU4V05MZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-19/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "lesión de la piel causada por presión prolongada",
+          "definition_en": "pressure ulcer - skin lesion caused by prolonged pressure"
+        },
+        {
+          "word": "escara",
+          "definition_es": "zona de tejido muerto por falta de circulación",
+          "definition_en": "eschar - area of dead tissue from lack of circulation"
+        },
+        {
+          "word": "posicionamiento",
+          "definition_es": "cambiar la posición del paciente regularmente",
+          "definition_en": "repositioning - changing patient position regularly"
+        },
+        {
+          "word": "monitorización",
+          "definition_es": "observación y control continuo de datos",
+          "definition_en": "monitoring - continuous observation and control of data"
+        }
+      ],
+      "added_at": "2026-04-19T09:21:16.036522Z"
+    },
+    {
+      "id": "burn-care-20260419",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Injertos de Piel de Pez Reducen Hospitalizaciones en Pacientes Quemados",
+      "headline_en": "Fish-Skin Grafts Reduce Hospital Stays for Burn Patients",
+      "summary_es": "Un ensayo clínico demuestra que los injertos de piel de pez (Kerecis Intact) aceleran la cicatrización en pacientes con quemaduras graves y reducen significativamente el tiempo de hospitalización.",
+      "body_es": "Un ensayo clínico reciente mostró resultados positivos con injertos de piel de pez para pacientes con quemaduras graves. El producto Kerecis Intact utiliza piel de pez natural para estimular la cicatrización. Los pacientes que recibieron estos injertos mostraron una recuperación más rápida. El tiempo de hospitalización se redujo comparado con los tratamientos tradicionales. Las quemaduras profundas requieren intervención quirúrgica y cuidados especializados. El injerto proporciona un scaffold biológico que facilita la epitelización. Los apósitos de piel de pez contienen proteínas y factores de crecimiento. Estos componentes estimulan la regeneración tisular en las heridas. El desbridamiento quirúrgico seguido del injerto es fundamental. Los resultados clínicos demuestran que este tratamiento es efectivo para reducir complicaciones y mejorar los resultados en pacientes con quemaduras extensas.",
+      "body_en": "A recent clinical trial showed positive results with fish-skin grafts for severely burned patients. The Kerecis Intact product uses natural fish skin to stimulate healing. Patients who received these grafts showed faster recovery. Hospital stay time was reduced compared to traditional treatments. Deep burns require surgical intervention and specialized care. The graft provides a biological scaffold that facilitates epithelialization. Fish-skin dressings contain proteins and growth factors. These components stimulate tissue regeneration in wounds. Surgical debridement followed by grafting is fundamental. Clinical results demonstrate that this treatment is effective in reducing complications and improving outcomes in patients with extensive burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUkVVRjFFVTEyMnhpU3p3Z2xScmpYY3dfZ0dMd1lIbXJJVy1ROFlWczFQcG0zejExQy12WURSNFRJdW0tbk8xbWotSmNZWlZva2x5R1lHNk9YcGlleWZzZDdOcWN3MGx3LXFxQmhILUxpaGhTdVZtajVZQ012eHZURUVvN3d2OEF1SS10alF1NkJCTWxkT0FoRUwySHpJU0E5OGVMQTV4WEpqUjU1YTZwbFFqLWdaOGJkWVVDMUZZVnp4NWRwTDNJeDJJMFlCVVh2bjBCNTMtNDJoeUFlcmQ4ZXk3NU1YZjQzRlBNRDVZSmpFNEtybXFUMG1CZ0VkR3d0OVVZSU16SHZ5Yk95N1dMaGIxWV9adw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-19/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura profunda",
+          "definition_es": "lesión térmica que afecta múltiples capas de la piel y tejido",
+          "definition_en": "deep burn - thermal injury affecting multiple layers of skin and tissue"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "trasplante de tejido para cubrir heridas grandes",
+          "definition_en": "graft - tissue transplant to cover large wounds"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel",
+          "definition_en": "epithelialization - process of new skin formation"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        }
+      ],
+      "added_at": "2026-04-19T09:21:16.036522Z"
+    },
+    {
+      "id": "surgical-wounds-20260419",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Antibiótico Intrahierida Reduce Infecciones en Cirugía de Fractura Tibial",
+      "headline_en": "Intrawound Antibiotic Reduces Infections After Tibial Fracture Surgery",
+      "summary_es": "Un estudio clínico demuestra que la aplicación local de antibiótico intrahierida mejora significativamente los resultados en pacientes sometidos a cirugía de fractura tibial, reduciendo las infecciones quirúrgicas.",
+      "body_es": "Un ensayo clínico reciente evaluó la efectividad de los antibióticos intrahierida en la prevención de infecciones quirúrgicas. Los pacientes sometidos a cirugía de fractura tibial recibieron antibióticos aplicados directamente en la herida quirúrgica. Los resultados mostraron una reducción significativa en las infecciones del sitio quirúrgico. La infección es una complicación grave que puede prolongar la hospitalización. El antibiótico local se coloca durante la cirugía antes del cierre de la herida. Esta técnica proporciona concentraciones altas de medicamento directamente en el área afectada. Los vendajes quirúrgicos deben cambiarse según los protocolos establecidos. La evaluación cuidadosa de la herida es fundamental para detectar signos de infección tempranamente. Los signos de infección incluyen eritema, exudado purulento e inflamación. Este tratamiento innovador representa un avance importante en la prevención de complicaciones quirúrgicas.",
+      "body_en": "A recent clinical trial evaluated the effectiveness of intrawound antibiotics in preventing surgical infections. Patients undergoing tibial fracture surgery received antibiotics applied directly into the surgical wound. Results showed a significant reduction in surgical site infections. Infection is a serious complication that can prolong hospitalization. The local antibiotic is placed during surgery before wound closure. This technique provides high medication concentrations directly to the affected area. Surgical dressings should be changed according to established protocols. Careful wound assessment is fundamental to detect infection signs early. Signs of infection include erythema, purulent exudate, and inflammation. This innovative treatment represents an important advance in preventing surgical complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Od3pBT1c5a1BVU0RjaGVhOGh3QlhOMnU1c2Nwa2R0Z1JGc3pwM0E0TFZTV2pRa2cyVzdWR0VtazVRQnZIaEt1OENHMFlkMmpLWnFIRlNyYnJHa1RzSC1zekVpNTBOQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-19/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección quirúrgica",
+          "definition_es": "contaminación bacteriana en el sitio de la cirugía",
+          "definition_en": "surgical infection - bacterial contamination at the surgical site"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida, puede ser seroso o purulento",
+          "definition_en": "exudate - fluid that oozes from a wound, can be serous or purulent"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel por inflamación",
+          "definition_en": "erythema - skin redness from inflammation"
+        },
+        {
+          "word": "protocolo quirúrgico",
+          "definition_es": "conjunto de procedimientos estandarizados para cirugía",
+          "definition_en": "surgical protocol - set of standardized procedures for surgery"
+        }
+      ],
+      "added_at": "2026-04-19T09:21:16.036522Z"
+    },
+    {
+      "id": "wound-research-20260419",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "UT Health San Antonio Inicia Ensayo Clínico Innovador en Hospital de Investigación",
+      "headline_en": "UT Health San Antonio Launches Innovative Clinical Trial at Research Hospital",
+      "summary_es": "UT Health San Antonio Multispecialty and Research Hospital ha tratado al primer participante en un ensayo clínico novedoso, avanzando en la investigación médica y el desarrollo de nuevos tratamientos.",
+      "body_es": "UT Health San Antonio ha iniciado un importante ensayo clínico en su Hospital Multispecialidad e Investigación. El primer participante fue tratado recientemente como parte de este estudio innovador. Este ensayo clínico representa un avance significativo en la investigación de nuevos tratamientos. Los hospitales de investigación como el de UT Health San Antonio son fundamentales para desarrollar terapias novedosas. Durante los ensayos clínicos, los investigadores evalúan la seguridad y efectividad de nuevos métodos de tratamiento. El equipo multidisciplinario está compuesto por médicos, enfermeras y especialistas en investigación. Los participantes reciben cuidados especializados y seguimiento cuidadoso. La evaluación de heridas y cicatrización es parte integral de muchos estudios clínicos. Los investigadores documentan detalladamente todos los cambios en el estado de los pacientes. Este tipo de investigación es crucial para mejorar los protocolos de tratamiento de heridas en el futuro.",
+      "body_en": "UT Health San Antonio has launched an important clinical trial at its Multispecialty and Research Hospital. The first participant was treated recently as part of this innovative study. This clinical trial represents a significant advance in research for new treatments. Research hospitals like UT Health San Antonio are fundamental for developing novel therapies. During clinical trials, researchers evaluate the safety and effectiveness of new treatment methods. The multidisciplinary team consists of physicians, nurses, and research specialists. Participants receive specialized care and careful follow-up. Wound assessment and healing evaluation are integral parts of many clinical studies. Researchers carefully document all changes in patient status. This type of research is crucial for improving wound treatment protocols in the future.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORExaakl2LWo4VkVhcURCNWN6Q2tCbWJvV1cwanVnV09TRDFuVnBVejlJN3BPbmM3RXg5VTQzWXZCVGJCSVZTQU84TkxPUjE0Yng3eXRHMElaemZXMEduRXVHS21PVkVIUnJaYk9lQVhaODBaUGVDQUR5UWtJM1RvU0g1NklvS1A1c1dKeG9CYWhYRFNvSWtJS00zdTdHYi15MFBqUmdFT2hsQ3hhbWFNN0lYSEwxYTlhQTZkbWs3UXVjVWxLQWN3Zmd1bkhhT2M0cnJjb0ZneHRlbzF1MzZlRlBR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-19/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio de investigación para evaluar nuevos tratamientos en humanos",
+          "definition_en": "clinical trial - research study to evaluate new treatments in humans"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de reparación y regeneración de tejido dañado",
+          "definition_en": "wound healing - biological process of tissue repair and regeneration"
+        },
+        {
+          "word": "evaluación clínica",
+          "definition_es": "examen y valoración del estado de salud del paciente",
+          "definition_en": "clinical assessment - examination and evaluation of patient health status"
+        },
+        {
+          "word": "seguimiento",
+          "definition_es": "monitoreo continuo del paciente durante y después del tratamiento",
+          "definition_en": "follow-up - continuous monitoring of patient during and after treatment"
+        }
+      ],
+      "added_at": "2026-04-19T09:21:16.036522Z"
+    },
     {
       "id": "chronic-wounds-20250418",
       "category": "Chronic Wounds",
@@ -16355,6 +16540,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-18T09:20:51.318690Z",
+  "last_updated": "2026-04-19T09:21:16.036522Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
