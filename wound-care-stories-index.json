@@ -1,11 +1,233 @@
 {
-  "date": "2026-04-19",
-  "generated_at": "2026-04-19T09:21:16.036522Z",
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T09:40:41.062486Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 447,
-  "new_today": 5,
+  "total_stories": 453,
+  "new_today": 6,
   "stories": [
+    {
+      "id": "chronic-wounds-20260420",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Un nuevo tratamiento convierte células en fábricas de curación para heridas diabéticas",
+      "headline_en": "Novel treatment turns cells into healing factories for diabetic wounds",
+      "summary_es": "Científicos desarrollan un tratamiento innovador para heridas diabéticas que convierte las células del paciente en fábricas de curación. Este método promete acelerar el proceso de cicatrización en personas con diabetes.",
+      "body_es": "Un nuevo tratamiento revoluciona la cura de heridas diabéticas. Los médicos ahora pueden usar células del paciente como fábricas de curación. El tratamiento es simple y efectivo. Las células trabajan para cerrar la herida rápidamente. Los pacientes con diabetes tienen problemas para cicatrizar heridas normales. Este tratamiento nuevo cambia eso. Los doctores aplican el tratamiento directamente en la herida. Las células del paciente comienzan a producir sustancias para curar. La cicatrización es más rápida y segura. Este avance es importante para millones de personas con diabetes en el mundo. El tratamiento reduce infecciones y complicaciones. Los resultados son prometedores en los estudios iniciales.",
+      "body_en": "A new treatment revolutionizes the care of diabetic wounds. Doctors can now use patient cells as healing factories. The treatment is simple and effective. The cells work to close the wound quickly. Patients with diabetes have problems healing normal wounds. This new treatment changes that. Doctors apply the treatment directly to the wound. The patient's cells begin to produce healing substances. Healing is faster and safer. This advance is important for millions of people with diabetes worldwide. The treatment reduces infections and complications. Results are promising in initial studies.",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12MWJaZDFDWGFJVzBOOTE4SWVEUGs1N3cxUGVmVTR5RGlkd1Q1SGJCczY2YW5rbkV2Z0NYcEo0SFFTejBienkydjI2dXFGbVhOa21UODUwR2hmb1hvWlY4emItU2N2V0FGM2k1bUd5SkJkMDBsWEV4T2RWQ1lsOW8?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-20/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida diabética",
+          "definition_es": "lesión en la piel causada por diabetes que cicatriza lentamente",
+          "definition_en": "diabetic wound - skin injury caused by diabetes that heals slowly"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of recovering from a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de tejido nuevo para cerrar una herida",
+          "definition_en": "scarring/wound closure - formation of new tissue to close a wound"
+        },
+        {
+          "word": "células",
+          "definition_es": "unidades microscópicas vivas que forman los tejidos del cuerpo",
+          "definition_en": "cells - microscopic living units that form body tissues"
+        }
+      ],
+      "added_at": "2026-04-20T09:40:41.062486Z"
+    },
+    {
+      "id": "pressure-ulcers-20260420",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "purple",
+      "headline_es": "Un dispositivo inteligente revoluciona la prevención de úlceras por presión en adolescentes",
+      "headline_en": "Smart device revolutionizes pressure ulcer prevention in teens",
+      "summary_es": "Un adolescente desarrolló un dispositivo inteligente que previene las úlceras por presión. Este aparato monitorea la presión en la piel y alerta al paciente antes de que se formen lesiones.",
+      "body_es": "Un joven inventor crea un dispositivo inteligente para prevenir úlceras por presión. Las úlceras por presión son lesiones que se forman en la piel cuando una persona está en cama mucho tiempo. El dispositivo nuevo monitorea la presión constantemente. Cuando detecta presión peligrosa, emite una alerta. Los pacientes pueden cambiar de posición antes de que se forme la úlcera. El dispositivo es fácil de usar y portátil. Los médicos consideran esta innovación muy importante. Los adolescentes, especialmente los que están hospitalizados, se benefician mucho. El dispositivo ayuda a prevenir complicaciones graves. Las úlceras por presión son un problema serio en hospitales. Este invento reduce ese riesgo de manera efectiva.",
+      "body_en": "A young inventor creates a smart device to prevent pressure ulcers. Pressure ulcers are injuries that form on the skin when a person is in bed for long periods. The new device monitors pressure constantly. When it detects dangerous pressure, it sends an alert. Patients can change position before the ulcer forms. The device is easy to use and portable. Doctors consider this innovation very important. Teenagers, especially those who are hospitalized, benefit greatly. The device helps prevent serious complications. Pressure ulcers are a serious problem in hospitals. This invention reduces that risk effectively.",
+      "source_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPWTNBc2Zpc25oTkVxUGpvcElYb09LZVFOVFM4U3k3YWxfbDhUMlFzZFRsQk83WS1QREg0V2Zxd3Y4Sk83LVE0Z08xamVZWUFOSWhKTDc0bjU1LXZ2Q1VlT3pnbVVGWkp1UF9hdHljRXFrbEExMEloUE5BeFViYjJwdzNJQXNyRzhNTjRpeUlyWEFYMkdlRF9DX1ZxZlcyRGd3eXlkZjlPZDI3bzFJSklWUzRLQTVJNFNLRWFxd21BZmV5bWpzZWFoYVpIOVZVdEFGNi1PSEp3Vi1OTDR5dHR0U1RiRU92UlJKV2tYVTk1b0lCUENFc1FqYjhfSlBwWXNwTl95Tmh6VEV4WUtpQzd5ZEFsemZwRzRUU3hTY0dMek5JMHoxeDdfejJSR0pQd1JkWkpUQXAtVENXZ3FZT0pHY3NYNHc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-20/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "lesión de la piel causada por presión prolongada",
+          "definition_en": "pressure ulcer - skin injury caused by prolonged pressure"
+        },
+        {
+          "word": "dispositivo inteligente",
+          "definition_es": "aparato electrónico que monitorea y detecta cambios",
+          "definition_en": "smart device - electronic apparatus that monitors and detects changes"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar que algo suceda",
+          "definition_en": "prevention - actions to avoid something happening"
+        },
+        {
+          "word": "monitorear",
+          "definition_es": "observar y registrar constantemente la condición de algo",
+          "definition_en": "monitor - to observe and constantly record the condition of something"
+        }
+      ],
+      "added_at": "2026-04-20T09:40:41.062486Z"
+    },
+    {
+      "id": "diabetic-foot-20260420",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "Errores comunes en la gestión de diabetes: Comprensión de la gluconeogénesis y la insulina",
+      "headline_en": "Common mistakes in diabetes management: Understanding gluconeogenesis and insulin",
+      "summary_es": "Los expertos en diabetes explican cómo funciona realmente la insulina y la gluconeogénesis, desmintiendo errores comunes que cometen los pacientes en su gestión diaria. Este conocimiento es especialmente importante para prevenir complicaciones como el pie diabético.",
+      "body_es": "Muchos pacientes con diabetes cometen errores en su gestión diaria que pueden llevar a complicaciones graves, incluyendo problemas en los pies. La gluconeogénesis es el proceso mediante el cual el cuerpo produce glucosa a partir de otras sustancias cuando los niveles de azúcar bajan. La insulina juega un papel crucial en regular este proceso. Un error común es creer que la insulina solo reduce el azúcar en sangre, cuando en realidad también controla la gluconeogénesis hepática. Los pacientes frecuentemente no comprenden cómo la insulina afecta la producción endógena de glucosa. Esta falta de comprensión resulta en decisiones dietéticas inadecuadas. Los especialistas recomiendan educación continua sobre estos mecanismos. El pie diabético es una complicación seria que se puede prevenir con mejor control glucémico. Entender la insulina y la gluconeogénesis permite mejor adherencia al tratamiento y mejores resultados en la prevención de complicaciones.",
+      "body_en": "Many diabetic patients make mistakes in their daily management that can lead to serious complications, including foot problems. Gluconeogenesis is the process by which the body produces glucose from other substances when blood sugar levels drop. Insulin plays a crucial role in regulating this process. A common mistake is believing that insulin only reduces blood sugar, when it actually also controls hepatic gluconeogenesis. Patients frequently don't understand how insulin affects endogenous glucose production. This lack of understanding results in inadequate dietary decisions. Specialists recommend continuous education about these mechanisms. Diabetic foot is a serious complication that can be prevented with better glycemic control. Understanding insulin and gluconeogenesis allows better treatment adherence and better results in complication prevention.",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xcFJFZFJWTnAxUWZkMEJ2SFV6aVR6WXYwcHFsaHhQMzFxVEk0Vk1YMzNKejZMMjAyS2R4TkhlQXpieXRlYWRxSVlBTDdjX3FrdjhOQzZwZ1Jrc1d6SzZOc0pRZWRuaFN6MlJQYg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-20/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "gluconeogénesis",
+          "definition_es": "proceso metabólico de síntesis de glucosa a partir de precursores no glucídicos",
+          "definition_en": "gluconeogenesis - metabolic process of glucose synthesis from non-carbohydrate precursors"
+        },
+        {
+          "word": "insulina",
+          "definition_es": "hormona que regula los niveles de azúcar en sangre",
+          "definition_en": "insulin - hormone that regulates blood sugar levels"
+        },
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación de la diabetes que afecta los pies y puede causar úlceras",
+          "definition_en": "diabetic foot - diabetes complication affecting feet that can cause ulcers"
+        },
+        {
+          "word": "control glucémico",
+          "definition_es": "mantenimiento de niveles normales de glucosa en sangre",
+          "definition_en": "glycemic control - maintenance of normal blood glucose levels"
+        }
+      ],
+      "added_at": "2026-04-20T09:40:41.062486Z"
+    },
+    {
+      "id": "burn-care-20260420",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "AVITA Medical reporta resultados prometedores: Injertos de piel en 11 días con tecnología Cohealyx®",
+      "headline_en": "AVITA Medical reports promising results: Skin grafts in 11 days with Cohealyx® technology",
+      "summary_es": "Los resultados interinos del estudio Cohealyx® de AVITA Medical demuestran que la tecnología acelera significativamente el tiempo para obtener injertos de piel viables, reduciendo el tiempo de cicatrización de semanas a días.",
+      "body_es": "AVITA Medical ha anunciado resultados positivos interim del estudio clínico Cohealyx®, marcando un avance significativo en el tratamiento de quemaduras graves. La tecnología Cohealyx® permite a los cirujanos obtener injertos de piel en tan solo 11 días, en comparación con los métodos tradicionales que requieren varias semanas. Este acelera considerablemente el tiempo de curación y reduce el riesgo de infección. Los pacientes con quemaduras extensas experimentan menos complicaciones cuando reciben injertos de piel más rápidamente. La tecnología utiliza células regenerativas que se cultivan directamente del tejido del paciente. Este proceso es menos invasivo que los métodos convencionales. Los investigadores observaron tasas mejoradas de toma de injerto y cicatrización más rápida. La reducción del tiempo de tratamiento también disminuye significativamente los costos hospitalarios. Los resultados del estudio representan un avance importante en medicina regenerativa para quemaduras graves.",
+      "body_en": "AVITA Medical has announced positive interim results from the Cohealyx® clinical trial, marking a significant advance in the treatment of severe burns. Cohealyx® technology allows surgeons to obtain skin grafts in just 11 days, compared to traditional methods that require several weeks. This significantly accelerates healing time and reduces infection risk. Patients with extensive burns experience fewer complications when receiving skin grafts more quickly. The technology uses regenerative cells that are cultured directly from the patient's own tissue. This process is less invasive than conventional methods. Researchers observed improved graft take rates and faster healing. The reduction in treatment time also significantly decreases hospital costs. The study results represent an important advance in regenerative medicine for severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLXlJcmtPa3FmdGdxWG5abTR0OUlxZTZZc0VGZWVRYlNqZU9abHlUSVpvY0RTQW9vaWlrbWliWFFLOUZtVDFhWFh1aTItZ2lzS0VRUjFJaVpwR2kyenRsNkwybVNqejh3ZTEtbktPODlRM0RoWTd1TmQ1MnUyeHQ4LVlmYll3MndPSnBJVC1NQzAzeDZESFB4dWRwQUgzSXZVbmRvZ2xOU1N4VnNuUy1hdmJ5TmU4bU15eVVXT043QVY?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-20/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión tisular causada por calor, radiación o sustancias químicas",
+          "definition_en": "burn - tissue injury caused by heat, radiation or chemical substances"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "procedimiento de trasplante de piel para cubrir heridas extensas",
+          "definition_en": "skin graft - transplant procedure to cover extensive wounds"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo durante la curación",
+          "definition_en": "healing - process of new tissue formation during recovery"
+        },
+        {
+          "word": "células regenerativas",
+          "definition_es": "células con capacidad para multiplicarse y formar nuevo tejido",
+          "definition_en": "regenerative cells - cells capable of multiplying and forming new tissue"
+        }
+      ],
+      "added_at": "2026-04-20T09:40:41.062486Z"
+    },
+    {
+      "id": "surgical-wounds-20260420",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Avances en cierre quirúrgico no invasivo: Crecimiento del mercado mediante procedimientos mínimamente invasivos",
+      "headline_en": "Advances in non-invasive surgical closure: Market growth through minimally invasive procedures",
+      "summary_es": "El mercado global de cierre quirúrgico no invasivo experimenta crecimiento sostenido impulsado por la adopción de procedimientos mínimamente invasivos que reducen complicaciones postoperatorias y mejoran la recuperación del paciente.",
+      "body_es": "El mercado de cierre quirúrgico no invasivo está experimentando crecimiento constante en los últimos años. Los procedimientos mínimamente invasivos están ganando popularidad entre los cirujanos y pacientes. Las técnicas no invasivas reducen significativamente las complicaciones postoperatorias. El cierre de heridas quirúrgicas es un aspecto crítico de la medicina moderna. Los métodos tradicionales requieren suturas extensas que pueden dejar cicatrices notables. Las nuevas tecnologías de cierre no invasivo minimizan el daño tisular. Los pacientes experimentan menos dolor postoperatorio y cicatrización más rápida. La recuperación es más corta, lo que beneficia tanto al paciente como al sistema sanitario. Los hospitales adoptan estas técnicas para mejorar resultados y reducir costos. La demanda de procedimientos mínimamente invasivos continúa aumentando. Los expertos predicen que esta tendencia se mantendrá en los próximos años, revolucionando cómo los cirujanos manejan el cierre de heridas.",
+      "body_en": "The non-invasive surgical closure market is experiencing steady growth in recent years. Minimally invasive procedures are gaining popularity among surgeons and patients. Non-invasive techniques significantly reduce postoperative complications. Surgical wound closure is a critical aspect of modern medicine. Traditional methods require extensive sutures that can leave noticeable scars. New non-invasive closure technologies minimize tissue damage. Patients experience less postoperative pain and faster healing. Recovery is shorter, benefiting both patient and healthcare system. Hospitals adopt these techniques to improve outcomes and reduce costs. Demand for minimally invasive procedures continues to increase. Experts predict this trend will continue in coming years, revolutionizing how surgeons manage wound closure.",
+      "source_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQNGpmMzlUODNCZkh3X2dlelQyWUJkTHFVZ05SQkd3OFVuVFNZNTY5TnViV0tQcmt4M1NBOFZhdm1Bb1A2U3JpZGVUYkVnWm9JNER4UnNfNmg3Y1pXMzRwTFVSbGtmb2VzNWV5b0ZIX3JucG1RbElMVnJXRHNTNF9ZQWxSWkJwMWVEaHFDUUI0d1lSZzNPNzdVWW1QcHR4WnRYQ2IxSXpvUVRvMjZSZENmY2JxYWh2U05ZNy1SRjNNeTdLLVNIZmRWbEhTTTJ3RUVkd1VMR2JvYWdGMVZGWldfdTVmT1QxUkJZcF9FbEhPR05IeXFNSUwxNjNRaTJudTlWNXRuYklCS0JqSXZ1ZnJJNGpkb2V1YkpnYjJDbXFSWHZPVGVKWDBTUi05ZG4yZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-20/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cierre quirúrgico",
+          "definition_es": "procedimiento para cerrar heridas después de cirugía",
+          "definition_en": "surgical closure - procedure to close wounds after surgery"
+        },
+        {
+          "word": "procedimiento mínimamente invasivo",
+          "definition_es": "cirugía que causa daño mínimo a tejidos sanos",
+          "definition_en": "minimally invasive procedure - surgery that causes minimal damage to healthy tissue"
+        },
+        {
+          "word": "complicaciones postoperatorias",
+          "definition_es": "problemas que ocurren después de una cirugía",
+          "definition_en": "postoperative complications - problems that occur after surgery"
+        },
+        {
+          "word": "suturas",
+          "definition_es": "puntos que cierran la herida quirúrgica",
+          "definition_en": "sutures - stitches that close the surgical wound"
+        }
+      ],
+      "added_at": "2026-04-20T09:40:41.062486Z"
+    },
+    {
+      "id": "wound-research-20260420",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Transformando la educación médica: Integrando ciencia, empatía y práctica en la formación de profesionales sanitarios",
+      "headline_en": "Transforming medical education: Integrating science, empathy and practice in healthcare professional training",
+      "summary_es": "La Universidad Yeshiva presenta un enfoque innovador en educación médica que combina la investigación científica rigurosa con la empatía clínica y la práctica práctica, preparando mejor a los profesionales para el cuidado de heridas.",
+      "body_es": "La Universidad Yeshiva ha desarrollado un modelo innovador para la educación médica que transforma cómo se preparan los futuros profesionales de la salud. El nuevo enfoque integra tres componentes esenciales: la ciencia rigurosa, la empatía hacia los pacientes y la práctica clínica real. En el contexto del cuidado de heridas, este modelo demuestra su utilidad al preparar especialistas bien equipados. Los estudiantes aprenden los mecanismos biológicos de la cicatrización mientras desarrollan habilidades de comunicación con pacientes. La investigación realizada en programas de este tipo contribuye significativamente al avance del conocimiento en cuidado de heridas. Los graduados están mejor preparados para tomar decisiones clínicas complejas. Este enfoque educativo ha demostrado mejorar los resultados del paciente. La integración de empatía en la enseñanza científica crea profesionales más humanistas. Las instituciones educativas reconocen que combinar teoría, práctica y humanidad produce mejores resultados clínicos en todas las especialidades, especialmente en cuidado de heridas.",
+      "body_en": "Yeshiva University has developed an innovative model for medical education that transforms how future healthcare professionals are prepared. The new approach integrates three essential components: rigorous science, empathy toward patients, and real clinical practice. In the context of wound care, this model demonstrates its usefulness in preparing well-equipped specialists. Students learn the biological mechanisms of wound healing while developing communication skills with patients. Research conducted in programs of this type contributes significantly to advancing knowledge in wound care. Graduates are better prepared to make complex clinical decisions. This educational approach has been shown to improve patient outcomes. The integration of empathy in scientific teaching creates more humanistic professionals. Educational institutions recognize that combining theory, practice and humanity produces better clinical results in all specialties, especially in wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEVQUUh4YzFidW44OWM5cjAtRXBFT0IwVGo5YjZuSlk1dHdtOFVYX0tXeVo0dGpjZjNpeHM2eU16N2NhVEoxekhUb3BMaHc3a21ydV9UdkphYVVwdkFYSmVjOTN2M0lhdk5jbmMyN0phMFhhVHFlbmVaN1h1OFZqSndUd2U3NXRLZ0dzZVduRHg5eDBEb000T1dKZU16RkotQmY4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-20/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "educación médica",
+          "definition_es": "formación académica y práctica de profesionales sanitarios",
+          "definition_en": "medical education - academic and practical training of healthcare professionals"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de curación de heridas",
+          "definition_en": "wound healing - biological process of wound recovery"
+        },
+        {
+          "word": "empatía clínica",
+          "definition_es": "capacidad de entender y compartir los sentimientos de los pacientes",
+          "definition_en": "clinical empathy - ability to understand and share patient feelings"
+        },
+        {
+          "word": "práctica clínica",
+          "definition_es": "experiencia directa en la atención de pacientes en ambiente médico",
+          "definition_en": "clinical practice - direct experience in patient care in medical setting"
+        }
+      ],
+      "added_at": "2026-04-20T09:40:41.062486Z"
+    },
     {
       "id": "chronic-wounds-20260419",
       "category": "Chronic Wounds",
@@ -16540,6 +16762,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-19T09:21:16.036522Z",
+  "last_updated": "2026-04-20T09:40:41.062486Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
