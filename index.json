@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-20",
+      "filename": "spanish_lesson_2026-04-20.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-20.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Cierre del Gobierno de EE.UU. Es el Más Largo de la Historia",
+          "headline_en": "US Government Shutdown Is the Longest in History",
+          "body_es": "El Departamento de Seguridad Nacional de Estados Unidos está cerrado. Es el cierre más largo en la historia del país. Las agencias del gobierno no pueden funcionar normalmente. Los trabajadores federales no reciben sus salarios. Las operaciones importantes están en crisis. Los servicios de seguridad nacional están en problemas. El cierre afecta la protección de fronteras y aeropuertos. Los políticos no pueden llegar a un acuerdo. La situación se está deteriorando cada día. Los ciudadanos están preocupados por su seguridad. El gobierno necesita encontrar una solución rápida. Miles de empleados federales esperan volver al trabajo pronto.",
+          "body_en": "The US Department of Homeland Security is shut down. It is the longest shutdown in the country's history. Government agencies cannot function normally. Federal workers are not receiving their salaries. Important operations are in crisis. National security services are in trouble. The shutdown affects border and airport protection. Politicians cannot reach an agreement. The situation is deteriorating every day. Citizens are worried about their safety. The government needs to find a quick solution. Thousands of federal employees hope to return to work soon.",
+          "source": "Homeland Security Today"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Precios del Petróleo Suben por Tensión Entre EE.UU. e Irán",
+          "headline_en": "Oil Prices Rise Due to US-Iran Tension",
+          "body_es": "Los precios del petróleo están subiendo en todo el mundo. También las acciones en la bolsa aumentaron esta semana. La razón es el conflicto entre Estados Unidos e Irán. Los dos países tienen problemas diplomáticos serios. El Estrecho de Hormuz está en el centro del problema. Esta zona es muy importante para el transporte de petróleo. Muchos barcos pasan por allí cada día. Si hay guerra, el petróleo no puede pasar. Los inversionistas están nerviosos por la situación. Compran más acciones de compañías petroleras. Los expertos dicen que los precios pueden subir más. La economía mundial está observando la situación con preocupación.",
+          "body_en": "Oil prices are rising around the world. Stock markets also increased this week. The reason is the conflict between the United States and Iran. The two countries have serious diplomatic problems. The Strait of Hormuz is at the center of the problem. This area is very important for oil transportation. Many ships pass through there every day. If there is war, oil cannot pass. Investors are nervous about the situation. They buy more shares of oil companies. Experts say prices could rise more. The world economy is watching the situation with concern.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Directores Admiten que la IA No Cambió el Empleo ni la Productividad",
+          "headline_en": "CEOs Admit AI Didn't Change Employment or Productivity",
+          "body_es": "Miles de directores de empresas importantes hicieron una confesión sorprendente. Dijeron que la inteligencia artificial no cambió nada en sus compañías. No eliminó empleos como muchos pensaban. Tampoco mejoró la productividad de los trabajadores. Los economistas están estudiando este fenómeno extraño. Es similar a un problema de hace 40 años con las computadoras. En esa época, las computadoras no mejoraron la productividad inmediatamente. Tal vez la inteligencia artificial necesita más tiempo. Los expertos dicen que es normal con tecnologías nuevas. Las empresas necesitan aprender a usar la IA correctamente. Los trabajadores también deben adaptarse. El futuro del trabajo sigue siendo incierto.",
+          "body_en": "Thousands of directors of major companies made a surprising confession. They said that artificial intelligence changed nothing in their companies. It didn't eliminate jobs as many thought. It also didn't improve worker productivity. Economists are studying this strange phenomenon. It's similar to a problem 40 years ago with computers. At that time, computers didn't improve productivity immediately. Maybe artificial intelligence needs more time. Experts say it's normal with new technologies. Companies need to learn to use AI correctly. Workers must also adapt. The future of work remains uncertain.",
+          "source": "Fortune"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno afecta a muchos trabajadores federales.",
+          "definition_es": "Acción de cerrar o suspender actividades",
+          "definition_en": "Shutdown, closure"
+        },
+        {
+          "word": "operaciones",
+          "syllables": "o-pe-ra-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las operaciones del departamento están en crisis.",
+          "definition_es": "Actividades o funciones de una organización",
+          "definition_en": "Operations"
+        },
+        {
+          "word": "precios",
+          "syllables": "PRE-cios",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo subieron esta semana.",
+          "definition_es": "Cantidad de dinero que cuesta algo",
+          "definition_en": "Prices"
+        },
+        {
+          "word": "conflicto",
+          "syllables": "con-FLIC-to",
+          "pos": "sustantivo",
+          "context": "El conflicto entre países afecta la economía mundial.",
+          "definition_es": "Problema o disputa entre dos partes",
+          "definition_en": "Conflict"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial no cambió el empleo según los directores.",
+          "definition_es": "Trabajo u ocupación remunerada",
+          "definition_en": "Employment"
+        },
+        {
+          "word": "productividad",
+          "syllables": "pro-duc-ti-vi-DAD",
+          "pos": "sustantivo",
+          "context": "La productividad de las empresas no mejoró con la nueva tecnología.",
+          "definition_es": "Capacidad de producir más con menos recursos",
+          "definition_en": "Productivity"
+        },
+        {
+          "word": "impacto",
+          "syllables": "im-PAC-to",
+          "pos": "sustantivo",
+          "context": "El impacto de la inteligencia artificial fue menor de lo esperado.",
+          "definition_es": "Efecto o consecuencia de algo",
+          "definition_en": "Impact"
+        },
+        {
+          "word": "economistas",
+          "syllables": "e-co-no-MIS-tas",
+          "pos": "sustantivo",
+          "context": "Los economistas estudian los efectos de la nueva tecnología.",
+          "definition_es": "Expertos que estudian la economía",
+          "definition_en": "Economists"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'cierre' en el contexto del gobierno?",
+          "options": [
+            "Suspensión de actividades",
+            "Apertura de oficinas",
+            "Construcción nueva",
+            "Reunión importante"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'conflicto'?",
+          "options": [
+            "Paz",
+            "Problema",
+            "Solución",
+            "Acuerdo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué estudian los economistas?",
+          "options": [
+            "Medicina",
+            "Economía",
+            "Arte",
+            "Deportes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'productividad'?",
+          "options": [
+            "Capacidad de producir eficientemente",
+            "Número de empleados",
+            "Tiempo de trabajo",
+            "Salario mensual"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿por qué es especial este cierre del gobierno?",
+          "options": [
+            "Es el primero en la historia",
+            "Es el más largo en la historia",
+            "Afecta solo a un estado",
+            "Duró solo una semana"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué está causando el aumento en los precios del petróleo?",
+          "options": [
+            "Una nueva ley",
+            "Tensión entre EE.UU. e Irán",
+            "Problemas técnicos",
+            "Mal tiempo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué es importante el Estrecho de Hormuz?",
+          "options": [
+            "Es una ciudad grande",
+            "Es importante para transportar petróleo",
+            "Tiene muchos turistas",
+            "Es un centro comercial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué admitieron los directores de empresas sobre la inteligencia artificial?",
+          "options": [
+            "Que eliminó muchos empleos",
+            "Que mejoró mucho la productividad",
+            "Que no tuvo impacto significativo",
+            "Que es muy cara"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué problema similar ocurrió hace 40 años?",
+          "options": [
+            "Con los teléfonos",
+            "Con las computadoras",
+            "Con los carros",
+            "Con la televisión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cómo describe el texto el futuro del trabajo con IA?",
+          "options": [
+            "Muy claro",
+            "Completamente perdido",
+            "Incierto",
+            "Perfecto"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-20T09:32:24.946232"
+    },
+    {
       "date": "2026-04-19",
       "filename": "spanish_lesson_2026-04-19.pdf",
       "path": "pdfs/spanish_lesson_2026-04-19.pdf",
@@ -29552,7 +29774,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-19T09:14:59.956463",
+  "last_updated": "2026-04-20T09:32:24.946255",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
