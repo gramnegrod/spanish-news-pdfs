@@ -1,11 +1,159 @@
 {
-  "date": "2026-04-20",
-  "generated_at": "2026-04-20T09:40:41.062486Z",
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T09:37:02.774859Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 453,
-  "new_today": 6,
+  "total_stories": 457,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20260421",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos Tratamientos para las Úlceras Crónicas",
+      "headline_en": "New Treatments for Chronic Wounds",
+      "summary_es": "Los mercados de cuidado de heridas en Arabia Saudita crecen con nuevos apósitos avanzados. Estos productos ayudan a los pacientes con úlceras crónicas a sanar mejor.",
+      "body_es": "Las úlceras crónicas son heridas que no cierran rápidamente. Pueden durar semanas o meses. Los pacientes necesitan tratamientos especiales y apósitos modernos. En Arabia Saudita, el mercado de cuidado de heridas crece cada año. Los hospitales usan apósitos avanzados para las úlceras. Estos vendajes ayudan a limpiar las heridas. También protegen la piel dañada. Los apósitos modernos reducen el dolor y la infección. El tratamiento correcto es muy importante. Las enfermeras evalúan las heridas regularmente. Miden el tamaño y el exudado. Los pacientes con úlceras crónicas necesitan cuidado constante y seguimiento profesional.",
+      "body_en": "Chronic wounds are injuries that do not close quickly. They can last for weeks or months. Patients need special treatments and modern dressings. In Saudi Arabia, the wound care market grows every year. Hospitals use advanced dressings for ulcers. These bandages help clean wounds. They also protect damaged skin. Modern dressings reduce pain and infection. Correct treatment is very important. Nurses assess wounds regularly. They measure size and drainage. Patients with chronic wounds need constant care and professional follow-up.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0pYcEZiUFhtTi1yWWpPcDl1aGxZOGR5S3RZVjNVczJJQTNlQXkzcVFkd1NNY2VFM3Z4b09FWmhaa2c3aVMxQjlBZDVZQU1oOTNGSjN4Y0xkMUxmdHdqZ0JPWEVIQV83SVdsTmR6OXpyYi1PSUc4cENLRUpkbTBWbThPeWxISkE5eWl5dHVRVDhoQ0xFbDhDSExRdnhRZFozTVRTUThRREZ5aDRObWg0eldR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-21/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta que tarda en cerrar",
+          "definition_en": "ulcer - open wound that takes time to close"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "vendaje o material para cubrir heridas",
+          "definition_en": "dressing - bandage or material to cover wounds"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de la herida",
+          "definition_en": "drainage - fluid that comes from the wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "contaminación por bacterias en la herida",
+          "definition_en": "infection - bacterial contamination of the wound"
+        }
+      ],
+      "added_at": "2026-04-21T09:37:02.774859Z"
+    },
+    {
+      "id": "burn-care-20260421",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Resultados Positivos en la Cicatrización Acelerada de Quemaduras",
+      "headline_en": "Positive Results in Accelerated Burn Wound Healing",
+      "summary_es": "Un nuevo tratamiento demuestra que los pacientes con quemaduras pueden recibir injertos de piel más rápidamente. El estudio muestra una reducción significativa en el tiempo de cicatrización.",
+      "body_es": "Un estudio reciente de AVITA Medical ha publicado resultados positivos del tratamiento Cohealyx® para pacientes con quemaduras. La investigación indica que este tratamiento acelera el tiempo necesario para los injertos de piel en heridas quemadas. Los pacientes que recibieron este tratamiento mostraron una cicatrización más rápida en comparación con los métodos convencionales. El proceso de curación es crítico en las quemaduras profundas. Los médicos evalúan la granulación y la epitelización de la herida regularmente. El tratamiento avanzado reduce el riesgo de infección y necrosis tisular. Los injertos de piel acelerados permiten que los pacientes se recuperen más rápidamente. Este avance representa un progreso importante en el cuidado de quemaduras severas, mejorando los resultados clínicos y la calidad de vida de los pacientes.",
+      "body_en": "A recent study by AVITA Medical has published positive results from Cohealyx® treatment for burn patients. The research indicates that this treatment accelerates the time needed for skin grafting in burn wounds. Patients who received this treatment showed faster healing compared to conventional methods. The healing process is critical in deep burns. Doctors regularly assess wound granulation and epithelialization. Advanced treatment reduces the risk of infection and tissue necrosis. Accelerated skin grafting allows patients to recover more quickly. This advancement represents important progress in severe burn care, improving clinical outcomes and patient quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdEUxUjdYdDY2dFZYQzIxeTNTSXJoaF84UWtVUkgzX2VNLWxUcmxYa3Fmck9JaTlKNE5rRTZVd19FUEJsV3ZhUWlGX2RnQ1FZTlZSWnU1N3RfdWRfZWQwck81ajVua3RjRFZCWWFpbmZTTDZ0WDBYT0tiOUhRV2ZHWHA3b2dBcXZMMnY3Y29ESWpFenEzTzI2NUpUeVk4dHhjeTZQSnFxQ096VUxseGVxbkp4ZGNQejFXVGxxbzRUVkJkdTFIOU1CUTRINll5Z25pQkJ5d21QbXM4ZUZUNUA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-21/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor o fuego",
+          "definition_en": "burn - injury caused by heat or fire"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de piel sana a área quemada",
+          "definition_en": "skin graft - transplant of healthy skin to burned area"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo en la cicatrización",
+          "definition_en": "granulation - formation of new tissue in healing"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y reparación de la herida",
+          "definition_en": "healing - process of wound closure and repair"
+        }
+      ],
+      "added_at": "2026-04-21T09:37:02.774859Z"
+    },
+    {
+      "id": "surgical-wounds-20260421",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Antibióticos Adicionales No Reducen Infecciones en Cirugía de Fracturas Complejas",
+      "headline_en": "Extra Antibiotics Don't Reduce Infection Risk in Complex Fracture Surgery",
+      "summary_es": "Un ensayo clínico reciente demuestra que dosis adicionales de antibióticos no previenen infecciones en heridas quirúrgicas de fracturas complejas.",
+      "body_es": "Un importante estudio clínico ha evaluado la efectividad de antibióticos adicionales en la prevención de infecciones quirúrgicas. Los pacientes sometidos a cirugía para reparar fracturas complejas recibieron tratamientos antibióticos estándar o dosis adicionales. Los resultados mostraron que el antibiótico extra no redujo significativamente el riesgo de infección en las heridas quirúrgicas. Los investigadores evaluaron la cicatrización de las heridas quirúrgicas y la presencia de eritema e inflamación. La infección es una complicación seria después de la cirugía. El cuidado adecuado de la herida incluye evaluación regular, limpieza y monitoreo de signos de infección. Este hallazgo sugiere que la dosis estándar de antibióticos es suficiente. Los protocolos quirúrgicos actuales deben enfocarse en técnicas asépticas y cuidado postoperatorio óptimo en lugar de solo aumentar dosis de medicamentos.",
+      "body_en": "An important clinical trial has evaluated the effectiveness of additional antibiotics in preventing surgical infections. Patients undergoing surgery to repair complex fractures received either standard antibiotic treatment or additional doses. Results showed that extra antibiotics did not significantly reduce infection risk in surgical wounds. Researchers assessed wound healing, presence of erythema, and inflammation. Infection is a serious complication after surgery. Proper wound care includes regular assessment, cleaning, and monitoring for infection signs. This finding suggests that standard antibiotic dosing is sufficient. Current surgical protocols should focus on aseptic technique and optimal postoperative care rather than simply increasing medication doses.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlZ6enUxenNQN3BydTRTTDVMamMwS2dPWDZpVXZLam5jSWNhVUI5TlJwRlp3OTJLWWEzYUxBMi1abHM0WG9CcGZNTFhUckUtVUdqdEpxNGRIM2NBa1RQWFYyUFFIV3pIcjFWcEd1QWN6dmlnWXp1X3BOWTdZUHF6cDRHS191blJzMm5yUmpR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-21/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión hecha durante una operación",
+          "definition_en": "surgical wound - incision made during surgery"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de reparación y cierre de la herida",
+          "definition_en": "healing - process of wound repair and closure"
+        },
+        {
+          "word": "infección",
+          "definition_es": "contaminación bacteriana de la herida",
+          "definition_en": "infection - bacterial contamination of wound"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel alrededor de la herida",
+          "definition_en": "erythema - redness of skin around the wound"
+        }
+      ],
+      "added_at": "2026-04-21T09:37:02.774859Z"
+    },
+    {
+      "id": "wound-research-20260421",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Transformando la Educación Sanitaria Mediante Ciencia, Empatía y Práctica Clínica",
+      "headline_en": "Transforming Healthcare Education Through Science, Empathy and Clinical Practice",
+      "summary_es": "Una institución académica destaca la importancia de combinar conocimiento científico con habilidades prácticas en la educación de profesionales de la salud.",
+      "body_es": "La Universidad de Yeshiva ha presentado un enfoque innovador para la educación en ciencias de la salud. Este modelo integra investigación científica, empatía hacia los pacientes y entrenamiento práctico en cuidado de heridas. Los profesionales de salud aprenden a evaluar heridas complejas, identificar signos de infección e implementar tratamientos avanzados. La formación incluye evaluación clínica de úlceras, quemaduras y heridas quirúrgicas. Los estudiantes desarrollan competencias en desbridamiento, aplicación de apósitos y monitoreo de cicatrización. Este enfoque educativo prepara profesionales capacitados para manejar casos de necrosis tisular, edema y complicaciones postoperatorias. La combinación de ciencia rigurosa con práctica clínica real produce profesionales sanitarios más efectivos. Este modelo educativo reconoce que la excelencia en cuidado de heridas requiere tanto conocimiento teórico como habilidades interpersonales y experiencia práctica continuada.",
+      "body_en": "Yeshiva University has presented an innovative approach to healthcare education. This model integrates scientific research, patient empathy, and practical training in wound care. Healthcare professionals learn to assess complex wounds, identify infection signs, and implement advanced treatments. Training includes clinical assessment of ulcers, burns, and surgical wounds. Students develop competencies in debridement, dressing application, and healing monitoring. This educational approach prepares professionals capable of managing tissue necrosis, edema, and postoperative complications. The combination of rigorous science with real clinical practice produces more effective healthcare professionals. This educational model recognizes that excellence in wound care requires theoretical knowledge, interpersonal skills, and continued practical experience.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEVQUUh4YzFidW44OWM5cjAtRXBFT0IwVGo5YjZuSlk1dHdtOFVYX0tXeVo0dGpjZjNpeHM2eU16N2NhVEoxekhUb3BMaHc3a21ydV9UdkphYVVwdkFYSmVjOTN2M0lhdk5jbmMyN0phMFhhVHFlbmVaN1h1OFZqSndUd2U3NXRLZ0dzZVduRHg5eDBEb000T1dKZU16RkotQmY4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-21/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción de tejido muerto o dañado de la herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido",
+          "definition_en": "necrosis - death of tissue"
+        },
+        {
+          "word": "edema",
+          "definition_es": "hinchazón por acumulación de líquido",
+          "definition_en": "edema - swelling from fluid accumulation"
+        },
+        {
+          "word": "evaluación clínica",
+          "definition_es": "examen profesional de la herida y su estado",
+          "definition_en": "clinical assessment - professional examination of wound and its condition"
+        }
+      ],
+      "added_at": "2026-04-21T09:37:02.774859Z"
+    },
     {
       "id": "chronic-wounds-20260420",
       "category": "Chronic Wounds",
@@ -16762,6 +16910,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-20T09:40:41.062486Z",
+  "last_updated": "2026-04-21T09:37:02.774859Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
