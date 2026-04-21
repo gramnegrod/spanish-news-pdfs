@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-21",
+      "filename": "spanish_lesson_2026-04-21.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-21.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Congreso cuestiona a general sobre tropas en elecciones",
+          "headline_en": "Congress questions general about troops in elections",
+          "body_es": "El Congreso de Estados Unidos está haciendo preguntas difíciles a un general de la Guardia Nacional. Los políticos quieren saber sobre las órdenes del expresidente Trump. Trump pidió enviar soldados a los lugares de votación durante las elecciones pasadas. Esto causó mucha controversia en el país. Los miembros del Congreso creen que usar tropas militares en elecciones puede ser peligroso para la democracia. El general debe explicar qué pasó exactamente. También debe decir si siguió las órdenes de Trump. Este tema es muy importante para el futuro de las elecciones americanas. La investigación continúa en Washington.",
+          "body_en": "The US Congress is asking difficult questions to a National Guard general. Politicians want to know about former President Trump's orders. Trump asked to send soldiers to voting places during past elections. This caused much controversy in the country. Congress members believe that using military troops in elections can be dangerous for democracy. The general must explain what exactly happened. He must also say if he followed Trump's orders. This topic is very important for the future of American elections. The investigation continues in Washington.",
+          "source": "rexburgstandardjournal.com"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Acuerdo comercial entre India y Estados Unidos casi terminado",
+          "headline_en": "Trade agreement between India and United States almost finished",
+          "body_es": "India y Estados Unidos están muy cerca de firmar un importante acuerdo comercial. Las negociaciones en Washington han sido muy positivas según los oficiales. Los dos países han trabajado durante meses para llegar a este acuerdo. El tratado ayudará a aumentar el comercio entre las dos naciones. Estados Unidos podrá vender más productos a India. India también podrá exportar más cosas a Estados Unidos. Los expertos dicen que este acuerdo creará muchos trabajos nuevos. También ayudará a bajar los precios de algunos productos. Los dos gobiernos esperan firmar el documento muy pronto. Este será un momento histórico para ambos países.",
+          "body_en": "India and the United States are very close to signing an important trade agreement. Negotiations in Washington have been very positive according to officials. The two countries have worked for months to reach this agreement. The treaty will help increase trade between the two nations. The United States will be able to sell more products to India. India will also be able to export more things to the United States. Experts say this agreement will create many new jobs. It will also help lower prices of some products. Both governments hope to sign the document very soon. This will be a historic moment for both countries.",
+          "source": "The Times of India"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Amazon invertirá 25 mil millones en empresa de inteligencia artificial",
+          "headline_en": "Amazon will invest 25 billion in artificial intelligence company",
+          "body_es": "Amazon, la empresa gigante de comercio electrónico, planea hacer una inversión muy grande. La compañía quiere invertir hasta 25 mil millones de dólares en Anthropic. Anthropic es una empresa que desarrolla inteligencia artificial avanzada. Esta inversión es una de las más grandes en la historia de la tecnología. Amazon cree que la inteligencia artificial será muy importante en el futuro. Con esta inversión, Amazon podrá mejorar sus servicios para los clientes. También podrá competir mejor con otras empresas como Google y Microsoft. Anthropic usa la inteligencia artificial para crear programas muy inteligentes. Esta asociación cambiará mucho el mundo de la tecnología moderna.",
+          "body_en": "Amazon, the giant e-commerce company, plans to make a very large investment. The company wants to invest up to 25 billion dollars in Anthropic. Anthropic is a company that develops advanced artificial intelligence. This investment is one of the largest in technology history. Amazon believes that artificial intelligence will be very important in the future. With this investment, Amazon will be able to improve its services for customers. It will also be able to compete better with other companies like Google and Microsoft. Anthropic uses artificial intelligence to create very intelligent programs. This partnership will greatly change the world of modern technology.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso presiona al general sobre las órdenes de Trump.",
+          "definition_es": "Institución donde se hacen las leyes del país",
+          "definition_en": "Institution where the country's laws are made"
+        },
+        {
+          "word": "tropas",
+          "syllables": "TRO-pas",
+          "pos": "sustantivo",
+          "context": "Trump ordenó enviar tropas a los lugares de votación.",
+          "definition_es": "Soldados militares organizados en grupos",
+          "definition_en": "Military soldiers organized in groups"
+        },
+        {
+          "word": "votación",
+          "syllables": "vo-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las tropas fueron enviadas a los lugares de votación.",
+          "definition_es": "Proceso donde las personas eligen a sus representantes",
+          "definition_en": "Process where people choose their representatives"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "El acuerdo comercial entre India y Estados Unidos está casi terminado.",
+          "definition_es": "Decisión tomada entre dos o más partes",
+          "definition_en": "Decision made between two or more parties"
+        },
+        {
+          "word": "comercial",
+          "syllables": "co-mer-CIAL",
+          "pos": "adjetivo",
+          "context": "India y Estados Unidos firmaron un acuerdo comercial.",
+          "definition_es": "Relacionado con la compra y venta de productos",
+          "definition_en": "Related to buying and selling products"
+        },
+        {
+          "word": "invertir",
+          "syllables": "in-ver-TIR",
+          "pos": "verbo",
+          "context": "Amazon planea invertir 25 mil millones de dólares.",
+          "definition_es": "Poner dinero en un negocio para ganar más dinero",
+          "definition_en": "To put money into a business to earn more money"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Amazon es una empresa muy grande de tecnología.",
+          "definition_es": "Organización que produce o vende productos o servicios",
+          "definition_en": "Organization that produces or sells products or services"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Anthropic es una empresa de tecnología artificial.",
+          "definition_es": "Conocimiento científico aplicado para crear herramientas útiles",
+          "definition_en": "Scientific knowledge applied to create useful tools"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'congreso'?",
+          "options": [
+            "Un lugar para votar",
+            "Una institución que hace leyes",
+            "Un grupo de soldados",
+            "Una empresa de tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'invertir'?",
+          "options": [
+            "Vender productos",
+            "Hacer leyes",
+            "Poner dinero en un negocio",
+            "Enviar soldados"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'tropas'?",
+          "options": [
+            "Políticos del congreso",
+            "Soldados militares",
+            "Empresas comerciales",
+            "Programas de computadora"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un 'acuerdo comercial' se relaciona con:",
+          "options": [
+            "Elecciones políticas",
+            "Compra y venta",
+            "Programas militares",
+            "Investigaciones del congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿quién ordenó enviar soldados a los lugares de votación?",
+          "options": [
+            "El Congreso actual",
+            "El general de la Guardia",
+            "El expresidente Trump",
+            "Los miembros del parlamento"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Dónde están ocurriendo las negociaciones entre India y Estados Unidos?",
+          "options": [
+            "En Nueva Delhi",
+            "En Nueva York",
+            "En Washington",
+            "En Mumbai"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero planea invertir Amazon en Anthropic?",
+          "options": [
+            "25 millones de dólares",
+            "25 mil millones de dólares",
+            "250 millones de dólares",
+            "2.5 mil millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de empresa es Anthropic?",
+          "options": [
+            "Comercio electrónico",
+            "Inteligencia artificial",
+            "Comercio internacional",
+            "Servicios militares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué el Congreso cree que usar tropas en elecciones es problemático?",
+          "options": [
+            "Es muy caro",
+            "Puede ser peligroso para la democracia",
+            "Los soldados no quieren participar",
+            "No hay suficientes tropas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia económica, el acuerdo comercial ayudará a:",
+          "options": [
+            "Reducir el número de soldados",
+            "Crear trabajos y bajar precios",
+            "Mejorar la inteligencia artificial",
+            "Investigar al expresidente"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-21T09:30:05.906160"
+    },
+    {
       "date": "2026-04-20",
       "filename": "spanish_lesson_2026-04-20.pdf",
       "path": "pdfs/spanish_lesson_2026-04-20.pdf",
@@ -29774,7 +29996,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-20T09:32:24.946255",
+  "last_updated": "2026-04-21T09:30:05.906182",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
