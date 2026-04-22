@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-22",
+      "filename": "spanish_lesson_2026-04-22.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-22.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Político demócrata renuncia antes de votación de expulsión",
+          "headline_en": "Democratic politician resigns before expulsion vote",
+          "body_es": "Un político demócrata de la Cámara de Representantes decidió renunciar esta semana. Su renuncia llegó antes de una votación importante sobre su expulsión del Congreso. Las autoridades lo acusan de crímenes financieros graves. Los investigadores dicen que usó dinero del gobierno de forma ilegal. También puede haber problemas con sus impuestos personales. La expulsión de un miembro del Congreso es muy rara en Estados Unidos. Solo ha pasado cinco veces en la historia del país. El político negó siempre las acusaciones contra él. Sin embargo, decidió renunciar para evitar más problemas. Su decisión sorprendió a muchos colegas. Ahora habrá elecciones especiales para elegir su reemplazo en el distrito.",
+          "body_en": "A Democratic politician from the House of Representatives decided to resign this week. His resignation came before an important vote on his expulsion from Congress. Authorities accuse him of serious financial crimes. Investigators say he used government money illegally. There may also be problems with his personal taxes. The expulsion of a Congress member is very rare in the United States. It has only happened five times in the country's history. The politician always denied the accusations against him. However, he decided to resign to avoid more problems. His decision surprised many colleagues. Now there will be special elections to choose his replacement in the district.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Experto advierte sobre efectos dolorosos del precio del petróleo",
+          "headline_en": "Expert warns about painful effects of oil prices",
+          "body_es": "Jeremy Grantham es un inversor muy famoso en Estados Unidos. Él advierte sobre problemas serios con los precios del petróleo. Grantham dice que los precios altos del petróleo tendrán consecuencias dolorosas para la economía. Cuando el petróleo cuesta más, todo se vuelve más caro. La gasolina, la comida y el transporte suben de precio. Las familias tienen menos dinero para gastar en otras cosas. Las empresas también sufren porque sus costos aumentan. Grantham recomienda que los inversores sean muy cuidadosos ahora. Él piensa que los mercados financieros pueden tener problemas. El experto sugiere invertir en energías renovables como solución. También dice que los gobiernos deben prepararse mejor. Los próximos meses serán difíciles para la economía mundial según su análisis.",
+          "body_en": "Jeremy Grantham is a very famous investor in the United States. He warns about serious problems with oil prices. Grantham says that high oil prices will have painful consequences for the economy. When oil costs more, everything becomes more expensive. Gasoline, food and transportation go up in price. Families have less money to spend on other things. Companies also suffer because their costs increase. Grantham recommends that investors be very careful now. He thinks that financial markets may have problems. The expert suggests investing in renewable energies as a solution. He also says that governments should prepare better. The next months will be difficult for the world economy according to his analysis.",
+          "source": "Business Insider"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Gobierno de EE.UU. aumenta vigilancia masiva con inteligencia artificial",
+          "headline_en": "US Government increases mass surveillance with artificial intelligence",
+          "body_es": "El gobierno de Estados Unidos está usando más vigilancia tecnológica. Nuevos reportes muestran que usan inteligencia artificial para observar a los ciudadanos. La vigilancia funciona con la ayuda de compañías que venden datos personales. Estas empresas tienen información de nuestras aplicaciones y dispositivos móviles. El gobierno compra estos datos para saber más sobre las personas. La tecnología de inteligencia artificial ayuda a analizar millones de datos rápidamente. Los expertos dicen que esto afecta la privacidad de los ciudadanos. Muchas personas no saben que sus datos se venden. Las aplicaciones en nuestros teléfonos recolectan información personal constantemente. Los dispositivos como relojes inteligentes también dan datos. Algunos políticos quieren más leyes para proteger la privacidad. El debate sobre tecnología y derechos civiles continúa creciendo.",
+          "body_en": "The United States government is using more technological surveillance. New reports show they use artificial intelligence to watch citizens. The surveillance works with help from companies that sell personal data. These companies have information from our applications and mobile devices. The government buys this data to know more about people. Artificial intelligence technology helps analyze millions of data points quickly. Experts say this affects citizens' privacy. Many people don't know their data is being sold. Applications on our phones constantly collect personal information. Devices like smart watches also provide data. Some politicians want more laws to protect privacy. The debate about technology and civil rights continues growing.",
+          "source": "The Conversation"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "renunciar",
+          "syllables": "re-nun-CIAR",
+          "pos": "verbo",
+          "context": "El político decidió renunciar antes de la votación.",
+          "definition_es": "Dejar un cargo o posición voluntariamente",
+          "definition_en": "To resign from a position voluntarily"
+        },
+        {
+          "word": "expulsión",
+          "syllables": "ex-pul-SIÓN",
+          "pos": "sustantivo",
+          "context": "La expulsión del congreso es muy rara.",
+          "definition_es": "Acción de echar o sacar a alguien de un lugar",
+          "definition_en": "The act of removing someone from a place or position"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "El experto habla sobre las inversiones en petróleo.",
+          "definition_es": "Dinero que se pone en un negocio para ganar más",
+          "definition_en": "Money put into a business to earn profit"
+        },
+        {
+          "word": "vigilancia",
+          "syllables": "vi-gi-LAN-cia",
+          "pos": "sustantivo",
+          "context": "La vigilancia del gobierno usa nueva tecnología.",
+          "definition_es": "Acción de observar y controlar",
+          "definition_en": "The act of watching and monitoring"
+        },
+        {
+          "word": "consecuencias",
+          "syllables": "con-se-CUEN-cias",
+          "pos": "sustantivo",
+          "context": "Las consecuencias del petróleo caro son negativas.",
+          "definition_es": "Resultados que pasan después de algo",
+          "definition_en": "Results that happen after something"
+        },
+        {
+          "word": "dispositivos",
+          "syllables": "dis-po-si-TI-vos",
+          "pos": "sustantivo",
+          "context": "Nuestros dispositivos pueden ser observados.",
+          "definition_es": "Aparatos electrónicos como teléfonos o computadoras",
+          "definition_en": "Electronic devices like phones or computers"
+        },
+        {
+          "word": "crímenes",
+          "syllables": "CRÍ-me-nes",
+          "pos": "sustantivo",
+          "context": "Los crímenes financieros son muy serios.",
+          "definition_es": "Acciones ilegales contra la ley",
+          "definition_en": "Illegal actions against the law"
+        },
+        {
+          "word": "doloroso",
+          "syllables": "do-lo-RO-so",
+          "pos": "adjetivo",
+          "context": "Los efectos económicos serán dolorosos.",
+          "definition_es": "Que causa dolor o problemas",
+          "definition_en": "That causes pain or problems"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'renunciar'?",
+          "options": [
+            "Comenzar un nuevo trabajo",
+            "Dejar un cargo voluntariamente",
+            "Ganar una elección",
+            "Acusar a alguien"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'vigilancia'?",
+          "options": [
+            "Proteger algo",
+            "Observar y controlar",
+            "Comprar datos",
+            "Usar tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'dispositivos' según el texto?",
+          "options": [
+            "Programas de computadora",
+            "Aparatos electrónicos como teléfonos",
+            "Datos personales",
+            "Aplicaciones móviles"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Si algo es 'doloroso' en el contexto económico, significa que:",
+          "options": [
+            "Es beneficioso",
+            "Causa problemas",
+            "Es rápido",
+            "Es tecnológico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué renunció el político demócrata?",
+          "options": [
+            "Para evitar una votación de expulsión",
+            "Para comenzar otro trabajo",
+            "Porque ganó las elecciones",
+            "Porque terminó su período"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según Jeremy Grantham, ¿qué pasa cuando el petróleo cuesta más?",
+          "options": [
+            "Solo la gasolina sube de precio",
+            "Todo se vuelve más caro",
+            "Las empresas ganan más dinero",
+            "Los salarios aumentan"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántas veces ha habido expulsiones en el Congreso de EE.UU.?",
+          "options": [
+            "Tres veces",
+            "Cinco veces",
+            "Diez veces",
+            "Muchas veces"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cómo obtiene el gobierno datos personales según el texto?",
+          "options": [
+            "Los roba directamente",
+            "Los compra a empresas",
+            "Los pide a los ciudadanos",
+            "Los crea con computadoras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué recomienda Grantham a los inversores?",
+          "options": [
+            "Comprar más petróleo",
+            "Ser muy cuidadosos",
+            "Vender todas sus acciones",
+            "Invertir en gasolina"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tecnología ayuda al gobierno a analizar datos rápidamente?",
+          "options": [
+            "Los teléfonos móviles",
+            "Las aplicaciones",
+            "La inteligencia artificial",
+            "Los relojes inteligentes"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-22T09:29:11.606956"
+    },
+    {
       "date": "2026-04-21",
       "filename": "spanish_lesson_2026-04-21.pdf",
       "path": "pdfs/spanish_lesson_2026-04-21.pdf",
@@ -29996,7 +30218,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-21T09:30:05.906182",
+  "last_updated": "2026-04-22T09:29:11.606979",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
