@@ -1,11 +1,159 @@
 {
-  "date": "2026-04-22",
-  "generated_at": "2026-04-22T09:36:54.934806Z",
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T09:38:23.256491Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 461,
+  "total_stories": 465,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20260423",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Los Farmacéuticos Comunitarios Apoyan a Pacientes con Heridas Crónicas",
+      "headline_en": "Community Pharmacists Support Patients With Chronic Wounds",
+      "summary_es": "Los farmacéuticos de las comunidades ayudan a los pacientes con heridas crónicas. Ofrecen cuidados y medicamentos importantes para la curación.",
+      "body_es": "Los farmacéuticos comunitarios trabajan con pacientes que tienen heridas crónicas. Estos profesionales de salud dan información importante sobre los vendajes y medicamentos. Las heridas crónicas son difíciles de curar. Pueden durar semanas o meses. Los farmacéuticos hablan con los pacientes sobre el cuidado correcto de las heridas. Enseñan cómo limpiar y proteger la herida. También controlan si hay infecciones. Los pacientes reciben los medicamentos necesarios. Los farmacéuticos trabajan con médicos y enfermeras. Juntos cuidan mejor al paciente. Este trabajo es importante para la comunidad. Ayuda a los pacientes a sanar más rápido.",
+      "body_en": "Community pharmacists work with patients who have chronic wounds. These health professionals provide important information about dressings and medications. Chronic wounds are difficult to heal. They can last for weeks or months. Pharmacists talk with patients about correct wound care. They teach how to clean and protect the wound. They also monitor for infections. Patients receive necessary medications. Pharmacists work with doctors and nurses. Together they care better for the patient. This work is important for the community. It helps patients heal faster.",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSnRQM1A3Q0NvSnJveEh4aGhMN1RTeWRwMTBZaHU0ejVaVG1DWFk5WlVxeDJ6Q2piNVBVUVVQYnczV3dVaDFRNkwxNkFqTDlYN1poV0txdWhhSmluUmhoNDNTMFFXSzQ5dGNkZDJrc1RQQWNvT1hteUFtbXBldjJOQVowcldKeGJsY2g1YWoweXdrVFFK?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-23/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión en la piel que tarda mucho tiempo en sanar",
+          "definition_en": "chronic wound - skin injury that takes a long time to heal"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material que cubre y protege una herida",
+          "definition_en": "dressing - material that covers and protects a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar y cerrar una herida",
+          "definition_en": "healing - process of a wound closing and getting better"
+        },
+        {
+          "word": "infección",
+          "definition_es": "entrada de bacterias o gérmenes en una herida",
+          "definition_en": "infection - entry of bacteria or germs into a wound"
+        }
+      ],
+      "added_at": "2026-04-23T09:38:23.256491Z"
+    },
+    {
+      "id": "diabetic-foot-20260423",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Nuevas Investigaciones Avanzan en el Tratamiento del Pie Diabético",
+      "headline_en": "New Research Advances in Diabetic Foot Treatment",
+      "summary_es": "Las nuevas tecnologías y tratamientos están mejorando los cuidados del pie diabético. Los investigadores trabajan para prevenir úlceras y amputaciones en pacientes diabéticos.",
+      "body_es": "El pie diabético es una complicación grave de la diabetes que afecta a muchos pacientes. Las úlceras en los pies pueden desarrollarse cuando los pacientes no reciben cuidado adecuado. Los nuevos tratamientos están mostrando resultados prometedores en la cicatrización de heridas. Los médicos utilizan evaluaciones más precisas para medir el progreso de la curación. Los apósitos modernos ayudan a mantener un ambiente húmedo que favorece la epitelización. Los especialistas recomiendan controles regulares de los pies para detectar problemas temprano. La prevención es muy importante en estos pacientes. Las complicaciones pueden evitarse con educación y cuidados consistentes. Los estudios clínicos demuestran que el tratamiento integrado reduce el riesgo de amputación significativamente.",
+      "body_en": "Diabetic foot is a serious complication of diabetes that affects many patients. Ulcers on the feet can develop when patients do not receive proper care. New treatments are showing promising results in wound healing. Doctors use more precise assessments to measure healing progress. Modern dressings help maintain a moist environment that favors epithelialization. Specialists recommend regular foot checks to detect problems early. Prevention is very important in these patients. Complications can be avoided with education and consistent care. Clinical studies demonstrate that integrated treatment significantly reduces amputation risk.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0xOVWV1LVUwd0lSNnhwbVozZks0MExMV0hlc0lvdk5tbzFRZTJDWkdRUTVrRUNnUGdsZGkwTWptUEFMZ3d3VWtvU2JXTjhERWtLWHJjUFYwRVFJaVhpRFJJYlZMOVN1SXE3aS1ZRW1UVm13cHBDOVptVTJlQm5Oa2RRa1VyOVBpeVFDSG1Ta09vWUFPeUVOdW9ERzN4R0dGdlFBaUpKRWtfT0xQVGFLZTBzcmVWMHVo?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-23/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - formation of new skin over a wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - medical material placed over wound to protect it"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen y análisis del estado de una herida",
+          "definition_en": "assessment - examination and analysis of wound condition"
+        }
+      ],
+      "added_at": "2026-04-23T09:38:23.256491Z"
+    },
+    {
+      "id": "burn-care-20260423",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "La Curación de Quemaduras va Más Allá de la Recuperación Física",
+      "headline_en": "Burn Healing Extends Beyond Physical Recovery",
+      "summary_es": "Para los sobrevivientes de quemaduras, la curación incluye apoyo físico, psicológico y emocional. Los hospitales proporcionan cuidados integrales que continúan después del alta.",
+      "body_es": "La recuperación de quemaduras graves requiere un enfoque multidisciplinario que va más allá del tratamiento médico inmediato. Los pacientes enfrentan desafíos físicos complejos durante la curación de heridas. Los médicos utilizan apósitos especializados y técnicas de desbridamiento para eliminar tejido necrótico. La epitelización es un proceso lento que requiere monitoreo constante para evitar infecciones. Sin embargo, la cicatrización física es solo parte del proceso de recuperación. Los sobrevivientes necesitan apoyo psicológico para manejar el trauma emocional. Los programas de rehabilitación incluyen terapia física para restaurar la función. El equipo de cuidados incluye enfermeras especializadas, médicos, psicólogos y trabajadores sociales. La comunidad y la familia juegan un papel crucial en el proceso de sanación. Los hospitales modernos reconocen que la curación integral produce mejores resultados a largo plazo.",
+      "body_en": "Recovery from severe burns requires a multidisciplinary approach that goes beyond immediate medical treatment. Patients face complex physical challenges during wound healing. Doctors use specialized dressings and debridement techniques to remove necrotic tissue. Epithelialization is a slow process requiring constant monitoring to prevent infections. However, physical scar formation is only part of the recovery process. Survivors need psychological support to manage emotional trauma. Rehabilitation programs include physical therapy to restore function. The care team includes specialized nurses, doctors, psychologists, and social workers. Community and family play a crucial role in the healing process. Modern hospitals recognize that comprehensive healing produces better long-term results.",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbF9jNXlqV1daODdzdU9CWS1TektGNlc4SlFFRUtvanZGaEQ4YXF5ZmhGRzhqUHJfZloycVlyS2tWVGF2NUZLYkZ3azhMWldvV3A4U0tnVk05Zk9GTW5ESzI5V09QdmxqTG02dzJicXdKN1RURXZ3NndlaDdFeG8tcVpLMjZVajhITHBhbWNjTjA3TEVm?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-23/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel y tejidos causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to skin and tissue caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido corporal por falta de oxígeno o lesión",
+          "definition_en": "necrosis - death of body tissue due to lack of oxygen or injury"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda en la piel después de la curación de una herida",
+          "definition_en": "scar - mark left on skin after wound healing"
+        }
+      ],
+      "added_at": "2026-04-23T09:38:23.256491Z"
+    },
+    {
+      "id": "surgical-wounds-20260423",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "green",
+      "headline_es": "Nuevo Centro de Cuidados de Heridas Abre en el Hospital Comunitario",
+      "headline_en": "New Wound Care Center Opens at Community Hospital",
+      "summary_es": "El Hospital Cooperativo del Valle de Chippewa abre un nuevo centro especializado en cuidados de heridas. La instalación ofrece tratamientos avanzados para heridas quirúrgicas y crónicas.",
+      "body_es": "El Hospital Cooperativo del Valle de Chippewa ha abierto recientemente un nuevo centro dedicado exclusivamente al cuidado de heridas. Esta instalación modernizada proporciona servicios especializados para pacientes con heridas quirúrgicas complejas y lesiones crónicas. El centro cuenta con personal capacitado en técnicas avanzadas de evaluación y tratamiento de heridas. Los profesionales utilizan apósitos de última generación para optimizar la cicatrización. El equipo realiza evaluaciones detalladas del exudado y el estado del tejido granulado. Se ofrecen servicios de desbridamiento cuando es necesario para eliminar tejido necrótico. El centro también proporciona educación a los pacientes sobre el cuidado de heridas en casa. Los médicos trabajan en colaboración para garantizar protocolos de tratamiento consistentes. La nueva instalación mejora el acceso a cuidados especializados para la comunidad. Se espera que este centro reduzca complicaciones y acelere la recuperación de los pacientes.",
+      "body_en": "Chippewa Valley Cooperative Hospital has recently opened a new center dedicated exclusively to wound care. This modernized facility provides specialized services for patients with complex surgical wounds and chronic injuries. The center has staff trained in advanced wound assessment and treatment techniques. Professionals use state-of-the-art dressings to optimize healing. The team conducts detailed assessments of exudate and granulated tissue status. Debridement services are offered when necessary to remove necrotic tissue. The center also provides patient education on home wound care. Doctors work collaboratively to ensure consistent treatment protocols. The new facility improves access to specialized care for the community. It is expected that this center will reduce complications and accelerate patient recovery.",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdkIzNXBOakVyTVpVcTRiRVRwS3l3QTZOTjNEXzZmeU5EeC05YVN4WGU2Y2YtVHdxNkplTmNQN3p1LUxRRDhId1M1YXEySTlsb0hqdDNQQ2NkRGtfWnZpMjlPdlpzd2lwbFFIZGRUQzNBYWFNUjQ1RmNzXy1OTFhFcG5adjFVeFMtenRGdy1nU0xGV1RwZlRDM3ljcjh1aER3ZEszVWtITGc3cHpTaEVWQmpNS1RIZXZ0VzlQSHNHSVp5S2NMQVpiMzFsWVFXcThLYnJGR25IVjdrWnRid0ItTnV0T0twZWpuejVmbw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-23/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida durante el proceso de cicatrización",
+          "definition_en": "exudate - fluid that drains from a wound during healing"
+        },
+        {
+          "word": "tejido granulado",
+          "definition_es": "nuevo tejido que se forma durante la curación de una herida profunda",
+          "definition_en": "granulated tissue - new tissue that forms during deep wound healing"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "punto que cierra una herida quirúrgica",
+          "definition_en": "suture - stitch that closes a surgical wound"
+        },
+        {
+          "word": "lesión",
+          "definition_es": "daño o herida en el cuerpo",
+          "definition_en": "injury - damage or wound to the body"
+        }
+      ],
+      "added_at": "2026-04-23T09:38:23.256491Z"
+    },
     {
       "id": "chronic-wounds-20260422",
       "category": "Chronic Wounds",
@@ -17058,6 +17206,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-22T09:36:54.934806Z",
+  "last_updated": "2026-04-23T09:38:23.256491Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
