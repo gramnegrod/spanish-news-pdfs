@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-24",
+      "filename": "spanish_lesson_2026-04-24.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-24.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El gobierno de Estados Unidos cierra por falta de presupuesto",
+          "headline_en": "US government shuts down due to lack of budget",
+          "body_es": "El gobierno federal de Estados Unidos cerró sus oficinas después de que el Senado no aprobó el presupuesto necesario. Los senadores no pudieron ponerse de acuerdo sobre las medidas de financiación. Este cierre significa que muchas oficinas públicas no pueden funcionar normalmente. Los empleados del gobierno no pueden trabajar durante este período. Esta situación afecta a muchos servicios públicos importantes. Los ciudadanos no pueden acceder a ciertos servicios gubernamentales. Los políticos continúan negociando para encontrar una solución. Es necesario aprobar un nuevo presupuesto para reabrir el gobierno. Esta crisis política causa problemas económicos y sociales en todo el país.",
+          "body_en": "The US federal government closed its offices after the Senate failed to approve the necessary budget. Senators could not agree on funding measures. This shutdown means many public offices cannot function normally. Government employees cannot work during this period. This situation affects many important public services. Citizens cannot access certain government services. Politicians continue negotiating to find a solution. It is necessary to approve a new budget to reopen the government. This political crisis causes economic and social problems throughout the country.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El mercado laboral de Estados Unidos se mantiene estable",
+          "headline_en": "US labor market remains stable",
+          "body_es": "El mercado de empleo en Estados Unidos continúa estable a pesar de los conflictos internacionales. Los expertos dicen que el número de trabajos disponibles no ha cambiado mucho. Sin embargo, la inflación está creando nuevos problemas económicos. Los precios de los productos están subiendo en todo el país. Esta situación preocupa a las familias estadounidenses. Los salarios no aumentan al mismo ritmo que los precios. La guerra en otras partes del mundo está afectando la economía global. Los economistas estudian estos cambios para predecir el futuro. El gobierno está buscando soluciones para controlar la inflación. Es importante mantener el equilibrio entre empleo y precios estables.",
+          "body_en": "The job market in the United States continues stable despite international conflicts. Experts say the number of available jobs has not changed much. However, inflation is creating new economic problems. Product prices are rising throughout the country. This situation worries American families. Wages are not increasing at the same rate as prices. War in other parts of the world is affecting the global economy. Economists study these changes to predict the future. The government is seeking solutions to control inflation. It is important to maintain balance between employment and stable prices.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Meta despedirá a 8,000 empleados por inversiones en inteligencia artificial",
+          "headline_en": "Meta will lay off 8,000 employees due to artificial intelligence investments",
+          "body_es": "La empresa Meta anunció que va a despedir a ocho mil trabajadores. Esta decisión se debe al aumento de inversiones en inteligencia artificial. La compañía necesita más dinero para desarrollar nuevas tecnologías. Los directivos creen que la inteligencia artificial es el futuro de la tecnología. Meta quiere competir con otras empresas tecnológicas importantes. Los empleados despedidos recibirán compensación económica. Esta situación es difícil para las familias afectadas. La industria tecnológica está cambiando muy rápidamente. Muchas empresas están tomando decisiones similares. Meta espera que estas inversiones generen beneficios en el futuro. Los expertos debaten sobre el impacto de estos cambios en el sector.",
+          "body_en": "Meta company announced it will lay off eight thousand workers. This decision is due to increased investments in artificial intelligence. The company needs more money to develop new technologies. Executives believe artificial intelligence is the future of technology. Meta wants to compete with other important tech companies. Laid-off employees will receive financial compensation. This situation is difficult for affected families. The tech industry is changing very rapidly. Many companies are making similar decisions. Meta hopes these investments will generate profits in the future. Experts debate about the impact of these changes in the sector.",
+          "source": "BBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El gobierno federal anunció el cierre de las oficinas públicas.",
+          "definition_es": "Acción de cerrar algo, suspensión temporal",
+          "definition_en": "Closure, shutdown"
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "El Senado no aprobó el presupuesto necesario para el gobierno.",
+          "definition_es": "Plan de gastos e ingresos para un período",
+          "definition_en": "Budget"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación está aumentando los precios de los productos.",
+          "definition_es": "Aumento general de los precios",
+          "definition_en": "Inflation"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "El mercado de empleo se mantiene estable en Estados Unidos.",
+          "definition_es": "Trabajo, ocupación remunerada",
+          "definition_en": "Employment, job"
+        },
+        {
+          "word": "despedir",
+          "syllables": "des-pe-DIR",
+          "pos": "verbo",
+          "context": "Meta va a despedir a ocho mil empleados.",
+          "definition_es": "Terminar la relación laboral con un trabajador",
+          "definition_en": "To fire, to lay off"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "La empresa aumentó su inversión en inteligencia artificial.",
+          "definition_es": "Dinero que se gasta para obtener beneficios futuros",
+          "definition_en": "Investment"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El Senado no pudo aprobar las medidas de financiación.",
+          "definition_es": "Aceptar o dar permiso para algo",
+          "definition_en": "To approve, to pass"
+        },
+        {
+          "word": "estable",
+          "syllables": "es-TA-ble",
+          "pos": "adjetivo",
+          "context": "El mercado laboral permanece estable a pesar de los problemas.",
+          "definition_es": "Que no cambia, que se mantiene igual",
+          "definition_en": "Stable"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'cierre' en el contexto del gobierno?",
+          "options": [
+            "Abrir una oficina",
+            "Suspensión temporal",
+            "Construir edificios",
+            "Contratar empleados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'inflación'?",
+          "options": [
+            "Bajar los precios",
+            "Aumento general de los precios",
+            "Crear empleos",
+            "Cerrar empresas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'despedir' a un empleado?",
+          "options": [
+            "Darle un aumento de salario",
+            "Promocionarlo",
+            "Terminar su trabajo",
+            "Darle vacaciones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa que algo es 'estable'?",
+          "options": [
+            "Que cambia mucho",
+            "Que se mantiene igual",
+            "Que es muy caro",
+            "Que es nuevo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué cerró el gobierno federal estadounidense?",
+          "options": [
+            "Por vacaciones",
+            "Por falta de empleados",
+            "Porque el Senado no aprobó el presupuesto",
+            "Por problemas técnicos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cómo está el mercado laboral estadounidense según la noticia?",
+          "options": [
+            "Muy mal",
+            "Estable",
+            "Creciendo rápidamente",
+            "No hay información"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleados va a despedir Meta?",
+          "options": [
+            "5,000",
+            "8,000",
+            "10,000",
+            "12,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué problema económico está preocupando a las familias estadounidenses?",
+          "options": [
+            "El desempleo",
+            "La inflación",
+            "Los impuestos",
+            "La educación"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿En qué está invirtiendo más dinero Meta?",
+          "options": [
+            "En oficinas nuevas",
+            "En publicidad",
+            "En inteligencia artificial",
+            "En empleados"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué necesita el gobierno para reabrir sus oficinas?",
+          "options": [
+            "Más empleados",
+            "Un nuevo presupuesto",
+            "Nuevos edificios",
+            "Más tiempo"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-24T09:30:33.088053"
+    },
+    {
       "date": "2026-04-23",
       "filename": "spanish_lesson_2026-04-23.pdf",
       "path": "pdfs/spanish_lesson_2026-04-23.pdf",
@@ -30440,7 +30662,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-23T09:30:31.845238",
+  "last_updated": "2026-04-24T09:30:33.088076",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
