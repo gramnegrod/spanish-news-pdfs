@@ -1,11 +1,196 @@
 {
-  "date": "2026-04-23",
-  "generated_at": "2026-04-23T09:38:23.256491Z",
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T09:38:26.775803Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 465,
-  "new_today": 4,
+  "total_stories": 470,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20260424",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos vendajes inteligentes para curar heridas crónicas",
+      "headline_en": "New Smart Dressings for Chronic Wound Healing",
+      "summary_es": "Científicos desarrollan vendajes flexibles que diagnostican y tratan heridas personalizadas. Estos apósitos modernos mejoran la curación de heridas crónicas.",
+      "body_es": "Un equipo de investigadores de Nature presenta vendajes nuevos y flexibles para heridas crónicas. Los vendajes usan tecnología PEDOT:PSS. Este material es flexible y adaptable. Los vendajes pueden diagnosticar el estado de la herida. También pueden aplicar tratamientos personalizados. Los apósitos miden información importante de la herida. Proporcionan datos sobre el proceso de curación. El vendaje cubre la herida y la protege. Acelera la granulación y la epitelización. Esta tecnología es útil para heridas que no cierran bien. Los pacientes con heridas crónicas necesitan tratamientos mejores. Los vendajes inteligentes ofrecen una solución innovadora y práctica.",
+      "body_en": "A research team from Nature presents new flexible dressings for chronic wounds. The dressings use PEDOT:PSS technology. This material is flexible and adaptable. The dressings can diagnose the wound condition. They can also apply personalized treatments. The dressings measure important wound information. They provide data about the healing process. The dressing covers and protects the wound. It accelerates granulation and epithelialization. This technology is useful for wounds that do not close well. Patients with chronic wounds need better treatments. Smart dressings offer an innovative and practical solution.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tSHg2cEI5bUFDS29yb1RpTlhOSlJyd1Z3N2lvOEQ4OHd1MWZ5My1nVlpCV18yUFJLa2FyT2hObmFBR0lrX19jTDBqTk1YeFB3d0ZIODB5VDM3RkFYVG00?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-24/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de piel nueva en la herida",
+          "definition_en": "epithelialization - process of new skin formation in wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo durante la curación",
+          "definition_en": "granulation - formation of new tissue during healing"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes out of a wound"
+        }
+      ],
+      "added_at": "2026-04-24T09:38:26.775803Z"
+    },
+    {
+      "id": "diabetic-foot-20260424",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Cinco signos de daño nervioso en los pies diabéticos",
+      "headline_en": "Five Signs of Nerve Damage in Diabetic Feet",
+      "summary_es": "Los expertos identifican cinco signos clave de neuropatía diabética que los pacientes deben reconocer. El diagnóstico temprano previene complicaciones graves como úlceras e infecciones.",
+      "body_es": "Según expertos en cuidado diabético publicado en MSN, la neuropatía diabética es una complicación común que afecta los pies de los pacientes con diabetes. Los signos de daño nervioso incluyen: hormigueo o entumecimiento en los dedos de los pies, dolor quemante sin causa aparente, pérdida de sensibilidad al tacto, debilidad muscular en los pies, y cambios en la piel como sequedad o enrojecimiento. Estos síntomas indican isquemia tisular y deterioro de la circulación. Los pacientes deben revisar sus pies diariamente para identificar lesiones que no se cierran. El desbridamiento temprano y las úlceras tratadas evitan amputaciones. El control glucémico es esencial para prevenir la progresión de la neuropatía diabética.",
+      "body_en": "According to experts in diabetic care published in MSN, diabetic neuropathy is a common complication affecting the feet of patients with diabetes. Signs of nerve damage include: tingling or numbness in the toes, burning pain without apparent cause, loss of touch sensation, muscle weakness in the feet, and skin changes such as dryness or redness. These symptoms indicate tissue ischemia and circulation deterioration. Patients should review their feet daily to identify wounds that do not close. Early debridement and treated ulcers prevent amputations. Glycemic control is essential to prevent progression of diabetic neuropathy.",
+      "source_url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPd2RRYjFkM2w4UFhGakpkMUFyaVo1RVdIb1ZnMnc5UUcyelZIZXF3dlRYOUhCTm5zYkdNbGRvY2EySDBmM1R4eVV4Qkx4T0UzcllaaE5JRzl0UGNIc3pEMTRvTXVaSUJDLXROZDRVYVhuQUlxSmVpWW0xSFRkeUR3bFNabURrdTg4eVo4TEx6WEw4MnpQeXcxQ25CZkRIZmhiM2lvb3F6bHVJYjVKSFpuR2NSMUVfRzlBUUhnV05aYXpSWEpMZGhBTEVCMk95RERtTl96TFU1QUVGQkU4ZW1GN3VUMVlTZWdhbl9jLXlvRU5yUlZXMFNEYjdSWHdMY2w3a3kwWVFXWDFXai1zTFo1SHgzdUJPNzhhdkZ4MmdjTF9ZbktTaHdocV9VeHliaTFjRjhUZlNoTFhRb0Z5N1ZWWDVsS2llU180dV8yVkk2RGRLSk9nRktnR1RQdTBZMGdPdmlNU0ZfUTlVOVFkQWZ5dlZsOFhkNVE4QkpqQmhCc0lneHdaY3pxYUZDS3poMTVZ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-24/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "neuropatía diabética",
+          "definition_es": "daño a los nervios causado por la diabetes",
+          "definition_en": "diabetic neuropathy - nerve damage caused by diabetes"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo a un tejido",
+          "definition_en": "ischemia - lack of blood flow to tissue"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto o dañado de la herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from wound"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza",
+          "definition_en": "ulcer - open wound on skin that does not heal"
+        }
+      ],
+      "added_at": "2026-04-24T09:38:26.775803Z"
+    },
+    {
+      "id": "burn-care-20260424",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Apósitos de colágeno con nanopartículas para tratar quemaduras",
+      "headline_en": "Collagen Dressings with Nanoparticles for Burn Treatment",
+      "summary_es": "Investigadores desarrollan vendajes innovadores basados en colágeno de tilapia del Nilo con nanopartículas de óxido de cobre para tratar quemaduras. Esta tecnología multifuncional mejora la cicatrización.",
+      "body_es": "Un estudio publicado en ScienceDirect describe un apósito revolucionario para quemaduras que combina colágeno de tilapia del Nilo con nanopartículas de óxido de cobre cargadas con lincomicina. Este vendaje multifuncional proporciona varias funciones terapéuticas simultáneamente. El colágeno proporciona una matriz para la regeneración de la piel y acelera la epitelización. Las nanopartículas de cobre poseen propiedades antimicrobianas que previenen infecciones bacterianas. La lincomicina refuerza la actividad antibacteriana del apósito. Este tipo de vendaje reduce la necrosis de los tejidos quemados. También disminuye el edema y la inflamación. El apósito protege la herida quemada del ambiente externo. Los estudios indican que acelera significativamente la curación comparado con vendajes convencionales.",
+      "body_en": "A study published in ScienceDirect describes a revolutionary dressing for burns that combines collagen from Nile tilapia with copper oxide nanoparticles loaded with lincomycin. This multifunctional dressing provides several therapeutic functions simultaneously. The collagen provides a matrix for skin regeneration and accelerates epithelialization. Copper nanoparticles possess antimicrobial properties that prevent bacterial infections. Lincomycin reinforces the antibacterial activity of the dressing. This type of dressing reduces necrosis of burned tissues. It also decreases edema and inflammation. The dressing protects the burned wound from the external environment. Studies indicate it significantly accelerates healing compared to conventional dressings.",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IeThtdjVrT2t6OERKQncwVS1XcEFMQWdhTFJWeEM3QXo2V0M5aHZib1hnUEc1dkF2T1dKOHFCckMySVhMQ2VKRFEzUEI2a1BJcjlYclZkOGlMcTNfbWtoNXhsMGZxVV9rSndRM1c2MGZHUko1MmRVaDZybw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-24/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to skin from heat, fire, or chemicals"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido vivo",
+          "definition_en": "necrosis - death of living tissue"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material medicado que se aplica a una herida",
+          "definition_en": "dressing - medicated material applied to a wound"
+        },
+        {
+          "word": "edema",
+          "definition_es": "acumulación de líquido que causa hinchazón",
+          "definition_en": "edema - accumulation of fluid causing swelling"
+        }
+      ],
+      "added_at": "2026-04-24T09:38:26.775803Z"
+    },
+    {
+      "id": "surgical-wounds-20260424",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Control de infecciones en heridas quirúrgicas de hospitales rurales",
+      "headline_en": "Infection Control in Surgical Wounds at Rural Hospitals",
+      "summary_es": "Las estrategias dirigidas de control de infecciones mejoran la eficiencia en hospitales rurales. Estas intervenciones reducen complicaciones postquirúrgicas y alivian la presión asistencial.",
+      "body_es": "Según un artículo de Medical Economics, los hospitales rurales enfrentan desafíos especiales en el control de infecciones de heridas quirúrgicas. Las estrategias dirigidas de control de infecciones mejoran significativamente los resultados clínicos. El protocolo incluye: evaluación preoperatoria de factores de riesgo, profilaxis antibiótica adecuada antes de la cirugía, mantenimiento de la temperatura corporal durante la intervención, y cuidado postoperatorio de la herida. El personal debe reconocer los signos de eritema, exudado purulento, y edema que indican infección. El desbridamiento temprano de tejido necrótico previene la progresión. Los apósitos estériles cambiados regularmente reducen la contaminación. Estas intervenciones sistemáticas reducen readmisiones hospitalarias. El control de infecciones beneficia a toda la comunidad sanitaria rural.",
+      "body_en": "According to an article in Medical Economics, rural hospitals face special challenges in infection control of surgical wounds. Targeted infection control strategies significantly improve clinical outcomes. The protocol includes: preoperative assessment of risk factors, appropriate antibiotic prophylaxis before surgery, maintenance of body temperature during intervention, and postoperative wound care. Staff must recognize signs of erythema, purulent exudate, and edema indicating infection. Early debridement of necrotic tissue prevents progression. Sterile dressings changed regularly reduce contamination. These systematic interventions reduce hospital readmissions. Infection control benefits the entire rural healthcare community.",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWnVvSVVoZzJzYllvNmdfcDNYbXBONk1ER2ZpWnRfQWl5Tmc4WnNoT081ZURWTkg3T2hPdWpBbzltMjJ5X3RvOXRPcU9iM3daU1o5YmlQWE9URGdjZEhsRmllbEQ4MWsxcTJXdTgxOENWSHQyRE5KakNiVjZEOWRiY0lIZnpwZ1ZtRGZ3X2FWc2t6WW5lQWxGWjQ0TkU4dUdYSHJaNE5MSi12dC0yN3pid1QyNll0UzJRVDVvajJwZnlSSXVPdWF3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-24/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión hecha durante una intervención quirúrgica",
+          "definition_en": "surgical wound - incision made during surgery"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel por inflamación",
+          "definition_en": "erythema - redness of skin due to inflammation"
+        },
+        {
+          "word": "exudado purulento",
+          "definition_es": "líquido con pus que sale de una herida infectada",
+          "definition_en": "purulent exudate - fluid with pus from infected wound"
+        },
+        {
+          "word": "profilaxis",
+          "definition_es": "tratamiento preventivo para evitar enfermedad",
+          "definition_en": "prophylaxis - preventive treatment to avoid disease"
+        }
+      ],
+      "added_at": "2026-04-24T09:38:26.775803Z"
+    },
+    {
+      "id": "wound-research-20260424",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "USC y Tempus colaboran para innovar en investigación de curación",
+      "headline_en": "USC and Tempus Collaborate to Innovate in Wound Care Research",
+      "summary_es": "La Universidad de Southern California y Tempus forman alianza estratégica para acelerar investigación en curación de heridas. La colaboración integra datos clínicos avanzados con tratamientos innovadores.",
+      "body_es": "La Escuela de Medicina Keck de la Universidad de Southern California (USC) anuncia una colaboración estratégica con Tempus para transformar la investigación y la atención del paciente. Esta asociación utiliza tecnología de análisis de datos avanzados para estudiar heridas crónicas y complicadas. Los investigadores combinan datos clínicos de grandes poblaciones de pacientes con inteligencia artificial. Esto permite identificar patrones en la cicatrización y factores de riesgo de infección. La colaboración desarrolla protocolos basados en evidencia para diferentes tipos de heridas. Estudian la granulación, epitelización, y factores que afectan la curación. Los resultados de esta investigación mejoran los tratamientos disponibles. También crean nuevas opciones terapéuticas para heridas difíciles de tratar.",
+      "body_en": "The Keck School of Medicine at the University of Southern California (USC) announces a strategic collaboration with Tempus to transform research and patient care. This partnership uses advanced data analytics technology to study chronic and complex wounds. Researchers combine clinical data from large patient populations with artificial intelligence. This allows identification of patterns in wound healing and infection risk factors. The collaboration develops evidence-based protocols for different wound types. They study granulation, epithelialization, and factors affecting healing. The results of this research improve available treatments. They also create new therapeutic options for difficult-to-treat wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUVFVU5ZRTNnNFd0a2dOUWNwMEF4SDRMelZ6OC1tNGxNeVBHdmRxc01VVVgtWlJNM1BDZU9VTkZ2dG1uOWQ2d1BXMVdMVEFaZUFoMzRRcDNxTWVYa2t0cmNhUkQ2b1o4X0phTnVLQl9JZlNpUVpnNi1KSHNyZzB0SVprTVg3WTZtSDFlSE5XVnNTdXU2bHJIR2FPU0hmbENtX2ExT3NOWF9xOUpudHN6Szk4SDI3WVdLTFBOdFB3c1FPZXpSS1dZVUcyS2Y2QkNuNVE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-24/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo con vasos sanguíneos durante la curación",
+          "definition_en": "granulation - formation of new tissue with blood vessels during healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de células epiteliales para cerrar la herida",
+          "definition_en": "epithelialization - growth of epithelial cells to close wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz al cerrarse una herida",
+          "definition_en": "scarring - process of scar formation as wound closes"
+        },
+        {
+          "word": "inteligencia artificial",
+          "definition_es": "tecnología que analiza datos para ayudar en diagnósticos",
+          "definition_en": "artificial intelligence - technology that analyzes data to aid diagnosis"
+        }
+      ],
+      "added_at": "2026-04-24T09:38:26.775803Z"
+    },
     {
       "id": "chronic-wounds-20260423",
       "category": "Chronic Wounds",
@@ -17206,6 +17391,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-23T09:38:23.256491Z",
+  "last_updated": "2026-04-24T09:38:26.775803Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
