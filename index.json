@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-25",
+      "filename": "spanish_lesson_2026-04-25.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-25.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "¿Qué pasa con el asiento del congresista David Scott después de su muerte?",
+          "headline_en": "What happens to Congressman David Scott's seat after his death?",
+          "body_es": "El congresista David Scott de Georgia murió recientemente. Ahora su asiento en el Congreso está vacío. Cuando un congresista muere, hay reglas especiales para llenar su posición. El gobernador de Georgia debe organizar una elección especial. Los ciudadanos votarán por un nuevo representante. Este proceso puede tomar varios meses. Mientras tanto, el distrito de Scott no tiene representación en el Congreso. Scott sirvió muchos años en el Congreso. Era muy respetado por su trabajo. Los votantes de su distrito ahora deben elegir a alguien nuevo. La elección especial es muy importante para la comunidad local.",
+          "body_en": "Georgia Congressman David Scott died recently. Now his seat in Congress is empty. When a congressman dies, there are special rules to fill his position. The governor of Georgia must organize a special election. Citizens will vote for a new representative. This process can take several months. Meanwhile, Scott's district has no representation in Congress. Scott served many years in Congress. He was highly respected for his work. Voters in his district must now choose someone new. The special election is very important for the local community.",
+          "source": "Georgia Public Broadcasting"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Trump tiene problemas con su política de 'perforar más petróleo'",
+          "headline_en": "Trump has problems with his 'drill more oil' policy",
+          "body_es": "Donald Trump quiere perforar más pozos de petróleo en Estados Unidos. Su política se llama 'perforar, bebé, perforar'. Sin embargo, el país tiene problemas con la escasez de combustible. Esto es extraño porque Estados Unidos es el mayor productor de petróleo del mundo. El problema no es la cantidad de petróleo, sino otros factores. Los precios del combustible siguen siendo altos. Las refinerías no pueden procesar todo el petróleo rápidamente. También hay problemas de transporte y distribución. Los expertos dicen que perforar más pozos no resuelve todos los problemas. La política energética es más complicada de lo que parece.",
+          "body_en": "Donald Trump wants to drill more oil wells in the United States. His policy is called 'drill, baby, drill'. However, the country has problems with fuel shortages. This is strange because the United States is the world's largest oil producer. The problem is not the amount of oil, but other factors. Fuel prices remain high. Refineries cannot process all the oil quickly. There are also transportation and distribution problems. Experts say that drilling more wells doesn't solve all problems. Energy policy is more complicated than it seems.",
+          "source": "EL PAÍS English"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "20,000 despidos en Meta y Microsoft preocupan sobre crisis laboral por IA",
+          "headline_en": "20,000 job cuts at Meta and Microsoft raise concerns about AI labor crisis",
+          "body_es": "Las grandes empresas tecnológicas Meta y Microsoft eliminaron 20,000 empleos recientemente. Estos despidos masivos preocupan a muchas personas. Los expertos creen que la inteligencia artificial está causando una crisis laboral. Las máquinas inteligentes pueden hacer el trabajo de muchos empleados. Por eso las empresas necesitan menos trabajadores humanos. Meta es la empresa que controla Facebook e Instagram. Microsoft hace software y computadoras. Ambas empresas dicen que los despidos son necesarios para ser más eficientes. Sin embargo, los trabajadores están muy preocupados. Muchos temen perder sus empleos por culpa de la tecnología. Esta situación puede extenderse a otras industrias pronto.",
+          "body_en": "Major tech companies Meta and Microsoft eliminated 20,000 jobs recently. These massive layoffs worry many people. Experts believe artificial intelligence is causing a labor crisis. Smart machines can do the work of many employees. That's why companies need fewer human workers. Meta is the company that controls Facebook and Instagram. Microsoft makes software and computers. Both companies say the layoffs are necessary to be more efficient. However, workers are very worried. Many fear losing their jobs because of technology. This situation may spread to other industries soon.",
+          "source": "CNBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congresista",
+          "syllables": "con-gre-SIS-ta",
+          "pos": "sustantivo",
+          "context": "El congresista David Scott murió después de muchos años de servicio.",
+          "definition_es": "Persona que forma parte del Congreso",
+          "definition_en": "Member of Congress"
+        },
+        {
+          "word": "asiento",
+          "syllables": "a-SIEN-to",
+          "pos": "sustantivo",
+          "context": "Su asiento en el Congreso quedó vacío después de su muerte.",
+          "definition_es": "Posición o lugar en una organización",
+          "definition_en": "Seat or position"
+        },
+        {
+          "word": "perforar",
+          "syllables": "per-fo-RAR",
+          "pos": "verbo",
+          "context": "La política de Trump es perforar más pozos de petróleo.",
+          "definition_es": "Hacer agujeros en la tierra para extraer petróleo",
+          "definition_en": "To drill"
+        },
+        {
+          "word": "escasez",
+          "syllables": "es-ca-SEZ",
+          "pos": "sustantivo",
+          "context": "Estados Unidos enfrenta una escasez de combustible.",
+          "definition_es": "Falta o poca cantidad de algo necesario",
+          "definition_en": "Shortage"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Los despidos en las empresas tecnológicas preocupan a los trabajadores.",
+          "definition_es": "Acción de quitar el trabajo a los empleados",
+          "definition_en": "Job cuts/layoffs"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando el mercado laboral.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence"
+        },
+        {
+          "word": "productor",
+          "syllables": "pro-duc-TOR",
+          "pos": "sustantivo",
+          "context": "Estados Unidos es el mayor productor de petróleo del mundo.",
+          "definition_es": "País o empresa que fabrica o extrae productos",
+          "definition_en": "Producer"
+        },
+        {
+          "word": "crisis",
+          "syllables": "CRI-sis",
+          "pos": "sustantivo",
+          "context": "Hay una crisis laboral causada por la inteligencia artificial.",
+          "definition_es": "Situación difícil o problemática",
+          "definition_en": "Crisis"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'congresista'?",
+          "options": [
+            "Persona que trabaja en un hospital",
+            "Persona que forma parte del Congreso",
+            "Persona que enseña en la universidad",
+            "Persona que vende productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'escasez'?",
+          "options": [
+            "Abundancia de algo",
+            "Falta o poca cantidad de algo",
+            "Precio alto de algo",
+            "Calidad mala de algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'despidos'?",
+          "options": [
+            "Nuevos empleos",
+            "Aumento de salario",
+            "Acción de quitar el trabajo",
+            "Vacaciones pagadas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'perforar' en el contexto del petróleo?",
+          "options": [
+            "Vender petróleo",
+            "Transportar petróleo",
+            "Hacer agujeros para extraer petróleo",
+            "Refinar petróleo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Quién debe organizar la elección especial para reemplazar al congresista Scott?",
+          "options": [
+            "El presidente",
+            "El gobernador de Georgia",
+            "Los ciudadanos",
+            "El Congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el problema con la política energética de Trump?",
+          "options": [
+            "No hay petróleo en Estados Unidos",
+            "Estados Unidos no puede perforar",
+            "Hay escasez de combustible a pesar de ser gran productor",
+            "El petróleo es muy caro de extraer"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos eliminaron Meta y Microsoft en total?",
+          "options": [
+            "10,000",
+            "15,000",
+            "20,000",
+            "25,000"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué controla la empresa Meta?",
+          "options": [
+            "Google y YouTube",
+            "Facebook e Instagram",
+            "Twitter y TikTok",
+            "Microsoft y Apple"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según los expertos, ¿qué está causando la crisis laboral?",
+          "options": [
+            "La economía mala",
+            "Los precios altos",
+            "La inteligencia artificial",
+            "La pandemia"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuánto tiempo puede tomar el proceso de elección especial?",
+          "options": [
+            "Unas semanas",
+            "Varios meses",
+            "Un año",
+            "Dos años"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-25T09:16:43.493018"
+    },
+    {
       "date": "2026-04-24",
       "filename": "spanish_lesson_2026-04-24.pdf",
       "path": "pdfs/spanish_lesson_2026-04-24.pdf",
@@ -30662,7 +30884,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-24T09:30:33.088076",
+  "last_updated": "2026-04-25T09:16:43.493041",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
