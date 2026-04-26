@@ -1,225 +1,225 @@
 {
-  "date": "2026-04-25",
-  "generated_at": "2026-04-25T09:24:49.646487Z",
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T09:26:34.583243Z",
   "description": "Daily conversation stories for Spanish practice",
   "stories": [
     {
-      "id": "tech-20260425",
+      "id": "tech-20260426",
       "category": "Tecnología",
       "difficulty": "A2",
       "emoji": "🤖",
       "gradient": "blue",
-      "headline_es": "Las Grandes Empresas de Tecnología Reducen Empleados por la Inteligencia Artificial",
-      "headline_en": "Big Tech Companies Cut Jobs Due to Artificial Intelligence",
-      "summary_es": "Meta y Microsoft despiden a 20,000 empleados porque la inteligencia artificial puede hacer más trabajo. Las empresas dicen que necesitan ahorrar dinero.",
-      "body_es": "Meta y Microsoft anuncian cortes grandes de empleados. Meta elimina 20,000 trabajos. Microsoft también reduce su personal. Las empresas dicen que la inteligencia artificial es más eficiente. Un empleado de IA puede hacer el trabajo de muchas personas. Los expertos están preocupados. Dicen que hay una crisis de empleo. La tecnología cambia rápidamente. Muchas personas pierden sus trabajos. Las empresas quieren ahorrar dinero. La inteligencia artificial es más barata que los empleados. Este cambio es importante para el futuro del trabajo. Otros empresas probablemente harán lo mismo.",
-      "body_en": "Meta and Microsoft announce large employee cuts. Meta eliminates 20,000 jobs. Microsoft also reduces its workforce. The companies say that artificial intelligence is more efficient. One AI employee can do the work of many people. Experts are worried. They say there is an employment crisis. Technology changes quickly. Many people lose their jobs. Companies want to save money. Artificial intelligence is cheaper than employees. This change is important for the future of work. Other companies will probably do the same.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-25/tech.mp3",
+      "headline_es": "La Inteligencia Artificial Cambia el Mundo del Trabajo",
+      "headline_en": "Artificial Intelligence Changes the World of Work",
+      "summary_es": "Muchas empresas de tecnología usan la inteligencia artificial para cambiar su negocio. Los expertos dicen que esto afecta a muchos trabajadores en el mundo.",
+      "body_es": "La inteligencia artificial es muy importante ahora en las empresas de tecnología. Muchas compañías como OpenAI y otras grandes empresas usan esta tecnología. Sam Altman, el director de OpenAI, dice que algunas empresas no son honestas. Dicen que usan inteligencia artificial, pero realmente solo despiden trabajadores. Los expertos creen que la inteligencia artificial va a cambiar muchos trabajos. Algunos trabajos van a desaparecer, pero otros trabajos nuevos van a aparecer. Los trabajadores necesitan aprender cosas nuevas para el futuro. Las empresas deben ser honestas sobre cómo usan esta tecnología.",
+      "body_en": "Artificial intelligence is very important now in technology companies. Many companies like OpenAI and other large corporations use this technology. Sam Altman, the CEO of OpenAI, says that some companies are not honest. They say they use artificial intelligence, but they really just fire workers. Experts believe that artificial intelligence is going to change many jobs. Some jobs will disappear, but other new jobs will appear. Workers need to learn new things for the future. Companies must be honest about how they use this technology.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-26/tech.mp3",
       "key_vocabulary": [
         {
-          "word": "despedir",
-          "definition_es": "eliminar el trabajo de una persona",
-          "definition_en": "to fire or lay off an employee"
-        },
-        {
           "word": "inteligencia artificial",
-          "definition_es": "máquinas que pueden pensar como personas",
-          "definition_en": "machines that can think like people"
+          "definition_es": "tecnología que imita la inteligencia humana",
+          "definition_en": "technology that imitates human intelligence"
         },
         {
-          "word": "eficiente",
-          "definition_es": "que hace el trabajo bien y rápido",
-          "definition_en": "working well and quickly"
+          "word": "despedir",
+          "definition_es": "decirle a un trabajador que ya no tiene su trabajo",
+          "definition_en": "to tell a worker they no longer have their job"
         },
         {
-          "word": "ahorrar",
-          "definition_es": "guardar dinero para el futuro",
-          "definition_en": "to save money"
+          "word": "empresa",
+          "definition_es": "compañía o negocio",
+          "definition_en": "company or business"
+        },
+        {
+          "word": "honesto",
+          "definition_es": "sincero, que dice la verdad",
+          "definition_en": "sincere, truthful"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-25/tech-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste el chisme tech? Meta y Microsoft andan recortando gente por la IA.  \nCARLOS: Sí, no manches… Meta dicen que tumbó como 20 mil puestos. Está cañón.  \nLAURA: ¡¿VEINTE MIL?! Eso ya no es “ajuste”, es “borrón y cuenta nueva”.  \nCARLOS: Y Microsoft también bajando personal. Según ellos, la IA “rinde más” y hace el trabajo de varias personas.  \nLAURA: Ajá, o sea: “gracias por tu esfuerzo, te reemplazó un robot que no pide aguinaldo”.  \nCARLOS: Exacto. Y los expertos están preocupados, dicen que se viene crisis de empleo porque todo cambia rapidísimo.  \nLAURA: Qué estrés. Pero… también qué loco: la IA es más barata, y las empresas quieren ahorrar, obvio.  \nCARLOS: Lo feo es que otras compañías van a copiar la jugada, ya huele a efecto dominó.  \nLAURA: Entonces, ¿qué hacemos? ¿Aprender a usar IA antes de que nos use a nosotros?  \nCARLOS: Justo. Tú pon el café y yo pongo el prompt: “IA, consíguenos chamba”."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-26/tech-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste el chisme tech? La IA está cambiando el trabajo cañón.  \nCARLOS: Sí, y no solo “cambiando”… hay empresas que la usan de pretexto, ¿no?  \nLAURA: ¡No manches! Sam Altman dijo que algunas dicen “tenemos IA” y nomás… ¡pum! despidos.  \nCARLOS: Ajá, como “innovación” pero en realidad recorte. Eso sí está gacho.  \nLAURA: Pero también dicen que van a salir trabajos nuevos. ¡Qué padre!… aunque da nervio.  \nCARLOS: Total. Va a desaparecer chamba repetitiva, pero van a necesitar gente que sepa usarla y revisarla.  \nLAURA: O sea, toca aprender cosas nuevas: prompts, datos, lo que sea.  \nCARLOS: Y las empresas: transparencia. No se vale vender humo con “IA” para quedar bien.  \nLAURA: Exacto, que digan: “la usamos para esto”, no “para correr gente”.  \nCARLOS: Mira, si la IA me hace el Excel… yo feliz.  \nLAURA: Y si además me trae café, ya me caso con el robot. ¡Vámonos!"
     },
     {
-      "id": "sports-20260425",
+      "id": "sports-20260426",
       "category": "Deportes",
       "difficulty": "A2",
       "emoji": "⚽",
       "gradient": "green",
-      "headline_es": "El Increíble Verano de James Rodríguez Entra en la Historia del Fútbol",
-      "headline_en": "James Rodríguez's Incredible Summer Joins Football History",
-      "summary_es": "James Rodríguez, el famoso futbolista colombiano, tiene un verano espectacular. Sus actuaciones entran en la lista de los mejores momentos del fútbol mundial.",
-      "body_es": "James Rodríguez tiene un verano increíble. El futbolista colombiano juega muy bien. Sus goles y pases son excelentes. Los expertos dicen que es uno de los mejores jugadores de este año. James marca muchos goles. Sus compañeros lo apoyan mucho. Los aficionados lo aman. Este verano es especial para James. Entra en la historia del fútbol mundial. Los momentos de la Copa Mundial son memorables. James demuestra su talento en cada partido. El equipo gana porque James juega muy bien. Los árbitros ven su pasión. Es un jugador importante para el fútbol.",
-      "body_en": "James Rodríguez has an incredible summer. The Colombian footballer plays very well. His goals and passes are excellent. Experts say he is one of the best players this year. James scores many goals. His teammates support him a lot. Fans love him. This summer is special for James. He enters world football history. World Cup moments are memorable. James demonstrates his talent in every match. The team wins because James plays very well. Referees see his passion. He is an important player for football.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-25/sports.mp3",
+      "headline_es": "La Primavera es el Momento Perfecto para Practicar Deportes",
+      "headline_en": "Spring is the Perfect Time to Practice Sports",
+      "summary_es": "En Bradenton, muchas personas se inscriben en programas de deportes durante la primavera. Es una buena época para aprender nuevas actividades deportivas.",
+      "body_es": "La primavera es una estación excelente para practicar deportes. En Bradenton, Florida, hay muchas opciones para los amantes del deporte. Puedes jugar fútbol, básquetbol, voleibol y muchas otras actividades. Los programas de primavera comienzan en marzo y abril. Es importante inscribirse temprano porque los lugares se llenan rápido. Los entrenadores profesionales enseñan técnicas correctas a los jugadores nuevos. El clima cálido y agradable es perfecto para actividades al aire libre. Toda la familia puede participar en estos programas de deportes. Hacer deporte es bueno para la salud y también es divertido.",
+      "body_en": "Spring is an excellent season to practice sports. In Bradenton, Florida, there are many options for sports lovers. You can play soccer, basketball, volleyball and many other activities. Spring programs begin in March and April. It's important to sign up early because spots fill up quickly. Professional coaches teach correct techniques to new players. The warm and pleasant weather is perfect for outdoor activities. The whole family can participate in these sports programs. Doing sports is good for your health and it's also fun.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-26/sports.mp3",
       "key_vocabulary": [
         {
-          "word": "futbolista",
-          "definition_es": "persona que juega al fútbol",
-          "definition_en": "a football player"
+          "word": "inscribirse",
+          "definition_es": "registrarse en un programa o actividad",
+          "definition_en": "to register for a program or activity"
         },
         {
-          "word": "gol",
-          "definition_es": "punto que se marca en el fútbol",
-          "definition_en": "a point scored in football"
+          "word": "entrenador",
+          "definition_es": "persona que enseña un deporte",
+          "definition_en": "person who teaches a sport"
         },
         {
-          "word": "talento",
-          "definition_es": "habilidad natural para hacer algo bien",
-          "definition_en": "natural ability to do something well"
+          "word": "primavera",
+          "definition_es": "estación del año entre el invierno y el verano",
+          "definition_en": "season of the year between winter and summer"
         },
         {
-          "word": "aficionados",
-          "definition_es": "personas que aman un deporte o equipo",
-          "definition_en": "fans or enthusiasts"
+          "word": "clima",
+          "definition_es": "condiciones de temperatura y tiempo en un lugar",
+          "definition_en": "conditions of temperature and weather in a place"
         }
       ]
     },
     {
-      "id": "culture-20260425",
+      "id": "culture-20260426",
       "category": "Cultura",
       "difficulty": "B1",
       "emoji": "🎬",
       "gradient": "purple",
-      "headline_es": "¿Qué Revela la Dominancia Cultural de Michael Jackson Sobre Nosotros?",
-      "headline_en": "What Michael Jackson's Cultural Dominance Reveals About Us",
-      "summary_es": "Una nueva perspectiva sobre Michael Jackson analiza cómo su influencia en la música y la cultura popular refleja nuestros valores y obsesiones como sociedad.",
-      "body_es": "Michael Jackson fue uno de los artistas más influyentes del siglo XX. Su música y sus videos revolucionaron la industria del entretenimiento. Cuando analizamos su dominio cultural, aprendemos sobre nosotros mismos. Jackson representaba innovación y perfección artística. Los fanáticos lo seguían fervientemente porque ofrecía escapes de la realidad. Su estilo de baile cambió el lenguaje del movimiento corporal. Sus canciones abordaban temas sociales importantes como la paz y la igualdad. Sin embargo, su vida personal fue complicada y controvertida. Los críticos señalan que nuestra fascinación con Jackson reveló nuestra tendencia a idealizar a los artistas. Ignorábamos sus defectos porque disfrutábamos de su arte. Esta paradoja muestra cómo la cultura de masas nos permite separar al artista de la persona. La investigación sobre Jackson continúa siendo relevante para entender la sociedad moderna.",
-      "body_en": "Michael Jackson was one of the most influential artists of the twentieth century. His music and videos revolutionized the entertainment industry. When we analyze his cultural dominance, we learn about ourselves. Jackson represented innovation and artistic perfection. Fans followed him fervently because he offered escapes from reality. His dance style changed the language of body movement. His songs addressed important social issues like peace and equality. However, his personal life was complicated and controversial. Critics point out that our fascination with Jackson revealed our tendency to idealize artists. We ignored his flaws because we enjoyed his art. This paradox shows how mass culture allows us to separate the artist from the person. Research on Jackson continues to be relevant for understanding modern society.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-25/culture.mp3",
+      "headline_es": "La Película 'El Graduado' Sigue Siendo un Ícono Cultural 58 Años Después",
+      "headline_en": "'The Graduate' Remains a Cultural Icon 58 Years Later",
+      "summary_es": "La película 'El Graduado' lanzó la carrera de Dustin Hoffman y se convirtió en un clásico de cine que define una generación. Su impacto cultural persiste hasta hoy.",
+      "body_es": "Hace 58 años, 'El Graduado' revolucionó el cine estadounidense y cambió la vida de Dustin Hoffman. La película cuenta la historia de un joven que regresa a casa después de graduarse de la universidad. Se ve atrapado en una situación complicada con una mujer mayor y su hija. Hoffman ganó reconocimiento internacional gracias a este papel icónico. La cinematografía y la música de la película se convirtieron en símbolos de una era. La canción 'Mrs. Robinson' de Simon & Garfunkel se hizo famosa en todo el mundo. La película abordaba temas que muchos jóvenes enfrentaban en ese momento. Aunque han pasado décadas, el mensaje de la película sigue siendo relevante para las audiencias modernas. 'El Graduado' es considerada una de las mejores películas de todos los tiempos.",
+      "body_en": "58 years ago, 'The Graduate' revolutionized American cinema and changed the life of Dustin Hoffman. The film tells the story of a young man who returns home after graduating from university. He finds himself trapped in a complicated situation with an older woman and her daughter. Hoffman gained international recognition thanks to this iconic role. The cinematography and music of the film became symbols of an era. The song 'Mrs. Robinson' by Simon & Garfunkel became famous around the world. The film addressed themes that many young people faced at that time. Although decades have passed, the film's message remains relevant to modern audiences. 'The Graduate' is considered one of the best films of all time.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-26/culture.mp3",
       "key_vocabulary": [
         {
-          "word": "influyente",
-          "definition_es": "que tiene poder para cambiar opiniones o acciones",
-          "definition_en": "having power to change opinions or actions"
+          "word": "revolucionar",
+          "definition_es": "cambiar completamente algo de manera importante",
+          "definition_en": "to change something completely in an important way"
         },
         {
-          "word": "revolucionó",
-          "definition_es": "cambió completamente una cosa",
-          "definition_en": "changed something completely"
+          "word": "atrapado",
+          "definition_es": "que no puede escapar de una situación difícil",
+          "definition_en": "unable to escape from a difficult situation"
         },
         {
-          "word": "ferviente",
-          "definition_es": "con mucho entusiasmo y pasión",
-          "definition_en": "with great enthusiasm and passion"
+          "word": "icónico",
+          "definition_es": "que representa algo importante o característico de una época",
+          "definition_en": "representing something important or characteristic of an era"
         },
         {
-          "word": "paradoja",
-          "definition_es": "situación que contiene dos ideas contradictorias",
-          "definition_en": "a situation containing contradictory ideas"
+          "word": "relevante",
+          "definition_es": "que tiene importancia o conexión con algo actual",
+          "definition_en": "having importance or connection to something current"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-25/culture-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, ¿viste el titular? “¿Qué revela la dominancia cultural de Michael Jackson sobre nosotros?” ¡Qué intenso!  \nCARLOS: Jajaja sí, pero está buenísimo. O sea, el vato no solo cantaba, era un fenómeno.  \nLAURA: ¡No manches! Sus videos eran mini películas. “Thriller” me sigue dando vibra.  \nCARLOS: Y su baile… literal cambió cómo entendemos el cuerpo. El moonwalk es idioma universal.  \nLAURA: Ajá, y la gente lo seguía porque era como escaparte de la realidad, ¿no?  \nCARLOS: Total. Pero también dice que lo idealizábamos cañón… como “no veo, no escucho” con sus broncas.  \nLAURA: Uf, sí. Separar artista de persona: cómodo, pero raro.  \nCARLOS: Y aun así, sus rolas tocaban temas de paz, igualdad… no era puro glitter.  \nLAURA: ¿Entonces qué revela de nosotros? Que amamos la perfección… aunque sea inventada.  \nCARLOS: Y que el chisme vende, pero el coro de “Billie Jean” gana. ¿Un cafecito y ponemos MJ?"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-26/culture-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿te enteraste? ¡“El Graduado” sigue siendo un ícono… 58 años después!  \nCARLOS: ¿Cincuenta y ocho? No manches, esa peli ya tiene abuelito y aún pega.  \nLAURA: Sí, y literal cambió la vida de Dustin Hoffman. De “¿y éste quién?” a estrella mundial.  \nCARLOS: Es que el personaje está bien perdido: regresa de la uni y ¡pum! se mete en un mega enredo con una señora y luego con la hija.  \nLAURA: ¡Qué telenovela, pero con arte! Y la música… “Mrs. Robinson” se te queda pegada cañón.  \nCARLOS: Simon & Garfunkel hicieron magia. Y la foto, la cinematografía, todo se siente como “época”.  \nLAURA: Lo más loco es que habla de ansiedad, presión, futuro… o sea, nosotros ahorita.  \nCARLOS: Tal cual: “¿y ahora qué hago con mi vida?” versión 1967.  \nLAURA: Ya me dieron ganas de verla hoy, con cafecito y chismecito.  \nCARLOS: Va, pero si cantas “Mrs. Robinson” en el café, yo me hago el que no te conozco."
     },
     {
-      "id": "economy-20260425",
+      "id": "economy-20260426",
       "category": "Economía",
       "difficulty": "B1",
-      "emoji": "📈",
-      "gradient": "green",
-      "headline_es": "Intel Tiene Su Mejor Día desde 1987, Impulsando los Mercados Globales",
-      "headline_en": "Intel's Best Day Since 1987 Leads Global Markets Higher",
-      "summary_es": "Las acciones de Intel alcanzan su mayor aumento en casi cuarenta años, reflejando optimismo sobre la tecnología y conduciendo a nuevos récords en los mercados de valores mundiales.",
-      "body_es": "Intel experimentó su mejor día de cotización desde 1987. La empresa de procesadores anunció resultados financieros positivos. Los inversores respondieron comprando acciones masivamente. Este crecimiento elevó los índices bursátiles en todo el mundo. El mercado estadounidense alcanzó nuevos récords. Los analistas atribuyen el aumento a la confianza en el sector tecnológico. Intel ha invertido en nuevas tecnologías de chips. La demanda de semiconductores sigue siendo alta. Los expertos predicen que si Intel mantiene este rendimiento, otros fabricantes de tecnología también subirán. El mercado global reacciona positivamente a las noticias económicas favorables. Los inversionistas consideran que Intel representa el futuro. Este movimiento sugiere que el sector tecnológico seguirá siendo fundamental. Los mercados esperan más crecimiento en los próximos trimestres.",
-      "body_en": "Intel experienced its best trading day since 1987. The processor company announced positive financial results. Investors responded by buying shares massively. This growth raised stock indices worldwide. The US market reached new records. Analysts attribute the increase to confidence in the technology sector. Intel has invested in new chip technologies. Demand for semiconductors remains high. Experts predict that if Intel maintains this performance, other technology manufacturers will also rise. The global market reacts positively to favorable economic news. Investors consider Intel to represent the future. This movement suggests that the technology sector will remain fundamental. Markets expect more growth in the coming quarters.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-25/economy.mp3",
+      "emoji": "💰",
+      "gradient": "gold",
+      "headline_es": "El Crecimiento del PIB Podría Continuar Entre el 7-8% si Mejora la Situación Global",
+      "headline_en": "GDP Growth Could Continue Between 7-8% if Global Situation Improves",
+      "summary_es": "Los analistas económicos predicen que el crecimiento del PIB seguirá siendo fuerte en los próximos trimestres, siempre que los conflictos internacionales no afecten la economía.",
+      "body_es": "Ashwini Shami, una economista reconocida, ha expresado su optimismo sobre el crecimiento económico futuro. Ella espera que el PIB mantenga su impulso en un rango entre el 7% y el 8% durante los próximos años. Este crecimiento sería beneficioso para el empleo y la inversión en el país. Sin embargo, los expertos advierten que hay riesgos externos que podrían afectar estas predicciones. Los conflictos geopolíticos y las tensiones comerciales internacionales podrían ralentizar el desarrollo económico. Shami subraya la importancia de mantener políticas económicas estables. Las empresas necesitan confianza para invertir en nuevos proyectos. Los mercados de bonos corporativos deben fortalecerse para atraer más capital. Si se logra mantener la estabilidad política y económica, la perspectiva de crecimiento es bastante positiva.",
+      "body_en": "Ashwini Shami, a recognized economist, has expressed her optimism about future economic growth. She expects GDP to maintain its momentum in a range between 7% and 8% over the coming years. This growth would be beneficial for employment and investment in the country. However, experts warn that there are external risks that could affect these predictions. Geopolitical conflicts and international trade tensions could slow down economic development. Shami emphasizes the importance of maintaining stable economic policies. Companies need confidence to invest in new projects. Corporate bond markets must strengthen to attract more capital. If political and economic stability can be maintained, the growth outlook is quite positive.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-26/economy.mp3",
       "key_vocabulary": [
         {
-          "word": "cotización",
-          "definition_es": "precio de una acción en el mercado",
-          "definition_en": "the price of a stock in the market"
+          "word": "PIB",
+          "definition_es": "Producto Interno Bruto, el valor total de bienes y servicios producidos en un país",
+          "definition_en": "Gross Domestic Product, the total value of goods and services produced in a country"
         },
         {
-          "word": "inversores",
-          "definition_es": "personas que ponen dinero en empresas para ganar beneficios",
-          "definition_en": "people who invest money in companies to make profits"
+          "word": "impulso",
+          "definition_es": "movimiento o fuerza que mantiene el crecimiento",
+          "definition_en": "movement or force that maintains growth"
         },
         {
-          "word": "semiconductores",
-          "definition_es": "materiales que conducen electricidad parcialmente",
-          "definition_en": "materials that partially conduct electricity"
+          "word": "estabilidad",
+          "definition_es": "situación donde las cosas no cambian de manera brusca",
+          "definition_en": "situation where things do not change abruptly"
         },
         {
-          "word": "rendimiento",
-          "definition_es": "resultado o producto de una acción",
-          "definition_en": "result or performance of an action"
+          "word": "capital",
+          "definition_es": "dinero o recursos que se invierten en negocios",
+          "definition_en": "money or resources that are invested in businesses"
         }
       ]
     },
     {
-      "id": "environment-20260425",
+      "id": "environment-20260426",
       "category": "Medio Ambiente",
       "difficulty": "B2",
       "emoji": "🌍",
-      "gradient": "teal",
-      "headline_es": "El Cambio Climático Impulsa a los Castores hacia el Norte, Transformando el Ártico",
-      "headline_en": "Climate Change Drives Beavers North and Reshapes the Arctic",
-      "summary_es": "La migración de castores hacia regiones árticas, causada por el cambio climático, está reconfigurando los ecosistemas boreales y tiene profundas implicaciones para la biodiversidad regional.",
-      "body_es": "El cambio climático está provocando que los castores migren hacia el norte, alcanzando regiones del Ártico donde históricamente no habitaban. A medida que las temperaturas suben, los bosques se expanden hacia latitudes más altas, proporcionando el hábitat necesario para estas especies. Los castores son ingenieros del ecosistema: construyen represas que transforman ríos y humedales. Sus actividades modifican dramáticamente los paisajes acuáticos, creando nuevos hábitats para peces y aves. Sin embargo, esta expansión también presenta desafíos significativos. Los científicos advierten que, aunque estos cambios podrían beneficiar algunas especies, es probable que alteren negativamente las dinámicas ecológicas delicadamente equilibradas del Ártico. La proliferación de castores podría afectar las poblaciones de especies nativas que dependen de condiciones específicas. Los investigadores realizan estudios para comprender cómo esta invasión biológica impactará la biodiversidad ártica a largo plazo. El fenómeno ilustra cómo el cambio climático no solo eleva temperaturas, sino que también genera cascadas ecológicas impredecibles.",
-      "body_en": "Climate change is causing beavers to migrate northward, reaching Arctic regions where they historically did not inhabit. As temperatures rise, forests expand toward higher latitudes, providing necessary habitat for these species. Beavers are ecosystem engineers: they build dams that transform rivers and wetlands. Their activities dramatically modify aquatic landscapes, creating new habitats for fish and birds. However, this expansion also presents significant challenges. Scientists warn that, although these changes could benefit some species, they are likely to negatively alter the delicately balanced ecological dynamics of the Arctic. The proliferation of beavers could affect native species populations that depend on specific conditions. Researchers conduct studies to understand how this biological invasion will impact Arctic biodiversity long-term. The phenomenon illustrates how climate change not only raises temperatures but also generates unpredictable ecological cascades.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-25/environment.mp3",
+      "gradient": "green",
+      "headline_es": "Los Comportamientos Anómalos de los Árboles de Hong Kong Intriga a los Botánicos",
+      "headline_en": "Anomalous Behavior of Hong Kong Trees Intrigues Botanists",
+      "summary_es": "Científicos de Hong Kong investigan cambios extraños en el comportamiento de ciertos árboles, posiblemente vinculados a factores ambientales y climáticos que requieren mayor estudio.",
+      "body_es": "Los botánicos en Hong Kong han comenzado a investigar fenómenos inusuales en el comportamiento de varios árboles autóctonos de la región. Aunque los detalles específicos de estos cambios aún se encuentran bajo investigación, los expertos sospechan que podrían estar relacionados con alteraciones en el clima y las condiciones ambientales locales. Algunos árboles muestran patrones de floración irregular, mientras que otros exhiben un desarrollo foliar anómalo. La deforestación y la urbanización acelerada han modificado significativamente los ecosistemas naturales de Hong Kong. Los investigadores temen que, si estas tendencias continúan sin intervención, la biodiversidad de la región podría verse comprometida. Se requieren estudios más profundos para determinar si estos cambios son permanentes o reversibles. La comprensión de estos fenómenos es crucial para desarrollar estrategias de conservación efectivas. Los botánicos abogan por que se asignen más recursos para monitorear y proteger la flora local. Estos descubrimientos subrayan la interconexión entre la salud ambiental y la supervivencia de especies.",
+      "body_en": "Botanists in Hong Kong have begun investigating unusual phenomena in the behavior of several native trees in the region. Although the specific details of these changes are still under investigation, experts suspect they may be related to alterations in local climate and environmental conditions. Some trees show patterns of irregular flowering, while others exhibit anomalous leaf development. Deforestation and accelerated urbanization have significantly modified the natural ecosystems of Hong Kong. Researchers fear that if these trends continue without intervention, the region's biodiversity could be compromised. Further studies are needed to determine whether these changes are permanent or reversible. Understanding these phenomena is crucial for developing effective conservation strategies. Botanists advocate for more resources to be allocated to monitor and protect local flora. These discoveries underscore the interconnection between environmental health and species survival.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-26/environment.mp3",
       "key_vocabulary": [
         {
-          "word": "migración",
-          "definition_es": "movimiento de animales de un lugar a otro, generalmente por cambios ambientales",
-          "definition_en": "movement of animals from one place to another, usually due to environmental changes"
+          "word": "autóctono",
+          "definition_es": "originario o nativo de un lugar específico",
+          "definition_en": "native or originating from a specific place"
         },
         {
-          "word": "ingenieros del ecosistema",
-          "definition_es": "especies que modifican significativamente su entorno natural",
-          "definition_en": "species that significantly modify their natural environment"
+          "word": "fenómeno",
+          "definition_es": "hecho o acontecimiento notable que se observa en la naturaleza",
+          "definition_en": "notable fact or event that is observed in nature"
         },
         {
-          "word": "represas",
-          "definition_es": "estructuras construidas para bloquear el flujo de agua",
-          "definition_en": "structures built to block the flow of water"
+          "word": "biodiversidad",
+          "definition_es": "variedad de organismos vivos en un ecosistema",
+          "definition_en": "variety of living organisms in an ecosystem"
         },
         {
-          "word": "cascadas ecológicas",
-          "definition_es": "series de cambios en cadena que ocurren en un ecosistema",
-          "definition_en": "series of chain reactions that occur in an ecosystem"
+          "word": "reversible",
+          "definition_es": "que puede volver a su estado anterior o original",
+          "definition_en": "able to return to its previous or original state"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-25/environment-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? ¡Los castores se están yendo al Ártico por el cambio climático!  \nCARLOS: ¿En serio? No manches… o sea, ¿castores con chamarra y todo?  \nLAURA: Casi casi. Como ya hace menos frío, los bosques suben más al norte y ellos dicen: “aquí es mi nuevo depa”.  \nCARLOS: Y luego llegan y… represa por aquí, represa por allá. Son los arquitectos del río.  \nLAURA: ¡Qué padre! Bueno… padre y peligroso. Porque cambian todo: hacen humedales nuevos, llegan peces, aves…  \nCARLOS: Sí, pero el Ártico es bien delicado. Si alteras el flujo del agua, puedes fregar especies que dependen de hielo y tundra.  \nLAURA: O sea, los castores ni la deben ni la temen, pero terminan armando un caos ecológico.  \nCARLOS: Exacto, cascadas raras: más agua estancada, más calor local, y cambia la biodiversidad.  \nLAURA: Los científicos andan viendo qué tanto pega a largo plazo… mientras los castores: “yo nomás construyo”.  \nCARLOS: Moraleja: el clima cambia y hasta los castores se ponen en modo colonizador. ¿Un cafecito antes de que hagan una represa aquí?"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-26/environment-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste lo de Hong Kong? ¡Los árboles se están portando rarísimo!  \nCARLOS: ¿Árboles con actitud? A ver, cuenta.  \nLAURA: Sí, botánicos dicen que unos florecen cuando no toca y otros sacan hojas bien… raras.  \nCARLOS: No manches. Suena a que el clima anda haciendo de las suyas.  \nLAURA: Exacto, creen que es por cambios ambientales y todo ese rollo de urbanización.  \nCARLOS: Pues sí, entre edificios y menos bosque, los pobres árboles dicen: “¿y mi casa, qué?”  \nLAURA: ¡Tal cual! Y los expertos están preocupados por la biodiversidad, o sea, que se afecte todo.  \nCARLOS: Es que un árbol loco hoy, y mañana… pájaros sin comida, insectos perdidos, cadena completa.  \nLAURA: Ajá, y piden más recursos para monitorear y proteger la flora local.  \nCARLOS: O sea: menos cemento, más arbolitos.  \nLAURA: Brindemos por eso… y por árboles que florezcan cuando quieran, pero con salud. ¡Salud!"
     },
     {
-      "id": "gastronomy-20260425",
+      "id": "gastronomy-20260426",
       "category": "Gastronomía",
       "difficulty": "B2",
       "emoji": "🍽️",
       "gradient": "orange",
-      "headline_es": "Sabores Globales en Roma: Dentro del Restaurante INEO con el Chef Heros De Agostinis",
-      "headline_en": "Global Flavors in Rome: Inside INEO Restaurant with Chef Heros De Agostinis",
-      "summary_es": "El chef Heros De Agostinis presenta una visión revolucionaria de la gastronomía contemporánea en su restaurante INEO, fusionando técnicas tradicionales italianas con influencias culinarias mundiales.",
-      "body_es": "El restaurante INEO, ubicado en el corazón de Roma, representa una nueva filosofía culinaria que desafía las convenciones tradicionales. El chef Heros De Agostinis ha construido una reputación impresionante al reinterpretar ingredientes clásicos italianos mediante técnicas innovadoras. Su enfoque no es simplemente combinar sabores, sino crear diálogos entre culturas gastronómicas distintas. Cada plato en INEO cuenta una historia que conecta la herencia culinaria italiana con influencias de Asia, África y América Latina. De Agostinis utiliza ingredientes locales de la región de Lacio, pero los prepara considerando perspectivas globales. La presentación de sus creaciones refleja meticulosidad artística, donde cada elemento tiene propósito estético y gustativo. Los críticos gastronómicos han elogiado su capacidad para equilibrar complejidad con accesibilidad. Aunque su cocina es sofisticada, no sacrifica la calidez ni la autenticidad. El restaurante ha merecido reconocimiento en la prestigiosa Guía Michelin. La propuesta de INEO sugiere que la cocina contemporánea prospera cuando abraza la diversidad cultural sin olvidar sus raíces regionales. De Agostinis continúa explorando nuevas combinaciones que amplían los límites de la gastronomía moderna.",
-      "body_en": "The INEO restaurant, located in the heart of Rome, represents a new culinary philosophy that challenges traditional conventions. Chef Heros De Agostinis has built an impressive reputation by reinterpreting classic Italian ingredients through innovative techniques. His approach is not simply to combine flavors, but to create dialogues between distinct gastronomic cultures. Each dish at INEO tells a story that connects Italian culinary heritage with influences from Asia, Africa, and Latin America. De Agostinis uses local ingredients from the Lazio region, but prepares them considering global perspectives. The presentation of his creations reflects artistic meticulousness, where each element has aesthetic and gustatory purpose. Food critics have praised his ability to balance complexity with accessibility. Although his cuisine is sophisticated, it does not sacrifice warmth or authenticity. The restaurant has earned recognition in the prestigious Michelin Guide. INEO's proposal suggests that contemporary cuisine thrives when it embraces cultural diversity without forgetting its regional roots. De Agostinis continues exploring new combinations that expand the boundaries of modern gastronomy.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-25/gastronomy.mp3",
+      "headline_es": "La Cocina Filipina Sale de la Sombra en Japón Gracias a Nuevos Restaurantes",
+      "headline_en": "Filipino Cuisine Emerges from the Shadows in Japan Thanks to New Restaurants",
+      "summary_es": "A pesar de una gran comunidad filipina en Japón, su gastronomía ha permanecido infrarrepresentada comparada con cocinas tailandesa y vietnamita, pero una nueva ola de restaurantes está cambiando esta realidad.",
+      "body_es": "Durante décadas, la cocina filipina ha estado en gran medida ausente del panorama culinario japonés, a pesar de que existe una comunidad filipina significativa en el país. Mientras que la gastronomía tailandesa y vietnamita han disfrutado de una proliferación de restaurantes y reconocimiento popular, la cocina filipina ha permanecido en una posición de relativa invisibilidad. Sin embargo, recientemente ha habido un cambio notable en esta tendencia. Nuevos establecimientos gastronómicos han comenzado a introducir platos auténticos filipinos a las mesas japonesas, combinando sabores tradicionales con presentaciones modernas. Estos restaurantes ofrecen desde adobo hasta sinigang, permitiendo que los comensales japoneses descubran la riqueza culinaria de las Filipinas. Los propietarios de estos negocios sostienen que la cocina filipina merece mayor reconocimiento internacional. La estrategia incluye no solo servir comida auténtica, sino también educar a los clientes sobre la historia cultural detrás de cada plato. Este movimiento representa una oportunidad para que la diáspora filipina comparta su patrimonio culinario. Si esta tendencia continúa, es probable que la cocina filipina se posicione como una opción gastronómica prominente en Japón.",
+      "body_en": "For decades, Filipino cuisine has been largely absent from the Japanese culinary landscape, despite the existence of a significant Filipino community in the country. While Thai and Vietnamese gastronomy have enjoyed a proliferation of restaurants and popular recognition, Filipino cuisine has remained in a position of relative invisibility. However, recently there has been a notable change in this trend. New gastronomic establishments have begun to introduce authentic Filipino dishes to Japanese tables, combining traditional flavors with modern presentations. These restaurants offer everything from adobo to sinigang, allowing Japanese diners to discover the culinary richness of the Philippines. The owners of these businesses argue that Filipino cuisine deserves greater international recognition. The strategy includes not only serving authentic food but also educating customers about the cultural history behind each dish. This movement represents an opportunity for the Filipino diaspora to share its culinary heritage. If this trend continues, Filipino cuisine is likely to become a prominent gastronomic option in Japan.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-04-26/gastronomy.mp3",
       "key_vocabulary": [
         {
-          "word": "reinterpretar",
-          "definition_es": "dar un nuevo significado o forma a algo existente",
-          "definition_en": "to give new meaning or form to something existing"
+          "word": "infrarrepresentado",
+          "definition_es": "que tiene menos presencia o reconocimiento del que le corresponde",
+          "definition_en": "having less presence or recognition than deserved"
         },
         {
-          "word": "diálogos gastronómicos",
-          "definition_es": "interacciones entre diferentes estilos culinarios",
-          "definition_en": "interactions between different culinary styles"
+          "word": "diáspora",
+          "definition_es": "dispersión de un pueblo o grupo cultural fuera de su territorio original",
+          "definition_en": "dispersion of a people or cultural group outside their original territory"
         },
         {
-          "word": "meticulosidad",
-          "definition_es": "atención extrema al detalle y la precisión",
-          "definition_en": "extreme attention to detail and precision"
+          "word": "patrimonio",
+          "definition_es": "conjunto de bienes, conocimientos y tradiciones heredadas de generaciones anteriores",
+          "definition_en": "set of goods, knowledge and traditions inherited from previous generations"
         },
         {
-          "word": "prospera",
-          "definition_es": "crece y tiene éxito de manera favorable",
-          "definition_en": "grows and succeeds favorably"
+          "word": "auténtico",
+          "definition_es": "que es verdadero, original y no es una imitación o falsificación",
+          "definition_en": "genuine, original and not an imitation or counterfeit"
         }
       ]
     }
   ],
-  "last_updated": "2026-04-25T09:24:49.646487Z",
+  "last_updated": "2026-04-26T09:26:34.583243Z",
   "generated_by": "GitHub Actions + Anthropic API"
 }
