@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-26",
+      "filename": "spanish_lesson_2026-04-26.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-26.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Los republicanos cambian su estrategia electoral",
+          "headline_en": "Republicans change their electoral strategy",
+          "body_es": "El partido republicano está cambiando su estrategia para las próximas elecciones. Quieren usar las políticas de Donald Trump, pero sin mostrar tanto su imagen personal. Los líderes republicanos creen que las ideas de Trump son populares entre los votantes. Sin embargo, piensan que Trump como persona puede causar problemas. Por eso, van a hablar sobre temas como la economía y la inmigración. Estos son temas importantes para Trump. Pero van a evitar hablar mucho sobre el expresidente. Los republicanos esperan que esta nueva estrategia les ayude a ganar más votos. Quieren ganar control del Congreso en las elecciones de medio término.",
+          "body_en": "The Republican party is changing its strategy for the upcoming elections. They want to use Donald Trump's policies, but without showing his personal image so much. Republican leaders believe that Trump's ideas are popular among voters. However, they think that Trump as a person can cause problems. Therefore, they will talk about topics like the economy and immigration. These are important topics for Trump. But they will avoid talking much about the former president. Republicans hope this new strategy will help them win more votes. They want to gain control of Congress in the midterm elections.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Nvidia vale más que casi todas las economías del mundo",
+          "headline_en": "Nvidia is worth more than almost all world economies",
+          "body_es": "La empresa de tecnología Nvidia ahora vale más dinero que casi todos los países del mundo. Solo dos economías nacionales valen más que esta empresa americana. Nvidia fabrica chips especiales para computadoras. Estos chips son muy importantes para la inteligencia artificial. La empresa ha crecido mucho porque muchas compañías necesitan sus productos. El precio de las acciones de Nvidia ha subido muchísimo en los últimos años. Los inversores creen que la inteligencia artificial será muy importante en el futuro. Por eso, están dispuestos a pagar mucho dinero por acciones de Nvidia. Esta situación muestra el poder económico de las empresas tecnológicas modernas. También demuestra la importancia de la inteligencia artificial en la economía global.",
+          "body_en": "Technology company Nvidia is now worth more money than almost all countries in the world. Only two national economies are worth more than this American company. Nvidia makes special chips for computers. These chips are very important for artificial intelligence. The company has grown a lot because many companies need its products. Nvidia's stock price has risen tremendously in recent years. Investors believe that artificial intelligence will be very important in the future. Therefore, they are willing to pay a lot of money for Nvidia shares. This situation shows the economic power of modern technology companies. It also demonstrates the importance of artificial intelligence in the global economy.",
+          "source": "thestreet.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Guerra por talento: ejecutivos dejan sus trabajos por OpenAI",
+          "headline_en": "Talent war: executives leave their jobs for OpenAI",
+          "body_es": "Existe una guerra por el talento en la industria de la inteligencia artificial. Muchos ejecutivos importantes están dejando sus trabajos en empresas de software. Estos profesionales se van a trabajar a OpenAI, la empresa que creó ChatGPT. OpenAI está ofreciendo salarios muy altos y mejores condiciones de trabajo. La empresa también promete trabajos más interesantes en inteligencia artificial. Esta situación está causando problemas en otras compañías tecnológicas. Están perdiendo a sus mejores trabajadores. Las empresas compiten fuertemente para contratar especialistas en inteligencia artificial. Hay pocas personas con estas habilidades especiales. Por eso, estas personas pueden elegir los mejores trabajos. Esta guerra por talento muestra la importancia creciente de la inteligencia artificial en los negocios modernos.",
+          "body_en": "There is a talent war in the artificial intelligence industry. Many important executives are leaving their jobs at software companies. These professionals are going to work at OpenAI, the company that created ChatGPT. OpenAI is offering very high salaries and better working conditions. The company also promises more interesting jobs in artificial intelligence. This situation is causing problems at other technology companies. They are losing their best workers. Companies are competing fiercely to hire artificial intelligence specialists. There are few people with these special skills. Therefore, these people can choose the best jobs. This talent war shows the growing importance of artificial intelligence in modern business.",
+          "source": "CNBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "estrategia",
+          "syllables": "es-tra-TE-gia",
+          "pos": "sustantivo",
+          "context": "Los republicanos cambian su estrategia para las elecciones.",
+          "definition_es": "Plan organizado para conseguir un objetivo",
+          "definition_en": "Strategy, organized plan to achieve a goal"
+        },
+        {
+          "word": "políticas",
+          "syllables": "po-LÍ-ti-cas",
+          "pos": "sustantivo",
+          "context": "Quieren usar las políticas de Trump pero menos su imagen.",
+          "definition_es": "Acciones y decisiones del gobierno",
+          "definition_en": "Policies, government actions and decisions"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "Nvidia vale más que casi todas las economías del mundo.",
+          "definition_es": "Sistema de producción y comercio de un país",
+          "definition_en": "Economy, a country's system of production and trade"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "La empresa de tecnología ha crecido mucho este año.",
+          "definition_es": "Organización que produce bienes o servicios",
+          "definition_en": "Company, organization that produces goods or services"
+        },
+        {
+          "word": "talento",
+          "syllables": "ta-LEN-to",
+          "pos": "sustantivo",
+          "context": "Hay una guerra por el talento en inteligencia artificial.",
+          "definition_es": "Personas con habilidades especiales",
+          "definition_en": "Talent, people with special skills"
+        },
+        {
+          "word": "ejecutivos",
+          "syllables": "e-je-cu-TI-vos",
+          "pos": "sustantivo",
+          "context": "Los ejecutivos dejan sus trabajos para ir a OpenAI.",
+          "definition_es": "Personas que dirigen empresas",
+          "definition_en": "Executives, people who manage companies"
+        },
+        {
+          "word": "elecciones",
+          "syllables": "e-lec-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las elecciones de medio término son muy importantes.",
+          "definition_es": "Proceso para elegir representantes políticos",
+          "definition_en": "Elections, process to choose political representatives"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando muchas industrias.",
+          "definition_es": "Tecnología que imita el pensamiento humano",
+          "definition_en": "Artificial intelligence, technology that mimics human thinking"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'estrategia' en el contexto político?",
+          "options": [
+            "Un plan organizado para conseguir un objetivo",
+            "Un tipo de elección",
+            "Un partido político",
+            "Una ley del gobierno"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'políticas' en el gobierno?",
+          "options": [
+            "Personas que votan",
+            "Acciones y decisiones del gobierno",
+            "Edificios del congreso",
+            "Tipos de elecciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Quiénes son los 'ejecutivos' en una empresa?",
+          "options": [
+            "Los clientes",
+            "Los productos",
+            "Las personas que dirigen empresas",
+            "Los edificios de oficinas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es el 'talento' en el contexto laboral?",
+          "options": [
+            "Dinero para salarios",
+            "Personas con habilidades especiales",
+            "Computadoras modernas",
+            "Oficinas grandes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué quieren hacer los republicanos?",
+          "options": [
+            "Usar las políticas de Trump pero mostrar menos su imagen",
+            "Cambiar completamente todas las políticas",
+            "Hablar solo sobre Trump",
+            "Evitar hablar de economía"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué vale tanto dinero Nvidia?",
+          "options": [
+            "Porque es muy antigua",
+            "Porque fabrica chips importantes para inteligencia artificial",
+            "Porque está en Europa",
+            "Porque tiene muchos empleados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántas economías nacionales valen más que Nvidia?",
+          "options": [
+            "Ninguna",
+            "Solo dos",
+            "Todas",
+            "Cinco"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué los ejecutivos se van a OpenAI?",
+          "options": [
+            "Porque OpenAI está en otro país",
+            "Porque OpenAI ofrece mejores salarios y condiciones",
+            "Porque no les gusta la tecnología",
+            "Porque OpenAI es más pequeña"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa creó ChatGPT según el texto?",
+          "options": [
+            "Nvidia",
+            "Microsoft",
+            "OpenAI",
+            "Google"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué problema están causando estas guerras por talento?",
+          "options": [
+            "Las empresas están perdiendo sus mejores trabajadores",
+            "Los salarios están bajando",
+            "Hay demasiados especialistas",
+            "Las empresas están cerrando"
+          ],
+          "answer": "A"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-26T09:18:15.836333"
+    },
+    {
       "date": "2026-04-25",
       "filename": "spanish_lesson_2026-04-25.pdf",
       "path": "pdfs/spanish_lesson_2026-04-25.pdf",
@@ -30884,7 +31106,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-25T09:16:43.493041",
+  "last_updated": "2026-04-26T09:18:15.836366",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
