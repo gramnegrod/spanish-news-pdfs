@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-27",
+      "filename": "spanish_lesson_2026-04-27.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-27.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Encuesta muestra que más americanos culpan a Trump por el cierre del gobierno",
+          "headline_en": "Poll shows more Americans blame Trump for government shutdown",
+          "body_es": "Una nueva encuesta revela información importante sobre la opinión pública americana. Según el estudio, más ciudadanos culpan al presidente Trump y al Partido Republicano por el cierre del gobierno. Los demócratas reciben menos culpa por esta situación política. El cierre del gobierno afectó a miles de trabajadores federales durante varias semanas. Muchas oficinas gubernamentales cerraron sus puertas temporalmente. Los servicios públicos se redujeron significativamente durante este período. La encuesta preguntó a ciudadanos de todo el país sobre sus opiniones. Los resultados muestran una división clara en las opiniones políticas. Esta información es muy importante para entender la situación política actual en Estados Unidos.",
+          "body_en": "A new poll reveals important information about American public opinion. According to the study, more citizens blame President Trump and the Republican Party for the government shutdown. Democrats receive less blame for this political situation. The government shutdown affected thousands of federal workers for several weeks. Many government offices temporarily closed their doors. Public services were significantly reduced during this period. The poll asked citizens from across the country about their opinions. The results show a clear division in political opinions. This information is very important for understanding the current political situation in the United States.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía estadounidense creció más de lo esperado en el tercer trimestre",
+          "headline_en": "US economy grew more than expected in third quarter",
+          "body_es": "La economía de Estados Unidos mostró resultados muy positivos en el tercer trimestre del año. Los números fueron mejores de lo esperado por los expertos económicos. El crecimiento superó las predicciones de los analistas financieros. Este resultado positivo es una buena noticia para el país. Las empresas americanas produjeron más bienes y servicios durante estos tres meses. El consumo de los ciudadanos también aumentó significativamente. Los trabajos se mantuvieron estables en la mayoría de los sectores. Los expertos dicen que la economía está en buen estado. Sin embargo, algunos economistas mantienen precaución sobre el futuro. Estos resultados pueden influir en las decisiones políticas y económicas del gobierno federal.",
+          "body_en": "The United States economy showed very positive results in the third quarter of the year. The numbers were better than expected by economic experts. Growth exceeded predictions from financial analysts. This positive result is good news for the country. American companies produced more goods and services during these three months. Citizen consumption also increased significantly. Jobs remained stable in most sectors. Experts say the economy is in good condition. However, some economists remain cautious about the future. These results may influence political and economic decisions by the federal government.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "San Francisco experimenta un aumento en contratación de empresas de inteligencia artificial",
+          "headline_en": "San Francisco experiences surge in hiring by artificial intelligence companies",
+          "body_es": "La ciudad de San Francisco está viviendo un gran aumento en la contratación de trabajadores tecnológicos. Las empresas de inteligencia artificial como OpenAI están creando muchos empleos nuevos. Estas compañías necesitan más empleados para desarrollar nuevas tecnologías. La demanda de trabajadores especializados en tecnología está creciendo rápidamente. San Francisco se está convirtiendo en el centro mundial de la inteligencia artificial. Muchos profesionales se mudan a la ciudad para trabajar en estas empresas innovadoras. Los salarios en el sector tecnológico son muy atractivos para los trabajadores. Esta situación está cambiando la economía local de San Francisco. Sin embargo, también está aumentando el costo de vida en la ciudad. Los expertos predicen que esta tendencia continuará en los próximos años.",
+          "body_en": "The city of San Francisco is experiencing a large increase in hiring of technology workers. Artificial intelligence companies like OpenAI are creating many new jobs. These companies need more employees to develop new technologies. Demand for workers specialized in technology is growing rapidly. San Francisco is becoming the world center for artificial intelligence. Many professionals are moving to the city to work at these innovative companies. Salaries in the technology sector are very attractive to workers. This situation is changing San Francisco's local economy. However, it is also increasing the cost of living in the city. Experts predict this trend will continue in the coming years.",
+          "source": "San Francisco Examiner"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "encuesta",
+          "syllables": "en-CUES-ta",
+          "pos": "sustantivo",
+          "context": "Una encuesta muestra que más americanos culpan a Trump por el cierre del gobierno.",
+          "definition_es": "Estudio donde se pregunta a las personas su opinión sobre un tema",
+          "definition_en": "A poll or survey asking people's opinions"
+        },
+        {
+          "word": "culpar",
+          "syllables": "cul-PAR",
+          "pos": "verbo",
+          "context": "Los ciudadanos culpan al presidente por los problemas económicos.",
+          "definition_es": "Decir que alguien es responsable de algo malo",
+          "definition_en": "To blame someone for something"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno afectó a muchos trabajadores federales.",
+          "definition_es": "Acción de cerrar o parar el funcionamiento de algo",
+          "definition_en": "Shutdown or closure"
+        },
+        {
+          "word": "crecer",
+          "syllables": "cre-CER",
+          "pos": "verbo",
+          "context": "La economía estadounidense creció más de lo esperado.",
+          "definition_es": "Aumentar de tamaño, cantidad o importancia",
+          "definition_en": "To grow or increase"
+        },
+        {
+          "word": "trimestre",
+          "syllables": "tri-MES-tre",
+          "pos": "sustantivo",
+          "context": "Los resultados económicos del tercer trimestre fueron positivos.",
+          "definition_es": "Período de tres meses consecutivos",
+          "definition_en": "Quarter (three-month period)"
+        },
+        {
+          "word": "contratación",
+          "syllables": "con-tra-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "San Francisco ve un aumento en la contratación de empresas tecnológicas.",
+          "definition_es": "Proceso de dar trabajo a nuevos empleados",
+          "definition_en": "Hiring or recruitment"
+        },
+        {
+          "word": "aumento",
+          "syllables": "au-MEN-to",
+          "pos": "sustantivo",
+          "context": "Hay un gran aumento de empleos en el sector tecnológico.",
+          "definition_es": "Cuando algo se hace más grande o numeroso",
+          "definition_en": "Increase or surge"
+        },
+        {
+          "word": "esperado",
+          "syllables": "es-pe-RA-do",
+          "pos": "adjetivo",
+          "context": "Los resultados fueron mejores de lo esperado por los expertos.",
+          "definition_es": "Lo que se pensaba que iba a pasar",
+          "definition_en": "Expected or anticipated"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'encuesta'?",
+          "options": [
+            "Un examen escrito",
+            "Un estudio de opinión pública",
+            "Una reunión política",
+            "Un artículo de periódico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'culpar'?",
+          "options": [
+            "Perdonar",
+            "Responsabilizar",
+            "Ayudar",
+            "Ignorar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'trimestre'?",
+          "options": [
+            "Un mes",
+            "Seis meses",
+            "Tres meses",
+            "Un año"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La palabra 'contratación' se refiere a:",
+          "options": [
+            "Despedir empleados",
+            "Dar trabajo a nuevas personas",
+            "Cerrar una empresa",
+            "Vender productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la encuesta política, ¿quién recibe más culpa por el cierre del gobierno?",
+          "options": [
+            "Los demócratas",
+            "Trump y los republicanos",
+            "Los ciudadanos",
+            "Los trabajadores federales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cómo fueron los resultados económicos del tercer trimestre?",
+          "options": [
+            "Peores de lo esperado",
+            "Iguales a lo esperado",
+            "Mejores de lo esperado",
+            "No se mencionan"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de empresas están contratando más en San Francisco?",
+          "options": [
+            "Empresas de comida",
+            "Empresas de inteligencia artificial",
+            "Empresas de construcción",
+            "Empresas de ropa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué afectó a miles de trabajadores federales?",
+          "options": [
+            "El crecimiento económico",
+            "La contratación tecnológica",
+            "El cierre del gobierno",
+            "Las encuestas políticas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa de inteligencia artificial se menciona específicamente?",
+          "options": [
+            "Google",
+            "Microsoft",
+            "OpenAI",
+            "Apple"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué problema está causando el crecimiento tecnológico en San Francisco?",
+          "options": [
+            "Menos empleos",
+            "Aumento del costo de vida",
+            "Menos empresas",
+            "Reducción de salarios"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-27T09:42:03.573156"
+    },
+    {
       "date": "2026-04-26",
       "filename": "spanish_lesson_2026-04-26.pdf",
       "path": "pdfs/spanish_lesson_2026-04-26.pdf",
@@ -31106,7 +31328,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-26T09:18:15.836366",
+  "last_updated": "2026-04-27T09:42:03.573184",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
