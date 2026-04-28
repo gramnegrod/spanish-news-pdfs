@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-28",
+      "filename": "spanish_lesson_2026-04-28.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-28.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Tribunal Supremo Acepta Nuevo Mapa Electoral de Texas",
+          "headline_en": "Supreme Court Accepts New Electoral Map of Texas",
+          "body_es": "El Tribunal Supremo de Estados Unidos decidió aceptar el nuevo mapa electoral de Texas. Este mapa divide el estado en diferentes áreas para las elecciones al Congreso. Algunas personas dijeron que el mapa no era justo para las minorías raciales. Ellos pensaban que el mapa hacía más difícil votar para ciertos grupos. Sin embargo, el tribunal decidió que el mapa es legal y puede usarse. Texas ahora puede usar este mapa para las próximas elecciones. Esta decisión es importante porque afecta cómo se eligen los representantes del Congreso. El mapa determina qué candidatos pueden ganar en cada área del estado.",
+          "body_en": "The Supreme Court of the United States decided to accept Texas's new electoral map. This map divides the state into different areas for Congressional elections. Some people said the map wasn't fair to racial minorities. They thought the map made it harder for certain groups to vote. However, the court decided the map is legal and can be used. Texas can now use this map for upcoming elections. This decision is important because it affects how Congressional representatives are chosen. The map determines which candidates can win in each area of the state.",
+          "source": "Houston Public Media"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Guerra en Irán Afecta Economía Mundial, Estados Unidos Menos Dañado",
+          "headline_en": "War in Iran Affects Global Economy, United States Less Damaged",
+          "body_es": "La guerra en Irán está causando problemas en la economía mundial. Muchos países sufren porque los precios del petróleo han subido mucho. El comercio internacional también se ha vuelto más difícil y caro. Sin embargo, Estados Unidos no está sufriendo tanto como otros países. La economía estadounidense es más fuerte y tiene más recursos propios. Estados Unidos produce su propio petróleo, entonces depende menos de otros países. Los expertos dicen que Estados Unidos puede protegerse mejor de estos problemas económicos. Aunque hay algunos efectos negativos, el país sigue funcionando normalmente. Esta situación muestra la importancia de tener una economía independiente.",
+          "body_en": "The war in Iran is causing problems in the global economy. Many countries are suffering because oil prices have risen a lot. International trade has also become more difficult and expensive. However, the United States is not suffering as much as other countries. The American economy is stronger and has more of its own resources. The United States produces its own oil, so it depends less on other countries. Experts say the United States can better protect itself from these economic problems. Although there are some negative effects, the country continues functioning normally. This situation shows the importance of having an independent economy.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Microsoft y OpenAI Cambian Su Sociedad Comercial",
+          "headline_en": "Microsoft and OpenAI Change Their Business Partnership",
+          "body_es": "Microsoft y OpenAI han decidido cambiar su sociedad comercial. Estas dos compañías de tecnología trabajaban muy juntas para crear inteligencia artificial. Microsoft invirtió mucho dinero en OpenAI, la empresa que creó ChatGPT. Sin embargo, ahora quieren tener más independencia en sus proyectos. OpenAI quiere tomar sus propias decisiones sin depender tanto de Microsoft. Microsoft también quiere explorar otras oportunidades en inteligencia artificial. Los expertos dicen que este cambio es normal en el mundo de la tecnología. Las empresas a veces necesitan reorganizar sus acuerdos. Ambas compañías seguirán trabajando en inteligencia artificial, pero con más libertad para tomar decisiones independientes.",
+          "body_en": "Microsoft and OpenAI have decided to change their business partnership. These two technology companies worked very closely together to create artificial intelligence. Microsoft invested a lot of money in OpenAI, the company that created ChatGPT. However, now they want to have more independence in their projects. OpenAI wants to make its own decisions without depending so much on Microsoft. Microsoft also wants to explore other opportunities in artificial intelligence. Experts say this change is normal in the technology world. Companies sometimes need to reorganize their agreements. Both companies will continue working on artificial intelligence, but with more freedom to make independent decisions.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "tribunal",
+          "syllables": "tri-bu-NAL",
+          "pos": "sustantivo",
+          "context": "El tribunal supremo de Estados Unidos tomó una decisión importante.",
+          "definition_es": "Lugar donde los jueces toman decisiones legales",
+          "definition_en": "Court where judges make legal decisions"
+        },
+        {
+          "word": "mapa",
+          "syllables": "MA-pa",
+          "pos": "sustantivo",
+          "context": "Texas creó un nuevo mapa electoral para las elecciones.",
+          "definition_es": "Dibujo que muestra los límites de un lugar",
+          "definition_en": "Drawing that shows the boundaries of a place"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La guerra afecta la economía mundial pero Estados Unidos está protegido.",
+          "definition_es": "Sistema de dinero y comercio de un país",
+          "definition_en": "System of money and trade in a country"
+        },
+        {
+          "word": "guerra",
+          "syllables": "GUE-rra",
+          "pos": "sustantivo",
+          "context": "La guerra en el Medio Oriente causa problemas económicos.",
+          "definition_es": "Conflicto armado entre países o grupos",
+          "definition_en": "Armed conflict between countries or groups"
+        },
+        {
+          "word": "sociedad",
+          "syllables": "so-cie-DAD",
+          "pos": "sustantivo",
+          "context": "Microsoft y OpenAI cambian su sociedad comercial.",
+          "definition_es": "Unión de personas o empresas para trabajar juntas",
+          "definition_en": "Union of people or companies to work together"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Las empresas de tecnología a veces cambian sus acuerdos.",
+          "definition_es": "Uso de la ciencia para crear máquinas y programas",
+          "definition_en": "Use of science to create machines and programs"
+        },
+        {
+          "word": "decisión",
+          "syllables": "de-ci-SIÓN",
+          "pos": "sustantivo",
+          "context": "El tribunal tomó una decisión sobre el mapa de Texas.",
+          "definition_es": "Elección que se hace después de pensar",
+          "definition_en": "Choice made after thinking"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Las dos compañías cambiaron su acuerdo de trabajo.",
+          "definition_es": "Cuando dos partes están de acuerdo sobre algo",
+          "definition_en": "When two parties agree on something"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'tribunal'?",
+          "options": [
+            "Lugar donde trabajan los doctores",
+            "Lugar donde los jueces toman decisiones",
+            "Lugar donde estudian los niños",
+            "Lugar donde venden comida"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'acuerdo' es:",
+          "options": [
+            "Una pelea entre personas",
+            "Cuando dos partes están de acuerdo",
+            "Un tipo de comida",
+            "Un problema difícil"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué palabra describe un conflicto armado entre países?",
+          "options": [
+            "Economía",
+            "Tecnología",
+            "Guerra",
+            "Sociedad"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La 'economía' se refiere a:",
+          "options": [
+            "El sistema de dinero y comercio",
+            "Un tipo de mapa",
+            "Una decisión legal",
+            "Un acuerdo comercial"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia, ¿qué decidió el Tribunal Supremo sobre el mapa de Texas?",
+          "options": [
+            "Que era ilegal",
+            "Que era justo para las minorías",
+            "Que podía usarse legalmente",
+            "Que necesitaba cambios"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué Estados Unidos sufre menos por la guerra en Irán?",
+          "options": [
+            "No usa petróleo",
+            "Produce su propio petróleo",
+            "Está muy lejos de Irán",
+            "No hace comercio internacional"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa creó ChatGPT según la historia?",
+          "options": [
+            "Microsoft",
+            "OpenAI",
+            "Google",
+            "Apple"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué efecto tiene la guerra en los precios del petróleo?",
+          "options": [
+            "Han bajado mucho",
+            "Se mantienen iguales",
+            "Han subido mucho",
+            "Cambian cada día"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué OpenAI quiere cambiar su sociedad con Microsoft?",
+          "options": [
+            "Quiere más dinero",
+            "Quiere más independencia",
+            "No le gusta la tecnología",
+            "Quiere vender la empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Para qué se usa el mapa electoral de Texas?",
+          "options": [
+            "Para viajar por el estado",
+            "Para encontrar petróleo",
+            "Para las elecciones al Congreso",
+            "Para estudiar geografía"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-28T09:44:25.497463"
+    },
+    {
       "date": "2026-04-27",
       "filename": "spanish_lesson_2026-04-27.pdf",
       "path": "pdfs/spanish_lesson_2026-04-27.pdf",
@@ -31328,7 +31550,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-27T09:42:03.573184",
+  "last_updated": "2026-04-28T09:44:25.497486",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
