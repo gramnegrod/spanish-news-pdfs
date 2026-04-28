@@ -1,11 +1,196 @@
 {
-  "date": "2026-04-27",
-  "generated_at": "2026-04-27T09:51:29.367281Z",
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T09:51:34.365513Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 483,
+  "total_stories": 488,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20260428",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La terapia de oxígeno cura el 65% de heridas difíciles",
+      "headline_en": "Oxygen Therapy Heals 65% of Hard-to-Treat Wounds",
+      "summary_es": "Un nuevo tratamiento con oxígeno ayuda a sanar heridas crónicas muy difíciles de tratar. Las acciones de la empresa suben un 11% por estos resultados.",
+      "body_es": "Un tratamiento nuevo usa oxígeno especial para curar heridas crónicas. Este método es muy efectivo. El 65% de los pacientes con heridas difíciles se mejoran. Las heridas crónicas son un problema serio en los hospitales. Los pacientes esperan muchos meses para sanar. Este tratamiento nuevo es diferente. Usa oxígeno en la herida. El oxígeno ayuda a crecer células nuevas. El cuerpo sana mejor con más oxígeno. Los resultados son muy buenos. Los médicos están contentos. La empresa que hace este tratamiento recibe más dinero. Las acciones suben 11%. Muchos hospitales quieren este tratamiento ahora.",
+      "body_en": "A new treatment uses special oxygen to heal chronic wounds. This method is very effective. 65% of patients with difficult wounds improve. Chronic wounds are a serious problem in hospitals. Patients wait many months to heal. This new treatment is different. It uses oxygen in the wound. Oxygen helps new cells grow. The body heals better with more oxygen. The results are very good. Doctors are happy. The company that makes this treatment receives more money. Shares rise 11%. Many hospitals want this treatment now.",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55SzFrVWdhT1BudEhzS3dlOFRRb0dHeVg1YkU4cURNNGxzbnFBeFE1aG4yVXB0dXl3TllQTUlNMmRyQm1STTlieXl2WUZQWVVTemxhb0p6bDFIRHdUeERKZ3FLVmR1cXY3Tnc1a2luRTdtLUE0elFSc3diekFPVnc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-28/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no sana rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "oxígeno",
+          "definition_es": "gas que ayuda a sanar",
+          "definition_en": "oxygen - gas that helps healing"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método médico para mejorar la salud",
+          "definition_en": "treatment - medical method to improve health"
+        }
+      ],
+      "added_at": "2026-04-28T09:51:34.365513Z"
+    },
+    {
+      "id": "diabetic-foot-20260428",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Guía esencial de cuidado del pie diabético para prevenir complicaciones",
+      "headline_en": "Essential Diabetic Foot Care Guide to Prevent Complications",
+      "summary_es": "Los profesionales de la salud necesitan entender la importancia del cuidado preventivo del pie en pacientes diabéticos para evitar infecciones y amputaciones.",
+      "body_es": "El cuidado del pie diabético es fundamental para prevenir complicaciones graves. Los pacientes con diabetes corren mayor riesgo de desarrollar úlceras en los pies. Una evaluación regular del pie debe incluir el examen de la sensibilidad, la circulación y cualquier signo de lesión. Los profesionales sanitarios deben enseñar a los pacientes técnicas adecuadas de higiene y cuidado diario. El calzado apropiado es esencial para reducir la presión en el pie. Las infecciones bacterianas pueden convertirse en problemas serios si no se tratan a tiempo. Los pacientes deben revisar sus pies cada día buscando ampollas, grietas o enrojecimiento. La educación del paciente y el monitoreo regular previenen aproximadamente el 50% de las amputaciones relacionadas con la diabetes. Los equipos de atención multidisciplinarios mejoran significativamente los resultados clínicos.",
+      "body_en": "Diabetic foot care is fundamental to prevent serious complications. Patients with diabetes are at higher risk of developing foot ulcers. Regular foot assessment should include evaluation of sensitivity, circulation, and any signs of injury. Healthcare professionals must teach patients proper hygiene and daily care techniques. Appropriate footwear is essential to reduce foot pressure. Bacterial infections can become serious problems if untreated. Patients should review their feet daily looking for blisters, cracks, or redness. Patient education and regular monitoring prevent approximately 50% of diabetes-related amputations. Multidisciplinary care teams significantly improve clinical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWJYcWxQOE80STNwWHFvR2o3UVdNYmJacG05bWV1UjZmSWRkeUkwNGI0a1NfUzBtQkFIaENhY2pybnc0Mkl4NmtVQ3NXM0ZFc1lFdHRUeVliUFUyTDZ3a3FQQkM4dl9HUmw0VGZ0YzM5ZEdWRlRSTWpjb05vR1lBY0NzU2dWX1BPaUNWWDFrT0hCSl9hWVRGdF9aTDFwQlZtaUJJSDZGVkE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-28/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta en el pie de personas con diabetes",
+          "definition_en": "diabetic ulcer - open wound on the foot of diabetic patients"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen detallado del estado de una parte del cuerpo",
+          "definition_en": "assessment - detailed examination of body condition"
+        },
+        {
+          "word": "sensibilidad",
+          "definition_es": "capacidad de sentir dolor y tacto",
+          "definition_en": "sensitivity - ability to feel pain and touch"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "remoción quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-04-28T09:51:34.365513Z"
+    },
+    {
+      "id": "burn-care-20260428",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Sistema DeepView de Inteligencia Artificial se destaca en conferencia de quemaduras",
+      "headline_en": "Spectral AI's DeepView System Showcased at American Burn Association Meeting",
+      "summary_es": "La tecnología de inteligencia artificial DeepView presenta avances innovadores en la evaluación y tratamiento de quemaduras durante la reunión anual de la Asociación Americana de Quemaduras.",
+      "body_es": "Spectral AI presentó su sistema DeepView en la reunión anual de la Asociación Americana de Quemaduras. Este sistema utiliza inteligencia artificial para evaluar quemaduras con mayor precisión. La tecnología ayuda a los médicos a identificar la profundidad y severidad de las quemaduras. Los profesionales de la salud pueden tomar decisiones de tratamiento más rápidas y precisas. El sistema analiza las imágenes de la piel quemada automáticamente. Proporciona información detallada sobre qué áreas necesitan tratamiento urgente. La quemadura es una lesión seria que requiere cuidado especializado. El tratamiento temprano y correcto previene infecciones y reduce las cicatrices. Esta tecnología nueva mejora la atención a pacientes quemados en hospitales y centros de trauma. El sistema DeepView representa un avance importante en la medicina de quemaduras.",
+      "body_en": "Spectral AI presented its DeepView system at the American Burn Association's annual meeting. This system uses artificial intelligence to evaluate burns with greater precision. The technology helps doctors identify the depth and severity of burns. Healthcare professionals can make faster and more accurate treatment decisions. The system automatically analyzes images of burned skin. It provides detailed information about which areas need urgent treatment. Burn injury is a serious condition requiring specialized care. Early and correct treatment prevents infections and reduces scarring. This new technology improves care for burned patients in hospitals and trauma centers. The DeepView system represents an important advance in burn medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMFNRMUdCbmFOZW93SzhETFNDSlBNSXpYNE00aVlDQmFTT0drTjZkalNUV09iTmVRYi0wVmVXOTJwWEVIV05OWjI2OEJOeUtEQ2JfMUZJZTJFSkZISnBtLXBXZjFFLUpId25FTDI5UzlhcGd3Vk9JbFdRYlQ1dDlJd0tqMWplVTVXWExCMGZ1Uy1GSHZwLUhqci1NR0pFN1VqM1h1dkdEN2ZiVWN3bHY5RU9aMGpVYkVxcHptcnlpV1lmdUxiajBsSmFWZklJdDgzUERRNUNwYVU3TkVIamNqX0NnZkJlQWtVTWNCZzNqQmhtaEnSAfgBQVVfeXFMTjlUb2R0NTlVRUxRdkxQdFZibTRmZ01aMGVjWklmMkc2NjVSbE5qZlIwTUJlOHk0UzY2YnFFbVZaYnVvajNKQk9zVVhhUlFYa0ZaZjZDRXZyOEZlOGdIMHBRSTAyVDBYdDQwS3J0a1JSaWZtSEJEZHBjREgtYlF0ZnpiTlBzWWNlTHF0TXBOTVRVeC1vdWlOME9malpzcmo4R21aTzVUNWd0MEJLdWlJY0dJeHhqSVR3Wk9NZkI3R2oxUnJQUnJBX2s4MDZPazZ0bTJ2X2ZmUmREdkFxcTlzSjJMWVZadXBOYnI3ZXF3M2NYQ25oa0tKY2w?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-28/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel por calor, fuego o sustancias químicas",
+          "definition_en": "burn - skin injury from heat, fire, or chemicals"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "análisis detallado de una condición médica",
+          "definition_en": "assessment - detailed analysis of a medical condition"
+        },
+        {
+          "word": "profundidad",
+          "definition_es": "medida de cuán profunda es una herida",
+          "definition_en": "depth - measurement of how deep a wound is"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después que sana una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        }
+      ],
+      "added_at": "2026-04-28T09:51:34.365513Z"
+    },
+    {
+      "id": "surgical-wounds-20260428",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "El cierre de herida no es la métrica correcta en cirugía de trauma",
+      "headline_en": "Why 'Wound Closure' Is The Wrong Metric for Trauma Surgery",
+      "summary_es": "Los profesionales de cirugía de trauma reconocen que el cierre de la herida no debe ser el único indicador de éxito en el tratamiento de lesiones traumáticas severas.",
+      "body_es": "En la cirugía de trauma, el cierre de la herida se ha considerado tradicionalmente como el indicador principal de éxito. Sin embargo, los especialistas ahora reconocen que esta métrica es incompleta. Los pacientes con lesiones traumáticas severas requieren un enfoque más integral. El objetivo debe ser la función completa del órgano o extremidad afectados. Una herida cerrada no garantiza que el paciente tenga movilidad total o funcionalidad normal. Los médicos deben evaluar la cicatrización, la sensibilidad y la fuerza muscular después de la operación. La recuperación completa es un proceso largo que continúa después del cierre quirúrgico inicial. Los resultados a largo plazo son más importantes que el cierre rápido. Los equipos quirúrgicos deben monitorear al paciente durante meses para asegurar una rehabilitación óptima. Este cambio de enfoque ha mejorado significativamente los resultados para pacientes con trauma grave.",
+      "body_en": "In trauma surgery, wound closure has traditionally been considered the main indicator of success. However, specialists now recognize that this metric is incomplete. Patients with severe traumatic injuries require a more comprehensive approach. The goal should be complete function of the affected organ or limb. A closed wound does not guarantee that the patient will have full mobility or normal function. Doctors must evaluate scarring, sensitivity, and muscle strength after surgery. Complete recovery is a long process that continues after initial surgical closure. Long-term results are more important than rapid closure. Surgical teams must monitor patients for months to ensure optimal rehabilitation. This change in approach has significantly improved outcomes for patients with severe trauma.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUXR0RmJSLWFxcWJlYXU5SDlSMWN5LWppbktmRFdlNzdnckZMNVBFMXlwWmg1cXV6TlAxdzRrLVhCVGJ0WG5TMTlYZzJ1bXd0M0ltMHAtb0kwTFZsUHo5R2tnQ2FyQkxfN1NvU0RQRXViZkh0M0kwUTBjcGJLS1RheTEyeDcyYms4azF2UXh5LUVmZjF4RmZJ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-28/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada durante una operación médica",
+          "definition_en": "surgical wound - injury created during medical operation"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de reparación de una herida con cicatriz",
+          "definition_en": "scarring - process of wound repair with scar formation"
+        },
+        {
+          "word": "movilidad",
+          "definition_es": "capacidad de movimiento de una parte del cuerpo",
+          "definition_en": "mobility - ability to move a body part"
+        },
+        {
+          "word": "funcionalidad",
+          "definition_es": "capacidad de una extremidad u órgano de funcionar normalmente",
+          "definition_en": "functionality - ability of a limb or organ to function normally"
+        }
+      ],
+      "added_at": "2026-04-28T09:51:34.365513Z"
+    },
+    {
+      "id": "wound-research-20260428",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación de Mayo Clinic apoya terapia dirigida para complicaciones renales",
+      "headline_en": "Mayo Clinic Research Supports Targeted Therapy for Kidney Complications",
+      "summary_es": "Un nuevo estudio de Mayo Clinic demuestra que una terapia dirigida puede manejar complicaciones renales mientras permite continuar con el tratamiento inmunológico que salva vidas.",
+      "body_es": "Mayo Clinic ha publicado resultados importantes de investigación sobre el manejo de complicaciones renales en pacientes sometidos a inmunoterapia. Los pacientes con cáncer frecuentemente reciben tratamientos inmunológicos avanzados que mejoran su supervivencia. Sin embargo, estos tratamientos a veces causan complicaciones renales como lesión glomerular. Los investigadores desarrollaron una terapia dirigida que específicamente trata estas complicaciones. El objetivo es permitir que los pacientes continúen con su tratamiento inmunológico sin interrupciones. Los estudios preliminares muestran resultados promisores en la prevención del daño renal adicional. La investigación involucró el análisis detallado de casos de pacientes que experimentaron complicaciones. Los científicos identificaron mecanismos específicos de la lesión renal causada por inmunoterapia. Este hallazgo abre nuevas posibilidades terapéuticas para otros pacientes. La publicación de estos resultados contribuye significativamente al conocimiento médico actual.",
+      "body_en": "Mayo Clinic has published important research results on managing kidney complications in patients undergoing immunotherapy. Patients with cancer frequently receive advanced immunological treatments that improve their survival. However, these treatments sometimes cause kidney complications such as glomerular injury. Researchers developed a targeted therapy that specifically treats these complications. The goal is to allow patients to continue their immunological treatment without interruptions. Preliminary studies show promising results in preventing additional kidney damage. The research involved detailed analysis of patient cases that experienced complications. Scientists identified specific mechanisms of kidney injury caused by immunotherapy. This finding opens new therapeutic possibilities for other patients. The publication of these results significantly contributes to current medical knowledge.",
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQkFJU2llQmsyYlBNV0N3TmNBNTBMc3dhZGxWNk1uYi1LX082WnZneHNVTU1CakY3b2YzQ0E4SlJvdk41ZnJuaERHVkFzblFNdlByenhXb2poMmtzbG1uLXA5ZjdGY21paUZfR2V1Mi1JcXNxUkhySzl3NVE5OHNuWHNWYktmMnZsTlM4cVZQUGhTakxVOUhqRHJldU5fYXlQS3VvRjJoRWZsQkpHXzJJNW5JVUlmaTdqRklWUi1DUG5pcGxVVzFGeWRsQW03WFMwNTBOTlNhVHJhMkZrRzhiZE5NWXN6b0dwQWMweHEtX3VjRnlfWXFneGZCTXRFcG84LVB5UGdOeGNhTU5SYXR3SC1uQlo?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-04-28/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "inmunoterapia",
+          "definition_es": "tratamiento que estimula el sistema inmunológico",
+          "definition_en": "immunotherapy - treatment that stimulates immune system"
+        },
+        {
+          "word": "complicación renal",
+          "definition_es": "problema o lesión en los riñones",
+          "definition_en": "kidney complication - problem or injury to kidneys"
+        },
+        {
+          "word": "terapia dirigida",
+          "definition_es": "tratamiento específico para un problema particular",
+          "definition_en": "targeted therapy - specific treatment for particular problem"
+        },
+        {
+          "word": "daño renal",
+          "definition_es": "lesión o deterioro de la función del riñón",
+          "definition_en": "kidney damage - injury or deterioration of kidney function"
+        }
+      ],
+      "added_at": "2026-04-28T09:51:34.365513Z"
+    },
     {
       "id": "chronic-wounds-20250427",
       "category": "Chronic Wounds",
@@ -17872,6 +18057,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-27T09:51:29.367281Z",
+  "last_updated": "2026-04-28T09:51:34.365513Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
