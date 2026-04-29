@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-04-29",
+      "filename": "spanish_lesson_2026-04-29.pdf",
+      "path": "pdfs/spanish_lesson_2026-04-29.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Rey da un discurso histórico al Congreso de Estados Unidos",
+          "headline_en": "The King gives historic speech to US Congress",
+          "body_es": "El Rey pronunció un discurso muy importante en el Congreso de Estados Unidos. Fue la primera vez en la historia que un monarca europeo habló ante los representantes estadounidenses. En su discurso, el Rey habló sobre la importancia de la democracia y la cooperación internacional. También mencionó los desafíos globales como el cambio climático y la seguridad mundial. Los congresistas aplaudieron muchas veces durante su presentación. Este evento histórico fortalece las relaciones entre ambos países. El Rey agradeció la invitación y destacó los valores compartidos. Su visita durará tres días y incluirá reuniones con líderes políticos importantes.",
+          "body_en": "The King gave a very important speech to the US Congress. It was the first time in history that a European monarch spoke before US representatives. In his speech, the King talked about the importance of democracy and international cooperation. He also mentioned global challenges like climate change and world security. The congresspeople applauded many times during his presentation. This historic event strengthens relations between both countries. The King thanked them for the invitation and highlighted shared values. His visit will last three days and include meetings with important political leaders.",
+          "source": "BBC"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La confianza del consumidor mejora pero los precios de gasolina preocupan",
+          "headline_en": "Consumer confidence improves but gasoline prices worry",
+          "body_es": "Un nuevo estudio muestra que la confianza de los consumidores estadounidenses mejoró inesperadamente este mes. Los expertos no esperaban este resultado positivo. Sin embargo, los precios altos de la gasolina siguen siendo una preocupación importante para las familias. Muchas personas gastan más dinero en combustible para sus coches. Esto afecta su presupuesto mensual y limita otros gastos. Los economistas dicen que la situación económica general está mejorando lentamente. El empleo aumenta y los salarios suben en algunos sectores. Pero la inflación en productos básicos como la gasolina todavía causa problemas. El gobierno estudia opciones para ayudar a las familias con estos costos altos.",
+          "body_en": "A new study shows that US consumer confidence improved unexpectedly this month. Experts did not expect this positive result. However, high gasoline prices continue to be an important concern for families. Many people spend more money on fuel for their cars. This affects their monthly budget and limits other expenses. Economists say the general economic situation is improving slowly. Employment is increasing and wages are rising in some sectors. But inflation in basic products like gasoline still causes problems. The government is studying options to help families with these high costs.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Aumentan los despidos en tecnología por el avance de la inteligencia artificial",
+          "headline_en": "Tech layoffs increase due to artificial intelligence advancement",
+          "body_es": "Las empresas de tecnología están despidiendo más trabajadores debido al desarrollo de la inteligencia artificial. Muchas compañías eliminan empleos porque las máquinas inteligentes pueden hacer el trabajo más rápido y barato. Sin embargo, los expertos explican que hay otras razones importantes. Algunas empresas contrataron demasiadas personas durante la pandemia. Ahora necesitan reducir costos para mantener sus ganancias. También hay menos inversión en nuevas empresas tecnológicas. Esto significa menos trabajos disponibles en el sector. Pero no todo es negativo. La inteligencia artificial también crea nuevos tipos de empleos. Los trabajadores necesitan aprender nuevas habilidades para adaptarse. El futuro del trabajo en tecnología está cambiando rápidamente.",
+          "body_en": "Technology companies are laying off more workers due to the development of artificial intelligence. Many companies eliminate jobs because intelligent machines can do the work faster and cheaper. However, experts explain there are other important reasons. Some companies hired too many people during the pandemic. Now they need to reduce costs to maintain their profits. There is also less investment in new technology companies. This means fewer jobs available in the sector. But not everything is negative. Artificial intelligence also creates new types of jobs. Workers need to learn new skills to adapt. The future of work in technology is changing rapidly.",
+          "source": "The Hill"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "discurso",
+          "syllables": "dis-CUR-so",
+          "pos": "sustantivo",
+          "context": "El Rey dio un discurso histórico al Congreso estadounidense.",
+          "definition_es": "Palabras que dice una persona en público para explicar algo importante",
+          "definition_en": "A formal speech given to an audience"
+        },
+        {
+          "word": "confianza",
+          "syllables": "con-fi-AN-za",
+          "pos": "sustantivo",
+          "context": "La confianza de los consumidores mejoró inesperadamente.",
+          "definition_es": "Sentimiento de seguridad y esperanza en algo",
+          "definition_en": "Trust or faith in something"
+        },
+        {
+          "word": "gasolina",
+          "syllables": "ga-so-LI-na",
+          "pos": "sustantivo",
+          "context": "Los precios altos de la gasolina preocupan a las familias.",
+          "definition_es": "Combustible líquido para los coches",
+          "definition_en": "Fuel for cars"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Los despidos en tecnología aumentaron este año.",
+          "definition_es": "Cuando las empresas eliminan trabajos de empleados",
+          "definition_en": "When companies eliminate jobs"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando muchas industrias.",
+          "definition_es": "Tecnología que hace que las máquinas piensen como humanos",
+          "definition_en": "Technology that makes machines think like humans"
+        },
+        {
+          "word": "histórico",
+          "syllables": "his-TÓ-ri-co",
+          "pos": "adjetivo",
+          "context": "Fue un evento histórico para las relaciones diplomáticas.",
+          "definition_es": "Algo muy importante que pasará a la historia",
+          "definition_en": "Something very important that will be remembered in history"
+        },
+        {
+          "word": "inesperadamente",
+          "syllables": "i-nes-pe-ra-da-MEN-te",
+          "pos": "adverbio",
+          "context": "La economía mejoró inesperadamente este mes.",
+          "definition_es": "De manera que no se esperaba",
+          "definition_en": "In a way that was not expected"
+        },
+        {
+          "word": "preocupación",
+          "syllables": "pre-o-cu-pa-CIÓN",
+          "pos": "sustantivo",
+          "context": "Existe preocupación por el futuro del empleo.",
+          "definition_es": "Sentimiento de inquietud o miedo por algo",
+          "definition_en": "Feeling of worry or concern about something"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'discurso'?",
+          "options": [
+            "Una conversación privada",
+            "Palabras dichas en público para explicar algo importante",
+            "Un documento escrito",
+            "Una reunión de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'inesperadamente'?",
+          "options": [
+            "De manera muy lenta",
+            "De manera que no se esperaba",
+            "Con mucha frecuencia",
+            "De forma muy cara"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'despidos'?",
+          "options": [
+            "Nuevos empleos",
+            "Cuando las empresas eliminan trabajos",
+            "Aumentos de salario",
+            "Vacaciones pagadas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inteligencia artificial'?",
+          "options": [
+            "Un tipo de gasolina",
+            "Tecnología que hace que las máquinas piensen como humanos",
+            "Un discurso político",
+            "Una forma de ahorrar dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué hizo especial el discurso del Rey?",
+          "options": [
+            "Fue el primer monarca europeo en hablar al Congreso estadounidense",
+            "Duró más de cinco horas",
+            "Se transmitió por televisión",
+            "Habló en español"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia económica, ¿qué mejoró inesperadamente?",
+          "options": [
+            "Los precios de la gasolina",
+            "La confianza del consumidor",
+            "El precio de los coches",
+            "El clima"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué los precios altos de gasolina preocupan a las familias?",
+          "options": [
+            "Porque no hay suficiente gasolina",
+            "Porque afecta su presupuesto y limita otros gastos",
+            "Porque los coches no funcionan bien",
+            "Porque es mala para el medio ambiente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿cuál es una razón para los despidos además de la inteligencia artificial?",
+          "options": [
+            "Las empresas se mudan a otros países",
+            "Algunas empresas contrataron demasiadas personas durante la pandemia",
+            "Los trabajadores no quieren trabajar",
+            "Las oficinas son muy caras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuántos días durará la visita del Rey?",
+          "options": [
+            "Un día",
+            "Dos días",
+            "Tres días",
+            "Una semana"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué aspecto positivo menciona la historia sobre la inteligencia artificial?",
+          "options": [
+            "Reduce los precios de la gasolina",
+            "También crea nuevos tipos de empleos",
+            "Mejora el clima",
+            "Hace que los coches funcionen mejor"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-04-29T09:39:09.174666"
+    },
+    {
       "date": "2026-04-28",
       "filename": "spanish_lesson_2026-04-28.pdf",
       "path": "pdfs/spanish_lesson_2026-04-28.pdf",
@@ -31550,7 +31772,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-28T09:44:25.497486",
+  "last_updated": "2026-04-29T09:39:09.174705",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
