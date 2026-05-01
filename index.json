@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-01",
+      "filename": "spanish_lesson_2026-05-01.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-01.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump termina el cierre más largo del gobierno estadounidense",
+          "headline_en": "Trump ends the longest US government shutdown",
+          "body_es": "El presidente Trump firmó una ley para terminar el cierre del gobierno. Este cierre duró varias semanas y fue el más largo en la historia de Estados Unidos. El problema principal fueron las diferencias sobre inmigración y seguridad en la frontera. Durante el cierre, muchos trabajadores del gobierno no pudieron trabajar ni recibir su salario. Los servicios públicos también se vieron afectados. Trump quería dinero para construir un muro en la frontera con México. Los demócratas se opusieron a esta idea. Finalmente, las dos partes llegaron a un acuerdo temporal. La nueva ley permite que el gobierno funcione normalmente otra vez.",
+          "body_en": "President Trump signed a bill to end the government shutdown. This shutdown lasted several weeks and was the longest in US history. The main problem was disagreements about immigration and border security. During the shutdown, many government workers couldn't work or receive their salary. Public services were also affected. Trump wanted money to build a wall on the border with Mexico. Democrats opposed this idea. Finally, both parties reached a temporary agreement. The new law allows the government to function normally again.",
+          "source": "BBC"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Solicitudes de desempleo alcanzan nivel más bajo en 50 años",
+          "headline_en": "Unemployment claims reach lowest level in 50 years",
+          "body_es": "Las solicitudes semanales de ayuda por desempleo en Estados Unidos bajaron a 189,000. Esta cifra es la más baja en más de cinco décadas. Los expertos dicen que esto muestra que la economía estadounidense está muy fuerte. Cuando hay pocas solicitudes de desempleo, significa que pocas personas pierden su trabajo. También indica que las empresas están contratando más trabajadores. Esta buena noticia llega en un momento importante para el país. El mercado laboral continúa creciendo y mejorando. Los economistas están optimistas sobre el futuro del empleo. Sin embargo, algunos expertos advierten que la situación puede cambiar rápidamente por factores externos.",
+          "body_en": "Weekly unemployment benefit claims in the United States fell to 189,000. This figure is the lowest in more than five decades. Experts say this shows that the US economy is very strong. When there are few unemployment claims, it means few people are losing their jobs. It also indicates that companies are hiring more workers. This good news comes at an important time for the country. The job market continues to grow and improve. Economists are optimistic about the future of employment. However, some experts warn that the situation can change quickly due to external factors.",
+          "source": "Audacy"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Estados Unidos toma medidas contra empresas chinas de inteligencia artificial",
+          "headline_en": "United States takes action against Chinese AI companies",
+          "body_es": "La administración Trump anunció nuevas medidas contra empresas chinas de tecnología. El gobierno dice que estas empresas están explotando modelos de inteligencia artificial creados en Estados Unidos. Las autoridades estadounidenses están preocupadas por la seguridad nacional. Creen que China está usando tecnología americana para sus propios beneficios. Las nuevas reglas limitarán el acceso de empresas chinas a ciertos tipos de tecnología. Esto incluye sistemas de inteligencia artificial avanzados. El gobierno quiere proteger las innovaciones estadounidenses. Sin embargo, estas decisiones pueden afectar las relaciones comerciales entre los dos países. Muchas empresas tecnológicas están observando la situación con atención para entender cómo les afectará.",
+          "body_en": "The Trump administration announced new measures against Chinese technology companies. The government says these companies are exploiting artificial intelligence models created in the United States. US authorities are concerned about national security. They believe China is using American technology for its own benefits. The new rules will limit Chinese companies' access to certain types of technology. This includes advanced artificial intelligence systems. The government wants to protect American innovations. However, these decisions may affect trade relations between the two countries. Many technology companies are watching the situation carefully to understand how it will affect them.",
+          "source": "AP News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "Trump firma una ley para terminar el cierre récord del gobierno.",
+          "definition_es": "Suspensión temporal de actividades o servicios",
+          "definition_en": "Shutdown, closure"
+        },
+        {
+          "word": "inmigración",
+          "syllables": "in-mi-gra-CIÓN",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno fue por temas de inmigración.",
+          "definition_es": "Llegada de personas a un país para vivir allí",
+          "definition_en": "Immigration"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "des-em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Las solicitudes de desempleo bajaron a números históricos.",
+          "definition_es": "Situación de una persona sin trabajo",
+          "definition_en": "Unemployment"
+        },
+        {
+          "word": "solicitudes",
+          "syllables": "so-li-ci-TU-des",
+          "pos": "sustantivo",
+          "context": "Las solicitudes de ayuda por desempleo disminuyeron mucho.",
+          "definition_es": "Peticiones formales para obtener algo",
+          "definition_en": "Applications, claims"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "El gobierno quiere controlar las empresas chinas de tecnología.",
+          "definition_es": "Organizaciones que hacen negocios o venden productos",
+          "definition_en": "Companies"
+        },
+        {
+          "word": "explotar",
+          "syllables": "ex-plo-TAR",
+          "pos": "verbo",
+          "context": "Las empresas chinas explotan la tecnología estadounidense.",
+          "definition_es": "Usar algo de manera abusiva para beneficio propio",
+          "definition_en": "To exploit"
+        },
+        {
+          "word": "modelos",
+          "syllables": "mo-DE-los",
+          "pos": "sustantivo",
+          "context": "China usa modelos de inteligencia artificial creados en Estados Unidos.",
+          "definition_es": "Sistemas o ejemplos que se usan como referencia",
+          "definition_en": "Models"
+        },
+        {
+          "word": "administración",
+          "syllables": "ad-mi-nis-tra-CIÓN",
+          "pos": "sustantivo",
+          "context": "La administración Trump promete acciones contra empresas chinas.",
+          "definition_es": "Grupo de personas que gobierna un país",
+          "definition_en": "Administration"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'cierre' en el contexto político?",
+          "options": [
+            "Apertura de oficinas",
+            "Suspensión de actividades",
+            "Construcción de edificios",
+            "Firma de documentos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'solicitudes' de desempleo?",
+          "options": [
+            "Ofertas de trabajo",
+            "Peticiones de ayuda",
+            "Contratos laborales",
+            "Salarios altos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'explotar' en el contexto de tecnología?",
+          "options": [
+            "Crear algo nuevo",
+            "Usar de manera abusiva",
+            "Vender productos",
+            "Comprar empresas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'administración' en política?",
+          "options": [
+            "Un edificio gubernamental",
+            "Una empresa privada",
+            "El grupo que gobierna",
+            "Una ley importante"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué ocurrió el cierre del gobierno según la historia política?",
+          "options": [
+            "Por problemas económicos",
+            "Por diferencias sobre inmigración",
+            "Por elecciones presidenciales",
+            "Por desastres naturales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál fue la duración del cierre del gobierno?",
+          "options": [
+            "Algunos días",
+            "Una semana",
+            "Varias semanas",
+            "Un año"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿A qué número bajaron las solicitudes de desempleo?",
+          "options": [
+            "189,000",
+            "289,000",
+            "389,000",
+            "489,000"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué indica un número bajo de solicitudes de desempleo?",
+          "options": [
+            "La economía está mal",
+            "Pocas personas pierden trabajo",
+            "Hay muchos problemas",
+            "Las empresas cierran"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de tecnología quiere proteger Estados Unidos?",
+          "options": [
+            "Computadoras básicas",
+            "Teléfonos móviles",
+            "Inteligencia artificial",
+            "Redes sociales"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la preocupación principal sobre las empresas chinas?",
+          "options": [
+            "Venden productos baratos",
+            "Explotan tecnología americana",
+            "Tienen muchos trabajadores",
+            "Compran empresas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-01T09:31:00.777751"
+    },
+    {
       "date": "2026-04-30",
       "filename": "spanish_lesson_2026-04-30.pdf",
       "path": "pdfs/spanish_lesson_2026-04-30.pdf",
@@ -31994,7 +32216,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-04-30T09:39:17.496151",
+  "last_updated": "2026-05-01T09:31:00.777774",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
