@@ -1,11 +1,196 @@
 {
-  "date": "2026-04-30",
-  "generated_at": "2026-04-30T09:46:59.819614Z",
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:37:34.939135Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 499,
-  "new_today": 6,
+  "total_stories": 504,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250501",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La resina de árboles ayuda a curar heridas crónicas",
+      "headline_en": "Coniferous resin helps heal chronic wounds",
+      "summary_es": "Los investigadores estudian cómo la resina de árboles de coníferas puede mejorar la curación de heridas. Este tratamiento tradicional ahora tiene apoyo científico moderno.",
+      "body_es": "La resina de los árboles de coníferas es un remedio tradicional para curar heridas. Los médicos ahora estudian sus propiedades científicamente. La resina contiene sustancias naturales que ayudan a la curación. Estas sustancias pueden reducir la infección y estimular el crecimiento del tejido nuevo. Los extractos de resina son seguros y naturales. Los investigadores creen que este tratamiento es útil para heridas crónicas. Las heridas crónicas son difíciles de curar con métodos tradicionales. Este estudio combina la medicina tradicional con la ciencia moderna. Los resultados preliminares son prometedores para los pacientes con heridas difíciles.",
+      "body_en": "Resin from coniferous trees is a traditional remedy for wound healing. Doctors are now studying its properties scientifically. The resin contains natural substances that help with healing. These substances can reduce infection and stimulate the growth of new tissue. Resin extracts are safe and natural. Researchers believe this treatment is useful for chronic wounds. Chronic wounds are difficult to heal with traditional methods. This study combines traditional medicine with modern science. Preliminary results are promising for patients with difficult-to-heal wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14NTFwZUpJRS00WG5JXzNoM3l1Mk5RUm9fZjdCNzZQZjBrcUpKZmw2YzF0anR5UWoteC1GY2ZVV1JCd1p1RUo4RE90ZTNIVnU2dS1ZOWpjYkFQN01DM3lLRW9wMGd4akFXOFpmcEFCeHAwSmhiNEQtQmYzSnQ3Umc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-01/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "resina",
+          "definition_es": "sustancia natural pegajosa de los árboles",
+          "definition_en": "resin - sticky natural substance from trees"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "células conectadas que forman órganos",
+          "definition_en": "tissue - connected cells that form organs"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y recuperación",
+          "definition_en": "healing - process of scarring and recovery"
+        }
+      ],
+      "added_at": "2026-05-01T09:37:34.939135Z"
+    },
+    {
+      "id": "pressure-ulcers-20250501",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "blue",
+      "headline_es": "Sábanas inteligentes previenen úlceras por presión",
+      "headline_en": "Smart sheets prevent pressure ulcers",
+      "summary_es": "Nuevas sábanas tecnológicas pueden prevenir las úlceras por presión en hospitales. Estas sábanas especiales detectan y reducen la presión sobre la piel de pacientes.",
+      "body_es": "Los hospitales usan sábanas especiales para prevenir úlceras por presión. Estas sábanas contienen tecnología inteligente. La tecnología detecta dónde hay demasiada presión en el cuerpo del paciente. Las úlceras por presión ocurren cuando un paciente está en la cama mucho tiempo. La presión constante daña la piel y crea llagas. Las sábanas inteligentes pueden distribuir la presión de forma más igual. Esto reduce el daño a la piel. Los hospitales ven que estas sábanas disminuyen las úlceras por presión. El cuidado del paciente es más fácil y seguro. Esta innovación es importante para pacientes que no pueden moverse mucho.",
+      "body_en": "Hospitals use special sheets to prevent pressure ulcers. These sheets contain smart technology. The technology detects where there is too much pressure on the patient's body. Pressure ulcers occur when a patient is in bed for a long time. Constant pressure damages the skin and creates sores. Smart sheets can distribute pressure more equally. This reduces skin damage. Hospitals see that these sheets decrease pressure ulcers. Patient care is easier and safer. This innovation is important for patients who cannot move much.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXBIc1p2ZnNJYkxlSjNxMnVwR19FMVozb3hmZzhCZzE1RjFoUFRmOVA2ajdHN201WnhWcUZQNGFpb0NMSlduaEZUZ2E3QXpiZXI1SGNqNnhxdFEzcXB0MVNxWEtrWmNkeVJoNHMza1RxVmxySmVuN2U1b1ZWSUJkNlVfUEMxZm5ER1piX0xlQlFYM0FWc0NGbXlKa0wweUIxaFE2aWZ1aXhkaXNPekVv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-01/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "llaga en la piel por presión prolongada",
+          "definition_en": "pressure ulcer - sore on skin from prolonged pressure"
+        },
+        {
+          "word": "escara",
+          "definition_es": "tejido muerto en la piel dañada",
+          "definition_en": "eschar - dead tissue on damaged skin"
+        },
+        {
+          "word": "sábana",
+          "definition_es": "tela que cubre la cama del paciente",
+          "definition_en": "sheet - fabric that covers the patient's bed"
+        },
+        {
+          "word": "prevenir",
+          "definition_es": "evitar que algo malo suceda",
+          "definition_en": "prevent - avoid something bad from happening"
+        }
+      ],
+      "added_at": "2026-05-01T09:37:34.939135Z"
+    },
+    {
+      "id": "diabetic-foot-20250501",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Guía esencial para prevenir complicaciones del pie diabético",
+      "headline_en": "Essential guide for preventing diabetic foot complications",
+      "summary_es": "Una guía completa ayuda a pacientes diabéticos a entender cómo prevenir complicaciones en los pies. El cuidado preventivo es fundamental para evitar amputaciones y úlceras graves.",
+      "body_es": "El pie diabético es una complicación seria de la diabetes que afecta a millones de pacientes. La diabetes daña los nervios y los vasos sanguíneos en los pies, lo que reduce la sensibilidad y la circulación. Sin cuidado preventivo adecuado, pueden desarrollarse úlceras que se infectan y causan amputaciones. Una guía reciente proporciona estrategias esenciales para prevenir estas complicaciones. Los pacientes deben inspeccionar sus pies diariamente para detectar lesiones tempranas. Es importante mantener una buena higiene, usar zapatos cómodos y proteger los pies de lesiones. El control glucémico adecuado reduce significativamente el riesgo de complicaciones. Los podólogos recomiendan exámenes regulares y educación continua sobre cuidado del pie. La prevención es más efectiva y menos costosa que tratar complicaciones avanzadas.",
+      "body_en": "Diabetic foot is a serious diabetes complication affecting millions of patients. Diabetes damages nerves and blood vessels in the feet, reducing sensation and circulation. Without proper preventive care, ulcers can develop that become infected and cause amputations. A recent guide provides essential strategies to prevent these complications. Patients must inspect their feet daily to detect early injuries. It is important to maintain good hygiene, wear comfortable shoes, and protect feet from injury. Proper glucose control significantly reduces the risk of complications. Podiatrists recommend regular exams and ongoing foot care education. Prevention is more effective and less costly than treating advanced complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlJTaDZaQUhuNTlyYzFhUm1CSWtTbjFBUVAzVFF1NEFpX25LR3ViUFZ3RUdvVngyUm5vdTF4czBxVGdwZW5FdjFaN2dmeDZwXy11US1UemVjSmUtazFPVE1yQlBLaGNxMFNoYnRqSkZqenNIeEZuS0VMSEs3Uk80TzFna0p5QXFBdVZXUmNUQ3pGajh2SFBldjZjMHdJNGljY3RUOVFxaHY?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-01/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación de la diabetes que afecta los pies",
+          "definition_en": "diabetic foot - diabetes complication affecting feet"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open skin lesion that does not heal easily"
+        },
+        {
+          "word": "neuropatía",
+          "definition_es": "daño en los nervios que reduce la sensibilidad",
+          "definition_en": "neuropathy - nerve damage that reduces sensation"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-05-01T09:37:34.939135Z"
+    },
+    {
+      "id": "burn-care-20250501",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Bombero voluntario sobrevive a quemaduras graves durante batalla contra incendio forestal",
+      "headline_en": "Volunteer firefighter survives severe burns during wildfire battle",
+      "summary_es": "Un bombero voluntario en Utah sufrió quemaduras graves mientras combatía un incendio forestal. Los tratamientos modernos de quemaduras permitieron su recuperación.",
+      "body_es": "Un bombero voluntario en Utah fue herido gravemente durante el combate contra un incendio forestal. Sufrió quemaduras severas en gran parte de su cuerpo mientras trabajaba en condiciones peligrosas. Las quemaduras graves requieren tratamiento especializado inmediato en centros quemológicos. El paciente fue trasladado a una unidad de quemados donde recibió cuidado especializado. El tratamiento incluyó limpieza de heridas, prevención de infecciones y manejo del dolor. Los injertos de piel fueron necesarios para cubrir áreas dañadas. El equipo médico utilizó técnicas avanzadas de curación de heridas. Durante la recuperación, se controlaron factores como el edema, la infección y la cicatrización. Después de meses de cuidado intenso, el bombero fue dado de alta. Su caso demuestra la importancia del tratamiento especializado en quemaduras.",
+      "body_en": "A volunteer firefighter in Utah was severely injured while fighting a wildfire. He suffered severe burns over much of his body while working in dangerous conditions. Severe burns require immediate specialized treatment at burn centers. The patient was transferred to a burn unit where he received specialized care. Treatment included wound cleaning, infection prevention, and pain management. Skin grafts were necessary to cover damaged areas. The medical team used advanced wound healing techniques. During recovery, factors such as edema, infection, and scarring were monitored. After months of intensive care, the firefighter was discharged. His case demonstrates the importance of specialized burn treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wcGN0aUdjWXFkRFoyS2VFT2paM3YxdWEtdkhSUVFQbC15SVZmSzdBbFh0VW8wYy1nLURDOEtBUmVZWUVKR3dlbVhTMlBfRXczQlZSSDVtcnZlcllQN0tEVnI5SVNIdFl4UjhlUnVQbkdfamt2U3ZwOWU0N3oxUQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-01/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel por fuego o calor",
+          "definition_en": "burn - skin injury from fire or heat"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "procedimiento para cubrir área quemada con piel sana",
+          "definition_en": "graft - procedure to cover burned area with healthy skin"
+        },
+        {
+          "word": "edema",
+          "definition_es": "hinchazón causada por acumulación de líquido",
+          "definition_en": "edema - swelling caused by fluid buildup"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz durante curación",
+          "definition_en": "scarring - process of scar formation during healing"
+        }
+      ],
+      "added_at": "2026-05-01T09:37:34.939135Z"
+    },
+    {
+      "id": "surgical-wounds-20250501",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Optimizar ejercicio y nutrición antes de cirugía mejora resultados del paciente",
+      "headline_en": "Optimizing exercise and nutrition before surgery boosts patient outcomes",
+      "summary_es": "El American College of Surgeons reporta que la preparación preoperatoria con ejercicio y nutrición mejora significativamente la curación de heridas quirúrgicas.",
+      "body_es": "El American College of Surgeons ha publicado investigaciones sobre cómo la preparación preoperatoria afecta los resultados quirúrgicos. Los pacientes que realizan ejercicio regular antes de la cirugía tienen mejor capacidad cardiovascular. Una nutrición adecuada fortalece el sistema inmunológico y acelera la curación. La preparación nutricional incluye proteína suficiente para favorecer la síntesis de colágeno. El colágeno es esencial para la cicatrización de heridas quirúrgicas. Los pacientes preparados tienen menos complicaciones postoperatorias, como infecciones. El programa de ejercicio preoperatorio mejora la fuerza muscular y la resistencia. Los cirujanos recomiendan comenzar la preparación varias semanas antes de la operación. Los estudios demuestran que estos pacientes tienen estancias hospitalarias más cortas. La educación del paciente sobre la importancia de esta preparación es crucial para el éxito.",
+      "body_en": "The American College of Surgeons has published research on how preoperative preparation affects surgical outcomes. Patients who exercise regularly before surgery have better cardiovascular capacity. Adequate nutrition strengthens the immune system and accelerates healing. Nutritional preparation includes sufficient protein to promote collagen synthesis. Collagen is essential for surgical wound healing. Prepared patients have fewer postoperative complications, such as infections. The preoperative exercise program improves muscle strength and endurance. Surgeons recommend beginning preparation several weeks before the operation. Studies show that these patients have shorter hospital stays. Patient education about the importance of this preparation is crucial for success.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWdRVlRiV1BoMVphaGhFYnY5eDdNckt1VEJ2YUhQblY5RWJ6cTNJams0YWdMTDdMQzdtTW52emQ3Vl9hU2R3SldaSGpwZC03bWJUQ3VrSjJxcFZsVEx2dHJoYmlTQnMzMDkzTllFM3VnclZUV3YzbUl4ZlJCZl9JQXg3VTVLM2hja1JVZGdIbjJpRlFJeHB6Mk02TDg4aXJQNUZuTm5ZSjJNcWMwa2NhQTl2QTJ6bWFkRUt5bUxNSmM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-01/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada durante una operación quirúrgica",
+          "definition_en": "surgical wound - injury created during surgery"
+        },
+        {
+          "word": "colágeno",
+          "definition_es": "proteína necesaria para cicatrización de heridas",
+          "definition_en": "collagen - protein necessary for wound healing"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de herida quirúrgica",
+          "definition_en": "healing - process of surgical wound recovery"
+        },
+        {
+          "word": "preoperatorio",
+          "definition_es": "periodo antes de una cirugía",
+          "definition_en": "preoperative - period before surgery"
+        }
+      ],
+      "added_at": "2026-05-01T09:37:34.939135Z"
+    },
     {
       "id": "chronic-wounds-20260430",
       "category": "Chronic Wounds",
@@ -18464,6 +18649,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-30T09:46:59.819614Z",
+  "last_updated": "2026-05-01T09:37:34.939135Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
