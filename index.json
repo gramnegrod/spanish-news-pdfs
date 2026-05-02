@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-02",
+      "filename": "spanish_lesson_2026-05-02.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-02.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos dice que no está en guerra con Irán",
+          "headline_en": "United States says it is not at war with Iran",
+          "body_es": "Mike Johnson, presidente de la Cámara de Representantes, declaró que Estados Unidos no está en guerra con Irán. Esta declaración llega cuando la Casa Blanca tiene solo 60 días para tomar decisiones importantes sobre la situación. Las tensiones entre los dos países han aumentado en las últimas semanas. El gobierno estadounidense debe decidir qué acciones tomar antes de que termine el plazo establecido. Johnson quiere calmar las preocupaciones sobre un posible conflicto militar. Sin embargo, las relaciones diplomáticas siguen siendo muy difíciles. Los expertos políticos observan la situación con mucha atención. La administración actual busca soluciones pacíficas al problema.",
+          "body_en": "Mike Johnson, Speaker of the House of Representatives, declared that the United States is not at war with Iran. This statement comes when the White House has only 60 days to make important decisions about the situation. Tensions between the two countries have increased in recent weeks. The American government must decide what actions to take before the established deadline ends. Johnson wants to calm concerns about a possible military conflict. However, diplomatic relations remain very difficult. Political experts are watching the situation very carefully. The current administration seeks peaceful solutions to the problem.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El precio del petróleo sube a más de 120 dólares por las tensiones con Irán",
+          "headline_en": "Oil price rises to over $120 due to tensions with Iran",
+          "body_es": "El precio del petróleo alcanzó su punto más alto en tiempos de conflicto, subiendo a más de 120 dólares por barril. Esta subida se debe a las tensiones entre Estados Unidos e Irán. Los mercados financieros están preocupados por una posible guerra en el Medio Oriente. Los expertos en economía dicen que los precios pueden subir más si la situación empeora. Las empresas de energía están ganando mucho dinero con estos precios altos. Sin embargo, los consumidores están pagando más por la gasolina y otros productos. Esta crisis afecta la economía mundial de manera significativa. Los gobiernos buscan maneras de controlar el aumento de precios para proteger a sus ciudadanos.",
+          "body_en": "The price of oil reached its highest point in times of conflict, rising to more than $120 per barrel. This increase is due to tensions between the United States and Iran. Financial markets are worried about a possible war in the Middle East. Economic experts say prices could rise further if the situation worsens. Energy companies are making a lot of money with these high prices. However, consumers are paying more for gasoline and other products. This crisis significantly affects the global economy. Governments are looking for ways to control price increases to protect their citizens.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas de inteligencia artificial trabajarán con el gobierno militar",
+          "headline_en": "Artificial intelligence companies will work with the military government",
+          "body_es": "Las principales empresas de inteligencia artificial firmaron un acuerdo para trabajar con el Pentágono. Estas compañías compartirán datos secretos con el gobierno militar estadounidense. El acuerdo incluye información muy importante sobre tecnología avanzada. Las empresas tecnológicas más grandes del país participan en este proyecto especial. El Pentágono quiere usar la inteligencia artificial para mejorar la seguridad nacional. Sin embargo, algunas personas están preocupadas por la privacidad de los datos. Los expertos en tecnología dicen que esta colaboración puede cambiar el futuro de la defensa. El gobierno promete usar esta información de manera responsable. Esta decisión marca un nuevo capítulo en la relación entre tecnología y defensa nacional.",
+          "body_en": "The main artificial intelligence companies signed an agreement to work with the Pentagon. These companies will share secret data with the US military government. The agreement includes very important information about advanced technology. The country's largest technology companies are participating in this special project. The Pentagon wants to use artificial intelligence to improve national security. However, some people are worried about data privacy. Technology experts say this collaboration could change the future of defense. The government promises to use this information responsibly. This decision marks a new chapter in the relationship between technology and national defense.",
+          "source": "The Washington Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "guerra",
+          "syllables": "GUE-rra",
+          "pos": "sustantivo",
+          "context": "El presidente de la Cámara dice que Estados Unidos no está en guerra con Irán.",
+          "definition_es": "Conflicto armado entre países o grupos",
+          "definition_en": "Armed conflict between countries or groups"
+        },
+        {
+          "word": "plazo",
+          "syllables": "PLA-zo",
+          "pos": "sustantivo",
+          "context": "La Casa Blanca se acerca al plazo de 60 días para tomar una decisión.",
+          "definition_es": "Tiempo límite para hacer algo",
+          "definition_en": "Time limit to do something"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo subió a más de 120 dólares por barril.",
+          "definition_es": "Líquido negro que se usa para hacer gasolina",
+          "definition_en": "Black liquid used to make gasoline"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las principales empresas de inteligencia artificial trabajarán con el gobierno.",
+          "definition_es": "Organizaciones que hacen negocios",
+          "definition_en": "Organizations that do business"
+        },
+        {
+          "word": "secreto",
+          "syllables": "se-CRE-to",
+          "pos": "adjetivo",
+          "context": "Las compañías de IA compartirán datos secretos con el Pentágono.",
+          "definition_es": "Información que no es pública",
+          "definition_en": "Information that is not public"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas firmaron un acuerdo con el gobierno militar.",
+          "definition_es": "Decisión tomada entre dos o más partes",
+          "definition_en": "Decision made between two or more parties"
+        },
+        {
+          "word": "precio",
+          "syllables": "PRE-cio",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo aumentó debido a las tensiones internacionales.",
+          "definition_es": "Cantidad de dinero que cuesta algo",
+          "definition_en": "Amount of money something costs"
+        },
+        {
+          "word": "tensión",
+          "syllables": "ten-SIÓN",
+          "pos": "sustantivo",
+          "context": "La tensión entre Estados Unidos e Irán afecta los mercados mundiales.",
+          "definition_es": "Situación difícil entre países o personas",
+          "definition_en": "Difficult situation between countries or people"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'plazo'?",
+          "options": [
+            "Tiempo límite",
+            "Precio alto",
+            "Acuerdo secreto",
+            "Guerra larga"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'tensión' en el contexto de las noticias?",
+          "options": [
+            "Precio del petróleo",
+            "Situación difícil entre países",
+            "Tipo de tecnología",
+            "Reunión secreta"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Las 'empresas' son:",
+          "options": [
+            "Conflictos militares",
+            "Organizaciones que hacen negocios",
+            "Datos secretos",
+            "Precios altos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué producto subió a más de 120 dólares?",
+          "options": [
+            "La tecnología",
+            "El petróleo",
+            "Los datos",
+            "Las empresas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos días tiene la Casa Blanca para tomar decisiones según la primera noticia?",
+          "options": [
+            "30 días",
+            "60 días",
+            "90 días",
+            "120 días"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Quién dijo que Estados Unidos no está en guerra con Irán?",
+          "options": [
+            "El presidente",
+            "Mike Johnson",
+            "Un experto",
+            "El Pentágono"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué subió el precio del petróleo según la segunda noticia?",
+          "options": [
+            "Por las empresas",
+            "Por la tecnología",
+            "Por las tensiones con Irán",
+            "Por el gobierno"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué van a compartir las empresas de IA con el Pentágono?",
+          "options": [
+            "Dinero",
+            "Empleados",
+            "Datos secretos",
+            "Oficinas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Quiénes están pagando más por la gasolina según la noticia económica?",
+          "options": [
+            "Las empresas",
+            "Los consumidores",
+            "Los gobiernos",
+            "Los expertos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Para qué quiere el Pentágono usar la inteligencia artificial?",
+          "options": [
+            "Para ganar dinero",
+            "Para mejorar la seguridad nacional",
+            "Para subir precios",
+            "Para hacer guerra"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-02T09:22:56.966425"
+    },
+    {
       "date": "2026-05-01",
       "filename": "spanish_lesson_2026-05-01.pdf",
       "path": "pdfs/spanish_lesson_2026-05-01.pdf",
@@ -32216,7 +32438,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-01T09:31:00.777774",
+  "last_updated": "2026-05-02T09:22:56.966446",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
