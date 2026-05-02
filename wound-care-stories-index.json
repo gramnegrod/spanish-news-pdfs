@@ -1,11 +1,196 @@
 {
-  "date": "2026-05-01",
-  "generated_at": "2026-05-01T09:37:34.939135Z",
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:29:41.023283Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 504,
+  "total_stories": 509,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250502",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevas esferas microscópicas ayudan a sanar heridas diabéticas",
+      "headline_en": "New microscopic spheres help heal diabetic wounds",
+      "summary_es": "Investigadores usan biomasa de plantas para crear esferas microscópicas que mejoran la curación de heridas en pacientes diabéticos. Este nuevo tratamiento ofrece una opción innovadora para el cuidado de heridas crónicas.",
+      "body_es": "Un equipo de investigadores ha desarrollado una nueva tecnología para tratar heridas diabéticas. Utilizan biomasa de plantas para crear pequeñas esferas microscópicas con propiedades fotosintéticas. Estas esferas ayudan a mejorar la curación de heridas crónicas en pacientes con diabetes. El tratamiento funciona estimulando el proceso natural de cicatrización de la piel. Los investigadores creen que esta técnica puede revolucionar el cuidado de heridas diabéticas. El estudio fue publicado en la revista Nature. Este avance es importante porque las heridas diabéticas son un problema grave en la medicina. Muchos pacientes diabéticos sufren complicaciones por heridas que no cierran correctamente. La nueva tecnología ofrece esperanza para mejorar la calidad de vida de estos pacientes.",
+      "body_en": "A team of researchers has developed new technology to treat diabetic wounds. They use plant biomass to create small microscopic spheres with photosynthetic properties. These spheres help improve wound healing in chronic diabetic patients. The treatment works by stimulating the natural skin healing process. Researchers believe this technique can revolutionize diabetic wound care. The study was published in the journal Nature. This advance is important because diabetic wounds are a serious medical problem. Many diabetic patients suffer complications from wounds that do not close properly. The new technology offers hope to improve the quality of life for these patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wNm85YVBGdGFldW4zVVNtbkN1Y3V3aHl3Qmx2UlhpakF5WENOSThpbWpjU1FRZUdrWlRGT0dnNzZBVnNpVDhLZUxROUVteWJIX0E5eldRSlZGV3ZUVFhN?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-02/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o tejido",
+          "definition_en": "wound - injury to skin or tissue"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "diabético",
+          "definition_es": "persona con diabetes",
+          "definition_en": "diabetic - person with diabetes"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de cicatriz durante la curación",
+          "definition_en": "scarring - scar formation during healing"
+        }
+      ],
+      "added_at": "2026-05-02T09:29:41.023283Z"
+    },
+    {
+      "id": "pressure-ulcers-20250502",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "blue",
+      "headline_es": "Sábanas inteligentes previenen úlceras por presión en hospitales",
+      "headline_en": "Smart sheets prevent pressure ulcers in hospitals",
+      "summary_es": "Los hospitales ahora usan sábanas especiales con tecnología inteligente para prevenir úlceras por presión en los pacientes. Esta innovación puede revolucionar la forma en que se previenen las escaras.",
+      "body_es": "Los hospitales están utilizando una nueva tecnología de telas inteligentes para prevenir úlceras por presión. Estas sábanas especiales monitorean la presión en la piel del paciente. El tejido inteligente detecta áreas de riesgo y ayuda a distribuir el peso del cuerpo. Las úlceras por presión son heridas graves que se forman cuando una persona permanece en la misma posición por mucho tiempo. Este problema es frecuente en pacientes hospitalizados que no pueden moverse. Las nuevas sábanas ofrecen una solución innovadora para este problema serio. El sistema funciona automáticamente durante el descanso del paciente. Los hospitales reportan mejores resultados con esta tecnología. La prevención es más efectiva que el tratamiento de úlceras ya formadas.",
+      "body_en": "Hospitals are using new smart fabric technology to prevent pressure ulcers. These special sheets monitor the pressure on the patient's skin. The smart fabric detects risk areas and helps distribute body weight. Pressure ulcers are serious wounds that form when a person stays in the same position for a long time. This problem is common in hospitalized patients who cannot move. The new sheets offer an innovative solution to this serious problem. The system works automatically during patient rest. Hospitals report better results with this technology. Prevention is more effective than treating ulcers that have already formed.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXBIc1p2ZnNJYkxlSjNxMnVwR19FMVozb3hmZzhCZzE1RjFoUFRmOVA2ajdHN201WnhWcUZQNGFpb0NMSlduaEZUZ2E3QXpiZXI1SGNqNnhxdFEzcXB0MVNxWEtrWmNkeVJoNHMza1RxVmxySmVuN2U1b1ZWSUJkNlVfUEMxZm5ER1piX0xlQlFYM0FWc0NGbXlKa0wweUIxaFE2aWZ1aXhkaXNPekVv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-02/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida causada por presión prolongada en la piel",
+          "definition_en": "pressure ulcer - wound caused by prolonged pressure on skin"
+        },
+        {
+          "word": "escara",
+          "definition_es": "tejido muerto por falta de circulación",
+          "definition_en": "eschar - dead tissue from lack of circulation"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "evitar que algo suceda",
+          "definition_en": "prevention - avoiding something from happening"
+        },
+        {
+          "word": "monitorear",
+          "definition_es": "observar y controlar constantemente",
+          "definition_en": "monitor - observe and control constantly"
+        }
+      ],
+      "added_at": "2026-05-02T09:29:41.023283Z"
+    },
+    {
+      "id": "diabetic-foot-20250502",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Cámara hiperbárica ofrece opción efectiva para el cuidado de heridas diabéticas",
+      "headline_en": "Hyperbaric chamber offers effective option for diabetic wound care",
+      "summary_es": "La oxigenoterapia hiperbárica emerge como una opción terapéutica prometedora para pacientes con úlceras del pie diabético. Este tratamiento no invasivo mejora la cicatrización en heridas que son difíciles de sanar.",
+      "body_es": "La terapia hiperbárica se está utilizando cada vez más en el tratamiento de úlceras del pie diabético. El paciente se coloca en una cámara especial donde respira oxígeno a presión aumentada. Este proceso, conocido como oxigenoterapia hiperbárica, mejora la circulación sanguínea en las áreas afectadas. La oxigenación aumentada estimula la formación de nuevos vasos sanguíneos, lo que facilita la cicatrización. Los pacientes con diabetes frecuentemente desarrollan úlceras en los pies que no sanan correctamente debido a la mala circulación. La cámara hiperbárica ofrece una solución no invasiva que complementa otros tratamientos. Los resultados clínicos muestran que este tratamiento reduce el tiempo de curación significativamente. Los especialistas en cuidado de heridas recomiendan esta terapia como opción alternativa o complementaria. Este enfoque ha demostrado ser especialmente efectivo en casos donde otros tratamientos han fallado.",
+      "body_en": "Hyperbaric therapy is increasingly used in treating diabetic foot ulcers. The patient is placed in a special chamber where they breathe oxygen at increased pressure. This process, known as hyperbaric oxygen therapy, improves blood circulation in affected areas. Increased oxygenation stimulates the formation of new blood vessels, which facilitates healing. Diabetic patients frequently develop foot ulcers that do not heal properly due to poor circulation. The hyperbaric chamber offers a non-invasive solution that complements other treatments. Clinical results show that this treatment significantly reduces healing time. Wound care specialists recommend this therapy as an alternative or complementary option. This approach has proven especially effective in cases where other treatments have failed.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR1FIVGtyOGRsR2J0aWoyRHVFbk1DZ0lDMTZ1bHF1U0lTMEhSek8tZ3ljdl9FMjVXZ1R4dlIyRkdGamNHeFhkV0xCWTZjdm44ZjRLMjdjLWo3U01FWkRHT1FQeDRsd1lLelFnZVpCNU8xTkFrZWJHaWxEZHFvWTVhc3h3RTBZenRIQm1nam9GVUR2Rzg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-02/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "hiperbárico",
+          "definition_es": "relativo a presión de aire aumentada",
+          "definition_en": "hyperbaric - relating to increased air pressure"
+        },
+        {
+          "word": "oxigenoterapia",
+          "definition_es": "tratamiento con oxígeno puro",
+          "definition_en": "oxygen therapy - treatment with pure oxygen"
+        },
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "herida en el pie causada por diabetes",
+          "definition_en": "diabetic foot ulcer - foot wound caused by diabetes"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y formación de cicatriz",
+          "definition_en": "healing - process of wound closure and scar formation"
+        }
+      ],
+      "added_at": "2026-05-02T09:29:41.023283Z"
+    },
+    {
+      "id": "burn-care-20250502",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "AVITA Medical obtiene certificación regulatoria para sistema de regeneración de piel RECELL GO",
+      "headline_en": "AVITA Medical receives regulatory certification for RECELL GO skin regeneration system",
+      "summary_es": "AVITA Medical ha obtenido la certificación de las autoridades regulatorias australianas y neozelandesas para su sistema RECELL GO. Esta tecnología revoluciona el tratamiento de quemaduras al permitir la regeneración de piel en minutos.",
+      "body_es": "AVITA Medical ha anunciado que su sistema RECELL GO ha recibido la certificación de la Administración de Bienes Terapéuticos (TGA) de Australia. Además, el producto ha sido listado en el registro WAND de Medsafe en Nueva Zelanda. El sistema RECELL GO es una tecnología innovadora para el tratamiento de quemaduras y heridas extensas. Este dispositivo permite procesar células de piel viva en minutos para crear un spray regenerativo. El proceso utilizando RECELL GO es menos invasivo que los métodos tradicionales de injerto de piel. Los pacientes con quemaduras graves requieren soluciones rápidas y efectivas para minimizar cicatrices. La tecnología proporciona una alternativa que acelera la cicatrización y mejora los resultados estéticos. Los médicos especialistas en quemados pueden aplicar el tratamiento en el quirófano durante la intervención inicial. Esta certificación representa un avance significativo en la disponibilidad de opciones terapéuticas modernas en países del Pacífico.",
+      "body_en": "AVITA Medical has announced that its RECELL GO system has received certification from Australia's Therapeutic Goods Administration (TGA). Additionally, the product has been listed in New Zealand's Medsafe WAND registry. The RECELL GO system is innovative technology for treating burns and extensive wounds. This device allows processing of live skin cells within minutes to create a regenerative spray. The process using RECELL GO is less invasive than traditional skin graft methods. Patients with severe burns require rapid and effective solutions to minimize scarring. The technology provides an alternative that accelerates healing and improves aesthetic results. Burn specialists can apply the treatment in the operating room during initial intervention. This certification represents a significant advance in the availability of modern therapeutic options in Pacific countries.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSTROMEZDNjB4dVFLTlh6TnFEdlZQc0p5bERYM2FZZ0JTM3dZczRrWWxOQ2J6UUFHX1VRallBQ2p2RnRjQVNoa3BlQW5heEc1UnljUmtfMF8xRjliNGozNEJNQ1dBU1ZydTltMmNxRmlBNlh3a2VmVXN3ZVg5VUttMXVvaDd4cThlMHltT21ucVBUWkU2ZmY2ZzRiSXZaM3ZHYzh4M1lyX3JRLWpkcy1mQ3NFTGVDam13am5pLUJxcnM1UUlFc0RhMFV3bHFnaWtV?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-02/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor o fuego",
+          "definition_en": "burn - skin injury caused by heat or fire"
+        },
+        {
+          "word": "regeneración de piel",
+          "definition_es": "proceso de crecimiento de nueva piel",
+          "definition_en": "skin regeneration - process of new skin growth"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "trasplante de piel de una zona a otra",
+          "definition_en": "graft - transplant of skin from one area to another"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        }
+      ],
+      "added_at": "2026-05-02T09:29:41.023283Z"
+    },
+    {
+      "id": "surgical-wounds-20250502",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "La optimización nutricional preoperatoria mejora significativamente los resultados quirúrgicos",
+      "headline_en": "Preoperative nutritional optimization significantly improves surgical outcomes",
+      "summary_es": "Un estudio del Colegio Americano de Cirujanos demuestra que la optimización del ejercicio y la nutrición antes de la cirugía mejora la recuperación y reduce complicaciones de heridas postoperatorias.",
+      "body_es": "El Colegio Americano de Cirujanos ha publicado evidencia que respalda la importancia de optimizar la nutrición y el ejercicio antes de procedimientos quirúrgicos. Los pacientes que reciben una preparación preoperatoria adecuada experimentan mejor cicatrización de heridas quirúrgicas. La nutrición optimizada proporciona los nutrientes esenciales que el cuerpo necesita para una recuperación efectiva. El ejercicio preoperatorio mejora la capacidad cardiovascular y muscular del paciente antes de la intervención. Estos factores reducen el riesgo de infecciones de heridas quirúrgicas y complicaciones postoperatorias. Los nutrientes críticos como proteína, vitamina C y zinc son fundamentales para la cicatrización. Los cirujanos recomiendan que los pacientes trabajen con especialistas en nutrición antes de la cirugía. Este enfoque multidisciplinario ha demostrado reducir la duración de la hospitalización. Los resultados sugieren que la preparación preoperatoria es tan importante como la técnica quirúrgica misma.",
+      "body_en": "The American College of Surgeons has published evidence supporting the importance of optimizing nutrition and exercise before surgical procedures. Patients who receive adequate preoperative preparation experience better surgical wound healing. Optimized nutrition provides essential nutrients that the body needs for effective recovery. Preoperative exercise improves the patient's cardiovascular and muscular capacity before intervention. These factors reduce the risk of surgical site infections and postoperative complications. Critical nutrients such as protein, vitamin C, and zinc are fundamental for wound healing. Surgeons recommend that patients work with nutrition specialists before surgery. This multidisciplinary approach has demonstrated reduced hospital stay duration. The results suggest that preoperative preparation is as important as surgical technique itself.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWdRVlRiV1BoMVphaGhFYnY5eDdNckt1VEJ2YUhQblY5RWJ6cTNJams0YWdMTDdMQzdtTW52emQ3Vl9hU2R3SndaSGpwZC03bWJUQ3VrSjJxcFZsVEx2dHJoYmlTQnMzMDkzTllFM3VnclZUV3YzbUl4ZlJCZl9JQXg3VTVLM2hja1JVZGdIbjJpRlFJeHB6Mk02TDg4aXJQNUZuTm5ZSjJNcWMwa2NhQTl2QTJ6bWFkRUt5bUxNSmM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-02/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión causada por una intervención quirúrgica",
+          "definition_en": "surgical wound - injury caused by surgical intervention"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y curación de una herida",
+          "definition_en": "wound healing - process of closure and recovery of a wound"
+        },
+        {
+          "word": "nutrición preoperatoria",
+          "definition_es": "alimentación óptima antes de la cirugía",
+          "definition_en": "preoperative nutrition - optimal feeding before surgery"
+        },
+        {
+          "word": "infección quirúrgica",
+          "definition_es": "infección en el sitio de una incisión quirúrgica",
+          "definition_en": "surgical site infection - infection at surgical incision site"
+        }
+      ],
+      "added_at": "2026-05-02T09:29:41.023283Z"
+    },
     {
       "id": "chronic-wounds-20250501",
       "category": "Chronic Wounds",
@@ -18649,6 +18834,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-01T09:37:34.939135Z",
+  "last_updated": "2026-05-02T09:29:41.023283Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
