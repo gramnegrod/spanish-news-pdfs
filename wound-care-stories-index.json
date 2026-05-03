@@ -1,11 +1,233 @@
 {
-  "date": "2026-05-02",
-  "generated_at": "2026-05-02T09:29:41.023283Z",
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:35:05.292720Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 509,
-  "new_today": 5,
+  "total_stories": 515,
+  "new_today": 6,
   "stories": [
+    {
+      "id": "chronic-wounds-20250503",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo estudio muestra curación más duradera de heridas crónicas",
+      "headline_en": "New study demonstrates improved durable wound healing",
+      "summary_es": "Un estudio reciente de AOTI demuestra que el nuevo tratamiento mejora la curación de heridas crónicas. Los resultados son más duraderos y efectivos.",
+      "body_es": "Un estudio importante de AOTI muestra resultados positivos en la curación de heridas crónicas. El tratamiento nuevo es más efectivo que los métodos tradicionales. Los pacientes con heridas crónicas reciben un nuevo apósito especial. Este apósito ayuda a la cicatrización más rápido. Los resultados del estudio son muy buenos. Las heridas cicatrizan mejor y durante más tiempo. Los enfermeros pueden usar este tratamiento en los hospitales. Es importante para pacientes con úlceras y heridas que no cierran. Este avance ayuda a muchas personas cada año.",
+      "body_en": "An important AOTI study shows positive results in chronic wound healing. The new treatment is more effective than traditional methods. Patients with chronic wounds receive a new special dressing. This dressing helps wounds heal faster. The study results are very good. Wounds heal better and stay healed longer. Nurses can use this treatment in hospitals. It is important for patients with ulcers and wounds that do not close. This advancement helps many people each year.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3dWLUlkWjd0dzBOODB3dmFSbEYzUjZ4QzMzNU5kNkNzUmppSk5LUzkyRmtRcW1seUtOckI3Zko0S3JDd2g1MHVqZWVVak1XQkwzMG1SLXZJUUQzQlFzMkVyNnF5dWRITmY4YV8yNGcxdkFJWlBrZVF2ZVdDUUFEMXNVOERsQUpTNWlHek9ndmo5TE0?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-03/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y curación de herida",
+          "definition_en": "healing - process of wound closure and recovery"
+        },
+        {
+          "word": "curación duradera",
+          "definition_es": "sanación que permanece a largo plazo",
+          "definition_en": "durable healing - recovery that lasts long-term"
+        }
+      ],
+      "added_at": "2026-05-03T09:35:05.292720Z"
+    },
+    {
+      "id": "pressure-ulcers-20250503",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "blue",
+      "headline_es": "Nuevas sábanas inteligentes previenen úlceras por presión en hospitales",
+      "headline_en": "Smart fabric sheets could revolutionize prevention of bedsores",
+      "summary_es": "Un nuevo tejido inteligente puede prevenir las úlceras por presión en pacientes hospitalizados. Este tejido monitoriza la piel y previene daños.",
+      "body_es": "Las úlceras por presión son lesiones graves que afectan a muchos pacientes en camas de hospital. Un nuevo tejido inteligente puede ayudar a prevenir estos problemas. Las sábanas especiales monitorean la piel del paciente continuamente. El tejido detecta cambios de temperatura y humedad. Cuando hay riesgo de úlcera, el sistema avisa al enfermero. Los hospitales usan estas sábanas nuevas para proteger a pacientes inmóviles. El tejido inteligente es especialmente útil en unidades de cuidados intensivos. Prevenir úlceras por presión es muy importante para la salud del paciente. Este invento ayuda a reducir complicaciones graves.",
+      "body_en": "Pressure ulcers are serious injuries that affect many hospitalized patients. A new smart fabric can help prevent these problems. Special sheets monitor the patient's skin continuously. The fabric detects changes in temperature and humidity. When there is risk of an ulcer, the system alerts the nurse. Hospitals use these new sheets to protect immobile patients. Smart fabric is especially useful in intensive care units. Preventing pressure ulcers is very important for patient health. This invention helps reduce serious complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXBIc1p2ZnNJYkxlSjNxMnVwR19FMVozb3hmZzhCZzE1RjFoUFRmOVA2ajdHN201WnhWcUZQNGFpb0NMSlduaEZUZ2E3QXpiZXI1SGNqNnhxdFEzcXB0MVNxWEtrWmNkeVJoNHMza1RxVmxySmVuN2U1b1ZWSUJkNlVfUEMxZm5ER1piX0xlQlFYM0FWc0NGbXlKa0wweUIxaFE2aWZ1aXhkaXNPekVv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-03/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "lesión de piel causada por presión prolongada",
+          "definition_en": "pressure ulcer - skin injury caused by prolonged pressure"
+        },
+        {
+          "word": "escara",
+          "definition_es": "tejido muerto en herida por presión",
+          "definition_en": "bedsore - dead tissue in pressure wound"
+        },
+        {
+          "word": "monitoreo",
+          "definition_es": "observación continua de la piel",
+          "definition_en": "monitoring - continuous observation of skin"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar enfermedad",
+          "definition_en": "prevention - actions to avoid disease"
+        }
+      ],
+      "added_at": "2026-05-03T09:35:05.292720Z"
+    },
+    {
+      "id": "diabetic-foot-20250503",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Comprensión profunda de las complicaciones diabéticas y su prevención",
+      "headline_en": "Understanding Diabetes Complications and How to Prevent Them",
+      "summary_es": "Un nuevo enfoque educativo ayuda a pacientes diabéticos a comprender las complicaciones del pie y métodos efectivos de prevención.",
+      "body_es": "Las complicaciones del pie diabético representan uno de los desafíos más importantes en la atención de pacientes con diabetes. Cuando la glucosa en sangre permanece elevada durante mucho tiempo, afecta los nervios y los vasos sanguíneos en los pies. Los pacientes pueden perder sensibilidad y no notar pequeñas heridas o lesiones. Esto puede llevar a infecciones graves y úlceras del pie que son difíciles de cicatrizar. La prevención es esencial para evitar estas complicaciones serias. Los enfermeros deben educar a los pacientes sobre inspección diaria de los pies, mantener el control glucémico y usar calzado apropiado. El cuidado regular de las uñas y la piel es fundamental. Los pacientes que reciben educación temprana tienen mejores resultados. La evaluación regular del pie diabético puede detectar problemas antes de que se conviertan en complicaciones graves.",
+      "body_en": "Diabetic foot complications represent one of the most important challenges in caring for diabetic patients. When blood glucose remains elevated for a long time, it affects the nerves and blood vessels in the feet. Patients may lose sensation and not notice small wounds or injuries. This can lead to serious infections and foot ulcers that are difficult to heal. Prevention is essential to avoid these serious complications. Nurses must educate patients about daily foot inspection, maintaining blood glucose control, and wearing appropriate footwear. Regular care of nails and skin is fundamental. Patients who receive early education have better outcomes. Regular diabetic foot evaluation can detect problems before they become serious complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS2JvTi0tUVpYamlhZUNGTFBkQ2lEc1Itb2M5amJQUDFpRmRMTjZDNHprM0oxdzBtZFZNckFEbE5mVHBqSDNTWTlWY2lFa3AyMzlLS05FdVlPbE5Vd2FrV2RsZThPQWFLMVk1M1phMW5qVVlaTktYOTgtZDNtcE10ekxHaUxqUEExQmJSaV9MSTRZMWdxUThJanpTMkU2cmVEQk85QmppdTg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-03/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "neuropatía diabética",
+          "definition_es": "daño nervioso causado por diabetes",
+          "definition_en": "diabetic neuropathy - nerve damage caused by diabetes"
+        },
+        {
+          "word": "úlcera del pie",
+          "definition_es": "lesión abierta en el pie que cuesta cicatrizar",
+          "definition_en": "foot ulcer - open sore on foot that is difficult to heal"
+        },
+        {
+          "word": "glucemia",
+          "definition_es": "nivel de glucosa en la sangre",
+          "definition_en": "blood glucose - level of sugar in blood"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "disminución del flujo de sangre a los tejidos",
+          "definition_en": "ischemia - reduced blood flow to tissues"
+        }
+      ],
+      "added_at": "2026-05-03T09:35:05.292720Z"
+    },
+    {
+      "id": "burn-care-20250503",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Nueva generación de sustitutos de piel ofrece esperanza a quemados graves",
+      "headline_en": "New generation of skin substitutes give hope to severe burn patients",
+      "summary_es": "Innovadores sustitutos de piel están revolucionando el tratamiento de quemaduras graves, proporcionando mejores resultados en cicatrización y función.",
+      "body_es": "Los pacientes con quemaduras graves enfrentan desafíos significativos en la curación de heridas extensas. Las nuevas generaciones de sustitutos de piel representan un avance importante en el manejo de estas lesiones complejas. Estos productos biológicos y sintéticos reemplazan la piel dañada mientras el cuerpo se recupera. Los sustitutos modernos contienen componentes que promueven la cicatrización y reducen la infección. Durante el proceso de curación, la nueva piel proporciona protección contra pérdida de fluidos y reduce el dolor del paciente. Los cirujanos pueden aplicar estos sustitutos en el quirófano, acelerando el tiempo de recuperación. La epitelización se produce más rápidamente cuando se utilizan estos productos avanzados. Los resultados funcionales y estéticos han mejorado significativamente en comparación con métodos tradicionales. Este avance es particularmente beneficioso para pacientes con quemaduras de espesor total que requieren injertos.",
+      "body_en": "Patients with severe burns face significant challenges in healing extensive wounds. New generations of skin substitutes represent an important advance in managing these complex injuries. These biological and synthetic products replace damaged skin while the body recovers. Modern substitutes contain components that promote healing and reduce infection. During the healing process, the new skin provides protection against fluid loss and reduces patient pain. Surgeons can apply these substitutes in the operating room, accelerating recovery time. Epithelialization occurs more rapidly when these advanced products are used. Functional and aesthetic results have improved significantly compared to traditional methods. This advance is particularly beneficial for patients with full-thickness burns requiring grafts.",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOa2tVZjVuRXRVbEphTXA4TVZSV0l6NkFPNGlBa21oY2F5RWszZFZRSEUwTjYxd1dsbGc1dXhZeVlfY2dZU254cnZUbmFfWFlTdmxVTXBENkdEWDBPZktuU0Q0XzYyYVFRaktWellrZ043M25VYW12VDJYazEwSDRLeHN6b3lYbFJTVmNROEZmNGNVTC0xT1F5X3lqZU4wWFpiWFNkREhVNEZaeDNFZ2txX1VLbFVDbDVhbWJrSGttSmN6TWtBQnV1NUxCXzdOd2o1Um5Ta1N0UTFGV1hyeVlpQjU4TDl2eTFqYVlSWFBWSkUtcXhkZUx0MTlHMFhCSmlKQ1JpOTZYcDhxUUc5SjZ6RWdLWXE2c1lXLWRrbURuOGlheVFHTDBDNm1rZ1loNDBVX2VUZXpNRUdkeVBGM1JJb3d3dERMWGtqOHJTU0RfajVPTXhIaGFQUmVBZU1kQWhxY01FR1plMUhpN3JF?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-03/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura de espesor total",
+          "definition_es": "quemadura que destruye todas las capas de piel",
+          "definition_en": "full-thickness burn - burn that destroys all skin layers"
+        },
+        {
+          "word": "sustituto de piel",
+          "definition_es": "material que reemplaza piel dañada",
+          "definition_en": "skin substitute - material that replaces damaged skin"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva capa externa de piel",
+          "definition_en": "epithelialization - formation of new outer layer of skin"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "transferencia de piel de otra área corporal",
+          "definition_en": "graft - transfer of skin from another body area"
+        }
+      ],
+      "added_at": "2026-05-03T09:35:05.292720Z"
+    },
+    {
+      "id": "surgical-wounds-20250503",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "green",
+      "headline_es": "Optimizar nutrición y ejercicio antes de cirugía mejora los resultados del paciente",
+      "headline_en": "Optimizing exercise and nutrition before surgery boosts patient outcomes",
+      "summary_es": "Programas de nutrición y ejercicio preoperatorio aceleran la recuperación y reducen las complicaciones en pacientes quirúrgicos.",
+      "body_es": "La preparación preoperatoria es un componente crítico para mejorar los resultados de la cirugía y acelerar la recuperación. Los estudios demuestran que los pacientes que reciben programas de optimización nutricional y ejercicio antes de la cirugía presentan menos complicaciones en heridas quirúrgicas. La nutrición adecuada proporciona los nutrientes necesarios para la síntesis de proteína y la cicatrización de tejidos. Los ejercicios de entrenamiento cardiovascular y fortalecimiento mejoran la capacidad funcional preoperatoria. Durante el período postoperatorio, estos pacientes presentan mejor cicatrización de las incisiones quirúrgicas y menor riesgo de infección. El vendaje y cuidado de la herida quirúrgica se facilita cuando hay mejor perfusión tisular. Los tiempos de hospitalización se reducen significativamente, lo que beneficia tanto al paciente como al sistema de salud. Los enfermeros deben educar a los pacientes sobre la importancia de esta preparación preoperatoria. Implementar estos programas es una inversión en mejores resultados quirúrgicos.",
+      "body_en": "Preoperative preparation is a critical component to improve surgical outcomes and accelerate recovery. Studies show that patients who receive nutritional optimization and exercise programs before surgery have fewer surgical wound complications. Adequate nutrition provides the necessary nutrients for protein synthesis and tissue healing. Cardiovascular training and strengthening exercises improve preoperative functional capacity. During the postoperative period, these patients demonstrate better surgical incision healing and lower infection risk. Dressing and care of the surgical wound is facilitated by better tissue perfusion. Hospital stays are significantly reduced, benefiting both patient and healthcare system. Nurses should educate patients about the importance of this preoperative preparation. Implementing these programs is an investment in better surgical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOako1RVFjdGp4U1A5MzI2VGo5cTI3OTBBdFlvd3RBOXE5UVVlVVlkWTBlWUtBcG94UXJubGZQREZvUHR5SGp1QjRmNUNIazBLNnJubFJfVFg3WWdYQWVGU0lraEpGWDROUXRlUzc1Q0xVQldmZF9tSEhzb1VjTjZkSFFBMVNjdDgtQ051dnJselB2OEkzazFwTmw1eUQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-03/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización quirúrgica",
+          "definition_es": "proceso de curación de herida por cirugía",
+          "definition_en": "surgical wound healing - recovery process of surgical incision"
+        },
+        {
+          "word": "incisión",
+          "definition_es": "corte hecho durante la cirugía",
+          "definition_en": "incision - cut made during surgery"
+        },
+        {
+          "word": "complicación postoperatoria",
+          "definition_es": "problema que surge después de la cirugía",
+          "definition_en": "postoperative complication - problem that arises after surgery"
+        },
+        {
+          "word": "perfusión tisular",
+          "definition_es": "flujo de sangre a través de los tejidos",
+          "definition_en": "tissue perfusion - blood flow through tissues"
+        }
+      ],
+      "added_at": "2026-05-03T09:35:05.292720Z"
+    },
+    {
+      "id": "wound-research-20250503",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación pionera en terapia con perros mejora la recuperación de pacientes",
+      "headline_en": "National Award Recognizes Nursing Professor's Pioneering Therapy Dog Research",
+      "summary_es": "Un profesor de enfermería recibe reconocimiento nacional por investigación innovadora sobre cómo los perros de terapia aceleran la curación de heridas.",
+      "body_es": "La investigación en terapias complementarias está revolucionando el enfoque hacia la cicatrización de heridas y la recuperación de pacientes. Un profesor de enfermería ha realizado estudios pioneros demostrando los beneficios de los perros de terapia en la recuperación postoperatoria. La interacción con animales de terapia reduce significativamente los niveles de estrés y cortisol en pacientes hospitalizados. Cuando los niveles de estrés disminuyen, mejora la respuesta inmunológica del cuerpo y acelera la cicatrización de heridas. Los pacientes que reciben terapia asistida con animales presentan mejor control del dolor y menor necesidad de analgésicos. La investigación demuestra que estos pacientes también tienen estancias hospitalarias más cortas. El equipo de investigación evaluó múltiples factores incluidos marcadores de inflamación, velocidad de epitelización y satisfacción del paciente. Este trabajo ha recibido reconocimiento nacional por su metodología rigurosa y resultados significativos. La terapia con perros representa un enfoque holístico complementario al cuidado de heridas tradicional.",
+      "body_en": "Research in complementary therapies is revolutionizing the approach to wound healing and patient recovery. A nursing professor has conducted pioneering studies demonstrating the benefits of therapy dogs in postoperative recovery. Interaction with therapy animals significantly reduces stress levels and cortisol in hospitalized patients. When stress levels decrease, the body's immune response improves and accelerates wound healing. Patients who receive animal-assisted therapy show better pain control and lower analgesic requirements. Research demonstrates these patients also have shorter hospital stays. The research team evaluated multiple factors including inflammation markers, epithelialization rate, and patient satisfaction. This work has received national recognition for its rigorous methodology and significant results. Therapy dogs represent a complementary holistic approach to traditional wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT21hQzQ5M1cwZWpyNEtDZG5MTTRxSHd5bXVEVllaZ0xDQ3lWTWoxRXhncnBVVkhheFVuZXppNXdJZVl3eE1kajFGUU5CQUZNYVFNcW5UN1ZPenJOazFLeDdVa0xvWHpFbjFjVHVEM2M1VjFfd2FKcF9ndmJtX0c4c21mdlhjeWJ6bzI4Q3JqY0h4VWRTUVNZU2pwOVY1dFctbVVRM2x3Y3oybnpBU3JuXzZ3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-03/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "terapia asistida con animales",
+          "definition_es": "tratamiento usando animales para mejorar salud",
+          "definition_en": "animal-assisted therapy - treatment using animals to improve health"
+        },
+        {
+          "word": "cortisol",
+          "definition_es": "hormona del estrés en el cuerpo",
+          "definition_en": "cortisol - stress hormone in the body"
+        },
+        {
+          "word": "respuesta inmunológica",
+          "definition_es": "capacidad del cuerpo para luchar contra infecciones",
+          "definition_en": "immune response - body's ability to fight infections"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "enrojecimiento e hinchazón de tejidos",
+          "definition_en": "inflammation - redness and swelling of tissues"
+        }
+      ],
+      "added_at": "2026-05-03T09:35:05.292720Z"
+    },
     {
       "id": "chronic-wounds-20250502",
       "category": "Chronic Wounds",
@@ -18834,6 +19056,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-02T09:29:41.023283Z",
+  "last_updated": "2026-05-03T09:35:05.292720Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
