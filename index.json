@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-03",
+      "filename": "spanish_lesson_2026-05-03.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-03.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Gobernador y alcalde mexicanos renuncian por acusaciones de drogas",
+          "headline_en": "Mexican governor and mayor resign over drug accusations",
+          "body_es": "Un gobernador y un alcalde mexicanos presentaron su dimisión esta semana. Estados Unidos los acusó de participar en tráfico de drogas. Las acusaciones llegaron desde tribunales estadounidenses. Los dos políticos decidieron dejar sus puestos después de conocer las charges. El gobernador trabajaba en un estado fronterizo con Estados Unidos. El alcalde dirigía una ciudad importante de la región. Las autoridades mexicanas están colaborando con la investigación. Este caso muestra los problemas de corrupción en algunos gobiernos locales. La situación afecta las relaciones entre México y Estados Unidos. Los ciudadanos piden más transparencia en el gobierno.",
+          "body_en": "A Mexican governor and mayor submitted their resignations this week. The United States accused them of participating in drug trafficking. The accusations came from American courts. The two politicians decided to leave their positions after learning about the charges. The governor worked in a border state with the United States. The mayor led an important city in the region. Mexican authorities are collaborating with the investigation. This case shows corruption problems in some local governments. The situation affects relations between Mexico and the United States. Citizens are demanding more transparency in government.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos pierde 92,000 empleos en febrero",
+          "headline_en": "United States loses 92,000 jobs in February",
+          "body_es": "La economía estadounidense perdió 92,000 empleos en febrero. Este resultado fue muy inesperado para los expertos. Los economistas esperaban que la economía creara nuevos trabajos. En lugar de eso, muchas personas perdieron su empleo. Los sectores más afectados fueron servicios y construcción. Algunas empresas cerraron oficinas por problemas económicos. El gobierno está preocupado por esta situación. Los números muestran que la recuperación económica es lenta. Las familias trabajadoras enfrentan dificultades para encontrar trabajo. Los políticos discuten nuevas políticas para ayudar a la economía. Esta información cambia las predicciones para los próximos meses. El desempleo sigue siendo un problema importante en el país.",
+          "body_en": "The American economy lost 92,000 jobs in February. This result was very unexpected for experts. Economists expected the economy to create new jobs. Instead, many people lost their employment. The most affected sectors were services and construction. Some companies closed offices due to economic problems. The government is worried about this situation. The numbers show that economic recovery is slow. Working families face difficulties finding work. Politicians are discussing new policies to help the economy. This information changes predictions for the coming months. Unemployment continues to be an important problem in the country.",
+          "source": "AOL.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Ejército de EE.UU. firma acuerdos con empresas de inteligencia artificial",
+          "headline_en": "US Army signs agreements with artificial intelligence companies",
+          "body_es": "El ejército estadounidense firmó acuerdos con siete empresas de tecnología. Estas compañías van a proporcionar inteligencia artificial para sistemas militares. La tecnología se usará en proyectos clasificados del gobierno. Las empresas seleccionadas son líderes en desarrollo de IA. Los sistemas ayudarán a los militares a tomar decisiones más rápidas. La inteligencia artificial puede analizar información muy rápidamente. Estos acuerdos representan una inversión importante en tecnología militar. El ejército quiere modernizar sus operaciones con herramientas digitales. La seguridad nacional depende cada vez más de la tecnología avanzada. Los contratos durarán varios años. Esta colaboración entre gobierno y empresas privadas es estratégica. La IA cambiará la forma de hacer operaciones militares.",
+          "body_en": "The US military signed agreements with seven technology companies. These companies will provide artificial intelligence for military systems. The technology will be used in classified government projects. The selected companies are leaders in AI development. The systems will help the military make faster decisions. Artificial intelligence can analyze information very quickly. These agreements represent an important investment in military technology. The army wants to modernize its operations with digital tools. National security increasingly depends on advanced technology. The contracts will last several years. This collaboration between government and private companies is strategic. AI will change how military operations are conducted.",
+          "source": "Military.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "dimisión",
+          "syllables": "di-mi-SIÓN",
+          "pos": "sustantivo",
+          "context": "El gobernador presentó su dimisión después de las acusaciones.",
+          "definition_es": "Acto de dejar un cargo o trabajo voluntariamente",
+          "definition_en": "The act of leaving a job or position voluntarily"
+        },
+        {
+          "word": "acusación",
+          "syllables": "a-cu-sa-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las acusaciones de tráfico de drogas llegaron desde Estados Unidos.",
+          "definition_es": "Declaración de que alguien ha hecho algo malo o ilegal",
+          "definition_en": "A claim that someone has done something wrong or illegal"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "La economía perdió 92,000 empleos en febrero.",
+          "definition_es": "Trabajo o actividad que genera dinero",
+          "definition_en": "Work or activity that earns money"
+        },
+        {
+          "word": "inesperado",
+          "syllables": "i-nes-pe-RA-do",
+          "pos": "adjetivo",
+          "context": "La pérdida de empleos fue un resultado inesperado.",
+          "definition_es": "Que no se esperaba que pasara",
+          "definition_en": "That was not expected to happen"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "El ejército firmó acuerdos con siete empresas de tecnología.",
+          "definition_es": "Pacto o convenio entre dos o más partes",
+          "definition_en": "Deal or agreement between two or more parties"
+        },
+        {
+          "word": "clasificado",
+          "syllables": "cla-si-fi-CA-do",
+          "pos": "adjetivo",
+          "context": "La información clasificada es muy importante para la seguridad.",
+          "definition_es": "Información secreta del gobierno",
+          "definition_en": "Secret government information"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Las empresas usarán inteligencia artificial en sistemas militares.",
+          "definition_es": "Tecnología que hace que las máquinas piensen como humanos",
+          "definition_en": "Technology that makes machines think like humans"
+        },
+        {
+          "word": "tráfico",
+          "syllables": "TRÁ-fi-co",
+          "pos": "sustantivo",
+          "context": "Los oficiales mexicanos fueron acusados de tráfico de drogas.",
+          "definition_es": "Comercio ilegal de sustancias prohibidas",
+          "definition_en": "Illegal trade of prohibited substances"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'dimisión'?",
+          "options": [
+            "Empezar un trabajo nuevo",
+            "Dejar un cargo voluntariamente",
+            "Recibir un aumento de salario",
+            "Cambiar de oficina"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'acusación'?",
+          "options": [
+            "Una celebración",
+            "Una declaración de que alguien hizo algo malo",
+            "Un premio",
+            "Una invitación"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'inesperado'?",
+          "options": [
+            "Que se esperaba",
+            "Que no se esperaba",
+            "Que es normal",
+            "Que es tradicional"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es información 'clasificada'?",
+          "options": [
+            "Información pública",
+            "Información secreta del gobierno",
+            "Información sobre clasificaciones",
+            "Información educativa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué renunciaron el gobernador y alcalde mexicanos?",
+          "options": [
+            "Por acusaciones de tráfico de drogas",
+            "Por problemas de salud",
+            "Para buscar nuevos trabajos",
+            "Por presión de los ciudadanos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos perdió Estados Unidos en febrero?",
+          "options": [
+            "82,000",
+            "92,000",
+            "102,000",
+            "72,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Con cuántas empresas de tecnología firmó acuerdos el ejército?",
+          "options": [
+            "Cinco",
+            "Seis",
+            "Siete",
+            "Ocho"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué esperaban los economistas en febrero?",
+          "options": [
+            "Que se perdieran empleos",
+            "Que se crearan nuevos trabajos",
+            "Que la economía se mantuviera igual",
+            "Que cerraran empresas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Para qué usará el ejército la inteligencia artificial?",
+          "options": [
+            "Para entretenimiento",
+            "Para sistemas clasificados",
+            "Para redes sociales",
+            "Para educación"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores fueron más afectados por la pérdida de empleos?",
+          "options": [
+            "Tecnología y medicina",
+            "Servicios y construcción",
+            "Educación y deportes",
+            "Arte y cultura"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-03T09:28:38.488058"
+    },
+    {
       "date": "2026-05-02",
       "filename": "spanish_lesson_2026-05-02.pdf",
       "path": "pdfs/spanish_lesson_2026-05-02.pdf",
@@ -32438,7 +32660,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-02T09:22:56.966446",
+  "last_updated": "2026-05-03T09:28:38.488082",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
