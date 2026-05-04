@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-04",
+      "filename": "spanish_lesson_2026-05-04.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-04.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Alabama y Tennessee crean nuevos distritos electorales después de decisión del Tribunal Supremo",
+          "headline_en": "Alabama and Tennessee create new electoral districts after Supreme Court decision",
+          "body_es": "Los estados de Alabama y Tennessee van a crear nuevos distritos electorales. Esta decisión llega después de una orden del Tribunal Supremo de Estados Unidos. Los distritos electorales son áreas geográficas donde las personas votan. Cada distrito elige un representante para el Congreso. El Tribunal Supremo decidió que los antiguos distritos no eran justos. Ahora, los dos estados deben dibujar nuevos mapas electorales. Este proceso es muy importante para las elecciones. Los nuevos distritos pueden cambiar los resultados políticos. Las autoridades de Alabama y Tennessee trabajan para completar los nuevos mapas antes de las próximas elecciones. Este cambio afectará a millones de votantes en ambos estados.",
+          "body_en": "The states of Alabama and Tennessee are going to create new electoral districts. This decision comes after an order from the United States Supreme Court. Electoral districts are geographic areas where people vote. Each district elects a representative to Congress. The Supreme Court decided that the old districts were not fair. Now, the two states must draw new electoral maps. This process is very important for elections. The new districts can change political results. Authorities in Alabama and Tennessee are working to complete the new maps before the next elections. This change will affect millions of voters in both states.",
+          "source": "The Boston Globe"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los votantes van a evaluar a Trump por el estado de la economía estadounidense",
+          "headline_en": "Voters will evaluate Trump based on the state of the American economy",
+          "body_es": "Los votantes estadounidenses van a juzgar al expresidente Trump por la situación económica del país. La economía es siempre un tema muy importante en las elecciones. Los ciudadanos miran los precios de la comida, la gasolina y las casas. También observan si hay trabajo para todas las personas. Algunos expertos dicen que la economía está mejor ahora. Otros piensan que todavía hay problemas serios. Los salarios de los trabajadores han subido un poco. Sin embargo, los precios de muchas cosas también subieron mucho. Los votantes deben decidir si Trump puede mejorar la economía. Esta decisión será muy importante en las próximas elecciones presidenciales. La economía siempre influye en cómo votan las personas.",
+          "body_en": "American voters will judge former president Trump based on the country's economic situation. The economy is always a very important topic in elections. Citizens look at the prices of food, gasoline, and houses. They also observe if there are jobs for all people. Some experts say the economy is better now. Others think there are still serious problems. Workers' salaries have gone up a little. However, prices of many things also went up a lot. Voters must decide if Trump can improve the economy. This decision will be very important in the next presidential elections. The economy always influences how people vote.",
+          "source": "BBC"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El ejército estadounidense firma contratos con siete empresas tecnológicas para usar inteligencia artificial",
+          "headline_en": "The US military signs contracts with seven technology companies to use artificial intelligence",
+          "body_es": "El ejército de Estados Unidos firmó contratos importantes con siete empresas de tecnología. Estas empresas van a proporcionar inteligencia artificial para sistemas militares secretos. La inteligencia artificial es una tecnología muy avanzada que puede pensar como los humanos. El gobierno quiere usar esta tecnología para proteger mejor el país. Los sistemas clasificados contienen información muy secreta del gobierno. Solo personas autorizadas pueden usar estos sistemas especiales. Las empresas tecnológicas trabajarán con el ejército en proyectos secretos. Esta colaboración es parte de la modernización militar de Estados Unidos. El gobierno invierte mucho dinero en nueva tecnología militar. Estos contratos ayudarán a mejorar la seguridad nacional del país usando las últimas innovaciones tecnológicas.",
+          "body_en": "The United States military signed important contracts with seven technology companies. These companies will provide artificial intelligence for secret military systems. Artificial intelligence is very advanced technology that can think like humans. The government wants to use this technology to better protect the country. Classified systems contain very secret government information. Only authorized people can use these special systems. Technology companies will work with the military on secret projects. This collaboration is part of the United States' military modernization. The government invests a lot of money in new military technology. These contracts will help improve the country's national security using the latest technological innovations.",
+          "source": "SecurityWeek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "distritos",
+          "syllables": "dis-TRI-tos",
+          "pos": "sustantivo",
+          "context": "Alabama y Tennessee van a crear nuevos distritos electorales.",
+          "definition_es": "Áreas geográficas divididas para votar",
+          "definition_en": "Geographic areas divided for voting"
+        },
+        {
+          "word": "tribunal",
+          "syllables": "tri-bu-NAL",
+          "pos": "sustantivo",
+          "context": "El Tribunal Supremo tomó una decisión importante.",
+          "definition_es": "Lugar donde los jueces toman decisiones legales",
+          "definition_en": "Place where judges make legal decisions"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "Los votantes van a juzgar a Trump por la economía.",
+          "definition_es": "Sistema de dinero y negocios de un país",
+          "definition_en": "System of money and business in a country"
+        },
+        {
+          "word": "votantes",
+          "syllables": "vo-TAN-tes",
+          "pos": "sustantivo",
+          "context": "Los votantes decidirán en las elecciones.",
+          "definition_es": "Personas que participan en las elecciones",
+          "definition_en": "People who participate in elections"
+        },
+        {
+          "word": "militar",
+          "syllables": "mi-li-TAR",
+          "pos": "adjetivo",
+          "context": "El ejército militar usa nueva tecnología.",
+          "definition_es": "Relacionado con el ejército",
+          "definition_en": "Related to the army"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Siete empresas de tecnología firmaron contratos.",
+          "definition_es": "Organizaciones que hacen negocios",
+          "definition_en": "Organizations that do business"
+        },
+        {
+          "word": "clasificados",
+          "syllables": "cla-si-fi-CA-dos",
+          "pos": "adjetivo",
+          "context": "Los sistemas clasificados son muy secretos.",
+          "definition_es": "Información muy secreta del gobierno",
+          "definition_en": "Very secret government information"
+        },
+        {
+          "word": "contratos",
+          "syllables": "con-TRA-tos",
+          "pos": "sustantivo",
+          "context": "Las empresas firmaron contratos con el gobierno.",
+          "definition_es": "Acuerdos legales entre dos partes",
+          "definition_en": "Legal agreements between two parties"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'distritos'?",
+          "options": [
+            "Áreas geográficas divididas para votar",
+            "Edificios del gobierno",
+            "Grupos de políticos",
+            "Tipos de elecciones"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es la definición de 'votantes'?",
+          "options": [
+            "Políticos famosos",
+            "Personas que participan en las elecciones",
+            "Trabajadores del gobierno",
+            "Miembros del tribunal"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los sistemas 'clasificados'?",
+          "options": [
+            "Computadoras normales",
+            "Programas educativos",
+            "Información muy secreta del gobierno",
+            "Redes sociales"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'empresas'?",
+          "options": [
+            "Organizaciones que hacen negocios",
+            "Escuelas públicas",
+            "Hospitales",
+            "Parques nacionales"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué Alabama y Tennessee deben crear nuevos distritos electorales?",
+          "options": [
+            "Porque hay más población",
+            "Porque el Tribunal Supremo decidió que los antiguos no eran justos",
+            "Porque quieren más representantes",
+            "Porque cambiaron las leyes estatales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según el texto sobre economía, ¿qué miran los ciudadanos?",
+          "options": [
+            "Solo los precios de la gasolina",
+            "Los precios de comida, gasolina y casas",
+            "Solo si hay trabajo",
+            "Solo los salarios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántas empresas tecnológicas firmaron contratos con el ejército?",
+          "options": [
+            "Cinco empresas",
+            "Seis empresas",
+            "Siete empresas",
+            "Ocho empresas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Para qué van a usar la inteligencia artificial las empresas?",
+          "options": [
+            "Para juegos",
+            "Para sistemas militares secretos",
+            "Para redes sociales",
+            "Para educación"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué tema es siempre importante en las elecciones según el texto?",
+          "options": [
+            "El clima",
+            "La economía",
+            "Los deportes",
+            "La música"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Quiénes pueden usar los sistemas clasificados?",
+          "options": [
+            "Todas las personas",
+            "Solo los estudiantes",
+            "Solo personas autorizadas",
+            "Solo los políticos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-04T09:41:02.770426"
+    },
+    {
       "date": "2026-05-03",
       "filename": "spanish_lesson_2026-05-03.pdf",
       "path": "pdfs/spanish_lesson_2026-05-03.pdf",
@@ -32660,7 +32882,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-03T09:28:38.488082",
+  "last_updated": "2026-05-04T09:41:02.770451",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
