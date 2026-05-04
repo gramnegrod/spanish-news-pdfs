@@ -1,11 +1,233 @@
 {
-  "date": "2026-05-03",
-  "generated_at": "2026-05-03T09:35:05.292720Z",
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T09:51:18.582047Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 515,
+  "total_stories": 521,
   "new_today": 6,
   "stories": [
+    {
+      "id": "chronic-wounds-20250504",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Centro de Cicatrización de Heridas Recibe Reconocimiento Nacional",
+      "headline_en": "Wound Healing Center Receives National Recognition",
+      "summary_es": "El Centro de Cicatrización de Heridas de Sentara RMH obtiene un importante reconocimiento nacional por su excelencia en el tratamiento de heridas crónicas.",
+      "body_es": "El Centro de Cicatrización de Heridas de Sentara RMH ha recibido un reconocimiento nacional importante. Este centro se especializa en el tratamiento de heridas crónicas y difíciles. Los profesionales de salud utilizan técnicas modernas para la curación de heridas. El equipo incluye enfermeras, médicos y especialistas en heridas. El centro ofrece evaluación completa de cada herida. Los pacientes reciben vendajes especiales y tratamiento personalizado. La curación es el objetivo principal del equipo. Este reconocimiento refleja la calidad del cuidado y los buenos resultados en los pacientes.",
+      "body_en": "The Sentara RMH Wound Healing Center has received important national recognition. This center specializes in the treatment of chronic and difficult-to-heal wounds. Healthcare professionals use modern wound healing techniques. The team includes nurses, doctors, and wound care specialists. The center provides comprehensive assessment of each wound. Patients receive special dressings and personalized treatment. Healing is the main goal of the team. This recognition reflects the quality of care and good patient outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVEJNY1NwaEpUcXJVZ1lmQ1ZqQjBNcy1DdmlzRzBJMXhKR0tUSGhzQlU2anBUUlVGejk0MWdHdmxXMXdrdUhwSnNMdEszN0dPc0w0cTBRbjdfVUNuRGtMX3pveUJlSnBXaHN6T3BkRDVYNmdBTE44Y2FhLTlNRC1uQXZZR3lRbWpuQUpZeFFTZkltcjZITC1V0gGrAUFVX3lxTE9zbElQeWUyb2U2ZEttOWJTUFltaEI4OTZxal9ac2lKR2ZBVmljdEtkRGNubEZMV1dZeWdWRmlqdmtMZjBWZVJ0djl3YW9wbUVVVEdsb2NRQW9EZnk5UC1CNjR6bFB1ZUR1OGtmUHlQY3pvU3UyUXc3cm02QnhxbkZtUFMzMjV1NkJOTlkyNUpadHBYUHgxX2djcGRDMXNiOWw2dzQ3SWVFWWR0UQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-04/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión en la piel que no cicatriza rápidamente",
+          "definition_en": "chronic wound - skin injury that does not heal quickly"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de una herida",
+          "definition_en": "healing - process of wound closure and repair"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "tratamiento para mejorar la salud",
+          "definition_en": "healing treatment - method to restore health"
+        }
+      ],
+      "added_at": "2026-05-04T09:51:18.582047Z"
+    },
+    {
+      "id": "pressure-ulcers-20250504",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "blue",
+      "headline_es": "Sábanas Inteligentes Previenen las Úlceras por Presión en Hospitales",
+      "headline_en": "Smart Fabric Sheets Prevent Pressure Ulcers in Hospitals",
+      "summary_es": "Las nuevas sábanas inteligentes utilizan tecnología innovadora para prevenir las úlceras por presión en pacientes hospitalizados.",
+      "body_es": "Las úlceras por presión son un problema importante en los hospitales. Estas heridas ocurren cuando los pacientes están en la cama durante mucho tiempo. Ahora existe una solución nueva: las sábanas inteligentes. Estas sábanas especiales tienen sensores que detectan la presión en la piel. Los sensores envían información a los profesionales de salud. El equipo médico recibe alertas cuando hay riesgo de úlcera. Las enfermeras pueden cambiar la posición del paciente rápidamente. Esta tecnología ayuda a prevenir las úlceras por presión. Los hospitales utilizan esta solución para mejorar el cuidado de los pacientes.",
+      "body_en": "Pressure ulcers are an important problem in hospitals. These wounds occur when patients are bedridden for long periods. Now there is a new solution: smart fabric sheets. These special sheets have sensors that detect skin pressure. The sensors send information to healthcare professionals. The medical team receives alerts when there is risk of ulcer development. Nurses can change patient position quickly. This technology helps prevent pressure ulcers. Hospitals use this solution to improve patient care.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXBIc1p2ZnNJYkxlSjNxMnVwR19FMVozb3hmZzhCZzE1RjFoUFRmOVA2ajdHN201WnhWcUZQNGFpb0NMSlduaEZUZ2E3QXpiZXI1SGNqNnhxdFEzcXB0MVNxWEtrWmNkeVJoNHMza1RxVmxySmVuN2U1b1ZWSUJkNlVfUEMxZm5ER1piX0xlQlFYM0FWc0NGbXlKa0wweUIxaFE2aWZ1aXhkaXNPekVv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-04/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida en la piel causada por presión prolongada",
+          "definition_en": "pressure ulcer - wound caused by prolonged pressure on skin"
+        },
+        {
+          "word": "sensor",
+          "definition_es": "dispositivo que detecta cambios físicos",
+          "definition_en": "sensor - device that detects physical changes"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar una enfermedad",
+          "definition_en": "prevention - actions to avoid disease or injury"
+        },
+        {
+          "word": "posición",
+          "definition_es": "forma en que está colocado el cuerpo",
+          "definition_en": "position - the way the body is placed"
+        }
+      ],
+      "added_at": "2026-05-04T09:51:18.582047Z"
+    },
+    {
+      "id": "diabetic-foot-20250504",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "AOTI Implementa Plan de Participación Accionaria para Alinear el Equipo con la Estrategia de Crecimiento",
+      "headline_en": "AOTI Launches Employee Share Plan to Align Staff with Growth Strategy",
+      "summary_es": "La empresa AOTI implementa un programa de participación accionaria para motivar a su equipo en la innovación del cuidado del pie diabético.",
+      "body_es": "AOTI, empresa especializada en soluciones para el cuidado del pie diabético, ha lanzado un nuevo plan de participación accionaria para sus empleados. Este programa busca alinear los objetivos del personal con la estrategia de crecimiento de la compañía. Los empleados que participan en el plan reciben acciones de la empresa, lo que los convierte en accionistas. Esta iniciativa aumenta el compromiso del equipo con el desarrollo de nuevas tecnologías para prevenir complicaciones del pie diabético. El cuidado del pie diabético requiere innovación constante y dedicación del personal. Con este programa, AOTI reconoce la importancia de su equipo en la búsqueda de soluciones avanzadas. La estrategia beneficia tanto a los empleados como a los pacientes que dependen de estos tratamientos especializados.",
+      "body_en": "AOTI, a company specialized in diabetic foot care solutions, has launched a new employee share plan for its staff. This program aims to align employee objectives with the company's growth strategy. Employees who participate in the plan receive company shares, making them shareholders. This initiative increases team commitment to developing new technologies to prevent diabetic foot complications. Diabetic foot care requires constant innovation and staff dedication. With this program, AOTI recognizes the importance of its team in seeking advanced solutions. The strategy benefits both employees and patients who depend on these specialized treatments.",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYnFzaS1TTVpLOW1UeGktdXVVa25KS0dzbm5SaDdwamlIZEF0ODN4YmZ3MkNGYThKUlU1NVdFbXh3T1BNTWI0NXBtZm5FSFF5NENtc25TSDJjMFl3QThZaEFocGJkb01VR3dXYmRacVpEMzVib2VkdDNqV1VzejluVzBJNERneS16bWpRQUtkZ1dBUmVFWXZTVm1XeTFhcWpMWjVEb1RqT3N2YjNjQlFiT3Y0MWJDLVA0Rk5qazFn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-04/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación de la diabetes que afecta los pies",
+          "definition_en": "diabetic foot - diabetes complication affecting the feet"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel o tejido",
+          "definition_en": "ulcer - open wound on skin or tissue"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "medidas para evitar complicaciones",
+          "definition_en": "prevention - measures to avoid complications"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen detallado del estado de una herida",
+          "definition_en": "assessment - detailed examination of wound condition"
+        }
+      ],
+      "added_at": "2026-05-04T09:51:18.582047Z"
+    },
+    {
+      "id": "burn-care-20250504",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "AVITA Medical Obtiene Certificación de Reguladores en Australia y Nueva Zelanda para RECELL GO",
+      "headline_en": "AVITA Medical Announces TGA Certification in Australia and Medsafe WAND Listing in New Zealand for RECELL GO",
+      "summary_es": "AVITA Medical ha recibido aprobación regulatoria importante para su tecnología RECELL GO en Australia y Nueva Zelanda para el tratamiento de quemaduras.",
+      "body_es": "AVITA Medical ha anunciado que su tecnología RECELL GO ha obtenido la certificación de la Therapeutic Goods Administration (TGA) en Australia y está en la lista de dispositivos de Medsafe WAND en Nueva Zelanda. RECELL GO es una solución innovadora para el tratamiento de quemaduras y heridas agudas. La tecnología utiliza células del propio paciente para acelerar la cicatrización. Este sistema permite a los profesionales de salud procesar las células de la piel del paciente en el quirófano. Las células procesadas se aplican directamente a la quemadura para promover la regeneración de tejido. Esta aprobación regulatoria confirma la eficacia y seguridad de la tecnología. El cuidado de quemaduras requiere tratamientos avanzados que aceleren la cicatrización y reduzcan las complicaciones. Con estas certificaciones, RECELL GO estará disponible para más pacientes que necesitan cuidado especializado de quemaduras.",
+      "body_en": "AVITA Medical announced that its RECELL GO technology has obtained certification from the Therapeutic Goods Administration (TGA) in Australia and is listed in the Medsafe WAND device database in New Zealand. RECELL GO is an innovative solution for treating burns and acute wounds. The technology uses cells from the patient's own skin to accelerate healing. This system allows healthcare professionals to process the patient's skin cells in the operating room. The processed cells are applied directly to the burn to promote tissue regeneration. This regulatory approval confirms the efficacy and safety of the technology. Burn care requires advanced treatments that accelerate healing and reduce complications. With these certifications, RECELL GO will be available to more patients needing specialized burn care.",
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQM01LempoanpASkx3VnViU2c0b2dPcmdLODMyNU9zNDNpWUFFSDR1YkdOX2hrb2Vsd3hFQ3NVRVUtZlRwWnN3azFtSGFwd1NNYU9tUnpfZlZXaWYxQmdmMlNua1F1LTFiQTNUcW5YbTh0Y0ZNQVItN19ETU5pNExJWjQ4RWVJOTlmMjNmd2F5SzdlMWE3Uk9xaTFKaEdxbHBtUWdiUDhyaUpTT19KZWo4V0Ewa1lUcXF2a1IyNjFRLUpYY3ZuQTJQM1QzR2FrdFJTNTR5YWp0Sm5oQW5fUVBGd2lkMGZ5a05jamdZVkh5NEpkdFpRWk12Qi1xZmJQbVBjQWxHeUpYSEFXaGpyR0dJ0gGUAkFVX3lxTFBNX2pQaUh3SFQ4OUVZV3ZKUmlBdzhfNHdOM3FwTkgzLW1oU3I5aW9Cd0xIck1HaEdXNzhiQVdVMEs4cTg0bE5naXRpeWVaLS14NW5CTElvc1JMY2hzRWxGUDI3N3NHQXdLQW9iU1BGTW9UTHAyYnlzT2c3b0dWUDJNUlJaQThwRzBpMkZvZWJzX0FZd2d0Q2VQQVh5anBSRW15VFNIcHFHSHlwc1AxVWFreHczaU9OQ2dTTW1JbzQwazF0bjNJMEgwcmpIWWluVUN6dFBZQXBFUHFSbkRKLS1Gd0lZYk5RdHBkeTVNT01mak8zVHp1RllFa192ZlJpeE9GUUJaZGgxcXU4UDk2T09LWFE4Sw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-04/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o químicos",
+          "definition_en": "burn - skin injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de regeneración y cierre de una herida",
+          "definition_en": "healing - process of wound regeneration and closure"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "conjunto de células que forman órganos",
+          "definition_en": "tissue - cells organized to form body structures"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "formación de nuevo tejido sano",
+          "definition_en": "regeneration - formation of new healthy tissue"
+        }
+      ],
+      "added_at": "2026-05-04T09:51:18.582047Z"
+    },
+    {
+      "id": "surgical-wounds-20250504",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "green",
+      "headline_es": "Optimizar el Ejercicio y la Nutrición Antes de la Cirugía Mejora los Resultados del Paciente",
+      "headline_en": "Optimizing Exercise, Nutrition Before Surgery Boosts Patient Outcomes",
+      "summary_es": "La investigación demuestra que la preparación preoperatoria con ejercicio y nutrición adecuada mejora significativamente la cicatrización de heridas quirúrgicas.",
+      "body_es": "Un nuevo estudio de investigación ha demostrado que optimizar el ejercicio y la nutrición antes de la cirugía mejora significativamente los resultados de los pacientes. La preparación preoperatoria es fundamental para que el cuerpo tenga suficientes recursos para la cicatrización después de la intervención quirúrgica. Los investigadores encontraron que los pacientes que realizan ejercicio regular antes de la cirugía tienen mejor función cardíaca y respiratoria durante la operación. La nutrición adecuada proporciona proteínas y vitaminas esenciales que el cuerpo necesita para formar nuevo tejido y cicatrizar heridas quirúrgicas. Los equipos quirúrgicos recomiendan que los pacientes reciban evaluación nutricional y orienta ejercicio antes de procedimientos importantes. Esta preparación reduce las complicaciones postoperatorias, incluyendo infecciones de heridas quirúrgicas. El tiempo de hospitalización se reduce cuando los pacientes llegan a cirugía con buena condición física y nutricional. Estos hallazgos sugieren que la medicina preventiva preoperatoria es esencial para optimizar resultados quirúrgicos.",
+      "body_en": "A new research study has demonstrated that optimizing exercise and nutrition before surgery significantly improves patient outcomes. Preoperative preparation is fundamental so the body has sufficient resources for wound healing after surgery. Researchers found that patients who exercise regularly before surgery have better cardiac and respiratory function during the operation. Adequate nutrition provides proteins and essential vitamins that the body needs to form new tissue and heal surgical wounds. Surgical teams recommend that patients receive nutritional assessment and exercise guidance before important procedures. This preparation reduces postoperative complications, including surgical site infections. Hospital stay time is reduced when patients arrive for surgery in good physical and nutritional condition. These findings suggest that preoperative preventive medicine is essential to optimize surgical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFNTRnSFdwYVNHNkU5cGtPbUEwckJzMjdoOEVyNlhiWWJ0Y1hnLXZRWTh5WVRGQk1vLWRRX3YtczJGRnNYRnhld3hkN3dUTXpwWlFDZkRSWjBGbzRo?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-04/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión causada durante una operación quirúrgica",
+          "definition_en": "surgical wound - injury created during surgery"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de sanación y cierre de heridas",
+          "definition_en": "healing - process of wound closure and repair"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos patógenos en una herida",
+          "definition_en": "infection - invasion of pathogenic organisms in a wound"
+        },
+        {
+          "word": "evaluación nutricional",
+          "definition_es": "análisis del estado alimenticio del paciente",
+          "definition_en": "nutritional assessment - analysis of patient's nutritional status"
+        }
+      ],
+      "added_at": "2026-05-04T09:51:18.582047Z"
+    },
+    {
+      "id": "wound-research-20250504",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigadores Descubren un Avance Potencial en el Tratamiento de la Enfermedad de Crohn",
+      "headline_en": "UH Researchers Discover Potential Breakthrough for Crohn's Disease Treatment",
+      "summary_es": "Investigadores de la Universidad de Houston han identificado una estrategia innovadora que podría revolucionar el tratamiento de la enfermedad de Crohn.",
+      "body_es": "Los investigadores de la Universidad de Houston han realizado un descubrimiento potencial que podría cambiar el tratamiento de la enfermedad de Crohn. Este hallazgo es resultado de años de investigación en el laboratorio donde los científicos estudian cómo el sistema inmunológico causa inflamación en el tracto digestivo. La enfermedad de Crohn causa úlceras y lesiones en el sistema digestivo que afectan la calidad de vida de los pacientes. El equipo de investigación identificó un nuevo mecanismo que controla la inflamación intestinal. Este descubrimiento abre posibilidades para desarrollar medicamentos más específicos y efectivos. Los investigadores utilizaron técnicas modernas de biología molecular para estudiar las células del intestino. El próximo paso es realizar ensayos clínicos para confirmar la efectividad de esta estrategia terapéutica. Si estos resultados se confirman, miles de pacientes podrían beneficiarse de un tratamiento más eficaz para la enfermedad de Crohn.",
+      "body_en": "Researchers at the University of Houston have made a potential discovery that could change the treatment of Crohn's disease. This finding results from years of research in the laboratory where scientists study how the immune system causes inflammation in the digestive tract. Crohn's disease causes ulcers and lesions in the digestive system that affect patients' quality of life. The research team identified a new mechanism that controls intestinal inflammation. This discovery opens possibilities for developing more specific and effective medications. Researchers used modern molecular biology techniques to study intestinal cells. The next step is to conduct clinical trials to confirm the effectiveness of this therapeutic strategy. If these results are confirmed, thousands of patients could benefit from more effective treatment for Crohn's disease.",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUFRTWNPU2U3V1Z0NWU2Nzg5UjRQR0RTZ0tYV2hhQ3JBbWhydFR2Z2hrdEF6a2hDUXNvbUh1TmJFOWdVdWRBRWhhNWlEb0VGVzVtenF2VDFZM2paS0xuQVR6U1lIYzNvam9qaFRYb01FRi1SQUhERThVbHFRbVlpRXJrWWNBSVg0TXFOOGNmQWw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-04/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera intestinal",
+          "definition_es": "herida en el tejido del sistema digestivo",
+          "definition_en": "intestinal ulcer - wound in digestive tract tissue"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "respuesta del cuerpo a irritación o infección",
+          "definition_en": "inflammation - body's response to irritation or infection"
+        },
+        {
+          "word": "lesión",
+          "definition_es": "daño en los tejidos del cuerpo",
+          "definition_en": "lesion - damage to body tissues"
+        },
+        {
+          "word": "regeneración intestinal",
+          "definition_es": "proceso de reparación del tejido digestivo dañado",
+          "definition_en": "intestinal regeneration - repair of damaged digestive tissue"
+        }
+      ],
+      "added_at": "2026-05-04T09:51:18.582047Z"
+    },
     {
       "id": "chronic-wounds-20250503",
       "category": "Chronic Wounds",
@@ -19056,6 +19278,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-03T09:35:05.292720Z",
+  "last_updated": "2026-05-04T09:51:18.582047Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
