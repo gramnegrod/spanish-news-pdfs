@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-05",
+      "filename": "spanish_lesson_2026-05-05.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-05.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Gobernador de Florida firma nuevo mapa electoral y enfuenta demanda legal",
+          "headline_en": "Florida Governor signs new electoral map and faces lawsuit",
+          "body_es": "El gobernador Ron DeSantis firmó una nueva ley sobre el mapa congresional de Florida. Este mapa decide dónde votan las personas en las elecciones. Los críticos dicen que el mapa no es justo para todos los ciudadanos. Por esta razón, algunos grupos presentaron una demanda legal contra DeSantis. Ellos quieren que los tribunales cambien el mapa. Las elecciones son muy importantes en Estados Unidos. Cada estado debe crear mapas justos para sus distritos. Florida es un estado grande con muchos representantes en el Congreso. Los mapas electorales pueden cambiar los resultados de las elecciones. Esta situación muestra las tensiones políticas en Florida. El caso legal puede durar muchos meses antes de tener una decisión final.",
+          "body_en": "Governor Ron DeSantis signed a new law about Florida's congressional map. This map decides where people vote in elections. Critics say the map is not fair to all citizens. For this reason, some groups filed a lawsuit against DeSantis. They want the courts to change the map. Elections are very important in the United States. Each state must create fair maps for its districts. Florida is a large state with many representatives in Congress. Electoral maps can change election results. This situation shows political tensions in Florida. The legal case may last many months before having a final decision.",
+          "source": "Central Florida Public Media"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Experto advierte que la bolsa está desconectada de la realidad económica",
+          "headline_en": "Expert warns that stock market is disconnected from economic reality",
+          "body_es": "El economista Mark Zandi dice que hay un problema grave en el mercado financiero. Los precios de las acciones están en niveles muy altos. Sin embargo, la economía real no está tan bien como muestran estos números. Zandi explica que la bolsa y la economía no están conectadas ahora. Muchas empresas tienen precios altos pero la gente común tiene problemas económicos. Los salarios no suben tanto como los precios. También hay inflación en comida y vivienda. Zandi piensa que esta situación puede causar problemas en el futuro. Los inversores deben ser muy cuidadosos con su dinero. Es importante entender que la bolsa no siempre refleja la realidad. Este desbalance puede crear una crisis económica si continúa por mucho tiempo.",
+          "body_en": "Economist Mark Zandi says there is a serious problem in the financial market. Stock prices are at very high levels. However, the real economy is not as good as these numbers show. Zandi explains that the stock market and the economy are not connected now. Many companies have high prices but common people have economic problems. Salaries don't rise as much as prices. There is also inflation in food and housing. Zandi thinks this situation can cause problems in the future. Investors should be very careful with their money. It's important to understand that the stock market doesn't always reflect reality. This imbalance can create an economic crisis if it continues for a long time.",
+          "source": "AOL.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Inteligencia artificial de OpenAI escribe el 80% del código de programación",
+          "headline_en": "OpenAI artificial intelligence writes 80% of programming code",
+          "body_es": "Greg Brockman de OpenAI reveló datos importantes sobre la inteligencia artificial. Las herramientas de su empresa ahora escriben el 80% del código de computadora. Esto significa que los robots pueden programar casi como los humanos. Brockman también dice que están cerca de crear una inteligencia artificial general. Esta tecnología puede pensar como las personas en muchas áreas diferentes. Los gobiernos de varios países están muy interesados en esta tecnología. Quieren usar la inteligencia artificial para mejorar sus políticas nacionales. Sin embargo, esta situación también crea preocupaciones. Muchos programadores pueden perder sus trabajos. También hay preguntas sobre la seguridad de estas tecnologías. El futuro del trabajo puede cambiar completamente con estos avances. Es una revolución tecnológica muy importante para toda la humanidad.",
+          "body_en": "Greg Brockman from OpenAI revealed important data about artificial intelligence. His company's tools now write 80% of computer code. This means robots can program almost like humans. Brockman also says they are close to creating general artificial intelligence. This technology can think like people in many different areas. Governments from various countries are very interested in this technology. They want to use artificial intelligence to improve their national policies. However, this situation also creates concerns. Many programmers may lose their jobs. There are also questions about the safety of these technologies. The future of work may change completely with these advances. It is a very important technological revolution for all humanity.",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congresional",
+          "syllables": "con-gre-sio-NAL",
+          "pos": "adjetivo",
+          "context": "DeSantis firmó el nuevo mapa congresional en Florida.",
+          "definition_es": "Relacionado con el Congreso o los representantes políticos",
+          "definition_en": "Related to Congress or political representatives"
+        },
+        {
+          "word": "demanda",
+          "syllables": "de-MAN-da",
+          "pos": "sustantivo",
+          "context": "Los opositores presentaron una demanda legal contra la nueva ley.",
+          "definition_es": "Acción legal que se presenta ante un tribunal",
+          "definition_en": "Legal action presented before a court"
+        },
+        {
+          "word": "economista",
+          "syllables": "e-co-no-MIS-ta",
+          "pos": "sustantivo",
+          "context": "El economista Mark Zandi advierte sobre problemas en el mercado.",
+          "definition_es": "Persona experta en economía y finanzas",
+          "definition_en": "Person expert in economy and finance"
+        },
+        {
+          "word": "bolsa",
+          "syllables": "BOL-sa",
+          "pos": "sustantivo",
+          "context": "Los precios en la bolsa están muy altos este año.",
+          "definition_es": "Mercado donde se compran y venden acciones de empresas",
+          "definition_en": "Market where company stocks are bought and sold"
+        },
+        {
+          "word": "desconectado",
+          "syllables": "des-co-nec-TA-do",
+          "pos": "adjetivo",
+          "context": "El mercado está desconectado de la realidad económica.",
+          "definition_es": "Separado o sin relación con algo",
+          "definition_en": "Separated or unrelated to something"
+        },
+        {
+          "word": "herramientas",
+          "syllables": "he-rra-MIEN-tas",
+          "pos": "sustantivo",
+          "context": "Las herramientas de inteligencia artificial escriben código.",
+          "definition_es": "Instrumentos o programas que ayudan a hacer un trabajo",
+          "definition_en": "Instruments or programs that help do work"
+        },
+        {
+          "word": "código",
+          "syllables": "CÓ-di-go",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial ahora escribe el 80% del código.",
+          "definition_es": "Instrucciones escritas para programas de computadora",
+          "definition_en": "Written instructions for computer programs"
+        },
+        {
+          "word": "política",
+          "syllables": "po-LÍ-ti-ca",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando la política nacional.",
+          "definition_es": "Actividades del gobierno y las decisiones públicas",
+          "definition_en": "Government activities and public decisions"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'economista'?",
+          "options": [
+            "Una persona que estudia el tiempo",
+            "Una persona experta en economía",
+            "Una persona que trabaja en un banco",
+            "Una persona que vende acciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'demanda' legal?",
+          "options": [
+            "Una petición al gobierno",
+            "Una acción legal ante un tribunal",
+            "Una protesta en la calle",
+            "Una votación popular"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'herramientas' de inteligencia artificial?",
+          "options": [
+            "Máquinas físicas",
+            "Programas que ayudan a trabajar",
+            "Libros de instrucciones",
+            "Personas expertas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa que algo está 'desconectado'?",
+          "options": [
+            "Que funciona muy bien",
+            "Que está separado o sin relación",
+            "Que es muy caro",
+            "Que es muy popular"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿por qué presentaron una demanda contra DeSantis?",
+          "options": [
+            "Porque el mapa no es justo",
+            "Porque no firmó la ley",
+            "Porque cambió las elecciones",
+            "Porque cerró el Congreso"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el problema que ve Mark Zandi en la economía?",
+          "options": [
+            "Los salarios son muy altos",
+            "La bolsa está desconectada de la realidad",
+            "No hay inflación",
+            "Las empresas no tienen dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje de código escriben las herramientas de OpenAI?",
+          "options": [
+            "70%",
+            "75%",
+            "80%",
+            "85%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué pueden perder los programadores según la historia de tecnología?",
+          "options": [
+            "Sus computadoras",
+            "Sus trabajos",
+            "Sus casas",
+            "Sus estudios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué dice Zandi sobre los salarios y los precios?",
+          "options": [
+            "Los salarios suben más que los precios",
+            "Los precios y salarios suben igual",
+            "Los salarios no suben tanto como los precios",
+            "Los salarios bajan y los precios suben"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué quieren hacer los gobiernos con la inteligencia artificial?",
+          "options": [
+            "Prohibir su uso",
+            "Mejorar sus políticas nacionales",
+            "Vender la tecnología",
+            "Crear más empresas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-05T09:33:46.074068"
+    },
+    {
       "date": "2026-05-04",
       "filename": "spanish_lesson_2026-05-04.pdf",
       "path": "pdfs/spanish_lesson_2026-05-04.pdf",
@@ -32882,7 +33104,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-04T09:41:02.770451",
+  "last_updated": "2026-05-05T09:33:46.074094",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
