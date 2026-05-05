@@ -1,11 +1,159 @@
 {
-  "date": "2026-05-04",
-  "generated_at": "2026-05-04T09:51:18.582047Z",
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T09:41:45.691264Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 521,
-  "new_today": 6,
+  "total_stories": 525,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250505",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El mercado mundial de curación de heridas crece cada año",
+      "headline_en": "Global Wound Care Market Grows Every Year",
+      "summary_es": "El mercado de productos para curación de heridas es muy grande. Los expertos dicen que va a crecer mucho más en los próximos años.",
+      "body_es": "La industria de curación de heridas es importante en todo el mundo. En 2030, el mercado va a llegar a 30.48 mil millones de dólares. Los hospitales usan muchos productos para tratar heridas crónicas. Las heridas crónicas son difíciles de curar. Los vendajes modernos ayudan a los pacientes. Los apósitos especiales protegen la piel. Los enfermeros necesitan conocer estos productos nuevos. La curación de heridas es una parte importante de la medicina. Cada año hay productos nuevos y mejores. Los profesionales de salud usan estos productos cada día.",
+      "body_en": "The wound care industry is important worldwide. In 2030, the market will reach USD 30.48 billion. Hospitals use many products to treat chronic wounds. Chronic wounds are difficult to heal. Modern dressings help patients. Special dressings protect the skin. Nurses need to know about these new products. Wound care is an important part of medicine. Every year there are new and better products. Healthcare professionals use these products every day.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNVdodGJHZWQtY1NQazdkTUtHelNTVkVKRTZEN2dtTWxSYnlmZTd5RVQ3SnhaODN0Y0lFVk41V2c3VldOcHNSZ21ScmdaT1VjSFVHM3VzYmUyLVgxN05KbmpDdkdFS3NsVkNyUEYtWmFxVWxwUnFhQlNjWHhHcDZCeWhGT2VEa0xXQ2xFSzJOTXdUZ1diV0lXOVlhSWxEVktRS1NyTHRZZXhSNzhsd0prcTJVUEdSS3ozWXFvQ2FqRE8zbUt2OGpfeGY4WExmb3M4dTVJS09CclFDR1N6QU5zUWcxaw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-05/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "daño en la piel o tejido del cuerpo",
+          "definition_en": "wound - damage to skin or body tissue"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material especial para cubrir y proteger heridas",
+          "definition_en": "dressing - special material to cover and protect wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanación y mejora de una herida",
+          "definition_en": "healing - process of wound recovery and improvement"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "producto médico que se pone sobre la herida",
+          "definition_en": "dressing - medical product placed on the wound"
+        }
+      ],
+      "added_at": "2026-05-05T09:41:45.691264Z"
+    },
+    {
+      "id": "pressure-ulcers-20250505",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "blue",
+      "headline_es": "Telas inteligentes ayudan a prevenir úlceras por presión",
+      "headline_en": "Smart Fabrics Help Prevent Pressure Ulcers",
+      "summary_es": "Los hospitales usan nuevas sábanas especiales para proteger a los pacientes. Estas telas inteligentes pueden prevenir las úlceras por presión en la cama.",
+      "body_es": "Las úlceras por presión son heridas graves en la piel. Los pacientes que están mucho tiempo en la cama las pueden desarrollar. Los hospitales buscan nuevas soluciones. Las telas inteligentes son sábanas especiales. Estas sábanas detectan cambios en la presión. Avisan al personal de enfermería cuando hay riesgo. La piel recibe más protección. Los apósitos nuevos funcionan con la tecnología. Las escaras son úlceras por presión profundas. Estas nuevas sábanas pueden revolucionar el cuidado. Los pacientes están más seguros. La prevención es mejor que el tratamiento.",
+      "body_en": "Pressure ulcers are serious skin wounds. Patients who spend a lot of time in bed can develop them. Hospitals seek new solutions. Smart fabrics are special sheets. These sheets detect changes in pressure. They alert nursing staff when there is risk. The skin receives more protection. New dressings work with technology. Bedsores are deep pressure ulcers. These new sheets can revolutionize care. Patients are safer. Prevention is better than treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXBIc1p2ZnNJYkxlSjNxMnVwR19FMVozb3hmZzhCZzE1RjFoUFRmOVA2ajdHN201WnhWcUZQNGFpb0NMSlduaEZUZ2E3QXpiZXI1SGNqNnhxdFEzcXB0MVNxWEtrWmNkeVJoNHMza1RxVmxySmVuN2U1b1ZWSUJkNlVfUEMxZm5ER1piX0xlQlFYM0FWc0NGbXlKa0wweUIxaFE2aWZ1aXhkaXNPekVv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-05/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cierra fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not close easily"
+        },
+        {
+          "word": "escara",
+          "definition_es": "tejido muerto por falta de circulación",
+          "definition_en": "eschar - dead tissue from lack of circulation"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar que ocurra algo",
+          "definition_en": "prevention - actions to avoid something happening"
+        },
+        {
+          "word": "presión",
+          "definition_es": "fuerza que se ejerce sobre la piel",
+          "definition_en": "pressure - force applied to the skin"
+        }
+      ],
+      "added_at": "2026-05-05T09:41:45.691264Z"
+    },
+    {
+      "id": "burn-care-20250505",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Injertos de piel de pescado revolucionan el tratamiento de quemaduras",
+      "headline_en": "Fish Skin Grafts Revolutionize Burn Treatment",
+      "summary_es": "Kerecis presentó nuevos tratamientos de injertos de piel de pescado en una conferencia europea. Este material biológico mejora significativamente la curación de quemaduras complejas.",
+      "body_es": "La empresa Kerecis ha desarrollado un tratamiento innovador usando piel de pescado para curar quemaduras. En la conferencia EWMA-DEWU 2026, los expertos en heridas discutieron esta tecnología revolucionaria. Los injertos de piel de pescado contienen colágeno natural que facilita la epitelización. Este material biológico reduce el tiempo de curación comparado con los apósitos tradicionales. Los cirujanos observan que la cicatrización mejora notablemente con este tratamiento. La piel de pescado se integra bien con los tejidos dañados. Los pacientes experimentan menos dolor durante la curación. Este método es especialmente útil en quemaduras profundas. La conferencia europea reunió a especialistas de toda Europa. Kerecis continúa investigando nuevas aplicaciones para este material.",
+      "body_en": "The company Kerecis has developed an innovative treatment using fish skin to heal burns. At the EWMA-DEWU 2026 conference, wound experts discussed this revolutionary technology. Fish skin grafts contain natural collagen that facilitates epithelialization. This biological material reduces healing time compared to traditional dressings. Surgeons observe that scarring improves notably with this treatment. Fish skin integrates well with damaged tissues. Patients experience less pain during healing. This method is especially useful for deep burns. The European conference brought together specialists from across Europe. Kerecis continues researching new applications for this material.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTm5pZ3FKR1NfTHhtdVBrNVFDNHdMQlgydU00LW1TT3R1T2FlcC1Fb3NvMDdfMmZqYV90b3p5S2hLdm41b2laMklvUWdCT3hWQThGZWg2V3AxUHhmRVlseGlkVkVVX0x4X3BLbXZmMlh4eGw0M09GR2xmdmhKcnZ2VURlQVNjN1FpUkdiQ3ZJRVAxZ3JwM1QtUmlCRzB4Q1lwbFRSbmlac3A2bEEyS1FkdW4wbkV2NzlxQ25iV3NPUEczZlFFMVNhQmpZeUdlSVlsU096T0xETDJQRlNCQXIxWE1NY3Y5Tnc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-05/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "tejido trasplantado de un lugar a otro",
+          "definition_en": "graft - tissue transplanted from one place to another"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel",
+          "definition_en": "epithelialization - process of new skin formation"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de cicatriz después de sanar una herida",
+          "definition_en": "scarring - formation of scar after wound healing"
+        }
+      ],
+      "added_at": "2026-05-05T09:41:45.691264Z"
+    },
+    {
+      "id": "surgical-wounds-20250505",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "purple",
+      "headline_es": "Método robótico mejora resultados en reparación de hernias ventrales",
+      "headline_en": "Robotic Method Improves Outcomes in Ventral Hernia Repair",
+      "summary_es": "Una nueva técnica quirúrgica robótica para reparar hernias ventrales muestra resultados postoperatorios mejorados. Este enfoque minimamente invasivo reduce complicaciones de heridas quirúrgicas.",
+      "body_es": "Los cirujanos están adoptando técnicas robóticas para la reparación de hernias ventrales. Este enfoque minimamente invasivo reduce significativamente el tiempo de recuperación postoperatoria. Las hernias ventrales son defectos en la pared abdominal que requieren intervención quirúrgica. El método robótico permite una disección más precisa de los tejidos. Los pacientes experimentan menos dolor postoperatorio comparado con cirugía abierta. La infección de sitio quirúrgico se reduce considerablemente con esta técnica. Los apósitos para heridas quirúrgicas son más fáciles de manejar. La cicatrización ocurre más rápidamente en incisiones más pequeñas. Los estudios demuestran que los pacientes se recuperan en menos días. La desbridación de tejido dañado es más controlada. Este avance representa una mejora importante en cuidado postoperatorio.",
+      "body_en": "Surgeons are adopting robotic techniques for ventral hernia repair. This minimally invasive approach significantly reduces postoperative recovery time. Ventral hernias are defects in the abdominal wall requiring surgical intervention. The robotic method allows more precise tissue dissection. Patients experience less postoperative pain compared to open surgery. Surgical site infection is considerably reduced with this technique. Dressings for surgical wounds are easier to manage. Scarring occurs more quickly in smaller incisions. Studies show patients recover in fewer days. Tissue debridement is more controlled. This advance represents an important improvement in postoperative care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjBIRXJkREtzQjBBYVgwbkRtbGVEam8xQ0dUTC00YU5nQ003SDB3anlsMmU5LVhDUkUybnNXa09HbjB2alNsS1BhVVFMRG54YzVvQ1hzUFZiRGs1c3YtMUpKM1V0cllMMW1tRHVfOEltbkZwZ1dScFpBb090SmVpYUFkd1JQcVhGUDhsNl9HVTJSeVdmLWM2cHhEMmRIY3pKR1E3d0lUelg2OG5xSWQxaXhfeGJLRl9LOGYybWNLLUVkLWs?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-05/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión hecha durante una operación",
+          "definition_en": "surgical wound - incision made during an operation"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "removal of dead or damaged tissue from a wound",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos dañinos en una herida",
+          "definition_en": "infection - invasion of harmful microorganisms in a wound"
+        },
+        {
+          "word": "postoperatorio",
+          "definition_es": "período después de una operación quirúrgica",
+          "definition_en": "postoperative - period after surgical operation"
+        }
+      ],
+      "added_at": "2026-05-05T09:41:45.691264Z"
+    },
     {
       "id": "chronic-wounds-20250504",
       "category": "Chronic Wounds",
@@ -19278,6 +19426,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-04T09:51:18.582047Z",
+  "last_updated": "2026-05-05T09:41:45.691264Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
