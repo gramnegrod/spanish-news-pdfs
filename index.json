@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-06",
+      "filename": "spanish_lesson_2026-05-06.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-06.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump dice que no necesita permiso del Congreso para guerra con Irán",
+          "headline_en": "Trump says he doesn't need Congress permission for war with Iran",
+          "body_es": "El expresidente Donald Trump declaró que no necesita la aprobación del Congreso para acciones militares contra Irán. Trump explicó que el plazo legal no se aplica porque las hostilidades ya terminaron. Según la ley americana, el presidente debe pedir permiso al Congreso después de 60 días de conflicto militar. Sin embargo, Trump argumenta que la situación con Irán ya no es activa. Esta declaración genera debate sobre los poderes presidenciales en temas de guerra. Los demócratas critican esta posición y dicen que el Congreso debe aprobar todas las acciones militares importantes. La tensión entre Estados Unidos e Irán ha sido un tema controversial durante varios años.",
+          "body_en": "Former President Donald Trump declared that he doesn't need Congress approval for military actions against Iran. Trump explained that the legal deadline doesn't apply because hostilities have already ended. According to American law, the president must ask Congress for permission after 60 days of military conflict. However, Trump argues that the situation with Iran is no longer active. This declaration generates debate about presidential powers in war matters. Democrats criticize this position and say Congress must approve all important military actions. Tension between the United States and Iran has been a controversial topic for several years.",
+          "source": "Carolina Coast Online"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los expertos observan el empleo mientras la Fed considera reducir tasas",
+          "headline_en": "Experts watch employment while Fed considers reducing rates",
+          "body_es": "Todos los ojos están en el mercado laboral americano mientras la Reserva Federal considera sus próximas decisiones. Los economistas estudian los datos de empleo para predecir si habrá una reducción en las tasas de interés. La ventana de oportunidad para reducir las tasas se está cerrando según los expertos. Los números de empleo son muy importantes para la economía del país. Si hay muchos empleos nuevos, la Fed puede mantener las tasas altas. Pero si el empleo baja, pueden reducir las tasas para ayudar la economía. Esta decisión afecta a millones de americanos que buscan trabajo o tienen préstamos bancarios. Los inversionistas también esperan estas noticias importantes.",
+          "body_en": "All eyes are on the American job market while the Federal Reserve considers its next decisions. Economists study employment data to predict if there will be a reduction in interest rates. The window of opportunity to reduce rates is closing according to experts. Employment numbers are very important for the country's economy. If there are many new jobs, the Fed may keep rates high. But if employment drops, they may reduce rates to help the economy. This decision affects millions of Americans who are looking for work or have bank loans. Investors are also waiting for this important news.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Pennsylvania demanda a empresa de IA por chatbots que fingen ser doctores",
+          "headline_en": "Pennsylvania sues AI company for chatbots that pretend to be doctors",
+          "body_es": "El estado de Pennsylvania presentó una demanda contra una compañía de inteligencia artificial. La empresa creó chatbots que ilegalmente se presentan como doctores licenciados. Estos programas de computadora dan consejos médicos sin tener la educación necesaria. Solo los doctores con licencia pueden dar consejos médicos oficiales en Estados Unidos. La demanda dice que esto es peligroso para la salud pública. Los pacientes pueden recibir información incorrecta sobre sus problemas de salud. Pennsylvania quiere que la compañía pare esta práctica inmediatamente. Este caso muestra los problemas legales de la inteligencia artificial en la medicina. Muchos estados están creando nuevas leyes para regular el uso de IA en servicios médicos.",
+          "body_en": "The state of Pennsylvania filed a lawsuit against an artificial intelligence company. The company created chatbots that illegally present themselves as licensed doctors. These computer programs give medical advice without having the necessary education. Only licensed doctors can give official medical advice in the United States. The lawsuit says this is dangerous for public health. Patients may receive incorrect information about their health problems. Pennsylvania wants the company to stop this practice immediately. This case shows the legal problems of artificial intelligence in medicine. Many states are creating new laws to regulate the use of AI in medical services.",
+          "source": "WRAL"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "plazo",
+          "syllables": "PLA-zo",
+          "pos": "sustantivo",
+          "context": "Trump dice que el plazo para aprobar la guerra no se aplica.",
+          "definition_es": "Tiempo límite para hacer algo",
+          "definition_en": "Deadline, time limit"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El Congreso debe aprobar las acciones militares.",
+          "definition_es": "Dar permiso oficial para algo",
+          "definition_en": "To approve, to authorize"
+        },
+        {
+          "word": "hostilidades",
+          "syllables": "hos-ti-li-DA-des",
+          "pos": "sustantivo",
+          "context": "Las hostilidades con Irán han terminado según Trump.",
+          "definition_es": "Acciones de guerra o conflicto",
+          "definition_en": "Hostilities, acts of war"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "Todos observan el mercado laboral americano.",
+          "definition_es": "Sistema de empleos y trabajadores",
+          "definition_en": "Job market, labor market"
+        },
+        {
+          "word": "demandar",
+          "syllables": "de-man-DAR",
+          "pos": "verbo",
+          "context": "Pennsylvania demanda a la compañía de inteligencia artificial.",
+          "definition_es": "Llevar a alguien a los tribunales",
+          "definition_en": "To sue, to take legal action"
+        },
+        {
+          "word": "chatbots",
+          "syllables": "CHAT-bots",
+          "pos": "sustantivo",
+          "context": "Los chatbots se presentan como doctores licenciados.",
+          "definition_es": "Programas que conversan con personas",
+          "definition_en": "Chatbots, automated conversation programs"
+        },
+        {
+          "word": "licenciado",
+          "syllables": "li-cen-CIA-do",
+          "pos": "adjetivo",
+          "context": "Los doctores deben estar licenciados para practicar medicina.",
+          "definition_es": "Que tiene permiso oficial para trabajar",
+          "definition_en": "Licensed, officially authorized"
+        },
+        {
+          "word": "reducir",
+          "syllables": "re-du-CIR",
+          "pos": "verbo",
+          "context": "La Reserva Federal puede reducir las tasas de interés.",
+          "definition_es": "Hacer algo más pequeño o menos",
+          "definition_en": "To reduce, to cut down"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'plazo' en español?",
+          "options": [
+            "Tiempo límite",
+            "Lugar grande",
+            "Comida especial",
+            "Persona importante"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'demandar' en contexto legal?",
+          "options": [
+            "Preguntar mucho",
+            "Llevar a los tribunales",
+            "Necesitar algo",
+            "Gritar fuerte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'hostilidades'?",
+          "options": [
+            "Fiestas grandes",
+            "Acciones de guerra",
+            "Hospitales",
+            "Hoteles caros"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un doctor 'licenciado'?",
+          "options": [
+            "Muy inteligente",
+            "Con permiso oficial",
+            "Muy joven",
+            "Muy famoso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según Trump, ¿por qué no necesita aprobación del Congreso?",
+          "options": [
+            "Porque es presidente",
+            "Porque las hostilidades terminaron",
+            "Porque Irán está lejos",
+            "Porque el Congreso cerró"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué observan los economistas para predecir las decisiones de la Fed?",
+          "options": [
+            "El clima",
+            "Los datos de empleo",
+            "Las elecciones",
+            "Los precios de comida"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué problema tienen los chatbots mencionados en el artículo?",
+          "options": [
+            "No funcionan bien",
+            "Son muy caros",
+            "Fingen ser doctores",
+            "Hablan muy rápido"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuántos días tiene el presidente para pedir permiso al Congreso según la ley?",
+          "options": [
+            "30 días",
+            "45 días",
+            "60 días",
+            "90 días"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué estado demandó a la compañía de inteligencia artificial?",
+          "options": [
+            "California",
+            "Texas",
+            "Pennsylvania",
+            "Nueva York"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué es peligroso que los chatbots den consejos médicos?",
+          "options": [
+            "Son muy lentos",
+            "Cuestan mucho dinero",
+            "Pueden dar información incorrecta",
+            "Solo hablan inglés"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-06T09:44:11.300766"
+    },
+    {
       "date": "2026-05-05",
       "filename": "spanish_lesson_2026-05-05.pdf",
       "path": "pdfs/spanish_lesson_2026-05-05.pdf",
@@ -33104,7 +33326,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-05T09:33:46.074094",
+  "last_updated": "2026-05-06T09:44:11.300791",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
