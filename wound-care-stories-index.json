@@ -1,11 +1,196 @@
 {
-  "date": "2026-05-05",
-  "generated_at": "2026-05-05T09:41:45.691264Z",
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T09:52:18.958709Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 525,
-  "new_today": 4,
+  "total_stories": 530,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250506",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Convatec presenta innovaciones avanzadas en el cuidado de heridas",
+      "headline_en": "Convatec Presents Advanced Innovations in Wound Care",
+      "summary_es": "Convatec mostró nuevas tecnologías para el tratamiento de heridas crónicas en la conferencia EWMA 2026. Estas innovaciones ayudan a los pacientes a sanar más rápido.",
+      "body_es": "Convatec presentó innovaciones avanzadas en cuidado de heridas en la Asociación Europea de Gestión de Heridas (EWMA) 2026. Las nuevas tecnologías mejoran el tratamiento de heridas crónicas. Los apósitos avanzados protegen la herida y aceleran la curación. La empresa lídera la industria con productos de alta calidad. Los profesionales de enfermería pueden usar estos vendajes para mejorar los resultados del paciente. Las heridas crónicas necesitan cuidado especial y productos efectivos. Estas innovaciones representan progreso importante en la medicina de heridas. Los hospitales y clínicas ahora tienen mejores opciones para tratar a sus pacientes.",
+      "body_en": "Convatec presented advanced innovations in wound care at the European Wound Management Association (EWMA) 2026. The new technologies improve treatment of chronic wounds. Advanced dressings protect the wound and accelerate healing. The company leads the industry with high-quality products. Nurses can use these bandages to improve patient outcomes. Chronic wounds need special care and effective products. These innovations represent important progress in wound medicine. Hospitals and clinics now have better options to treat their patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZVV5dThXMFZWdXRvbDdkczhlYzJ6ejVDM2JMNXJJUVR2S1l2MmhQN1hfRGdOQU51TmlEei1WN0lCS2phOHlKM3BLVF81cHY1MFVrZnBsQUdrdWhRYnhES1pYNm9QMFNPVEJXY2VKOE9rbjlBN20zRnNoWjhwVklwN2ZJUkx1NTdGUGczSzZzd19CTG02MUtCRTNPYjQyTHlGRVJkRFRUUXk0c2xmQnlkNDJsLXB0UnlHZTV5YVlsc2hNSlhHb0FqbUszOGRXRG0wbFhKNnN4ZzFEWlJXZDhPNnNDWndhVEdTS1VBeVJjd3l2dk5HWXpkUUFKWQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-06/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o tejido causada por trauma",
+          "definition_en": "wound - injury to skin or tissue caused by trauma"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico que cubre y protege una herida",
+          "definition_en": "dressing - medical material that covers and protects a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y recuperación de tejido dañado",
+          "definition_en": "healing - process of tissue repair and recovery"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "tira de material para cubrir y sujetar una herida",
+          "definition_en": "bandage - strip of material to cover and secure a wound"
+        }
+      ],
+      "added_at": "2026-05-06T09:52:18.958709Z"
+    },
+    {
+      "id": "pressure-ulcers-20250506",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "blue",
+      "headline_es": "Sábanas inteligentes pueden prevenir úlceras por presión",
+      "headline_en": "Smart Fabric Sheets Could Prevent Pressure Ulcers",
+      "summary_es": "Nuevas sábanas con tecnología inteligente pueden revolucionar la prevención de escaras en hospitales. Estas telas especiales detectan presión y ayudan a proteger la piel de los pacientes.",
+      "body_es": "Hospitales están usando sábanas inteligentes para prevenir úlceras por presión, también llamadas escaras. Estas sábanas especiales contienen sensores que detectan presión continua en la piel. La tecnología ayuda a las enfermeras a cambiar de posición a los pacientes a tiempo. Las úlceras por presión son problemas graves en personas que están en cama mucho tiempo. La nueva tela inteligente protege la piel y reduce la fricción. Los hospitales pueden mejorar el cuidado de pacientes con esta innovación. Las sábanas trabajan junto con los cuidados tradicionales de enfermería. Este avance es importante para prevenir complicaciones graves en pacientes hospitalizados.",
+      "body_en": "Hospitals are using smart sheets to prevent pressure ulcers, also called bedsores. These special sheets contain sensors that detect continuous pressure on the skin. The technology helps nurses change patient positions in time. Pressure ulcers are serious problems in people who spend a lot of time in bed. The new smart fabric protects the skin and reduces friction. Hospitals can improve patient care with this innovation. The sheets work together with traditional nursing care. This advance is important to prevent serious complications in hospitalized patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXBIc1p2ZnNJYkxlSjNxMnVwR19FMVozb3hmZzhCZzE1RjFoUFRmOVA2ajdHN201WnhWcUZQNGFpb0NMSlduaEZUZ2E3QXpiZXI1SGNqNnhxdFEzcXB0MVNxWEtrWmNkeVJoNHMza1RxVmxySmVuN2U1b1ZWSUJkNlVfUEMxZm5ER1piX0xlQlFYM0FWc0NGbXlKa0wweUIxaFE2aWZ1aXhkaXNPekVv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-06/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel causada por presión continua",
+          "definition_en": "ulcer - open sore on skin caused by continuous pressure"
+        },
+        {
+          "word": "escaras",
+          "definition_es": "úlceras por presión en la piel, especialmente en pacientes encamados",
+          "definition_en": "bedsores - pressure ulcers on skin, especially in bedridden patients"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar que algo malo ocurra",
+          "definition_en": "prevention - actions to stop something bad from happening"
+        },
+        {
+          "word": "piel",
+          "definition_es": "tejido que cubre el cuerpo humano",
+          "definition_en": "skin - tissue that covers the human body"
+        }
+      ],
+      "added_at": "2026-05-06T09:52:18.958709Z"
+    },
+    {
+      "id": "burn-care-20250506",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Cirujanos utilizan nuevas técnicas innovadoras para tratar quemaduras complejas",
+      "headline_en": "Surgeons Use Innovative New Techniques to Treat Complex Burns",
+      "summary_es": "Los cirujanos australianos están usando nuevas técnicas avanzadas para tratar heridas por quemadura y lesiones complejas. Estos métodos mejoran la recuperación y reducen cicatrices en los pacientes.",
+      "body_es": "Cirujanos en Australia están implementando técnicas innovadoras para el tratamiento de quemaduras complejas y heridas difíciles. Estos métodos quirúrgicos avanzados aceleran la curación y minimizan las cicatrices permanentes. El equipo médico utiliza procedimientos especializados que permiten una regeneración tisular más efectiva. Los pacientes con quemaduras graves requieren cuidados multidisciplinarios que integren estas nuevas tecnologías. La curación de quemaduras es un proceso complejo que demanda evaluación continua del tejido necrótico y el tejido de granulación. Los profesionales de enfermería monitorizan el exudado y ajustan el tratamiento según la respuesta del paciente. Estas innovaciones representan un avance significativo en la medicina de quemaduras, mejorando los resultados clínicos y la calidad de vida de los pacientes afectados.",
+      "body_en": "Surgeons in Australia are implementing innovative techniques for treating complex burns and difficult wounds. These advanced surgical methods accelerate healing and minimize permanent scarring. The medical team uses specialized procedures that allow more effective tissue regeneration. Patients with severe burns require multidisciplinary care that integrates these new technologies. Burn healing is a complex process that requires continuous evaluation of necrotic tissue and granulation tissue. Nursing professionals monitor drainage and adjust treatment according to patient response. These innovations represent significant progress in burn medicine, improving clinical outcomes and quality of life for affected patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVnUwOTc3RmwxTHczRVdZNXNnMk9kdmRHYTk4VlNUd2c2LTR0cmY2bGdjWDdGaEdPQVdjTXp0YU8yREFFXzk4THBDVE5SWjJxUVo4X29EUTRZVEpkblEtdEZQRnNhUjk2Q3lyUFc3TjFaLVJMbEVWS2xSWXc4VzBIc3VCNU5IejBEcHprT1haZk1LallaUEE5Szh6VHQyTE5sNUZldjhWTG9za01LYl9OOEJMMkh1YUNzQzZwNFdTeHdhTEVRSFctWVFKOThTeUJLOUN5RE9RN2hOdmVXU0F5MEpyQ0tJMzFNdDNaYVJkV0hJcktPay1ES2xVc0drMW5vM19sT2VrYVdpRmprRUZFcjd5YjU2NEp6Vmcw0gGbAkFVX3lxTE1WdTA5NzdGbDFMdzNFV1k1c2cyT2R2ZEdhOThWU1R3ZzYtNHRyZjZsZ2NYN0ZoR09BV2NNenRhTzJEQUVfOThMcENUTlJaMnFRWjhfb0RRNFlUSmRuUS10RlBGc2FSOTZDeXJQVzdOMVotUkxsRVZLbFJZdzhXMEhzdUI1Tkh6MERwemtPWFpmTUtqWlpQQTlLOHpUdDJMTmw1RmV2OFZMb3NrTUtiX044QkwySHVhQ3NDNnA0V1N4d2FMRVFIVy1ZUUo5OFN5Qks5Q3lET1E3aE52ZVdTQXkwSnJDS0kzMU10M1phUmRXSElyS09rLURLbFVzR2sxbm8zX2xPZWthV2lGamtFRkVyN3liNTY0SnpWZzA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-06/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to skin caused by heat, fire or chemical substances"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido vivo debido a enfermedad o lesión",
+          "definition_en": "necrosis - death of living tissue due to disease or injury"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido de cicatrización que se forma durante la curación",
+          "definition_en": "granulation - healing tissue that forms during recovery"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que drena de una herida durante la curación",
+          "definition_en": "exudate - fluid that drains from a wound during healing"
+        }
+      ],
+      "added_at": "2026-05-06T09:52:18.958709Z"
+    },
+    {
+      "id": "surgical-wounds-20250506",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "red",
+      "headline_es": "Estudio identifica bacterias anaeróbicas en infecciones de heridas quirúrgicas",
+      "headline_en": "Study Identifies Anaerobic Bacteria in Surgical Wound Infections",
+      "summary_es": "Un estudio en un hospital terciario analiza la prevalencia de bacterias anaeróbicas en infecciones de sitio quirúrgico. Los hallazgos ayudan a mejorar los protocolos de tratamiento antibiótico.",
+      "body_es": "Investigadores en un hospital de tercer nivel realizaron un estudio sobre la prevalencia de bacterias anaeróbicas en infecciones del sitio quirúrgico. Las infecciones de heridas quirúrgicas son complicaciones graves que pueden retrasar la curación y extender la hospitalización. El análisis microbiológico reveló la importancia de identificar correctamente los patógenos causantes de infección. Las bacterias anaeróbicas son difíciles de detectar con métodos tradicionales, pero son responsables de muchas complicaciones post-quirúrgicas. El tratamiento antibiótico debe ser apropiado para el tipo de bacteria identificada en la cultura. Los profesionales de enfermería deben evaluar continuamente signos de infección como eritema, aumento de exudado, y edema en la herida. Este estudio contribuye al conocimiento de cómo mejorar los protocolos de prevención y tratamiento de infecciones quirúrgicas.",
+      "body_en": "Researchers at a tertiary care hospital conducted a study on the prevalence of anaerobic bacteria in surgical site infections. Surgical wound infections are serious complications that can delay healing and extend hospitalization. Microbiological analysis revealed the importance of correctly identifying pathogens causing infection. Anaerobic bacteria are difficult to detect with traditional methods, but are responsible for many post-surgical complications. Antibiotic treatment must be appropriate for the type of bacteria identified in culture. Nursing professionals should continuously evaluate signs of infection such as erythema, increased drainage, and edema in the wound. This study contributes to knowledge of how to improve protocols for preventing and treating surgical infections.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXlkVllzN29xd2xfYnhlM0lKUmpPV1VLRWZTdER2cmxaZEpGUVoySUpNRGFHbVl3cUFZMGlQYlZ6NW1FUHY1eGhvVUFlOVJBN3RoeUhadkF4cTY0b0FPb2pUanBUNG9RX0JrT1pjcWJzSU5CTXNsaWNPYmJWcGJqQ3FjdWd4T2p6Mng2d0V5ZDNqeGV6QV9wZUV5X1Rvd3lCa2l2bmVRTVBwR3NqeXNXUzNtRUVvelJlMUN4Sm1GMHpZVmtGS0E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-06/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos patógenos en el cuerpo humano",
+          "definition_en": "infection - invasion of pathogenic microorganisms in the human body"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel causado por inflamación",
+          "definition_en": "erythema - skin redness caused by inflammation"
+        },
+        {
+          "word": "edema",
+          "definition_es": "hinchazón de tejido causada por acumulación de líquido",
+          "definition_en": "edema - tissue swelling caused by fluid accumulation"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo o alambre usado para cerrar una herida quirúrgica",
+          "definition_en": "suture - thread or wire used to close a surgical wound"
+        }
+      ],
+      "added_at": "2026-05-06T09:52:18.958709Z"
+    },
+    {
+      "id": "wound-research-20250506",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Convatec presenta investigación avanzada en tecnología de curación de heridas",
+      "headline_en": "Convatec Presents Advanced Research in Wound Care Technology",
+      "summary_es": "Convatec mostró nuevas investigaciones en tecnología de curación de heridas en la conferencia EWMA 2026. Los hallazgos demuestran innovaciones que mejoran el tratamiento de heridas crónicas y complejas.",
+      "body_es": "Convatec presentó investigaciones significativas sobre tecnología avanzada de curación de heridas en la Asociación Europea de Gestión de Heridas 2026. Los estudios clínicos demuestran que los nuevos apósitos inteligentes aceleran los procesos de epitelización y granulación. La investigación se enfoca en mejorar la evaluación de heridas mediante tecnología de imagen y sensores especializados. Los científicos analizaron cómo diferentes materiales de vendaje afectan la isquemia tisular y la necrosis. Los hallazgos muestran que los apósitos avanzados reducen significativamente el tiempo de cicatrización en úlceras crónicas. El equipo investigador utilizó metodologías rigurosas para evaluar exudado y proliferación celular. Estas innovaciones permiten que los profesionales de enfermería proporcionen cuidados basados en evidencia científica más sólida.",
+      "body_en": "Convatec presented significant research on advanced wound care technology at the European Wound Management Association 2026. Clinical studies demonstrate that new smart dressings accelerate epithelialization and granulation processes. Research focuses on improving wound assessment through imaging technology and specialized sensors. Scientists analyzed how different dressing materials affect tissue ischemia and necrosis. Findings show that advanced dressings significantly reduce healing time in chronic ulcers. The research team used rigorous methodologies to evaluate drainage and cell proliferation. These innovations allow nursing professionals to provide care based on stronger scientific evidence.",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZVV5dThXMFZWdXRvbDdkczhlYzJ6ejVDM2JMNXJJUVR2S1l2MmhQN1hfRGdOQU51TmlEei1WN0lCS2phOHlKM3BLVF81cHY1MFVrZnBsQUdrdWhRYnhES1pYNm9QMFNPVEJXY2VKOE9rbjlBN20zRnNoWjhwVklwN2ZJUkx1NTdGUGczSzZzd19CTG02MUtCRTNPYjQyTHlGRVJkRFRUUXk0c2xmQnlkNDJsLXB0UnlHZTV5YVlsc2hNSlhHb0FqbUszOGRXRG0wbFhKNnN4ZzFEWlJXZDhPNnNDWndhVEdTS1VBeVJjd3l2dk5HWXpkUUFKWQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-06/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nuevo tejido epitelial durante la curación de heridas",
+          "definition_en": "epithelialization - formation of new epithelial tissue during wound healing"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo que impide la curación de tejido",
+          "definition_en": "ischemia - lack of blood flow that prevents tissue healing"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico avanzado que acelera la curación y protege heridas",
+          "definition_en": "dressing - advanced medical material that accelerates healing and protects wounds"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz y curación completa de herida",
+          "definition_en": "scarring - process of scar formation and complete wound healing"
+        }
+      ],
+      "added_at": "2026-05-06T09:52:18.958709Z"
+    },
     {
       "id": "chronic-wounds-20250505",
       "category": "Chronic Wounds",
@@ -19426,6 +19611,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-05T09:41:45.691264Z",
+  "last_updated": "2026-05-06T09:52:18.958709Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
