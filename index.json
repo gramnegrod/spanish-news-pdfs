@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-07",
+      "filename": "spanish_lesson_2026-05-07.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-07.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Colombia se prepara para las elecciones presidenciales de 2026",
+          "headline_en": "Colombia prepares for 2026 presidential elections",
+          "body_es": "Colombia tendrá elecciones presidenciales en 2026. Los partidos políticos ya están preparando sus campañas. Los candidatos comenzarán a presentar sus propuestas para el país. Las elecciones son muy importantes para el futuro de Colombia. Los ciudadanos podrán votar por el presidente que quieren. Muchos temas serán importantes en la campaña: la economía, la seguridad y la educación. Los expertos dicen que será una elección muy competitiva. Los colombianos están esperando conocer a todos los candidatos. El proceso electoral durará varios meses. La democracia es fundamental para Colombia.",
+          "body_en": "Colombia will have presidential elections in 2026. Political parties are already preparing their campaigns. Candidates will begin to present their proposals for the country. The elections are very important for Colombia's future. Citizens will be able to vote for the president they want. Many topics will be important in the campaign: the economy, security, and education. Experts say it will be a very competitive election. Colombians are waiting to meet all the candidates. The electoral process will last several months. Democracy is fundamental for Colombia.",
+          "source": "Every CRS Report"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los aranceles de Trump causan daños significativos a la economía estadounidense",
+          "headline_en": "Trump's tariffs cause significant damage to the US economy",
+          "body_es": "Un economista principal de Moody's dice que los aranceles de Trump han causado daño significativo a la economía de Estados Unidos. Los aranceles son impuestos sobre productos de otros países. Estos impuestos hacen que los productos sean más caros para los consumidores americanos. Las empresas también tienen problemas porque no pueden comprar materiales baratos. El economista explica que los aranceles no ayudan a la economía estadounidense. Al contrario, crean más problemas. Los precios suben y las familias gastan más dinero en productos básicos. Muchos expertos están de acuerdo con esta opinión. Los aranceles afectan especialmente a las familias con menos dinero.",
+          "body_en": "A chief economist at Moody's says that Trump's tariffs have caused significant damage to the US economy. Tariffs are taxes on products from other countries. These taxes make products more expensive for American consumers. Companies also have problems because they cannot buy cheap materials. The economist explains that tariffs do not help the US economy. On the contrary, they create more problems. Prices go up and families spend more money on basic products. Many experts agree with this opinion. Tariffs especially affect families with less money.",
+          "source": "Fortune"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas eliminan trabajos para usar inteligencia artificial",
+          "headline_en": "Tech companies eliminate jobs to use artificial intelligence",
+          "body_es": "Freshworks y Coinbase son dos empresas tecnológicas importantes. Estas compañías anuncian que van a eliminar más del 10% de sus empleos. La razón es que quieren reemplazar trabajadores con inteligencia artificial. La inteligencia artificial puede hacer el trabajo de muchas personas. En 2026, las empresas tecnológicas han eliminado casi 100,000 empleos. Esto es un problema muy grande para los trabajadores. Muchas personas van a perder su trabajo. Las empresas dicen que la inteligencia artificial es más eficiente. Pero los trabajadores están preocupados por su futuro. Este es un cambio muy importante en la industria tecnológica.",
+          "body_en": "Freshworks and Coinbase are two important technology companies. These companies announce that they will eliminate more than 10% of their jobs. The reason is that they want to replace workers with artificial intelligence. Artificial intelligence can do the work of many people. In 2026, tech companies have eliminated almost 100,000 jobs. This is a very big problem for workers. Many people will lose their jobs. Companies say that artificial intelligence is more efficient. But workers are worried about their future. This is a very important change in the technology industry.",
+          "source": "TechRadar"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "elección",
+          "syllables": "e-lec-CIÓN",
+          "pos": "sustantivo",
+          "context": "La elección presidencial de Colombia será en 2026.",
+          "definition_es": "Proceso para elegir a alguien para un cargo",
+          "definition_en": "Election - process of choosing someone for office"
+        },
+        {
+          "word": "aranceles",
+          "syllables": "a-ran-CE-les",
+          "pos": "sustantivo",
+          "context": "Los aranceles han causado problemas en la economía.",
+          "definition_es": "Impuestos sobre productos de otros países",
+          "definition_en": "Tariffs - taxes on goods from other countries"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas anuncian muchos despidos.",
+          "definition_es": "Cuando una empresa elimina empleos",
+          "definition_en": "Layoffs - when a company eliminates jobs"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está reemplazando trabajadores.",
+          "definition_es": "Tecnología que simula la inteligencia humana",
+          "definition_en": "Artificial intelligence - technology that simulates human intelligence"
+        },
+        {
+          "word": "economista",
+          "syllables": "e-co-no-MIS-ta",
+          "pos": "sustantivo",
+          "context": "El economista principal de Moody's habló sobre los aranceles.",
+          "definition_es": "Persona que estudia la economía",
+          "definition_en": "Economist - person who studies economics"
+        },
+        {
+          "word": "daño",
+          "syllables": "DA-ño",
+          "pos": "sustantivo",
+          "context": "Los aranceles han causado daño a la economía estadounidense.",
+          "definition_es": "Efecto negativo o perjuicio",
+          "definition_en": "Damage - negative effect or harm"
+        },
+        {
+          "word": "reemplazar",
+          "syllables": "re-em-pla-ZAR",
+          "pos": "verbo",
+          "context": "Las empresas quieren reemplazar trabajadores con tecnología.",
+          "definition_es": "Poner algo o alguien en lugar de otro",
+          "definition_en": "Replace - to put something or someone in place of another"
+        },
+        {
+          "word": "candidato",
+          "syllables": "can-di-DA-to",
+          "pos": "sustantivo",
+          "context": "Los candidatos preparan sus campañas para 2026.",
+          "definition_es": "Persona que quiere ser elegida para un cargo",
+          "definition_en": "Candidate - person who wants to be elected to office"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'aranceles'?",
+          "options": [
+            "Impuestos sobre productos extranjeros",
+            "Tipo de moneda",
+            "Empresa grande",
+            "Trabajador de oficina"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'despido'?",
+          "options": [
+            "Una celebración",
+            "Cuando alguien pierde su trabajo",
+            "Un tipo de elección",
+            "Una nueva tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué hace un 'candidato'?",
+          "options": [
+            "Estudia economía",
+            "Busca ser elegido para un cargo",
+            "Trabaja con computadoras",
+            "Vende productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reemplazar'?",
+          "options": [
+            "Comprar algo nuevo",
+            "Poner algo en lugar de otro",
+            "Vender un producto",
+            "Estudiar un tema"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuándo tendrá Colombia sus próximas elecciones presidenciales?",
+          "options": [
+            "En 2025",
+            "En 2026",
+            "En 2027",
+            "En 2024"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según el economista de Moody's, ¿qué efecto tienen los aranceles de Trump?",
+          "options": [
+            "Ayudan a la economía",
+            "Causan daño significativo",
+            "No tienen efecto",
+            "Mejoran los precios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje de empleos van a eliminar Freshworks y Coinbase?",
+          "options": [
+            "Menos del 5%",
+            "Exactamente el 5%",
+            "Más del 10%",
+            "El 20%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué las empresas tecnológicas eliminan empleos?",
+          "options": [
+            "No tienen dinero",
+            "Quieren usar inteligencia artificial",
+            "Los trabajadores no son buenos",
+            "Las oficinas son muy pequeñas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos han eliminado las empresas tecnológicas en 2026?",
+          "options": [
+            "50,000",
+            "75,000",
+            "Casi 100,000",
+            "Más de 150,000"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué temas serán importantes en las elecciones de Colombia?",
+          "options": [
+            "Solo la economía",
+            "Economía, seguridad y educación",
+            "Solo la seguridad",
+            "Solo la educación"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-07T09:49:01.028778"
+    },
+    {
       "date": "2026-05-06",
       "filename": "spanish_lesson_2026-05-06.pdf",
       "path": "pdfs/spanish_lesson_2026-05-06.pdf",
@@ -33326,7 +33548,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-06T09:44:11.300791",
+  "last_updated": "2026-05-07T09:49:01.028803",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
