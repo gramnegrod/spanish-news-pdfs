@@ -1,11 +1,159 @@
 {
-  "date": "2026-05-07",
-  "generated_at": "2026-05-07T09:55:40.459978Z",
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:38:17.720135Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 534,
+  "total_stories": 538,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250508",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Millones de europeos reciben tratamiento para heridas crónicas",
+      "headline_en": "Millions of Europeans receive treatment for chronic wounds",
+      "summary_es": "Aproximadamente 14.9 millones de europeos tienen heridas crónicas que necesitan tratamiento especial. Smith+Nephew prepara dos nuevos tratamientos para ayudar a estos pacientes.",
+      "body_es": "Las heridas crónicas afectan a 14.9 millones de personas en Europa. Estas heridas no cierran normalmente y necesitan cuidados especiales. Una herida crónica es una lesión en la piel que no sana en el tiempo esperado. Smith+Nephew es una compañía médica que desarrolla nuevos apósitos y vendajes para tratar estas heridas. La compañía presenta dos nuevos productos para mejorar la curación. Estos tratamientos ayudan a los pacientes a recuperarse más rápido. Los profesionales de enfermería usan vendajes especiales para proteger la herida. El cuidado diario es muy importante para la curación. Los nuevos productos ofrecen mejores resultados en el tratamiento de heridas crónicas en Europa.",
+      "body_en": "Chronic wounds affect 14.9 million people in Europe. These wounds do not close normally and require special care. A chronic wound is a skin injury that does not heal in the expected time. Smith+Nephew is a medical company that develops new dressings and bandages to treat these wounds. The company is introducing two new products to improve healing. These treatments help patients recover more quickly. Nursing professionals use special dressings to protect the wound. Daily care is very important for healing. The new products offer better results in treating chronic wounds across Europe.",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1I2UXBYMC1nakdCVmxDUUJIVkFZX0k0WktGSzhJX3g5STBRb0VWUF8xLVdIRmdndVo4MHE4NVNVcXRGWENLZHpiYktsUlFQQ1BpcWJvMkFtUEltR0Vlam9Ib2JiOWttQ0xaUlZEcjdrU3Nrc0ZMMVhmZGF3M0tuM0ZOOU9tWEdWZE5uU1JrMkhSRjJJbHRnV3Z2TDdqaWFUR0NZek1YdHZrMHFNNUE",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-08/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión en la piel que no sana normalmente en el tiempo esperado",
+          "definition_en": "chronic wound - skin injury that does not heal normally in expected time"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - medical material placed on a wound to protect it"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de recuperación de una herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material que cubre y protege la herida",
+          "definition_en": "bandage - material that covers and protects the wound"
+        }
+      ],
+      "added_at": "2026-05-08T09:38:17.720135Z"
+    },
+    {
+      "id": "burn-care-20250508",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Sistema de regeneración de tejidos ayuda a pacientes con quemaduras",
+      "headline_en": "Tissue regeneration system helps burn patients",
+      "summary_es": "El Hospital General de Opelousas utiliza un nuevo sistema de regeneración de tejidos en 3D para tratar a pacientes con quemaduras. Esta tecnología innovadora permite regenerar la piel dañada más rápidamente.",
+      "body_es": "El Hospital General de Opelousas ha comenzado a tratar a sus primeros pacientes utilizando un sistema avanzado de regeneración de tejidos tridimensional. Este dispositivo revolucionario utiliza tecnología de impresión 3D para crear tejido cutáneo que puede ser utilizado en pacientes quemados. La quemadura es una lesión grave que requiere tratamientos especiales para restaurar la función de la piel. El nuevo sistema permite generar piel artificial que integra características biológicas importantes. Los médicos y enfermeras del hospital han recibido capacitación especializada para usar esta tecnología. El procedimiento involucra la toma de una pequeña muestra de piel del paciente, que luego se cultiva y se regenera en el laboratorio. Los pacientes que han recibido este tratamiento han mostrado una cicatrización más rápida y menos complicaciones. Este avance representa un progreso significativo en el cuidado de quemaduras y la regeneración de tejidos dañados.",
+      "body_en": "Opelousas General Health System has begun treating its first patients using an advanced three-dimensional tissue regeneration system. This revolutionary device uses 3D printing technology to create skin tissue that can be used in burn patients. A burn is a serious injury that requires special treatments to restore skin function. The new system allows for the generation of artificial skin that incorporates important biological features. Doctors and nurses at the hospital have received specialized training to use this technology. The procedure involves taking a small skin sample from the patient, which is then cultured and regenerated in the laboratory. Patients who have received this treatment have shown faster scarring and fewer complications. This advance represents significant progress in burn care and regeneration of damaged tissue.",
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTFZha3FveTZRbFMwdGxEVXdSTjVFU2Y1YTVtM1czeS11bWp5ZFBEY29KUjRkaW1oc1dyMjdQUXlUX01rakpaTjVJZ2QyVVRpakxYU2pfS0VvZmxka3FQLWEzN2txZUZoRWVkOGlkTTlGTElDa2Y2Q0xkWnExRi15UHZIdzRtSnJNRnBzcm5ZVzBOODFySFFCNF83Q1RGSl9Vez15U1RURDMyYmo1WDV2ajRiNUtiVmpNSVNYU0NwbktTMFlxZzRzZUctTkZtMXlUSVBKZTZfZ3JJa2EyWENGVXp2RnFuTDEtcFp1RnJ3aWVRTU9pSGMzSUY2VmYyVUlrZVpnSHBVTk9Gdw",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-08/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - skin injury caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "regeneración de tejidos",
+          "definition_es": "proceso de crecimiento de nuevas células de piel dañada",
+          "definition_en": "tissue regeneration - process of growing new skin cells from damaged tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz durante la curación",
+          "definition_en": "scarring - process of scar formation during healing"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de piel sana a un área quemada",
+          "definition_en": "skin graft - transplant of healthy skin to a burned area"
+        }
+      ],
+      "added_at": "2026-05-08T09:38:17.720135Z"
+    },
+    {
+      "id": "surgical-wounds-20250508",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Vendajes de solución salina diaria mejoran la cicatrización después de injertos",
+      "headline_en": "Daily saline wet dressings improve healing after grafts",
+      "summary_es": "Un nuevo enfoque utilizando vendajes húmedos de solución salina diariamente ha mejorado significativamente la cicatrización en pacientes pediátricos que han experimentado fallos repetidos en injertos de piel.",
+      "body_es": "Un estudio reciente publicado en Cureus ha demostrado que los vendajes húmedos de solución salina aplicados diariamente pueden ser un punto de inflexión importante en el tratamiento de fallos repetidos de injertos de piel en pacientes pediátricos. Los injertos de piel de espesor parcial son procedimientos quirúrgicos donde se trasplanta piel sana a áreas lesionadas. Cuando estos injertos fracasan, los pacientes pueden experimentar complicaciones graves. El estudio volvió a conceptos básicos pero efectivos: el uso de solución salina estéril aplicada en vendajes diarios. La solución salina es una mezcla de agua y sal que mantiene el ambiente de la herida óptimo para la cicatrización. Los investigadores encontraron que este método simple pero consistente promovió la epitelización y redujo las infecciones. El exudado de la herida se manage mejor con estos vendajes. Este enfoque demuestra que a veces los tratamientos más efectivos son aquellos que se centran en los principios fundamentales del cuidado de heridas.",
+      "body_en": "A recent study published in Cureus has shown that daily wet saline dressings can be a turning point in treating repeated skin graft failures in pediatric patients. Split-thickness skin grafts are surgical procedures where healthy skin is transplanted to injured areas. When these grafts fail, patients can experience serious complications. The study returned to basic but effective concepts: the use of sterile saline solution applied in daily dressings. Saline solution is a mixture of water and salt that maintains the optimal wound environment for healing. Researchers found that this simple but consistent method promoted epithelialization and reduced infections. Wound exudate is better managed with these dressings. This approach demonstrates that sometimes the most effective treatments are those that focus on fundamental principles of wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRE14bzlPZkkzLTRfdFlvaGltVXoxT1B3MlR6WjBUdzdtXy1ZQ2U0WEk2RzJCdHoxc0JLN2dabW9UZXpyR0ZpZUlEVFNIUzA3Vm8wWVpLZWZEODR3VE5zTzg3dzRNRS0xcmYzZUhtWm1lNzBmUmk3Q1dTWUpsenJnMDZSNE1wUU1VbzA4UFp0ZEttMmx0Yjg4VjJSaE1CNjFTRnVUbzBYWlpNb191Q1dvT3BtREJxSTdmWG16RmF3TGF5UWpLT1RYUklJbkR2cVgwTnhXeEpod1Rhb3JTdGVqTElFQk1IOWJFS3ZjaEJn",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-08/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "injerto de piel de espesor parcial",
+          "definition_es": "procedimiento quirúrgico que trasplanta capas específicas de piel sana",
+          "definition_en": "split-thickness skin graft - surgical procedure that transplants specific layers of healthy skin"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nuevas células de piel en la herida",
+          "definition_en": "epithelialization - process of new skin cell formation in the wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida durante la curación",
+          "definition_en": "exudate - fluid that drains from a wound during healing"
+        },
+        {
+          "word": "solución salina",
+          "definition_es": "mezcla de agua estéril y sal para limpiar heridas",
+          "definition_en": "saline solution - mixture of sterile water and salt to clean wounds"
+        }
+      ],
+      "added_at": "2026-05-08T09:38:17.720135Z"
+    },
+    {
+      "id": "wound-research-20250508",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Experto mundial en curación de heridas lidera nueva investigación en terapia celular",
+      "headline_en": "World-renowned wound care expert leads new research in cell therapy",
+      "summary_es": "El Dr. Thomas Serena, un experto reconocido internacionalmente en curación de heridas, se ha unido a la junta científica de Cytora Ltd. para dirigir la investigación de una nueva terapia con células madre derivadas de mucosa oral humana.",
+      "body_es": "Cytora Ltd. ha anunciado el nombramiento del Dr. Thomas Serena, MD, como miembro de su Junta Científica Asesor. El Dr. Serena es un especialista de renombre mundial en curación de heridas y tratamiento de lesiones complejas de la piel. Su rol principal será liderar el acceso al tratamiento de pacientes y la recolección de datos para la terapia CytoraStem, que utiliza células madre de mucosa oral humana (hOMSC). Esta investigación representa un avance significativo en medicina regenerativa. Las células madre tienen el potencial de diferenciarse en múltiples tipos de células, lo que permite la regeneración de tejidos dañados. El objetivo de este estudio es evaluar la eficacia de las células madre hOMSC en la curación de heridas crónicas y otras lesiones de tejidos. El Dr. Serena trabajará con un equipo multidisciplinario para asegurar que los pacientes reciban el mejor tratamiento posible. Su experiencia clínica será crucial para interpretar los datos de curación y mejorar los protocolos de tratamiento.",
+      "body_en": "Cytora Ltd. has announced the appointment of Dr. Thomas Serena, MD, to its Scientific Advisory Board. Dr. Serena is a world-renowned specialist in wound healing and treatment of complex skin injuries. His primary role will be to lead patient treatment access and data collection for CytoraStem therapy, which uses human oral mucosa stem cells (hOMSC). This research represents a significant advance in regenerative medicine. Stem cells have the potential to differentiate into multiple cell types, allowing regeneration of damaged tissue. The objective of this study is to evaluate the efficacy of hOMSC stem cells in healing chronic wounds and other tissue injuries. Dr. Serena will work with a multidisciplinary team to ensure that patients receive the best possible treatment. His clinical experience will be crucial for interpreting healing data and improving treatment protocols.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPVTJJOGh5S1VDckpIWnViVFRIeUR2Q0I2dENoV0ZrZ090WmVIcUxYSVdlUW1kY1BQdktBX0RUcTAxVGYyX2ViZm1VT1VOWGdjcjkwYi1HZ0NVVnJnakEzRV80d3g2RTFaZE1EYVFxSTQ0cDRmRUlsaEh4VW5DRktSVXAxSFhRUHdZU1RacnM2SHE5N3dmenNMdzRyQVpoX0pJWm1zRjNQRm9JWlhuX1RmRmVBa01PNk0yNWd4UmFsSmNDaVVESkJyQnIwVWpwcHZNUFg3UlI0ejRkVngzQ3g2dGNqWFpfX1VRNEA2eVc0REZESy04RG5Da2ZqWXJ0REVlV25pMFdnem5TNTFkeXpkeVBSNkZtY0JlY2kzSFh0LUlHdWJFdFQzUHZzT3RhbmZ1Ni0zYnE2cHVBSTYzRk9JYUhEb0lERTRMc1M2Tl9ER05JZ0FDb0JybnBya2xSSW1LM2NxUDlhUWllbjc5aU83RFJqUHhnU3dQMFIwWHhEdw",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-08/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "células madre",
+          "definition_es": "células especiales que pueden convertirse en diferentes tipos de células del cuerpo",
+          "definition_en": "stem cells - special cells that can differentiate into different body cell types"
+        },
+        {
+          "word": "medicina regenerativa",
+          "definition_es": "campo médico que se enfoca en restaurar o regenerar órganos y tejidos dañados",
+          "definition_en": "regenerative medicine - medical field focused on restoring or regenerating damaged organs and tissues"
+        },
+        {
+          "word": "mucosa oral",
+          "definition_es": "tejido que cubre el interior de la boca",
+          "definition_en": "oral mucosa - tissue that lines the inside of the mouth"
+        },
+        {
+          "word": "eficacia",
+          "definition_es": "capacidad de producir el efecto deseado o esperado en el tratamiento",
+          "definition_en": "efficacy - ability to produce desired or expected treatment effect"
+        }
+      ],
+      "added_at": "2026-05-08T09:38:17.720135Z"
+    },
     {
       "id": "chronic-wounds-20250507",
       "category": "Chronic Wounds",
@@ -19759,6 +19907,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-07T09:55:40.459978Z",
+  "last_updated": "2026-05-08T09:38:17.720135Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
