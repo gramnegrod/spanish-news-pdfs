@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-08",
+      "filename": "spanish_lesson_2026-05-08.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-08.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Republicanos de Tennessee crean nuevo mapa electoral controvertido",
+          "headline_en": "Tennessee Republicans create controversial new electoral map",
+          "body_es": "Los republicanos de Tennessee aprobaron un nuevo mapa electoral que divide la ciudad de Memphis. Esta decisión llegó pocos días después de una importante decisión de la Corte Suprema. El nuevo mapa cambia los distritos electorales de la ciudad. Los críticos dicen que esto puede afectar el poder de voto de algunas comunidades. Memphis es una ciudad importante en Tennessee con muchos votantes demócratas. El nuevo mapa divide esta ciudad en diferentes distritos. Los republicanos controlan el gobierno estatal de Tennessee. Ellos dicen que el mapa es justo y legal. Sin embargo, muchas personas no están de acuerdo con esta decisión. Este tema es muy importante para las próximas elecciones en Estados Unidos.",
+          "body_en": "Tennessee Republicans approved a new electoral map that divides the city of Memphis. This decision came just days after an important Supreme Court decision. The new map changes the city's electoral districts. Critics say this could affect the voting power of some communities. Memphis is an important city in Tennessee with many Democratic voters. The new map divides this city into different districts. Republicans control Tennessee's state government. They say the map is fair and legal. However, many people disagree with this decision. This issue is very important for upcoming elections in the United States.",
+          "source": "Tennessee Lookout"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los bonos del tesoro alcanzan 5% por temores de inflación",
+          "headline_en": "Treasury bonds reach 5% due to inflation fears",
+          "body_es": "Los bonos del tesoro de Estados Unidos están cerca del 5% otra vez. Esto ocurre porque hay temores de inflación en Wall Street. Los inversores están preocupados por el aumento de precios en el país. Cuando hay inflación, los productos cuestan más dinero. El mercado de valores está nervioso por esta situación económica. Los bonos del tesoro son inversiones muy importantes en Estados Unidos. Cuando suben al 5%, significa que la economía puede tener problemas. Los expertos financieros están observando estos números con atención. Esta situación afecta a todos los americanos porque puede cambiar los precios de las casas y otros productos. El gobierno está tratando de controlar la inflación pero es un proceso difícil.",
+          "body_en": "United States Treasury bonds are near 5% again. This happens because there are inflation fears on Wall Street. Investors are worried about rising prices in the country. When there is inflation, products cost more money. The stock market is nervous about this economic situation. Treasury bonds are very important investments in the United States. When they rise to 5%, it means the economy may have problems. Financial experts are watching these numbers carefully. This situation affects all Americans because it can change house prices and other products. The government is trying to control inflation but it is a difficult process.",
+          "source": "The Economic Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa californiana Cloudflare despide a mil trabajadores por la IA",
+          "headline_en": "California company Cloudflare lays off thousand workers due to AI",
+          "body_es": "La empresa tecnológica Cloudflare va a despedir a más de 1,000 trabajadores en California. La compañía dice que la inteligencia artificial es la razón principal. La IA puede hacer el trabajo de muchas personas automáticamente. Por eso, las empresas necesitan menos empleados humanos. Cloudflare es una empresa importante de tecnología en California. Muchas compañías tecnológicas están usando más inteligencia artificial ahora. Esto significa que algunos trabajos tradicionales van a desaparecer. Los empleados están preocupados por su futuro laboral. La IA es muy eficiente pero también causa problemas sociales. El gobierno de California está estudiando cómo ayudar a los trabajadores afectados. Esta situación no es solo de Cloudflare sino de toda la industria tecnológica.",
+          "body_en": "Technology company Cloudflare will lay off more than 1,000 workers in California. The company says artificial intelligence is the main reason. AI can do the work of many people automatically. Therefore, companies need fewer human employees. Cloudflare is an important technology company in California. Many tech companies are using more artificial intelligence now. This means some traditional jobs will disappear. Employees are worried about their job future. AI is very efficient but also causes social problems. The California government is studying how to help affected workers. This situation is not just Cloudflare's but the entire tech industry's.",
+          "source": "Los Angeles Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "mapa",
+          "syllables": "MA-pa",
+          "pos": "sustantivo",
+          "context": "Los republicanos aprobaron un nuevo mapa electoral.",
+          "definition_es": "Representación geográfica de un territorio",
+          "definition_en": "Map - geographical representation of an area"
+        },
+        {
+          "word": "dividir",
+          "syllables": "di-vi-DIR",
+          "pos": "verbo",
+          "context": "El nuevo mapa divide la ciudad en diferentes distritos.",
+          "definition_es": "Separar algo en partes",
+          "definition_en": "To divide - to separate into parts"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "Los temores de inflación afectan el mercado.",
+          "definition_es": "Aumento general de los precios",
+          "definition_en": "Inflation - general increase in prices"
+        },
+        {
+          "word": "bonos",
+          "syllables": "BO-nos",
+          "pos": "sustantivo",
+          "context": "Los bonos del tesoro alcanzaron el 5%.",
+          "definition_es": "Documentos de inversión del gobierno",
+          "definition_en": "Bonds - government investment documents"
+        },
+        {
+          "word": "despedir",
+          "syllables": "des-pe-DIR",
+          "pos": "verbo",
+          "context": "La empresa va a despedir a más de 1,000 trabajadores.",
+          "definition_es": "Terminar el empleo de alguien",
+          "definition_en": "To lay off - to end someone's employment"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "La empresa tecnológica Cloudflare anunció despidos.",
+          "definition_es": "Organización que produce bienes o servicios",
+          "definition_en": "Company - organization that produces goods or services"
+        },
+        {
+          "word": "artificial",
+          "syllables": "ar-ti-fi-CIAL",
+          "pos": "adjetivo",
+          "context": "La inteligencia artificial causó los despidos.",
+          "definition_es": "Hecho por humanos, no natural",
+          "definition_en": "Artificial - made by humans, not natural"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado de valores está preocupado por la inflación.",
+          "definition_es": "Lugar donde se compran y venden productos",
+          "definition_en": "Market - place where products are bought and sold"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'dividir'?",
+          "options": [
+            "Unir cosas",
+            "Separar en partes",
+            "Crear algo nuevo",
+            "Terminar algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Los 'bonos' del tesoro son:",
+          "options": [
+            "Documentos de inversión",
+            "Tipos de dinero",
+            "Bancos especiales",
+            "Empleados del gobierno"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Cuando una empresa 'despide' a trabajadores significa que:",
+          "options": [
+            "Les da vacaciones",
+            "Termina su empleo",
+            "Les aumenta el salario",
+            "Los promociona"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La 'inflación' es:",
+          "options": [
+            "Cuando bajan los precios",
+            "Cuando suben los precios",
+            "Un tipo de inversión",
+            "Una empresa tecnológica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué ciudad dividieron en el nuevo mapa electoral de Tennessee?",
+          "options": [
+            "Nashville",
+            "Memphis",
+            "Knoxville",
+            "Chattanooga"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿A qué porcentaje están llegando los bonos del tesoro?",
+          "options": [
+            "3%",
+            "4%",
+            "5%",
+            "6%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántos trabajadores va a despedir Cloudflare?",
+          "options": [
+            "Menos de 500",
+            "Exactamente 1,000",
+            "Más de 1,000",
+            "No se menciona"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué partido político controla el gobierno de Tennessee?",
+          "options": [
+            "Demócrata",
+            "Republicano",
+            "Independiente",
+            "No se menciona"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué están preocupados los inversores en Wall Street?",
+          "options": [
+            "Por la tecnología",
+            "Por las elecciones",
+            "Por la inflación",
+            "Por los mapas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿En qué estado está la empresa Cloudflare?",
+          "options": [
+            "Tennessee",
+            "Nueva York",
+            "Texas",
+            "California"
+          ],
+          "answer": "D"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-08T09:29:36.901620"
+    },
+    {
       "date": "2026-05-07",
       "filename": "spanish_lesson_2026-05-07.pdf",
       "path": "pdfs/spanish_lesson_2026-05-07.pdf",
@@ -33548,7 +33770,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-07T09:49:01.028803",
+  "last_updated": "2026-05-08T09:29:36.901644",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
