@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-09",
+      "filename": "spanish_lesson_2026-05-09.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-09.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Alabama prepara nuevo mapa electoral mientras espera decisión judicial",
+          "headline_en": "Alabama prepares new electoral map while awaiting court decision",
+          "body_es": "El estado de Alabama está trabajando en un nuevo mapa del congreso. Este mapa decide qué zonas puede representar cada político. Los líderes del estado quieren terminar el mapa pronto, pero deben esperar una decisión importante del tribunal. Los jueces van a decidir si el nuevo mapa es legal o no. Esta situación es muy importante para las próximas elecciones. El mapa anterior tenía algunos problemas legales. Por eso, Alabama necesita crear uno nuevo. Los ciudadanos están esperando saber qué va a pasar. La decisión del tribunal puede cambiar el proceso electoral en Alabama. Este tema afecta a millones de personas que viven en el estado.",
+          "body_en": "The state of Alabama is working on a new congressional map. This map decides which areas each politician can represent. State leaders want to finish the map soon, but they must wait for an important court decision. The judges will decide if the new map is legal or not. This situation is very important for the next elections. The previous map had some legal problems. That's why Alabama needs to create a new one. Citizens are waiting to know what will happen. The court's decision could change the electoral process in Alabama. This issue affects millions of people living in the state.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos crea 115,000 empleos nuevos en un mes",
+          "headline_en": "United States creates 115,000 new jobs in one month",
+          "body_es": "La economía de Estados Unidos muestra buenas noticias este mes. El país creó 115,000 empleos nuevos, lo cual es una cifra muy positiva. Los expertos dicen que este número es excelente para el mercado laboral actual. Muchas empresas están contratando más trabajadores en diferentes sectores. Esta información es importante porque muestra que la economía está creciendo. Los trabajadores tienen más oportunidades de encontrar empleo ahora. Sin embargo, algunos economistas dicen que el mercado laboral todavía tiene incertidumbre. A pesar de esto, los números de este mes son muy buenos. El gobierno está contento con estos resultados. Esta noticia da esperanza a las personas que buscan trabajo.",
+          "body_en": "The United States economy shows good news this month. The country created 115,000 new jobs, which is a very positive figure. Experts say this number is excellent for the current job market. Many companies are hiring more workers in different sectors. This information is important because it shows the economy is growing. Workers have more opportunities to find employment now. However, some economists say the job market still has uncertainty. Despite this, this month's numbers are very good. The government is happy with these results. This news gives hope to people looking for work.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresa californiana despide a mil trabajadores por inteligencia artificial",
+          "headline_en": "California company lays off a thousand workers due to artificial intelligence",
+          "body_es": "Cloudflare, una empresa de tecnología de California, va a despedir a más de 1,000 trabajadores. La empresa dice que la inteligencia artificial es la razón principal de esta decisión. La IA puede hacer muchos trabajos que antes hacían las personas. Esto está cambiando la industria tecnológica muy rápidamente. Los trabajadores despedidos van a recibir ayuda para buscar nuevos empleos. Cloudflare no es la primera empresa que toma esta decisión. Otras compañías también están usando más IA y menos empleados humanos. Esta situación preocupa a muchos trabajadores del sector tecnológico. Los expertos dicen que este cambio va a continuar en el futuro. Las empresas quieren reducir costos usando inteligencia artificial.",
+          "body_en": "Cloudflare, a California technology company, is going to lay off more than 1,000 workers. The company says artificial intelligence is the main reason for this decision. AI can do many jobs that people used to do. This is changing the technology industry very quickly. The laid-off workers will receive help to look for new jobs. Cloudflare is not the first company to make this decision. Other companies are also using more AI and fewer human employees. This situation worries many workers in the technology sector. Experts say this change will continue in the future. Companies want to reduce costs using artificial intelligence.",
+          "source": "Los Angeles Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "Alabama está creando un nuevo mapa del congreso.",
+          "definition_es": "Institución donde los políticos hacen las leyes del país",
+          "definition_en": "Institution where politicians make the country's laws"
+        },
+        {
+          "word": "tribunal",
+          "syllables": "tri-bu-NAL",
+          "pos": "sustantivo",
+          "context": "El estado espera la decisión del tribunal sobre el nuevo mapa.",
+          "definition_es": "Lugar donde los jueces toman decisiones legales",
+          "definition_en": "Place where judges make legal decisions"
+        },
+        {
+          "word": "empleos",
+          "syllables": "em-PLE-os",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense creó 115,000 empleos nuevos.",
+          "definition_es": "Trabajos que las personas tienen para ganar dinero",
+          "definition_en": "Jobs that people have to earn money"
+        },
+        {
+          "word": "despedir",
+          "syllables": "des-pe-DIR",
+          "pos": "verbo",
+          "context": "La empresa va a despedir a más de 1,000 trabajadores.",
+          "definition_es": "Terminar el trabajo de una persona en una empresa",
+          "definition_en": "To end someone's job at a company"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Cloudflare es una empresa de tecnología de California.",
+          "definition_es": "Uso de computadoras y máquinas modernas para resolver problemas",
+          "definition_en": "Use of computers and modern machines to solve problems"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado laboral muestra números positivos este mes.",
+          "definition_es": "Lugar donde se compran y venden cosas o servicios",
+          "definition_en": "Place where things or services are bought and sold"
+        },
+        {
+          "word": "decisión",
+          "syllables": "de-ci-SIÓN",
+          "pos": "sustantivo",
+          "context": "Alabama tomó la decisión de crear un nuevo mapa electoral.",
+          "definition_es": "Cuando alguien elige qué hacer entre varias opciones",
+          "definition_en": "When someone chooses what to do among several options"
+        },
+        {
+          "word": "artificial",
+          "syllables": "ar-ti-fi-CIAL",
+          "pos": "adjetivo",
+          "context": "La inteligencia artificial está cambiando muchos trabajos.",
+          "definition_es": "Hecho por máquinas, no por la naturaleza",
+          "definition_en": "Made by machines, not by nature"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'tribunal'?",
+          "options": [
+            "Un lugar donde trabajan los políticos",
+            "Un lugar donde los jueces toman decisiones legales",
+            "Una empresa de tecnología",
+            "Un tipo de mapa electoral"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'despedir' en el contexto laboral?",
+          "options": [
+            "Contratar a una persona",
+            "Terminar el trabajo de una persona",
+            "Dar un aumento de sueldo",
+            "Cambiar de oficina"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'empleos'?",
+          "options": [
+            "Máquinas inteligentes",
+            "Mapas del congreso",
+            "Trabajos para ganar dinero",
+            "Decisiones del tribunal"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'artificial' en 'inteligencia artificial'?",
+          "options": [
+            "Muy caro",
+            "Hecho por máquinas",
+            "Muy rápido",
+            "Hecho por la naturaleza"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué Alabama necesita crear un nuevo mapa del congreso?",
+          "options": [
+            "Porque el anterior tenía problemas legales",
+            "Porque quieren más políticos",
+            "Porque el tribunal lo prohibió",
+            "Porque es muy viejo"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos nuevos creó Estados Unidos este mes?",
+          "options": [
+            "100,000",
+            "115,000",
+            "150,000",
+            "200,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cómo describen los expertos el número de empleos nuevos?",
+          "options": [
+            "Muy malo",
+            "Regular",
+            "Excelente",
+            "Preocupante"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuántos trabajadores va a despedir Cloudflare?",
+          "options": [
+            "500",
+            "Más de 1,000",
+            "2,000",
+            "Menos de 500"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la razón principal por la que Cloudflare despide trabajadores?",
+          "options": [
+            "Problemas económicos",
+            "Inteligencia artificial",
+            "Cambio de oficina",
+            "Nuevas leyes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿En qué estado está ubicada la empresa Cloudflare?",
+          "options": [
+            "Alabama",
+            "Nueva York",
+            "California",
+            "Texas"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-09T09:28:35.857067"
+    },
+    {
       "date": "2026-05-08",
       "filename": "spanish_lesson_2026-05-08.pdf",
       "path": "pdfs/spanish_lesson_2026-05-08.pdf",
@@ -33770,7 +33992,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-08T09:29:36.901644",
+  "last_updated": "2026-05-09T09:28:35.857094",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
