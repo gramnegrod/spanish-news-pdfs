@@ -1,11 +1,196 @@
 {
-  "date": "2026-05-08",
-  "generated_at": "2026-05-08T09:38:17.720135Z",
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:36:18.713073Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 538,
-  "new_today": 4,
+  "total_stories": 543,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250509",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Un nuevo tratamiento para heridas diabéticas transforma las células",
+      "headline_en": "Novel diabetic wound treatment turns cells into manufacturers",
+      "summary_es": "Investigadores de Texas A&M desarrollan un tratamiento innovador para heridas diabéticas que convierte las células del paciente en fábricas de curación.",
+      "body_es": "Un equipo de la Universidad de Texas A&M crea un tratamiento nuevo para heridas diabéticas. El tratamiento usa células del paciente. Las células se transforman en \"fábricas\" que producen sustancias para la curación. Los pacientes con diabetes tienen heridas que cicatrizan muy lentamente. Estas heridas son peligrosas. El nuevo tratamiento es muy promisorio. Los investigadores trabajan con células especiales. Estas células fabrican proteínas importantes para la curación. El proceso es natural y seguro. El tratamiento representa un avance importante en la medicina de heridas diabéticas. Los resultados iniciales son muy positivos.",
+      "body_en": "A team from Texas A&M University creates a new treatment for diabetic wounds. The treatment uses cells from the patient. The cells transform into \"factories\" that produce substances for healing. Patients with diabetes have wounds that heal very slowly. These wounds are dangerous. The new treatment is very promising. Researchers work with special cells. These cells manufacture important proteins for healing. The process is natural and safe. The treatment represents an important advance in diabetic wound medicine. Initial results are very positive.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOek9KYmNHdkwtT3JFbjlJekNqTnk1YWZYejdVSkx4OXB0SkNRZWZCeHhzWF83NmxrTkJCOHBBNGF5dFVpQVMxVm94Nm1PVXlyaTBGNTMyLWZ4S3lrSzR1RVhMakYzc3NXdDlMdU5GaDFtaEdXV0d1aWgxXzE0Z3ZGZ1NXMC14YUptTG1IREFURU45N1ZEWU9UQV9vYWFiRGpNckVqc2RB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-09/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida diabética",
+          "definition_es": "lesión en la piel de un paciente con diabetes que cicatriza lentamente",
+          "definition_en": "diabetic wound - skin injury in a diabetic patient that heals slowly"
+        },
+        {
+          "word": "células",
+          "definition_es": "unidades más pequeñas de los tejidos vivos",
+          "definition_en": "cells - smallest units of living tissue"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y recuperación de una herida",
+          "definition_en": "healing - process of wound closure and recovery"
+        },
+        {
+          "word": "sustancias",
+          "definition_es": "materiales o componentes químicos producidos por el cuerpo",
+          "definition_en": "substances - materials or chemical components produced by the body"
+        }
+      ],
+      "added_at": "2026-05-09T09:36:18.713073Z"
+    },
+    {
+      "id": "diabetic-foot-20250509",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "blue",
+      "headline_es": "Tecnología pionera en el cuidado de los pies diabéticos",
+      "headline_en": "Pioneering healthcare technology for diabetes as part of NHS 10 year plan",
+      "summary_es": "La Universidad de Lancaster desarrolla tecnología innovadora para el monitoreo y cuidado de pies diabéticos como parte del plan decenal del Sistema Nacional de Salud británico.",
+      "body_es": "La Universidad de Lancaster ha presentado una tecnología revolucionaria para el cuidado de pacientes con diabetes. Esta tecnología forma parte del plan decenal del Sistema Nacional de Salud (NHS) del Reino Unido. El sistema monitorea continuamente la salud de los pies diabéticos utilizando sensores avanzados. Los pacientes con diabetes frecuentemente desarrollan úlceras en los pies que pueden resultar en complicaciones graves. La nueva tecnología permite la detección temprana de problemas. Los sensores miden la presión, la temperatura y la circulación sanguínea. Cuando se detectan cambios anormales, el sistema alerta al paciente y al profesional de salud. Este enfoque preventivo reduce las amputaciones y mejora la calidad de vida. La tecnología está siendo implementada en varios hospitales del NHS.",
+      "body_en": "Lancaster University has presented a revolutionary technology for caring for diabetic patients. This technology is part of the UK National Health Service (NHS) 10-year plan. The system continuously monitors the health of diabetic feet using advanced sensors. Diabetic patients frequently develop foot ulcers that can result in serious complications. The new technology enables early problem detection. The sensors measure pressure, temperature, and blood circulation. When abnormal changes are detected, the system alerts the patient and healthcare professional. This preventive approach reduces amputations and improves quality of life. The technology is being implemented in several NHS hospitals.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjJjbjVKbkhOYmo2Wnp4aXFQVmpGSjJzZlBUQ19NTnZ1N0Zld2U4a0Z4a0Mtd2dzTnRQbnpXR09NZDVyZDgxZ2Y5VnRUTGlPQUwyeDVtb1VROV9TT1JfSDUzZGw1MUVMcXNYb2c4NDlfZEZKT2RqNWNLMldWSkEyUnVhaDdjbWI2UVBkU1BURU80QXZfVEtONVVJajZDbFppQTNPRFZUUFlUQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-09/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta que aparece en los pies de personas con diabetes",
+          "definition_en": "diabetic ulcer - open wound that appears on the feet of people with diabetes"
+        },
+        {
+          "word": "sensores",
+          "definition_es": "dispositivos que detectan y miden cambios físicos en el cuerpo",
+          "definition_en": "sensors - devices that detect and measure physical changes in the body"
+        },
+        {
+          "word": "circulación sanguínea",
+          "definition_es": "movimiento de la sangre a través del cuerpo",
+          "definition_en": "blood circulation - movement of blood through the body"
+        },
+        {
+          "word": "detección temprana",
+          "definition_es": "identificación de un problema médico en sus etapas iniciales",
+          "definition_en": "early detection - identification of a medical problem in its initial stages"
+        }
+      ],
+      "added_at": "2026-05-09T09:36:18.713073Z"
+    },
+    {
+      "id": "burn-care-20250509",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Vendajes salinos diarios: la solución para injertos de piel recurrentes",
+      "headline_en": "Back to Basics: Daily Saline Wet Dressings as a Turning Point in Recurrent Pediatric Split-Thickness Skin Graft Failure",
+      "summary_es": "Un estudio demuestra que los vendajes mojados con solución salina diaria son efectivos para prevenir el fracaso recurrente de injertos de piel en pacientes pediátricos.",
+      "body_es": "Los investigadores han descubierto que los vendajes mojados con solución salina diaria pueden ser cruciales en el cuidado de injertos de piel pediátricos. Los injertos de piel de espesor parcial frecuentemente fallan en pacientes jóvenes. Cuando el injerto no se adhiere correctamente, puede necesitarse repetir el procedimiento quirúrgico. Este estudio examina un protocolo simple pero efectivo de cuidado de heridas. Los vendajes de gasa mojados con solución salina normal se aplicaban diariamente sobre el injerto. La solución salina mantiene la herida húmeda y promueve la cicatrización. Los investigadores observaron que este método tradicional mejoraba significativamente las tasas de éxito del injerto. Este enfoque basado en principios básicos demuestra que los cuidados fundamentales son esenciales. El método es económico, accesible y altamente efectivo.",
+      "body_en": "Researchers have discovered that daily wet dressings with saline solution can be crucial in pediatric skin graft care. Split-thickness skin grafts frequently fail in young patients. When the graft does not adhere properly, the surgical procedure may need to be repeated. This study examines a simple but effective wound care protocol. Gauze dressings moistened with normal saline solution were applied daily over the graft. The saline solution keeps the wound moist and promotes healing. Researchers observed that this traditional method significantly improved graft success rates. This approach based on basic principles demonstrates that fundamental care is essential. The method is economical, accessible, and highly effective.",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNc0JqMFdrUGZ5a1lnWFI4WWJ5QlQ0V083Si00R1FhZDZGY3doX1BpRUo4bk5aMGo4UUVkVW50SzhueW5CdVlRRHhCSld3ZnJUR2hsZHRZNmFmdTRCME9leGlONC1UZWpodXdJTHZvVEJlYmE2cmZ2UVNoN3lUVm9rQldmZjdpRDA3YV84bWZUWW82dFlZZTExQzlrRWw1d1VLNXBxbnE4OGNhSmh6anc5bmJRbXRpOU0teWZRUGpvVjJmbE5wMlFMVzlCZDdUaHQ3S3ZWajY2OXlLdm52ajByWXRZRlRkUXlOOGFzNnhKZ3cyZUdwRTU3a09nQVJPdDhQRmI4cHlGVQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-09/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "injerto de piel",
+          "definition_es": "procedimiento quirúrgico que transfiere piel sana a una herida",
+          "definition_en": "skin graft - surgical procedure that transfers healthy skin to a wound"
+        },
+        {
+          "word": "vendaje mojado",
+          "definition_es": "apósito humedecido con solución para cubrir heridas",
+          "definition_en": "wet dressing - moistened dressing with solution to cover wounds"
+        },
+        {
+          "word": "solución salina",
+          "definition_es": "mezcla de sal y agua estéril para limpiar heridas",
+          "definition_en": "saline solution - sterile mixture of salt and water for wound cleaning"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de reparación y recuperación de una herida",
+          "definition_en": "healing - natural process of wound repair and recovery"
+        }
+      ],
+      "added_at": "2026-05-09T09:36:18.713073Z"
+    },
+    {
+      "id": "surgical-wounds-20250509",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "La contaminación del aire afecta la recuperación después de cirugía",
+      "headline_en": "Heavy Air Pollution is Linked to Worse Post-Surgical Outcomes",
+      "summary_es": "Un estudio de la Universidad de Utah demuestra que la contaminación del aire atmosférico se asocia con peores resultados en la recuperación de heridas quirúrgicas.",
+      "body_es": "Investigadores de la Universidad de Utah han identificado una conexión importante entre la contaminación del aire y los resultados quirúrgicos negativos. El estudio analiza a pacientes que fueron operados en diferentes condiciones de calidad del aire. Los resultados muestran que los pacientes expuestos a altos niveles de contaminación atmosférica tuvieron mayores complicaciones en la cicatrización de sus heridas quirúrgicas. La contaminación del aire afecta la inflamación y la respuesta inmunitaria del cuerpo. Un sistema inmunológico comprometido ralentiza la curación y aumenta el riesgo de infección. Los investigadores recomiendan monitorear la calidad del aire antes de programar cirugías electivas. Los pacientes en áreas con alta contaminación deben recibir cuidados post-quirúrgicos adicionales. Este hallazgo es importante para mejorar los protocolos de cuidado de heridas quirúrgicas.",
+      "body_en": "Researchers from the University of Utah have identified an important connection between air pollution and negative surgical outcomes. The study analyzes patients who had surgery under different air quality conditions. Results show that patients exposed to high levels of air pollution experienced greater complications in surgical wound healing. Air pollution affects inflammation and the body's immune response. A compromised immune system slows healing and increases infection risk. Researchers recommend monitoring air quality before scheduling elective surgeries. Patients in high-pollution areas should receive additional post-surgical care. This finding is important for improving post-surgical wound care protocols.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnpvM3pLZlZ5Z09Md3ZJQzhZa2xKeEV0b2x6LWx5bFVnNEdLMGRFV2NxSGhYWUV1M1NZN1RmV0NJUVhBaW16cmMyRUJpZVY1M0RQeFdqWDRBLVNreVVRbEp4UGg1Sy1PR1ZhUlhUWFo3enFZM000UGdUREJDNUlNZ1duNUZFTnVRVXY0aUt4SURlWjNtck1uWjVTRFhyYzkzby0tYUtCR18?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-09/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada intencionalmente durante una operación quirúrgica",
+          "definition_en": "surgical wound - injury intentionally created during surgery"
+        },
+        {
+          "word": "contaminación del aire",
+          "definition_es": "presencia de sustancias dañinas en la atmósfera",
+          "definition_en": "air pollution - presence of harmful substances in the atmosphere"
+        },
+        {
+          "word": "sistema inmunitario",
+          "definition_es": "conjunto de defensa del cuerpo contra infecciones",
+          "definition_en": "immune system - body's defense system against infections"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de reparación de una herida",
+          "definition_en": "wound healing - natural process of wound repair"
+        }
+      ],
+      "added_at": "2026-05-09T09:36:18.713073Z"
+    },
+    {
+      "id": "wound-research-20250509",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Experto en heridas se une al equipo científico para terapia celular innovadora",
+      "headline_en": "Cytora Ltd. Appoints Dr. Thomas Serena, MD, World-Renowned Wound Care Expert to Scientific Advisory Board",
+      "summary_es": "El Dr. Thomas Serena, experto internacional en heridas, se incorpora a la junta científica de Cytora Ltd. para liderar acceso a tratamientos y recolección de datos de la terapia CytoraStem.",
+      "body_es": "Cytora Ltd. anuncia el nombramiento del Dr. Thomas Serena como miembro de su junta científica asesora. El Dr. Serena es un experto reconocido mundialmente en el cuidado de heridas. Su rol será dirigir la investigación clínica y el acceso de pacientes a la terapia CytoraStem. CytoraStem es una terapia de células madre derivadas de mucosa oral humana. Esta terapia promete revolucionar el tratamiento de heridas crónicas y difíciles de cicatrizar. Las células madre tienen propiedades únicas de regeneración y curación. El Dr. Serena coordinará la recolección de datos clínicos de los pacientes tratados. Su experiencia es crucial para demostrar la efectividad del tratamiento. Este avance representa un paso importante en la medicina regenerativa de heridas.",
+      "body_en": "Cytora Ltd. announces the appointment of Dr. Thomas Serena to its Scientific Advisory Board. Dr. Serena is a world-renowned expert in wound care. His role will be to direct clinical research and patient access to CytoraStem therapy. CytoraStem is a therapy using stem cells derived from human oral mucosa. This therapy promises to revolutionize the treatment of chronic and difficult-to-heal wounds. Stem cells have unique regenerative and healing properties. Dr. Serena will coordinate clinical data collection from treated patients. His experience is crucial for demonstrating treatment effectiveness. This advance represents an important step in regenerative wound medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPVTJJOGh5S1VDckpIWnViVFRIeUR2Q0I2dENoV0ZrZ090WmVIcUxYSVdlUW1kY1BQdktBX0RUcTAxVGYyX2ViZm1VT1VOWGdjcjkwYi1HZ0NVVnJnakEzRV80d3g2RTFaZE1EYVFxSTQ0cDRmRUlsaEh4VW5DRktSVXAxSFhRUHdZU1RacnM2SHE5N3dtenNMdzRyQVpoX0pJWm1zRjNQRm9JWlhuX1RmRmVBa01PNk0yNWd4UmFsSmNDaVVESkJyQnIwVWpwcHZNUFg3UlI0ejRkVngzQ3g2dGNqWFpfX1VRNEA2eVc0REZESy04RG5Da2ZqWXJ0REVlV25pMFdnem5TNTFkeXpkeVBSNkZtY0JlY2kzSFh0LUlHdWJFdFQzUHZzT3RhbmZ1Ni0zYnE2cHVBSTYzRk9JYUhEb0lERTRMc1M2Tl9ER05JZ0FDb0JybnBya2xSSW1LM2NxUDlhUWllbjc5aU83RFJqUHhnU3dQMFIwWHhEdw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-09/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "células madre",
+          "definition_es": "células especiales con capacidad de convertirse en otros tipos de células",
+          "definition_en": "stem cells - special cells capable of transforming into other cell types"
+        },
+        {
+          "word": "mucosa oral",
+          "definition_es": "tejido que recubre el interior de la boca",
+          "definition_en": "oral mucosa - tissue that lines the inside of the mouth"
+        },
+        {
+          "word": "terapia regenerativa",
+          "definition_es": "tratamiento que promueve la reparación y regeneración de tejidos dañados",
+          "definition_en": "regenerative therapy - treatment that promotes repair and regeneration of damaged tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de recuperación de una herida",
+          "definition_en": "wound healing - biological process of wound recovery"
+        }
+      ],
+      "added_at": "2026-05-09T09:36:18.713073Z"
+    },
     {
       "id": "chronic-wounds-20250508",
       "category": "Chronic Wounds",
@@ -19907,6 +20092,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-08T09:38:17.720135Z",
+  "last_updated": "2026-05-09T09:36:18.713073Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
