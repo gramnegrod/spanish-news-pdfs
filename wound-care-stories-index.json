@@ -1,11 +1,196 @@
 {
-  "date": "2026-05-09",
-  "generated_at": "2026-05-09T09:36:18.713073Z",
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:35:22.633411Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 543,
+  "total_stories": 548,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250510",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo tratamiento para heridas diabéticas: células que fabrican medicinas",
+      "headline_en": "Novel treatment for diabetic wounds: cells that manufacture medicines",
+      "summary_es": "Investigadores de Texas A&M desarrollan un tratamiento innovador que convierte las células en fabricantes de medicinas para curar heridas diabéticas más rápido.",
+      "body_es": "Un equipo de científicos en la Universidad de Texas A&M ha creado un tratamiento nuevo para las heridas diabéticas. El tratamiento usa células especiales del cuerpo. Estas células se convierten en fabricantes de medicinas. Las medicinas ayudan a curar la herida rápidamente. Los investigadores trabajan con células del paciente. Las células reciben instrucciones para producir sustancias curativas. Este método es diferente de los tratamientos tradicionales. Los médicos esperan que este tratamiento ayude a muchos pacientes con diabetes. Las heridas diabéticas son un problema muy grave. Este nuevo método ofrece esperanza a los pacientes que sufren estas heridas.",
+      "body_en": "A team of scientists at Texas A&M University has created a new treatment for diabetic wounds. The treatment uses special cells from the body. These cells become manufacturers of medicines. The medicines help heal the wound quickly. Researchers work with patient cells. The cells receive instructions to produce healing substances. This method is different from traditional treatments. Doctors hope this treatment will help many patients with diabetes. Diabetic wounds are a very serious problem. This new method offers hope to patients who suffer from these wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOek9KYmNHdkwtT3JFbjlJekNqTnk1YWZYejdVSkx4OXB0SkNRZWZCeHhzWF83NmxrTkJCOHBBNGF5dFVpQVMxVm94Nm1PVXlyaTBGNTMyLWZ4S3lrSzR1RVhMakYzc3NXdDlMdU5GaDFtaEdXV0d1aWgxXzE0Z3ZGZ1NXMC14YUptTG1IREFURU45N1ZEWU9UQV9vYWFiRGpNckVqc2RB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-10/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o tejido",
+          "definition_en": "wound - injury to skin or tissue"
+        },
+        {
+          "word": "célula",
+          "definition_es": "unidad más pequeña de la vida",
+          "definition_en": "cell - smallest unit of life"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of recovering from a wound"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método médico para curar una enfermedad",
+          "definition_en": "treatment - medical method to cure a disease"
+        }
+      ],
+      "added_at": "2026-05-10T09:35:22.633411Z"
+    },
+    {
+      "id": "diabetic-foot-20250510",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "blue",
+      "headline_es": "Tecnología innovadora para el cuidado del pie diabético en el NHS",
+      "headline_en": "Innovative technology for diabetic foot care in the NHS",
+      "summary_es": "La Universidad de Lancaster desarrolla tecnología de salud avanzada para prevenir complicaciones en los pies de pacientes diabéticos como parte del plan decenal del NHS.",
+      "body_es": "La Universidad de Lancaster ha desarrollado una tecnología pionera para el cuidado del pie diabético como parte del plan de salud a diez años del Servicio Nacional de Salud (NHS) británico. Esta innovación busca prevenir las complicaciones graves que afectan a muchos pacientes con diabetes. Los pies diabéticos requieren vigilancia constante y evaluación regular para evitar úlceras y infecciones. La nueva tecnología utiliza métodos avanzados de diagnóstico y monitoreo. Los pacientes pueden ser evaluados de manera más rápida y eficiente. El sistema permite detectar problemas en etapas tempranas, cuando el tratamiento es más efectivo. Los investigadores esperan que esta tecnología reduzca el número de amputaciones y mejore la calidad de vida de los pacientes diabéticos. El proyecto representa un avance importante en la medicina preventiva.",
+      "body_en": "Lancaster University has developed pioneering technology for diabetic foot care as part of the British National Health Service (NHS) ten-year health plan. This innovation seeks to prevent serious complications that affect many patients with diabetes. Diabetic feet require constant surveillance and regular evaluation to avoid ulcers and infections. The new technology uses advanced diagnostic and monitoring methods. Patients can be evaluated more quickly and efficiently. The system allows for early detection of problems, when treatment is most effective. Researchers hope this technology will reduce the number of amputations and improve the quality of life for diabetic patients. The project represents an important advance in preventive medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjJjbjVKbkhOYmo2Wnp4aXFQVmpGSjJzZlBUQ19NTnZ1N0Zld2U4a0Z4a0Mtd2dzTnRQbnpXR09NZDVyZDgxZ2Y5VnRUTGlPQUwyeDVtb1VROVF9TT1JfSDUzZGw1MUVMcXNYb2c4NDlfZEZKT2RqNWNLMldWSkEyUnVhaDdjbWI2UVBkU1BERU80QXZfVEtONVVJajZDbFppQTNPRFZUUFlUQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-10/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza",
+          "definition_en": "ulcer - open sore on the skin that does not heal"
+        },
+        {
+          "word": "monitoreo",
+          "definition_es": "vigilancia continua del estado de salud",
+          "definition_en": "monitoring - continuous surveillance of health status"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen para determinar el estado o condición",
+          "definition_en": "evaluation - examination to determine status or condition"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-05-10T09:35:22.633411Z"
+    },
+    {
+      "id": "burn-care-20250510",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Vendajes salinos húmedos: solución efectiva para injertos de piel en quemaduras",
+      "headline_en": "Saline wet dressings: effective solution for skin grafts in burns",
+      "summary_es": "Un estudio publicado en Cureus demuestra que los vendajes salinos húmedos diarios son un tratamiento revolucionario para prevenir el fracaso de injertos de piel en pacientes pediátricos con quemaduras.",
+      "body_es": "Una investigación presentada en la revista Cureus ha demostrado la efectividad de los vendajes salinos húmedos para el tratamiento de quemaduras pediátricas complicadas. Este método simple pero revolucionario ha marcado un punto de inflexión en el cuidado de injertos de piel en pacientes jóvenes. Los investigadores observaron que los cambios diarios de vendajes salinos húmedos mejoraron significativamente los resultados de los injertos. El fallo recurrente de injertos de piel de grosor parcial es un problema frecuente en la medicina de quemaduras. Este tratamiento minimamente invasivo reduce el trauma adicional a la piel injertada. Los vendajes salinos mantienen el ambiente húmedo necesario para la cicatrización óptima. El equipo médico recomienda este enfoque como parte de los protocolos estándar de cuidado. Los resultados positivos sugieren que este método debería ser considerado en centros de quemaduras pediátricas.",
+      "body_en": "Research published in Cureus journal has demonstrated the effectiveness of daily saline wet dressings for treating complicated pediatric burns. This simple yet revolutionary method has marked a turning point in skin graft care for young patients. Researchers observed that daily saline dressing changes significantly improved graft outcomes. Recurrent failure of partial-thickness skin grafts is a frequent problem in burn medicine. This minimally invasive treatment reduces additional trauma to the grafted skin. Saline dressings maintain the moist environment necessary for optimal wound healing. The medical team recommends this approach as part of standard care protocols. Positive results suggest this method should be considered in pediatric burn centers.",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRE14bzlPZkkzLTRfdFlvaGltVXoxT1B3MlR6WjBUdzdtXy1ZQ2U0WEk2RzJCdHoxc0JLN2dabW9UZXpyR0ZpZUlEVFNIUzA3Vm8wWVpLZWZEODR3VE5zTzg3dzRNRS0xcmYzZUhtWm1lNzBmUmk3Q1dTWUpsenJnMDZSNE1wUU1VbzA4UFp0ZEttMmx0Yjg4VjJSaE1CNjFTRnVUbzBYWlpNb191Q1dvT3BtREJxSTdmWG16RmF3TGF5UWpLT1RYUklJbkR2cVgwTnhXeEpod1Rhb3JTdGVqTElFQk1IOWJFS3ZjaEJn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-10/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor",
+          "definition_en": "burn - skin injury caused by heat"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "trasplante de tejido vivo a otra parte del cuerpo",
+          "definition_en": "graft - transplant of living tissue to another part of the body"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material o técnica para cubrir una herida",
+          "definition_en": "dressing - material or technique to cover a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz en una herida",
+          "definition_en": "scarring - process of scar formation in a wound"
+        }
+      ],
+      "added_at": "2026-05-10T09:35:22.633411Z"
+    },
+    {
+      "id": "surgical-wounds-20250510",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "green",
+      "headline_es": "Centro avanzado de cuidado de heridas: Clover Podiatry expande servicios en Vancouver",
+      "headline_en": "Advanced wound care center: Clover Podiatry expands services in Vancouver",
+      "summary_es": "Clover Podiatry ha abierto un Centro Avanzado de Cuidado de Heridas en Vancouver, Washington, ofreciendo tecnologías innovadoras para la curación de heridas quirúrgicas y complicadas.",
+      "body_es": "Clover Podiatry ha inaugurado un nuevo Centro Avanzado de Cuidado de Heridas en Vancouver, Washington, ampliando el acceso a tecnologías innovadoras de cicatrización. Este centro especializado proporciona tratamientos avanzados para pacientes con heridas quirúrgicas complicadas y heridas crónicas que no responden a tratamientos convencionales. El equipo médico utiliza técnicas modernas de evaluación de heridas para determinar el plan de tratamiento más efectivo. Los pacientes reciben cuidado integral que incluye desbridamiento, aplicación de apósitos avanzados y monitoreo regular de la progresión de la curación. La nueva instalación está equipada con tecnología de última generación para facilitar la epitelización y reducir el riesgo de infecciones. El personal capacitado en medicina de heridas trabaja para optimizar los resultados del tratamiento. Este centro representa un importante avance en la accesibilidad del cuidado especializado de heridas en la región.",
+      "body_en": "Clover Podiatry has opened a new Advanced Wound Care Center in Vancouver, Washington, expanding access to innovative healing technologies. This specialized center provides advanced treatments for patients with complicated surgical wounds and chronic wounds that do not respond to conventional treatments. The medical team uses modern wound assessment techniques to determine the most effective treatment plan. Patients receive comprehensive care that includes debridement, application of advanced dressings, and regular monitoring of healing progression. The new facility is equipped with state-of-the-art technology to facilitate epithelialization and reduce the risk of infections. Staff trained in wound medicine work to optimize treatment results. This center represents an important advance in the accessibility of specialized wound care in the region.",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQOVktWmJQbzBuOWllUjhvZll2cVUtQXgxa3FlLXFmeXllNEtHSDMwVWR3d19MSVBuRHlMc3paM29oRFhYUFFJRFJhMkhTRjZoc19pWC1mZjVnb3JlN0paUjZCNTE0MEpUVGtEQ0VIYTlGdnlsRUZkVGpEczlrZ2tJVElTSzc1RVNYN3ZYTHhQYkVuQkExdl9McG1DZ1NzamppZENEbWs2WmxpcFo0UG1qSDVqMlE3aEx1Z1pLWDk0VVpJLWhscldjVzdGX1pTblVMNmRIY0JocmU0dFo3ZTNUNTN3MFBmR2xDeE90VkM3eDhLQnowOTBqZ0V5Y1pXbTRXUWp0aTZ3ZXVocnRG?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-10/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido dañado o muerto",
+          "definition_en": "debridement - surgical removal of damaged or dead tissue"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material medicado que se aplica sobre una herida",
+          "definition_en": "dressing - medicated material applied to a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - formation of new skin over a wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de organismos dañinos en el cuerpo",
+          "definition_en": "infection - invasion of harmful organisms in the body"
+        }
+      ],
+      "added_at": "2026-05-10T09:35:22.633411Z"
+    },
+    {
+      "id": "wound-research-20250510",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Convatec lidera innovación en cuidado avanzado de heridas en Europa",
+      "headline_en": "Convatec leads innovation in advanced wound care in Europe",
+      "summary_es": "Convatec presenta sus innovaciones en cuidado de heridas en la conferencia EWMA 2026, demostrando liderazgo en el desarrollo de soluciones avanzadas para el tratamiento de heridas.",
+      "body_es": "Convatec ha presentado sus últimas innovaciones en cuidado avanzado de heridas durante la conferencia de la Asociación Europea de Manejo de Heridas (EWMA) 2026. La empresa ha demostrado su compromiso con la investigación y desarrollo de soluciones de vanguardia para mejorar los resultados del tratamiento de heridas. Los investigadores de Convatec han trabajado en tecnologías que optimizan la cicatrización y reducen el tiempo de recuperación. Sus productos innovadores utilizan materiales avanzados que mantienen el ambiente óptimo para la curación de heridas. La presentación incluyó estudios clínicos que demuestran la eficacia de sus apósitos en diferentes tipos de heridas. El equipo de investigación sigue desarrollando soluciones para heridas crónicas y quirúrgicas complicadas. Los resultados presentados en EWMA 2026 confirman que Convatec continúa siendo líder en la industria del cuidado de heridas en Europa.",
+      "body_en": "Convatec presented its latest innovations in advanced wound care during the European Wound Management Association (EWMA) 2026 conference. The company demonstrated its commitment to research and development of cutting-edge solutions to improve wound treatment outcomes. Convatec researchers have worked on technologies that optimize healing and reduce recovery time. Their innovative products use advanced materials that maintain the optimal environment for wound healing. The presentation included clinical studies demonstrating the effectiveness of their dressings in different types of wounds. The research team continues to develop solutions for chronic and complicated surgical wounds. Results presented at EWMA 2026 confirm that Convatec remains a leader in the wound care industry in Europe.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPREhueUdXNVpYTnpONG1jSXVjUHp0Z3J0eDAzWEZEYnBNaTl0YmxXdm83NDRtaEFEOW1oVmVsNnpZNUhvZWxwYW9Qb0xNOHBfVGU4bVF5Y0RjMFVuSHNkbVFJRmlsUTlfTkUxVTQ1eHRSTmpnWnM0TVlsS2FjZ1ktcTRHYXVYZVVnb0ZZd0pLNUY2a0tpT2V4T2FzTVFlSFFvZFV4bWlESEROMnk5Vm9STDZRS1FqQy0yYjNtVUZEc3M4eGZpbnNGaUJYaURidDJYZHlFV2xjOWJDa0pTN3RLSlFnbGE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-10/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "investigación",
+          "definition_es": "estudio sistemático para descubrir nuevos conocimientos",
+          "definition_en": "research - systematic study to discover new knowledge"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y formación de tejido nuevo",
+          "definition_en": "healing - process of recovery and formation of new tissue"
+        },
+        {
+          "word": "apósito avanzado",
+          "definition_es": "vendaje o cobertura moderna con propiedades terapéuticas",
+          "definition_en": "advanced dressing - modern bandage with therapeutic properties"
+        },
+        {
+          "word": "innovación",
+          "definition_es": "introducción de algo nuevo o mejorado",
+          "definition_en": "innovation - introduction of something new or improved"
+        }
+      ],
+      "added_at": "2026-05-10T09:35:22.633411Z"
+    },
     {
       "id": "chronic-wounds-20250509",
       "category": "Chronic Wounds",
@@ -20092,6 +20277,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-09T09:36:18.713073Z",
+  "last_updated": "2026-05-10T09:35:22.633411Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
