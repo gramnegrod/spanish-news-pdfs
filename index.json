@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-10",
+      "filename": "spanish_lesson_2026-05-10.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-10.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Organización presenta demanda contra nuevo mapa electoral de Tennessee",
+          "headline_en": "Organization files lawsuit against Tennessee's new electoral map",
+          "body_es": "La NAACP, una importante organización de derechos civiles, presentó una demanda legal contra el estado de Tennessee. La organización dice que el nuevo mapa electoral no es justo. El problema es que cambiaron los límites de un distrito donde vive mayoría de población afroamericana. La redistribución de distritos ocurre cada diez años después del censo nacional. Los líderes de la NAACP creen que estos cambios reducen el poder político de la comunidad negra. Dicen que esto viola los derechos de votación. El caso ahora va a los tribunales. Los jueces decidirán si el mapa es legal o no. Esta situación es común en muchos estados del país.",
+          "body_en": "The NAACP, an important civil rights organization, filed a legal lawsuit against the state of Tennessee. The organization says the new electoral map is not fair. The problem is that they changed the boundaries of a district where a majority of African American population lives. District redistricting happens every ten years after the national census. NAACP leaders believe these changes reduce the political power of the Black community. They say this violates voting rights. The case now goes to the courts. Judges will decide if the map is legal or not. This situation is common in many states across the country.",
+          "source": "Local 3 News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Ricos mexicanos mueven su dinero fuera del país",
+          "headline_en": "Wealthy Mexicans move their money outside the country",
+          "body_es": "Las personas más ricas de México están moviendo su dinero a otros países. Buscan más seguridad y certidumbre para sus fortunas. Los empresarios están preocupados por las políticas del gobierno actual. Creen que sus negocios pueden tener problemas en el futuro. Por eso, invierten su dinero en Estados Unidos y Europa. Algunos compran propiedades en Miami y Nueva York. Otros ponen su dinero en bancos extranjeros. Esta situación afecta la economía mexicana porque sale dinero del país. Los expertos dicen que esto es normal cuando hay incertidumbre política. El gobierno mexicano trata de convencer a los empresarios para que mantengan sus inversiones en México.",
+          "body_en": "Mexico's wealthiest people are moving their money to other countries. They seek more security and certainty for their fortunes. Business owners are worried about the current government's policies. They believe their businesses may have problems in the future. Therefore, they invest their money in the United States and Europe. Some buy properties in Miami and New York. Others put their money in foreign banks. This situation affects the Mexican economy because money leaves the country. Experts say this is normal when there is political uncertainty. The Mexican government tries to convince business owners to keep their investments in Mexico.",
+          "source": "EL PAÍS English"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nvidia invierte más de 40 mil millones en inteligencia artificial",
+          "headline_en": "Nvidia invests more than 40 billion in artificial intelligence",
+          "body_es": "Nvidia, la famosa compañía de tecnología, se ha convertido en un gran inversor en inteligencia artificial. Este año ha invertido más de 40 mil millones de dólares en diferentes empresas de IA. La compañía no solo vende productos tecnológicos, ahora también invierte en otras empresas. Nvidia cree que la inteligencia artificial va a cambiar el mundo. Por eso, pone su dinero en compañías que desarrollan esta tecnología. Sus inversiones incluyen empresas de medicina, transporte y educación. Todas usan inteligencia artificial en sus productos. Los expertos dicen que Nvidia está tomando una decisión muy inteligente. La demanda de IA crece cada día más rápido.",
+          "body_en": "Nvidia, the famous technology company, has become a major investor in artificial intelligence. This year it has invested more than 40 billion dollars in different AI companies. The company not only sells technological products, now it also invests in other companies. Nvidia believes that artificial intelligence will change the world. Therefore, it puts its money in companies that develop this technology. Its investments include companies in medicine, transportation, and education. All use artificial intelligence in their products. Experts say Nvidia is making a very smart decision. The demand for AI grows faster every day.",
+          "source": "CNBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "demanda",
+          "syllables": "de-MAN-da",
+          "pos": "sustantivo",
+          "context": "La NAACP presenta una demanda contra el nuevo mapa electoral.",
+          "definition_es": "Acción legal que se presenta ante un tribunal",
+          "definition_en": "Lawsuit or legal action filed in court"
+        },
+        {
+          "word": "redistribución",
+          "syllables": "re-dis-tri-bu-CIÓN",
+          "pos": "sustantivo",
+          "context": "La redistribución electoral cambia los límites de los distritos.",
+          "definition_es": "Acción de dividir o repartir algo de nuevo",
+          "definition_en": "The act of redistributing or redrawing boundaries"
+        },
+        {
+          "word": "fortuna",
+          "syllables": "for-TU-na",
+          "pos": "sustantivo",
+          "context": "Las grandes fortunas mexicanas buscan seguridad en otros países.",
+          "definition_es": "Gran cantidad de dinero o riqueza",
+          "definition_en": "Large amount of money or wealth"
+        },
+        {
+          "word": "certidumbre",
+          "syllables": "cer-ti-DUM-bre",
+          "pos": "sustantivo",
+          "context": "Los empresarios buscan certidumbre fuera de México.",
+          "definition_es": "Seguridad o confianza en algo",
+          "definition_en": "Certainty or confidence in something"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "Nvidia ha hecho inversiones por 40 mil millones de dólares.",
+          "definition_es": "Dinero que se pone en algo para ganar más dinero",
+          "definition_en": "Money put into something to make more money"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando la tecnología.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "distrito",
+          "syllables": "dis-TRI-to",
+          "pos": "sustantivo",
+          "context": "El distrito electoral tiene mayoría de población negra.",
+          "definition_es": "Área geográfica con límites definidos para votaciones",
+          "definition_en": "Geographic area with defined boundaries for voting"
+        },
+        {
+          "word": "empresario",
+          "syllables": "em-pre-SA-rio",
+          "pos": "sustantivo",
+          "context": "Los empresarios mexicanos mueven su dinero al extranjero.",
+          "definition_es": "Persona que tiene o dirige un negocio",
+          "definition_en": "Person who owns or runs a business"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'demanda' en contexto legal?",
+          "options": [
+            "Una petición",
+            "Una acción legal ante un tribunal",
+            "Una protesta",
+            "Una solicitud"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'fortuna'?",
+          "options": [
+            "Buena suerte",
+            "Gran cantidad de dinero",
+            "Un regalo",
+            "Un trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué buscan los empresarios cuando quieren 'certidumbre'?",
+          "options": [
+            "Dinero",
+            "Seguridad y confianza",
+            "Trabajo",
+            "Vacaciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'distrito' electoral?",
+          "options": [
+            "Un edificio gubernamental",
+            "Una ciudad",
+            "Un área geográfica para votaciones",
+            "Un partido político"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué la NAACP presentó una demanda en Tennessee?",
+          "options": [
+            "Por el nuevo mapa electoral",
+            "Por problemas económicos",
+            "Por la tecnología",
+            "Por las inversiones"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuándo ocurre la redistribución de distritos electorales?",
+          "options": [
+            "Cada año",
+            "Cada cinco años",
+            "Cada diez años",
+            "Cada veinte años"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué los ricos mexicanos mueven su dinero fuera del país?",
+          "options": [
+            "Por mejores vacaciones",
+            "Por seguridad y certidumbre",
+            "Por la tecnología",
+            "Por el clima"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Dónde invierten los empresarios mexicanos?",
+          "options": [
+            "Solo en México",
+            "En Estados Unidos y Europa",
+            "Solo en Asia",
+            "En África"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero ha invertido Nvidia en inteligencia artificial este año?",
+          "options": [
+            "20 mil millones",
+            "30 mil millones",
+            "40 mil millones",
+            "50 mil millones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿En qué sectores invierte Nvidia?",
+          "options": [
+            "Solo tecnología",
+            "Medicina, transporte y educación",
+            "Solo medicina",
+            "Solo transporte"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-10T09:29:57.832282"
+    },
+    {
       "date": "2026-05-09",
       "filename": "spanish_lesson_2026-05-09.pdf",
       "path": "pdfs/spanish_lesson_2026-05-09.pdf",
@@ -33992,7 +34214,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-09T09:28:35.857094",
+  "last_updated": "2026-05-10T09:29:57.832306",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
