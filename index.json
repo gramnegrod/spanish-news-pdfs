@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-11",
+      "filename": "spanish_lesson_2026-05-11.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-11.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Gobernador de Luisiana suspende elecciones primarias por decisión judicial",
+          "headline_en": "Louisiana Governor suspends primary elections due to court decision",
+          "body_es": "El gobernador de Luisiana tomó una decisión importante esta semana. Suspendió las elecciones primarias de la Cámara de Representantes. Esta decisión llegó después de un fallo de la Corte Suprema. El gobernador explicó que necesita más tiempo para resolver los problemas legales. Las elecciones primarias son importantes porque los ciudadanos eligen a sus candidatos favoritos. Estos candidatos después compiten en las elecciones generales. La suspensión significa que las elecciones no van a ocurrir en la fecha planeada. El gobernador dice que quiere seguir las reglas de la corte. Los votantes tendrán que esperar más tiempo para participar en el proceso electoral. Esta situación es poco común en la política estadounidense.",
+          "body_en": "Louisiana's governor made an important decision this week. He suspended the House of Representatives primary elections. This decision came after a Supreme Court ruling. The governor explained that he needs more time to resolve legal problems. Primary elections are important because citizens choose their favorite candidates. These candidates then compete in general elections. The suspension means the elections will not happen on the planned date. The governor says he wants to follow the court's rules. Voters will have to wait longer to participate in the electoral process. This situation is uncommon in American politics.",
+          "source": "CBS News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los jóvenes americanos pierden optimismo sobre el mercado laboral",
+          "headline_en": "Young Americans lose optimism about the job market",
+          "body_es": "Una nueva encuesta de Gallup muestra cambios en el optimismo laboral. Los jóvenes americanos están menos optimistas sobre encontrar trabajo. Sin embargo, los adultos mayores mantienen una actitud positiva. La encuesta preguntó a personas de diferentes edades sobre sus expectativas de empleo. Los resultados muestran una diferencia generacional importante. Los jóvenes enfrentan más competencia en el mercado laboral. También tienen preocupaciones sobre los salarios y las oportunidades de carrera. Los adultos mayores, por el contrario, se sienten más seguros. Muchos de ellos ya tienen experiencia laboral establecida. Esta diferencia puede afectar la economía del país. Los expertos dicen que es importante ayudar a los jóvenes a encontrar buenos empleos para el futuro económico de Estados Unidos.",
+          "body_en": "A new Gallup poll shows changes in job optimism. Young Americans are less optimistic about finding work. However, older adults maintain a positive attitude. The poll asked people of different ages about their employment expectations. The results show an important generational difference. Young people face more competition in the job market. They also have concerns about salaries and career opportunities. Older adults, on the other hand, feel more secure. Many of them already have established work experience. This difference can affect the country's economy. Experts say it's important to help young people find good jobs for America's economic future.",
+          "source": "The Boston Globe"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El uso secreto de inteligencia artificial crece en las oficinas",
+          "headline_en": "Secret use of artificial intelligence grows in offices",
+          "body_es": "La inteligencia artificial está entrando silenciosamente en los lugares de trabajo. Muchos empleados usan herramientas de IA sin que sus jefes lo sepan. Este fenómeno se llama 'IA sombra'. Los trabajadores usan estas tecnologías para hacer su trabajo más rápido y eficiente. Algunas personas usan IA para escribir emails, hacer presentaciones o analizar datos. Sin embargo, esto puede crear problemas para las empresas. Los gerentes no saben qué herramientas están usando sus empleados. También hay preocupaciones sobre la seguridad y la privacidad de la información. Las empresas necesitan crear políticas claras sobre el uso de IA. Es importante encontrar un balance entre la innovación y el control. La tecnología puede ayudar mucho, pero debe usarse de manera responsable y transparente.",
+          "body_en": "Artificial intelligence is quietly entering workplaces. Many employees use AI tools without their bosses knowing. This phenomenon is called 'shadow AI'. Workers use these technologies to make their work faster and more efficient. Some people use AI to write emails, make presentations, or analyze data. However, this can create problems for companies. Managers don't know what tools their employees are using. There are also concerns about information security and privacy. Companies need to create clear policies about AI use. It's important to find a balance between innovation and control. Technology can help a lot, but it should be used responsibly and transparently.",
+          "source": "Business Insider"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gobernador",
+          "syllables": "go-ber-na-DOR",
+          "pos": "sustantivo",
+          "context": "El gobernador de Luisiana suspendió las elecciones primarias.",
+          "definition_es": "Persona que gobierna un estado o región",
+          "definition_en": "Governor; person who governs a state or region"
+        },
+        {
+          "word": "elecciones",
+          "syllables": "e-lec-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las elecciones primarias fueron suspendidas por problemas legales.",
+          "definition_es": "Proceso para elegir representantes políticos",
+          "definition_en": "Elections; process to choose political representatives"
+        },
+        {
+          "word": "optimismo",
+          "syllables": "op-ti-MIS-mo",
+          "pos": "sustantivo",
+          "context": "El optimismo de los jóvenes sobre el trabajo está bajando.",
+          "definition_es": "Actitud positiva hacia el futuro",
+          "definition_en": "Optimism; positive attitude toward the future"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Los jóvenes están preocupados por encontrar empleo.",
+          "definition_es": "Trabajo o ocupación remunerada",
+          "definition_en": "Employment; paid work or job"
+        },
+        {
+          "word": "encuesta",
+          "syllables": "en-CUES-ta",
+          "pos": "sustantivo",
+          "context": "Una nueva encuesta muestra los sentimientos de los trabajadores.",
+          "definition_es": "Estudio que pregunta opiniones a las personas",
+          "definition_en": "Poll or survey; study that asks people's opinions"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial se está usando más en las oficinas.",
+          "definition_es": "Tecnología que imita el pensamiento humano",
+          "definition_en": "Artificial intelligence; technology that mimics human thinking"
+        },
+        {
+          "word": "suspender",
+          "syllables": "sus-pen-DER",
+          "pos": "verbo",
+          "context": "El gobierno decidió suspender las elecciones temporalmente.",
+          "definition_es": "Parar algo temporalmente",
+          "definition_en": "To suspend; to stop something temporarily"
+        },
+        {
+          "word": "lugar de trabajo",
+          "syllables": "lu-GAR de tra-BA-jo",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología está cambiando el lugar de trabajo.",
+          "definition_es": "El sitio donde las personas trabajan",
+          "definition_en": "Workplace; the place where people work"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'gobernador'?",
+          "options": [
+            "Una persona que gobierna un estado",
+            "Un tipo de elección",
+            "Un edificio del gobierno",
+            "Una ley importante"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'encuesta'?",
+          "options": [
+            "Un trabajo nuevo",
+            "Un estudio que pregunta opiniones",
+            "Una máquina de oficina",
+            "Un problema económico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'suspender' en contexto político?",
+          "options": [
+            "Comenzar algo nuevo",
+            "Parar algo temporalmente",
+            "Votar por alguien",
+            "Cambiar una ley"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es 'inteligencia artificial'?",
+          "options": [
+            "Una persona muy inteligente",
+            "Tecnología que imita el pensamiento humano",
+            "Un tipo de encuesta",
+            "Una elección especial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué el gobernador de Luisiana suspendió las elecciones?",
+          "options": [
+            "Por una decisión de la Corte Suprema",
+            "Porque no había candidatos",
+            "Por problemas económicos",
+            "Porque era muy tarde"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la encuesta de Gallup, ¿quiénes están menos optimistas sobre el trabajo?",
+          "options": [
+            "Los adultos mayores",
+            "Los jóvenes americanos",
+            "Todos los trabajadores",
+            "Solo las mujeres"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué es la 'IA sombra'?",
+          "options": [
+            "IA muy avanzada",
+            "IA que usan los empleados sin que los jefes lo sepan",
+            "IA peligrosa",
+            "IA que no funciona bien"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué actitud tienen los adultos mayores hacia el mercado laboral?",
+          "options": [
+            "Están muy preocupados",
+            "Se sienten más seguros",
+            "No tienen opinión",
+            "Están confundidos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Para qué usan los empleados la inteligencia artificial en el trabajo?",
+          "options": [
+            "Para jugar videojuegos",
+            "Para escribir emails y hacer presentaciones",
+            "Para hablar con amigos",
+            "Para comprar cosas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué necesitan crear las empresas según el artículo de tecnología?",
+          "options": [
+            "Más computadoras",
+            "Políticas claras sobre el uso de IA",
+            "Más empleados jóvenes",
+            "Nuevas oficinas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-11T10:10:30.514869"
+    },
+    {
       "date": "2026-05-10",
       "filename": "spanish_lesson_2026-05-10.pdf",
       "path": "pdfs/spanish_lesson_2026-05-10.pdf",
@@ -34214,7 +34436,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-10T09:29:57.832306",
+  "last_updated": "2026-05-11T10:10:30.514898",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
