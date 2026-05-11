@@ -1,11 +1,196 @@
 {
-  "date": "2026-05-10",
-  "generated_at": "2026-05-10T09:35:22.633411Z",
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T10:19:31.612316Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 548,
+  "total_stories": 553,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250511",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo tratamiento convierte células en fabricantes de curación",
+      "headline_en": "Novel treatment turns cells into healing manufacturers",
+      "summary_es": "Investigadores de Texas A&M desarrollan un nuevo tratamiento para heridas diabéticas que transforma las células del paciente en fábricas de curación, ofreciendo esperanza para pacientes con úlceras crónicas.",
+      "body_es": "Un nuevo tratamiento innovador de la Universidad de Texas A&M ayuda a curar heridas diabéticas de forma más rápida. Los médicos usan células del cuerpo del paciente. Estas células se convierten en fabricantes de medicinas. El tratamiento es simple y natural. Los científicos trabajan con células especiales. Estas células producen sustancias para sanar la herida. El proceso es un avance importante en la medicina. Las heridas diabéticas son difíciles de curar. Este tratamiento nuevo da esperanza a muchos pacientes. La investigación continúa en Texas A&M. Los resultados iniciales son muy positivos.",
+      "body_en": "A novel treatment from Texas A&M University helps heal diabetic wounds more quickly. Doctors use cells from the patient's body. These cells become medicine manufacturers. The treatment is simple and natural. Scientists work with special cells. These cells produce substances to heal the wound. The process is an important medical breakthrough. Diabetic wounds are difficult to heal. This new treatment gives hope to many patients. Research continues at Texas A&M. Initial results are very positive.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOek9KYmNHdkwtT3JFbjlJekNqTnk1YWZYejdVSkx4OXB0SkNRZWZCeHhzWF83NmxrTkJCOHBBNGF5dFVpQVMxVm94Nm1PVXlyaTBGNTMyLWZ4S3lrSzR1RVhMakYzc3NXdDlMdU5GaDFtaEdXV0d1aWgxXzE0Z3ZGZ1NXMC14YUptTG1IREFURU45N1ZEWU9UQV9vYWFiRGpNckVqc2RB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-11/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión o daño en la piel causado por una lesión",
+          "definition_en": "wound - injury or damage to the skin"
+        },
+        {
+          "word": "células",
+          "definition_es": "unidades más pequeñas de vida en el cuerpo",
+          "definition_en": "cells - smallest units of life in the body"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar y recuperarse de una herida",
+          "definition_en": "healing - process of recovering from a wound"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método o medicina para curar una enfermedad",
+          "definition_en": "treatment - method or medicine to cure a disease"
+        }
+      ],
+      "added_at": "2026-05-11T10:19:31.612316Z"
+    },
+    {
+      "id": "diabetic-foot-20250511",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Tecnología pionera para las complicaciones de piel en diabéticos",
+      "headline_en": "Pioneering technology for diabetic skin complications",
+      "summary_es": "Una investigación explora cómo las complicaciones de piel en pacientes diabéticos están directamente relacionadas con el control deficiente de la diabetes, y destaca la importancia de la prevención y el monitoreo temprano.",
+      "body_es": "Las complicaciones de piel en pacientes diabéticos son un problema serio que requiere atención médica constante. Cuando la diabetes no se controla bien, aparecen lesiones en los pies que pueden progresar a úlceras. Estas úlceras diabéticas son difíciles de curar y pueden causar infecciones graves. Los profesionales de salud deben evaluar regularmente la piel de los pacientes diabéticos. La evaluación incluye inspeccionar los pies, medir cualquier lesión y observar signos de infección. El tratamiento temprano previene complicaciones más serias. Los pacientes diabéticos necesitan educación sobre el cuidado diario de los pies. También deben mantener niveles de glucosa estables. La prevención es fundamental para evitar amputaciones y otras consecuencias graves.",
+      "body_en": "Skin complications in diabetic patients are a serious problem that requires constant medical attention. When diabetes is not well controlled, injuries to the feet appear that can progress to ulcers. These diabetic ulcers are difficult to heal and can cause serious infections. Healthcare professionals must regularly evaluate the skin of diabetic patients. Assessment includes inspecting the feet, measuring any lesions, and observing signs of infection. Early treatment prevents more serious complications. Diabetic patients need education about daily foot care. They must also maintain stable glucose levels. Prevention is fundamental to avoiding amputations and other serious consequences.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGhqOUFEeG9RYWdYRzFORWtpMXhPWUlvWi1PTGM3eXBPek1vaDJNNGFwc1BRR29lUkZZUXM3ODFQRFdLTHRvVzctOUNIejViZm1ZdlZhWk4wd3dzTnJ6OF9ZWU5QYkJkZG1vRHIweFFaUGRiUG1EVmhFbWtEVjNPVHdrT1R5QUxEYkZORzg3ZFByMUdvaWtCZXNCOVJjb3hDV3pLcVNqMWxXQVk5S3VKQ2hHOXkxNUJK?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-11/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza normalmente",
+          "definition_en": "ulcer - open wound on the skin that does not heal normally"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen cuidadoso para determinar el estado de una enfermedad",
+          "definition_en": "assessment - careful examination to determine disease status"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de bacterias que causa daño al tejido",
+          "definition_en": "infection - bacterial invasion that damages tissue"
+        },
+        {
+          "word": "glucosa",
+          "definition_es": "azúcar en la sangre que el cuerpo usa para energía",
+          "definition_en": "glucose - blood sugar that the body uses for energy"
+        }
+      ],
+      "added_at": "2026-05-11T10:19:31.612316Z"
+    },
+    {
+      "id": "burn-care-20250511",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "rose",
+      "headline_es": "Imágenes de terahertz revolucionan la precisión en el tratamiento de quemaduras",
+      "headline_en": "Terahertz imaging revolutionizes precision in burn care",
+      "summary_es": "Stony Brook University desarrolla una tecnología de imágenes de terahertz que mejora significativamente la evaluación y el tratamiento de quemaduras, permitiendo diagnósticos más precisos y resultados mejores para los pacientes.",
+      "body_es": "La tecnología de imágenes de terahertz representa un avance importante en el cuidado de quemaduras. Esta técnica permite a los médicos visualizar la profundidad exacta de la quemadura sin dañar la piel restante. Anteriormente, los médicos dependían de la inspección visual, que no era siempre precisa. La nueva tecnología utiliza ondas electromagnéticas para crear imágenes detalladas. Estos datos ayudan a los cirujanos a determinar si se necesita injerto de piel. El desbridamiento, que es la eliminación del tejido muerto, puede planificarse mejor. Los pacientes reciben tratamientos más efectivos y rápidos. La recuperación se acelera cuando el diagnóstico es correcto desde el inicio. Esta innovación de Stony Brook promete mejorar los resultados clínicos en todo el mundo.",
+      "body_en": "Terahertz imaging technology represents an important breakthrough in burn care. This technique allows doctors to visualize the exact depth of the burn without damaging remaining skin. Previously, doctors relied on visual inspection, which was not always accurate. The new technology uses electromagnetic waves to create detailed images. These data help surgeons determine if skin grafting is needed. Debridement, which is the removal of dead tissue, can be better planned. Patients receive more effective and faster treatments. Recovery accelerates when the diagnosis is correct from the beginning. This Stony Brook innovation promises to improve clinical outcomes worldwide.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWVlbzNVdG4yc3NoUEhfRlVJRFkzbklFYXd0ZGltQXQtSGpOR0h1bXQ1S1dPeGg3UjBRTGVscms3ODJQdDlIZTRzUnBnbllOemtad2VxTmx1WE95bE81c3o2OEE1MlJ4R0NlcGpvWHM1SkVMYk9OZDdVWG4zTmFJTmxyZ2tQMXZST2VKTmhB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-11/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación quirúrgica del tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "transplante de piel sana para cubrir quemaduras profundas",
+          "definition_en": "skin graft - transplant of healthy skin to cover deep burns"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen detallado para determinar la gravedad de una lesión",
+          "definition_en": "assessment - detailed examination to determine injury severity"
+        }
+      ],
+      "added_at": "2026-05-11T10:19:31.612316Z"
+    },
+    {
+      "id": "surgical-wounds-20250511",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Imágenes postoperatorias de nervios periféricos: técnicas y complicaciones",
+      "headline_en": "Postoperative imaging of peripheral nerves: techniques and complications",
+      "summary_es": "Una revisión de técnicas quirúrgicas y hallazgos esperados en imágenes postoperatorias de nervios periféricos, proporcionando guía clínica para identificar complicaciones después de la cirugía.",
+      "body_es": "Las imágenes postoperatorias son esenciales para evaluar el éxito de las cirugías de nervios periféricos. Los médicos utilizan diferentes técnicas de imagen para visualizar los nervios después de la intervención quirúrgica. La resonancia magnética y la ecografía son métodos comunes para este tipo de evaluación. Después de reparar un nervio, es importante monitorear la cicatrización y detectar cualquier complicación temprana. Las complicaciones incluyen neuroma, que es un crecimiento anormal de tejido nervioso. También pueden ocurrir infecciones en la herida quirúrgica o problemas con la anastomosis, que es la conexión entre dos nervios. Los profesionales de salud deben conocer los hallazgos normales esperados. Esto les ayuda a identificar rápidamente problemas potenciales. La detección temprana de complicaciones mejora los resultados para los pacientes y previene cirugías adicionales.",
+      "body_en": "Postoperative imaging is essential to evaluate the success of peripheral nerve surgeries. Doctors use different imaging techniques to visualize nerves after surgical intervention. MRI and ultrasound are common methods for this type of assessment. After repairing a nerve, it is important to monitor healing and detect any early complications. Complications include neuroma, which is abnormal nerve tissue growth. Infections in the surgical wound or anastomosis problems (connection between two nerves) can also occur. Healthcare professionals must know the expected normal findings. This helps them quickly identify potential problems. Early detection of complications improves patient outcomes and prevents additional surgeries.",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PajduTTN6MXZ6N25MVnhLTm5VTXhMQXIxRFg5bFI5RVB2Q2h6UEl6a0tff054UXhPdmE4UE5NMnZ0SUVrdnBNRzBLNXVtajRFbGR6S1ln?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-11/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada intencionalmente durante una cirugía",
+          "definition_en": "surgical wound - injury intentionally created during surgery"
+        },
+        {
+          "word": "nervio periférico",
+          "definition_es": "nervios que conectan el cerebro y la médula espinal con el resto del cuerpo",
+          "definition_en": "peripheral nerve - nerves connecting the brain and spinal cord to the body"
+        },
+        {
+          "word": "complicación",
+          "definition_es": "problema o efecto negativo que ocurre durante o después del tratamiento",
+          "definition_en": "complication - problem or negative effect during or after treatment"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz después de una herida",
+          "definition_en": "scarring - process of scar formation after a wound"
+        }
+      ],
+      "added_at": "2026-05-11T10:19:31.612316Z"
+    },
+    {
+      "id": "wound-research-20250511",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Dr. Thomas Serena lidera investigación avanzada en terapia de células madre",
+      "headline_en": "Dr. Thomas Serena leads advanced research in stem cell therapy",
+      "summary_es": "El renombrado experto en cuidado de heridas Dr. Thomas Serena se une a la junta científica de Cytora Ltd. para dirigir la investigación y acceso a pacientes para la terapia CytoraStem™ de células madre de mucosa oral humana.",
+      "body_es": "Cytora Ltd. ha anunciado que el Dr. Thomas Serena, un experto mundial reconocido en el cuidado de heridas, se ha unido a su junta científica. El Dr. Serena liderará los esfuerzos de acceso a pacientes y recopilación de datos para la terapia CytoraStem™. Esta terapia utiliza células madre de mucosa oral humana para tratar heridas complejas y crónicas. Las células madre tienen el potencial de diferenciarse en diferentes tipos de células, lo que las hace valiosas para la curación de heridas. La investigación se enfoca en mejorar los resultados clínicos y expandir el acceso a pacientes que necesitan tratamientos innovadores. El Dr. Serena ha publicado numerosos estudios sobre tratamiento de úlceras diabéticas y heridas crónicas. Su participación refuerza el compromiso de Cytora con la excelencia clínica. La recopilación de datos ayudará a validar la eficacia de esta nueva terapia en diferentes poblaciones de pacientes.",
+      "body_en": "Cytora Ltd. has announced that Dr. Thomas Serena, a world-renowned expert in wound care, has joined its scientific advisory board. Dr. Serena will lead patient access efforts and data collection for CytoraStem™ therapy. This therapy uses human oral mucosa stem cells to treat complex and chronic wounds. Stem cells have the potential to differentiate into different cell types, making them valuable for wound healing. Research focuses on improving clinical outcomes and expanding access to patients needing innovative treatments. Dr. Serena has published numerous studies on diabetic ulcer and chronic wound treatment. His participation strengthens Cytora's commitment to clinical excellence. Data collection will help validate the effectiveness of this new therapy in different patient populations.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPVTJJOGh5S1VDckpIWnViVFRIeUR2Q0I2dENoV0ZrZ090WmVIcUxYSVdlUW1kY1BQdktBX0RUcTAxVGYyX2ViZm1VT1VOWGdjcjkwYi1HZ0NVVnJnakEzRV80d3g2RTFaZE1EYVFxSTQ0cDRmRUlsaEh4VW5DRktSVXAxSFhRUHdZU1RacnM2SHE5N3dtenNMdzRyQVpoX0pJWm1zRjNQRm9JWlhuX1RmRmVBa01PNk0yNWd4UmFsSmNDaVVESkJyQnIwVWpwcHZNUFg3UlI0ejRkVngzQ3g2dGNqWFpfX1VRNEA2eVc0REZESy04RG5Da2ZqWXJ0REVlV25pMFdnem5TNTFkeXpkeVBSNkZtY0JlY2kzSFh0LUlHdWJFdFQzUHZzT3RhbmZ1Ni0zYnE2cHVBSTYzRk9JYUhEb0lERTRMc1M2Tl9ER05JZ0FDb0JybnBya2xSSW1LM2NxUDlhUWllbjc5aU83RFJqUHhnU3dQMFIwWHhEdw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-11/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "células madre",
+          "definition_es": "células indiferenciadas que pueden convertirse en diferentes tipos de células",
+          "definition_en": "stem cells - undifferentiated cells that can become different cell types"
+        },
+        {
+          "word": "investigación",
+          "definition_es": "estudio científico para descubrir nuevos conocimientos o tratamientos",
+          "definition_en": "research - scientific study to discover new knowledge or treatments"
+        },
+        {
+          "word": "terapia",
+          "definition_es": "tratamiento médico diseñado para curar o aliviar una enfermedad",
+          "definition_en": "therapy - medical treatment designed to cure or relieve disease"
+        },
+        {
+          "word": "úlceras crónicas",
+          "definition_es": "heridas abiertas de larga duración que no cicatrizan normalmente",
+          "definition_en": "chronic ulcers - long-lasting open wounds that do not heal normally"
+        }
+      ],
+      "added_at": "2026-05-11T10:19:31.612316Z"
+    },
     {
       "id": "chronic-wounds-20250510",
       "category": "Chronic Wounds",
@@ -20277,6 +20462,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-10T09:35:22.633411Z",
+  "last_updated": "2026-05-11T10:19:31.612316Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
