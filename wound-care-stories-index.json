@@ -1,11 +1,159 @@
 {
-  "date": "2026-05-11",
-  "generated_at": "2026-05-11T10:19:31.612316Z",
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:04:05.455361Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 553,
-  "new_today": 5,
+  "total_stories": 557,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250512",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo tratamiento convierte células en fábricas de curación",
+      "headline_en": "Novel treatment turns cells into healing factories",
+      "summary_es": "Investigadores de Texas A&M desarrollan un tratamiento innovador para heridas diabéticas que transforma las células del paciente en productoras de medicinas curativas.",
+      "body_es": "Un equipo de investigadores en Texas A&M ha creado un tratamiento nuevo para heridas diabéticas. Este tratamiento es especial porque convierte las células en fábricas de curación. El proceso trabaja con las células del mismo paciente. Las células producen sustancias que ayudan a sanar la herida rápidamente. El tratamiento es menos invasivo que los métodos tradicionales. Los médicos aplican este nuevo método directamente en la herida. Los resultados iniciales son muy prometedores. Este avance puede cambiar el cuidado de heridas diabéticas en el futuro.",
+      "body_en": "Researchers at Texas A&M have created a new treatment for diabetic wounds. This treatment is special because it converts cells into healing factories. The process works with the patient's own cells. The cells produce substances that help the wound heal quickly. The treatment is less invasive than traditional methods. Doctors apply this new method directly to the wound. Initial results are very promising. This breakthrough could change diabetic wound care in the future.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOek9KYmNHdkwtT3JFbjlJekNqTnk1YWZYejdVSkx4OXB0SkNRZWZCeHhzWF83NmxrTkJCOHBBNGF5dFVpQVMxVm94Nm1PVXlyaTBGNTMyLWZ4S3lrSzR1RVhMakYzc3NXdDlMdU5GaDFtaEdXV0d1aWgxXzE0Z3ZGZ1NXMC14YUptTG1IREFURU45N1ZEWU9UQV9vYWFiRGpNckVqc2RB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-12/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o en los tejidos del cuerpo",
+          "definition_en": "wound - injury to the skin or body tissues"
+        },
+        {
+          "word": "célula",
+          "definition_es": "unidad viva más pequeña del cuerpo",
+          "definition_en": "cell - smallest living unit of the body"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y recuperación de una herida",
+          "definition_en": "healing - process of wound closure and recovery"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método médico para curar o mejorar una enfermedad",
+          "definition_en": "treatment - medical method to cure or improve a disease"
+        }
+      ],
+      "added_at": "2026-05-12T10:04:05.455361Z"
+    },
+    {
+      "id": "diabetic-foot-20250512",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Tecnología sanitaria pionera para el pie diabético según plan NHS",
+      "headline_en": "Pioneering healthcare technology for diabetic foot as part of NHS plan",
+      "summary_es": "La Universidad de Lancaster está desarrollando tecnología innovadora para mejorar la detección y tratamiento del pie diabético como parte del plan decenal del NHS en Reino Unido.",
+      "body_es": "La Universidad de Lancaster ha comenzado un proyecto importante para desarrollar tecnología sanitaria destinada a pacientes con diabetes. Este proyecto forma parte del plan de diez años del NHS (Servicio Nacional de Salud) del Reino Unido. La tecnología se enfoca en prevenir y tratar las úlceras del pie diabético, una complicación grave de la diabetes. Los investigadores utilizan métodos avanzados para detectar problemas en los pies de los pacientes diabéticos más tempranamente. Esta detección precoz permite intervenciones médicas antes de que se formen úlceras profundas. El equipo trabaja con hospitales y clínicas para probar la efectividad de la tecnología. Los expertos esperan que este sistema reduzca significativamente el número de amputaciones relacionadas con diabetes. Esta iniciativa demuestra el compromiso del NHS con la innovación en cuidado de heridas.",
+      "body_en": "Lancaster University has begun an important project to develop healthcare technology for diabetic patients. This project is part of the UK National Health Service (NHS) ten-year plan. The technology focuses on preventing and treating diabetic foot ulcers, a serious diabetes complication. Researchers use advanced methods to detect foot problems in diabetic patients earlier. This early detection allows medical interventions before deep ulcers form. The team works with hospitals and clinics to test the technology's effectiveness. Experts hope this system will significantly reduce diabetes-related amputations. This initiative demonstrates the NHS commitment to wound care innovation.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjJjbjVKbkhOYmo2Wnp4aXFQVmpGSjJzZlBUQ19NTnZ1N0Zld2U4a0Z4a0Mtd2dzTnRQbnpXR09NZDVyZDgxZ2Y5VnRUTGlPQUwyeDVtb1VROV9TT1JfSDUzZGw1MUVMcXNYb2c4NDlfZEZKT2RqNWNLMldWSkEyUnVhaDdjbWI2UVBkU1BERU80QXZfVEtONVVJajZDbFppQTNPRFZUUFlUQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-12/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "detección",
+          "definition_es": "acción de identificar o descubrir algo, especialmente una enfermedad",
+          "definition_en": "detection - action of identifying or discovering something, especially a disease"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        },
+        {
+          "word": "intervención",
+          "definition_es": "acción médica realizada para tratar o mejorar una condición de salud",
+          "definition_en": "intervention - medical action performed to treat or improve a health condition"
+        }
+      ],
+      "added_at": "2026-05-12T10:04:05.455361Z"
+    },
+    {
+      "id": "burn-care-20250512",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Sistema de regeneración tisular 3D ayuda a pacientes quemados",
+      "headline_en": "3D tissue regeneration system helps burn patients",
+      "summary_es": "El Hospital General de Opelousas desarrolla un sistema innovador de regeneración de tejidos en 3D que mejora significativamente el tratamiento de pacientes con quemaduras.",
+      "body_es": "El Hospital General de Opelousas en Luisiana ha implementado un sistema revolucionario de regeneración de tejidos en tres dimensiones para tratar a pacientes con quemaduras severas. Este sistema utiliza tecnología avanzada para crear tejidos sintéticos que reemplazan la piel dañada por las quemaduras. La tecnología funciona escaneando el área quemada y creando un modelo tridimensional preciso. Los médicos utilizan este modelo para producir injertos de piel personalizados para cada paciente. El proceso reduce el tiempo de cicatrización y disminuye el riesgo de infecciones. Los pacientes experimentan menos dolor durante el tratamiento comparado con métodos tradicionales. Este avance en medicina regenerativa marca un hito importante en el cuidado de quemaduras. El equipo médico reporta resultados muy satisfactorios en los primeros casos tratados con esta tecnología innovadora.",
+      "body_en": "Opelousas General Hospital in Louisiana has implemented a revolutionary three-dimensional tissue regeneration system for treating patients with severe burns. This system uses advanced technology to create synthetic tissues that replace skin damaged by burns. The technology works by scanning the burned area and creating a precise three-dimensional model. Doctors use this model to produce personalized skin grafts for each patient. The process reduces healing time and decreases infection risk. Patients experience less pain during treatment compared to traditional methods. This advancement in regenerative medicine marks an important milestone in burn care. The medical team reports very satisfactory results in the first cases treated with this innovative technology.",
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTFZha3FveTZRbFMwdGxEVXdSTjVFU2Y1YTVtM1czeS11bWp5ZFBEY29KUjRkaW1oc1dyMjdQUXlUX01rakpaTjVJZ2QyVVRpakxYU2pfS0VvZmxka3FQLWEzN2txZUZoRWVkOGlkTTlGTElDa2Y2Q0xkWnExRi15UHZIdzRtSnJNRnBzcm5ZVzBOODFySFFCNF83Q1RGSl9Vez15U1RURDMyYmo1WDV2ajRiNUtiVmpNSVNYU0NwbktTMFlxZzRzZUctTkZtMXlUSVBKZTZfZ3JJa2EyWENGVXp2RnFuTDEtcFp1RnJ3aWVRTU9pSGMzSUY2VmYyVUlrZVpnSHBVTk9Gdw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-12/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por fuego, calor o sustancia química",
+          "definition_en": "burn - skin injury caused by fire, heat, or chemical substance"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "proceso de recreación o restauración de tejidos dañados",
+          "definition_en": "regeneration - process of recreating or restoring damaged tissues"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "trasplante de tejido vivo de una parte del cuerpo a otra",
+          "definition_en": "graft - transplant of living tissue from one body part to another"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de cierre y curación de una herida",
+          "definition_en": "healing - natural process of wound closure and recovery"
+        }
+      ],
+      "added_at": "2026-05-12T10:04:05.455361Z"
+    },
+    {
+      "id": "wound-research-20250512",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Universidad celebra días de investigación con proyectos innovadores en cuidado de heridas",
+      "headline_en": "University celebrates research days with innovative wound care projects",
+      "summary_es": "La Universidad de Binghamton presenta proyectos innovadores de investigación en la Facultad Decker, incluyendo avances significativos en tecnología de cuidado de heridas.",
+      "body_es": "La Universidad de Binghamton ha celebrado recientemente días dedicados a la investigación donde la Facultad Decker ha presentado proyectos innovadores en diversas áreas de la medicina. Entre los proyectos destacados se encuentran investigaciones avanzadas en el cuidado de heridas que prometen revolucionar la práctica clínica. Los estudiantes e investigadores han desarrollado nuevas técnicas para evaluar y tratar heridas crónicas de manera más efectiva. Los proyectos incluyen el uso de materiales biocompatibles y tecnologías digitales para monitorear el progreso de cicatrización. Los investigadores trabajan en colaboración con hospitales para validar sus hallazgos en pacientes reales. Estos esfuerzos de investigación reflejan el compromiso de la universidad con la excelencia académica y la innovación médica. Los resultados preliminares demuestran mejoras significativas en los tiempos de curación y en la reducción de complicaciones. Esta iniciativa también capacita a la próxima generación de especialistas en cuidado de heridas.",
+      "body_en": "Binghamton University recently celebrated research days where the Decker College presented innovative projects in various medical areas. Among the highlighted projects are advanced wound care research that promises to revolutionize clinical practice. Students and researchers have developed new techniques to assess and treat chronic wounds more effectively. Projects include the use of biocompatible materials and digital technologies to monitor healing progress. Researchers collaborate with hospitals to validate their findings in real patients. These research efforts reflect the university's commitment to academic excellence and medical innovation. Preliminary results demonstrate significant improvements in healing times and complication reduction. This initiative also trains the next generation of wound care specialists.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelJvMWlhbGU4N1lWVFJndkhNSjVxUERuMjlUQ3NVV01pbWdGZDdVbllUMXJCSEFaWXozYTRFZ1lCM0d2bG5UcFR5ZXNHVlBVMTFHY3Jhc09QRUE0Y3FzelhZR1VwWnJJVXdjOHNnSjlyeXhkRWlUZVpkcnlwcERqSlZmSkpTdk1BLURvSnlZbHBWUy1VMWtSSWk2aGQ3cnZrOUExTGtZOUFzSUE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-12/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "investigación",
+          "definition_es": "estudio sistemático y cuidadoso para descubrir nuevos conocimientos",
+          "definition_en": "research - systematic and careful study to discover new knowledge"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y recuperación de una herida abierta",
+          "definition_en": "wound healing - process of closure and recovery of an open wound"
+        },
+        {
+          "word": "biocompatible",
+          "definition_es": "material que es compatible con los tejidos vivos del cuerpo",
+          "definition_en": "biocompatible - material compatible with living body tissues"
+        },
+        {
+          "word": "validación",
+          "definition_es": "confirmación de la efectividad y seguridad de un tratamiento o método",
+          "definition_en": "validation - confirmation of effectiveness and safety of a treatment or method"
+        }
+      ],
+      "added_at": "2026-05-12T10:04:05.455361Z"
+    },
     {
       "id": "chronic-wounds-20250511",
       "category": "Chronic Wounds",
@@ -20462,6 +20610,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-11T10:19:31.612316Z",
+  "last_updated": "2026-05-12T10:04:05.455361Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
