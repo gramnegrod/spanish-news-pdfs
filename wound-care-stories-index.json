@@ -1,11 +1,196 @@
 {
-  "date": "2026-05-12",
-  "generated_at": "2026-05-12T10:04:05.455361Z",
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T09:57:40.754231Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 557,
-  "new_today": 4,
+  "total_stories": 562,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250513",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo Tratamiento para Heridas Diabéticas Transforma Células en Fabricantes",
+      "headline_en": "Novel Treatment for Diabetic Wounds Turns Cells into Manufacturers",
+      "summary_es": "Investigadores de Texas A&M desarrollan un tratamiento innovador que convierte células del cuerpo en fábricas de medicamentos para curar heridas diabéticas más rápidamente.",
+      "body_es": "Un equipo de científicos en Texas A&M ha creado un tratamiento revolucionario para las heridas diabéticas. Este tratamiento transforma las células del paciente en fábricas biológicas. Las células fabrican medicamentos para curar la herida naturalmente.\n\nLas heridas diabéticas son muy difíciles de curar. Muchas personas con diabetes tienen problemas con la cicatrización. Este nuevo método acelera el proceso de curación.\n\nLos investigadores utilizan ingeniería genética para modificar las células. Las células modificadas producen proteínas curativas. El tratamiento es seguro y eficaz para los pacientes diabéticos.\n\nEste avance es importante para la medicina moderna. Los médicos esperan usar este tratamiento pronto en hospitales. El objetivo es ayudar a millones de personas con heridas diabéticas.",
+      "body_en": "A team of scientists at Texas A&M has created a revolutionary treatment for diabetic wounds. This treatment transforms a patient's cells into biological factories. The cells manufacture medications to heal the wound naturally.\n\nDiabetic wounds are very difficult to heal. Many people with diabetes have problems with scarring. This new method speeds up the healing process.\n\nThe researchers use genetic engineering to modify cells. Modified cells produce healing proteins. The treatment is safe and effective for diabetic patients.\n\nThis breakthrough is important for modern medicine. Doctors expect to use this treatment soon in hospitals. The goal is to help millions of people with diabetic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOek9KYmNHdkwtT3JFbjlJekNqTnk1YWZYejdVSkx4OXB0SkNRZWZCeHhzWF83NmxrTkJCOHBBNGF5dFVpQVMxVm94Nm1PVXlyaTBGNTMyLWZ4S3lrSzR1RVhMakYzc3NXdDlMdU5GaDFtaEdXV0d1aWgxXzE0Z3ZGZ1NXMC14YUptTG1IREFURE45N1ZEWU9UQV9vYWFiRGpNckVqc2RB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-13/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión o daño en la piel o tejido del cuerpo",
+          "definition_en": "wound - injury or damage to skin or body tissue"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar o recuperarse de una lesión",
+          "definition_en": "healing - process of recovering from an injury"
+        },
+        {
+          "word": "célula",
+          "definition_es": "unidad más pequeña de vida que forma los tejidos",
+          "definition_en": "cell - smallest unit of life that forms tissues"
+        },
+        {
+          "word": "medicamento",
+          "definition_es": "sustancia usada para tratar enfermedades",
+          "definition_en": "medication - substance used to treat diseases"
+        }
+      ],
+      "added_at": "2026-05-13T09:57:40.754231Z"
+    },
+    {
+      "id": "diabetic-foot-20250513",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Nuevo Modelo de Inteligencia Artificial Predice Riesgo de Amputación en Pie Diabético",
+      "headline_en": "New AI Risk Prediction Model Forecasts Lower Limb Amputation in Diabetic Patients",
+      "summary_es": "Un innovador modelo de inteligencia artificial ayuda a predecir qué pacientes diabéticos tienen mayor riesgo de amputación de miembros inferiores, permitiendo intervención temprana.",
+      "body_es": "Investigadores han desarrollado un modelo avanzado de inteligencia artificial para evaluar el riesgo de amputación en pacientes con úlceras del pie diabético. Este modelo analiza múltiples factores clínicos y biomédicos para identificar a los pacientes en mayor riesgo.\n\nLa úlcera del pie diabético es una complicación grave que afecta a muchos pacientes con diabetes. Sin tratamiento adecuado, puede conducir a infecciones severas y necesidad de amputación. La detección temprana del riesgo es fundamental para prevenir resultados adversos.\n\nEl modelo de inteligencia artificial evalúa indicadores como el grado de neuropatía, la perfusión vascular, y la profundidad de la úlcera. Con esta información, los clínicos pueden implementar estrategias preventivas más agresivas. El objetivo es reducir significativamente las tasas de amputación en la población diabética.\n\nEste avance representa un progreso importante en medicina preventiva y cuidado del paciente diabético a nivel mundial.",
+      "body_en": "Researchers have developed an advanced artificial intelligence model to assess amputation risk in patients with diabetic foot ulcers. This model analyzes multiple clinical and biomedical factors to identify patients at highest risk.\n\nDiabetic foot ulcer is a serious complication affecting many patients with diabetes. Without proper treatment, it can lead to severe infections and amputation necessity. Early detection of risk is fundamental to preventing adverse outcomes.\n\nThe artificial intelligence model evaluates indicators such as neuropathy degree, vascular perfusion, and ulcer depth. With this information, clinicians can implement more aggressive preventive strategies. The goal is to significantly reduce amputation rates in the diabetic population.\n\nThis advancement represents important progress in preventive medicine and diabetic patient care worldwide.",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM2s4NHVkV1U2R0JlMktESmRtMVFKaThTU3dITzVCanFYbDI0dTJiczgxeG9XdjhGcHpRMUtqSE42Mmp2UVhWSjNTLWI0ZWd5RDdHWlNicGUwbEtqUFpjelN5aXh0S2ZpVWxlS0NreFVzMkdKYU9sT0pMc0pSN2tIcENHdmktU1dzTUlIMkIxRllRbm81V1RxSXY2NHB1dU1rNk90MXd3Z1BBR05icWFTcG0xclhZTWZPUmN1QnlfNGZSVTdoWDBNZURMQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-13/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        },
+        {
+          "word": "neuropatía",
+          "definition_es": "daño a los nervios que causa debilidad o dolor",
+          "definition_en": "neuropathy - nerve damage causing weakness or pain"
+        },
+        {
+          "word": "inteligencia artificial",
+          "definition_es": "tecnología computacional que simula procesos mentales humanos",
+          "definition_en": "artificial intelligence - computer technology simulating human thinking"
+        }
+      ],
+      "added_at": "2026-05-13T09:57:40.754231Z"
+    },
+    {
+      "id": "burn-care-20250513",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Imágenes de Terahertz Revolucionan la Precisión en el Cuidado de Quemaduras",
+      "headline_en": "Terahertz Imaging Brings New Precision to Burn Care",
+      "summary_es": "Investigadores de Stony Brook desarrollan tecnología de imágenes de terahertz que permite evaluar con precisión la profundidad y extensión de las quemaduras para mejorar el tratamiento.",
+      "body_es": "Científicos en Stony Brook han implementado una tecnología innovadora de imágenes de terahertz para revolucionar la evaluación de quemaduras. Esta tecnología permite visualizar con precisión la profundidad exacta de la lesión por quemadura en tiempo real.\n\nLa evaluación tradicional de quemaduras es subjetiva y frecuentemente imprecisa. Los médicos han utilizado métodos visuales y palpables para determinar la profundidad. Esto puede resultar en decisiones de tratamiento incorrectas.\n\nLas imágenes de terahertz penetran las capas de piel sin dañarlas, similar a los rayos X pero sin radiación ionizante. El sistema crea imágenes de alta resolución que muestran exactamente cuál tejido está dañado. Los clínicos pueden ahora clasificar quemaduras con mayor precisión.\n\nCon esta información mejorada, los médicos pueden seleccionar el tratamiento más apropiado inmediatamente. El resultado es una recuperación más rápida y mejores resultados cicatriciales para los pacientes quemados.",
+      "body_en": "Scientists at Stony Brook have implemented innovative terahertz imaging technology to revolutionize burn injury evaluation. This technology allows precise visualization of the exact burn depth in real time.\n\nTraditional burn assessment is subjective and frequently imprecise. Doctors have used visual and tactile methods to determine depth. This can result in incorrect treatment decisions.\n\nTerahertz imaging penetrates skin layers without damaging them, similar to X-rays but without ionizing radiation. The system creates high-resolution images showing exactly which tissue is damaged. Clinicians can now classify burns with greater accuracy.\n\nWith this improved information, doctors can select the most appropriate treatment immediately. The result is faster recovery and better scarring outcomes for burn patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWVlbzNVdG4yc3NoUEhfRlVJRFkzbklFYXd0ZGltQXQtSGpOR0h1bXQ1S1dPeGg3UjBRTGVscms3ODJQdDlIZTRzUnBnbllOemtad2VxTmx1WE95bE81c3o2OEE1MlJ4R0NlcGpvWHM1SkVMYk9OZDdVWG4zTmFJTmxyZ2tQMXZST2VKTmhB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-13/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor, fuego o radiación",
+          "definition_en": "burn - skin injury caused by heat, fire, or radiation"
+        },
+        {
+          "word": "profundidad",
+          "definition_es": "medida de qué tan profundo es algo en los tejidos",
+          "definition_en": "depth - measurement of how deep something extends in tissues"
+        },
+        {
+          "word": "terahertz",
+          "definition_es": "tipo de radiación electromagnética usada en imágenes médicas",
+          "definition_en": "terahertz - type of electromagnetic radiation used in medical imaging"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de que una herida sana",
+          "definition_en": "scar - mark left after a wound heals"
+        }
+      ],
+      "added_at": "2026-05-13T09:57:40.754231Z"
+    },
+    {
+      "id": "surgical-wounds-20250513",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "purple",
+      "headline_es": "Una de Cada Cuatro Complicaciones Quirúrgicas Afecta a Pacientes Postoperatorios",
+      "headline_en": "Surgery Complications Affect One in Four Patients",
+      "summary_es": "Nueva investigación en cirugía general revela que aproximadamente uno de cada cuatro pacientes experimenta complicaciones después de una operación quirúrgica.",
+      "body_es": "Un estudio importante publicado en General Surgery News demuestra que las complicaciones quirúrgicas son más frecuentes de lo que se pensaba anteriormente. Aproximadamente el 25% de los pacientes quirúrgicos experimentan algún tipo de complicación postoperatoria.\n\nLas complicaciones quirúrgicas incluyen infecciones de herida, dehiscencia (separación de los bordes de la herida), hemorragia, y trombosis venosa profunda. Estas complicaciones pueden prolongar la hospitalización y aumentar significativamente los costos de atención médica.\n\nLos factores de riesgo incluyen la edad del paciente, condiciones médicas preexistentes, tipo y duración de la cirugía, y técnica quirúrgica. La identificación temprana de estos factores permite implementar medidas preventivas específicas.\n\nLos cirujanos y enfermeras deben mantener vigilancia constante durante el período postoperatorio. Los protocolos de cuidado de heridas, movilización temprana, y antibióticos profilácticos son esenciales para reducir complicaciones. La educación del paciente también juega un papel crucial en la prevención.",
+      "body_en": "An important study published in General Surgery News demonstrates that surgical complications are more frequent than previously thought. Approximately 25% of surgical patients experience some type of postoperative complication.\n\nSurgical complications include wound infections, dehiscence (separation of wound edges), hemorrhage, and deep venous thrombosis. These complications can prolong hospitalization and significantly increase healthcare costs.\n\nRisk factors include patient age, preexisting medical conditions, type and duration of surgery, and surgical technique. Early identification of these factors allows implementation of specific preventive measures.\n\nSurgeons and nurses must maintain constant vigilance during the postoperative period. Wound care protocols, early mobilization, and prophylactic antibiotics are essential to reduce complications. Patient education also plays a crucial role in prevention.",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR01UMWlZMFNubEU3X1pPS2E3dlhFQXpjZXhuS0hWc2x6YXdVS1lFOExsb1lkUzUwX3Q1SmZaTVF5RHpSSVkwQ1pVaE4xVmpwVnpPUXl1MUZYc3Bpa0dFdXRkRkhtV3hPa1Y4MkpsQlZVU25RRmgtUURvcW9td25IWWJzQkVJYW51WnpMd2lWUVd1LW05c0UyeFJvNGs1emtOMjRmSS1hR3JGdGtkVHNlQjZXa1hXZTA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-13/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "complicación",
+          "definition_es": "problema o consecuencia adversa que surge después de una cirugía",
+          "definition_en": "complication - adverse problem or consequence arising after surgery"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de bacterias u otros microorganismos en una herida",
+          "definition_en": "infection - invasion of bacteria or microorganisms in a wound"
+        },
+        {
+          "word": "dehiscencia",
+          "definition_es": "separación de los bordes de una herida quirúrgica",
+          "definition_en": "dehiscence - separation of edges of a surgical wound"
+        },
+        {
+          "word": "postoperatorio",
+          "definition_es": "período de recuperación después de una cirugía",
+          "definition_en": "postoperative - recovery period after surgery"
+        }
+      ],
+      "added_at": "2026-05-13T09:57:40.754231Z"
+    },
+    {
+      "id": "wound-research-20250513",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "MUSC Lidera Innovaciones Globales en Terapias de Células y Genes",
+      "headline_en": "MUSC Lands Three Spots on Top 10 Global List of Cell and Gene Therapy Innovations",
+      "summary_es": "La Universidad Médica de South Carolina ha sido reconocida en la lista global de las 10 principales innovaciones en terapias de células y genes, demostrando liderazgo en investigación de medicina regenerativa.",
+      "body_es": "La Universidad Médica de South Carolina (MUSC) ha logrado un reconocimiento extraordinario al obtener tres posiciones en la lista global de las diez principales innovaciones en terapias de células y genes. Este logro subraya el liderazgo de MUSC en investigación de medicina regenerativa y terapias avanzadas.\n\nLas terapias de células y genes representan el futuro de la medicina moderna, incluyendo aplicaciones para heridas crónicas, quemaduras, y lesiones tisulares. Estas terapias utilizan células vivas o modificación genética para reparar o reemplazar tejidos dañados.\n\nEl reconocimiento de MUSC en esta lista internacional indica que sus investigadores han desarrollado innovaciones significativas que tienen potencial para transformar la práctica clínica. Las instituciones líderes en este campo están avanzando hacia ensayos clínicos y aplicaciones terapéuticas reales.\n\nEste progreso es importante para millones de pacientes que sufren de heridas crónicas y lesiones complejas. Las terapias de células y genes ofrecen esperanza para resolver problemas que los tratamientos convencionales no pueden resolver completamente. MUSC continúa siendo pionera en estas tecnologías emergentes.",
+      "body_en": "The Medical University of South Carolina (MUSC) has achieved extraordinary recognition by obtaining three positions on the global list of top ten cell and gene therapy innovations. This achievement underscores MUSC's leadership in regenerative medicine research and advanced therapies.\n\nCell and gene therapies represent the future of modern medicine, including applications for chronic wounds, burns, and tissue injuries. These therapies use living cells or genetic modification to repair or replace damaged tissues.\n\nMUSC's recognition on this international list indicates that its researchers have developed significant innovations with potential to transform clinical practice. Leading institutions in this field are advancing toward clinical trials and real therapeutic applications.\n\nThis progress is important for millions of patients suffering from chronic wounds and complex injuries. Cell and gene therapies offer hope for solving problems that conventional treatments cannot fully resolve. MUSC continues to be a pioneer in these emerging technologies.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkNudTNqaGxYbGpOdU1Remx0ck5kVHNRaU9Ib3FTWUxGRHdvOFd6VE5neVZNaHFaRGVpWm1URVF1b1NueW5rZFMzSzNfTGd4QkhfRzI5SWZJMlpIUUNkd293cjZheVQ4Z2JBZGFHMTNFNkhab3JwODNRUUxsZXY4UDB4UmNTemtpemc1eWp3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-13/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "célula madre",
+          "definition_es": "célula especial que puede transformarse en otros tipos de células",
+          "definition_en": "stem cell - special cell that can transform into other cell types"
+        },
+        {
+          "word": "terapia génica",
+          "definition_es": "tratamiento que introduce genes modificados para curar enfermedades",
+          "definition_en": "gene therapy - treatment introducing modified genes to cure diseases"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "proceso de crecimiento y reparación de tejidos dañados",
+          "definition_en": "regeneration - process of growth and repair of damaged tissues"
+        },
+        {
+          "word": "innovación",
+          "definition_es": "desarrollo de nuevas ideas y tecnologías en medicina",
+          "definition_en": "innovation - development of new medical ideas and technologies"
+        }
+      ],
+      "added_at": "2026-05-13T09:57:40.754231Z"
+    },
     {
       "id": "chronic-wounds-20250512",
       "category": "Chronic Wounds",
@@ -20610,6 +20795,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-12T10:04:05.455361Z",
+  "last_updated": "2026-05-13T09:57:40.754231Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
