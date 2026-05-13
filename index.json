@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-13",
+      "filename": "spanish_lesson_2026-05-13.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-13.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Gobernadora de Alabama Celebra Victoria Electoral Importante",
+          "headline_en": "Alabama Governor Celebrates Important Electoral Victory",
+          "body_es": "La gobernadora Kay Ivey de Alabama está muy contenta. Los tribunales dijeron que el estado puede usar su propio mapa electoral. Este mapa divide el estado en diferentes áreas para las elecciones al Congreso. Antes, había problemas legales con este mapa. Ahora la gobernadora puede organizar elecciones especiales. Estas elecciones usarán el nuevo mapa que Alabama creó. La gobernadora dice que esta es una victoria muy importante para su estado. Los ciudadanos de Alabama podrán votar pronto. El nuevo sistema electoral empezará a funcionar después de las elecciones especiales. Esta decisión cambia la política del estado de Alabama.",
+          "body_en": "Governor Kay Ivey of Alabama is very happy. The courts said the state can use its own electoral map. This map divides the state into different areas for Congressional elections. Before, there were legal problems with this map. Now the governor can organize special elections. These elections will use the new map that Alabama created. The governor says this is a very important victory for her state. Alabama citizens will be able to vote soon. The new electoral system will start working after the special elections. This decision changes Alabama state politics.",
+          "source": "Alabama Governor's Office"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los Mercados Financieros Caen y el Petróleo Llega a $100",
+          "headline_en": "Financial Markets Fall and Oil Reaches $100",
+          "body_es": "Los mercados financieros de Estados Unidos tuvieron un día muy malo. Las acciones cayeron mucho en Wall Street. El precio del petróleo estadounidense subió hasta $100 por barril. Donald Trump trató de calmar a los inversores, pero no funcionó. Los inversores están preocupados por la economía del país. Muchas compañías perdieron dinero en sus acciones. El petróleo caro afecta el precio de la gasolina. Los expertos dicen que la situación económica es difícil ahora. Wall Street es el centro financiero más importante de Estados Unidos. Cuando los mercados caen, muchas personas pierden dinero. Los bancos y las empresas están vigilando la situación económica muy de cerca.",
+          "body_en": "The United States financial markets had a very bad day. Stocks fell a lot on Wall Street. The price of American oil rose to $100 per barrel. Donald Trump tried to calm investors, but it didn't work. Investors are worried about the country's economy. Many companies lost money in their stocks. Expensive oil affects gasoline prices. Experts say the economic situation is difficult now. Wall Street is the most important financial center in the United States. When markets fall, many people lose money. Banks and companies are watching the economic situation very closely.",
+          "source": "AOL.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas Tecnológicas Eliminan 33,000 Empleos en Abril",
+          "headline_en": "Tech Companies Eliminate 33,000 Jobs in April",
+          "body_es": "Las grandes empresas de tecnología eliminaron 33,000 empleos durante el mes de abril. Estas compañías quieren gastar más dinero en inteligencia artificial. Por eso necesitan reducir otros gastos, como los salarios de los trabajadores. Muchos empleados perdieron sus trabajos en empresas famosas de tecnología. Las compañías dicen que la inteligencia artificial es el futuro. Quieren invertir mucho dinero en esta nueva tecnología. Los trabajadores despedidos buscan nuevos empleos ahora. Esta situación es difícil para las familias afectadas. Sin embargo, las empresas creen que la inteligencia artificial les dará más dinero en el futuro. El sector tecnológico está cambiando muy rápidamente. Los expertos dicen que esto continuará pasando en los próximos meses.",
+          "body_en": "Large technology companies eliminated 33,000 jobs during the month of April. These companies want to spend more money on artificial intelligence. That's why they need to reduce other expenses, like worker salaries. Many employees lost their jobs at famous technology companies. Companies say artificial intelligence is the future. They want to invest a lot of money in this new technology. Laid-off workers are looking for new jobs now. This situation is difficult for affected families. However, companies believe artificial intelligence will give them more money in the future. The technology sector is changing very quickly. Experts say this will continue happening in the coming months.",
+          "source": "eWeek"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gobernadora",
+          "syllables": "go-ber-na-DO-ra",
+          "pos": "sustantivo",
+          "context": "La gobernadora celebra una importante victoria en los tribunales.",
+          "definition_es": "Mujer que dirige el gobierno de un estado",
+          "definition_en": "Female governor, woman who leads a state government"
+        },
+        {
+          "word": "elecciones",
+          "syllables": "e-lec-CIO-nes",
+          "pos": "sustantivo",
+          "context": "El estado organizará elecciones especiales para el nuevo mapa electoral.",
+          "definition_es": "Proceso donde los ciudadanos votan para elegir representantes",
+          "definition_en": "Elections, process where citizens vote to choose representatives"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros cayeron después del anuncio.",
+          "definition_es": "Lugares donde se compran y venden acciones y productos financieros",
+          "definition_en": "Markets, places where stocks and financial products are bought and sold"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo estadounidense llegó a $100.",
+          "definition_es": "Líquido negro que se extrae de la tierra para hacer combustible",
+          "definition_en": "Oil, black liquid extracted from earth to make fuel"
+        },
+        {
+          "word": "empleos",
+          "syllables": "em-PLE-os",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas eliminaron 33,000 empleos en abril.",
+          "definition_es": "Trabajos o puestos de trabajo",
+          "definition_en": "Jobs, work positions"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Las compañías invierten más dinero en inteligencia artificial.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence, technology that allows machines to think like humans"
+        },
+        {
+          "word": "victoria",
+          "syllables": "vic-TO-ria",
+          "pos": "sustantivo",
+          "context": "La gobernadora celebra una gran victoria en los tribunales.",
+          "definition_es": "Éxito en una competencia o batalla",
+          "definition_en": "Victory, success in a competition or battle"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "Las empresas aumentan su inversión en nueva tecnología.",
+          "definition_es": "Dinero que se gasta para ganar más dinero en el futuro",
+          "definition_en": "Investment, money spent to make more money in the future"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'gobernadora'?",
+          "options": [
+            "Mujer que dirige el gobierno de un estado",
+            "Mujer que trabaja en un hospital",
+            "Mujer que enseña en una escuela",
+            "Mujer que vende productos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'mercados' en el contexto financiero?",
+          "options": [
+            "Lugares donde se vende comida",
+            "Lugares donde se compran y venden acciones",
+            "Lugares donde se vende ropa",
+            "Lugares donde se venden libros"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es el 'petróleo'?",
+          "options": [
+            "Un tipo de agua especial",
+            "Un líquido negro para hacer combustible",
+            "Un metal precioso",
+            "Un tipo de comida"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'inteligencia artificial'?",
+          "options": [
+            "Personas muy inteligentes",
+            "Tecnología que permite a las máquinas pensar como humanos",
+            "Un tipo de universidad",
+            "Un método de enseñanza"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué celebra la gobernadora de Alabama?",
+          "options": [
+            "Una fiesta de cumpleaños",
+            "Una victoria en los tribunales",
+            "El fin del año escolar",
+            "Una nueva empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Hasta qué precio llegó el petróleo estadounidense?",
+          "options": [
+            "$50",
+            "$75",
+            "$100",
+            "$125"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos eliminaron las empresas tecnológicas en abril?",
+          "options": [
+            "15,000",
+            "25,000",
+            "33,000",
+            "45,000"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué las empresas tecnológicas eliminaron empleos?",
+          "options": [
+            "Para cerrar las empresas",
+            "Para invertir más en inteligencia artificial",
+            "Para mudarse a otro país",
+            "Para cambiar de negocio"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con los mercados financieros según la historia?",
+          "options": [
+            "Subieron mucho",
+            "Se mantuvieron igual",
+            "Cayeron mucho",
+            "Cerraron temporalmente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de elecciones organizará Alabama?",
+          "options": [
+            "Elecciones presidenciales",
+            "Elecciones especiales",
+            "Elecciones municipales",
+            "Elecciones estudiantiles"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-13T09:52:09.765791"
+    },
+    {
       "date": "2026-05-12",
       "filename": "spanish_lesson_2026-05-12.pdf",
       "path": "pdfs/spanish_lesson_2026-05-12.pdf",
@@ -34658,7 +34880,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-12T09:52:13.053786",
+  "last_updated": "2026-05-13T09:52:09.765812",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
