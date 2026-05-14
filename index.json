@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-14",
+      "filename": "spanish_lesson_2026-05-14.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-14.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Senadores no recibirán salario durante cierres gubernamentales",
+          "headline_en": "Senators will not receive salary during government shutdowns",
+          "body_es": "El Senado de Estados Unidos aprobó una nueva legislación importante. Esta ley dice que los senadores no recibirán su salario durante los cierres gubernamentales. Un cierre gubernamental ocurre cuando el gobierno no tiene dinero para funcionar. Durante estos períodos, muchos empleados del gobierno no pueden trabajar. La nueva regla quiere hacer que los senadores sientan las consecuencias de sus decisiones. Muchos ciudadanos apoyan esta idea porque piensan que es justo. Los senadores normalmente ganan mucho dinero cada año. Ahora, si no resuelven los problemas del presupuesto a tiempo, ellos también perderán dinero. Esta legislación todavía necesita más votos para convertirse en ley oficial.",
+          "body_en": "The United States Senate approved important new legislation. This law says that senators will not receive their salary during government shutdowns. A government shutdown occurs when the government doesn't have money to function. During these periods, many government employees cannot work. The new rule wants to make senators feel the consequences of their decisions. Many citizens support this idea because they think it's fair. Senators normally earn a lot of money each year. Now, if they don't resolve budget problems on time, they will also lose money. This legislation still needs more votes to become official law.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Graduados universitarios enfrentan un mercado laboral muy difícil",
+          "headline_en": "University graduates face a very difficult job market",
+          "body_es": "El mercado laboral en Estados Unidos está muy difícil, especialmente para los graduados universitarios recientes. Muchos jóvenes que terminaron la universidad no pueden encontrar trabajo en su área de estudio. Las empresas piden mucha experiencia, pero los graduados son nuevos en el mundo laboral. También hay mucha competencia porque hay más personas buscando trabajo que empleos disponibles. Los salarios han bajado en muchas industrias. Algunos graduados aceptan trabajos que no requieren título universitario. Otros regresan a vivir con sus padres porque no ganan suficiente dinero. Los expertos dicen que esta situación puede durar varios años más. Es importante que los estudiantes preparen bien sus habilidades antes de graduarse.",
+          "body_en": "The job market in the United States is very difficult, especially for recent university graduates. Many young people who finished university cannot find work in their field of study. Companies ask for a lot of experience, but graduates are new to the working world. There is also a lot of competition because there are more people looking for work than available jobs. Salaries have decreased in many industries. Some graduates accept jobs that don't require a university degree. Others return to live with their parents because they don't earn enough money. Experts say this situation may last several more years. It's important that students prepare their skills well before graduating.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas despiden trabajadores por la inteligencia artificial",
+          "headline_en": "Technology companies lay off workers due to artificial intelligence",
+          "body_es": "Trece empresas tecnológicas importantes, incluyendo Cloudflare y Coinbase, han anunciado despidos relacionados con la inteligencia artificial. Estas empresas están cambiando la forma en que trabajan. La inteligencia artificial puede hacer muchas tareas que antes hacían los empleados humanos. Por esta razón, las empresas necesitan menos trabajadores en algunas áreas. Los despidos afectan a diferentes tipos de empleados, desde programadores hasta personal de servicio al cliente. Algunas empresas dicen que van a entrenar a sus empleados para usar la nueva tecnología. Otras están contratando expertos en inteligencia artificial. Esta tendencia está ocurriendo en todo el mundo tecnológico. Los trabajadores necesitan aprender nuevas habilidades para adaptarse a estos cambios en el futuro.",
+          "body_en": "Thirteen major technology companies, including Cloudflare and Coinbase, have announced layoffs related to artificial intelligence. These companies are changing the way they work. Artificial intelligence can do many tasks that human employees used to do. For this reason, companies need fewer workers in some areas. The layoffs affect different types of employees, from programmers to customer service staff. Some companies say they will train their employees to use the new technology. Others are hiring artificial intelligence experts. This trend is happening throughout the technology world. Workers need to learn new skills to adapt to these changes in the future.",
+          "source": "Business Insider"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "legislación",
+          "syllables": "le-gis-la-CIÓN",
+          "pos": "sustantivo",
+          "context": "El Senado aprobó una legislación para controlar los salarios.",
+          "definition_es": "Conjunto de leyes sobre un tema específico",
+          "definition_en": "Legislation, set of laws on a specific topic"
+        },
+        {
+          "word": "salario",
+          "syllables": "sa-LA-rio",
+          "pos": "sustantivo",
+          "context": "Los senadores no recibirán su salario durante el cierre.",
+          "definition_es": "Dinero que se paga a una persona por su trabajo",
+          "definition_en": "Salary, money paid to a person for their work"
+        },
+        {
+          "word": "graduados",
+          "syllables": "gra-dua-DOS",
+          "pos": "sustantivo",
+          "context": "Los graduados universitarios tienen dificultades para encontrar trabajo.",
+          "definition_es": "Personas que terminaron sus estudios universitarios",
+          "definition_en": "Graduates, people who completed their university studies"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral está muy difícil para los jóvenes.",
+          "definition_es": "Sistema donde las empresas buscan trabajadores",
+          "definition_en": "Job market, system where companies look for workers"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas anunciaron despidos masivos.",
+          "definition_es": "Cuando una empresa termina el trabajo de sus empleados",
+          "definition_en": "Layoffs, when a company ends employment of workers"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando muchas industrias.",
+          "definition_es": "Tecnología que hace que las máquinas piensen como humanos",
+          "definition_en": "Artificial intelligence, technology that makes machines think like humans"
+        },
+        {
+          "word": "cierre gubernamental",
+          "syllables": "CIE-rre gu-ber-na-men-TAL",
+          "pos": "sustantivo",
+          "context": "Durante el cierre gubernamental, muchos servicios se detienen.",
+          "definition_es": "Cuando el gobierno para de funcionar por falta de dinero",
+          "definition_en": "Government shutdown, when government stops functioning due to lack of money"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Trece empresas tecnológicas redujeron su personal este año.",
+          "definition_es": "Organizaciones que hacen negocios para ganar dinero",
+          "definition_en": "Companies, organizations that do business to make money"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'legislación'?",
+          "options": [
+            "Conjunto de leyes sobre un tema",
+            "Dinero que gana una persona",
+            "Lugar donde trabajan los políticos",
+            "Proceso de votar en elecciones"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'graduados'?",
+          "options": [
+            "Personas que buscan trabajo",
+            "Personas que terminaron la universidad",
+            "Empleados de empresas tecnológicas",
+            "Políticos del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'despidos'?",
+          "options": [
+            "Contratar nuevos empleados",
+            "Subir los salarios",
+            "Terminar el trabajo de empleados",
+            "Abrir nuevas oficinas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'cierre gubernamental'?",
+          "options": [
+            "Cuando el gobierno para de funcionar",
+            "Cuando se construyen nuevos edificios",
+            "Cuando hay elecciones",
+            "Cuando los políticos están de vacaciones"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto sobre política, ¿qué pasará con los senadores durante los cierres gubernamentales?",
+          "options": [
+            "Trabajarán desde casa",
+            "No recibirán su salario",
+            "Tendrán más responsabilidades",
+            "Ganarán dinero extra"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué es difícil para los graduados universitarios encontrar trabajo?",
+          "options": [
+            "No estudiaron suficiente",
+            "Las empresas piden mucha experiencia",
+            "No hay universidades buenas",
+            "Solo buscan trabajo en tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántas empresas tecnológicas mencionó el texto sobre inteligencia artificial?",
+          "options": [
+            "Diez empresas",
+            "Doce empresas",
+            "Trece empresas",
+            "Quince empresas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué hacen algunos graduados que no encuentran trabajo en su área?",
+          "options": [
+            "Regresan a la universidad",
+            "Viajan a otros países",
+            "Aceptan trabajos que no requieren título",
+            "Crean sus propias empresas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué las empresas tecnológicas están despidiendo trabajadores?",
+          "options": [
+            "No tienen dinero",
+            "La inteligencia artificial hace sus tareas",
+            "Los empleados no trabajan bien",
+            "Quieren mudarse a otros países"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué necesita la legislación sobre senadores para convertirse en ley oficial?",
+          "options": [
+            "La aprobación del presidente",
+            "Más votos",
+            "Dinero del gobierno",
+            "La opinión de los ciudadanos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-14T09:46:12.354633"
+    },
+    {
       "date": "2026-05-13",
       "filename": "spanish_lesson_2026-05-13.pdf",
       "path": "pdfs/spanish_lesson_2026-05-13.pdf",
@@ -34880,7 +35102,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-13T09:52:09.765812",
+  "last_updated": "2026-05-14T09:46:12.354659",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
