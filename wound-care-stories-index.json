@@ -1,11 +1,122 @@
 {
-  "date": "2026-05-14",
-  "generated_at": "2026-05-14T09:52:19.752844Z",
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T09:57:20.902270Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 566,
-  "new_today": 4,
+  "total_stories": 569,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250515",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nueva terapia acelera la curación de heridas diabéticas crónicas",
+      "headline_en": "New therapy accelerates healing of chronic diabetic wounds",
+      "summary_es": "Un tratamiento innovador dirigido a la mitocondria ayuda a sanar heridas diabéticas más rápidamente. Este descubrimiento puede mejorar la vida de muchos pacientes.",
+      "body_es": "Una nueva terapia mitocondrial acelera la curación de heridas crónicas en pacientes diabéticos. La mitocondria es la parte de la célula que produce energía. Cuando funciona mal, las heridas sanan lentamente. Los investigadores descubrieron que reparar la función mitocondrial mejora la curación. El tratamiento actúa directamente en las células dañadas de la herida. Los estudios muestran que los pacientes se recuperan más rápido con esta terapia. Este avance es importante porque las heridas diabéticas son graves y difíciles de tratar. La nueva terapia puede prevenir complicaciones serias y mejorar los resultados. Los investigadores continúan estudiando cómo aplicar este tratamiento en la práctica clínica.",
+      "body_en": "A new mitochondrial therapy accelerates healing of chronic wounds in diabetic patients. The mitochondrion is the part of the cell that produces energy. When it malfunctions, wounds heal slowly. Researchers discovered that repairing mitochondrial function improves healing. The treatment acts directly on damaged cells in the wound. Studies show that patients recover faster with this therapy. This breakthrough is important because diabetic wounds are serious and difficult to treat. The new therapy can prevent serious complications and improve outcomes. Researchers continue studying how to apply this treatment in clinical practice.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXpWV1dwZkdHMHBnblFwZTdpR2FZMjVKekc2dkZ3RTZqbDNzOWhCcFdQd2ctWXl3bW9vMU5DeG1OR0ZseXJOLURxT2tOSDRMTHFaZ3dMSWhOVVJBak41WmoxOEZnV0gwdmU2TE5Ob19mSDdsakhPWUdTZGhxeE9CSkZpMWVGLU93cndMRGFJRnAxZFdCd2FoVDRXWlpjMzkzYzhSSTNUVUxUYmlCLWdwMDQxcGhMTEhhSnlOVGFDVnJmTFE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-15/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza después de varias semanas",
+          "definition_en": "chronic wound - injury that does not heal after several weeks"
+        },
+        {
+          "word": "mitocondria",
+          "definition_es": "estructura celular que produce energía para las células",
+          "definition_en": "mitochondrion - cellular structure that produces energy for cells"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso natural de reparación y cicatrización de la herida",
+          "definition_en": "healing - natural process of wound repair and scarring"
+        },
+        {
+          "word": "terapia",
+          "definition_es": "tratamiento médico para curar o mejorar una enfermedad",
+          "definition_en": "therapy - medical treatment to cure or improve a disease"
+        }
+      ],
+      "added_at": "2026-05-15T09:57:20.902270Z"
+    },
+    {
+      "id": "diabetic-foot-20250515",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "blue",
+      "headline_es": "Parche inteligente monitorea heridas del pie diabético en tiempo real",
+      "headline_en": "Smart patch monitors diabetic foot wounds in real time",
+      "summary_es": "Un apósito diagnóstico innovador puede detectar infecciones y problemas en heridas del pie diabético antes de que se compliquen. Esta tecnología podría prevenir amputaciones.",
+      "body_es": "Un nuevo apósito inteligente permite monitorear heridas del pie diabético continuamente. El parche diagnóstico detecta signos de infección y complicaciones en tiempo real. Los sensores integrados en el vendaje miden cambios en la herida sin removerlo. El dispositivo puede identificar bacterias y señales de necrosis antes de que progresen. Los pacientes pueden usar el parche durante sus actividades diarias normales. Los investigadores afirman que esta tecnología podría prevenir amputaciones innecesarias. El parche transmite información a través de una aplicación móvil al profesional de salud. Los estudios en Corea demuestran resultados positivos en la detección temprana de complicaciones. Esta innovación mejora la evaluación clínica y permite intervenciones rápidas. El desarrollo continúa para hacer la tecnología más accesible a los pacientes.",
+      "body_en": "A new smart dressing allows continuous monitoring of diabetic foot wounds. The diagnostic patch detects signs of infection and complications in real time. Integrated sensors in the bandage measure changes in the wound without removing it. The device can identify bacteria and signs of necrosis before they progress. Patients can wear the patch during their normal daily activities. Researchers state that this technology could prevent unnecessary amputations. The patch transmits information through a mobile application to the healthcare professional. Studies in Korea demonstrate positive results in early detection of complications. This innovation improves clinical assessment and allows rapid interventions. Development continues to make the technology more accessible to patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmsyMXFhTFFkRmNqYXhXY1VWZE4tX0w5RloxMHhOZXZyOWh4QU5fRXJKUVRpVGFOOVZhOVRzSlhjemRRRVJxdDluSEszZ1g4X0ZpVTlpOFlwNkR6dDRzNkVPU24yUENlaHlzaHR1QTE1cnlYb2JRelZsbTFPSHZRUjNueXpaUlU?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-15/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material o vendaje que se aplica directamente en la herida",
+          "definition_en": "dressing - material or bandage applied directly to the wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de bacterias u organismos patógenos en una herida",
+          "definition_en": "infection - invasion of bacteria or pathogens in a wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de células o tejido vivo en el cuerpo",
+          "definition_en": "necrosis - death of living cells or tissue in the body"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        }
+      ],
+      "added_at": "2026-05-15T09:57:20.902270Z"
+    },
+    {
+      "id": "surgical-wounds-20250515",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "La contaminación del aire afecta la recuperación después de la cirugía",
+      "headline_en": "Air pollution affects recovery after surgery",
+      "summary_es": "La calidad del aire ambiente influye significativamente en los resultados quirúrgicos y la cicatrización de heridas post-operatorias. Mayor contaminación se asocia con complicaciones.",
+      "body_es": "La investigación indica que la contaminación del aire externo afecta negativamente la recuperación quirúrgica. Los pacientes expuestos a mayor contaminación atmosférica presentan peor cicatrización de heridas. La calidad del aire influye en la inflamación y respuesta inmunológica post-operatoria. Los investigadores analizaron datos de múltiples pacientes sometidos a cirugía en diferentes condiciones ambientales. Aquellos expuestos a altos niveles de contaminación mostraron tasas más altas de complicaciones. La herida quirúrgica requiere oxígeno y condiciones óptimas para una epitelización adecuada. La contaminación disminuye el aporte de oxígeno en los tejidos dañados. El estudio sugiere que los pacientes deben recibir seguimiento más riguroso en áreas con mala calidad del aire. Los profesionales de salud pueden recomendar medidas ambientales para optimizar la recuperación. Este descubrimiento tiene implicaciones importantes para la planificación de cuidados post-operatorios.",
+      "body_en": "Research indicates that outdoor air pollution negatively affects surgical recovery. Patients exposed to higher air pollution show worse wound healing. Air quality influences post-operative inflammation and immune response. Researchers analyzed data from multiple patients undergoing surgery under different environmental conditions. Those exposed to high pollution levels showed higher complication rates. The surgical wound requires oxygen and optimal conditions for proper epithelialization. Pollution reduces oxygen supply to damaged tissues. The study suggests that patients should receive stricter follow-up in areas with poor air quality. Healthcare professionals can recommend environmental measures to optimize recovery. This discovery has important implications for post-operative care planning.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhZFdFTUs3TWFmTWMwZ043VGd5N09adVc1Q3pzeHBtbTJrSm5EQTBzaWUzZHNZMWlWTUdMSi05aFhRQms2NHdJR0JXSkE4c1oxVTg0TGxLWU1rOTRBdlNMX0xfYXNYZDMxdlUyNFY2R1hiMWwwUjREOWx3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-15/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión provocada deliberadamente durante una operación médica para acceder a estructuras internas",
+          "definition_en": "surgical wound - injury deliberately made during a medical operation to access internal structures"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico donde la herida se cierra y forma tejido nuevo",
+          "definition_en": "scarring - biological process where the wound closes and new tissue forms"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de regeneración del epitelio sobre una herida",
+          "definition_en": "epithelialization - process of epithelial regeneration over a wound"
+        },
+        {
+          "word": "complicación",
+          "definition_es": "problema o consecuencia adversa que surge durante o después del tratamiento",
+          "definition_en": "complication - adverse problem or consequence that arises during or after treatment"
+        }
+      ],
+      "added_at": "2026-05-15T09:57:20.902270Z"
+    },
     {
       "id": "chronic-wounds-20250514",
       "category": "Chronic Wounds",
@@ -20943,6 +21054,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-14T09:52:19.752844Z",
+  "last_updated": "2026-05-15T09:57:20.902270Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
