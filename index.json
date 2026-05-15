@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-15",
+      "filename": "spanish_lesson_2026-05-15.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-15.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Senadores deciden no recibir salario durante cierres del gobierno",
+          "headline_en": "Senators decide not to receive salary during government shutdowns",
+          "body_es": "Los senadores de Estados Unidos tomaron una decisión importante. Votaron para no recibir su salario cuando el gobierno cierra sus operaciones. Esta nueva regla será para el futuro. Cuando el gobierno no tiene dinero para funcionar, debe cerrar temporalmente. Durante estos cierres, muchos empleados del gobierno no pueden trabajar. Los senadores creen que es justo no recibir dinero si otros empleados tampoco lo reciben. Esta decisión muestra que los políticos quieren ser más responsables. Algunos ciudadanos están contentos con esta nueva regla. Piensan que los senadores deben sentir las mismas consecuencias que otros trabajadores del gobierno.",
+          "body_en": "United States senators made an important decision. They voted not to receive their salary when the government shuts down its operations. This new rule will be for the future. When the government doesn't have money to function, it must close temporarily. During these shutdowns, many government employees cannot work. Senators believe it's fair not to receive money if other employees don't receive it either. This decision shows that politicians want to be more responsible. Some citizens are happy with this new rule. They think senators should feel the same consequences as other government workers.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estadounidenses pagan más por gasolina y compran menos productos",
+          "headline_en": "Americans pay more for gasoline and buy fewer products",
+          "body_es": "Los precios de la gasolina están subiendo en Estados Unidos. Las familias estadounidenses deben pagar más dinero cuando llenan sus automóviles. Esta situación está cambiando los hábitos de compra de las personas. Muchas familias están recortando sus gastos en otros productos. Compran menos ropa, comida especial y productos para el hogar. Los expertos en economía dicen que esto es normal cuando los precios suben. Las personas necesitan elegir cómo gastar su dinero limitado. Primero pagan por cosas necesarias como gasolina para ir al trabajo. Después compran otras cosas si tienen dinero extra. Esta situación afecta a tiendas y restaurantes porque venden menos productos.",
+          "body_en": "Gasoline prices are rising in the United States. American families must pay more money when they fill their cars. This situation is changing people's buying habits. Many families are cutting their spending on other products. They buy less clothing, special food, and household products. Economics experts say this is normal when prices rise. People need to choose how to spend their limited money. First they pay for necessary things like gasoline to go to work. Then they buy other things if they have extra money. This situation affects stores and restaurants because they sell fewer products.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Pequeñas empresas usan inteligencia artificial para reemplazar empleados",
+          "headline_en": "Small businesses use artificial intelligence to replace employees",
+          "body_es": "Las pequeñas empresas en Estados Unidos están comenzando a usar inteligencia artificial. Esta nueva tecnología puede hacer trabajos que antes hacían los empleados humanos. Algunas empresas usan robots para contestar el teléfono y hablar con clientes. Otras usan computadoras inteligentes para hacer cálculos y organizar información. Los dueños de empresas dicen que la tecnología es más barata que pagar salarios. También funciona las 24 horas del día sin descanso. Sin embargo, muchos trabajadores están preocupados. Temen perder sus empleos por causa de las máquinas. Los expertos dicen que esta tendencia continuará en el futuro. Es importante que los trabajadores aprendan nuevas habilidades tecnológicas.",
+          "body_en": "Small businesses in the United States are starting to use artificial intelligence. This new technology can do jobs that human employees used to do. Some businesses use robots to answer the phone and talk to customers. Others use smart computers to do calculations and organize information. Business owners say technology is cheaper than paying salaries. It also works 24 hours a day without rest. However, many workers are worried. They fear losing their jobs because of machines. Experts say this trend will continue in the future. It's important for workers to learn new technological skills.",
+          "source": "Time Magazine"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "senadores",
+          "syllables": "se-na-DO-res",
+          "pos": "sustantivo",
+          "context": "Los senadores votan para no recibir dinero durante los cierres del gobierno.",
+          "definition_es": "Personas elegidas para trabajar en el Senado del gobierno",
+          "definition_en": "People elected to work in the government Senate"
+        },
+        {
+          "word": "salario",
+          "syllables": "sa-LA-rio",
+          "pos": "sustantivo",
+          "context": "Los políticos no quieren recibir su salario cuando el gobierno cierra.",
+          "definition_es": "Dinero que una persona recibe por su trabajo",
+          "definition_en": "Money that a person receives for their work"
+        },
+        {
+          "word": "gasolina",
+          "syllables": "ga-so-LI-na",
+          "pos": "sustantivo",
+          "context": "Los precios de la gasolina están subiendo en Estados Unidos.",
+          "definition_es": "Combustible líquido para los automóviles",
+          "definition_en": "Liquid fuel for cars"
+        },
+        {
+          "word": "recortar",
+          "syllables": "re-cor-TAR",
+          "pos": "verbo",
+          "context": "Las familias necesitan recortar sus gastos cuando los precios suben.",
+          "definition_es": "Reducir o hacer algo más pequeño",
+          "definition_en": "To reduce or make something smaller"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las pequeñas empresas están usando inteligencia artificial.",
+          "definition_es": "Organizaciones que hacen negocios y venden productos o servicios",
+          "definition_en": "Organizations that do business and sell products or services"
+        },
+        {
+          "word": "reemplazar",
+          "syllables": "re-em-pla-SAR",
+          "pos": "verbo",
+          "context": "Algunas empresas quieren reemplazar trabajadores con tecnología.",
+          "definition_es": "Poner algo nuevo en el lugar de otra cosa",
+          "definition_en": "To put something new in place of something else"
+        },
+        {
+          "word": "trabajadores",
+          "syllables": "tra-ba-ja-DO-res",
+          "pos": "sustantivo",
+          "context": "Los trabajadores están preocupados por la inteligencia artificial.",
+          "definition_es": "Personas que hacen trabajos para ganar dinero",
+          "definition_en": "People who do jobs to earn money"
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno puede durar varios días.",
+          "definition_es": "Acción de cerrar o parar algo temporalmente",
+          "definition_en": "Action of closing or stopping something temporarily"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'salario'?",
+          "options": [
+            "Dinero que recibe una persona por trabajar",
+            "Un tipo de comida",
+            "Una máquina grande",
+            "Un edificio del gobierno"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'reemplazar'?",
+          "options": [
+            "Comprar algo nuevo",
+            "Poner algo nuevo en lugar de otra cosa",
+            "Vender productos",
+            "Estudiar mucho"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'senadores'?",
+          "options": [
+            "Trabajadores de fábricas",
+            "Estudiantes de universidad",
+            "Personas elegidas para trabajar en el gobierno",
+            "Vendedores de gasolina"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'recortar gastos'?",
+          "options": [
+            "Gastar más dinero",
+            "Reducir la cantidad de dinero que se gasta",
+            "Trabajar más horas",
+            "Comprar gasolina"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿cuándo no recibirán salario los senadores?",
+          "options": [
+            "Cuando están de vacaciones",
+            "Durante los cierres del gobierno",
+            "Los fines de semana",
+            "En diciembre"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué las familias estadounidenses compran menos productos?",
+          "options": [
+            "No les gusta comprar",
+            "Los precios de gasolina están subiendo",
+            "Las tiendas están cerradas",
+            "Es invierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué usan algunas empresas para contestar el teléfono?",
+          "options": [
+            "Estudiantes",
+            "Robots",
+            "Sus familias",
+            "Voluntarios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué los dueños de empresas prefieren la inteligencia artificial?",
+          "options": [
+            "Es más divertida",
+            "Es más barata que pagar salarios",
+            "Es más difícil",
+            "Es más lenta"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Quiénes están preocupados por la inteligencia artificial?",
+          "options": [
+            "Los robots",
+            "Los trabajadores",
+            "Las computadoras",
+            "Los edificios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué deben hacer los trabajadores según los expertos?",
+          "options": [
+            "Dejar de trabajar",
+            "Aprender nuevas habilidades tecnológicas",
+            "Comprar más gasolina",
+            "Votar por senadores"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-15T09:53:19.218986"
+    },
+    {
       "date": "2026-05-14",
       "filename": "spanish_lesson_2026-05-14.pdf",
       "path": "pdfs/spanish_lesson_2026-05-14.pdf",
@@ -35102,7 +35324,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-14T09:46:12.354659",
+  "last_updated": "2026-05-15T09:53:19.219009",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
