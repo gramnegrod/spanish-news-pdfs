@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-16",
+      "filename": "spanish_lesson_2026-05-16.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-16.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Senadores no recibirán salario durante cierres del gobierno",
+          "headline_en": "Senators will not receive salary during government shutdowns",
+          "body_es": "Los senadores de Estados Unidos aprobaron una nueva medida importante. Esta ley dice que los políticos no recibirán su salario durante los cierres del gobierno. Un cierre del gobierno pasa cuando los políticos no pueden ponerse de acuerdo sobre el dinero público. Durante estos períodos, muchos trabajadores del gobierno no pueden trabajar. Los senadores piensan que esta medida es justa. Si el gobierno no funciona bien, los políticos tampoco deben recibir dinero. La medida quiere motivar a los senadores a solucionar los problemas más rápido. Muchos ciudadanos apoyan esta decisión porque piensan que es correcta.",
+          "body_en": "US senators approved an important new measure. This law says that politicians will not receive their salary during government shutdowns. A government shutdown happens when politicians cannot agree on public money. During these periods, many government workers cannot work. Senators think this measure is fair. If the government doesn't work well, politicians should not receive money either. The measure wants to motivate senators to solve problems faster. Many citizens support this decision because they think it is correct.",
+          "source": "Scripps News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Mercados mundiales bajan por preocupaciones sobre el petróleo",
+          "headline_en": "World markets drop due to oil concerns",
+          "body_es": "Los mercados financieros de todo el mundo bajaron esta semana. Los números cayeron desde sus récords más altos. La razón principal son los problemas con los precios del petróleo. Los inversionistas están preocupados por el futuro de la economía. Cuando el petróleo cuesta más dinero, muchos productos también se vuelven más caros. Esto afecta a las empresas y a las personas normales. Los mercados de bonos también mostraron problemas. Los expertos dicen que la situación puede cambiar pronto. Sin embargo, muchas personas están nerviosas sobre sus inversiones. Los precios del petróleo dependen de muchos factores internacionales.",
+          "body_en": "Financial markets around the world dropped this week. The numbers fell from their highest records. The main reason is problems with oil prices. Investors are worried about the economy's future. When oil costs more money, many products also become more expensive. This affects companies and normal people. Bond markets also showed problems. Experts say the situation may change soon. However, many people are nervous about their investments. Oil prices depend on many international factors.",
+          "source": "Santa Maria Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "OpenAI compra empresa que clona voces con inteligencia artificial",
+          "headline_en": "OpenAI buys company that clones voices with artificial intelligence",
+          "body_es": "OpenAI, la empresa famosa por ChatGPT, compró una nueva compañía tecnológica. Esta empresa hace herramientas especiales de inteligencia artificial para clonar voces humanas. La tecnología puede copiar exactamente cómo habla una persona. Solo necesita escuchar algunos minutos de audio. Después puede crear nuevas palabras con esa misma voz. Esta tecnología es muy avanzada pero también preocupante. Algunas personas pueden usar estas herramientas para engañar a otros. OpenAI dice que va a usar la tecnología de manera responsable. La empresa quiere mejorar sus productos de inteligencia artificial. Sin embargo, muchos expertos piden más control sobre esta tecnología.",
+          "body_en": "OpenAI, the company famous for ChatGPT, bought a new technology company. This company makes special artificial intelligence tools to clone human voices. The technology can copy exactly how a person speaks. It only needs to listen to a few minutes of audio. Then it can create new words with that same voice. This technology is very advanced but also concerning. Some people might use these tools to deceive others. OpenAI says it will use the technology responsibly. The company wants to improve its artificial intelligence products. However, many experts ask for more control over this technology.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "senadores",
+          "syllables": "se-na-DO-res",
+          "pos": "sustantivo",
+          "context": "Los senadores aprueban una medida para no recibir dinero durante los cierres del gobierno.",
+          "definition_es": "Personas elegidas que trabajan en el Senado del gobierno",
+          "definition_en": "Senators, elected officials who work in the Senate"
+        },
+        {
+          "word": "salario",
+          "syllables": "sa-LA-rio",
+          "pos": "sustantivo",
+          "context": "Los políticos no recibirán su salario durante los problemas del gobierno.",
+          "definition_es": "Dinero que una persona recibe por su trabajo",
+          "definition_en": "Salary, money received for work"
+        },
+        {
+          "word": "mercados",
+          "syllables": "mer-CA-dos",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros mundiales bajaron por problemas con el petróleo.",
+          "definition_es": "Lugares donde se compran y venden productos o acciones",
+          "definition_en": "Markets, places where products or stocks are bought and sold"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo causan preocupación en los mercados.",
+          "definition_es": "Líquido negro que se usa para hacer gasolina y energía",
+          "definition_en": "Oil, black liquid used to make gasoline and energy"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "OpenAI compró una empresa que hace herramientas de inteligencia artificial.",
+          "definition_es": "Organización que vende productos o servicios",
+          "definition_en": "Company, organization that sells products or services"
+        },
+        {
+          "word": "herramientas",
+          "syllables": "he-rra-MIEN-tas",
+          "pos": "sustantivo",
+          "context": "La empresa vendía herramientas para copiar voces humanas.",
+          "definition_es": "Objetos o programas que ayudan a hacer un trabajo",
+          "definition_en": "Tools, objects or programs that help do work"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "Los senadores decidieron aprobar la nueva ley sobre salarios.",
+          "definition_es": "Decidir que algo es bueno y aceptarlo oficialmente",
+          "definition_en": "To approve, to decide something is good and accept it officially"
+        },
+        {
+          "word": "clonar",
+          "syllables": "clo-NAR",
+          "pos": "verbo",
+          "context": "La tecnología permite clonar voces de personas famosas.",
+          "definition_es": "Hacer una copia exacta de algo",
+          "definition_en": "To clone, to make an exact copy of something"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'senadores'?",
+          "options": [
+            "Personas que venden productos",
+            "Personas elegidas que trabajan en el Senado",
+            "Personas que trabajan en hospitales",
+            "Personas que enseñan en escuelas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'clonar'?",
+          "options": [
+            "Vender algo caro",
+            "Hacer una copia exacta",
+            "Romper algo",
+            "Comprar una empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son 'herramientas'?",
+          "options": [
+            "Animales domésticos",
+            "Objetos que ayudan a hacer trabajo",
+            "Tipos de comida",
+            "Lugares para vivir"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'aprobar'?",
+          "options": [
+            "Rechazar algo",
+            "Decidir que algo es bueno y aceptarlo",
+            "Vender productos",
+            "Estudiar mucho"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la primera historia, ¿qué pasa con el salario de los senadores durante los cierres del gobierno?",
+          "options": [
+            "Reciben más dinero",
+            "No reciben salario",
+            "Reciben la mitad del salario",
+            "Reciben el salario después"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué bajaron los mercados financieros según la segunda historia?",
+          "options": [
+            "Por problemas con el petróleo",
+            "Por el mal tiempo",
+            "Por nuevas leyes",
+            "Por la tecnología"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa compró OpenAI según la tercera historia?",
+          "options": [
+            "Una empresa de comida",
+            "Una empresa que clona voces",
+            "Una empresa de carros",
+            "Una empresa de ropa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué necesita la tecnología de clonación de voces para funcionar?",
+          "options": [
+            "Muchas horas de video",
+            "Solo algunos minutos de audio",
+            "Fotos de la persona",
+            "Textos escritos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué los senadores aprobaron la medida sobre los salarios?",
+          "options": [
+            "Para ganar más dinero",
+            "Para motivar soluciones más rápidas",
+            "Para trabajar menos",
+            "Para cambiar de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué preocupación existe sobre la tecnología de clonación de voces?",
+          "options": [
+            "Es muy cara",
+            "Puede usarse para engañar a otros",
+            "Es muy lenta",
+            "Solo funciona en inglés"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-16T09:30:24.321861"
+    },
+    {
       "date": "2026-05-15",
       "filename": "spanish_lesson_2026-05-15.pdf",
       "path": "pdfs/spanish_lesson_2026-05-15.pdf",
@@ -35324,7 +35546,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-15T09:53:19.219009",
+  "last_updated": "2026-05-16T09:30:24.321891",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
