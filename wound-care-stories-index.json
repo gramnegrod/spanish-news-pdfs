@@ -1,11 +1,196 @@
 {
-  "date": "2026-05-16",
-  "generated_at": "2026-05-16T09:35:52.756790Z",
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:38:15.328492Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 573,
-  "new_today": 4,
+  "total_stories": 578,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250517",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Gel VES: Un nuevo tratamiento para las úlceras del pie diabético",
+      "headline_en": "VES Gel: A new treatment for diabetic foot ulcers",
+      "summary_es": "La empresa Flen Health Pharma recibió comentarios positivos de la FDA sobre un gel nuevo llamado VES. Este gel ayuda a curar las úlceras del pie en pacientes diabéticos.",
+      "body_es": "Las úlceras del pie diabético son heridas graves. Los pacientes con diabetes tienen problemas para curar estas heridas. Flen Health Pharma desarrolló un gel nuevo llamado VES Gel. La FDA dio comentarios positivos sobre este tratamiento. El gel VES ayuda a acelerar la curación. Los médicos usan este gel en el vendaje de las heridas. El tratamiento es importante porque previene infecciones. Las infecciones pueden causar amputación. Este gel nuevo es una opción moderna para los pacientes diabéticos. Los profesionales sanitarios esperan usar este tratamiento pronto en los hospitales.",
+      "body_en": "Diabetic foot ulcers are serious wounds. Patients with diabetes have problems healing these wounds. Flen Health Pharma developed a new gel called VES Gel. The FDA gave positive feedback about this treatment. VES gel helps accelerate healing. Doctors use this gel in wound dressings. The treatment is important because it prevents infections. Infections can cause amputation. This new gel is a modern option for diabetic patients. Healthcare professionals look forward to using this treatment soon in hospitals.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTC1HUkR2T0ZJeXdmVkxSWWJmMGdSTVV2SkFPcmN1b2c1cVZhNHBUc2NaU3pOWFhyaWlCSmFDUWxHV0s1QlhDaWRRYlRQdms3QW1BN1dBSUZ2bVV4OE9IS01laHJPaHRzN2ZWLWo1NzdzTzZKU0RsSTc3RFA1aTVZcTBCVHBROXlMc1Q2NmVtVVRacVQ3aVhIeVN2S3VyN1ZEdXJmNnlrSi1fblEtUllvOExGRTY0YmNxSkJzbW04Wm5meXhTUzRHNjBzOWpnS2pZa2o5TmRGN3VpNUROemc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-17/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza",
+          "definition_en": "ulcer - open wound on skin that does not heal"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of recovering from a wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "entrada de gérmenes en una herida",
+          "definition_en": "infection - entry of germs into a wound"
+        }
+      ],
+      "added_at": "2026-05-17T09:38:15.328492Z"
+    },
+    {
+      "id": "diabetic-foot-20250517",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "blue",
+      "headline_es": "Parche inteligente monitorea heridas del pie diabético para prevenir amputaciones",
+      "headline_en": "Smart patch monitors diabetic foot wounds to prevent amputations",
+      "summary_es": "Investigadores en Corea desarrollaron un parche inteligente que monitorea las heridas del pie diabético. Este dispositivo puede prevenir amputaciones mediante la detección temprana de complicaciones.",
+      "body_es": "La amputación es una complicación grave de la diabetes. Cuando la diabetes avanza, los pacientes sufren daño en los nervios periféricos. Esto reduce la capacidad de sentir heridas en los pies. Los científicos coreanos desarrollaron un parche inteligente que revoluciona el cuidado de heridas. El parche contiene sensores que monitorean continuamente la herida. Estos sensores miden la humedad, la temperatura y otros parámetros importantes. El dispositivo envía información a través de una aplicación móvil. Los enfermeros y médicos reciben alertas si detectan problemas. La detección temprana de infecciones evita complicaciones graves. Este parche inteligente representa un avance importante en la medicina preventiva para diabéticos.",
+      "body_en": "Amputation is a serious complication of diabetes. When diabetes advances, patients suffer damage to peripheral nerves. This reduces the ability to feel wounds on the feet. Korean scientists developed a smart patch that revolutionizes wound care. The patch contains sensors that continuously monitor the wound. These sensors measure humidity, temperature, and other important parameters. The device sends information through a mobile application. Nurses and doctors receive alerts if they detect problems. Early detection of infections prevents serious complications. This smart patch represents an important advancement in preventive medicine for diabetics.",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZjJ4RGRfLTJtOHU5RVBvUm95N0Y4VEFJMU00TVk0Mi14N3hKaFI5clJITDdxRV9NUXJaNFhRMVM5V1RNb0ZHT3V6RW5NVWg3TmpJaVFrRkpFUDJBTktNYi1NaVhyc0tBYktrUE9FZDRscnE0MHg4Q2h1TllVQkh2ddIBlAFBVV95cUxPQURCRTRHckltN25TWEV0RTV3V0c0Z3NSOTJSNV9iS1VkaDZVTHY4OFRkLTV6dmxhSnJoOWFwbldEeWtVYzhPNnpEOE41aUJURXYwWWljOGpObEx6ZFVYcDFpbkxUSnE1WnZtNHFEc2pqNDRreUh0M284bktOV1hQWEdUSHF2MHlsTzlzOFdqVTY0VF9G?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-17/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "monitorear",
+          "definition_es": "observar y controlar continuamente el estado de algo",
+          "definition_en": "to monitor - to observe and continuously check the status of something"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        },
+        {
+          "word": "sensor",
+          "definition_es": "dispositivo que detecta cambios físicos o químicos",
+          "definition_en": "sensor - device that detects physical or chemical changes"
+        },
+        {
+          "word": "infección",
+          "definition_es": "enfermedad causada por gérmenes que invaden el cuerpo",
+          "definition_en": "infection - disease caused by germs invading the body"
+        }
+      ],
+      "added_at": "2026-05-17T09:38:15.328492Z"
+    },
+    {
+      "id": "burn-care-20250517",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Cómo un incendio transformó el tratamiento de quemaduras en Bradford",
+      "headline_en": "How Bradford City fire transformed burns treatment",
+      "summary_es": "Un incendio histórico en Bradford cambió para siempre la forma en que los médicos tratan las quemaduras graves. Este evento lanzó innovaciones que salvaron muchas vidas.",
+      "body_es": "El incendio de Bradford fue una tragedia que ocurrió en el estadio de la ciudad. Muchas personas sufrieron quemaduras graves en el desastre. Los médicos de Bradford enfrentaron una crisis sin precedentes. Este evento catastrófico impulsó cambios revolucionarios en la medicina de quemaduras. Los hospitales mejoraron sus protocolos de tratamiento de quemaduras. Desarrollaron nuevas técnicas para curar heridas y prevenir infecciones. Los profesionales sanitarios aprendieron a manejar múltiples pacientes graves simultáneamente. La experiencia condujo a mejoras en los vendajes y apósitos especializados. Los tratamientos para cicatrices también avanzaron significativamente. Hoy, los médicos en todo el mundo utilizan métodos que surgieron de las lecciones de Bradford. El incendio dejó un legado positivo en la medicina de quemaduras internacionalmente.",
+      "body_en": "The Bradford fire was a tragedy that occurred at the city's stadium. Many people suffered severe burns in the disaster. Bradford doctors faced an unprecedented crisis. This catastrophic event drove revolutionary changes in burn medicine. Hospitals improved their burn treatment protocols. They developed new techniques to heal wounds and prevent infections. Healthcare professionals learned to manage multiple severely injured patients simultaneously. The experience led to improvements in specialized dressings and wound care products. Scar treatment also advanced significantly. Today, doctors worldwide use methods that emerged from Bradford's lessons. The fire left a positive legacy in international burn medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oNUZ5RzFxMXlVaVRxclJfakVIVFpPMjhzcVRUNGEtSE5aQWJBQThMLWRINzRJNU9wVm1oZlM1cGx1cDRjVFN5a0NEQmZBX2REWUJ4UGRhZUcydw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-17/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material medicado que se aplica directamente sobre la herida",
+          "definition_en": "dressing - medicated material applied directly to the wound"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de la curación de una herida",
+          "definition_en": "scar - mark that remains after a wound heals"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación del tejido dañado o muerto de una herida",
+          "definition_en": "debridement - removal of damaged or dead tissue from a wound"
+        }
+      ],
+      "added_at": "2026-05-17T09:38:15.328492Z"
+    },
+    {
+      "id": "surgical-wounds-20250517",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "purple",
+      "headline_es": "Estrategias preventivas mejoran los resultados después de la cirugía",
+      "headline_en": "Prevention strategies improve post-surgical outcomes",
+      "summary_es": "Un nuevo enfoque integral que combina el monitoreo del delirio, la prevención de caídas y la prevención de neumonía mejora significativamente los resultados quirúrgicos.",
+      "body_es": "Después de una cirugía, los pacientes enfrentan varios riesgos complicaciones. El delirio es una confusión mental que aparece tras la anestesia. Las caídas son frecuentes en pacientes débiles durante la recuperación. La neumonía puede desarrollarse si los pulmones no se limpian adecuadamente. Los hospitales implementaron un protocolo integral de prevención. Primero, el personal mediano realiza evaluaciones regulares del delirio en todos los pacientes. Segundo, implementan medidas específicas para prevenir caídas durante la deambulación. Tercero, promueven técnicas de respiración profunda y cambios de posición frecuentes. Este enfoque multidisciplinario reduce las complicaciones postoperatorias significativamente. Los datos muestran que la mortalidad disminuye cuando se aplican estas estrategias preventivas. La prevención es más efectiva que el tratamiento de las complicaciones después de que ocurren.",
+      "body_en": "After surgery, patients face multiple risks of complications. Delirium is mental confusion that appears after anesthesia. Falls are frequent in weak patients during recovery. Pneumonia can develop if lungs are not cleaned properly. Hospitals implemented a comprehensive prevention protocol. First, nursing staff conduct regular delirium assessments in all patients. Second, they implement specific measures to prevent falls during ambulation. Third, they promote deep breathing techniques and frequent position changes. This multidisciplinary approach significantly reduces postoperative complications. Data shows that mortality decreases when these preventive strategies are applied. Prevention is more effective than treating complications after they occur.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQk5mN2ozcWsyX1F4akVnNWdWcHlnczAtckdHOTh5RUlXSVk4V25kTGlFYWhhR0x5T2ViY3VQTlU0QlczQmVNM05wQmhCdTItTXVPWnI4S1oyUXRTc3RMZWlPcmtxV0hpelBuOVR0TXZUU2M1T0RicDlCSHlJQldaTkM2eVBqc0hsd1dfenBrZUM4aE03cWlZQ2pmaGNpdGtRZlBRV1cxSHo1cnFNSGtwMDBjMXQ4ZVdkSHg5cEZfUGdhUkIxaWVsb2tjTnJKVDh3Um9KTWRqaEQ0a1c1VUhES0RXbGY1ME5BSjVkMUNkWHQ4NDRi?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-17/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "delirio",
+          "definition_es": "confusión mental y desorientación temporal",
+          "definition_en": "delirium - mental confusion and temporary disorientation"
+        },
+        {
+          "word": "neumonía",
+          "definition_es": "inflamación de los pulmones causada por infección",
+          "definition_en": "pneumonia - inflammation of the lungs caused by infection"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo quirúrgico que cierra una herida después de la operación",
+          "definition_en": "suture - surgical thread that closes a wound after surgery"
+        },
+        {
+          "word": "complicación",
+          "definition_es": "problema o efecto secundario que ocurre después del tratamiento",
+          "definition_en": "complication - problem or side effect that occurs after treatment"
+        }
+      ],
+      "added_at": "2026-05-17T09:38:15.328492Z"
+    },
+    {
+      "id": "wound-research-20250517",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Terapia mitocondrial dirigida acelera la curación de heridas diabéticas crónicas",
+      "headline_en": "Targeted mitochondrial therapy accelerates healing of diabetic chronic wounds",
+      "summary_es": "Una investigación innovadora demuestra que la terapia mitocondrial dirigida puede acelerar significativamente la curación de las úlceras crónicas en pacientes diabéticos.",
+      "body_es": "Las heridas crónicas en pacientes diabéticos son un desafío importante para los profesionales sanitarios. Estas úlceras se curan lentamente porque las células no tienen suficiente energía. Las mitocondrias son las \"fábricas de energía\" de las células. Los investigadores desarrollaron una terapia que mejora la función mitocondrial. Esta terapia dirigida aumenta la producción de energía en las células de la herida. Con más energía, las células pueden reparar tejidos dañados más rápidamente. Los estudios muestran que la epitelización ocurre más rápido con este tratamiento. La prevención de infecciones también mejora porque las células del sistema inmunológico funcionan mejor. Esta investigación promete revolucionar el tratamiento de úlceras diabéticas crónicas. Los médicos esperan aplicar esta terapia en los próximos años para salvar extremidades.",
+      "body_en": "Chronic wounds in diabetic patients are an important challenge for healthcare professionals. These ulcers heal slowly because cells do not have enough energy. Mitochondria are the \"energy factories\" of cells. Researchers developed a therapy that improves mitochondrial function. This targeted therapy increases energy production in wound cells. With more energy, cells can repair damaged tissues more quickly. Studies show that epithelialization occurs faster with this treatment. Infection prevention also improves because immune system cells function better. This research promises to revolutionize the treatment of chronic diabetic ulcers. Doctors expect to apply this therapy in coming years to save limbs.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXpWV1dwZkdHMHBnblFwZTdpR2FZMjVKekc2dkZ3RTZqbDNzOWhCcFdQd2ctWXl3bW9vMU5DeG1OR0ZseXJOLURxT2tOSDRMTHFaZ3dMSWhOVVJBak41WmoxOEZnV0gwdmU2TE5Ob19mSDdsakhPWUdTZGhxeE9CSkZpMWVGLU93cndMRGFJRnAxZFdCd2FoVDRXWlpjMzkzYzhSSTNUVUxUYmlCLWdwMDQxcGhMTEhhSnlOVGFDVnJmTFE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-17/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "mitocondria",
+          "definition_es": "estructura celular que produce energía para la célula",
+          "definition_en": "mitochondrion - cellular structure that produces energy for the cell"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - process of new skin formation over a wound"
+        },
+        {
+          "word": "úlcera crónica",
+          "definition_es": "herida abierta que persiste durante más de tres meses",
+          "definition_en": "chronic ulcer - open wound that persists for more than three months"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "grupo de células similares que forman una estructura del cuerpo",
+          "definition_en": "tissue - group of similar cells that form a body structure"
+        }
+      ],
+      "added_at": "2026-05-17T09:38:15.328492Z"
+    },
     {
       "id": "chronic-wounds-20250516",
       "category": "Chronic Wounds",
@@ -21202,6 +21387,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-16T09:35:52.756790Z",
+  "last_updated": "2026-05-17T09:38:15.328492Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
