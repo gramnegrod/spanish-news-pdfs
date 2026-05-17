@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-17",
+      "filename": "spanish_lesson_2026-05-17.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-17.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "¿Otro cierre del gobierno estadounidense? Los republicanos buscan soluciones",
+          "headline_en": "Another US government shutdown? Republicans seek solutions",
+          "body_es": "El gobierno de Estados Unidos puede cerrar otra vez. Los líderes del Partido Republicano están trabajando para evitar este problema. Un cierre del gobierno significa que muchos servicios públicos no funcionan. Los empleados del gobierno no trabajan y no reciben dinero. Esto afecta a millones de personas en todo el país. Los políticos republicanos tienen ideas nuevas para solucionar la situación. Quieren hacer acuerdos con otros partidos políticos. El tiempo es muy importante porque el cierre puede pasar pronto. Los ciudadanos están preocupados por sus trabajos y servicios. Los líderes deben tomar decisiones rápidas para proteger la economía del país.",
+          "body_en": "The US government may shut down again. Republican Party leaders are working to avoid this problem. A government shutdown means that many public services don't work. Government employees don't work and don't receive money. This affects millions of people across the country. Republican politicians have new ideas to solve the situation. They want to make agreements with other political parties. Time is very important because the shutdown could happen soon. Citizens are worried about their jobs and services. Leaders must make quick decisions to protect the country's economy.",
+          "source": "NOLA.com"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Crisis del petróleo causa daños de 45 mil millones de dólares en la economía",
+          "headline_en": "Oil crisis causes 45 billion dollar damage to the economy",
+          "body_es": "Los precios del petróleo están subiendo muy rápido. Esta situación está causando una ruptura de 45 mil millones de dólares en la economía estadounidense. Cuando el petróleo cuesta más, todo se vuelve más caro. La gasolina para los autos cuesta más dinero. Las empresas también pagan más por el combustible que necesitan. Esto afecta a las familias porque deben pagar más por la comida y otros productos. Los expertos en economía están muy preocupados. Dicen que esta crisis puede durar varios meses. Las compañías están perdiendo mucho dinero. El gobierno está buscando maneras de ayudar a las personas y las empresas durante esta situación difícil.",
+          "body_en": "Oil prices are rising very quickly. This situation is causing a 45 billion dollar rupture in the US economy. When oil costs more, everything becomes more expensive. Gasoline for cars costs more money. Companies also pay more for the fuel they need. This affects families because they must pay more for food and other products. Economics experts are very worried. They say this crisis could last several months. Companies are losing a lot of money. The government is looking for ways to help people and businesses during this difficult situation.",
+          "source": "WSJ"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El desempleo en tecnología sube al 3.8% por despidos relacionados con IA",
+          "headline_en": "Tech unemployment rises to 3.8% due to AI-related layoffs",
+          "body_es": "El desempleo en el sector de tecnología aumentó al 3.8% en abril. Muchas empresas tecnológicas están despidiendo trabajadores. La razón principal es la inteligencia artificial. Las máquinas inteligentes pueden hacer el trabajo que antes hacían las personas. Esto significa que las compañías necesitan menos empleados humanos. Miles de trabajadores perdieron sus trabajos en los últimos meses. Los programadores, diseñadores y otros profesionales están buscando trabajo nuevo. Sin embargo, es difícil encontrar empleo en este momento. Los expertos dicen que los trabajadores necesitan aprender nuevas habilidades. La inteligencia artificial va a cambiar muchos trabajos en el futuro. Las personas deben prepararse para esta nueva realidad tecnológica.",
+          "body_en": "Unemployment in the technology sector increased to 3.8% in April. Many tech companies are laying off workers. The main reason is artificial intelligence. Smart machines can do work that people used to do. This means companies need fewer human employees. Thousands of workers lost their jobs in recent months. Programmers, designers and other professionals are looking for new work. However, it's difficult to find employment right now. Experts say workers need to learn new skills. Artificial intelligence will change many jobs in the future. People must prepare for this new technological reality.",
+          "source": "WSJ"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "Los líderes republicanos quieren evitar otro cierre del gobierno.",
+          "definition_es": "Acción de cerrar o dejar de funcionar temporalmente",
+          "definition_en": "Shutdown; the act of closing or temporarily stopping operations"
+        },
+        {
+          "word": "evitar",
+          "syllables": "e-vi-TAR",
+          "pos": "verbo",
+          "context": "Los políticos buscan evitar problemas económicos.",
+          "definition_es": "Impedir que algo suceda o pase",
+          "definition_en": "To avoid; to prevent something from happening"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo están subiendo rápidamente.",
+          "definition_es": "Líquido natural usado como combustible y energía",
+          "definition_en": "Oil; natural liquid used as fuel and energy"
+        },
+        {
+          "word": "ruptura",
+          "syllables": "rup-TU-ra",
+          "pos": "sustantivo",
+          "context": "La crisis del petróleo causa una ruptura de 45 mil millones en la economía.",
+          "definition_es": "Daño grave o separación violenta de algo",
+          "definition_en": "Rupture; serious damage or violent separation of something"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "de-sem-PLE-o",
+          "pos": "sustantivo",
+          "context": "El desempleo en tecnología aumentó al 3.8% en abril.",
+          "definition_es": "Situación de no tener trabajo",
+          "definition_en": "Unemployment; the state of not having a job"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Los despidos causados por la inteligencia artificial afectan a muchos trabajadores.",
+          "definition_es": "Acción de terminar el trabajo de una persona",
+          "definition_en": "Layoffs; the action of terminating someone's employment"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando el mercado laboral.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence; technology that enables machines to think like humans"
+        },
+        {
+          "word": "líderes",
+          "syllables": "LÍ-de-res",
+          "pos": "sustantivo",
+          "context": "Los líderes del partido republicano tienen un plan nuevo.",
+          "definition_es": "Personas que dirigen o guían a un grupo",
+          "definition_en": "Leaders; people who direct or guide a group"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'evitar'?",
+          "options": [
+            "Impedir que algo suceda",
+            "Hacer que algo pase",
+            "Terminar algo rápidamente",
+            "Comenzar una actividad"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'desempleo'?",
+          "options": [
+            "Tener mucho trabajo",
+            "No tener trabajo",
+            "Trabajar desde casa",
+            "Cambiar de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué causa una 'ruptura' en la economía?",
+          "options": [
+            "Mejoras económicas",
+            "Estabilidad financiera",
+            "Daños graves",
+            "Crecimiento económico"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Los 'líderes' son personas que:",
+          "options": [
+            "Siguen órdenes",
+            "Dirigen grupos",
+            "Trabajan solos",
+            "Estudian mucho"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿quién está trabajando para evitar el cierre del gobierno?",
+          "options": [
+            "Los demócratas",
+            "Los republicanos",
+            "Los ciudadanos",
+            "Los empleados públicos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero en daños está causando la crisis del petróleo?",
+          "options": [
+            "35 mil millones",
+            "45 mil millones",
+            "55 mil millones",
+            "65 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿A qué porcentaje subió el desempleo en tecnología?",
+          "options": [
+            "2.8%",
+            "3.8%",
+            "4.8%",
+            "5.8%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué pasa cuando el gobierno cierra?",
+          "options": [
+            "Los servicios públicos no funcionan",
+            "Todo funciona normal",
+            "Solo cierran las escuelas",
+            "Los precios bajan"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la razón principal de los despidos en tecnología?",
+          "options": [
+            "Crisis económica",
+            "Inteligencia artificial",
+            "Falta de dinero",
+            "Problemas políticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué necesitan hacer los trabajadores según los expertos?",
+          "options": [
+            "Cambiar de carrera",
+            "Aprender nuevas habilidades",
+            "Trabajar más horas",
+            "Mudarse a otro país"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-17T09:31:31.941151"
+    },
+    {
       "date": "2026-05-16",
       "filename": "spanish_lesson_2026-05-16.pdf",
       "path": "pdfs/spanish_lesson_2026-05-16.pdf",
@@ -35546,7 +35768,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-16T09:30:24.321891",
+  "last_updated": "2026-05-17T09:31:31.941181",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
