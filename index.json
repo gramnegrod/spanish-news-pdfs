@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-18",
+      "filename": "spanish_lesson_2026-05-18.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-18.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Agencias del gobierno no dan información para investigación sobre DOGE",
+          "headline_en": "Government agencies don't provide information for DOGE investigation",
+          "body_es": "Las agencias del gobierno de Estados Unidos se niegan a dar registros importantes. Estos documentos son necesarios para una investigación especial. La investigación estudia cómo DOGE obtuvo acceso a datos del gobierno. DOGE es una nueva organización que trabaja con el gobierno. Los investigadores necesitan ver los registros para entender qué pasó. Las agencias dicen que la información es privada. Esta situación crea problemas entre diferentes partes del gobierno. Los ciudadanos quieren saber la verdad sobre el acceso a los datos. El caso continúa y puede tomar más tiempo resolverlo. La transparencia del gobierno es un tema muy importante para la democracia estadounidense.",
+          "body_en": "US government agencies refuse to provide important records. These documents are necessary for a special investigation. The investigation studies how DOGE obtained access to government data. DOGE is a new organization that works with the government. Investigators need to see the records to understand what happened. The agencies say the information is private. This situation creates problems between different parts of the government. Citizens want to know the truth about data access. The case continues and may take more time to resolve. Government transparency is a very important issue for American democracy.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos perdió empleos inesperadamente en febrero",
+          "headline_en": "United States unexpectedly lost jobs in February",
+          "body_es": "El informe oficial de empleo de febrero muestra noticias sorprendentes. Estados Unidos perdió trabajos cuando los expertos esperaban lo contrario. Este resultado es muy diferente a las predicciones económicas. Los economistas pensaban que el país iba a crear más empleos. La pérdida de trabajos afecta a diferentes industrias del país. Las familias americanas pueden tener dificultades económicas por esta situación. El gobierno está estudiando las razones de estos números negativos. Los expertos dicen que puede ser una situación temporal. Sin embargo, es importante vigilar los próximos meses. La economía estadounidense enfrenta nuevos desafíos este año. Los políticos buscan soluciones para mejorar la situación del empleo.",
+          "body_en": "The official February employment report shows surprising news. The United States lost jobs when experts expected the opposite. This result is very different from economic predictions. Economists thought the country would create more jobs. The job losses affect different industries in the country. American families may have economic difficulties because of this situation. The government is studying the reasons for these negative numbers. Experts say it may be a temporary situation. However, it's important to watch the coming months. The US economy faces new challenges this year. Politicians are looking for solutions to improve the employment situation.",
+          "source": "ABC13 Houston"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas demandadas por robar voces para entrenar inteligencia artificial",
+          "headline_en": "Tech companies sued for stealing voices to train artificial intelligence",
+          "body_es": "Grandes empresas de tecnología enfrentan problemas legales importantes. Periodistas y actores de voz las demandaron por usar sus voces sin permiso. Las empresas usaron estas voces para entrenar sus sistemas de inteligencia artificial. Los demandantes dicen que esto es robo de su trabajo. Las voces son la herramienta principal de trabajo para estos profesionales. Las empresas tecnológicas tomaron las voces de programas de radio y televisión. No pidieron permiso a los dueños de las voces. Esta práctica puede cambiar el futuro del trabajo en medios de comunicación. Los abogados buscan compensación económica por el uso ilegal. El caso puede establecer reglas importantes para el uso de inteligencia artificial. La industria tecnológica debe respetar los derechos de los trabajadores.",
+          "body_en": "Major technology companies face important legal problems. Journalists and voice actors sued them for using their voices without permission. The companies used these voices to train their artificial intelligence systems. The plaintiffs say this is theft of their work. Voices are the main work tool for these professionals. Tech companies took voices from radio and television programs. They didn't ask permission from the voice owners. This practice could change the future of work in media. Lawyers seek financial compensation for illegal use. The case may establish important rules for artificial intelligence use. The tech industry must respect workers' rights.",
+          "source": "Capitol City Now"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "agencias",
+          "syllables": "a-GEN-cias",
+          "pos": "sustantivo",
+          "context": "Las agencias del gobierno no quieren dar información sobre la investigación.",
+          "definition_es": "Organizaciones del gobierno que trabajan en diferentes áreas",
+          "definition_en": "Government organizations that work in different areas"
+        },
+        {
+          "word": "registros",
+          "syllables": "re-GIS-tros",
+          "pos": "sustantivo",
+          "context": "Los registros contienen información importante sobre el acceso a los datos.",
+          "definition_es": "Documentos que contienen información oficial",
+          "definition_en": "Documents that contain official information"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "El informe de empleo muestra datos sobre los trabajos en Estados Unidos.",
+          "definition_es": "Trabajo que una persona hace para ganar dinero",
+          "definition_en": "Work that a person does to earn money"
+        },
+        {
+          "word": "inesperadamente",
+          "syllables": "i-nes-pe-ra-da-MEN-te",
+          "pos": "adverbio",
+          "context": "Estados Unidos perdió empleos inesperadamente en febrero.",
+          "definition_es": "De manera que no se esperaba",
+          "definition_en": "In a way that was not expected"
+        },
+        {
+          "word": "demandadas",
+          "syllables": "de-man-DA-das",
+          "pos": "adjetivo",
+          "context": "Las empresas tecnológicas fueron demandadas por usar voces sin permiso.",
+          "definition_es": "Llevadas a los tribunales por problemas legales",
+          "definition_en": "Taken to court for legal problems"
+        },
+        {
+          "word": "entrenar",
+          "syllables": "en-tre-NAR",
+          "pos": "verbo",
+          "context": "Las empresas usaron las voces para entrenar sus sistemas de inteligencia artificial.",
+          "definition_es": "Enseñar o preparar algo o alguien",
+          "definition_en": "To teach or prepare something or someone"
+        },
+        {
+          "word": "investigación",
+          "syllables": "in-ves-ti-ga-CIÓN",
+          "pos": "sustantivo",
+          "context": "La investigación estudia cómo DOGE obtuvo acceso a la información.",
+          "definition_es": "Proceso de buscar información sobre algo",
+          "definition_en": "Process of searching for information about something"
+        },
+        {
+          "word": "actores",
+          "syllables": "ac-TO-res",
+          "pos": "sustantivo",
+          "context": "Los actores de voz trabajan en programas de radio y televisión.",
+          "definition_es": "Personas que trabajan con su voz en medios de comunicación",
+          "definition_en": "People who work with their voice in media"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'agencias'?",
+          "options": [
+            "Empresas privadas",
+            "Organizaciones del gobierno",
+            "Grupos de periodistas",
+            "Sistemas de computadora"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'inesperadamente'?",
+          "options": [
+            "Lentamente",
+            "De forma rápida",
+            "Sin esperarlo",
+            "Con cuidado"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'entrenar' en el contexto de inteligencia artificial?",
+          "options": [
+            "Hacer ejercicio físico",
+            "Enseñar o preparar",
+            "Correr muy rápido",
+            "Competir en deportes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'registros' según el texto?",
+          "options": [
+            "Máquinas de música",
+            "Documentos con información oficial",
+            "Programas de televisión",
+            "Aplicaciones móviles"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué las agencias no quieren dar información sobre DOGE?",
+          "options": [
+            "Porque no tienen la información",
+            "Porque dicen que es privada",
+            "Porque DOGE no existe",
+            "Porque es muy cara"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué esperaban los economistas sobre el empleo en febrero?",
+          "options": [
+            "Que se perdieran empleos",
+            "Que se crearan más empleos",
+            "Que no cambiara nada",
+            "Que bajaran los salarios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Quiénes demandaron a las empresas tecnológicas?",
+          "options": [
+            "Solo periodistas",
+            "Solo actores de voz",
+            "Periodistas y actores de voz",
+            "Solo empresas competidoras"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Para qué usaron las empresas tecnológicas las voces robadas?",
+          "options": [
+            "Para hacer música",
+            "Para entrenar inteligencia artificial",
+            "Para hacer películas",
+            "Para vender productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué puede pasar con la situación del empleo según los expertos?",
+          "options": [
+            "Puede ser permanente",
+            "Puede ser temporal",
+            "Va a empeorar",
+            "No va a cambiar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué buscan los abogados en el caso de las voces robadas?",
+          "options": [
+            "Cerrar las empresas",
+            "Compensación económica",
+            "Cambiar las leyes",
+            "Prohibir la tecnología"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-18T10:25:25.940957"
+    },
+    {
       "date": "2026-05-17",
       "filename": "spanish_lesson_2026-05-17.pdf",
       "path": "pdfs/spanish_lesson_2026-05-17.pdf",
@@ -35768,7 +35990,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-17T09:31:31.941181",
+  "last_updated": "2026-05-18T10:25:25.940984",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
