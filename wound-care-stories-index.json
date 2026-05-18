@@ -1,11 +1,159 @@
 {
-  "date": "2026-05-17",
-  "generated_at": "2026-05-17T09:38:15.328492Z",
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T10:33:15.673891Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 578,
-  "new_today": 5,
+  "total_stories": 582,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250518",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El Polideoxyribonucleótido Ayuda a la Recuperación de Heridas",
+      "headline_en": "Polydeoxyribonucleotide Helps Wound Recovery",
+      "summary_es": "Un nuevo estudio en Cureus examina cómo el polideoxyribonucleótido (PDRN) acelera la curación de heridas después de procedimientos médicos. Este tratamiento mejora la cicatrización.",
+      "body_es": "Una revisión narrativa publicada en Cureus analiza el papel del polideoxyribonucleótido en la recuperación post-procedimiento. El PDRN es una sustancia que estimula la cicatrización natural del cuerpo. Los estudios muestran que el PDRN acelera la curación de heridas y reduce la inflamación. Este tratamiento es especialmente útil después de procedimientos estéticos y quirúrgicos. Los médicos aplican el PDRN directamente en la herida o mediante inyecciones. El tratamiento activa las células de curación naturales de la piel. Los pacientes con heridas crónicas pueden beneficiarse de este enfoque. La investigación sugiere que el PDRN mejora la epitelización y reduce el tiempo de curación significativamente.",
+      "body_en": "A narrative review published in Cureus analyzes the role of polydeoxyribonucleotide in post-procedure recovery. PDRN is a substance that stimulates the body's natural healing. Studies show that PDRN accelerates wound healing and reduces inflammation. This treatment is especially useful after aesthetic and surgical procedures. Doctors apply PDRN directly to the wound or through injections. The treatment activates the skin's natural healing cells. Patients with chronic wounds may benefit from this approach. Research suggests that PDRN improves epithelialization and significantly reduces healing time.",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcDhxcHVhTDVSNi1xcHJEZWpfdmYza1p5UVpBVzRKOVdLSjRyZENsd0RWeWVvVFdYdjRhMWFWZmdheF9xMzMtdmRETEFuYUNGb1JHdjRWXzNCZUx1REV0RUFDTHRYQjlOV1h4YU9wSG9YY0gxSjlzVkticEV0U3V5Y3o3RTdhUmo1bFlaT1dTTHFfNWg5SWwxTGp1UnlHS19aQXBvZFBqWTNBZXpDcnB4RkxVTUVGbS16XzVNWC1EdjZNMDg2Wl9BOFdMQmRXYV8wOVhBczFIVTgwM3psY1NnYTNXcVJyeEd1d1E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-18/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "polideoxyribonucleótido",
+          "definition_es": "sustancia que estimula la cicatrización natural",
+          "definition_en": "substance that stimulates natural wound healing"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de una herida",
+          "definition_en": "healing process of a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel en la herida",
+          "definition_en": "formation of new skin over the wound"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "hinchazón y enrojecimiento de tejido dañado",
+          "definition_en": "swelling and redness of damaged tissue"
+        }
+      ],
+      "added_at": "2026-05-18T10:33:15.673891Z"
+    },
+    {
+      "id": "diabetic-foot-20250518",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "blue",
+      "headline_es": "Parche Inteligente Monitorea Heridas del Pie Diabético en Corea",
+      "headline_en": "Smart Patch Monitors Diabetic Foot Wounds in Korea",
+      "summary_es": "Un nuevo parche inteligente desarrollado en Corea monitorea heridas del pie en pacientes diabéticos para prevenir amputaciones. La tecnología utiliza sensores para detectar infecciones tempranamente.",
+      "body_es": "Un parche inteligente innovador está siendo utilizado en Corea del Sur para monitorear heridas del pie diabético y prevenir amputaciones. El dispositivo utiliza sensores avanzados que detectan cambios en la humedad, temperatura y composición química de la herida. Cuando se detectan signos de infección o complicaciones, el parche envía alertas al teléfono del paciente y a su médico. Los diabéticos frecuentemente desarrollan úlceras en el pie debido a la neuropatía periférica y la mala circulación. El monitoreo temprano de estas heridas es crucial para evitar infecciones graves que conduzcan a la amputación. Este parche representa un avance importante en la medicina preventiva para diabéticos. Los estudios preliminares muestran que la detección temprana reduce significativamente las complicaciones y mejora los resultados clínicos.",
+      "body_en": "An innovative smart patch is being used in South Korea to monitor diabetic foot wounds and prevent amputations. The device uses advanced sensors that detect changes in moisture, temperature, and chemical composition of the wound. When signs of infection or complications are detected, the patch sends alerts to the patient's phone and physician. Diabetics frequently develop foot ulcers due to peripheral neuropathy and poor circulation. Early monitoring of these wounds is crucial to prevent serious infections leading to amputation. This patch represents an important advance in preventive medicine for diabetics. Preliminary studies show that early detection significantly reduces complications and improves clinical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQURCRTRHckltN25TWEV0RTV3V0c0Z3NSOTJSNV9iS1VkaDZVTHY4OFRkLTV6dmxhSnJoOWFwbldEeWtVYzhPNnpEOE41aUJURXYwWWljOGpObEx6ZFVYcDFpbkxUSnE1WnZtNHFEc2pqNDRreUh0M280bktOV1hQWEdUSHF2MHlsTzlzOFdqVTY0VF9G0gGUAUFVX3lxTE9BREJFNEdySW03blNYRXRFNXdXRzRnc1I5MlI1X2JLVWRoNlVMdjg4VGQtNXp2bGFKcmg5YXBuV0R5a1VjOE82ekQ4TjVpQlRFdjBZaWM4ak5sRHpkVVhwMWluTFRKcTVadm00cURzamo0NGt5SHQzbzhuS05XWFBYR1RIcXYweWxPOXM4V2pVNjRUX0Y?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-18/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza",
+          "definition_en": "open sore on skin that does not heal"
+        },
+        {
+          "word": "neuropatía periférica",
+          "definition_es": "daño en los nervios de las extremidades que causa entumecimiento",
+          "definition_en": "damage to nerves in extremities causing numbness"
+        },
+        {
+          "word": "monitoreo",
+          "definition_es": "observación continua del estado de salud",
+          "definition_en": "continuous observation of health status"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-05-18T10:33:15.673891Z"
+    },
+    {
+      "id": "burn-care-20250518",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Dermoabrasión con Injerto de Piel Mejora Cicatrices en Quemaduras",
+      "headline_en": "Dermabrasion with Skin Grafting Improves Burn Scars",
+      "summary_es": "Un estudio publicado en Medical Dialogues demuestra que la dermoabrasión combinada con injerto de piel de espesor parcial mejora significativamente los resultados estéticos en pacientes con leucodermia post-quemadura.",
+      "body_es": "Una nueva investigación publicada en Medical Dialogues examina la combinación de dermoabrasión con injerto de piel de espesor parcial para tratar la leucodermia posterior a quemaduras. La leucodermia es la pérdida de pigmentación en áreas quemadas que resulta en manchas blancas en la piel. El procedimiento de dermoabrasión elimina las capas superficiales de la piel dañada para mejorar la textura. Los injertos de piel de espesor parcial (ITEP) reemplazan la piel dañada con tejido sano de otras áreas del cuerpo. Los estudios muestran que esta combinación terapéutica reduce significativamente la visibilidad de las cicatrices. Los pacientes experimentan mejor re-epitelización y restauración del color de la piel. Este enfoque multimodal representa un avance importante en el tratamiento de secuelas de quemaduras graves.",
+      "body_en": "New research published in Medical Dialogues examines the combination of dermabrasion with split-thickness skin grafting to treat post-burn leukoderma. Leukoderma is the loss of pigmentation in burned areas resulting in white patches on skin. The dermabrasion procedure removes superficial layers of damaged skin to improve texture. Split-thickness skin grafts (STSG) replace damaged skin with healthy tissue from other body areas. Studies show this combination therapy significantly reduces scar visibility. Patients experience better re-epithelialization and restoration of skin color. This multimodal approach represents an important advance in treating complications from severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVnd5bkFrWFFjandLWWgzU1NXS3BOcktzTC1xMWdfeTZnUWlZUE9KQlRaMFNzV1VTZ1ZvU2xaaUhiYmlTd2JBRkxHOWM4U3R6Z1lPN3Blcms4ZHlwMmZ2OWQ3S29XcTBnYW16aFpCTjJGSDVWcXFuZnN3M2o4WnpHeHJKWWZyNkhtcTIzV2NOTmFEM21VVDRKS3JoQURNTnU1LUV2RVE5ZGx2dVdIcWI2Z196TGhTMDEzRk9waXhvLThtTm9welhUS1BpcThsLUVYWGtEbXkzTF83UUxMX3M4b1VnSTlwZEUzclNJZVljRdIB7wFBVV95cUxOVnd5bkFrWFFjandLWWgzU1NXS3BOcktzTC1xMWdfeTZnUWlZUE9KQlRaMFNzV1VTZ1ZvU2xaaUhiYmlTd2JBRkxHOWM4U3R6Z1lPN3Blcms4ZHlwMmZ2OWQ3S29XcTBnYW16aFpCTjJGSDVWcXFuZnN3M2o4WnpHeHJKWWZyNkhtcTIzV2NOTmFEM21VVDRKS3JoQURNTnU1LUV2RVE5ZGx2dVdIcWI2Z196TGhTMDEzRk9waXhvLThtTm9welhUS1BpcThsLUVYWGtEbXkzTF83UUxMX3M4b1VnSTlwZEUzclNJZVljRQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-18/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dermoabrasión",
+          "definition_es": "técnica quirúrgica que elimina capas superficiales de piel",
+          "definition_en": "surgical technique that removes superficial skin layers"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de tejido cutáneo de una zona sana a otra dañada",
+          "definition_en": "transplant of skin tissue from healthy to damaged area"
+        },
+        {
+          "word": "leucodermia",
+          "definition_es": "pérdida de pigmentación de la piel causando manchas blancas",
+          "definition_en": "loss of skin pigmentation causing white patches"
+        },
+        {
+          "word": "re-epitelización",
+          "definition_es": "proceso de formación de nueva capa epidérmica",
+          "definition_en": "process of forming new epidermal layer"
+        }
+      ],
+      "added_at": "2026-05-18T10:33:15.673891Z"
+    },
+    {
+      "id": "surgical-wounds-20250518",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Infecciones de Heridas Quirúrgicas en Pacientes Diabéticos: Evaluación de Factores de Riesgo",
+      "headline_en": "Surgical Site Infections in Diabetic Patients: Risk Factor Assessment",
+      "summary_es": "Un estudio en Cureus evalúa los factores de riesgo para infecciones del sitio quirúrgico en pacientes diabéticos sometidos a cirugía electiva. Identifica variables clave que permiten mejor prevención.",
+      "body_es": "Un estudio publicado en Cureus examina los factores de riesgo asociados con infecciones del sitio quirúrgico (ISQ) en pacientes diabéticos que se someten a cirugía electiva. Los pacientes diabéticos tienen mayor riesgo de desarrollar complicaciones después de la cirugía debido al control glucémico deficiente. La investigación identifica varios factores críticos que aumentan la probabilidad de infección postoperatoria. Entre estos se encuentran los niveles de glucosa elevados, el índice de masa corporal alto, y la duración prolongada de la cirugía. El equipo evaluó variables como la higiene preoperatoria, el uso de profilaxis antibiótica apropiada, y la técnica quirúrgica aséptica. Los hallazgos sugieren que el control estricto de la glucosa preoperatoria reduce significativamente el riesgo de infección. Esta información es crucial para que los cirujanos implementen medidas preventivas en pacientes diabéticos de alto riesgo.",
+      "body_en": "A study published in Cureus examines risk factors associated with surgical site infections (SSI) in diabetic patients undergoing elective surgery. Diabetic patients have increased risk of developing post-operative complications due to poor glycemic control. The research identifies several critical factors that increase the probability of post-operative infection. These include elevated glucose levels, high body mass index, and prolonged surgical duration. The team evaluated variables such as pre-operative hygiene, appropriate antibiotic prophylaxis, and aseptic surgical technique. The findings suggest that strict pre-operative glucose control significantly reduces infection risk. This information is crucial for surgeons to implement preventive measures in high-risk diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzlZTEtEMUJ3VGx3WlRBTjVCRG9xTzhzaFBNM0t1U0E4THVzUlpPRjhBU2xueHVzWGdaQVZGd3M4dWFDS1NRTFVRNW02Vm42YnFaYXZxcVNlODgyQllIeC1UdERYbzJSVW9YWjg5Y0pLdmdJU3FHdEFPRktFcnhiUkpvLUN3NmZTYXEyeVBjZTZQZko4MjVCdWx3bXFENWhjRFVnQ0dZR0J2MHRvdDZjZXA0a3NBNkRXUjFPaE9mVDd2c0NjWTcyX1N4MGJqVmpTejFMZUJEWXJTYXdLVjdyTHh0TEFmMmNBQUVsaGstYThrMTQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-18/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección del sitio quirúrgico",
+          "definition_es": "complicación postoperatoria causada por microorganismos patógenos",
+          "definition_en": "post-operative complication caused by pathogenic microorganisms"
+        },
+        {
+          "word": "control glucémico",
+          "definition_es": "regulación de los niveles de azúcar en sangre",
+          "definition_en": "regulation of blood sugar levels"
+        },
+        {
+          "word": "profilaxis antibiótica",
+          "definition_es": "administración preventiva de antibióticos antes de la cirugía",
+          "definition_en": "preventive antibiotic administration before surgery"
+        },
+        {
+          "word": "técnica aséptica",
+          "definition_es": "procedimiento quirúrgico libre de microorganismos contaminantes",
+          "definition_en": "surgical procedure free of contaminating microorganisms"
+        }
+      ],
+      "added_at": "2026-05-18T10:33:15.673891Z"
+    },
     {
       "id": "chronic-wounds-20250517",
       "category": "Chronic Wounds",
@@ -21387,6 +21535,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-17T09:38:15.328492Z",
+  "last_updated": "2026-05-18T10:33:15.673891Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
