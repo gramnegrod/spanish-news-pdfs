@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-19",
+      "filename": "spanish_lesson_2026-05-19.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-19.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Una Congresista Lucha Por la Justicia Después de Defender a los Inmigrantes",
+          "headline_en": "A Congresswoman Fights for Justice After Defending Immigrants",
+          "body_es": "Una congresista estadounidense vivió un año muy difícil después de criticar las políticas de inmigración. Ella defendió públicamente a las familias inmigrantes y habló contra las acciones del gobierno. Por esta razón, recibió amenazas y ataques personales durante doce meses. La política no cambió su opinión y continuó luchando por la justicia. Dice que es importante defender los derechos humanos, aunque sea peligroso. Su historia muestra los problemas que enfrentan los políticos cuando defienden ideas controvertidas. Muchas personas la apoyan, pero otras la critican fuertemente. Ella cree que vale la pena luchar por las familias que necesitan ayuda en Estados Unidos.",
+          "body_en": "An American congresswoman lived through a very difficult year after criticizing immigration policies. She publicly defended immigrant families and spoke against government actions. For this reason, she received threats and personal attacks for twelve months. The politician did not change her opinion and continued fighting for justice. She says it's important to defend human rights, even when it's dangerous. Her story shows the problems politicians face when they defend controversial ideas. Many people support her, but others criticize her strongly. She believes it's worth fighting for families who need help in the United States.",
+          "source": "Mother Jones"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Siete Gráficos Explican Por Qué Es Tan Difícil Encontrar Trabajo Ahora",
+          "headline_en": "Seven Charts Explain Why It's So Hard to Find Work Now",
+          "body_es": "El mercado laboral en Estados Unidos está muy complicado actualmente. Un estudio con siete gráficos muestra las principales razones de esta situación. Primero, hay menos ofertas de trabajo que antes. Segundo, muchas empresas no quieren contratar nuevos empleados. Tercero, los salarios no suben al mismo ritmo que los precios. Cuarto, la competencia entre candidatos es muy alta. Quinto, muchos trabajadores buscan empleos remotos, pero hay pocas opciones. Sexto, las empresas prefieren trabajadores con mucha experiencia. Finalmente, algunos sectores económicos están en crisis. Los expertos dicen que la situación puede mejorar el próximo año, pero ahora es un momento muy difícil para buscar empleo.",
+          "body_en": "The job market in the United States is very complicated currently. A study with seven charts shows the main reasons for this situation. First, there are fewer job offers than before. Second, many companies don't want to hire new employees. Third, salaries don't rise at the same pace as prices. Fourth, competition among candidates is very high. Fifth, many workers seek remote jobs, but there are few options. Sixth, companies prefer workers with lots of experience. Finally, some economic sectors are in crisis. Experts say the situation may improve next year, but now is a very difficult time to look for employment.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La Inteligencia Artificial Causa 170 Despidos en Empresa Tecnológica",
+          "headline_en": "Artificial Intelligence Causes 170 Layoffs at Tech Company",
+          "body_es": "Una empresa de tecnología en King of Prussia despidió a 170 empleados por la inteligencia artificial. La compañía decidió usar robots y programas automáticos para hacer el trabajo de estas personas. Los directivos explicaron que la nueva tecnología es más rápida y cuesta menos dinero. Los trabajadores perdieron sus empleos en diferentes departamentos de la empresa. Algunos tenían muchos años trabajando allí y no esperaban esta situación. La empresa dice que va a ayudar a los empleados a encontrar nuevos trabajos. Sin embargo, muchas personas están preocupadas porque la inteligencia artificial está cambiando el mundo del trabajo. Expertos creen que esto va a pasar en más empresas en el futuro cercano.",
+          "body_en": "A technology company in King of Prussia fired 170 employees because of artificial intelligence. The company decided to use robots and automatic programs to do these people's work. The executives explained that the new technology is faster and costs less money. The workers lost their jobs in different company departments. Some had many years working there and didn't expect this situation. The company says it will help employees find new jobs. However, many people are worried because artificial intelligence is changing the world of work. Experts believe this will happen in more companies in the near future.",
+          "source": "MSN"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congresista",
+          "syllables": "con-gre-SIS-ta",
+          "pos": "sustantivo",
+          "context": "La congresista luchó contra las políticas de inmigración durante un año.",
+          "definition_es": "Persona elegida para representar al pueblo en el Congreso",
+          "definition_en": "Member of Congress"
+        },
+        {
+          "word": "justicia",
+          "syllables": "jus-TI-cia",
+          "pos": "sustantivo",
+          "context": "Ella buscó justicia después de defender a los inmigrantes.",
+          "definition_es": "Principio moral que busca dar a cada uno lo que merece",
+          "definition_en": "Justice"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral está muy difícil ahora en Estados Unidos.",
+          "definition_es": "Sistema donde las empresas buscan trabajadores y las personas buscan trabajo",
+          "definition_en": "Job market"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial causó 170 despidos en la empresa.",
+          "definition_es": "Cuando una empresa termina el trabajo de sus empleados",
+          "definition_en": "Layoffs"
+        },
+        {
+          "word": "luchar",
+          "syllables": "lu-CHAR",
+          "pos": "verbo",
+          "context": "La política tuvo que luchar por sus ideas durante meses.",
+          "definition_es": "Trabajar muy duro para conseguir algo difícil",
+          "definition_en": "To fight"
+        },
+        {
+          "word": "difícil",
+          "syllables": "di-FÍ-cil",
+          "pos": "adjetivo",
+          "context": "Encontrar trabajo es muy difícil en estos momentos.",
+          "definition_es": "Que requiere mucho esfuerzo o es complicado de hacer",
+          "definition_en": "Difficult"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología cambió completamente la empresa.",
+          "definition_es": "Conocimientos y herramientas que usan las ciencias",
+          "definition_en": "Technology"
+        },
+        {
+          "word": "inmigración",
+          "syllables": "in-mi-gra-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las políticas de inmigración afectan a muchas familias.",
+          "definition_es": "Cuando personas van a vivir a otro país",
+          "definition_en": "Immigration"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'congresista'?",
+          "options": [
+            "Una persona que trabaja en un hospital",
+            "Una persona elegida para representar al pueblo en el Congreso",
+            "Una persona que enseña en la universidad",
+            "Una persona que trabaja en una tienda"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el sinónimo de 'despidos'?",
+          "options": [
+            "Contrataciones",
+            "Terminación de empleos",
+            "Promociones",
+            "Aumentos de salario"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'mercado laboral'?",
+          "options": [
+            "Un lugar donde venden comida",
+            "Sistema donde las personas buscan trabajo",
+            "Una tienda de ropa",
+            "Un banco"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La palabra 'luchar' significa:",
+          "options": [
+            "Dormir mucho",
+            "Trabajar muy duro para conseguir algo",
+            "Comer en un restaurante",
+            "Viajar a otro país"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué la congresista tuvo problemas durante un año?",
+          "options": [
+            "Porque cambió de partido político",
+            "Porque defendió a las familias inmigrantes",
+            "Porque no fue a trabajar",
+            "Porque robó dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según el estudio, ¿cuál NO es una razón por la que es difícil encontrar trabajo?",
+          "options": [
+            "Hay menos ofertas de trabajo",
+            "La competencia es muy alta",
+            "Los salarios son muy altos",
+            "Las empresas prefieren trabajadores con experiencia"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleados perdieron su trabajo en la empresa de King of Prussia?",
+          "options": [
+            "70",
+            "170",
+            "270",
+            "370"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué la empresa usó inteligencia artificial?",
+          "options": [
+            "Porque es más rápida y cuesta menos",
+            "Porque los empleados no trabajaban bien",
+            "Porque es más lenta",
+            "Porque es más cara"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuándo creen los expertos que puede mejorar el mercado laboral?",
+          "options": [
+            "Este mes",
+            "El próximo año",
+            "Nunca",
+            "En diez años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de trabajo buscan muchos empleados ahora?",
+          "options": [
+            "Trabajos nocturnos",
+            "Trabajos remotos",
+            "Trabajos de fin de semana",
+            "Trabajos sin sueldo"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-19T10:15:19.288769"
+    },
+    {
       "date": "2026-05-18",
       "filename": "spanish_lesson_2026-05-18.pdf",
       "path": "pdfs/spanish_lesson_2026-05-18.pdf",
@@ -35990,7 +36212,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-18T10:25:25.940984",
+  "last_updated": "2026-05-19T10:15:19.288794",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
