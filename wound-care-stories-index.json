@@ -1,11 +1,196 @@
 {
-  "date": "2026-05-19",
-  "generated_at": "2026-05-19T10:20:50.661404Z",
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T10:17:01.548147Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 587,
+  "total_stories": 592,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250520",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Los apósitos vasculares ayudan a curar heridas crónicas",
+      "headline_en": "Vascular dressings help heal chronic wounds",
+      "summary_es": "El mercado de apósitos vasculares crece rápidamente. Estos vendajes especiales ayudan a los pacientes con heridas que no cierran.",
+      "body_es": "Las heridas crónicas son muy difíciles de curar. Los apósitos vasculares son vendajes especiales que mejoran la circulación de la sangre. Estos apósitos tienen una tecnología nueva e innovadora. Los hospitales usan estos vendajes para tratar úlceras de pie diabético y otras heridas graves. El mercado de estos apósitos crece mucho. Muchas personas necesitan este tratamiento. Los profesionales de salud usan estos vendajes en la cura de heridas. La innovación en los apósitos es muy importante para los pacientes. Los vendajes especiales ayudan a cerrar las heridas más rápido. Este crecimiento continúa hasta el año 2035.",
+      "body_en": "Chronic wounds are very difficult to heal. Vascular dressings are special bandages that improve blood circulation. These dressings have new and innovative technology. Hospitals use these dressings to treat diabetic foot ulcers and other serious wounds. The market for these dressings is growing rapidly. Many people need this treatment. Healthcare professionals use these dressings in wound care. Innovation in dressings is very important for patients. Special dressings help close wounds faster. This growth continues until 2035.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZGZnQ3NHdzc3ZWxvWTlDbFROTU9aTDhJV3JSZk0xM1RmZnQzR3lrTVhUV0VFU2VoMk9YV01Wbmx0ZHF5TkFMY2wwY05DUEd6YnJTUVI0ZVVKQXF6LWFGT0d0T3VQX1lCdld2U1ZTNnYySmRHM3FNVXk0RS1jWkdOb1YyZ1QtektLY1FxcmljUkhTWlZUTFZINWRJMTBIWjRKRVNfQWxFWjJLd1FxNVhPQTJMMUMxcjgwSTRZM3pENU0zN196R2EtSV9NWkk5amtFQXJjXzBHQnpCN3JEampCSXpYOUJFTzYta3NTek11S08tRG5rQ3c",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-20/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "vendaje especial para cubrir heridas",
+          "definition_en": "dressing - special bandage to cover wounds"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra después de largo tiempo",
+          "definition_en": "chronic wound - injury that does not close after a long time"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de la sangre en el cuerpo",
+          "definition_en": "circulation - movement of blood in the body"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cierra",
+          "definition_en": "ulcer - open wound on skin that does not close"
+        }
+      ],
+      "added_at": "2026-05-20T10:17:01.548147Z"
+    },
+    {
+      "id": "diabetic-foot-20250520",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Inteligencia artificial predice amputaciones en pacientes diabéticos",
+      "headline_en": "Artificial intelligence predicts amputations in diabetic patients",
+      "summary_es": "Un nuevo modelo de inteligencia artificial ayuda a identificar a los pacientes diabéticos con mayor riesgo de amputación de miembros inferiores. Este avance permite intervenciones médicas más tempranas.",
+      "body_es": "La amputación de extremidades inferiores es una complicación grave de la diabetes. Cuando la diabetes no se controla correctamente, los nervios periféricos se dañan causando úlceras en los pies. Ahora, un nuevo modelo de inteligencia artificial puede predecir el riesgo de amputación en pacientes diabéticos. Este sistema analiza múltiples factores clínicos y datos del paciente. Los profesionales de enfermería pueden usar esta tecnología para identificar pacientes de alto riesgo. Con la detección temprana, se pueden iniciar tratamientos preventivos más agresivos. El cuidado del pie diabético incluye evaluaciones frecuentes, control de la glucosa y manejo de heridas. Este enfoque de predicción ayuda a evitar complicaciones graves y mejora los resultados para los pacientes.",
+      "body_en": "Amputation of lower limbs is a serious complication of diabetes. When diabetes is not controlled properly, peripheral nerves are damaged causing foot ulcers. Now, a new artificial intelligence model can predict the risk of amputation in diabetic patients. This system analyzes multiple clinical factors and patient data. Nursing professionals can use this technology to identify high-risk patients. With early detection, more aggressive preventive treatments can be initiated. Diabetic foot care includes frequent evaluations, glucose control, and wound management. This prediction approach helps prevent serious complications and improves outcomes for patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeW5sQkExRlMycjZwcXFGczVSMGpMbFF0bEdJa2I1SGNHQUFIclc4UlVxSjhlNVhFTVRPWGRGRTJIVkRYN0t4M1ZLdVB0R2t4RFF1dzlYOUJtV3JBMEVsLWc1c2pPUEdPVnFKRGVDaXdybmtvVS1QdHBtbHdBLW0zQnpTdGZjWmZRVWk1QWVtZGtFR3RESjhhbU9hbXpod3JJMWlHMUpvM0ZnclNDWFpaYUVWYWJ4YnRidnFhZkZ0Z9IBxAFBVV95cUxOeTc4QUlFemVQazhZYUI1MXFxNDczSnZ4TDRxNUQ0ZUxqSnRZWjFpa1RpX3p2LW5va011V0lzblkwczVvU1dFRVB5MzB3TWZjQ000cjVSVkZTRkFBd0p1WnBRa0kyV1d6a3RzTmdSRDlzbjAtRnp1dWlBSmNRMndGR29yMlpGdVpnRVZrZ1NTZTZSMWFwTUVYdkxueFdWUmdiNk9sLW5nUUhEY2JrQlNHbkJ1UHR6Z0JrWFFfOXRxbEg2ZWtZ",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-20/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        },
+        {
+          "word": "neuropatía periférica",
+          "definition_es": "daño en los nervios de brazos y piernas",
+          "definition_en": "peripheral neuropathy - damage to nerves in arms and legs"
+        },
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta en el pie causada por diabetes",
+          "definition_en": "diabetic ulcer - open wound on foot caused by diabetes"
+        },
+        {
+          "word": "predicción de riesgo",
+          "definition_es": "identificación temprana de peligro o complicación",
+          "definition_en": "risk prediction - early identification of danger or complication"
+        }
+      ],
+      "added_at": "2026-05-20T10:17:01.548147Z"
+    },
+    {
+      "id": "burn-care-20250520",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Terapia de presión negativa ayuda en reconstrucción de quemaduras complejas",
+      "headline_en": "Negative pressure therapy aids reconstruction of complex burns",
+      "summary_es": "La terapia de presión negativa (NPWT) es un método efectivo para el tratamiento de heridas por quemadura grave. Este tratamiento prepara el tejido dañado para la reconstrucción quirúrgica definitiva.",
+      "body_es": "Los traumatismos térmicos complejos en extremidades presentan desafíos importantes en el cuidado de heridas. La terapia de presión negativa en heridas (NPWT) ha demostrado ser un puente efectivo hacia la reconstrucción definitiva. Este sistema utiliza un vendaje especial conectado a una máquina que crea presión negativa. La presión negativa reduce el edema, estimula la formación de tejido de granulación y promueve la epitelización. En quemaduras profundas, NPWT prepara la herida para injertos de piel o procedimientos reconstructivos más complejos. Los especialistas en cuidado de heridas evalúan regularmente el progreso y ajustan el tratamiento. Este enfoque reduce el tiempo de cicatrización y mejora los resultados funcionales y estéticos para los pacientes con traumatismos graves.",
+      "body_en": "Complex thermal injuries to extremities present significant wound care challenges. Negative pressure wound therapy (NPWT) has proven to be an effective bridge to definitive reconstruction. This system uses a special dressing connected to a machine that creates negative pressure. Negative pressure reduces edema, stimulates granulation tissue formation, and promotes epithelialization. In deep burns, NPWT prepares the wound for skin grafts or more complex reconstructive procedures. Wound care specialists regularly evaluate progress and adjust treatment. This approach reduces healing time and improves functional and aesthetic outcomes for patients with serious injuries.",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUVNkZjNpc01aZ3R0Nk96ZFMxNnoyTmhEdnpra1ZNUEVvci16X2NJcUI5dV9jcm9lay1kdjZWUXpFZENOR1p1Ym1UVkg3Sl9VTFFJYmJkTUUwbzZMRVZDbDV3VU1KSm12LXpYdEZIYzVZTjBsc3lHWW52WkVwSWs4UDQ2MFBmc3VGY3JSS3U5anBFZ2FpejBEN0M3WGF1UGh5WjdNazRmU0xmS2VTRFZCSUNVc1hjVDlwNXhZZjAtZ09yNTIwS2s3d0paWlROdDlyNmczX2YzWUVtZVVVYVNQMWZPbWRCR0VUS1cyM3NFYkZjX2FuNHNsUjdzUDhjQlp4dlgwdU9ndjE",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-20/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "terapia de presión negativa",
+          "definition_es": "tratamiento que usa presión negativa para sanar heridas",
+          "definition_en": "negative pressure wound therapy - treatment using negative pressure to heal wounds"
+        },
+        {
+          "word": "tejido de granulación",
+          "definition_es": "tejido nuevo que se forma durante la cicatrización",
+          "definition_en": "granulation tissue - new tissue that forms during wound healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de células nuevas sobre la herida",
+          "definition_en": "epithelialization - growth of new cells over the wound"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de piel sana para cubrir herida",
+          "definition_en": "skin graft - transplant of healthy skin to cover wound"
+        }
+      ],
+      "added_at": "2026-05-20T10:17:01.548147Z"
+    },
+    {
+      "id": "surgical-wounds-20250520",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Estudio LANTERN busca prevenir infecciones después de la cirugía",
+      "headline_en": "LANTERN study seeks to prevent surgical site infections",
+      "summary_es": "Un nuevo estudio en la Universidad de Calgary busca desarrollar estrategias para prevenir infecciones de herida quirúrgica. Este trabajo es importante para mejorar la seguridad del paciente postoperatorio.",
+      "body_es": "Las infecciones de sitio quirúrgico son una complicación grave que puede prolongar la hospitalización y aumentar costos. El estudio LANTERN en la Universidad de Calgary investiga métodos innovadores para reducir estas infecciones. Los investigadores evalúan diferentes protocolos de cuidado de heridas quirúrgicas y manejo de apósitos. El estudio incluye evaluación de la evaluación de heridas, técnicas de cierre y monitoreo de signos de infección como eritema, exudado purulento y aumento de temperatura. Los enfermeros especializados en cuidado de heridas juegan un papel crucial en la prevención de complicaciones. Las medidas preventivas incluyen higiene estricta, técnicas asépticas y cambios regulares de vendajes. Este estudio tiene implicaciones importantes para optimizar protocolos en quirófanos y unidades postoperatorias en todo Canadá.",
+      "body_en": "Surgical site infections are a serious complication that can prolong hospitalization and increase costs. The LANTERN study at the University of Calgary investigates innovative methods to reduce these infections. Researchers evaluate different surgical wound care protocols and dressing management techniques. The study includes assessment of wound evaluation, closure techniques, and monitoring for signs of infection such as erythema, purulent drainage, and temperature elevation. Nurses specialized in wound care play a crucial role in preventing complications. Preventive measures include strict hygiene, aseptic techniques, and regular dressing changes. This study has important implications for optimizing protocols in operating rooms and postoperative units throughout Canada.",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSVQ3UEZKaXplWUE3cU11RWMwMGd0eHpDaS1BbXE0aXg3c05KUnc4cDVaNHVkWkcyQXFRWU1qYU1KbDFUVUphOUd5bjloWUhZbXlqQ3VRbkd5MENtTlgyLTlKSmh1RXMtMzRUeVAxQXd1U1loMW5zVUF3bVZTaE85RUhXMjdnclRxT2RLYw",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-20/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección de sitio quirúrgico",
+          "definition_es": "infección que ocurre después de una cirugía en el área operada",
+          "definition_en": "surgical site infection - infection that occurs after surgery in the operated area"
+        },
+        {
+          "word": "apósito quirúrgico",
+          "definition_es": "vendaje especial para proteger herida de cirugía",
+          "definition_en": "surgical dressing - special bandage to protect surgical wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes out of a wound"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel causado por inflamación",
+          "definition_en": "erythema - skin redness caused by inflammation"
+        }
+      ],
+      "added_at": "2026-05-20T10:17:01.548147Z"
+    },
+    {
+      "id": "wound-research-20250520",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Terapia con bacteriófagos combate infecciones por Pseudomonas aeruginosa",
+      "headline_en": "Phage therapy combats Pseudomonas aeruginosa infections",
+      "summary_es": "Nuevas investigaciones en Nature demuestran que la terapia con bacteriófagos E21 es efectiva contra infecciones por biopelícula de Pseudomonas aeruginosa en modelos de herida animal.",
+      "body_es": "Pseudomonas aeruginosa es una bacteria que causa infecciones graves de herida, especialmente cuando forma biopelículas. Las biopelículas son comunidades bacterianas que resisten antibióticos tradicionales, haciendo el tratamiento muy difícil. La terapia con bacteriófagos (fagoterapia) ofrece una estrategia alternativa innovadora. El bacteriófago E21 fue evaluado en modelos animales de herida infectada con biofilm de Pseudomonas. Los investigadores encontraron que la terapia con fagos E21 reducía significativamente la carga bacteriana y promovía la cicatrización. Este enfoque representa una alternativa promisoria para infecciones resistentes a múltiples antibióticos. La fagoterapia podría revolucionar el tratamiento de heridas infectadas en clínica. Los resultados sugieren que esta terapia merece evaluación adicional en ensayos clínicos con pacientes humanos.",
+      "body_en": "Pseudomonas aeruginosa is a bacterium that causes serious wound infections, especially when it forms biofilms. Biofilms are bacterial communities that resist traditional antibiotics, making treatment very difficult. Phage therapy (bacteriophage therapy) offers an innovative alternative strategy. Bacteriophage E21 was evaluated in animal wound models infected with Pseudomonas biofilm. Researchers found that E21 phage therapy significantly reduced bacterial load and promoted healing. This approach represents a promising alternative for multi-antibiotic resistant infections. Phage therapy could revolutionize the treatment of infected wounds in clinical practice. Results suggest this therapy deserves further evaluation in clinical trials with human patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51aFRfLW0wQVVlRzQ0X19Wa29GeGl1RmV3V2RodlZnWWZkMTNyMmNDZUt2SHF3N3lkRlVCNjRlNFpWbklkcF94ejIza3VIUU5lTWNoRmozNW55Xy1BUzhJ",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-20/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "bacteriófago",
+          "definition_es": "virus que infecta y mata bacterias",
+          "definition_en": "bacteriophage - virus that infects and kills bacteria"
+        },
+        {
+          "word": "biopelícula",
+          "definition_es": "comunidad de bacterias organizadas que resisten antibióticos",
+          "definition_en": "biofilm - organized community of bacteria that resists antibiotics"
+        },
+        {
+          "word": "carga bacteriana",
+          "definition_es": "cantidad de bacterias presentes en una herida",
+          "definition_en": "bacterial load - amount of bacteria present in a wound"
+        },
+        {
+          "word": "fagoterapia",
+          "definition_es": "tratamiento de infecciones usando bacteriófagos",
+          "definition_en": "phage therapy - treatment of infections using bacteriophages"
+        }
+      ],
+      "added_at": "2026-05-20T10:17:01.548147Z"
+    },
     {
       "id": "chronic-wounds-20250519",
       "category": "Chronic Wounds",
@@ -21720,6 +21905,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-19T10:20:50.661404Z",
+  "last_updated": "2026-05-20T10:17:01.548147Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
