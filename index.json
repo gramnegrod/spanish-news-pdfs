@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-20",
+      "filename": "spanish_lesson_2026-05-20.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-20.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Candidato apoyado por Trump gana elección en Kentucky",
+          "headline_en": "Trump-backed candidate wins election in Kentucky",
+          "body_es": "En Kentucky, Estados Unidos, hubo una elección muy importante del Partido Republicano. Thomas Massie era el político que tenía el puesto. Pero Ed Gallrein lo derrotó en las primarias republicanas. Gallrein recibió el apoyo del expresidente Donald Trump. Las primarias son elecciones donde los partidos eligen a sus candidatos. Esta elección era muy importante para el futuro político de Kentucky. Massie había sido crítico de algunas ideas de Trump. Por eso Trump decidió apoyar a Gallrein. Al final, el apoyo de Trump fue muy importante para la victoria de Gallrein. Ahora Gallrein será el candidato republicano oficial.",
+          "body_en": "In Kentucky, United States, there was a very important Republican Party election. Thomas Massie was the politician who held the position. But Ed Gallrein defeated him in the Republican primary. Gallrein received support from former president Donald Trump. Primaries are elections where parties choose their candidates. This election was very important for Kentucky's political future. Massie had been critical of some of Trump's ideas. That's why Trump decided to support Gallrein. In the end, Trump's support was very important for Gallrein's victory. Now Gallrein will be the official Republican candidate.",
+          "source": "Facebook"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Experto dice que la IA salvó la economía de una crisis",
+          "headline_en": "Expert says AI saved the economy from a crisis",
+          "body_es": "Jeremy Grantham es un inversor muy famoso y respetado. Él ha trabajado en los mercados financieros por muchos años. Grantham dice que la inteligencia artificial (IA) evitó una recesión económica. Una recesión es cuando la economía funciona muy mal y muchas personas pierden sus trabajos. También dice que la IA previno una caída del mercado de valores. El mercado de valores es donde se compran y venden acciones de empresas. Según Grantham, sin la IA, la economía estadounidense habría tenido serios problemas. La tecnología de IA ha ayudado a las empresas a ser más eficientes. Esto ha mantenido la economía estable y fuerte durante tiempos difíciles.",
+          "body_en": "Jeremy Grantham is a very famous and respected investor. He has worked in financial markets for many years. Grantham says that artificial intelligence (AI) prevented an economic recession. A recession is when the economy works very badly and many people lose their jobs. He also says that AI prevented a stock market crash. The stock market is where company shares are bought and sold. According to Grantham, without AI, the US economy would have had serious problems. AI technology has helped companies become more efficient. This has kept the economy stable and strong during difficult times.",
+          "source": "Business Insider"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "China quiere desarrollar la IA pero proteger los trabajos",
+          "headline_en": "China wants to develop AI but protect jobs",
+          "body_es": "China tiene planes ambiciosos para la inteligencia artificial. El gobierno chino quiere que la IA florezca y se desarrolle rápidamente en el país. Pero también tienen una preocupación importante: los empleos de las personas. China no quiere que el crecimiento de la IA elimine muchos trabajos. El gobierno está buscando un equilibrio entre el progreso tecnológico y la protección de los trabajadores. Quieren que la IA ayude a mejorar la economía, pero sin causar desempleo masivo. China está creando políticas especiales para controlar cómo se usa la IA en las empresas. El objetivo es aprovechar los beneficios de la tecnología sin dañar a los trabajadores. Esta es una estrategia diferente a otros países.",
+          "body_en": "China has ambitious plans for artificial intelligence. The Chinese government wants AI to flourish and develop rapidly in the country. But they also have an important concern: people's jobs. China doesn't want AI growth to eliminate many jobs. The government is seeking a balance between technological progress and worker protection. They want AI to help improve the economy, but without causing mass unemployment. China is creating special policies to control how AI is used in companies. The goal is to take advantage of technology's benefits without harming workers. This is a different strategy from other countries.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "primarias",
+          "syllables": "pri-MA-rias",
+          "pos": "sustantivo",
+          "context": "Thomas Massie perdió en las primarias republicanas de Kentucky.",
+          "definition_es": "Elecciones internas de un partido político para elegir candidatos",
+          "definition_en": "Primary elections within a political party to choose candidates"
+        },
+        {
+          "word": "derrotar",
+          "syllables": "de-rro-TAR",
+          "pos": "verbo",
+          "context": "Ed Gallrein logró derrotar a Thomas Massie en la elección.",
+          "definition_es": "Vencer o ganar contra alguien en una competencia",
+          "definition_en": "To defeat or beat someone in a competition"
+        },
+        {
+          "word": "inversor",
+          "syllables": "in-ver-SOR",
+          "pos": "sustantivo",
+          "context": "El inversor Jeremy Grantham habló sobre la economía.",
+          "definition_es": "Persona que pone dinero en negocios para ganar más dinero",
+          "definition_en": "Person who puts money into businesses to earn more money"
+        },
+        {
+          "word": "recesión",
+          "syllables": "re-ce-SIÓN",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial previno una recesión económica.",
+          "definition_es": "Período cuando la economía de un país funciona mal",
+          "definition_en": "Period when a country's economy performs poorly"
+        },
+        {
+          "word": "prevenir",
+          "syllables": "pre-ve-NIR",
+          "pos": "verbo",
+          "context": "La IA ayudó a prevenir problemas en el mercado financiero.",
+          "definition_es": "Evitar que algo malo suceda",
+          "definition_en": "To prevent something bad from happening"
+        },
+        {
+          "word": "florecer",
+          "syllables": "flo-re-CER",
+          "pos": "verbo",
+          "context": "China quiere que la inteligencia artificial florezca en el país.",
+          "definition_es": "Crecer y desarrollarse de manera exitosa",
+          "definition_en": "To grow and develop successfully"
+        },
+        {
+          "word": "empleos",
+          "syllables": "em-PLE-os",
+          "pos": "sustantivo",
+          "context": "China no quiere que la IA elimine empleos de las personas.",
+          "definition_es": "Trabajos que tienen las personas para ganar dinero",
+          "definition_en": "Jobs that people have to earn money"
+        },
+        {
+          "word": "a expensas de",
+          "syllables": "a ex-PEN-sas de",
+          "pos": "expresión",
+          "context": "La IA no debe crecer a expensas de los trabajadores.",
+          "definition_es": "Causando daño o pérdida a algo o alguien",
+          "definition_en": "Causing harm or loss to something or someone"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'primarias' en el contexto político?",
+          "options": [
+            "Elecciones generales",
+            "Elecciones internas del partido",
+            "Encuestas de opinión",
+            "Debates televisados"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'inversor' es una persona que:",
+          "options": [
+            "Trabaja en un banco",
+            "Pone dinero en negocios",
+            "Estudia economía",
+            "Vende productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'prevenir'?",
+          "options": [
+            "Causar problemas",
+            "Evitar que algo malo pase",
+            "Resolver conflictos",
+            "Crear soluciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Cuando algo 'florece' significa que:",
+          "options": [
+            "Se termina rápidamente",
+            "Crece y se desarrolla bien",
+            "Cambia de color",
+            "Se vuelve más pequeño"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Quién ganó las primarias republicanas en Kentucky?",
+          "options": [
+            "Thomas Massie",
+            "Donald Trump",
+            "Ed Gallrein",
+            "Jeremy Grantham"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según Jeremy Grantham, ¿qué evitó una recesión económica?",
+          "options": [
+            "Las políticas del gobierno",
+            "La inteligencia artificial",
+            "Los bancos centrales",
+            "Las empresas tecnológicas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué Trump apoyó a Gallrein?",
+          "options": [
+            "Eran amigos personales",
+            "Gallrein tenía más dinero",
+            "Massie había criticado a Trump",
+            "Gallrein era más joven"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la principal preocupación de China sobre la IA?",
+          "options": [
+            "El costo de la tecnología",
+            "La competencia internacional",
+            "El impacto en los empleos",
+            "La seguridad nacional"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de equilibrio busca China?",
+          "options": [
+            "Entre importaciones y exportaciones",
+            "Entre tecnología y protección laboral",
+            "Entre empresas y gobierno",
+            "Entre ciudades y zonas rurales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Jeremy Grantham es conocido por ser:",
+          "options": [
+            "Un político famoso",
+            "Un inversor respetado",
+            "Un experto en IA",
+            "Un empresario chino"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-20T10:06:17.089149"
+    },
+    {
       "date": "2026-05-19",
       "filename": "spanish_lesson_2026-05-19.pdf",
       "path": "pdfs/spanish_lesson_2026-05-19.pdf",
@@ -36212,7 +36434,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-19T10:15:19.288794",
+  "last_updated": "2026-05-20T10:06:17.089176",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
