@@ -1,11 +1,196 @@
 {
-  "date": "2026-05-20",
-  "generated_at": "2026-05-20T10:17:01.548147Z",
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T10:19:38.943004Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 592,
+  "total_stories": 597,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250521",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La tecnología inteligente ayuda a combatir úlceras diabéticas peligrosas",
+      "headline_en": "Smart Technology Helps Combat Dangerous Diabetic Ulcers",
+      "summary_es": "Los investigadores usan tecnología inteligente para mejorar el tratamiento de las úlceras diabéticas. Esta innovación ayuda a los profesionales de salud a cuidar mejor las heridas.",
+      "body_es": "Las úlceras diabéticas son heridas graves que no cierran fácilmente. Ahora, la tecnología inteligente ayuda a los enfermeros y médicos a tratar estas úlceras. Los vendajes modernos pueden monitorear la herida automáticamente. Esto permite detectar infecciones temprano. Los profesionales de salud reciben información importante sobre la curación. La tecnología mejora el pronóstico del paciente. Muchos hospitales usan estos sistemas nuevos. Los resultados son muy positivos. Las heridas sanan más rápido con este cuidado avanzado. La prevención de amputaciones es muy importante para los pacientes diabéticos.",
+      "body_en": "Diabetic ulcers are serious wounds that do not close easily. Now, smart technology helps nurses and doctors treat these ulcers. Modern dressings can monitor the wound automatically. This allows early detection of infections. Healthcare professionals receive important information about healing. Technology improves patient outcomes. Many hospitals use these new systems. Results are very positive. Wounds heal faster with this advanced care. Prevention of amputations is very important for diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1M2UFlLaTdBZ1FsR0xiNzQ5SE5WN2k5Z0VxVTMyR1p2SjlGbkE5dTNyenYtVzN1SzN2WVQwbVVwMm1lcGl0ampvdEdGQWItTGhEaDhELURYaUNXbEpWTkptUjEzUTFyNXYtckRxekpYcDVJX1pMRWtNMkRfNlhWNWM1NjVkaV9nell3ZFM4UW0tZlhMZEdIcVEwQ0RJMjBpc05ocEZSN1VaeE5Na2V4ejhVUzFYWHVf?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-21/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material especial para cubrir y proteger heridas",
+          "definition_en": "dressing - special material to cover and protect wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida o lesión",
+          "definition_en": "healing - process of a wound or injury getting better"
+        },
+        {
+          "word": "infección",
+          "definition_es": "enfermedad causada por bacterias o virus en una herida",
+          "definition_en": "infection - disease caused by bacteria or virus in a wound"
+        }
+      ],
+      "added_at": "2026-05-21T10:19:38.943004Z"
+    },
+    {
+      "id": "diabetic-foot-20250521",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Modelo de IA predice riesgo de amputación en extremidades inferiores diabéticas",
+      "headline_en": "AI Model Predicts Risk of Amputation in Diabetic Lower Limbs",
+      "summary_es": "Un nuevo modelo de inteligencia artificial ayuda a identificar pacientes con alto riesgo de amputación por complicaciones diabéticas. Esta tecnología permite intervención temprana y preservación de miembros.",
+      "body_es": "Las amputaciones de extremidades inferiores representan una complicación seria en pacientes diabéticos. Investigadores han desarrollado un modelo de inteligencia artificial que predice el riesgo de amputación con precisión. Este sistema analiza múltiples factores clínicos del paciente. El modelo utiliza datos de evaluaciones vasculares, infecciones recurrentes y cicatrización deficiente. Los profesionales de la salud pueden identificar pacientes en riesgo más temprano. Una detección precoz permite iniciar tratamientos preventivos agresivos. El cuidado integral incluye monitoreo vascular regular, manejo de infecciones y optimización de la cicatrización. Los hospitales especializados en cuidado de heridas implementan estos sistemas. La preservación de miembros mejora significativamente la calidad de vida del paciente.",
+      "body_en": "Lower limb amputations represent a serious complication in diabetic patients. Researchers have developed an artificial intelligence model that predicts amputation risk with precision. This system analyzes multiple clinical factors of the patient. The model uses data from vascular assessments, recurrent infections, and poor healing. Healthcare professionals can identify at-risk patients earlier. Early detection allows initiation of aggressive preventive treatments. Comprehensive care includes regular vascular monitoring, infection management, and optimization of healing. Specialized wound care hospitals implement these systems. Limb preservation significantly improves patient quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeW5sQkExRlMycjZwcXFGczVSMGpMbFF0bEdJa2I1SGNHQUFIclc4UlVxSjhlNVhFTVRPWGRGRTJIVkRYN0t4M1ZLdVB0R2t4RFF1dzlYOUJtV3JBMEVsLWc1c2pPUEdPVnFKRGVDaXdybmtvVS1QdHBtbHdBLW0zQnpTdGZjWmZRVWk1QWVtZGtFR3RESjhhbU9hbXpod3JJMWlHMUpvM0ZnclNDWFpaYUVWYWJ4YnRidnFhZkZ0Z9IBxAFBVV95cUxOeTc4QUlFemVQazhZYUI1MXFxNDczSnZ4TDRxNUQ0ZUxqSnRZWjFpa1RpX3p2LW5va011V0lzblkwczVvU1dFRVB5MzB3TWZjQ000cjVSVkZTRkFBd0p1WnBRa0kyV1d6a3RzTmdSRDlzbjAtRnp1dWlBSmNRMndGR29yMlpGdVpnRVZrZ1NTZTZSMWFwTUVYdkxueFdWUmdiNk9sLW5nUUhEY2JrQlNHbkJ1UHR6Z0JrWFFfOXRxbEg2ZWtZ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-21/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        },
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta en pie o pierna causada por diabetes",
+          "definition_en": "diabetic ulcer - open wound on foot or leg caused by diabetes"
+        },
+        {
+          "word": "preservación de miembros",
+          "definition_es": "tratamiento para evitar la pérdida de brazo o pierna",
+          "definition_en": "limb preservation - treatment to prevent loss of arm or leg"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y regeneración de una herida",
+          "definition_en": "healing - process of wound closure and regeneration"
+        }
+      ],
+      "added_at": "2026-05-21T10:19:38.943004Z"
+    },
+    {
+      "id": "burn-care-20250521",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Técnica de cierre asistido por vacío mejora injertos en áreas complejas",
+      "headline_en": "Vacuum-Assisted Closure Technique Improves Grafting in Complex Areas",
+      "summary_es": "Investigadores demuestran que la técnica de cierre asistido por vacío produce mejores resultados en injertos de piel aplicados en zonas anatómicamente desafiantes. Este método reduce complicaciones y mejora la epitelización.",
+      "body_es": "El cierre asistido por vacío es una tecnología avanzada para el tratamiento de heridas complejas, especialmente quemaduras extensas. Esta técnica utiliza presión negativa controlada para promover la granulación y preparar el lecho de la herida. Los investigadores evaluaron resultados en pacientes que recibieron injertos de piel en áreas anatómicamente difíciles. Los sitios incluían articulaciones, pliegues y regiones con movimiento frecuente. Los resultados mostraron mayor tasa de éxito en la integración del injerto. El exudado se redujo significativamente comparado con métodos tradicionales. La cicatrización fue más rápida y con menos complicaciones infecciosas. Los profesionales de cuidado de heridas reportaron mejor manejo del dolor. Esta técnica es especialmente valiosa en quemados con lesiones en múltiples áreas corporales.",
+      "body_en": "Vacuum-assisted closure is an advanced technology for treating complex wounds, especially extensive burns. This technique uses controlled negative pressure to promote granulation and prepare the wound bed. Researchers evaluated outcomes in patients who received skin grafts in anatomically difficult areas. Sites included joints, folds, and regions with frequent movement. Results showed greater success rate in graft integration. Exudate was significantly reduced compared to traditional methods. Healing was faster and with fewer infectious complications. Wound care professionals reported better pain management. This technique is especially valuable in burn patients with lesions in multiple body areas.",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeHdaTGpqSndjb1R0QTk5cS1mYmMwRVNjSkRXam1BRTRtaS13SlA5ZEtSdnhkMDNUakNDcWhBY2hiM3Y5TG41T1dDVmxFSThUQUVOZFdndmp6Z2pKNUhyQmtNQ05DVkRIM3RWTlhtMURGUHY5dnFsRWZtV1YzOU1IbTFQcVQ0UGRPZUxfektSZWdlSW5sX2FRZ0pXNUFtR2lTamphTXlXT0dSSXUyY2pZR3UyN181RV9xdlQ2T2dNMHdybW84OVNQOGdGTjQwemV3NFN6SDZ2OTdWSmpDWTlXZ0JfaUdTN1JjSlFB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-21/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cierre asistido por vacío",
+          "definition_es": "técnica que usa presión negativa para sanar heridas",
+          "definition_en": "vacuum-assisted closure - technique using negative pressure to heal wounds"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "transferencia de piel sana para cubrir áreas quemadas o lesionadas",
+          "definition_en": "skin graft - transfer of healthy skin to cover burned or injured areas"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo durante la cicatrización",
+          "definition_en": "granulation - formation of new tissue during healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de regeneración de la capa externa de la piel",
+          "definition_en": "epithelialization - process of regeneration of skin outer layer"
+        }
+      ],
+      "added_at": "2026-05-21T10:19:38.943004Z"
+    },
+    {
+      "id": "surgical-wounds-20250521",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Estudio LANTERN busca prevenir infecciones después de cirugía",
+      "headline_en": "LANTERN Study Seeks to Prevent Post-Surgical Infections",
+      "summary_es": "Un nuevo estudio de investigación evaluará estrategias innovadoras para prevenir infecciones del sitio quirúrgico. Este trabajo busca mejorar los resultados en pacientes post-operatorios.",
+      "body_es": "Las infecciones del sitio quirúrgico representan una complicación frecuente que prolonga la hospitalización. El estudio LANTERN de la Universidad de Calgary investiga métodos nuevos de prevención. Los investigadores evalúan diferentes estrategias de cierre de heridas y técnicas de antisepsia. El protocolo incluye monitoreo intensivo de signos de infección durante el período post-operatorio. Se evaluará el uso de vendajes antimicrobianos avanzados en heridas quirúrgicas. El estudio también analiza factores de riesgo individual en cada paciente. Los profesionales de enfermería registrarán datos detallados de cicatrización y complicaciones. Los resultados ayudarán a optimizar protocolos de cuidado post-quirúrgico. Una mejor prevención de infecciones reduce costos hospitalarios significativamente. Este enfoque integral protege al paciente durante su recuperación.",
+      "body_en": "Post-surgical site infections represent a frequent complication that prolongs hospitalization. The LANTERN study from University of Calgary investigates new prevention methods. Researchers evaluate different wound closure strategies and antisepsis techniques. The protocol includes intensive monitoring of infection signs during the post-operative period. The use of advanced antimicrobial dressings in surgical wounds will be evaluated. The study also analyzes individual risk factors in each patient. Nursing professionals will record detailed data on healing and complications. Results will help optimize post-surgical care protocols. Better infection prevention significantly reduces hospital costs. This comprehensive approach protects the patient during recovery.",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSVQ3UEZKaXplWUE3cU11RWMwMGd0eHpDaS1BbXE0aXg3c05KUnc4cDVaNHVkWkcyQXFRWU1qYU1KbDFUVUphOUd5bjloWUhZbXlqQ3VRbkd5MENtTlgyLTlKSmh1RXMtMzRUeVAxQXd1U1loMW5zVUF3bVZTaE85RUhXMjdnclRxT2RLYw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-21/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección del sitio quirúrgico",
+          "definition_es": "complicación donde bacterias invaden la herida después de cirugía",
+          "definition_en": "surgical site infection - complication where bacteria invade wound after surgery"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y regeneración de la herida quirúrgica",
+          "definition_en": "healing - process of surgical wound closure and regeneration"
+        },
+        {
+          "word": "vendaje antimicrobiano",
+          "definition_es": "apósito que combate bacterias y previene infecciones",
+          "definition_en": "antimicrobial dressing - dressing that combats bacteria and prevents infections"
+        },
+        {
+          "word": "post-operatorio",
+          "definition_es": "período de tiempo después de la cirugía",
+          "definition_en": "post-operative - period of time after surgery"
+        }
+      ],
+      "added_at": "2026-05-21T10:19:38.943004Z"
+    },
+    {
+      "id": "wound-research-20250521",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Mercado de vendajes vasculares crece con innovaciones en cuidado de heridas crónicas",
+      "headline_en": "Vascular Dressing Market Grows with Innovations in Chronic Wound Care",
+      "summary_es": "Las perspectivas del mercado de vendajes vasculares muestran crecimiento significativo hasta 2035 impulsado por innovación en tecnologías para heridas crónicas. Los investigadores desarrollan apósitos más efectivos para mejorar resultados clínicos.",
+      "body_es": "El mercado global de vendajes vasculares experimentará crecimiento sostenido durante la próxima década. Los profesionales de cuidado de heridas demandan apósitos innovadores con mejor capacidad de absorción. Las nuevas tecnologías incluyen materiales inteligentes que responden a cambios en el microambiente de la herida. Estos vendajes avanzados promueven mejor angiogénesis y epitelización en úlceras crónicas. La investigación también enfatiza la importancia de la evaluación continua de exudado. Los vendajes vasculares modernos permiten mejor control de humedad en la herida. Las aplicaciones clínicas incluyen úlceras por presión, úlceras diabéticas y heridas vasculares. Los fabricantes invierten en estudios clínicos rigurosos para demostrar efectividad. Los resultados muestran mejora significativa en tiempos de cicatrización. Esta innovación beneficia principalmente a pacientes con lesiones complejas que no responden a tratamientos convencionales.",
+      "body_en": "The global vascular dressing market will experience sustained growth over the next decade. Wound care professionals demand innovative dressings with better absorption capacity. New technologies include smart materials that respond to changes in wound microenvironment. These advanced dressings promote better angiogenesis and epithelialization in chronic ulcers. Research also emphasizes the importance of continuous exudate evaluation. Modern vascular dressings allow better moisture control in the wound. Clinical applications include pressure ulcers, diabetic ulcers, and vascular wounds. Manufacturers invest in rigorous clinical studies to demonstrate effectiveness. Results show significant improvement in healing times. This innovation especially benefits patients with complex lesions that do not respond to conventional treatments.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZGZnQ3NHdzc3ZWxvWTlDbFROTU9aTDhJV3JSZk0xM1RmZnQzR3lrTVhUV0VFU2VoMk9YV01Wbmx0ZHF5TkFMY2wwY05DUEd6YnJTUVI0ZVVKQXF6LWFGT0d0T3VQX1lCdld2U1ZTNnYySmRHM3FNVXk0RS1jWkdOb1YyZ1QtektLY1FxcmljUkhTWlZUTFZINWRJMTBIWjRKRVNfQWxFWjJLd1FxNVhPQTJMMUMxcjgwSTRZM3pENU0zN196R2EtSV9NWkk5amtFQXJjXzBHQnpCN3JEampCSXpYOUJFTzYta3NTek11S08tRG5rQ3c?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-21/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje vascular",
+          "definition_es": "apósito especial que favorece la irrigación sanguínea",
+          "definition_en": "vascular dressing - special dressing that promotes blood flow"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos durante la cicatrización",
+          "definition_en": "angiogenesis - formation of new blood vessels during healing"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que drena de una herida",
+          "definition_en": "exudate - fluid that drains from a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "regeneración de la capa externa de la piel en la herida",
+          "definition_en": "epithelialization - regeneration of skin outer layer in wound"
+        }
+      ],
+      "added_at": "2026-05-21T10:19:38.943004Z"
+    },
     {
       "id": "chronic-wounds-20250520",
       "category": "Chronic Wounds",
@@ -21905,6 +22090,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-20T10:17:01.548147Z",
+  "last_updated": "2026-05-21T10:19:38.943004Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
