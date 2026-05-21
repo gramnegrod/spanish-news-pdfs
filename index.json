@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-21",
+      "filename": "spanish_lesson_2026-05-21.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-21.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump crea fondo controversial de 1.776 millones de dólares",
+          "headline_en": "Trump creates controversial fund of 1.776 billion dollars",
+          "body_es": "El expresidente Donald Trump anunció la creación de un fondo de 1.776 millones de dólares. Este dinero se usará para investigar lo que él llama 'uso político' del sistema judicial. La cifra 1.776 hace referencia al año de independencia de Estados Unidos. Los críticos muestran indignación por esta decisión. Dicen que Trump quiere usar el dinero para defenderse de sus problemas legales. Sin embargo, será difícil desafiar este fondo en los tribunales. Los expertos legales explican que Trump tiene derecho a recaudar dinero para sus causas políticas. El fondo ya comenzó a recibir donaciones de sus seguidores.",
+          "body_en": "Former president Donald Trump announced the creation of a 1.776 billion dollar fund. This money will be used to investigate what he calls 'political use' of the judicial system. The figure 1.776 references the year of American independence. Critics show outrage at this decision. They say Trump wants to use the money to defend himself from his legal problems. However, it will be difficult to challenge this fund in courts. Legal experts explain that Trump has the right to raise money for his political causes. The fund already began receiving donations from his followers.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Economista advierte sobre 40% de riesgo de recesión en Estados Unidos",
+          "headline_en": "Economist warns about 40% recession risk in United States",
+          "body_es": "Un importante economista dio la alarma sobre la economía estadounidense. Según sus cálculos, hay un 40% de probabilidad de recesión en los próximos meses. El experto explicó que los precios de las acciones están muy altos. Estas acciones están desconectadas de la realidad económica actual. Las empresas valen más dinero en la bolsa de lo que realmente producen. Esta situación es peligrosa para la economía. Cuando los precios de las acciones bajan rápidamente, muchas personas pierden dinero. Esto puede causar una crisis económica grande. El economista recomienda ser muy cuidadoso con las inversiones. También sugiere que el gobierno debe prepararse para esta posible recesión.",
+          "body_en": "An important economist sounded the alarm about the American economy. According to his calculations, there is a 40% probability of recession in the coming months. The expert explained that stock prices are very high. These stocks are disconnected from current economic reality. Companies are worth more money in the stock market than they actually produce. This situation is dangerous for the economy. When stock prices fall rapidly, many people lose money. This can cause a major economic crisis. The economist recommends being very careful with investments. He also suggests that the government should prepare for this possible recession.",
+          "source": "Fox Business"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nvidia obtiene ganancias récord de 58.3 mil millones por boom de IA",
+          "headline_en": "Nvidia achieves record profits of 58.3 billion from AI boom",
+          "body_es": "La empresa tecnológica Nvidia reportó ganancias extraordinarias de 58.3 mil millones de dólares. Este éxito se debe al crecimiento explosivo de la inteligencia artificial. Nvidia fabrica chips especiales que las computadoras necesitan para funcionar con IA. Muchas empresas quieren usar inteligencia artificial en sus negocios. Por esto, compran los productos de Nvidia. La demanda es tan alta que la empresa no puede producir suficientes chips. Los precios de las acciones de Nvidia subieron mucho este año. Los expertos dicen que la inteligencia artificial está cambiando toda la economía. Nvidia se ha convertido en una de las empresas más valiosas del mundo. Su éxito muestra el poder de la nueva tecnología.",
+          "body_en": "Technology company Nvidia reported extraordinary profits of 58.3 billion dollars. This success is due to the explosive growth of artificial intelligence. Nvidia manufactures special chips that computers need to function with AI. Many companies want to use artificial intelligence in their businesses. For this reason, they buy Nvidia's products. Demand is so high that the company cannot produce enough chips. Nvidia's stock prices rose a lot this year. Experts say that artificial intelligence is changing the entire economy. Nvidia has become one of the most valuable companies in the world. Its success shows the power of new technology.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "fondo",
+          "syllables": "FON-do",
+          "pos": "sustantivo",
+          "context": "Trump creó un fondo de 1.776 millones de dólares.",
+          "definition_es": "Dinero que se guarda para un propósito específico",
+          "definition_en": "Money set aside for a specific purpose; fund"
+        },
+        {
+          "word": "indignación",
+          "syllables": "in-dig-na-CIÓN",
+          "pos": "sustantivo",
+          "context": "El fondo causó indignación entre los críticos.",
+          "definition_es": "Sentimiento de enfado por algo injusto",
+          "definition_en": "Feeling of anger about something unfair; outrage"
+        },
+        {
+          "word": "recesión",
+          "syllables": "re-ce-SIÓN",
+          "pos": "sustantivo",
+          "context": "El economista advierte sobre el riesgo de recesión.",
+          "definition_es": "Período cuando la economía de un país se debilita",
+          "definition_en": "Period when a country's economy weakens; recession"
+        },
+        {
+          "word": "desconectado",
+          "syllables": "des-co-nec-TA-do",
+          "pos": "adjetivo",
+          "context": "Las acciones están desconectadas de la realidad.",
+          "definition_es": "Sin conexión o relación con algo",
+          "definition_en": "Without connection or relation to something; disconnected"
+        },
+        {
+          "word": "ganancias",
+          "syllables": "ga-NAN-cias",
+          "pos": "sustantivo",
+          "context": "Las ganancias de Nvidia llegaron a 58.3 mil millones.",
+          "definition_es": "Dinero que se obtiene después de vender algo",
+          "definition_en": "Money obtained after selling something; profits"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial impulsa el crecimiento de Nvidia.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans; artificial intelligence"
+        },
+        {
+          "word": "alarma",
+          "syllables": "a-LAR-ma",
+          "pos": "sustantivo",
+          "context": "El economista dio la alarma sobre los riesgos económicos.",
+          "definition_es": "Aviso de peligro o problema",
+          "definition_en": "Warning of danger or problem; alarm"
+        },
+        {
+          "word": "impulsar",
+          "syllables": "im-pul-SAR",
+          "pos": "verbo",
+          "context": "La IA impulsa el crecimiento de la empresa.",
+          "definition_es": "Hacer que algo crezca o se desarrolle más rápido",
+          "definition_en": "To make something grow or develop faster; to boost"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'fondo' en el contexto financiero?",
+          "options": [
+            "Dinero guardado para un propósito específico",
+            "Una cuenta bancaria normal",
+            "Un tipo de inversión arriesgada",
+            "Un préstamo del gobierno"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'recesión'?",
+          "options": [
+            "Crecimiento económico rápido",
+            "Período cuando la economía se debilita",
+            "Aumento de precios",
+            "Creación de nuevos empleos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa que algo está 'desconectado' de la realidad?",
+          "options": [
+            "Está muy conectado",
+            "No tiene relación con la situación real",
+            "Es muy realista",
+            "Funciona perfectamente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'ganancias' de una empresa?",
+          "options": [
+            "Los gastos totales",
+            "El dinero que se pierde",
+            "El dinero que se obtiene después de vender",
+            "Los impuestos que se pagan"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué el número 1.776 es significativo en el fondo de Trump?",
+          "options": [
+            "Es su año de nacimiento",
+            "Hace referencia a la independencia de Estados Unidos",
+            "Es la cantidad exacta que necesita",
+            "Representa su edad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según el economista, ¿cuál es el porcentaje de riesgo de recesión?",
+          "options": [
+            "30%",
+            "40%",
+            "50%",
+            "60%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero ganó Nvidia según la noticia?",
+          "options": [
+            "58.3 millones de dólares",
+            "58.3 mil millones de dólares",
+            "38.5 mil millones de dólares",
+            "85.3 mil millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué es difícil desafiar el fondo de Trump en los tribunales?",
+          "options": [
+            "Porque es ilegal hacerlo",
+            "Porque él tiene derecho a recaudar dinero para causas políticas",
+            "Porque el fondo es muy pequeño",
+            "Porque ya se gastó todo el dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué problema identifica el economista con las acciones?",
+          "options": [
+            "Están muy baratas",
+            "Están desconectadas de la realidad económica",
+            "No se pueden vender",
+            "Solo suben de precio"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué fabrica Nvidia que explica su éxito?",
+          "options": [
+            "Teléfonos móviles",
+            "Computadoras completas",
+            "Chips especiales para inteligencia artificial",
+            "Software de oficina"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-21T10:13:39.247054"
+    },
+    {
       "date": "2026-05-20",
       "filename": "spanish_lesson_2026-05-20.pdf",
       "path": "pdfs/spanish_lesson_2026-05-20.pdf",
@@ -36434,7 +36656,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-20T10:06:17.089176",
+  "last_updated": "2026-05-21T10:13:39.247090",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
