@@ -1,11 +1,196 @@
 {
-  "date": "2026-05-21",
-  "generated_at": "2026-05-21T10:19:38.943004Z",
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:08:54.616086Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 597,
+  "total_stories": 602,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250522",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Las heridas crónicas necesitan cuidados completos",
+      "headline_en": "Chronic wounds require comprehensive care",
+      "summary_es": "Las heridas que no cierran necesitan un tratamiento especial. Los médicos usan varios métodos para ayudar a los pacientes.",
+      "body_es": "Las heridas crónicas son heridas que no cierran normalmente. Estos problemas afectan a muchas personas. Los pacientes necesitan cuidados completos y especiales. El médico examina la herida. Limpia la herida con cuidado. Aplica vendajes especiales. El paciente debe mantener limpio el área. Es importante cambiar los vendajes frecuentemente. La familia del paciente ayuda en casa. El equipo médico trabaja con el paciente. Todos trabajan juntos para la curación. Las heridas crónicas necesitan tiempo para sanar. El tratamiento completo da mejores resultados.",
+      "body_en": "Chronic wounds are wounds that do not close normally. These problems affect many people. Patients need special comprehensive care. The doctor examines the wound carefully. He cleans the wound with care. He applies special dressings. The patient must keep the area clean. It is important to change dressings frequently. The patient's family helps at home. The medical team works with the patient. Everyone works together for healing. Chronic wounds need time to heal. Complete treatment gives better results.",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT01JbFY0MF9KY29La21OQ2NvNHhtZ2FYWTNueWpsb0paeFk5ODA2ZU5hVGRSaWNULTY0bFBLd0Z3enVvczQwLXdKMTluRnU4NnNNOHFrLXp2cUJxUnEzdmxnbXlybFRXbVAxUmtUTE9UQ1ZvNDktM0p4Z1Rua3JNUHNxZ3dGeXhMeXZyVUcxZHZCeXdWaE5WaQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-22/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal normally"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material que cubre y protege la herida",
+          "definition_en": "dressing - material that covers and protects the wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar y cerrar la herida",
+          "definition_en": "healing - process of the wound getting better and closing"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "limpieza de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        }
+      ],
+      "added_at": "2026-05-22T10:08:54.616086Z"
+    },
+    {
+      "id": "diabetic-foot-20250522",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Prevención del pie diabético y conservación de las extremidades",
+      "headline_en": "Prevention of diabetic foot and limb preservation",
+      "summary_es": "DHR Health organizó un simposio sobre cuidado de heridas enfocado en prevenir complicaciones diabéticas y conservar las extremidades de los pacientes.",
+      "body_es": "DHR Health realizó un simposio de cuidado de heridas que se concentró en la prevención de la diabetes y la preservación de las extremidades. Los expertos explicaron cómo el control del azúcar en sangre es fundamental para evitar complicaciones graves. El pie diabético es una complicación seria que puede llevar a la amputación si no se trata adecuadamente. Los médicos demostraron técnicas modernas de evaluación de heridas. También presentaron nuevos apósitos y métodos de cuidado. Los profesionales de la salud aprendieron a identificar signos de infección tempranamente. La educación del paciente es esencial para prevenir úlceras. Los pacientes deben revisar sus pies diariamente. El uso de calzado adecuado reduce el riesgo significativamente. La colaboración entre médicos y pacientes mejora los resultados.",
+      "body_en": "DHR Health held a wound care symposium focused on diabetes prevention and limb preservation. Experts explained how blood sugar control is fundamental to avoiding serious complications. Diabetic foot is a serious complication that can lead to amputation if not treated properly. Doctors demonstrated modern wound evaluation techniques. They also presented new dressings and care methods. Healthcare professionals learned to identify signs of infection early. Patient education is essential to prevent ulcers. Patients should review their feet daily. Proper footwear reduces risk significantly. Collaboration between doctors and patients improves outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFRMVk9VdDlUYjdqWVN2amFFNGhuZjJ4cXdxblo5b2ZSZnJkSFdKLWZLd3RreWpwaFREQ25RZ3RfV3FiM0VBSkVzQnVCbDduSmdmWl8zU2xTby13UlJpR2FYeHRKb19QN1lFQTl2d280U2c0M19JVk13LTc2ZGpBSW4yaHFsYnVMTjE3Q0ZGbEtsUFo5YnpWUnRzbmFVVHphRC1PNjFXa3lvM0diNlFSOG1n?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-22/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación en el pie causada por la diabetes",
+          "definition_en": "diabetic foot - complication in the foot caused by diabetes"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel o tejido",
+          "definition_en": "ulcer - open wound in skin or tissue"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material adhesivo para cubrir y proteger heridas",
+          "definition_en": "dressing - adhesive material to cover and protect wounds"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-05-22T10:08:54.616086Z"
+    },
+    {
+      "id": "burn-care-20250522",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "El mercado de cuidado de quemaduras crece significativamente",
+      "headline_en": "Burn care market grows significantly",
+      "summary_es": "El mercado global de cuidado de quemaduras se valúa en 4.82 mil millones de dólares y se espera que crezca a una tasa anual del 7.40% hasta 2032.",
+      "body_es": "El mercado de cuidado de quemaduras está experimentando un crecimiento importante en todo el mundo. Actualmente, el valor del mercado es de 4.82 mil millones de dólares. Se proyecta que crecerá a una tasa anual del 7.40% entre 2026 y 2032. Este crecimiento refleja la importancia de mejorar el tratamiento de quemaduras. Los hospitales invierten en tecnologías nuevas para el cuidado de quemados. Los apósitos avanzados ayudan a los pacientes a sanar más rápidamente. Los centros especializados ofrecen tratamientos multidisciplinarios. Los médicos utilizan técnicas de reconstrucción cutánea innovadoras. La educación sobre prevención de quemaduras es fundamental. Los pacientes quemados necesitan cuidados intensivos y prolongados. La investigación continúa mejorando los resultados para los pacientes.",
+      "body_en": "The burn care market is experiencing significant growth worldwide. Currently, the market value is 4.82 billion dollars. It is projected to grow at an annual rate of 7.40% between 2026 and 2032. This growth reflects the importance of improving burn treatment. Hospitals are investing in new technologies for burn care. Advanced dressings help patients heal faster. Specialized centers offer multidisciplinary treatments. Doctors use innovative skin reconstruction techniques. Education about burn prevention is fundamental. Burn patients need intensive and prolonged care. Research continues to improve patient outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWpsWlA3UXNNNTBCQk9KQ1pMang1T0ZoaDRWdUoxUHloRnBtdWJ6dUgzRmJaMDc4bzluT1kxbGdLbUdJa01VVmg2bl9OalRMOTFuWW9VTUd0a3p2STBNWnM2RmJhZHFqVDhtQ2hEQUVFS3dwOVJZSkJoTGxBVFMtSjMtNDlfRVpsOGdOZmNtcVo5WnRDVXQzeUZaUlFKZWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-22/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to skin caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "apósito avanzado",
+          "definition_es": "material especial para proteger y sanar quemaduras",
+          "definition_en": "advanced dressing - special material to protect and heal burns"
+        },
+        {
+          "word": "reconstrucción cutánea",
+          "definition_es": "procedimiento para restaurar la piel dañada",
+          "definition_en": "skin reconstruction - procedure to restore damaged skin"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de tejido nuevo durante la curación",
+          "definition_en": "scarring - formation of new tissue during healing"
+        }
+      ],
+      "added_at": "2026-05-22T10:08:54.616086Z"
+    },
+    {
+      "id": "surgical-wounds-20250522",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Manejo de riesgos posoperatorios en reconstrucción mamaria",
+      "headline_en": "Managing postoperative risks in breast reconstruction",
+      "summary_es": "Un análisis clínico compara los riesgos y complicaciones entre la reconstrucción mamaria con implantes y la reconstrucción autóloga.",
+      "body_es": "El manejo de complicaciones posoperatorias es crucial en la reconstrucción mamaria. Los cirujanos deben elegir entre implantes y tejido autólogo según el caso del paciente. Ambas técnicas tienen beneficios y riesgos diferentes. La reconstrucción con implantes tiene una recuperación más rápida inicialmente. Sin embargo, requiere vigilancia a largo plazo para detectar complicaciones. La reconstrucción autóloga utiliza tejido del propio cuerpo de la paciente. Este método ofrece resultados más naturales pero requiere procedimientos quirúrgicos más complejos. Los cirujanos deben evaluar factores como la edad, salud general y preferencias. Las infecciones pueden ocurrir en ambas técnicas. La comunicación clara entre el equipo médico y la paciente mejora significativamente los resultados. El seguimiento posoperatorio cuidadoso previene complicaciones graves.",
+      "body_en": "Managing postoperative complications is crucial in breast reconstruction. Surgeons must choose between implants and autologous tissue depending on the patient's case. Both techniques have different benefits and risks. Implant-based reconstruction has initially faster recovery. However, it requires long-term monitoring to detect complications. Autologous reconstruction uses tissue from the patient's own body. This method offers more natural results but requires more complex surgical procedures. Surgeons must evaluate factors such as age, overall health, and preferences. Infections can occur with both techniques. Clear communication between the medical team and patient significantly improves outcomes. Careful postoperative follow-up prevents serious complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0VSdXF0OVZMSjlhb2xrZVdFQ3R5SGc2dVZ3cTRBQVNZTlZwU3U5dDREbVdOUW5KbkE5SzA0N3UzMkRBVEF6MFlzVEh1QnhIcm9OdnZtUUw0ODRHNXlKVlcyQzVieURXOU9FTVlFY2k5eHFsd3FUeHNYSWp0dk9vMzRaZEJuNTZzTHo3NnlKMnlxalJ6ZzlHT0NaUDFJbDkyeV84eHNiZ29zemhoYzJNUg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-22/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "sutura",
+          "definition_es": "hilo o material para cerrar heridas quirúrgicas",
+          "definition_en": "suture - thread or material to close surgical wounds"
+        },
+        {
+          "word": "complicación posoperatoria",
+          "definition_es": "problema que ocurre después de una cirugía",
+          "definition_en": "postoperative complication - problem that occurs after surgery"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo de sangre a un área",
+          "definition_en": "ischemia - lack of blood flow to an area"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de células o tejido vivo",
+          "definition_en": "necrosis - death of living cells or tissue"
+        }
+      ],
+      "added_at": "2026-05-22T10:08:54.616086Z"
+    },
+    {
+      "id": "wound-research-20250522",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Investigación avanza en acceso a terapias de protones para curación",
+      "headline_en": "Research advances in accessing proton therapy for healing",
+      "summary_es": "La Universidad de Utah Health expande el acceso a terapia de protones, ofreciendo nuevas esperanzas para mejorar la curación de heridas y tejidos.",
+      "body_es": "La Universidad de Utah Health está expandiendo el acceso a la terapia de protones para mejorar la curación de heridas y la salud de los tejidos. La terapia de protones es una técnica avanzada de radiación que permite tratar lesiones con mayor precisión. Este tratamiento puede beneficiar a pacientes con heridas complejas y difíciles de cicatrizar. La investigación demuestra que la terapia de protones estimula la regeneración de tejidos dañados. Los médicos pueden dirigir la radiación específicamente al área afectada sin dañar el tejido sano circundante. Esta tecnología es especialmente útil para pacientes que no responden a tratamientos convencionales. La expansión del acceso significa que más pacientes pueden recibir este tratamiento. Los investigadores continúan estudiando los mecanismos de curación. Se espera que esta terapia revolucione el tratamiento de heridas crónicas y quemaduras graves.",
+      "body_en": "University of Utah Health is expanding access to proton therapy to improve wound healing and tissue health. Proton therapy is an advanced radiation technique that allows treating injuries with greater precision. This treatment can benefit patients with complex wounds that are difficult to heal. Research shows that proton therapy stimulates regeneration of damaged tissue. Doctors can direct radiation specifically to the affected area without damaging surrounding healthy tissue. This technology is especially useful for patients who do not respond to conventional treatments. Expanding access means more patients can receive this treatment. Researchers continue studying the mechanisms of healing. This therapy is expected to revolutionize the treatment of chronic wounds and severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbnZzSF9uLWZsdEdHRTl3SVI2Z29nZ1dGTVJvSi0yLTdwLXkwYlhKYnNRc2ZzdGdUSzRxVWlkakQ5XzVOSVlDaTBwZVZRWVB0OHdrY3FjcjEyQVN6bUxtZnpfMmhVTm5pbXc1bFhENmhQWVNRMnE5NG40Y1FLcjBORDFwOTY3Wk5lOEdLT3NwY09ZMkJDRmpqYXVtMEx1eUxDajVnSUhnd3JQeXZPMHdZWVVLdFlianR6cFdQdm5ubzZVMkNseDVHRw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-22/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "terapia de protones",
+          "definition_es": "tratamiento con radiación de alta precisión para sanar tejidos",
+          "definition_en": "proton therapy - high-precision radiation treatment to heal tissue"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "crecimiento y formación de nuevo tejido",
+          "definition_en": "regeneration - growth and formation of new tissue"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - process of new skin formation over a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido rojo que aparece durante la cicatrización",
+          "definition_en": "granulation - red tissue that appears during healing"
+        }
+      ],
+      "added_at": "2026-05-22T10:08:54.616086Z"
+    },
     {
       "id": "chronic-wounds-20250521",
       "category": "Chronic Wounds",
@@ -22090,6 +22275,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-21T10:19:38.943004Z",
+  "last_updated": "2026-05-22T10:08:54.616086Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
