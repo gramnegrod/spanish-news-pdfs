@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-22",
+      "filename": "spanish_lesson_2026-05-22.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-22.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Senadores republicanos rechazan fondo de 1.8 mil millones de Trump",
+          "headline_en": "Republican senators reject Trump's $1.8 billion fund",
+          "body_es": "Los senadores republicanos no están de acuerdo con la propuesta del presidente Trump. Trump quiere crear un fondo especial de 1.8 mil millones de dólares. Este fondo se llama 'anti-weaponization' o 'anti-armamentización'. Los senadores republicanos rechazan esta idea. Por esta razón, tuvieron que retrasar una votación importante en el Senado. La votación era clave para aprobar el fondo. Muchos senadores piensan que el fondo no es necesario ahora. Otros dicen que es muy costoso para el gobierno. Esta situación muestra que no todos los republicanos apoyan todas las ideas de Trump. El retraso significa que necesitan más tiempo para discutir el tema.",
+          "body_en": "Republican senators disagree with President Trump's proposal. Trump wants to create a special fund of 1.8 billion dollars. This fund is called 'anti-weaponization'. Republican senators reject this idea. For this reason, they had to delay an important vote in the Senate. The vote was key to approving the fund. Many senators think the fund is not necessary now. Others say it is too costly for the government. This situation shows that not all Republicans support all of Trump's ideas. The delay means they need more time to discuss the issue.",
+          "source": "Los Angeles Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Solicitudes de desempleo bajan a 209,000 en Estados Unidos",
+          "headline_en": "Unemployment applications drop to 209,000 in the United States",
+          "body_es": "Las solicitudes de ayuda por desempleo bajaron en Estados Unidos la semana pasada. Ahora son 209,000 solicitudes nuevas por semana. Este número es más bajo que la semana anterior. Los despidos siguen siendo bajos en todo el país. Esto es una buena noticia para la economía estadounidense. Muchos expertos estaban preocupados por la incertidumbre económica actual. Sin embargo, las empresas no están despidiendo muchos trabajadores. La mayoría de las compañías mantienen a sus empleados. Este dato muestra que el mercado laboral sigue fuerte. Los trabajadores tienen más seguridad en sus empleos. Los economistas ven esto como una señal positiva para el futuro económico del país.",
+          "body_en": "Unemployment aid applications fell in the United States last week. Now there are 209,000 new applications per week. This number is lower than the previous week. Layoffs remain low throughout the country. This is good news for the American economy. Many experts were worried about current economic uncertainty. However, companies are not firing many workers. Most companies keep their employees. This data shows that the job market remains strong. Workers have more security in their jobs. Economists see this as a positive sign for the country's economic future.",
+          "source": "Audacy"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Gobernador de California firma orden sobre inteligencia artificial",
+          "headline_en": "California Governor signs order about artificial intelligence",
+          "body_es": "El gobernador Gavin Newsom firmó una orden ejecutiva muy importante en California. Esta orden es la primera de su tipo en Estados Unidos. El objetivo es preparar a los trabajadores y empresas para los cambios que puede traer la inteligencia artificial. La inteligencia artificial, o IA, puede cambiar muchos trabajos en el futuro. Algunos trabajos pueden desaparecer, pero otros nuevos pueden aparecer. La orden de Newsom quiere ayudar a las personas a adaptarse a estos cambios. Las empresas también necesitan prepararse para usar esta nueva tecnología. California es un estado líder en tecnología en Estados Unidos. Por eso, esta decisión es muy importante para todo el país. Otros estados pueden seguir el ejemplo de California.",
+          "body_en": "Governor Gavin Newsom signed a very important executive order in California. This order is the first of its kind in the United States. The goal is to prepare workers and businesses for changes that artificial intelligence might bring. Artificial intelligence, or AI, can change many jobs in the future. Some jobs may disappear, but new ones may appear. Newsom's order wants to help people adapt to these changes. Companies also need to prepare to use this new technology. California is a leading technology state in the United States. Therefore, this decision is very important for the entire country. Other states may follow California's example.",
+          "source": "California State Portal"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "senador",
+          "syllables": "se-na-DOR",
+          "pos": "sustantivo",
+          "context": "Los senadores republicanos rechazan el fondo propuesto por Trump.",
+          "definition_es": "Persona elegida para formar parte del Senado",
+          "definition_en": "A member of the Senate"
+        },
+        {
+          "word": "rechazar",
+          "syllables": "re-cha-ZAR",
+          "pos": "verbo",
+          "context": "Los senadores republicanos rechazan la propuesta de fondos.",
+          "definition_es": "No aceptar algo, decir que no",
+          "definition_en": "To reject, to refuse"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "des-em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Las solicitudes de desempleo bajaron la semana pasada.",
+          "definition_es": "Situación de no tener trabajo",
+          "definition_en": "Unemployment"
+        },
+        {
+          "word": "solicitud",
+          "syllables": "so-li-ci-TUD",
+          "pos": "sustantivo",
+          "context": "Las solicitudes de ayuda por desempleo disminuyeron.",
+          "definition_es": "Documento para pedir algo oficialmente",
+          "definition_en": "Application, request"
+        },
+        {
+          "word": "despido",
+          "syllables": "des-PI-do",
+          "pos": "sustantivo",
+          "context": "Los despidos siguen siendo bajos en Estados Unidos.",
+          "definition_es": "Cuando una empresa termina el trabajo de un empleado",
+          "definition_en": "Layoff, dismissal"
+        },
+        {
+          "word": "firmar",
+          "syllables": "fir-MAR",
+          "pos": "verbo",
+          "context": "El gobernador Newsom firmó una orden ejecutiva importante.",
+          "definition_es": "Escribir el nombre en un documento para hacerlo oficial",
+          "definition_en": "To sign"
+        },
+        {
+          "word": "preparar",
+          "syllables": "pre-pa-RAR",
+          "pos": "verbo",
+          "context": "La orden busca preparar a los trabajadores para cambios futuros.",
+          "definition_es": "Hacer que algo esté listo para el futuro",
+          "definition_en": "To prepare"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial puede cambiar muchos trabajos.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'rechazar'?",
+          "options": [
+            "Aceptar algo",
+            "No aceptar algo",
+            "Pensar en algo",
+            "Comprar algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es el 'desempleo'?",
+          "options": [
+            "Tener mucho trabajo",
+            "No tener trabajo",
+            "Trabajar mucho",
+            "Ganar dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'firmar' un documento?",
+          "options": [
+            "Leerlo",
+            "Escribir el nombre para hacerlo oficial",
+            "Guardarlo",
+            "Copiarlo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inteligencia artificial'?",
+          "options": [
+            "Un tipo de escuela",
+            "Tecnología que permite a las máquinas pensar",
+            "Un libro",
+            "Un trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero quiere Trump para su fondo especial?",
+          "options": [
+            "1.8 millones de dólares",
+            "1.8 mil millones de dólares",
+            "209,000 dólares",
+            "2.8 mil millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántas solicitudes de desempleo hubo la semana pasada?",
+          "options": [
+            "209,000",
+            "1.8 millones",
+            "300,000",
+            "150,000"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Quién firmó la orden ejecutiva sobre inteligencia artificial?",
+          "options": [
+            "Trump",
+            "Un senador republicano",
+            "Gavin Newsom",
+            "Un empresario"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué se retrasó la votación en el Senado?",
+          "options": [
+            "Porque Trump no quería votar",
+            "Porque los senadores republicanos rechazan el fondo",
+            "Porque no había dinero",
+            "Porque era muy tarde"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué muestra el bajo número de solicitudes de desempleo?",
+          "options": [
+            "Que la economía está mal",
+            "Que hay muchos despidos",
+            "Que el mercado laboral sigue fuerte",
+            "Que nadie quiere trabajar"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué es importante la orden de California sobre IA?",
+          "options": [
+            "Porque California no es importante",
+            "Porque es la primera de su tipo en Estados Unidos",
+            "Porque solo afecta a California",
+            "Porque prohíbe la inteligencia artificial"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-22T10:03:35.113634"
+    },
+    {
       "date": "2026-05-21",
       "filename": "spanish_lesson_2026-05-21.pdf",
       "path": "pdfs/spanish_lesson_2026-05-21.pdf",
@@ -36656,7 +36878,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-21T10:13:39.247090",
+  "last_updated": "2026-05-22T10:03:35.113667",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
