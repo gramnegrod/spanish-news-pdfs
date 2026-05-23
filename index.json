@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-23",
+      "filename": "spanish_lesson_2026-05-23.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-23.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Candidatos presidenciales inician campaña electoral intensa",
+          "headline_en": "Presidential candidates begin intense electoral campaign",
+          "body_es": "Los candidatos presidenciales han comenzado una campaña electoral muy activa en todo el país. El candidato demócrata visitó California y Texas para hablar con los votantes sobre temas económicos. Su principal mensaje es crear más empleos y reducir los precios de la vivienda. Por otro lado, el candidato republicano se concentró en estados del centro del país. Él prometió bajar los impuestos y mejorar la seguridad nacional. Las elecciones presidenciales tendrán lugar en noviembre. Los expertos dicen que esta será una competencia muy cerrada. Ambos candidatos necesitan ganar el apoyo de votantes independientes. Las próximas semanas serán cruciales para definir quién tiene más posibilidades de ganar.",
+          "body_en": "Presidential candidates have begun a very active electoral campaign throughout the country. The Democratic candidate visited California and Texas to talk with voters about economic issues. His main message is to create more jobs and reduce housing prices. On the other hand, the Republican candidate focused on states in the center of the country. He promised to lower taxes and improve national security. The presidential elections will take place in November. Experts say this will be a very close competition. Both candidates need to win the support of independent voters. The coming weeks will be crucial in defining who has the best chances of winning.",
+          "source": "AP News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La inflación baja pero los precios siguen siendo altos",
+          "headline_en": "Inflation drops but prices remain high",
+          "body_es": "La inflación en Estados Unidos ha bajado al 3% en mayo, según datos del gobierno. Esto es una buena noticia después de meses difíciles para las familias americanas. Sin embargo, los precios de alimentos y gasolina siguen siendo muy altos comparados con años anteriores. El mercado de trabajo continúa fuerte con pocas personas sin empleo. Los salarios han subido, pero no lo suficiente para compensar el aumento de precios. Los expertos económicos creen que la situación mejorará lentamente durante el resto del año. El banco central está considerando cambiar las tasas de interés para ayudar a la economía. Las empresas están invirtiendo menos dinero en nuevos proyectos por la incertidumbre económica.",
+          "body_en": "Inflation in the United States has dropped to 3% in May, according to government data. This is good news after difficult months for American families. However, food and gasoline prices remain very high compared to previous years. The job market continues strong with few people unemployed. Wages have risen, but not enough to compensate for the price increases. Economic experts believe the situation will improve slowly during the rest of the year. The central bank is considering changing interest rates to help the economy. Companies are investing less money in new projects due to economic uncertainty.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nuevos avances en inteligencia artificial transforman el trabajo",
+          "headline_en": "New advances in artificial intelligence transform work",
+          "body_es": "Las empresas tecnológicas han presentado nuevos sistemas de inteligencia artificial que pueden hacer trabajos más complejos. Estas nuevas herramientas pueden escribir códigos de computadora, crear presentaciones y analizar datos financieros. Muchas compañías están empezando a usar esta tecnología para ser más eficientes. Los trabajadores están preocupados porque algunos empleos pueden desaparecer. Sin embargo, los expertos dicen que también se crearán nuevos tipos de trabajo. Las universidades están desarrollando cursos especiales para enseñar estas nuevas habilidades. El gobierno está estudiando cómo regular esta tecnología para proteger a los trabajadores. La inversión en inteligencia artificial ha aumentado mucho este año en todo el país.",
+          "body_en": "Technology companies have presented new artificial intelligence systems that can do more complex jobs. These new tools can write computer code, create presentations and analyze financial data. Many companies are starting to use this technology to be more efficient. Workers are worried because some jobs may disappear. However, experts say new types of work will also be created. Universities are developing special courses to teach these new skills. The government is studying how to regulate this technology to protect workers. Investment in artificial intelligence has increased greatly this year throughout the country.",
+          "source": "TechCrunch"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "elecciones",
+          "syllables": "e-lec-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las elecciones presidenciales se celebrarán en noviembre.",
+          "definition_es": "Proceso donde los ciudadanos votan para elegir representantes",
+          "definition_en": "Elections - process where citizens vote to choose representatives"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación ha bajado al 3% este mes.",
+          "definition_es": "Aumento general de los precios de productos y servicios",
+          "definition_en": "Inflation - general increase in prices of goods and services"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando muchos trabajos.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence - technology that enables machines to think like humans"
+        },
+        {
+          "word": "candidato",
+          "syllables": "can-di-DA-to",
+          "pos": "sustantivo",
+          "context": "El candidato republicano visitó tres estados esta semana.",
+          "definition_es": "Persona que busca ser elegida para un puesto político",
+          "definition_en": "Candidate - person seeking to be elected to a political position"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado de trabajo está mejorando lentamente.",
+          "definition_es": "Sistema donde se compran y venden productos o servicios",
+          "definition_en": "Market - system where products or services are bought and sold"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "La inversión en tecnología ha aumentado este año.",
+          "definition_es": "Dinero que se pone en un negocio para ganar más dinero",
+          "definition_en": "Investment - money put into a business to earn more money"
+        },
+        {
+          "word": "desarrollar",
+          "syllables": "de-sa-rro-LLAR",
+          "pos": "verbo",
+          "context": "Las empresas quieren desarrollar nuevas aplicaciones móviles.",
+          "definition_es": "Crear o mejorar algo gradualmente",
+          "definition_en": "To develop - to create or improve something gradually"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "La empresa tecnológica anunció nuevos productos.",
+          "definition_es": "Organización que produce bienes o servicios para ganar dinero",
+          "definition_en": "Company - organization that produces goods or services to make money"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'candidato'?",
+          "options": [
+            "Una persona que vota",
+            "Una persona que busca ser elegida",
+            "Un tipo de elección",
+            "Un partido político"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "La palabra 'inflación' se refiere a:",
+          "options": [
+            "La bajada de precios",
+            "El aumento de salarios",
+            "El aumento general de precios",
+            "La creación de empleos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué hace una 'empresa'?",
+          "options": [
+            "Vota en elecciones",
+            "Produce bienes o servicios",
+            "Regula la economía",
+            "Enseña en universidades"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Desarrollar' significa:",
+          "options": [
+            "Comprar algo",
+            "Vender productos",
+            "Crear o mejorar gradualmente",
+            "Trabajar rápido"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto político, ¿cuándo son las elecciones presidenciales?",
+          "options": [
+            "En mayo",
+            "En julio",
+            "En noviembre",
+            "En diciembre"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la tasa de inflación actual según el texto económico?",
+          "options": [
+            "2%",
+            "3%",
+            "4%",
+            "5%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué pueden hacer los nuevos sistemas de inteligencia artificial?",
+          "options": [
+            "Solo jugar videojuegos",
+            "Escribir códigos y analizar datos",
+            "Solo enviar emails",
+            "Solo hacer compras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué problema menciona el texto económico sobre los salarios?",
+          "options": [
+            "Han bajado mucho",
+            "No han subido lo suficiente",
+            "Son muy altos",
+            "No existen"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué están haciendo las universidades según el texto de tecnología?",
+          "options": [
+            "Cerrando programas",
+            "Desarrollando cursos especiales",
+            "Prohibiendo la tecnología",
+            "Vendiendo computadoras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de votantes necesitan ganar ambos candidatos políticos?",
+          "options": [
+            "Votantes jóvenes",
+            "Votantes mayores",
+            "Votantes independientes",
+            "Votantes extranjeros"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-23T09:32:32.289366"
+    },
+    {
       "date": "2026-05-22",
       "filename": "spanish_lesson_2026-05-22.pdf",
       "path": "pdfs/spanish_lesson_2026-05-22.pdf",
@@ -36878,7 +37100,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-22T10:03:35.113667",
+  "last_updated": "2026-05-23T09:32:32.289391",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
