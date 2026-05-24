@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-24",
+      "filename": "spanish_lesson_2026-05-24.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-24.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump Pierde Control del Congreso Esta Semana",
+          "headline_en": "Trump Loses Control of Congress This Week",
+          "body_es": "Esta semana fue muy difícil para el expresidente Trump en el Congreso americano. Los políticos republicanos y demócratas votaron contra muchas de sus ideas importantes. Por primera vez en mucho tiempo, Trump no pudo controlar las decisiones del Congreso. Los senadores y representantes dijeron 'no' a sus propuestas más importantes. Esta situación es nueva para Trump, quien antes tenía mucha influencia política. Los expertos dicen que esto cambia la política americana. Ahora Trump tiene menos poder para influir en las leyes del país. Esta semana marca un momento importante en la historia política de Estados Unidos.",
+          "body_en": "This week was very difficult for former president Trump in the American Congress. Republican and Democratic politicians voted against many of his important ideas. For the first time in a long time, Trump could not control Congress's decisions. Senators and representatives said 'no' to his most important proposals. This situation is new for Trump, who previously had a lot of political influence. Experts say this changes American politics. Now Trump has less power to influence the country's laws. This week marks an important moment in United States political history.",
+          "source": "WSJ"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Guerra en Irán Aumenta Precios de Gasolina para Familias",
+          "headline_en": "Iran War Increases Gasoline Prices for Families",
+          "body_es": "La guerra en Irán está causando problemas económicos graves a las familias americanas. Los precios de la gasolina subieron mucho en las últimas semanas. Una familia típica ahora paga treinta dólares más cada mes por gasolina. Los supermercados también tienen precios más altos porque es más caro transportar productos. Las familias con menos dinero sufren más estos cambios. Muchas personas no pueden viajar tanto como antes. Los padres están preocupados por el futuro económico de sus hijos. El gobierno está buscando soluciones para ayudar a las familias. Esta crisis económica afecta especialmente a las ciudades pequeñas donde la gente maneja más.",
+          "body_en": "The war in Iran is causing serious economic problems for American families. Gasoline prices have risen a lot in recent weeks. A typical family now pays thirty dollars more each month for gasoline. Supermarkets also have higher prices because it's more expensive to transport products. Families with less money suffer more from these changes. Many people cannot travel as much as before. Parents are worried about their children's economic future. The government is looking for solutions to help families. This economic crisis especially affects small cities where people drive more.",
+          "source": "The Times of India"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Expertos en Seguridad Cibernética Tienen Más Trabajo por la IA",
+          "headline_en": "Cybersecurity Experts Have More Work Because of AI",
+          "body_es": "En la era de la inteligencia artificial, hay un trabajo que está creciendo mucho: experto en seguridad cibernética. Mientras muchas personas pierden trabajos por la tecnología, estos expertos tienen más oportunidades que antes. Las empresas necesitan proteger sus computadoras y información de los criminales digitales. La inteligencia artificial también crea nuevos peligros en internet. Por eso, las compañías pagan salarios muy buenos a estos profesionales. Un experto en seguridad puede ganar entre ochenta mil y ciento veinte mil dólares al año. Los jóvenes que estudian computación tienen un futuro prometedor. Este trabajo requiere estudiar constantemente porque la tecnología cambia muy rápido.",
+          "body_en": "In the era of artificial intelligence, there is one job that is growing a lot: cybersecurity expert. While many people lose jobs because of technology, these experts have more opportunities than before. Companies need to protect their computers and information from digital criminals. Artificial intelligence also creates new dangers on the internet. Therefore, companies pay very good salaries to these professionals. A security expert can earn between eighty thousand and one hundred twenty thousand dollars per year. Young people studying computing have a promising future. This job requires constant studying because technology changes very quickly.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "control",
+          "syllables": "con-TROL",
+          "pos": "sustantivo",
+          "context": "Trump perdió el control del Congreso esta semana.",
+          "definition_es": "Poder para dirigir o mandar algo",
+          "definition_en": "Power to direct or command something"
+        },
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso votó contra las propuestas del presidente.",
+          "definition_es": "Institución que hace las leyes de un país",
+          "definition_en": "Institution that makes the laws of a country"
+        },
+        {
+          "word": "precios",
+          "syllables": "PRE-cios",
+          "pos": "sustantivo",
+          "context": "Los precios de la gasolina están subiendo mucho.",
+          "definition_es": "El costo de comprar algo",
+          "definition_en": "The cost of buying something"
+        },
+        {
+          "word": "guerra",
+          "syllables": "GUE-rra",
+          "pos": "sustantivo",
+          "context": "La guerra en Irán afecta a las familias americanas.",
+          "definition_es": "Conflicto armado entre países o grupos",
+          "definition_en": "Armed conflict between countries or groups"
+        },
+        {
+          "word": "seguridad",
+          "syllables": "se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "Los expertos en seguridad cibernética tienen más trabajo.",
+          "definition_es": "Protección contra peligros o riesgos",
+          "definition_en": "Protection against dangers or risks"
+        },
+        {
+          "word": "expertos",
+          "syllables": "ex-PER-tos",
+          "pos": "sustantivo",
+          "context": "Los expertos en tecnología ganan buenos salarios.",
+          "definition_es": "Personas con muchos conocimientos en un tema",
+          "definition_en": "People with extensive knowledge in a subject"
+        },
+        {
+          "word": "creciendo",
+          "syllables": "cre-CIEN-do",
+          "pos": "verbo",
+          "context": "El número de trabajos está creciendo en este sector.",
+          "definition_es": "Aumentando de tamaño o cantidad",
+          "definition_en": "Increasing in size or quantity"
+        },
+        {
+          "word": "familias",
+          "syllables": "fa-MI-lias",
+          "pos": "sustantivo",
+          "context": "Las familias americanas pagan más por la gasolina.",
+          "definition_es": "Grupos de personas que viven juntas como parientes",
+          "definition_en": "Groups of people living together as relatives"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'control' en español?",
+          "options": [
+            "Poder para dirigir algo",
+            "Una máquina",
+            "Un lugar",
+            "Una comida"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'expertos'?",
+          "options": [
+            "Personas nuevas",
+            "Personas con muchos conocimientos",
+            "Personas jóvenes",
+            "Personas ricas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son 'precios'?",
+          "options": [
+            "Regalos",
+            "El costo de comprar algo",
+            "Lugares",
+            "Animales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'creciendo'?",
+          "options": [
+            "Disminuyendo",
+            "Aumentando",
+            "Parando",
+            "Durmiendo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué pasó con Trump esta semana?",
+          "options": [
+            "Ganó más poder",
+            "Perdió control del Congreso",
+            "Se hizo presidente",
+            "Viajó a Europa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero extra pagan las familias por gasolina cada mes?",
+          "options": [
+            "Diez dólares",
+            "Veinte dólares",
+            "Treinta dólares",
+            "Cuarenta dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué causa los problemas económicos a las familias americanas?",
+          "options": [
+            "La guerra en Irán",
+            "El clima",
+            "Los deportes",
+            "La música"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto pueden ganar los expertos en seguridad cibernética?",
+          "options": [
+            "40,000-60,000 dólares",
+            "60,000-80,000 dólares",
+            "80,000-120,000 dólares",
+            "120,000-150,000 dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué hay más trabajo en seguridad cibernética?",
+          "options": [
+            "Porque es fácil",
+            "Porque la IA crea nuevos peligros",
+            "Porque es barato",
+            "Porque es divertido"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de familias sufren más con los precios altos?",
+          "options": [
+            "Familias ricas",
+            "Familias grandes",
+            "Familias con menos dinero",
+            "Familias nuevas"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-24T09:35:00.173171"
+    },
+    {
       "date": "2026-05-23",
       "filename": "spanish_lesson_2026-05-23.pdf",
       "path": "pdfs/spanish_lesson_2026-05-23.pdf",
@@ -37100,7 +37322,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-23T09:32:32.289391",
+  "last_updated": "2026-05-24T09:35:00.173204",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
