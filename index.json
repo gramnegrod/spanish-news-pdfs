@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-25",
+      "filename": "spanish_lesson_2026-05-25.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-25.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Los Progresistas Celebran Victoria Electoral en Filadelfia",
+          "headline_en": "Progressives Celebrate Electoral Victory in Philadelphia",
+          "body_es": "En Filadelfia, el candidato progresista Rabb ganó las elecciones primarias de la Cámara de Representantes. Esta victoria es muy importante para el movimiento progresista en Estados Unidos. Los progresistas son políticos que quieren cambios sociales modernos. Ellos apoyan programas como mejor salud pública y educación gratuita. La victoria de Rabb da esperanza a otros candidatos progresistas en el país. Muchos creen que esta es la primera de muchas victorias que vendrán. Las elecciones primarias son importantes porque deciden qué candidatos representarán a cada partido político. Los progresistas ahora tienen más confianza para las próximas elecciones generales en Estados Unidos.",
+          "body_en": "In Philadelphia, progressive candidate Rabb won the House of Representatives primary elections. This victory is very important for the progressive movement in the United States. Progressives are politicians who want modern social changes. They support programs like better public health and free education. Rabb's victory gives hope to other progressive candidates in the country. Many believe this is the first of many victories to come. Primary elections are important because they decide which candidates will represent each political party. Progressives now have more confidence for the upcoming general elections in the United States.",
+          "source": "CBS News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Washington Enfrenta Problemas con Altos Costos de Préstamos",
+          "headline_en": "Washington Faces Problems with High Borrowing Costs",
+          "body_es": "El gobierno de Estados Unidos tiene problemas económicos importantes. Los costos para pedir dinero prestado están subiendo mucho. Esto significa que el gobierno debe pagar más dinero cuando necesita préstamos. Los bonos del Tesoro americano están perdiendo valor rápidamente. Esta situación preocupa a los políticos en Washington. Ellos deben decidir si pueden aceptar estos costos más altos. Cuando el gobierno pide prestado dinero caro, tiene menos dinero para otros programas importantes. Esto afecta la educación, la salud y otros servicios públicos. Los expertos económicos están estudiando esta situación cuidadosamente. La tolerancia del gobierno hacia estos costos altos será muy importante para el futuro económico del país.",
+          "body_en": "The United States government has important economic problems. The costs to borrow money are rising a lot. This means the government must pay more money when it needs loans. American Treasury bonds are losing value rapidly. This situation worries politicians in Washington. They must decide if they can accept these higher costs. When the government borrows expensive money, it has less money for other important programs. This affects education, health, and other public services. Economic experts are studying this situation carefully. The government's tolerance toward these high costs will be very important for the country's economic future.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El Papa Hace la Ética de la Inteligencia Artificial una Prioridad Religiosa",
+          "headline_en": "Pope Makes AI Ethics a Religious Priority",
+          "body_es": "El Papa Francisco escribió su primera encíclica sobre inteligencia artificial y tecnología. Una encíclica es una carta oficial muy importante que el Papa envía a todos los católicos del mundo. En esta carta, el Papa dice que la ética en el uso de la inteligencia artificial es un imperativo religioso. Esto significa que es muy importante para la fe católica. El Papa está preocupado por cómo la gente usa la tecnología moderna. Él quiere que las personas usen la inteligencia artificial de manera correcta y moral. La Iglesia Católica ahora considera que hablar sobre tecnología es parte de su trabajo religioso. Esta encíclica muestra que la religión y la tecnología moderna pueden trabajar juntas para ayudar a la humanidad.",
+          "body_en": "Pope Francis wrote his first encyclical about artificial intelligence and technology. An encyclical is a very important official letter that the Pope sends to all Catholics in the world. In this letter, the Pope says that ethics in the use of artificial intelligence is a religious imperative. This means it is very important for the Catholic faith. The Pope is worried about how people use modern technology. He wants people to use artificial intelligence in a correct and moral way. The Catholic Church now considers talking about technology part of its religious work. This encyclical shows that religion and modern technology can work together to help humanity.",
+          "source": "The Washington Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "victoria",
+          "syllables": "vic-TO-ria",
+          "pos": "sustantivo",
+          "context": "La victoria de Rabb representa un triunfo para los progresistas.",
+          "definition_es": "Cuando alguien gana una competición o elección",
+          "definition_en": "When someone wins a competition or election"
+        },
+        {
+          "word": "progresista",
+          "syllables": "pro-gre-SIS-ta",
+          "pos": "adjetivo/sustantivo",
+          "context": "Los progresistas esperan más victorias en el futuro.",
+          "definition_es": "Persona que apoya cambios sociales y políticos modernos",
+          "definition_en": "Person who supports modern social and political changes"
+        },
+        {
+          "word": "préstamo",
+          "syllables": "PRÉS-ta-mo",
+          "pos": "sustantivo",
+          "context": "El gobierno necesita préstamos para financiar sus proyectos.",
+          "definition_es": "Dinero que se pide prestado y se debe devolver",
+          "definition_en": "Money that is borrowed and must be paid back"
+        },
+        {
+          "word": "tolerancia",
+          "syllables": "to-le-RAN-cia",
+          "pos": "sustantivo",
+          "context": "Washington muestra tolerancia hacia los costos más altos.",
+          "definition_es": "Capacidad de aceptar algo aunque no guste",
+          "definition_en": "Ability to accept something even if you don't like it"
+        },
+        {
+          "word": "ética",
+          "syllables": "É-ti-ca",
+          "pos": "sustantivo",
+          "context": "El Papa habla sobre la ética en el uso de la inteligencia artificial.",
+          "definition_es": "Principios sobre lo que está bien o mal",
+          "definition_en": "Principles about what is right or wrong"
+        },
+        {
+          "word": "encíclica",
+          "syllables": "en-CÍ-cli-ca",
+          "pos": "sustantivo",
+          "context": "La encíclica del Papa trata sobre tecnología y religión.",
+          "definition_es": "Carta oficial del Papa a todos los católicos",
+          "definition_en": "Official letter from the Pope to all Catholics"
+        },
+        {
+          "word": "primaria",
+          "syllables": "pri-MA-ria",
+          "pos": "sustantivo",
+          "context": "Rabb ganó en las elecciones primarias de Filadelfia.",
+          "definition_es": "Elección para elegir candidatos de un partido político",
+          "definition_en": "Election to choose candidates from a political party"
+        },
+        {
+          "word": "imperativo",
+          "syllables": "im-pe-ra-TI-vo",
+          "pos": "sustantivo",
+          "context": "El Papa considera la ética de la IA un imperativo religioso.",
+          "definition_es": "Algo que es muy necesario y urgente hacer",
+          "definition_en": "Something that is very necessary and urgent to do"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'victoria' en el contexto político?",
+          "options": [
+            "Perder una elección",
+            "Ganar una competición o elección",
+            "Votar por un candidato",
+            "Participar en política"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una persona 'progresista' es alguien que:",
+          "options": [
+            "Quiere mantener las tradiciones",
+            "Apoya cambios sociales modernos",
+            "No le gusta la política",
+            "Vive en el pasado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'encíclica'?",
+          "options": [
+            "Un libro religioso",
+            "Una oración católica",
+            "Una carta oficial del Papa",
+            "Una iglesia católica"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La palabra 'tolerancia' significa:",
+          "options": [
+            "Rechazar completamente algo",
+            "Capacidad de aceptar algo aunque no guste",
+            "Estar muy feliz con algo",
+            "No tener opinión sobre algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿dónde ganó Rabb las elecciones primarias?",
+          "options": [
+            "En Washington",
+            "En Nueva York",
+            "En Filadelfia",
+            "En California"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué está preocupado el gobierno de Washington según el texto económico?",
+          "options": [
+            "Por la educación pública",
+            "Por los altos costos de préstamos",
+            "Por las elecciones",
+            "Por la tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Sobre qué tema escribió el Papa Francisco su primera encíclica?",
+          "options": [
+            "Política americana",
+            "Economía mundial",
+            "Inteligencia artificial y tecnología",
+            "Educación religiosa"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué esperan los progresistas después de la victoria de Rabb?",
+          "options": [
+            "Menos participación política",
+            "Más victorias en el futuro",
+            "Cambiar de partido",
+            "Terminar las campañas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Cuando el gobierno pide dinero prestado muy caro, ¿qué problema tiene?",
+          "options": [
+            "Más dinero para programas",
+            "Menos dinero para servicios públicos",
+            "Mejor educación",
+            "Mayor popularidad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según el Papa, ¿cómo deben usar las personas la inteligencia artificial?",
+          "options": [
+            "Sin ninguna regla",
+            "Solo para trabajo",
+            "De manera correcta y moral",
+            "Solo los expertos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-25T10:28:28.163509"
+    },
+    {
       "date": "2026-05-24",
       "filename": "spanish_lesson_2026-05-24.pdf",
       "path": "pdfs/spanish_lesson_2026-05-24.pdf",
@@ -37322,7 +37544,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-24T09:35:00.173204",
+  "last_updated": "2026-05-25T10:28:28.163537",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
