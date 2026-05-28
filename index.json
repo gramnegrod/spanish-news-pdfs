@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-28",
+      "filename": "spanish_lesson_2026-05-28.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-28.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Jueces federales rechazan mapa electoral de Alabama por discriminación racial",
+          "headline_en": "Federal judges reject Alabama electoral map for racial discrimination",
+          "body_es": "Los jueces federales de Estados Unidos bloquearon el nuevo mapa electoral de Alabama. El Partido Republicano había creado este mapa para las elecciones al Congreso. Sin embargo, los jueces dijeron que el mapa discrimina a los votantes afroamericanos. Esta decisión significa que Alabama debe crear un nuevo mapa electoral. El mapa anterior dividía las comunidades negras en diferentes distritos. Esto reducía su poder de voto. Los jueces explicaron que esta práctica viola la ley federal. Alabama tiene que respetar los derechos de todos los ciudadanos. El estado debe garantizar que las minorías puedan participar igual en las elecciones. Esta es una victoria importante para los derechos civiles en Estados Unidos.",
+          "body_en": "Federal judges in the United States blocked Alabama's new electoral map. The Republican Party had created this map for congressional elections. However, the judges said the map discriminates against African American voters. This decision means Alabama must create a new electoral map. The previous map divided Black communities into different districts. This reduced their voting power. The judges explained that this practice violates federal law. Alabama must respect the rights of all citizens. The state must ensure that minorities can participate equally in elections. This is an important victory for civil rights in the United States.",
+          "source": "Scripps News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Funcionario de la Reserva Federal se concentra en la inflación mientras el empleo se mantiene fuerte",
+          "headline_en": "Federal Reserve official focuses on inflation while employment remains strong",
+          "body_es": "Thomas Jefferson, un alto funcionario de la Reserva Federal, habló sobre la economía estadounidense. Él dijo que su principal preocupación es controlar la inflación. Jefferson explicó que el mercado laboral de Estados Unidos es muy resistente. Esto significa que hay muchos empleos disponibles para los trabajadores. La inflación es el aumento de los precios de los productos. Cuando la inflación es alta, la vida se vuelve más cara para las familias. La Reserva Federal tiene la responsabilidad de mantener los precios estables. Jefferson cree que pueden lograr este objetivo sin dañar el empleo. El mercado laboral fuerte es bueno para los trabajadores. Sin embargo, también puede causar más inflación. La Reserva Federal debe encontrar el equilibrio correcto entre estos dos factores.",
+          "body_en": "Thomas Jefferson, a senior Federal Reserve official, spoke about the American economy. He said his main concern is controlling inflation. Jefferson explained that the United States labor market is very resilient. This means there are many jobs available for workers. Inflation is the increase in product prices. When inflation is high, life becomes more expensive for families. The Federal Reserve has the responsibility to keep prices stable. Jefferson believes they can achieve this goal without harming employment. A strong job market is good for workers. However, it can also cause more inflation. The Federal Reserve must find the right balance between these two factors.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Gigantes tecnológicos apoyan nueva iniciativa verde para centros de datos de inteligencia artificial",
+          "headline_en": "Tech giants support new green initiative for artificial intelligence data centers",
+          "body_es": "Las empresas más grandes de tecnología anunciaron una nueva iniciativa ambiental. Amazon, Google, Meta y Microsoft van a respaldar proyectos de energía limpia. Estas empresas quieren que sus centros de datos sean más ecológicos. Los centros de datos son lugares donde guardan las computadoras que hacen funcionar internet. La inteligencia artificial necesita mucha energía para trabajar. Por eso, estas empresas buscan usar energía solar y eólica. Esta iniciativa puede ayudar a reducir la contaminación del aire. También puede crear nuevos empleos en el sector de energía verde. Las cuatro empresas van a invertir millones de dólares en este proyecto. Su objetivo es usar solo energía limpia para el año 2030. Esta decisión muestra que las grandes corporaciones se preocupan por el medio ambiente.",
+          "body_en": "The largest technology companies announced a new environmental initiative. Amazon, Google, Meta and Microsoft will support clean energy projects. These companies want their data centers to be more ecological. Data centers are places where they store the computers that make the internet work. Artificial intelligence needs a lot of energy to work. Therefore, these companies seek to use solar and wind energy. This initiative can help reduce air pollution. It can also create new jobs in the green energy sector. The four companies will invest millions of dollars in this project. Their goal is to use only clean energy by the year 2030. This decision shows that large corporations care about the environment.",
+          "source": "qz.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "jueces",
+          "syllables": "JUE-ces",
+          "pos": "sustantivo",
+          "context": "Los jueces federales bloquearon el mapa electoral de Alabama.",
+          "definition_es": "Personas que toman decisiones legales en los tribunales",
+          "definition_en": "People who make legal decisions in courts"
+        },
+        {
+          "word": "bloquear",
+          "syllables": "blo-que-AR",
+          "pos": "verbo",
+          "context": "Los jueces decidieron bloquear el nuevo mapa electoral.",
+          "definition_es": "Impedir o detener algo",
+          "definition_en": "To prevent or stop something"
+        },
+        {
+          "word": "discriminación",
+          "syllables": "dis-cri-mi-na-CIÓN",
+          "pos": "sustantivo",
+          "context": "El mapa fue rechazado por discriminación racial.",
+          "definition_es": "Trato injusto hacia un grupo de personas",
+          "definition_en": "Unfair treatment toward a group of people"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La Reserva Federal se concentra en controlar la inflación.",
+          "definition_es": "Aumento general de los precios",
+          "definition_en": "General increase in prices"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral estadounidense es muy resistente.",
+          "definition_es": "Sistema de empleos y trabajadores en un país",
+          "definition_en": "System of jobs and workers in a country"
+        },
+        {
+          "word": "resistente",
+          "syllables": "re-sis-TEN-te",
+          "pos": "adjetivo",
+          "context": "El mercado laboral es muy resistente a los problemas económicos.",
+          "definition_es": "Fuerte, que no se rompe fácilmente",
+          "definition_en": "Strong, not easily broken"
+        },
+        {
+          "word": "respaldar",
+          "syllables": "res-pal-DAR",
+          "pos": "verbo",
+          "context": "Las grandes empresas tecnológicas respaldan el proyecto verde.",
+          "definition_es": "Apoyar o dar soporte a algo",
+          "definition_en": "To support or back something"
+        },
+        {
+          "word": "centros de datos",
+          "syllables": "CEN-tros de DA-tos",
+          "pos": "sustantivo",
+          "context": "Amazon y Google quieren centros de datos más limpios.",
+          "definition_es": "Lugares donde se guardan computadoras y servidores",
+          "definition_en": "Places where computers and servers are stored"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'bloquear' en el contexto de la noticia política?",
+          "options": [
+            "Construir algo",
+            "Impedir o detener",
+            "Acelerar un proceso",
+            "Cambiar de lugar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es la inflación según la noticia económica?",
+          "options": [
+            "Disminución de empleos",
+            "Aumento de los precios",
+            "Reducción de salarios",
+            "Cierre de empresas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa que las empresas 'respaldan' el proyecto verde?",
+          "options": [
+            "Lo critican",
+            "Lo apoyan",
+            "Lo ignoran",
+            "Lo rechazan"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un mercado laboral 'resistente' significa que es:",
+          "options": [
+            "Débil y frágil",
+            "Fuerte y estable",
+            "Pequeño y limitado",
+            "Lento y ineficiente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué los jueces bloquearon el mapa electoral de Alabama?",
+          "options": [
+            "Era muy caro",
+            "Discriminaba a votantes afroamericanos",
+            "Estaba mal dibujado",
+            "No tenía suficientes distritos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la principal preocupación de Thomas Jefferson de la Reserva Federal?",
+          "options": [
+            "El desempleo",
+            "La inflación",
+            "Las exportaciones",
+            "La inmigración"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas participan en la iniciativa verde para centros de datos?",
+          "options": [
+            "Apple, Tesla, Netflix, Spotify",
+            "Amazon, Google, Meta, Microsoft",
+            "Facebook, Twitter, Instagram, TikTok",
+            "IBM, Oracle, Samsung, Sony"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Para qué año es el objetivo de usar solo energía limpia?",
+          "options": [
+            "2025",
+            "2028",
+            "2030",
+            "2035"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué partido político creó el mapa electoral bloqueado en Alabama?",
+          "options": [
+            "Partido Demócrata",
+            "Partido Verde",
+            "Partido Republicano",
+            "Partido Independiente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de energía quieren usar las empresas tecnológicas?",
+          "options": [
+            "Carbón y petróleo",
+            "Nuclear",
+            "Solar y eólica",
+            "Gas natural"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-28T10:24:24.026134"
+    },
+    {
       "date": "2026-05-27",
       "filename": "spanish_lesson_2026-05-27.pdf",
       "path": "pdfs/spanish_lesson_2026-05-27.pdf",
@@ -37988,7 +38210,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-27T10:22:41.152100",
+  "last_updated": "2026-05-28T10:24:24.026158",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
