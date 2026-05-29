@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-29",
+      "filename": "spanish_lesson_2026-05-29.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-29.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos creará un billete de $250 con la imagen de Trump",
+          "headline_en": "United States will create a $250 bill with Trump's image",
+          "body_es": "El gobierno de Estados Unidos anunció planes para imprimir un nuevo billete de $250. Este billete especial tendrá la cara del expresidente Donald Trump. La decisión sorprendió a muchos ciudadanos americanos. El nuevo billete será diferente a todos los billetes que existen actualmente. Los billetes normales en Estados Unidos van desde $1 hasta $100. Este será el billete de mayor valor en la historia del país. El gobierno dice que el billete estará disponible el próximo año. Muchas personas están hablando sobre esta noticia en las redes sociales. Algunos ciudadanos apoyan la idea, pero otros no están de acuerdo. La producción del billete comenzará en los próximos meses.",
+          "body_en": "The United States government announced plans to print a new $250 bill. This special bill will feature the face of former president Donald Trump. The decision surprised many American citizens. The new bill will be different from all currently existing bills. Normal bills in the United States range from $1 to $100. This will be the highest value bill in the country's history. The government says the bill will be available next year. Many people are talking about this news on social media. Some citizens support the idea, but others disagree. Production of the bill will begin in the coming months.",
+          "source": "BBC"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Wall Street bate récords mientras las empresas ganan más dinero",
+          "headline_en": "Wall Street breaks records while companies earn more money",
+          "body_es": "La bolsa de valores de Wall Street está rompiendo récords históricos. Las empresas estadounidenses están reportando ganancias muy altas este año. Los precios de las acciones suben cada semana. Los inversionistas están muy contentos con estos resultados. Las grandes empresas de tecnología lideran estas ganancias. También las empresas de energía y bancos tienen buenos resultados. Los expertos dicen que la economía americana está muy fuerte. Muchas personas están invirtiendo su dinero en la bolsa. Sin embargo, algunos economistas advierten sobre posibles problemas futuros. Las ganancias han crecido más rápido de lo esperado. Wall Street celebra otro año exitoso para los negocios americanos.",
+          "body_en": "The Wall Street stock market is breaking historical records. American companies are reporting very high profits this year. Stock prices rise every week. Investors are very happy with these results. Large technology companies lead these profits. Energy companies and banks also have good results. Experts say the American economy is very strong. Many people are investing their money in the stock market. However, some economists warn about possible future problems. Profits have grown faster than expected. Wall Street celebrates another successful year for American businesses.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Anthropic supera a OpenAI como la empresa de IA más valiosa del mundo",
+          "headline_en": "Anthropic surpasses OpenAI as the world's most valuable AI company",
+          "body_es": "Anthropic se convirtió en la empresa de inteligencia artificial más valiosa del mundo. La compañía superó a OpenAI, que antes tenía el primer lugar. Anthropic ahora vale más de 40 mil millones de dólares. La empresa es famosa por crear Claude, un asistente de inteligencia artificial muy avanzado. Muchos inversionistas decidieron poner su dinero en Anthropic este año. La compañía creció muy rápido en los últimos meses. Sus productos de IA son muy populares entre las empresas. OpenAI, creadora de ChatGPT, ahora ocupa el segundo lugar. Esta competencia está ayudando a mejorar la tecnología de inteligencia artificial. Los expertos predicen que estas empresas cambiarán el futuro de la tecnología.",
+          "body_en": "Anthropic became the world's most valuable artificial intelligence company. The company surpassed OpenAI, which previously held first place. Anthropic is now worth more than 40 billion dollars. The company is famous for creating Claude, a very advanced artificial intelligence assistant. Many investors decided to put their money in Anthropic this year. The company grew very quickly in recent months. Its AI products are very popular among businesses. OpenAI, creator of ChatGPT, now occupies second place. This competition is helping to improve artificial intelligence technology. Experts predict that these companies will change the future of technology.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gobierno",
+          "syllables": "go-BIER-no",
+          "pos": "sustantivo",
+          "context": "El gobierno estadounidense prepara un nuevo billete.",
+          "definition_es": "Grupo de personas que dirige un país",
+          "definition_en": "Government"
+        },
+        {
+          "word": "imprimir",
+          "syllables": "im-pri-MIR",
+          "pos": "verbo",
+          "context": "Van a imprimir billetes con la cara de Trump.",
+          "definition_es": "Hacer copias en papel usando una máquina",
+          "definition_en": "To print"
+        },
+        {
+          "word": "billete",
+          "syllables": "bi-LLE-te",
+          "pos": "sustantivo",
+          "context": "El nuevo billete tendrá un valor de $250.",
+          "definition_es": "Papel moneda que se usa para comprar cosas",
+          "definition_en": "Bill, banknote"
+        },
+        {
+          "word": "récord",
+          "syllables": "RÉ-cord",
+          "pos": "sustantivo",
+          "context": "Wall Street alcanza nuevos récords este año.",
+          "definition_es": "La mejor marca o resultado nunca logrado antes",
+          "definition_en": "Record"
+        },
+        {
+          "word": "ganancias",
+          "syllables": "ga-NAN-cias",
+          "pos": "sustantivo",
+          "context": "Las empresas estadounidenses reportan grandes ganancias.",
+          "definition_es": "Dinero que se obtiene después de vender algo",
+          "definition_en": "Profits"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Anthropic es una empresa de inteligencia artificial.",
+          "definition_es": "Organización que vende productos o servicios",
+          "definition_en": "Company"
+        },
+        {
+          "word": "valiosa",
+          "syllables": "va-li-O-sa",
+          "pos": "adjetivo",
+          "context": "Anthropic es ahora la empresa más valiosa del sector.",
+          "definition_es": "Que tiene mucho valor o importancia",
+          "definition_en": "Valuable"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial cambia el mundo de la tecnología.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Artificial intelligence"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'gobierno'?",
+          "options": [
+            "Una empresa privada",
+            "Grupo de personas que dirige un país",
+            "Un tipo de dinero",
+            "Una máquina de imprimir"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'ganancias'?",
+          "options": [
+            "Dinero que se pierde",
+            "Dinero que se obtiene después de vender algo",
+            "Un tipo de billete",
+            "Una empresa de tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'imprimir'?",
+          "options": [
+            "Vender productos",
+            "Hacer copias en papel usando una máquina",
+            "Ganar dinero",
+            "Dirigir una empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Una empresa 'valiosa' es una empresa que:",
+          "options": [
+            "No tiene dinero",
+            "Tiene mucho valor o importancia",
+            "Imprime billetes",
+            "Está en Wall Street"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué valor tendrá el nuevo billete estadounidense?",
+          "options": [
+            "$100",
+            "$200",
+            "$250",
+            "$500"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Quién aparecerá en el nuevo billete de $250?",
+          "options": [
+            "Joe Biden",
+            "Barack Obama",
+            "Donald Trump",
+            "George Washington"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Wall Street, ¿qué tipo de empresas lideran las ganancias?",
+          "options": [
+            "Empresas de comida",
+            "Empresas de tecnología",
+            "Empresas de ropa",
+            "Empresas de transporte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto vale Anthropic actualmente?",
+          "options": [
+            "30 mil millones de dólares",
+            "35 mil millones de dólares",
+            "Más de 40 mil millones de dólares",
+            "50 mil millones de dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cómo se llama el asistente de IA de Anthropic?",
+          "options": [
+            "ChatGPT",
+            "Claude",
+            "OpenAI",
+            "Wall Street"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa de IA ocupaba el primer lugar antes que Anthropic?",
+          "options": [
+            "Microsoft",
+            "Google",
+            "OpenAI",
+            "Apple"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-29T10:17:55.848029"
+    },
+    {
       "date": "2026-05-28",
       "filename": "spanish_lesson_2026-05-28.pdf",
       "path": "pdfs/spanish_lesson_2026-05-28.pdf",
@@ -38210,7 +38432,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-28T10:24:24.026158",
+  "last_updated": "2026-05-29T10:17:55.848063",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
