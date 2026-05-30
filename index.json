@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-30",
+      "filename": "spanish_lesson_2026-05-30.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-30.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Gobernador de Louisiana firma nuevo mapa electoral tras intensas disputas",
+          "headline_en": "Louisiana governor signs new electoral map after intense disputes",
+          "body_es": "El gobernador Jeff Landry firmó el nuevo mapa congressional de Louisiana después de muchas batallas políticas. Este mapa decide cómo se dividen las áreas de votación en el estado. Los políticos discutieron durante muchas semanas sobre esta decisión. Algunos grupos no estaban contentos con el nuevo mapa. Dijeron que no era justo para todas las comunidades. Otros grupos apoyaron la decisión del gobernador. Este tipo de mapas son muy importantes porque afectan las elecciones. Cada estado debe hacer estos mapas cada diez años. Louisiana finalmente terminó este proceso difícil. Ahora los ciudadanos usarán este nuevo mapa en las próximas elecciones para el Congreso estadounidense.",
+          "body_en": "Governor Jeff Landry signed Louisiana's new congressional map after many political battles. This map decides how voting areas are divided in the state. Politicians argued for many weeks about this decision. Some groups were not happy with the new map. They said it wasn't fair to all communities. Other groups supported the governor's decision. These types of maps are very important because they affect elections. Each state must make these maps every ten years. Louisiana finally finished this difficult process. Now citizens will use this new map in the next elections for the US Congress.",
+          "source": "NOLA.com"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Por qué los ricos de América siguen ganando más dinero",
+          "headline_en": "Why America's rich keep earning more money",
+          "body_es": "Los ricos en Estados Unidos continúan aumentando su dinero cada año. Hay varias razones para esta situación económica. Primera, los ricos invierten su dinero en acciones y propiedades que suben de precio. Segunda, tienen acceso a mejores oportunidades de negocio. Tercera, pueden contratar expertos que les ayudan a manejar su dinero. Los trabajadores normales no tienen estas mismas oportunidades. Sus salarios crecen más lentamente que los precios de las casas y la comida. Esta diferencia entre ricos y pobres se hace más grande cada año. Muchos expertos dicen que este es un problema serio para el país. El gobierno está estudiando maneras de ayudar a la clase media.",
+          "body_en": "Rich people in the United States continue to increase their money every year. There are several reasons for this economic situation. First, the rich invest their money in stocks and properties that go up in price. Second, they have access to better business opportunities. Third, they can hire experts who help them manage their money. Normal workers don't have these same opportunities. Their salaries grow more slowly than house and food prices. This difference between rich and poor gets bigger every year. Many experts say this is a serious problem for the country. The government is studying ways to help the middle class.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Inversores cambian a hardware mientras la IA amenaza empresas de software",
+          "headline_en": "Investors switch to hardware as AI threatens software companies",
+          "body_es": "Los inversores están cambiando su dinero hacia empresas de hardware porque la inteligencia artificial está amenazando a las empresas de software. Antes, las empresas de software eran muy populares para las inversiones. Pero ahora la IA puede hacer muchas tareas que antes hacían los programas de software tradicionales. Los inversores están preocupados por el futuro de estas empresas. Por eso, ahora prefieren poner su dinero en empresas que hacen computadoras, chips y otros equipos físicos. Estas empresas de hardware son necesarias para que funcione la inteligencia artificial. Los expertos dicen que este cambio va a continuar en los próximos años. Las empresas de software deben adaptarse rápidamente a esta nueva realidad tecnológica.",
+          "body_en": "Investors are moving their money toward hardware companies because artificial intelligence is threatening software companies. Before, software companies were very popular for investments. But now AI can do many tasks that traditional software programs used to do. Investors are worried about the future of these companies. That's why they now prefer to put their money in companies that make computers, chips and other physical equipment. These hardware companies are necessary for artificial intelligence to work. Experts say this change will continue in the coming years. Software companies must quickly adapt to this new technological reality.",
+          "source": "WSJ"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gobernador",
+          "syllables": "go-ber-na-DOR",
+          "pos": "sustantivo",
+          "context": "El gobernador firmó el nuevo mapa electoral después de muchas discusiones.",
+          "definition_es": "Persona que gobierna un estado o región",
+          "definition_en": "Governor - person who governs a state or region"
+        },
+        {
+          "word": "firmar",
+          "syllables": "fir-MAR",
+          "pos": "verbo",
+          "context": "El gobernador decidió firmar la nueva ley electoral.",
+          "definition_es": "Escribir tu nombre en un documento para aprobarlo",
+          "definition_en": "To sign - to write your name on a document to approve it"
+        },
+        {
+          "word": "batallas",
+          "syllables": "ba-TA-llas",
+          "pos": "sustantivo",
+          "context": "Hubo fuertes batallas políticas antes de la decisión final.",
+          "definition_es": "Luchas o conflictos intensos",
+          "definition_en": "Battles - intense fights or conflicts"
+        },
+        {
+          "word": "ricos",
+          "syllables": "RI-cos",
+          "pos": "adjetivo",
+          "context": "Los ricos en América continúan aumentando su dinero cada año.",
+          "definition_es": "Personas que tienen mucho dinero",
+          "definition_en": "Rich people - people who have a lot of money"
+        },
+        {
+          "word": "amenazar",
+          "syllables": "a-me-na-ZAR",
+          "pos": "verbo",
+          "context": "La inteligencia artificial puede amenazar a las empresas de software.",
+          "definition_es": "Crear peligro o riesgo para algo",
+          "definition_en": "To threaten - to create danger or risk for something"
+        },
+        {
+          "word": "inversores",
+          "syllables": "in-ver-SO-res",
+          "pos": "sustantivo",
+          "context": "Los inversores ahora prefieren poner su dinero en hardware.",
+          "definition_es": "Personas que ponen dinero en negocios para ganar más",
+          "definition_en": "Investors - people who put money in businesses to earn more"
+        },
+        {
+          "word": "hardware",
+          "syllables": "HARD-wa-re",
+          "pos": "sustantivo",
+          "context": "Las empresas de hardware están recibiendo más dinero de inversores.",
+          "definition_es": "Partes físicas de computadoras y tecnología",
+          "definition_en": "Hardware - physical parts of computers and technology"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Muchas empresas de software están preocupadas por la inteligencia artificial.",
+          "definition_es": "Organizaciones que hacen negocios",
+          "definition_en": "Companies - organizations that do business"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'gobernador'?",
+          "options": [
+            "Persona que gobierna un estado",
+            "Tipo de edificio",
+            "Documento legal",
+            "Elección política"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'amenazar'?",
+          "options": [
+            "Ayudar mucho",
+            "Crear peligro",
+            "Comprar algo",
+            "Escribir cartas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Los 'inversores' son personas que:",
+          "options": [
+            "Trabajan en hospitales",
+            "Ponen dinero en negocios",
+            "Enseñan en escuelas",
+            "Venden comida"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'batallas políticas'?",
+          "options": [
+            "Guerras con armas",
+            "Conflictos entre políticos",
+            "Deportes populares",
+            "Celebraciones públicas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿quién firmó el nuevo mapa de Louisiana?",
+          "options": [
+            "Jeff Landry",
+            "Un grupo de políticos",
+            "Los ciudadanos",
+            "El presidente"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cada cuántos años deben hacer estos mapas electorales?",
+          "options": [
+            "Cada cinco años",
+            "Cada diez años",
+            "Cada año",
+            "Cada veinte años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Por qué los ricos siguen ganando más dinero?",
+          "options": [
+            "Solo por suerte",
+            "Trabajan más horas",
+            "Invierten en acciones y tienen mejores oportunidades",
+            "El gobierno les da dinero"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué problema menciona el texto sobre ricos y pobres?",
+          "options": [
+            "No hay problema",
+            "La diferencia se hace más pequeña",
+            "La diferencia se hace más grande",
+            "Todos ganan igual"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué los inversores prefieren ahora el hardware?",
+          "options": [
+            "Es más barato",
+            "La IA amenaza al software",
+            "Es más fácil",
+            "El gobierno lo recomienda"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué deben hacer las empresas de software según el texto?",
+          "options": [
+            "Cerrar sus negocios",
+            "Adaptarse rápidamente",
+            "Cambiar de país",
+            "Bajar sus precios"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-30T09:35:20.238818"
+    },
+    {
       "date": "2026-05-29",
       "filename": "spanish_lesson_2026-05-29.pdf",
       "path": "pdfs/spanish_lesson_2026-05-29.pdf",
@@ -38432,7 +38654,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-29T10:17:55.848063",
+  "last_updated": "2026-05-30T09:35:20.238841",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
