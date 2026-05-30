@@ -1,11 +1,233 @@
 {
-  "date": "2026-05-29",
-  "generated_at": "2026-05-29T10:24:30.855224Z",
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T09:41:15.138902Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 636,
-  "new_today": 5,
+  "total_stories": 642,
+  "new_today": 6,
   "stories": [
+    {
+      "id": "chronic-wounds-20250530",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Centro de Heridas Avanzadas Recibe Premio por Resultados Excepcionales",
+      "headline_en": "Advanced Wound Center Awarded for Exceptional Patient Outcomes",
+      "summary_es": "El Centro de Heridas Avanzadas del Hospital UH St John Medical Center recibió un premio por sus excelentes resultados en el cuidado de pacientes con heridas crónicas.",
+      "body_es": "El Centro de Heridas Avanzadas del Hospital UH St John Medical Center ha sido reconocido por sus resultados excepcionales en el tratamiento de heridas crónicas. El equipo de especialistas utiliza técnicas modernas de curación para ayudar a los pacientes. Los vendajes especiales y los tratamientos avanzados aceleran la cicatrización. El centro atiende a muchos pacientes con úlceras y heridas difíciles de sanar. Los profesionales de enfermería evalúan cada herida cuidadosamente. El equipo multidisciplinario trabaja para prevenir infecciones y complicaciones. Este premio reconoce el compromiso del hospital con la excelencia en el cuidado de heridas.",
+      "body_en": "The Advanced Wound Center at UH St John Medical Center has been recognized for exceptional results in treating chronic wounds. The team of specialists uses modern wound care techniques to help patients. Special dressings and advanced treatments accelerate healing. The center serves many patients with difficult-to-heal ulcers and wounds. Nursing professionals carefully evaluate each wound. The multidisciplinary team works to prevent infections and complications. This award recognizes the hospital's commitment to excellence in wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZG1tMUNFd3E0UG9pbWZndmVzMmhuZ0Izb056cW1BT0xMQ2wzcHJaRWpmUEMyMmc3R01nRVdqZXV1OHlMUklKRklBY3EySkk2T2h1UmZzLTd2LU9fU1YwQUdyakcyR3dXS1pEUHE5ZXpLODNlc3Q0ZlVtRUNRWFpUVHF4TmhVc0I5Q2ZQVXpSby01Qlg1Zzl2Nms4NlJtd09QUW42TWtCdVhZeUtHSGp4TFhCYVQ3SWRhRFExdmlGRlk2TUN6WW5NOEdETXpmMUd4U0NkWjA0QjVpem9vdjJ6TWVR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-30/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material especial para cubrir y proteger heridas",
+          "definition_en": "dressing - special material to cover and protect wounds"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y cierre de la herida",
+          "definition_en": "healing - process of wound closure and recovery"
+        },
+        {
+          "word": "infección",
+          "definition_es": "contaminación de la herida por bacterias",
+          "definition_en": "infection - contamination of wound by bacteria"
+        }
+      ],
+      "added_at": "2026-05-30T09:41:15.138902Z"
+    },
+    {
+      "id": "pressure-ulcers-20250530",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "amber",
+      "headline_es": "La Importancia de la Prevención de Úlceras por Presión",
+      "headline_en": "The Importance of Pressure Ulcer Prevention",
+      "summary_es": "Un caso legal destaca la necesidad crítica de prevención de úlceras por presión en pacientes de edad avanzada durante la atención hospitalaria.",
+      "body_es": "Las úlceras por presión son lesiones graves que se desarrollan en la piel cuando una persona permanece en la misma posición por mucho tiempo. Estas úlceras aparecen en áreas donde el cuerpo presiona contra la cama o la silla. El cuidado preventivo es muy importante para evitar estas lesiones peligrosas. Los enfermeros deben cambiar de posición al paciente frecuentemente. El uso de colchones especiales y cojines reduce el riesgo. La evaluación regular de la piel detecta problemas temprano. Los pacientes de edad avanzada necesitan atención especial y vigilancia constante. La prevención es más efectiva que el tratamiento después de desarrollar una úlcera.",
+      "body_en": "Pressure ulcers are serious injuries that develop on the skin when a person remains in the same position for a long time. These ulcers appear in areas where the body presses against the bed or chair. Preventive care is very important to avoid these dangerous injuries. Nurses must change the patient's position frequently. Use of special mattresses and cushions reduces risk. Regular skin assessment detects problems early. Elderly patients need special attention and constant monitoring. Prevention is more effective than treatment after a ulcer develops.",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0NBd01RQXRmTC10dmdMVDJySHNseWc0cTl0dGNGMDdTTEZIRTlSdG1wMnZTaTF2ZEs5b0MzR1RURDV6MEk1d29BLXNkT05GSmxQU2d2UTdkN3dBQWdSR2VET3o2TlZvaXl0SzZkR3ZpTWhoTE5xQzFWamxteERYaG1HUEd2UFBqd1E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-30/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida en la piel causada por presión prolongada",
+          "definition_en": "pressure ulcer - skin wound caused by prolonged pressure"
+        },
+        {
+          "word": "escara",
+          "definition_es": "tejido muerto en una úlcera por presión",
+          "definition_en": "eschar - dead tissue in a pressure ulcer"
+        },
+        {
+          "word": "posición",
+          "definition_es": "manera en que se coloca al paciente en la cama",
+          "definition_en": "positioning - way patient is placed in bed"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar que se desarrolle la úlcera",
+          "definition_en": "prevention - actions to avoid ulcer development"
+        }
+      ],
+      "added_at": "2026-05-30T09:41:15.138902Z"
+    },
+    {
+      "id": "diabetic-foot-20250530",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "rose",
+      "headline_es": "Enfermedad Arterial Periférica en Pacientes con Úlceras Diabéticas del Pie",
+      "headline_en": "Peripheral Arterial Disease in Patients with Diabetic Foot Ulcers",
+      "summary_es": "Un análisis sistemático examina los resultados de la enfermedad arterial periférica en pacientes con úlceras diabéticas del pie en países de ingresos bajos y medios.",
+      "body_es": "La enfermedad arterial periférica es una complicación grave en pacientes que presentan úlceras diabéticas del pie. Este estudio sistemático y meta-análisis evaluó los resultados clínicos en países de ingresos bajos y medios, donde la prevalencia de estas complicaciones es particularmente alta. Los pacientes con diabetes que desarrollan úlceras en el pie requieren evaluación vascular completa para detectar isquemia. La presencia de enfermedad arterial reduce significativamente las posibilidades de cicatrización sin amputación. Los investigadores analizaron múltiples estudios para comprender mejor los factores que influyen en el pronóstico. El tratamiento debe incluir control glucémico estricto, desbridamiento de tejido necrótico, y en casos graves, intervención vascular. La detección temprana y el manejo multidisciplinario son esenciales para prevenir amputaciones y mejorar los resultados.",
+      "body_en": "Peripheral arterial disease is a serious complication in patients presenting with diabetic foot ulcers. This systematic review and meta-analysis evaluated clinical outcomes in low- and middle-income countries, where the prevalence of these complications is particularly high. Patients with diabetes who develop foot ulcers require complete vascular evaluation to detect ischemia. The presence of arterial disease significantly reduces chances of healing without amputation. Researchers analyzed multiple studies to better understand factors influencing prognosis. Treatment must include strict glycemic control, debridement of necrotic tissue, and in severe cases, vascular intervention. Early detection and multidisciplinary management are essential to prevent amputations and improve outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOY3JjLXM1eUJWZzA5dFAyRXp0V2twUWxGTFpFbW4zNk9LR1BkeFNGYTNhc0RrdG5STk5UVEQ2ejBBVjU5OHQ4amcxVkozaHVuWUs0MzQ3a0gzOEd2MTRmSmlGUFdFWGFGT3c1SXBjLTlwZ0xFVUJjM1IxRUNFMkFwV1JaaDRQRFV0Q0ZHbUdoR1BhRDFyRVMtS2pPRXZ2RWx4THQwTURYTnphRHVDaGVVN2xCVmtCbXhRSi1rbmp1UkZXV3NmOTlpck9NeDVJWFFoVmlLcU8wUzJoMmwwTUJQcUppb0ZrMTR4TTVuSVJJTVZCbG9HTkxHbzY0ejZ3QnZycmJvN2ltZHk2ZHhfM3NCRzN0eEtUbEpnQ1E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-30/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "enfermedad arterial periférica",
+          "definition_es": "reducción del flujo sanguíneo en las extremidades",
+          "definition_en": "peripheral arterial disease - reduced blood flow to extremities"
+        },
+        {
+          "word": "úlcera diabética del pie",
+          "definition_es": "herida abierta en el pie de un paciente con diabetes",
+          "definition_en": "diabetic foot ulcer - open wound on foot of diabetic patient"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de irrigación sanguínea en un tejido",
+          "definition_en": "ischemia - lack of blood supply to tissue"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        }
+      ],
+      "added_at": "2026-05-30T09:41:15.138902Z"
+    },
+    {
+      "id": "burn-care-20250530",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Apósitos de Colágeno No Antimicrobiano en el Cuidado de Quemaduras",
+      "headline_en": "Non-Antimicrobial Collagen Dressings in Burn Care",
+      "summary_es": "El mercado mundial de apósitos de colágeno sin propiedades antimicrobianas continúa expandiéndose para aplicaciones en el tratamiento de quemaduras y heridas.",
+      "body_es": "Los apósitos de colágeno no antimicrobiano representan una categoría importante en el cuidado de heridas, incluyendo el tratamiento de quemaduras. Estos vendajes están diseñados para proporcionar un ambiente óptimo que favorezca la cicatrización natural del tejido dañado. El colágeno, que es una proteína estructural natural presente en la piel, ayuda a promover la granulación y epitelización de las heridas. Estos apósitos son particularmente útiles en quemaduras de profundidad variable, donde la curación gradual es preferible. El mercado global de estos productos ha mostrado un crecimiento constante debido a los beneficios clínicos documentados. Los profesionales de enfermería utilizan estos apósitos en protocolos de manejo de heridas quirúrgicas y traumáticas. La investigación continúa para mejorar las formulaciones y optimizar los resultados clínicos en pacientes con quemaduras complejas.",
+      "body_en": "Non-antimicrobial collagen dressings represent an important category in wound care, including burn treatment. These dressings are designed to provide an optimal environment that promotes natural tissue healing. Collagen, a natural structural protein present in skin, helps promote granulation and epithelialization of wounds. These dressings are particularly useful in variable-depth burns, where gradual healing is preferable. The global market for these products has shown steady growth due to documented clinical benefits. Nursing professionals use these dressings in surgical and traumatic wound management protocols. Research continues to improve formulations and optimize clinical outcomes in patients with complex burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcktqNmp4QXJnb1lva0xLY3REbktvY1hya2tyNklIOVhrM3Z5Z2UycW84dnVNZjlnZTBYZkVDVmYyV3pxSER4dTgwSVJHaHpWS01OdHotNW13cGw1aXhvbnl5OEFWTGtrOU1CWkpWYlAzQ1d2RE1NQ0tRTmlIc1VpRU1lUVlmUnN5cXJDMjZVeTU1TGdqeldZdEM3YWFoaXAtb01kZFE1VzY1NGxmWDVJVUhhVzY0V0p2NllDWm5xck52a2R4Z0tveUEwMFpJcWRRNDdVeXpUWDQ5QXViZlE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-30/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito de colágeno",
+          "definition_es": "vendaje con proteína natural para cicatrización",
+          "definition_en": "collagen dressing - bandage with natural protein for healing"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido durante la curación",
+          "definition_en": "granulation - formation of new tissue during healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de nueva piel sobre la herida",
+          "definition_en": "epithelialization - growth of new skin over wound"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+        }
+      ],
+      "added_at": "2026-05-30T09:41:15.138902Z"
+    },
+    {
+      "id": "surgical-wounds-20250530",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Colgajo Sural Invertido para Reconstrucción de Defectos de Tejidos Blandos",
+      "headline_en": "Reverse Sural Flap for Reconstruction of Soft-Tissue Defects",
+      "summary_es": "Un reporte de caso presenta el uso exitoso de un colgajo sural invertido para la reconstrucción de defectos graves de tejidos blandos en la pierna después de una lesión por mordedura de perro.",
+      "body_es": "La reconstrucción quirúrgica de defectos graves de tejidos blandos en las extremidades inferiores presenta un desafío clínico significativo. Este reporte de caso documenta el uso de un colgajo sural invertido para reconstruir un defecto extenso de tejido blando en la pierna distal después de una lesión traumática causada por mordedura de perro. El colgajo sural es un procedimiento quirúrgico que utiliza tejido vascularizado de la región de la pantorrilla para cubrir el defecto. La técnica requiere conocimiento profundo de la anatomía vascular y técnicas de cirugía plástica reconstructiva. El cuidado postoperatorio incluye vigilancia cuidadosa de la viabilidad del colgajo, manejo de heridas y prevención de infecciones. El seguimiento a largo plazo evaluó la funcionalidad, cicatrización y resultados estéticos. Este caso ilustra la importancia de opciones quirúrgicas avanzadas en la reconstrucción de defectos complejos.",
+      "body_en": "Surgical reconstruction of severe soft-tissue defects in the lower extremities presents a significant clinical challenge. This case report documents the use of a reverse sural flap to reconstruct an extensive soft-tissue defect in the distal leg following traumatic injury caused by dog bite. The sural flap is a surgical procedure that uses vascularized tissue from the calf region to cover the defect. The technique requires deep knowledge of vascular anatomy and reconstructive plastic surgery techniques. Postoperative care includes careful monitoring of flap viability, wound management, and infection prevention. Long-term follow-up evaluated functionality, healing, and aesthetic outcomes. This case illustrates the importance of advanced surgical options in reconstruction of complex defects.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORUJqdjVfYy1fNkhOdWZXYzJLOWE5Wk4tUkNGamQ1WnF5SlZHUUh0T0pyVTlQakd4elUtZ1NNWWhpZ2w2eWpFUWlxdzBNU1JsUTlfVmtPcy0tRmhaOFUtcWIyUUM2NTRrV1QzZE5WSzh1UDhTVkhLV3l0c2VPVXEwVmlZQTZFbjFrSG51X0VnR2tOaktObFU0UmxRdEk2Yk1GR19MMFdfRlBOZ3FfbjFtUkpoMEw2ZVNJcktSNks5bTZsZGZPS0xVc0NiOVF0amMxXzhSemJxZXFlTnF2MkpSLTg0QmlaZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-30/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "colgajo sural",
+          "definition_es": "tejido vascularizado de la pantorrilla usado para cubrir defectos",
+          "definition_en": "sural flap - vascularized tissue from calf used to cover defects"
+        },
+        {
+          "word": "tejido blando",
+          "definition_es": "piel, grasa y músculo que cubren las estructuras óseas",
+          "definition_en": "soft tissue - skin, fat, and muscle covering bone structures"
+        },
+        {
+          "word": "defecto quirúrgico",
+          "definition_es": "pérdida de tejido después de una cirugía o trauma",
+          "definition_en": "surgical defect - tissue loss after surgery or trauma"
+        },
+        {
+          "word": "viabilidad del colgajo",
+          "definition_es": "capacidad del tejido trasplantado de sobrevivir y funcionar",
+          "definition_en": "flap viability - ability of transplanted tissue to survive and function"
+        }
+      ],
+      "added_at": "2026-05-30T09:41:15.138902Z"
+    },
+    {
+      "id": "wound-research-20250530",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Celebrando la Excelencia en Investigación e Innovación en Cuidado de Heridas",
+      "headline_en": "Celebrating Excellence in Research and Innovation in Wound Care",
+      "summary_es": "Wayne State University reconoce los logros destacados de investigadores que avanzan el conocimiento en el cuidado de heridas y tecnologías de curación.",
+      "body_es": "La División de Investigación e Innovación de la Universidad Wayne State celebra los logros excepcionales de investigadores que trabajan en el avance de tecnologías y tratamientos para el cuidado de heridas. La investigación en cicatrización de heridas requiere un enfoque multidisciplinario que combine conocimientos de biología celular, farmacología y medicina clínica. Los científicos investigan nuevos apósitos, factores de crecimiento y terapias avanzadas para mejorar la cicatrización y reducir complicaciones. Los estudios clínicos evalúan la efectividad de nuevas intervenciones en pacientes con heridas crónicas, quemaduras y defectos quirúrgicos. La innovación en tecnologías de regeneración tisular ofrece esperanza para pacientes con lesiones graves. La colaboración entre investigadores, clínicos y la industria acelera la traducción de descubrimientos en tratamientos disponibles. Estos esfuerzos de investigación contribuyen significativamente a mejorar los resultados y la calidad de vida de pacientes con heridas complejas.",
+      "body_en": "Wayne State University's Division of Research and Innovation celebrates exceptional achievements of researchers working to advance wound care technologies and healing treatments. Research in wound healing requires a multidisciplinary approach combining cellular biology, pharmacology, and clinical medicine. Scientists investigate new dressings, growth factors, and advanced therapies to improve healing and reduce complications. Clinical studies evaluate the effectiveness of new interventions in patients with chronic wounds, burns, and surgical defects. Innovation in tissue regeneration technologies offers hope for patients with serious injuries. Collaboration between researchers, clinicians, and industry accelerates translation of discoveries into available treatments. These research efforts significantly contribute to improving outcomes and quality of life for patients with complex wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV01ya2VnbEcwdllIVl9MbXNubDBVa3NVS1E3RGZKUXQ3WnVwdVY0VHdGUXhhNWNJY0xVLWhTTlRuT2F2TS1Eb3R1c0FuaDAwRTl0R0FrZ190aE85cDF6enBaN29JSGhHZ3pic0V2dXk0bkUyVWU3aHZpeUVTa1ByTER6S1JDVG96TEhr?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-30/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización de heridas",
+          "definition_es": "proceso biológico de curación y regeneración tisular",
+          "definition_en": "wound healing - biological process of tissue repair and regeneration"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "proteína que estimula la proliferación celular y cicatrización",
+          "definition_en": "growth factor - protein that stimulates cell proliferation and healing"
+        },
+        {
+          "word": "regeneración tisular",
+          "definition_es": "formación de nuevo tejido para reemplazar el dañado",
+          "definition_en": "tissue regeneration - formation of new tissue to replace damaged"
+        },
+        {
+          "word": "intervención clínica",
+          "definition_es": "tratamiento aplicado directamente a pacientes",
+          "definition_en": "clinical intervention - treatment applied directly to patients"
+        }
+      ],
+      "added_at": "2026-05-30T09:41:15.138902Z"
+    },
     {
       "id": "chronic-wounds-20250529",
       "category": "Chronic Wounds",
@@ -23533,6 +23755,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-29T10:24:30.855224Z",
+  "last_updated": "2026-05-30T09:41:15.138902Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
