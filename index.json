@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-05-31",
+      "filename": "spanish_lesson_2026-05-31.pdf",
+      "path": "pdfs/spanish_lesson_2026-05-31.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso busca controlar los fondos millonarios de Trump",
+          "headline_en": "Congress seeks to control Trump's million-dollar funds",
+          "body_es": "El Congreso estadounidense está estudiando cómo controlar un fondo de 1.8 mil millones de dólares relacionado con Trump. Los políticos quieren saber cómo se usa este dinero. Algunos congresistas pueden crear nuevas leyes para vigilar mejor estos fondos. Sin embargo, hay límites legales sobre lo que el Congreso puede hacer. La Constitución protege ciertos derechos del poder ejecutivo. Los expertos dicen que será difícil cambiar las reglas rápidamente. Esta situación crea tensión entre el Congreso y la presidencia. El debate sobre el control de estos fondos continuará en las próximas semanas. Los ciudadanos también están interesados en saber cómo se gasta su dinero de impuestos.",
+          "body_en": "The US Congress is studying how to control a fund of 1.8 billion dollars related to Trump. Politicians want to know how this money is used. Some congresspeople can create new laws to better monitor these funds. However, there are legal limits on what Congress can do. The Constitution protects certain rights of the executive branch. Experts say it will be difficult to change the rules quickly. This situation creates tension between Congress and the presidency. The debate about controlling these funds will continue in the coming weeks. Citizens are also interested in knowing how their tax money is spent.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "China ve nuevas oportunidades de inversión en Estados Unidos",
+          "headline_en": "China sees new investment opportunities in the United States",
+          "body_es": "Después de la cumbre entre Trump y el presidente chino Xi, China está buscando nuevas oportunidades de inversión en Estados Unidos. Los líderes de los dos países hablaron sobre mejorar las relaciones comerciales. Las empresas chinas ahora ven más posibilidades de invertir en negocios estadounidenses. Esto puede crear más empleos en ambos países. Los expertos económicos dicen que esta cooperación es buena para la economía mundial. Sin embargo, algunos políticos estadounidenses todavía tienen dudas sobre las inversiones chinas. Quieren proteger la seguridad nacional del país. Las negociaciones entre los dos países van a continuar durante los próximos meses. El resultado de estas conversaciones será muy importante para el comercio internacional.",
+          "body_en": "After the summit between Trump and Chinese President Xi, China is looking for new investment opportunities in the United States. The leaders of both countries talked about improving commercial relations. Chinese companies now see more possibilities to invest in American businesses. This can create more jobs in both countries. Economic experts say this cooperation is good for the world economy. However, some American politicians still have doubts about Chinese investments. They want to protect the country's national security. Negotiations between the two countries will continue during the next months. The result of these conversations will be very important for international trade.",
+          "source": "Forbes"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El Papa pide 'desarmar' la inteligencia artificial por sus peligros",
+          "headline_en": "The Pope calls to 'disarm' artificial intelligence due to its dangers",
+          "body_es": "El Papa León escribió un documento importante sobre los peligros de la inteligencia artificial. En este texto, pide 'desarmar' las tecnologías que pueden ser peligrosas para la humanidad. El líder religioso está preocupado por cómo la IA puede afectar a las personas. Dice que estas tecnologías pueden quitar empleos y crear problemas sociales. También habla sobre el riesgo de que las máquinas tomen decisiones importantes sobre la vida humana. El Papa quiere que los gobiernos y las empresas sean más cuidadosos con el desarrollo de la IA. Pide crear leyes que protejan a las personas. Este documento es muy importante porque muestra la posición de la Iglesia Católica sobre la tecnología moderna. Millones de personas van a leer estas ideas.",
+          "body_en": "Pope Leo wrote an important document about the dangers of artificial intelligence. In this text, he calls to 'disarm' technologies that can be dangerous for humanity. The religious leader is worried about how AI can affect people. He says these technologies can take away jobs and create social problems. He also talks about the risk of machines making important decisions about human life. The Pope wants governments and companies to be more careful with AI development. He asks to create laws that protect people. This document is very important because it shows the Catholic Church's position on modern technology. Millions of people will read these ideas.",
+          "source": "National Catholic Reporter"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "fondos",
+          "syllables": "FON-dos",
+          "pos": "sustantivo",
+          "context": "El Congreso quiere controlar los fondos de 1.8 mil millones de dólares.",
+          "definition_es": "Dinero disponible para usar en algo específico",
+          "definition_en": "Money available for a specific purpose; funds"
+        },
+        {
+          "word": "controlar",
+          "syllables": "con-tro-LAR",
+          "pos": "verbo",
+          "context": "Los políticos quieren controlar cómo se usa el dinero.",
+          "definition_es": "Tener poder sobre algo o vigilar algo",
+          "definition_en": "To have power over something or supervise something"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "China busca nuevas oportunidades de inversión en Estados Unidos.",
+          "definition_es": "Dinero que se pone en un negocio para ganar más dinero",
+          "definition_en": "Money put into a business to make more money"
+        },
+        {
+          "word": "cumbre",
+          "syllables": "CUM-bre",
+          "pos": "sustantivo",
+          "context": "Después de la cumbre entre Trump y Xi, las relaciones mejoraron.",
+          "definition_es": "Reunión importante entre líderes de países",
+          "definition_en": "Important meeting between country leaders; summit"
+        },
+        {
+          "word": "amenaza",
+          "syllables": "a-me-NA-za",
+          "pos": "sustantivo",
+          "context": "El Papa habló sobre las amenazas de la inteligencia artificial.",
+          "definition_es": "Algo que puede causar daño o peligro",
+          "definition_en": "Something that can cause harm or danger; threat"
+        },
+        {
+          "word": "desarmar",
+          "syllables": "de-sar-MAR",
+          "pos": "verbo",
+          "context": "El Papa pide desarmar la inteligencia artificial peligrosa.",
+          "definition_es": "Quitar las armas o hacer algo menos peligroso",
+          "definition_en": "To remove weapons or make something less dangerous"
+        },
+        {
+          "word": "tecnológico",
+          "syllables": "tec-no-LÓ-gi-co",
+          "pos": "adjetivo",
+          "context": "Los avances tecnológicos pueden ser peligrosos para la humanidad.",
+          "definition_es": "Relacionado con la tecnología y las máquinas",
+          "definition_en": "Related to technology and machines"
+        },
+        {
+          "word": "documento",
+          "syllables": "do-cu-MEN-to",
+          "pos": "sustantivo",
+          "context": "El Papa escribió un documento importante sobre la inteligencia artificial.",
+          "definition_es": "Papel oficial con información importante",
+          "definition_en": "Official paper with important information"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'fondos'?",
+          "options": [
+            "Dinero disponible para usar",
+            "Lugares profundos",
+            "Documentos importantes",
+            "Reuniones políticas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una 'cumbre' es:",
+          "options": [
+            "Una montaña alta",
+            "Una reunión entre líderes",
+            "Un tipo de inversión",
+            "Una amenaza tecnológica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'desarmar' en el contexto del artículo del Papa?",
+          "options": [
+            "Quitar soldados",
+            "Hacer menos peligroso",
+            "Romper máquinas",
+            "Escribir documentos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Una 'inversión' es:",
+          "options": [
+            "Un cambio de dirección",
+            "Dinero para ganar más dinero",
+            "Una nueva tecnología",
+            "Una reunión de negocios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero quiere controlar el Congreso según la primera historia?",
+          "options": [
+            "1.8 millones",
+            "1.8 mil millones",
+            "8.1 mil millones",
+            "18 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué países tuvieron una cumbre según la segunda historia?",
+          "options": [
+            "Estados Unidos y España",
+            "China y Japón",
+            "Estados Unidos y China",
+            "China y Rusia"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué resultado puede tener la cooperación entre China y Estados Unidos?",
+          "options": [
+            "Menos empleos",
+            "Más empleos",
+            "Más problemas",
+            "Menos comercio"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué escribió el Papa sobre la inteligencia artificial?",
+          "options": [
+            "Un libro",
+            "Un documento",
+            "Una carta personal",
+            "Un mensaje en redes sociales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según el Papa, ¿qué problemas puede causar la IA?",
+          "options": [
+            "Solo problemas técnicos",
+            "Quitar empleos y problemas sociales",
+            "Solo problemas religiosos",
+            "Problemas de salud"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué quiere el Papa que hagan los gobiernos?",
+          "options": [
+            "Prohibir toda la tecnología",
+            "Crear leyes que protejan a las personas",
+            "Ignorar la inteligencia artificial",
+            "Usar más IA en las iglesias"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-05-31T09:52:18.317992"
+    },
+    {
       "date": "2026-05-30",
       "filename": "spanish_lesson_2026-05-30.pdf",
       "path": "pdfs/spanish_lesson_2026-05-30.pdf",
@@ -38654,7 +38876,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-30T09:35:20.238841",
+  "last_updated": "2026-05-31T09:52:18.318024",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
