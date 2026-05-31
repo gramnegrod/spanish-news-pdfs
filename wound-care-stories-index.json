@@ -1,11 +1,122 @@
 {
-  "date": "2026-05-30",
-  "generated_at": "2026-05-30T09:41:15.138902Z",
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T09:55:34.859995Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 642,
-  "new_today": 6,
+  "total_stories": 645,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250531",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo gel natural para curar heridas crónicas",
+      "headline_en": "New natural gel for chronic wound healing",
+      "summary_es": "Los investigadores crean un gel especial con propóleo, aceite de árbol de té y aceite de jojoba. Este producto ayuda a sanar heridas crónicas más rápido.",
+      "body_es": "Un equipo de investigadores desarrolla un gel nuevo para las heridas que no cierran. El gel contiene propóleo, aceite de árbol de té y aceite de jojoba. Estos ingredientes naturales tienen propiedades especiales. El propóleo reduce la inflamación. El aceite de árbol de té mata las bacterias. El aceite de jojoba protege la piel. Los investigadores hacen pruebas con el gel. Los resultados son muy buenos. El gel ayuda a la granulación de la herida. También reduce el exudado. Los pacientes con úlceras crónicas pueden beneficiarse. Este tratamiento es natural y seguro. Los médicos pueden usar este apósito en la clínica.",
+      "body_en": "Researchers develop a new gel for wounds that do not close. The gel contains propolis, tea tree oil, and jojoba oil. These natural ingredients have special properties. Propolis reduces inflammation. Tea tree oil kills bacteria. Jojoba oil protects the skin. Researchers test the gel. The results are very good. The gel helps wound granulation. It also reduces exudate. Patients with chronic ulcers can benefit. This treatment is natural and safe. Doctors can use this dressing in the clinic.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xVDkxMVBmM3o0cWJFRUtCT1FITlpOa2dlbGU4Z3dQT2lXamhKWk5wYU9hWWN6RFRIUGc2eVV4YUFBU3VBQjVGSWVibmpndGlUamtzWmRXOHB2aC1CSXpr?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-31/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra con facilidad",
+          "definition_en": "chronic wound - injury that does not close easily"
+        },
+        {
+          "word": "propóleo",
+          "definition_es": "sustancia natural producida por las abejas",
+          "definition_en": "propolis - natural substance produced by bees"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "proceso de formación de tejido nuevo en la herida",
+          "definition_en": "granulation - process of new tissue formation in wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de la herida",
+          "definition_en": "exudate - fluid that comes out of the wound"
+        }
+      ],
+      "added_at": "2026-05-31T09:55:34.859995Z"
+    },
+    {
+      "id": "surgical-wounds-20250531",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Evaluación térmica de heridas quirúrgicas después de implantes cardíacos",
+      "headline_en": "Thermal assessment of surgical wounds after cardiac implants",
+      "summary_es": "Un estudio piloto utiliza termografía para monitorear la temperatura en el sitio de incisión después de implantes cardíacos. Este método permite detectar complicaciones tempranas.",
+      "body_es": "Los investigadores realizan un estudio para evaluar los cambios de temperatura en la piel después de la colocación de dispositivos cardíacos implantables. Utilizan termografía, que es un método no invasivo para medir el calor de la piel. Durante la cirugía, se hace una incisión en el pecho o bajo la clavícula. Después de la operación, la incisión necesita cuidados especiales. Los médicos monitorean la herida quirúrgica para evitar infecciones. El aumento de temperatura en el sitio puede indicar inflamación o necrosis. Los resultados preliminares muestran que la termografía es útil para la evaluación temprana de complicaciones. Este método ayuda a identificar problemas antes de que se desarrollen infecciones graves. El equipo de investigación continúa recopilando datos para confirmar estos hallazgos.",
+      "body_en": "Researchers conduct a study to evaluate temperature changes in the skin after implantable cardiac device placement. They use thermography, which is a non-invasive method to measure skin heat. During surgery, an incision is made in the chest or under the collarbone. After the operation, the incision requires special care. Doctors monitor the surgical wound to prevent infections. Temperature increase at the site can indicate inflammation or necrosis. Preliminary results show that thermography is useful for early complication assessment. This method helps identify problems before serious infections develop. The research team continues collecting data to confirm these findings.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QQ1hmZTdKQ1F6N1d1ZVU5VjFCM2taejk4SkpMaXZEZDlDcl9qQU9TU1FzUXlNT1pKMElOZ0VQVWVqS1ZYTzhFNXc0ZjZoUVNxWWR1WWNTQzViVjktbEdoYnQtMXh4VDVMOWE2Ri1Ta21RV2ZtVUxGT1F3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-31/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "termografía",
+          "definition_es": "técnica que mide el calor infrarrojo emitido por la piel",
+          "definition_en": "thermography - technique that measures infrared heat emitted by skin"
+        },
+        {
+          "word": "incisión",
+          "definition_es": "corte quirúrgico hecho durante la operación",
+          "definition_en": "incision - surgical cut made during operation"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido vivo",
+          "definition_en": "necrosis - death of living tissue"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel",
+          "definition_en": "erythema - redness of the skin"
+        }
+      ],
+      "added_at": "2026-05-31T09:55:34.859995Z"
+    },
+    {
+      "id": "wound-research-20250531",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación de nanoemulgel natural para cicatrización de heridas",
+      "headline_en": "Research on natural nanoemulgel for wound healing",
+      "summary_es": "Investigadores desarrollan y evalúan un nanoemulgel con propóleo, aceite de árbol de té y aceite de jojoba que tiene propiedades antioxidantes y antiinflamatorias mejoradas.",
+      "body_es": "Un equipo internacional de investigadores publica un estudio que examina las propiedades curativas de un nanoemulgel innovador. El producto contiene tres ingredientes naturales: propóleo, aceite de árbol de té y aceite de jojoba. Los investigadores evalúan las actividades antioxidante, antiinflamatoria y cicatrizante del nanoemulgel. En las pruebas in vitro, el gel demuestra capacidades superiores para reducir el daño oxidativo. También muestra efectos antiinflamatorios significativos que ayudan a controlar la respuesta inflamatoria de las heridas. Los resultados indican que este nanoemulgel podría mejorar la epitelización de heridas difíciles de cicatrizar. Los investigadores sugieren que el producto tiene potencial para aplicaciones clínicas en el tratamiento de úlceras crónicas y heridas complejas. Se requieren más ensayos clínicos para confirmar la eficacia terapéutica en pacientes.",
+      "body_en": "An international team of researchers publishes a study examining the healing properties of an innovative nanoemulgel. The product contains three natural ingredients: propolis, tea tree oil, and jojoba oil. Researchers evaluate the antioxidant, anti-inflammatory, and wound-healing activities of the nanoemulgel. In in vitro tests, the gel demonstrates superior capabilities for reducing oxidative damage. It also shows significant anti-inflammatory effects that help control the inflammatory response of wounds. Results indicate that this nanoemulgel could improve epithelialization of difficult-to-heal wounds. Researchers suggest the product has potential for clinical applications in treating chronic ulcers and complex wounds. Further clinical trials are required to confirm therapeutic efficacy in patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xVDkxMVBmM3o0cWJFRUtCT1FITlpOa2dlbGU4Z3dQT2lXamhKWk5wYU9hWWN6RFRIUGc2eVV4YUFBU3VBQjVGSWVibmpndGlUamtzWmRXOHB2aC1CSXpr?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-05-31/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "nanoemulgel",
+          "definition_es": "formulación de gel a escala nanométrica con propiedades mejoradas",
+          "definition_en": "nanoemulgel - gel formulation at nanometric scale with enhanced properties"
+        },
+        {
+          "word": "antioxidante",
+          "definition_es": "sustancia que previene el daño causado por oxidación",
+          "definition_en": "antioxidant - substance that prevents damage caused by oxidation"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de epitelio nuevo sobre la herida",
+          "definition_en": "epithelialization - process of new epithelium formation over wound"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "reducción del flujo sanguíneo a un tejido",
+          "definition_en": "ischemia - reduced blood flow to tissue"
+        }
+      ],
+      "added_at": "2026-05-31T09:55:34.859995Z"
+    },
     {
       "id": "chronic-wounds-20250530",
       "category": "Chronic Wounds",
@@ -23755,6 +23866,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-30T09:41:15.138902Z",
+  "last_updated": "2026-05-31T09:55:34.859995Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
