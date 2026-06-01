@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-01",
+      "filename": "spanish_lesson_2026-06-01.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-01.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Virginia reduce cupones de comida y afecta a familias pobres",
+          "headline_en": "Virginia cuts food stamps affecting poor families",
+          "body_es": "El estado de Virginia está reduciendo los cupones de comida para familias necesitadas. Estos cupones ayudan a las personas pobres a comprar alimentos básicos. Los recortes significan que muchas familias tendrán menos dinero para comida cada mes. Las organizaciones de ayuda social dicen que esta decisión es muy dura para las familias con niños. Muchas personas ya tienen problemas para pagar la comida debido a los altos precios. Los políticos explican que necesitan reducir el gasto público. Sin embargo, las familias afectadas sufren porque no pueden comprar suficientes alimentos. Esta situación preocupa a los trabajadores sociales que ayudan a las comunidades más pobres del estado.",
+          "body_en": "The state of Virginia is reducing food stamps for needy families. These stamps help poor people buy basic food. The cuts mean many families will have less money for food each month. Social aid organizations say this decision is very tough for families with children. Many people already have problems paying for food due to high prices. Politicians explain they need to reduce public spending. However, affected families suffer because they cannot buy enough food. This situation worries social workers who help the poorest communities in the state.",
+          "source": "Virginia Mercury"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "¿Destruirá la inteligencia artificial muchos empleos?",
+          "headline_en": "Will artificial intelligence destroy many jobs?",
+          "body_es": "Los expertos debaten si la inteligencia artificial eliminará muchos trabajos. Algunas personas creen que las máquinas inteligentes reemplazarán a los trabajadores en muchas industrias. Esto podría aumentar el desempleo en el futuro. Sin embargo, otros expertos piensan diferente. Ellos dicen que la IA creará nuevos tipos de empleos. Por ejemplo, necesitaremos personas que programen y reparen estas máquinas. El mercado laboral siempre ha cambiado con las nuevas tecnologías. Los trabajadores pueden aprender nuevas habilidades para adaptarse. Es importante que las escuelas y universidades preparen a los estudiantes para estos cambios. El gobierno también debe ayudar a los trabajadores a encontrar nuevas oportunidades de empleo.",
+          "body_en": "Experts debate whether artificial intelligence will eliminate many jobs. Some people believe intelligent machines will replace workers in many industries. This could increase unemployment in the future. However, other experts think differently. They say AI will create new types of jobs. For example, we will need people to program and repair these machines. The job market has always changed with new technologies. Workers can learn new skills to adapt. It's important that schools and universities prepare students for these changes. The government should also help workers find new employment opportunities.",
+          "source": "NH Journal"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nvidia quiere poner sus chips en todas las computadoras personales",
+          "headline_en": "Nvidia wants to put its chips in all personal computers",
+          "body_es": "La empresa Nvidia tiene un plan ambicioso para el mercado de computadoras. Quiere que sus chips especiales estén en todas las computadoras personales del mundo. Estos procesadores son muy poderosos y pueden hacer que las computadoras trabajen más rápido. Nvidia es famosa por hacer chips para videojuegos y inteligencia artificial. Ahora quiere competir con otras empresas como Intel y AMD. Sus nuevos chips pueden procesar gráficos increíbles y ejecutar programas de IA. Esto significa que las computadoras del futuro serán mucho más inteligentes. Los usuarios podrán editar videos, jugar juegos avanzados y usar aplicaciones de inteligencia artificial sin problemas. Esta competencia entre empresas beneficia a los consumidores porque tendrán mejores productos.",
+          "body_en": "The company Nvidia has an ambitious plan for the computer market. It wants its special chips to be in all personal computers in the world. These processors are very powerful and can make computers work faster. Nvidia is famous for making chips for video games and artificial intelligence. Now it wants to compete with other companies like Intel and AMD. Its new chips can process incredible graphics and run AI programs. This means future computers will be much smarter. Users will be able to edit videos, play advanced games and use artificial intelligence applications without problems. This competition between companies benefits consumers because they will have better products.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cupones",
+          "syllables": "cu-PO-nes",
+          "pos": "sustantivo",
+          "context": "Los cupones de comida ayudan a las familias pobres a comprar alimentos.",
+          "definition_es": "Documentos que permiten comprar comida con ayuda del gobierno",
+          "definition_en": "Food stamps; government assistance for buying food"
+        },
+        {
+          "word": "recortes",
+          "syllables": "re-COR-tes",
+          "pos": "sustantivo",
+          "context": "Los recortes en los programas sociales afectan a muchas personas.",
+          "definition_es": "Reducción de dinero o servicios del gobierno",
+          "definition_en": "Budget cuts; reduction in government spending"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial puede cambiar el mercado laboral.",
+          "definition_es": "El lugar donde las personas buscan y encuentran trabajo",
+          "definition_en": "Job market; employment market"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "de-sem-PLE-o",
+          "pos": "sustantivo",
+          "context": "El desempleo aumenta cuando las máquinas reemplazan a los trabajadores.",
+          "definition_es": "Situación de no tener trabajo",
+          "definition_en": "Unemployment; being without a job"
+        },
+        {
+          "word": "chips",
+          "syllables": "chips",
+          "pos": "sustantivo",
+          "context": "Los chips de computadora son muy importantes para la tecnología moderna.",
+          "definition_es": "Pequeños componentes electrónicos que procesan información",
+          "definition_en": "Computer chips; microprocessors"
+        },
+        {
+          "word": "procesador",
+          "syllables": "pro-ce-sa-DOR",
+          "pos": "sustantivo",
+          "context": "Un procesador rápido hace que la computadora funcione mejor.",
+          "definition_es": "Parte de la computadora que realiza los cálculos",
+          "definition_en": "Processor; the brain of a computer"
+        },
+        {
+          "word": "sufrir",
+          "syllables": "su-FRIR",
+          "pos": "verbo",
+          "context": "Las familias sufren cuando no tienen suficiente comida.",
+          "definition_es": "Sentir dolor o pasar por momentos difíciles",
+          "definition_en": "To suffer; to experience pain or hardship"
+        },
+        {
+          "word": "reemplazar",
+          "syllables": "re-em-pla-ZAR",
+          "pos": "verbo",
+          "context": "Las máquinas pueden reemplazar a algunos trabajadores en las fábricas.",
+          "definition_es": "Poner algo o alguien en el lugar de otro",
+          "definition_en": "To replace; to substitute"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué son los cupones de comida?",
+          "options": [
+            "Documentos para comprar comida con ayuda del gobierno",
+            "Recetas de cocina",
+            "Menús de restaurantes",
+            "Listas de compras"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'recortes' en el contexto político?",
+          "options": [
+            "Cortar papel",
+            "Reducción de dinero del gobierno",
+            "Tijeras",
+            "Descuentos en tiendas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es el mercado laboral?",
+          "options": [
+            "Un lugar para vender productos",
+            "Donde las personas buscan trabajo",
+            "Un tipo de tienda",
+            "Un mercado de comida"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reemplazar'?",
+          "options": [
+            "Reparar algo",
+            "Comprar algo nuevo",
+            "Poner algo en lugar de otro",
+            "Vender algo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Virginia, ¿por qué están reduciendo los cupones de comida?",
+          "options": [
+            "Para ayudar más familias",
+            "Para reducir el gasto público",
+            "Porque hay mucha comida",
+            "Para crear más empleos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué piensan algunos expertos sobre la inteligencia artificial y el empleo?",
+          "options": [
+            "Que eliminará todos los trabajos",
+            "Que creará nuevos tipos de empleos",
+            "Que no afectará el empleo",
+            "Que solo afectará a los robots"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Con qué empresas quiere competir Nvidia?",
+          "options": [
+            "Apple y Google",
+            "Intel y AMD",
+            "Microsoft y Samsung",
+            "IBM y Oracle"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Quiénes sufren más con los recortes de cupones en Virginia?",
+          "options": [
+            "Los políticos",
+            "Las empresas",
+            "Las familias con niños",
+            "Los trabajadores del gobierno"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué es importante que las escuelas preparen a los estudiantes según la historia de IA?",
+          "options": [
+            "Para usar computadoras",
+            "Para adaptarse a cambios tecnológicos",
+            "Para ser profesores",
+            "Para trabajar en fábricas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué beneficio tendrán los consumidores según la historia de Nvidia?",
+          "options": [
+            "Computadoras más baratas",
+            "Mejores productos por la competencia",
+            "Más empleos",
+            "Menor uso de electricidad"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-01T10:40:31.052148"
+    },
+    {
       "date": "2026-05-31",
       "filename": "spanish_lesson_2026-05-31.pdf",
       "path": "pdfs/spanish_lesson_2026-05-31.pdf",
@@ -38876,7 +39098,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-05-31T09:52:18.318024",
+  "last_updated": "2026-06-01T10:40:31.052190",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
