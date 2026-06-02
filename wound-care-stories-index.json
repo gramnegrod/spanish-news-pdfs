@@ -1,11 +1,122 @@
 {
-  "date": "2026-06-01",
-  "generated_at": "2026-06-01T10:48:16.593915Z",
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T10:36:48.195103Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 649,
-  "new_today": 4,
+  "total_stories": 652,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250602",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nueva Tecnología sin Medicamentos para Curar Heridas",
+      "headline_en": "New Drug-Free Technology for Wound Healing",
+      "summary_es": "Yenssen Biotech presenta una nueva tecnología para curar heridas sin usar medicamentos. El mercado global de cuidado de heridas supera los 26 mil millones de dólares.",
+      "body_es": "Yenssen Biotech introduce una tecnología nueva para la curación de heridas. Esta tecnología no usa medicamentos. El mercado global de cuidado de heridas es muy grande. Supera los 26 mil millones de dólares. Los pacientes con heridas crónicas necesitan tratamientos efectivos. Esta nueva solución es diferente. No requiere medicamentos adicionales. La tecnología ayuda a sanar más rápido. Los profesionales de salud buscan opciones mejores para los pacientes. Esta innovación es importante para el cuidado de heridas en todo el mundo.",
+      "body_en": "Yenssen Biotech introduces new technology for wound healing without medications. The global wound care market is very large. It exceeds 26 billion dollars. Patients with chronic wounds need effective treatments. This new solution is different. It does not require additional medications. The technology helps heal faster. Healthcare professionals seek better options for patients. This innovation is important for wound care worldwide.",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcTBsOUxwOTN4RjEtVWs2SXVYMGtxZ0IyZUxyX0lHSDk4bFpNaDAxSldGVXJXUFNhOE5UcDJySGVFcUVKOFh4Zkx0UnlMMUJZcGNyM2Z5SDJ4cGJWeWtBUHFFbndsbXRTNUpmMDJNYm5SSDU3cXhFY3o1V001ZzBPOFY0RTVxbkQ0V0I2Y2xvYzlNVGFpbUlBRnk4YXY5TjJtaHlLRGRxUTdMX0dKV3dlRmNRbmMtalM4akQ5TzdFQVI5RVNkSjZhMHhyUU13UVIxeFVaYXV6SEdMQmVXbk5iSENDWjM2YWhZLXJVeTcw",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-02/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o tejido del cuerpo",
+          "definition_en": "wound - injury to skin or body tissue"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "medicamento",
+          "definition_es": "sustancia que trata una enfermedad",
+          "definition_en": "medication - substance that treats illness"
+        },
+        {
+          "word": "tecnología",
+          "definition_es": "método nuevo basado en ciencia",
+          "definition_en": "technology - new method based on science"
+        }
+      ],
+      "added_at": "2026-06-02T10:36:48.195103Z"
+    },
+    {
+      "id": "burn-care-20250602",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Profesionales Médicos de Asia se Reúnen para Avances en Curación de Heridas",
+      "headline_en": "Asian Medical Professionals Meet for Wound Healing Advances",
+      "summary_es": "CJ Bio organizó exitosamente la conferencia \"Wound Meet the Masters 2026\" con 113 profesionales médicos de seis países asiáticos para discutir avances en tratamiento de heridas y quemaduras.",
+      "body_es": "CJ Bio concluyó satisfactoriamente el evento \"Wound Meet the Masters 2026\", donde se reunieron 113 profesionales médicos especializados en curación de heridas de seis países asiáticos. Durante la conferencia, los especialistas discutieron los últimos avances en tratamientos para heridas crónicas y quemaduras. Se presentaron diferentes protocolos de atención y nuevas tecnologías que mejoran la cicatrización. Los profesionales compartieron experiencias clínicas y mejores prácticas en cuidado de heridas. Este tipo de encuentros facilita el intercambio de conocimiento entre regiones. La colaboración internacional es esencial para mejorar los resultados en pacientes con lesiones complejas. El evento refuerza la importancia de mantener estándares de excelencia en el cuidado de heridas en toda Asia.",
+      "body_en": "CJ Bio successfully concluded the \"Wound Meet the Masters 2026\" event, where 113 medical professionals specializing in wound healing from six Asian countries gathered. During the conference, specialists discussed the latest advances in treatments for chronic wounds and burns. Different care protocols and new technologies that improve scarring were presented. Professionals shared clinical experiences and best practices in wound care. These types of meetings facilitate knowledge exchange between regions. International collaboration is essential to improve outcomes in patients with complex injuries. The event reinforces the importance of maintaining excellence standards in wound care throughout Asia.",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lRWlVbXpNbmcwY0JhSncySDFBcTUzajd0dUQ1TktyWmtlYTdEREo2WlFFLXg3MDItX2hEamRQN25hVG1EekdHUF9lekNkVGR0a0hrRXVhVjBwdHk3MlAxbHpWTDR0SHBnRWIzWHNKNmFQdWY0",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-02/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por fuego, calor o sustancias químicas",
+          "definition_en": "burn - injury caused by fire, heat or chemicals"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formar tejido nuevo después de una herida",
+          "definition_en": "scarring - process of forming new tissue after a wound"
+        },
+        {
+          "word": "profesionales médicos",
+          "definition_es": "personal sanitario especializado",
+          "definition_en": "medical professionals - specialized healthcare personnel"
+        },
+        {
+          "word": "protocolo",
+          "definition_es": "procedimiento o método establecido de tratamiento",
+          "definition_en": "protocol - established procedure or treatment method"
+        }
+      ],
+      "added_at": "2026-06-02T10:36:48.195103Z"
+    },
+    {
+      "id": "surgical-wounds-20250602",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Piel Biónica de Nanofibras Acelera la Cicatrización de Heridas Infectadas",
+      "headline_en": "Nanofiber Bionic Skin Accelerates Infected Wound Healing",
+      "summary_es": "Un estudio preclínico demuestra que una piel biónica hecha de nanofibras acelera significativamente la cicatrización de heridas infectadas en comparación con tratamientos convencionales.",
+      "body_es": "Un estudio preclínico reciente reveló que una piel biónica fabricada con nanofibras acelera la cicatrización de heridas infectadas de manera más efectiva que los tratamientos convencionales. Los apósitos basados en nanofibras proporcionan un ambiente óptimo para la cicatrización. Esta tecnología permite una mejor oxigenación del tejido dañado y facilita la eliminación de bacterias. El material tiene propiedades antibacterianas naturales que ayudan a controlar infecciones. Los investigadores observaron que las heridas tratadas con este biomaterial mostraban epitelización más rápida. La cicatriz resultante presentaba mejor calidad de tejido. Esta innovación podría revolucionar el manejo de heridas quirúrgicas contaminadas. Los resultados sugieren que las nanofibras serán herramientas valiosas en medicina regenerativa. Se espera que pronto se realicen ensayos clínicos en pacientes.",
+      "body_en": "A recent preclinical study revealed that bionic skin made with nanofibers accelerates infected wound healing more effectively than conventional treatments. Nanofiber-based dressings provide an optimal environment for healing. This technology allows better oxygenation of damaged tissue and facilitates bacterial elimination. The material has natural antibacterial properties that help control infections. Researchers observed that wounds treated with this biomaterial showed faster epithelialization. The resulting scar presented better tissue quality. This innovation could revolutionize the management of contaminated surgical wounds. The results suggest that nanofibers will be valuable tools in regenerative medicine. Clinical trials in patients are expected to begin soon.",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTFNuanRhNmdYOXgxcjdJc2E0bFJCMjlQTUttcFdzMUlsWFF3TmI3RXNkX1hxVWk2LTRYUmlQeHdVS2doM3Rab0tXVk1aOWM5aUhDN1cxa3lJdw",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-02/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión causada durante una intervención quirúrgica",
+          "definition_en": "surgical wound - injury caused during surgery"
+        },
+        {
+          "word": "nanofibra",
+          "definition_es": "fibra microscópica utilizada en materiales médicos",
+          "definition_en": "nanofiber - microscopic fiber used in medical materials"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de piel nueva sobre una herida",
+          "definition_en": "epithelialization - formation of new skin over a wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de bacterias que causa enfermedad",
+          "definition_en": "infection - bacterial invasion that causes illness"
+        }
+      ],
+      "added_at": "2026-06-02T10:36:48.195103Z"
+    },
     {
       "id": "chronic-wounds-20260601",
       "category": "Chronic Wounds",
@@ -24014,6 +24125,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-01T10:48:16.593915Z",
+  "last_updated": "2026-06-02T10:36:48.195103Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
