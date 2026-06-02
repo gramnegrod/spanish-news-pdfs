@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-02",
+      "filename": "spanish_lesson_2026-06-02.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-02.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump suspende fondo especial después de críticas del Congreso",
+          "headline_en": "Trump suspends special fund after criticism from Congress",
+          "body_es": "El expresidente Donald Trump ha decidido suspender un fondo especial que había creado. El Congreso estadounidense mostró una fuerte oposición a este fondo. Muchos políticos dijeron que Trump quería usar el dinero de manera incorrecta. El fondo tenía como objetivo investigar a sus enemigos políticos. Los demócratas y algunos republicanos criticaron duramente esta idea. Dijeron que era peligroso para la democracia. Trump defendió su propuesta inicialmente. Sin embargo, la presión política fue muy fuerte. Al final, decidió suspender el proyecto. Esta decisión marca un momento importante en la política estadounidense. Muestra que el Congreso puede detener proyectos controvertidos cuando actúa unido.",
+          "body_en": "Former President Donald Trump has decided to suspend a special fund he had created. The US Congress showed strong opposition to this fund. Many politicians said Trump wanted to use the money incorrectly. The fund aimed to investigate his political enemies. Democrats and some Republicans harshly criticized this idea. They said it was dangerous for democracy. Trump initially defended his proposal. However, the political pressure was very strong. In the end, he decided to suspend the project. This decision marks an important moment in American politics. It shows that Congress can stop controversial projects when it acts united.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Políticas migratorias de Trump causan pérdida de 668,000 empleos",
+          "headline_en": "Trump's immigration policies cause loss of 668,000 jobs",
+          "body_es": "Un nuevo estudio muestra datos preocupantes sobre la economía estadounidense. Las políticas de inmigración de Trump han causado la pérdida de 668,000 empleos. Estos trabajos desaparecieron en diferentes sectores económicos. La agricultura y la construcción fueron las más afectadas. También perdieron empleos los restaurantes y hoteles. Los investigadores estudiaron datos de varios años. Encontraron que las restricciones migratorias tuvieron efectos negativos. Muchas empresas no pudieron encontrar trabajadores suficientes. Como resultado, tuvieron que reducir sus operaciones. Los economistas dicen que la inmigración es importante para el crecimiento. Cuando hay menos inmigrantes, la economía sufre. Este estudio será importante para futuras políticas migratorias.",
+          "body_en": "A new study shows concerning data about the US economy. Trump's immigration policies have caused the loss of 668,000 jobs. These jobs disappeared in different economic sectors. Agriculture and construction were the most affected. Restaurants and hotels also lost jobs. Researchers studied data from several years. They found that immigration restrictions had negative effects. Many companies couldn't find enough workers. As a result, they had to reduce their operations. Economists say that immigration is important for growth. When there are fewer immigrants, the economy suffers. This study will be important for future immigration policies.",
+          "source": "inc.com"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Bernie Sanders propone impuesto del 50% a empresas de inteligencia artificial",
+          "headline_en": "Bernie Sanders proposes 50% tax on artificial intelligence companies",
+          "body_es": "El senador Bernie Sanders tiene una propuesta muy audaz para las empresas de tecnología. Quiere que el gobierno cobre un impuesto del 50% a las grandes empresas de inteligencia artificial. Su plan incluye a empresas como OpenAI y Anthropic. Estas compañías planean vender sus acciones al público pronto. Sanders cree que las ganancias deben compartirse con todos los ciudadanos. Dice que la inteligencia artificial fue desarrollada con dinero público de universidades. Por eso, el pueblo americano merece beneficiarse de estas tecnologías. Su propuesta es controvertida. Las empresas tecnológicas se oponen fuertemente. Dicen que el impuesto reduciría la innovación. Sin embargo, Sanders insiste en que es justo. Cree que ayudaría a reducir la desigualdad económica en Estados Unidos.",
+          "body_en": "Senator Bernie Sanders has a very bold proposal for technology companies. He wants the government to charge a 50% tax on large artificial intelligence companies. His plan includes companies like OpenAI and Anthropic. These companies plan to sell their stocks to the public soon. Sanders believes the profits should be shared with all citizens. He says artificial intelligence was developed with public money from universities. Therefore, the American people deserve to benefit from these technologies. His proposal is controversial. Technology companies strongly oppose it. They say the tax would reduce innovation. However, Sanders insists it is fair. He believes it would help reduce economic inequality in the United States.",
+          "source": "TradingView"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "oposición",
+          "syllables": "o-po-si-CIÓN",
+          "pos": "sustantivo",
+          "context": "El fondo fue suspendido después de una fuerte oposición del Congreso.",
+          "definition_es": "Resistencia o rechazo hacia algo o alguien",
+          "definition_en": "Opposition or resistance to something or someone"
+        },
+        {
+          "word": "suspender",
+          "syllables": "sus-pen-DER",
+          "pos": "verbo",
+          "context": "Trump decidió suspender el fondo especial.",
+          "definition_es": "Parar o detener algo temporalmente",
+          "definition_en": "To stop or halt something temporarily"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Las políticas han causado la pérdida de muchos empleos.",
+          "definition_es": "Trabajo que una persona realiza para ganar dinero",
+          "definition_en": "Job or work that a person does to earn money"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense ha perdido trabajos.",
+          "definition_es": "Sistema de producción y consumo de un país",
+          "definition_en": "Economic system of production and consumption of a country"
+        },
+        {
+          "word": "inmigración",
+          "syllables": "in-mi-gra-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las restricciones de inmigración han afectado los trabajos.",
+          "definition_es": "Llegada de personas a un país para vivir allí",
+          "definition_en": "Arrival of people to a country to live there"
+        },
+        {
+          "word": "impuesto",
+          "syllables": "im-PUES-to",
+          "pos": "sustantivo",
+          "context": "Sanders propone un impuesto del 50% a las empresas de inteligencia artificial.",
+          "definition_es": "Dinero que se paga al gobierno",
+          "definition_en": "Money paid to the government"
+        },
+        {
+          "word": "propuesta",
+          "syllables": "pro-PUES-ta",
+          "pos": "sustantivo",
+          "context": "La propuesta de Sanders es muy controversial.",
+          "definition_es": "Idea o plan que se presenta para consideración",
+          "definition_en": "Idea or plan presented for consideration"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Las grandes empresas de tecnología están creciendo rápidamente.",
+          "definition_es": "Organización que produce bienes o servicios",
+          "definition_en": "Organization that produces goods or services"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'oposición'?",
+          "options": [
+            "Apoyo total",
+            "Resistencia o rechazo",
+            "Acuerdo completo",
+            "Indiferencia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'suspender'?",
+          "options": [
+            "Acelerar algo",
+            "Parar temporalmente",
+            "Mejorar",
+            "Continuar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'impuesto'?",
+          "options": [
+            "Un regalo del gobierno",
+            "Dinero que se paga al gobierno",
+            "Un trabajo",
+            "Una empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'inmigración'?",
+          "options": [
+            "Salir de un país",
+            "Llegada de personas a un país para vivir",
+            "Viajar de vacaciones",
+            "Estudiar en el extranjero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué suspendió Trump el fondo especial?",
+          "options": [
+            "Por falta de dinero",
+            "Por oposición del Congreso",
+            "Por problemas técnicos",
+            "Por decisión personal"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos se perdieron según el estudio sobre inmigración?",
+          "options": [
+            "500,000",
+            "668,000",
+            "700,000",
+            "600,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores fueron más afectados por las políticas migratorias?",
+          "options": [
+            "Tecnología y finanzas",
+            "Agricultura y construcción",
+            "Medicina y educación",
+            "Arte y cultura"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje de impuesto propone Bernie Sanders?",
+          "options": [
+            "30%",
+            "40%",
+            "50%",
+            "60%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas menciona Sanders en su propuesta?",
+          "options": [
+            "Google y Facebook",
+            "Apple y Microsoft",
+            "OpenAI y Anthropic",
+            "Tesla y Amazon"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué Sanders cree que su propuesta es justa?",
+          "options": [
+            "Porque las empresas ganan mucho dinero",
+            "Porque la IA fue desarrollada con dinero público",
+            "Porque es popular entre los votantes",
+            "Porque otros países lo hacen"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-02T10:30:23.302283"
+    },
+    {
       "date": "2026-06-01",
       "filename": "spanish_lesson_2026-06-01.pdf",
       "path": "pdfs/spanish_lesson_2026-06-01.pdf",
@@ -39098,7 +39320,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-01T10:40:31.052190",
+  "last_updated": "2026-06-02T10:30:23.302318",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
