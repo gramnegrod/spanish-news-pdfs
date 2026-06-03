@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-03",
+      "filename": "spanish_lesson_2026-06-03.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-03.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El gobierno estadounidense suspende fondo especial tras decisión judicial",
+          "headline_en": "US government halts special fund after court decision",
+          "body_es": "El Departamento de Justicia de Estados Unidos decidió suspender un fondo especial. Este fondo se llamaba 'anti-weaponisation' y ayudaba a combatir el uso político de la justicia. Un tribunal tomó una decisión que obligó al gobierno a parar este programa. El fondo era controvertido porque algunos políticos pensaban que era necesario. Otros creían que no era apropiado. La decisión del tribunal cambia la política del Departamento de Justicia. Ahora el gobierno debe buscar otras formas de manejar estos problemas. Esta situación muestra las diferencias políticas en el país sobre cómo usar la justicia.",
+          "body_en": "The US Department of Justice decided to halt a special fund. This fund was called 'anti-weaponisation' and helped combat the political use of justice. A court made a decision that forced the government to stop this program. The fund was controversial because some politicians thought it was necessary. Others believed it was not appropriate. The court's decision changes the Justice Department's policy. Now the government must find other ways to handle these problems. This situation shows the political differences in the country about how to use justice.",
+          "source": "BBC"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Empleos disponibles en EE.UU. alcanzan el nivel más alto en casi dos años",
+          "headline_en": "Available jobs in US reach highest level in nearly two years",
+          "body_es": "Las oportunidades de empleo en Estados Unidos están creciendo mucho. Los datos muestran que hay más trabajos disponibles ahora que en los últimos dos años. Esta es una buena noticia para las personas que buscan empleo. Las empresas necesitan más trabajadores en diferentes sectores. La economía estadounidense se está recuperando después de tiempos difíciles. Los expertos dicen que esto significa que la economía está fuerte. Sin embargo, algunas personas todavía tienen dificultades para encontrar trabajo. El gobierno está contento con estos números positivos. Esta situación puede ayudar a reducir el desempleo en el país durante los próximos meses.",
+          "body_en": "Employment opportunities in the United States are growing a lot. Data shows there are more jobs available now than in the last two years. This is good news for people looking for work. Companies need more workers in different sectors. The US economy is recovering after difficult times. Experts say this means the economy is strong. However, some people still have difficulties finding work. The government is happy with these positive numbers. This situation can help reduce unemployment in the country during the coming months.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump firma orden para controlar modelos avanzados de inteligencia artificial",
+          "headline_en": "Trump signs order to control advanced artificial intelligence models",
+          "body_es": "El presidente Trump firmó una nueva orden sobre inteligencia artificial. Esta orden permite al gobierno revisar los modelos más poderosos de IA antes de que las empresas los usen. El objetivo es proteger la seguridad nacional del país. Las compañías tecnológicas deben mostrar sus nuevos sistemas al gobierno primero. Algunos expertos piensan que esto es bueno para controlar la tecnología peligrosa. Otros creen que puede hacer más lenta la innovación. La inteligencia artificial está creciendo muy rápido en todo el mundo. Estados Unidos quiere asegurarse de que esta tecnología sea segura. La orden afecta principalmente a las empresas más grandes de tecnología.",
+          "body_en": "President Trump signed a new order about artificial intelligence. This order allows the government to review the most powerful AI models before companies use them. The goal is to protect the country's national security. Technology companies must show their new systems to the government first. Some experts think this is good for controlling dangerous technology. Others believe it may slow down innovation. Artificial intelligence is growing very fast around the world. The United States wants to make sure this technology is safe. The order mainly affects the largest technology companies.",
+          "source": "The Washington Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "suspender",
+          "syllables": "sus-pen-DER",
+          "pos": "verbo",
+          "context": "El gobierno suspende el fondo después de la decisión del tribunal.",
+          "definition_es": "Detener o parar temporalmente algo",
+          "definition_en": "To halt or stop temporarily"
+        },
+        {
+          "word": "tribunal",
+          "syllables": "tri-bu-NAL",
+          "pos": "sustantivo",
+          "context": "El tribunal tomó una decisión importante sobre el fondo gubernamental.",
+          "definition_es": "Lugar donde los jueces toman decisiones legales",
+          "definition_en": "Court where judges make legal decisions"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Las oportunidades de empleo están aumentando en Estados Unidos.",
+          "definition_es": "Trabajo o puesto de trabajo",
+          "definition_en": "Job or employment"
+        },
+        {
+          "word": "nivel",
+          "syllables": "ni-VEL",
+          "pos": "sustantivo",
+          "context": "El nivel de empleos disponibles es muy alto este año.",
+          "definition_es": "Grado o cantidad de algo",
+          "definition_en": "Level or degree of something"
+        },
+        {
+          "word": "firmar",
+          "syllables": "fir-MAR",
+          "pos": "verbo",
+          "context": "El presidente firma una nueva orden sobre inteligencia artificial.",
+          "definition_es": "Escribir el nombre en un documento para hacer oficial",
+          "definition_en": "To sign a document to make it official"
+        },
+        {
+          "word": "poderoso",
+          "syllables": "po-de-RO-so",
+          "pos": "adjetivo",
+          "context": "Los modelos poderosos de inteligencia artificial necesitan control gubernamental.",
+          "definition_es": "Que tiene mucha fuerza o capacidad",
+          "definition_en": "Having great power or capability"
+        },
+        {
+          "word": "modelo",
+          "syllables": "mo-DE-lo",
+          "pos": "sustantivo",
+          "context": "Las empresas deben mostrar sus modelos de IA al gobierno.",
+          "definition_es": "Ejemplo o sistema que se usa como referencia",
+          "definition_en": "Example or system used as reference"
+        },
+        {
+          "word": "orden",
+          "syllables": "OR-den",
+          "pos": "sustantivo",
+          "context": "La nueva orden permite al gobierno revisar la tecnología antes.",
+          "definition_es": "Instrucción oficial que debe seguirse",
+          "definition_en": "Official instruction that must be followed"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'suspender' en el contexto de la noticia política?",
+          "options": [
+            "Continuar",
+            "Detener temporalmente",
+            "Acelerar",
+            "Mejorar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'tribunal'?",
+          "options": [
+            "Un banco",
+            "Un lugar donde trabajan los jueces",
+            "Una empresa",
+            "Un hospital"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'poderoso' cuando hablamos de modelos de IA?",
+          "options": [
+            "Débil",
+            "Pequeño",
+            "Con mucha capacidad",
+            "Barato"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'firmar' una orden presidencial?",
+          "options": [
+            "Leerla",
+            "Escribir el nombre para hacerla oficial",
+            "Rechazarla",
+            "Estudiarla"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la noticia política, ¿por qué se suspendió el fondo?",
+          "options": [
+            "Por falta de dinero",
+            "Por una decisión del tribunal",
+            "Por problemas técnicos",
+            "Por cambio de gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto tiempo hace que los empleos no estaban en un nivel tan alto?",
+          "options": [
+            "Un año",
+            "Casi dos años",
+            "Tres años",
+            "Seis meses"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué deben hacer las empresas tecnológicas con sus modelos de IA según la nueva orden?",
+          "options": [
+            "Venderlos rápido",
+            "Mostrarlos al gobierno primero",
+            "Destruirlos",
+            "Regalarlos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cómo ven los expertos el aumento de empleos disponibles?",
+          "options": [
+            "Como algo negativo",
+            "Como señal de economía fuerte",
+            "Como un problema",
+            "Como algo temporal"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el objetivo principal de la orden sobre inteligencia artificial?",
+          "options": [
+            "Ganar dinero",
+            "Proteger la seguridad nacional",
+            "Ayudar a las empresas",
+            "Crear más empleos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué opinan algunos expertos sobre la orden de IA?",
+          "options": [
+            "Que siempre es buena",
+            "Que puede hacer más lenta la innovación",
+            "Que es perfecta",
+            "Que no sirve para nada"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-03T10:32:37.447842"
+    },
+    {
       "date": "2026-06-02",
       "filename": "spanish_lesson_2026-06-02.pdf",
       "path": "pdfs/spanish_lesson_2026-06-02.pdf",
@@ -39320,7 +39542,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-02T10:30:23.302318",
+  "last_updated": "2026-06-03T10:32:37.447868",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
