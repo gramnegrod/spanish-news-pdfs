@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-04",
+      "filename": "spanish_lesson_2026-06-04.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-04.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso de EE.UU. prepara nueva ley sobre viviendas",
+          "headline_en": "US Congress prepares new housing law",
+          "body_es": "El Congreso de Estados Unidos está trabajando en una nueva ley muy importante sobre viviendas. Esta ley tiene apoyo bipartidista, es decir, tanto demócratas como republicanos la apoyan. Los representantes de Virginia están especialmente interesados en esta propuesta. La ley quiere solucionar los problemas de vivienda que afectan a millones de estadounidenses. Muchas familias no pueden comprar casas porque son muy caras. También es difícil encontrar apartamentos para alquilar. Los políticos esperan que esta nueva ley ayude a construir más viviendas baratas. Si el Congreso aprueba la ley, será más fácil para las familias encontrar un lugar donde vivir. Este es un tema muy importante para todos los estadounidenses.",
+          "body_en": "The United States Congress is working on a very important new law about housing. This law has bipartisan support, meaning both Democrats and Republicans support it. Virginia representatives are especially interested in this proposal. The law wants to solve housing problems that affect millions of Americans. Many families cannot buy houses because they are very expensive. It is also difficult to find apartments to rent. Politicians hope this new law will help build more affordable housing. If Congress approves the law, it will be easier for families to find a place to live. This is a very important topic for all Americans.",
+          "source": "Virginia Mercury"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los precios del petróleo suben y las acciones dejan de batir récords",
+          "headline_en": "Oil prices rise and stocks stop breaking records",
+          "body_es": "Los precios del petróleo están subiendo otra vez y se acercan a los 100 dólares por barril. Esta subida está afectando a los mercados financieros de Estados Unidos. Las acciones estadounidenses habían estado subiendo durante muchas semanas y batían récords constantemente. Sin embargo, esta semana las acciones dejaron de subir. Los expertos dicen que el precio alto del petróleo puede causar problemas para la economía. Cuando el petróleo es caro, la gasolina también cuesta más dinero. Esto significa que las personas gastan más dinero en combustible y menos en otras cosas. Las empresas también tienen que pagar más por transportar sus productos. Los inversores están preocupados por estos cambios y están vendiendo algunas de sus acciones.",
+          "body_en": "Oil prices are rising again and approaching 100 dollars per barrel. This rise is affecting the United States financial markets. American stocks had been rising for many weeks and constantly breaking records. However, this week stocks stopped rising. Experts say that high oil prices can cause problems for the economy. When oil is expensive, gasoline also costs more money. This means that people spend more money on fuel and less on other things. Companies also have to pay more to transport their products. Investors are worried about these changes and are selling some of their stocks.",
+          "source": "LancasterOnline"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas de inteligencia artificial se preparan para entrar en la bolsa",
+          "headline_en": "Artificial intelligence companies prepare to enter the stock market",
+          "body_es": "Muchas empresas de inteligencia artificial están preparándose para vender sus acciones en la bolsa de Wall Street. Estas empresas han crecido muy rápido en los últimos años. La inteligencia artificial es una tecnología que permite a las computadoras hacer tareas que normalmente hacen los humanos. Estas empresas crean programas que pueden escribir texto, hacer dibujos y resolver problemas complicados. Los inversores están muy interesados en comprar acciones de estas empresas porque creen que van a ganar mucho dinero en el futuro. Algunas de las empresas más importantes del sector ya están planeando vender sus acciones al público. Si esto sucede, las personas normales podrán comprar partes de estas empresas tecnológicas. Los expertos dicen que este será uno de los eventos más importantes del año en Wall Street.",
+          "body_en": "Many artificial intelligence companies are preparing to sell their shares on the Wall Street stock exchange. These companies have grown very fast in recent years. Artificial intelligence is a technology that allows computers to do tasks that humans normally do. These companies create programs that can write text, make drawings and solve complicated problems. Investors are very interested in buying shares of these companies because they believe they will make a lot of money in the future. Some of the most important companies in the sector are already planning to sell their shares to the public. If this happens, normal people will be able to buy parts of these technology companies. Experts say this will be one of the most important events of the year on Wall Street.",
+          "source": "ABC News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso está preparando una nueva ley sobre viviendas.",
+          "definition_es": "Institución política donde se hacen las leyes de un país",
+          "definition_en": "Political institution where a country's laws are made"
+        },
+        {
+          "word": "bipartidista",
+          "syllables": "bi-par-ti-DIS-ta",
+          "pos": "adjetivo",
+          "context": "La propuesta de ley tiene apoyo bipartidista en el Congreso.",
+          "definition_es": "Que cuenta con el apoyo de dos partidos políticos diferentes",
+          "definition_en": "Having support from two different political parties"
+        },
+        {
+          "word": "vivienda",
+          "syllables": "vi-VIEN-da",
+          "pos": "sustantivo",
+          "context": "La nueva ley ayudará a resolver problemas de vivienda.",
+          "definition_es": "Casa o lugar donde vive una persona",
+          "definition_en": "House or place where a person lives"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo están subiendo rápidamente.",
+          "definition_es": "Líquido negro que se usa para hacer combustible",
+          "definition_en": "Black liquid used to make fuel"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones en la bolsa dejaron de subir esta semana.",
+          "definition_es": "Partes de una empresa que se pueden comprar y vender",
+          "definition_en": "Parts of a company that can be bought and sold"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Las empresas de inteligencia artificial están creciendo mucho.",
+          "definition_es": "Tecnología que permite a las máquinas pensar como humanos",
+          "definition_en": "Technology that allows machines to think like humans"
+        },
+        {
+          "word": "bolsa",
+          "syllables": "BOL-sa",
+          "pos": "sustantivo",
+          "context": "Muchas empresas tecnológicas quieren entrar en la bolsa.",
+          "definition_es": "Lugar donde se compran y venden acciones de empresas",
+          "definition_en": "Place where company shares are bought and sold"
+        },
+        {
+          "word": "récord",
+          "syllables": "RÉ-cord",
+          "pos": "sustantivo",
+          "context": "Las acciones estadounidenses batían récords hasta esta semana.",
+          "definition_es": "La marca más alta o mejor conseguida en algo",
+          "definition_en": "The highest or best mark achieved in something"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'bipartidista'?",
+          "options": [
+            "Que tiene dos partes",
+            "Que apoyan dos partidos políticos",
+            "Que dura dos años",
+            "Que cuesta dos dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en el contexto económico?",
+          "options": [
+            "Actividades físicas",
+            "Partes de una empresa",
+            "Movimientos rápidos",
+            "Decisiones importantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inteligencia artificial'?",
+          "options": [
+            "Personas muy inteligentes",
+            "Tecnología que imita el pensamiento humano",
+            "Robots físicos",
+            "Computadoras muy rápidas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Dónde se compran y venden las acciones?",
+          "options": [
+            "En el congreso",
+            "En la bolsa",
+            "En el petróleo",
+            "En la vivienda"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué tipo de apoyo tiene la nueva ley de viviendas?",
+          "options": [
+            "Solo de demócratas",
+            "Solo de republicanos",
+            "Bipartidista",
+            "De ningún partido"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Hacia qué precio se acerca el petróleo?",
+          "options": [
+            "50 dólares",
+            "75 dólares",
+            "100 dólares",
+            "125 dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con las acciones estadounidenses esta semana?",
+          "options": [
+            "Siguieron subiendo",
+            "Dejaron de subir",
+            "Bajaron mucho",
+            "Se mantuvieron igual"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Dónde quieren vender sus acciones las empresas de inteligencia artificial?",
+          "options": [
+            "En Virginia",
+            "En el Congreso",
+            "En Wall Street",
+            "En el extranjero"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué las familias tienen problemas para comprar casas?",
+          "options": [
+            "Porque no hay casas",
+            "Porque son muy caras",
+            "Porque no quieren",
+            "Porque viven lejos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué están preocupados los inversores según el texto sobre petróleo?",
+          "options": [
+            "Porque las acciones suben mucho",
+            "Porque el petróleo es muy barato",
+            "Porque el precio alto del petróleo puede afectar la economía",
+            "Porque no hay suficiente petróleo"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-04T10:16:44.873060"
+    },
+    {
       "date": "2026-06-03",
       "filename": "spanish_lesson_2026-06-03.pdf",
       "path": "pdfs/spanish_lesson_2026-06-03.pdf",
@@ -39542,7 +39764,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-03T10:32:37.447868",
+  "last_updated": "2026-06-04T10:16:44.873101",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
