@@ -1,11 +1,159 @@
 {
-  "date": "2026-06-03",
-  "generated_at": "2026-06-03T10:38:20.082926Z",
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T10:21:41.440768Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 656,
+  "total_stories": 660,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250604",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Los sistemas de irrigación de heridas crecen en todo el mundo",
+      "headline_en": "Wound Irrigation Systems Growing Worldwide",
+      "summary_es": "El mercado de sistemas de irrigación de heridas alcanzará 430 millones de dólares en 2035. Este crecimiento ocurre porque hay más casos de heridas crónicas en el mundo.",
+      "body_es": "Los sistemas de irrigación de heridas son muy importantes para los pacientes. Estos sistemas limpian las heridas con agua o soluciones especiales. Las heridas crónicas son comunes en personas con diabetes y problemas de circulación. El mercado de estos sistemas crece rápidamente. En 2035, el mercado alcanzará 430 millones de dólares. Este crecimiento es necesario porque hay más pacientes con heridas crónicas. Los hospitales y clínicas usan estos sistemas en cirugías y tratamientos diarios. Los expertos dicen que esta tecnología es importante para mejorar la curación de heridas.",
+      "body_en": "Wound irrigation systems are very important for patients. These systems clean wounds with water or special solutions. Chronic wounds are common in people with diabetes and circulation problems. The market for these systems is growing rapidly. By 2035, the market will reach 430 million dollars. This growth is necessary because there are more patients with chronic wounds. Hospitals and clinics use these systems in surgeries and daily treatments. Experts say this technology is important for improving wound healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVItTlpUT2U5RGlvMTdPTHlZeGhvV0wzeWZGdmJZWGMtUTdXa2pSMUk2RGVKa1JBY3F6T0I0RVYyemdaczlZSW1fTGh2cXppTEo3UVhDdzNQSGZXNkJzRG5VQU5lUHBNVndMUHNkVlcxLUgxdnFpMmZ1dmN1WHIyRlczY1ZpSXROQ0R6ZWg3RHJqMGExeC1IeWw0VTVudUtCYUxqSW1DSmtiSzg5ZzBZ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-04/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "irrigación",
+          "definition_es": "proceso de limpiar con líquido",
+          "definition_en": "irrigation - process of cleaning with liquid"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "sistema",
+          "definition_es": "conjunto de partes que funcionan juntas",
+          "definition_en": "system - set of parts that work together"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        }
+      ],
+      "added_at": "2026-06-04T10:21:41.440768Z"
+    },
+    {
+      "id": "burn-care-20250604",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Cirujano desarrolla tratamiento de piel en spray que evita cicatrices",
+      "headline_en": "Surgeon Develops Spray-On Skin Treatment That Prevents Scars",
+      "summary_es": "Un cirujano plástico ha desarrollado un tratamiento innovador en forma de spray para quemaduras que previene la formación de cicatrices. Este avance representa un cambio significativo en el cuidado de pacientes quemados.",
+      "body_es": "Un cirujano plástico ha creado un tratamiento revolucionario para las quemaduras que se aplica como spray. Este método permite tratar las lesiones de forma rápida y efectiva sin dejar cicatrices visibles. El tratamiento contiene células de piel que se adhieren a la zona quemada y promueven la regeneración tisular. Los resultados iniciales muestran que los pacientes experimentan una cicatrización más rápida y una mejor apariencia de la piel después del tratamiento. Este desarrollo es significativo porque muchos pacientes con quemaduras sufren consecuencias psicológicas por las cicatrices. El spray puede ser aplicado directamente en la clínica o el hospital, lo que reduce el tiempo de recuperación. Los profesionales de la salud consideran este avance como un hito importante en el cuidado de quemaduras.",
+      "body_en": "A plastic surgeon has created a revolutionary spray treatment for burns. This method allows injuries to be treated quickly and effectively without leaving visible scars. The treatment contains skin cells that adhere to the burned area and promote tissue regeneration. Initial results show that patients experience faster scarring and better skin appearance after treatment. This development is significant because many burn patients suffer psychological consequences from scars. The spray can be applied directly in the clinic or hospital, which reduces recovery time. Healthcare professionals consider this advance an important milestone in burn care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ0FocjBLNk9TYWQza1cxWldCTFR3YXo1QTdIeUVCb2N6TGgwRnFYTk1JNVNaamtxUXZpbUhWMzBweTQxLUZ4T21tRnREVjkyaWRPVUlIc1N0UGFKbVRmOWxPVDdwU2lic1lGYVJkbXlWekt5UEh5a2g0T2l6NHB3SEhuS0hfdTZ4RWg3bHVpZDVCWWZCMjRacFZUZTJpSERaVDF5czBobDFlUlRycXZsbmtTTHlfbk4wTHpz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-04/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por fuego o calor",
+          "definition_en": "burn - injury caused by fire or heat"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        },
+        {
+          "word": "spray",
+          "definition_es": "aplicación mediante nebulización",
+          "definition_en": "spray - application through nebulization"
+        },
+        {
+          "word": "regeneración tisular",
+          "definition_es": "crecimiento de nuevo tejido sano",
+          "definition_en": "tissue regeneration - growth of new healthy tissue"
+        }
+      ],
+      "added_at": "2026-06-04T10:21:41.440768Z"
+    },
+    {
+      "id": "surgical-wounds-20250604",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Nueva medicación previene infecciones en heridas quirúrgicas",
+      "headline_en": "New Medication Prevents Infections in Surgical Wounds",
+      "summary_es": "PolyPid ha completado la presentación a la FDA de D-PLEX100 para prevenir infecciones en sitios quirúrgicos. Este medicamento representa un avance importante en la prevención de complicaciones postoperatorias.",
+      "body_es": "PolyPid ha finalizado la presentación de su solicitud de Nuevo Medicamento (NDA) ante la FDA para D-PLEX100, un tratamiento diseñado para prevenir infecciones en heridas quirúrgicas. Este medicamento utiliza una tecnología innovadora que libera medicación de forma gradual en el sitio de la incisión. Las infecciones del sitio quirúrgico son una complicación importante que prolonga la hospitalización y aumenta los costos de atención. El D-PLEX100 fue desarrollado para reducir estas complicaciones mediante la entrega prolongada de antibióticos directamente en la herida. Los estudios clínicos han demostrado su eficacia en disminuir la tasa de infecciones postoperatorias. Este avance es especialmente importante para pacientes con mayor riesgo de infección, como aquellos con diabetes o sistemas inmunológicos comprometidos. La aprobación del medicamento podría mejorar significativamente los resultados quirúrgicos.",
+      "body_en": "PolyPid has completed the submission of its New Drug Application (NDA) to the FDA for D-PLEX100, a treatment designed to prevent infections in surgical wounds. This medication uses innovative technology that slowly releases medication at the incision site. Surgical site infections are an important complication that prolongs hospitalization and increases care costs. D-PLEX100 was developed to reduce these complications through prolonged delivery of antibiotics directly to the wound. Clinical studies have demonstrated its effectiveness in reducing rates of postoperative infections. This advance is especially important for patients at higher risk of infection, such as those with diabetes or compromised immune systems. Drug approval could significantly improve surgical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMGV3Ti0xTmdhbDNaZjhyLUZrWGd6RnhuRktUYlQ0SUlmMVl1YWdvNDEyY0RXNXZnc2dzZk1LUmtEMnlabDE5S0ZOM1Q0OE5XVF9VUFBvb2Y3SUlBeWwwVHZNVm9WWUZIQ2RPUVNUUkpZZkJqdkNhQ0VkYUc0em96ZFM4Q05kczc2b1hnbGZ0QW92MXFvSGFOZjd0V1BOZW1KMGxZal83bzdBbEhyOVYtdEhOS1VROEdfa2QxY1ZxdF8?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-04/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección del sitio quirúrgico",
+          "definition_es": "contaminación bacteriana en la herida operatoria",
+          "definition_en": "surgical site infection - bacterial contamination at surgical wound"
+        },
+        {
+          "word": "medicación prolongada",
+          "definition_es": "liberación lenta de fármaco durante tiempo prolongado",
+          "definition_en": "prolonged medication - slow drug release over extended time"
+        },
+        {
+          "word": "antibiótico",
+          "definition_es": "sustancia que mata bacterias",
+          "definition_en": "antibiotic - substance that kills bacteria"
+        },
+        {
+          "word": "complicación postoperatoria",
+          "definition_es": "problema que ocurre después de una cirugía",
+          "definition_en": "postoperative complication - problem occurring after surgery"
+        }
+      ],
+      "added_at": "2026-06-04T10:21:41.440768Z"
+    },
+    {
+      "id": "wound-research-20250604",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Centro de investigación San Francisco VA avanza en cicatrización de heridas",
+      "headline_en": "San Francisco VA Research Center Advances in Wound Healing",
+      "summary_es": "El Sistema de Salud VA de San Francisco se destaca como centro de excelencia en investigación y tratamiento de heridas crónicas. El centro combina atención clínica con investigación innovadora para mejorar resultados en veteranos.",
+      "body_es": "El Sistema de Salud VA de San Francisco ha establecido un programa integral dedicado a la curación y esperanza para pacientes con heridas complejas. Este centro de investigación investiga nuevos métodos para tratar heridas crónicas, úlceras de presión y otras lesiones difíciles de cicatrizar. Los investigadores utilizan enfoques multidisciplinarios que combinan medicina, enfermería y tecnología avanzada. El programa es especialmente importante para los veteranos que sufren heridas relacionadas con el servicio militar. Los estudios realizados en San Francisco contribuyen a la medicina de heridas a nivel nacional. El centro colabora con universidades y otras instituciones para desarrollar protocolos de tratamiento mejorados. Los resultados de la investigación benefician no solo a los veteranos sino también a la población general. Este modelo de atención integrada demuestra cómo la investigación clínica puede mejorar significativamente los resultados de los pacientes.",
+      "body_en": "The San Francisco VA Health Care System has established a comprehensive program dedicated to healing and hope for patients with complex wounds. This research center investigates new methods for treating chronic wounds, pressure ulcers, and other difficult-to-heal injuries. Researchers use multidisciplinary approaches that combine medicine, nursing, and advanced technology. The program is especially important for veterans suffering from service-related wounds. Studies conducted in San Francisco contribute to wound medicine at the national level. The center collaborates with universities and other institutions to develop improved treatment protocols. Research results benefit not only veterans but also the general population. This model of integrated care demonstrates how clinical research can significantly improve patient outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaDZoS19sRi1lQ2JGcktJSXdpdkxhWXdIeUxrckFNS2FIeWIxd3RDUXc2cUpVcGc0RmJBMk1UQUFvWjVmalZaYWJ0aVhOVWFuTXlGY2J5VWRiUFlhdXdpZ1ZzdHFhR2RGeDFwbHQwQ1kzOGdYcFhQTXBMUGFxSURrZUFsdjY4U0RQckkyUkk2OHJfYkVxV08zOG5fRFhfWFBQQWNEaHVONGk5LVJqSHVHUEVkc2FBS0piN0FEdTZjWVdvblc5dmdB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-04/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que persiste por largo tiempo sin cicatrizar",
+          "definition_en": "chronic wound - persistent injury that does not heal quickly"
+        },
+        {
+          "word": "úlcera de presión",
+          "definition_es": "lesión causada por presión prolongada en la piel",
+          "definition_en": "pressure ulcer - injury caused by prolonged pressure on skin"
+        },
+        {
+          "word": "investigación clínica",
+          "definition_es": "estudio científico realizado con pacientes reales",
+          "definition_en": "clinical research - scientific study conducted with real patients"
+        },
+        {
+          "word": "protocolo de tratamiento",
+          "definition_es": "conjunto de pasos establecidos para tratar una enfermedad",
+          "definition_en": "treatment protocol - established set of steps to treat a condition"
+        }
+      ],
+      "added_at": "2026-06-04T10:21:41.440768Z"
+    },
     {
       "id": "chronic-wounds-20250603",
       "category": "Chronic Wounds",
@@ -24273,6 +24421,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-03T10:38:20.082926Z",
+  "last_updated": "2026-06-04T10:21:41.440768Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
