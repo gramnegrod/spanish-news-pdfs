@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-05",
+      "filename": "spanish_lesson_2026-06-05.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-05.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos aprueba más ayuda para Ucrania y nuevas sanciones a Rusia",
+          "headline_en": "United States approves more aid for Ukraine and new sanctions on Russia",
+          "body_es": "La Cámara de Representantes de Estados Unidos aprobó una nueva ley esta semana. La ley dará más ayuda económica y militar a Ucrania. También creará nuevas sanciones económicas contra Rusia. Los políticos dicen que es importante ayudar a Ucrania en su guerra contra Rusia. Las sanciones van a hacer más difícil para Rusia comprar productos importantes. Muchos republicanos y demócratas votaron a favor de esta ley. El presidente debe firmar la ley para que sea oficial. La ayuda incluye dinero para armas y equipos médicos. Esta es la quinta vez que Estados Unidos aprueba ayuda para Ucrania desde que comenzó la guerra.",
+          "body_en": "The US House of Representatives approved a new law this week. The law will give more economic and military aid to Ukraine. It will also create new economic sanctions against Russia. Politicians say it's important to help Ukraine in its war against Russia. The sanctions will make it harder for Russia to buy important products. Many Republicans and Democrats voted in favor of this law. The president must sign the law for it to be official. The aid includes money for weapons and medical equipment. This is the fifth time the United States has approved aid for Ukraine since the war began.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los viajes de negocios generan 623 mil millones de dólares en Estados Unidos",
+          "headline_en": "Business travel generates 623 billion dollars in the United States",
+          "body_es": "Un nuevo estudio muestra que los viajes de negocios son muy importantes para la economía de Estados Unidos. Las empresas gastaron 538 mil millones de dólares en viajes de trabajo este año. Este gasto creó un impacto económico total de 623 mil millones de dólares. Los viajes de negocios incluyen hoteles, restaurantes, transporte y otros servicios. Muchas ciudades dependen del dinero que gastan los viajeros de negocios. El estudio dice que estos viajes crean millones de empleos en todo el país. Los hoteles y aeropuertos reciben mucho dinero de los viajeros de trabajo. Después de la pandemia, los viajes de negocios están regresando a niveles normales. Este sector ayuda mucho a la economía local de las ciudades.",
+          "body_en": "A new study shows that business travel is very important for the US economy. Companies spent 538 billion dollars on business travel this year. This spending created a total economic impact of 623 billion dollars. Business travel includes hotels, restaurants, transportation and other services. Many cities depend on the money that business travelers spend. The study says these trips create millions of jobs across the country. Hotels and airports receive a lot of money from business travelers. After the pandemic, business travel is returning to normal levels. This sector greatly helps the local economy of cities.",
+          "source": "Hospitality Net"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La industria tecnológica pierde 123,000 empleos por la inteligencia artificial",
+          "headline_en": "The tech industry loses 123,000 jobs due to artificial intelligence",
+          "body_es": "La industria de la tecnología perdió 123,000 empleos este año en Estados Unidos. La razón principal de estos despidos es la inteligencia artificial (IA). Las empresas están usando IA para hacer el trabajo que antes hacían las personas. Muchas compañías grandes como Google, Microsoft y Amazon eliminaron miles de puestos de trabajo. Los trabajadores de programación y marketing son los más afectados. Las empresas dicen que la IA puede hacer el trabajo más rápido y barato. Sin embargo, esto significa que muchas personas perdieron sus empleos. Los expertos dicen que la industria está cambiando muy rápido. Algunas empresas están creando nuevos tipos de trabajo relacionados con IA. Pero el número total de empleos está bajando en el sector tecnológico.",
+          "body_en": "The technology industry lost 123,000 jobs this year in the United States. The main reason for these layoffs is artificial intelligence (AI). Companies are using AI to do work that people used to do. Many big companies like Google, Microsoft and Amazon eliminated thousands of jobs. Programming and marketing workers are the most affected. Companies say AI can do work faster and cheaper. However, this means many people lost their jobs. Experts say the industry is changing very quickly. Some companies are creating new types of jobs related to AI. But the total number of jobs is decreasing in the tech sector.",
+          "source": "Forbes"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "ayuda",
+          "syllables": "a-YU-da",
+          "pos": "sustantivo",
+          "context": "La Cámara aprueba una ley para dar más ayuda a Ucrania.",
+          "definition_es": "Apoyo o asistencia que se da a alguien",
+          "definition_en": "Help or assistance given to someone"
+        },
+        {
+          "word": "sanciones",
+          "syllables": "san-CIO-nes",
+          "pos": "sustantivo",
+          "context": "El gobierno impone nuevas sanciones económicas a Rusia.",
+          "definition_es": "Castigos económicos o políticos a un país",
+          "definition_en": "Economic or political punishments to a country"
+        },
+        {
+          "word": "impacto",
+          "syllables": "im-PAC-to",
+          "pos": "sustantivo",
+          "context": "Los viajes de negocios tienen un gran impacto económico.",
+          "definition_es": "Efecto fuerte que produce algo",
+          "definition_en": "Strong effect that something produces"
+        },
+        {
+          "word": "gasto",
+          "syllables": "GAS-to",
+          "pos": "sustantivo",
+          "context": "El gasto en viajes de trabajo aumentó mucho este año.",
+          "definition_es": "Dinero que se usa para comprar algo",
+          "definition_en": "Money that is spent to buy something"
+        },
+        {
+          "word": "empleos",
+          "syllables": "em-PLE-os",
+          "pos": "sustantivo",
+          "context": "La industria tecnológica perdió 123,000 empleos este año.",
+          "definition_es": "Trabajos o puestos de trabajo",
+          "definition_en": "Jobs or work positions"
+        },
+        {
+          "word": "despidos",
+          "syllables": "des-PI-dos",
+          "pos": "sustantivo",
+          "context": "Los despidos en tecnología aumentaron por la inteligencia artificial.",
+          "definition_es": "Cuando una empresa termina el trabajo de sus empleados",
+          "definition_en": "When a company ends the employment of its workers"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El Congreso va a aprobar la nueva ley esta semana.",
+          "definition_es": "Aceptar oficialmente una ley o decisión",
+          "definition_en": "To officially accept a law or decision"
+        },
+        {
+          "word": "industria",
+          "syllables": "in-DUS-tria",
+          "pos": "sustantivo",
+          "context": "La industria de la tecnología cambia muy rápido.",
+          "definition_es": "Sector económico que produce bienes o servicios",
+          "definition_en": "Economic sector that produces goods or services"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'sanciones'?",
+          "options": [
+            "Premios económicos",
+            "Castigos económicos",
+            "Inversiones",
+            "Préstamos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'impacto'?",
+          "options": [
+            "Dinero gastado",
+            "Efecto fuerte",
+            "Trabajo perdido",
+            "Ley aprobada"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'despidos'?",
+          "options": [
+            "Nuevos empleos",
+            "Aumento de salario",
+            "Terminación de trabajo",
+            "Promociones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'aprobar' una ley?",
+          "options": [
+            "Rechazarla oficialmente",
+            "Aceptarla oficialmente",
+            "Escribirla",
+            "Cambiarla"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántas veces ha aprobado Estados Unidos ayuda para Ucrania?",
+          "options": [
+            "Tres veces",
+            "Cuatro veces",
+            "Cinco veces",
+            "Seis veces"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero gastaron las empresas en viajes de negocios?",
+          "options": [
+            "623 mil millones",
+            "538 mil millones",
+            "500 mil millones",
+            "600 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos perdió la industria tecnológica?",
+          "options": [
+            "100,000",
+            "120,000",
+            "123,000",
+            "130,000"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la razón principal de los despidos en tecnología?",
+          "options": [
+            "Crisis económica",
+            "Inteligencia artificial",
+            "Falta de clientes",
+            "Competencia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué incluye la ayuda a Ucrania según el texto?",
+          "options": [
+            "Solo dinero",
+            "Armas y equipos médicos",
+            "Solo armas",
+            "Solo medicinas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores se benefician de los viajes de negocios?",
+          "options": [
+            "Solo hoteles",
+            "Solo restaurantes",
+            "Hoteles, restaurantes y transporte",
+            "Solo aeropuertos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-05T10:19:51.890230"
+    },
+    {
       "date": "2026-06-04",
       "filename": "spanish_lesson_2026-06-04.pdf",
       "path": "pdfs/spanish_lesson_2026-06-04.pdf",
@@ -39764,7 +39986,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-04T10:16:44.873101",
+  "last_updated": "2026-06-05T10:19:51.890256",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
