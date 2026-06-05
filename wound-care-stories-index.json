@@ -1,11 +1,196 @@
 {
-  "date": "2026-06-04",
-  "generated_at": "2026-06-04T10:21:41.440768Z",
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T10:25:52.774127Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 660,
-  "new_today": 4,
+  "total_stories": 665,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250605",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Hospital Aspirus Wisconsin Rapids recibe premio por excelencia en cuidado de heridas",
+      "headline_en": "Aspirus Wisconsin Rapids Hospital Receives Award for Excellence in Wound Care",
+      "summary_es": "El Hospital Aspirus Wisconsin Rapids recibió el Premio Centro de Distinción de HEALOGICS por su excelente trabajo en el cuidado de heridas crónicas. Este reconocimiento demuestra el compromiso del hospital con la calidad y la innovación.",
+      "body_es": "El Hospital Aspirus Wisconsin Rapids ha recibido un reconocimiento importante. HEALOGICS otorgó el Premio Centro de Distinción al hospital. Este premio es para hospitales con excelencia en cuidado de heridas. El equipo del hospital trata heridas crónicas, úlceras y lesiones complicadas. Utilizan tecnología moderna y prácticas actualizadas. Los pacientes reciben evaluación completa y tratamiento personalizado. El cuidado incluye apósitos especiales, desbridamiento y seguimiento regular. El hospital está en Wisconsin Rapids. Este reconocimiento muestra el trabajo de calidad del equipo de enfermería y especialistas. La cura de heridas es importante para la salud del paciente.",
+      "body_en": "Aspirus Wisconsin Rapids Hospital has received an important recognition. HEALOGICS awarded the Center of Distinction Award to the hospital. This award honors hospitals with excellence in wound care. The hospital's team treats chronic wounds, ulcers, and complicated injuries. They use modern technology and current best practices. Patients receive comprehensive assessment and personalized treatment. Care includes special dressings, debridement, and regular follow-up. The hospital is located in Wisconsin Rapids. This recognition shows the quality work of the nursing and specialist team. Wound healing is important for patient health.",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM1RxcFpac0tGcUpwaWhWZVU0bEEzanJBal93SDFOSEVqMnFNaUVPcHNkLW9ZaXdFQ2dNTE56T0VuTmVITnVSSU5kU0w0RmNKckFKY3dEMGh4NXRDY0lqVlBFRl9rbG4wb09FYlpHQ2EzRHRwT1lyRTFvNUJnM0t1VkhwVldrUUVKSkd4VlNESGUwYkxu?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-05/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente, dura más de 4 semanas",
+          "definition_en": "chronic wound - injury that does not heal quickly, lasting more than 4 weeks"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "pérdida de tejido en la piel, frecuente en diabéticos o ancianos",
+          "definition_en": "ulcer - loss of skin tissue, common in diabetics or elderly"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - material placed over a wound to protect it"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "procedimiento para eliminar tejido muerto de una herida",
+          "definition_en": "debridement - procedure to remove dead tissue from a wound"
+        }
+      ],
+      "added_at": "2026-06-05T10:25:52.774127Z"
+    },
+    {
+      "id": "diabetic-foot-20250605",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Pasos hacia la curación: Mejorando la atención del pie diabético en comunidades aborígenes",
+      "headline_en": "Healing Steps: Improving Diabetic Foot Care in Aboriginal Communities",
+      "summary_es": "El Servicio de Salud Rural de Australia Occidental implementa el programa 'Pasos hacia la Curación' para prevenir y tratar enfermedades del pie relacionadas con diabetes en poblaciones aborígenes. El programa mejora el acceso a cuidados especializados.",
+      "body_es": "El Servicio de Salud Rural de Australia Occidental ha desarrollado un programa integral llamado 'Pasos hacia la Curación'. Este programa se enfoca en la prevención y el tratamiento de enfermedades del pie en personas aborígenes que viven con diabetes. La enfermedad del pie diabético es una complicación seria que afecta a muchas personas. Incluye úlceras, infecciones y, en casos graves, amputación. El programa proporciona evaluación regular del pie, educación del paciente y tratamiento temprano. Los especialistas realizan inspecciones visuales, medición de la sensibilidad y evaluación de la circulación. Se utilizan apósitos especializados y técnicas de desbridamiento cuando es necesario. La intervención temprana previene complicaciones graves y mejora los resultados de los pacientes.",
+      "body_en": "The Western Australian Country Health Service has developed a comprehensive program called 'Healing Steps'. This program focuses on prevention and treatment of foot disease in Aboriginal people living with diabetes. Diabetic foot disease is a serious complication affecting many people. It includes ulcers, infections, and in severe cases, amputation. The program provides regular foot assessment, patient education, and early treatment. Specialists perform visual inspections, sensitivity measurement, and circulation assessment. Specialized dressings and debridement techniques are used when necessary. Early intervention prevents serious complications and improves patient outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0dFWnhlTHNMTWMwSzVESVBId0pJRmlLT2x0REdYSWVhMV8zVFlodFVYY3ZxRjIySHp5UjE3Vi1SM1hjRXp3SDRNT2RETHFKWFpBX3oxcTNuV3FSV3R6RHY0Z3pWQ0dGLWl6cWQ2SFdOVnJMMnhtdWhOMTRVdGt1MmFIZVhRZ0hwNm44UVdfQm5za1ZNOWpoMV9yM2xDOV85Vjg0Q0FycXZ2dml4QTJLdi02dUNINXRXZkFiZ08zOXlWRzY5OEZxYlA3d0FaTlF2YXkyVXpWbF9GdTRxb1xiYw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-05/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación de la diabetes que afecta los pies, incluyendo úlceras e infecciones",
+          "definition_en": "diabetic foot - diabetes complication affecting the feet, including ulcers and infections"
+        },
+        {
+          "word": "úlcera plantar",
+          "definition_es": "herida abierta en la planta del pie que no cicatriza correctamente",
+          "definition_en": "plantar ulcer - open wound on the sole of the foot that does not heal properly"
+        },
+        {
+          "word": "evaluación circulatoria",
+          "definition_es": "examen del flujo de sangre en los pies y las extremidades",
+          "definition_en": "circulatory assessment - examination of blood flow in feet and extremities"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        }
+      ],
+      "added_at": "2026-06-05T10:25:52.774127Z"
+    },
+    {
+      "id": "burn-care-20250605",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Largo camino hacia la recuperación: Expertos en quemaduras tratando pacientes del derrame químico",
+      "headline_en": "Long Road to Recovery: Burn Center Experts Treating Chemical Spill Patients",
+      "summary_es": "Especialistas en cuidado de quemaduras en Longview atienden a pacientes lesionados por un derrame químico. El equipo de expertos proporciona tratamiento integral que incluye evaluación de quemaduras, control del dolor y cuidados de heridas especializados.",
+      "body_es": "Los expertos del centro de quemaduras en Longview están tratando pacientes que sufrieron lesiones por un derrame químico. El equipo especializado realiza evaluaciones completas de las quemaduras para determinar la profundidad y extensión de las lesiones. Las quemaduras químicas requieren atención inmediata y cuidados especializados diferentes a las quemaduras térmicas. El tratamiento incluye irrigación cuidadosa, aplicación de apósitos especiales y desbridamiento de tejido necrótico. Los pacientes reciben manejo del dolor y terapia para prevenir infecciones. La recuperación de quemaduras graves es un proceso largo que requiere seguimiento continuo en el hospital. Los especialistas utilizan técnicas modernas de curación y rehabilitación para optimizar la cicatrización y minimizar las cicatrices.",
+      "body_en": "Burn center experts in Longview are treating patients who suffered injuries from a chemical spill. The specialized team performs comprehensive burn assessments to determine the depth and extent of injuries. Chemical burns require immediate attention and specialized care different from thermal burns. Treatment includes careful irrigation, application of special dressings, and debridement of necrotic tissue. Patients receive pain management and therapy to prevent infections. Recovery from severe burns is a long process requiring continuous hospital follow-up. Specialists use modern healing techniques and rehabilitation to optimize wound healing and minimize scarring.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2llYXdyVUFtaEZMSzdnWjItVXdicEdybjFSeTZuRklpMWNCTjJJNjh5dnV2aW5CLWNaMjRKNzBCWFM4TS11UEpWaWpQTjBQMG01Y2JXLWx6Rmx1eWl3clNwUWg2ZG12YkRIbXRMd0dkR1R5NkUzZjQyUEw4VGdIdnpnX2NPUnVhdFRnZUpqYTFDNmRGeHBkM0tET2J5dERsZm5jSF9xek5DaERfUTRqc2hzdGs1RzVCdkI5bUQxRmt5S0E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-05/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura química",
+          "definition_es": "lesión causada por contacto con sustancias químicas corrosivas o tóxicas",
+          "definition_en": "chemical burn - injury caused by contact with corrosive or toxic chemical substances"
+        },
+        {
+          "word": "tejido necrótico",
+          "definition_es": "tejido muerto en la piel o tejido profundo que debe ser removido",
+          "definition_en": "necrotic tissue - dead skin or deep tissue that must be removed"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de formación de una nueva piel después de una herida",
+          "definition_en": "scarring - natural process of new skin formation after an injury"
+        },
+        {
+          "word": "desbridamiento quirúrgico",
+          "definition_es": "procedimiento quirúrgico para extirpar tejido dañado o muerto de una quemadura",
+          "definition_en": "surgical debridement - surgical procedure to remove damaged or dead tissue from a burn"
+        }
+      ],
+      "added_at": "2026-06-05T10:25:52.774127Z"
+    },
+    {
+      "id": "surgical-wounds-20250605",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Nutrición y complicaciones de heridas quirúrgicas en pacientes con trastornos alimentarios",
+      "headline_en": "Nutrition and Surgical Wound Complications in Patients with Eating Disorders",
+      "summary_es": "Una revisión de investigación de Cureus examina cómo la desnutrición y la realimentación afectan las complicaciones de heridas quirúrgicas en pacientes con trastornos alimentarios. El estudio destaca la importancia del estado nutricional preoperatorio.",
+      "body_es": "Un equipo de investigadores de Cureus ha realizado una revisión narrativa sobre los efectos de la desnutrición en las complicaciones de heridas quirúrgicas. Los pacientes con trastornos alimentarios presentan riesgos especiales durante la cirugía debido a su estado nutricional comprometido. La desnutrición afecta la capacidad del cuerpo para reparar y cicatrizar heridas adecuadamente. Los estudios demuestran que la falta de proteínas, vitaminas y minerales retrasa la epitelización y aumenta el riesgo de infección. La realimentación preoperatoria mejora significativamente los resultados de las heridas quirúrgicas. Los especialistas recomiendan evaluación nutricional completa antes de la cirugía. El manejo perioperatorio debe incluir apoyo nutricional para optimizar la cicatrización y prevenir complicaciones graves como dehiscencia de herida e infección quirúrgica.",
+      "body_en": "A team of researchers at Cureus conducted a narrative review on the effects of malnutrition on surgical wound complications. Patients with eating disorders present special risks during surgery due to their compromised nutritional status. Malnutrition affects the body's ability to repair and heal surgical wounds properly. Studies show that lack of proteins, vitamins, and minerals delay epithelialization and increase infection risk. Preoperative refeeding significantly improves surgical wound outcomes. Specialists recommend comprehensive nutritional assessment before surgery. Perioperative management should include nutritional support to optimize healing and prevent serious complications such as wound dehiscence and surgical infection.",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQam81aTNsMlozN0M5UTRlQ3VSWWxRaXp0Y241T0tkdHppMzZQU3ZjeHhUbHFmN2RDelBFNUtROW5zdzU4UHRsUjBRcXl2ZEFjRjlYY0lYcGpaY0toMThqX1dZOVhVRnRPdGVfM2g3Y0FiRmxKZEptS1BibUd1NFhJUWNYTGgyakhmNWwxaUNYM2RPWGhrdHlnUFEzQlVfTTIyT0IyNHUyek5vbjF3SlEwWE1FWGA5UUFYeTVtMUtPUU5GNV8xOVNLWUNIS0lXb2l3UWwtbTZoM2R2VGdmYVowc1VldjdiMnhaZHM4WVZJYVFYNzlma0ptSExjX0llZWc1NEdncGNEQXh5Ykk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-05/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización de herida",
+          "definition_es": "proceso fisiológico de reparación de una herida quirúrgica después de la operación",
+          "definition_en": "wound healing - physiological process of repair of a surgical wound after operation"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva epidermis sobre una herida para cerrarla",
+          "definition_en": "epithelialization - formation of new epidermis over a wound to close it"
+        },
+        {
+          "word": "dehiscencia de herida",
+          "definition_es": "separación o apertura de los bordes de una herida quirúrgica después de la sutura",
+          "definition_en": "wound dehiscence - separation or opening of the edges of a surgical wound after suturing"
+        },
+        {
+          "word": "infección quirúrgica del sitio",
+          "definition_es": "infección bacteriana que ocurre en el área de una incisión quirúrgica",
+          "definition_en": "surgical site infection - bacterial infection occurring in the area of a surgical incision"
+        }
+      ],
+      "added_at": "2026-06-05T10:25:52.774127Z"
+    },
+    {
+      "id": "wound-research-20250605",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Sistema de Salud VA de San Francisco es lugar para la curación e innovación en investigación de heridas",
+      "headline_en": "San Francisco VA Health Care System is a Place for Healing and Innovation in Wound Research",
+      "summary_es": "El Sistema de Salud VA de San Francisco destaca por su compromiso con la investigación y la curación de veteranos. El centro realiza investigaciones innovadoras en el tratamiento de heridas crónicas y complicadas.",
+      "body_es": "El Sistema de Salud VA de San Francisco se reconoce como un centro de excelencia para la investigación y el cuidado de veteranos. El hospital realiza estudios innovadores sobre tratamientos de heridas crónicas y traumáticas. El equipo de investigación desarrolla nuevas técnicas de curación utilizando tecnologías avanzadas y medicina basada en evidencia. Los investigadores colaboran con especialistas en heridas para mejorar los protocolos de tratamiento. La investigación incluye estudios sobre apósitos innovadores, terapia de presión negativa y factores de crecimiento para acelerar la cicatrización. Los veteranos participan en ensayos clínicos que pueden ofrecer tratamientos más efectivos para sus heridas. El compromiso del VA de San Francisco con la innovación mejora continuamente la calidad de vida de los pacientes veteranos.",
+      "body_en": "The San Francisco VA Health Care System is recognized as a center of excellence for research and veteran care. The hospital conducts innovative studies on chronic and traumatic wound treatments. The research team develops new healing techniques using advanced technologies and evidence-based medicine. Researchers collaborate with wound specialists to improve treatment protocols. Research includes studies on innovative dressings, negative pressure therapy, and growth factors to accelerate healing. Veterans participate in clinical trials that may offer more effective treatments for their wounds. The San Francisco VA's commitment to innovation continuously improves the quality of life of veteran patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHNXdTJQWk82VngxTnIwY01XMHhaZk9xYURJbkhqZWx4eGFDa09MaEdpNFlqSmNjMjMtVml3dGM4XzF6QWJXTVdiQUowcEtaT0lka25Da2F1VEZEWkIyYkQyM2k0Z0FFyllTU3lUMTBpeGs0Nk9MZ3p4UVNyM0IxSU96MlVMS1RTR3gyLWpDbWF6MEZIdWxHLTNhWG9icmpVbVNiX0t4dmdLaFBjZ2h6el9HYjhFQkd6S096eTNtNnJzNTFUZ2c?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-05/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "terapia de presión negativa",
+          "definition_es": "tratamiento que utiliza succión controlada para acelerar la cicatrización de heridas",
+          "definition_en": "negative pressure therapy - treatment using controlled suction to accelerate wound healing"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "proteína que estimula el crecimiento celular y la regeneración de tejido",
+          "definition_en": "growth factor - protein that stimulates cell growth and tissue regeneration"
+        },
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio de investigación para evaluar la efectividad y seguridad de nuevos tratamientos",
+          "definition_en": "clinical trial - research study to evaluate effectiveness and safety of new treatments"
+        },
+        {
+          "word": "medicina basada en evidencia",
+          "definition_es": "práctica médica que utiliza investigación científica para guiar las decisiones terapéuticas",
+          "definition_en": "evidence-based medicine - medical practice using scientific research to guide treatment decisions"
+        }
+      ],
+      "added_at": "2026-06-05T10:25:52.774127Z"
+    },
     {
       "id": "chronic-wounds-20250604",
       "category": "Chronic Wounds",
@@ -24421,6 +24606,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-04T10:21:41.440768Z",
+  "last_updated": "2026-06-05T10:25:52.774127Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
