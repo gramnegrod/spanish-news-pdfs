@@ -1,11 +1,196 @@
 {
-  "date": "2026-06-05",
-  "generated_at": "2026-06-05T10:25:52.774127Z",
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T09:45:36.225326Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 665,
+  "total_stories": 670,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250606",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo tratamiento para heridas crónicas en fase de prueba",
+      "headline_en": "New treatment for chronic wounds in testing phase",
+      "summary_es": "Los científicos prueban un nuevo tratamiento llamado CYWC628 para heridas crónicas. Este tratamiento puede ayudar a los pacientes a sanar más rápido.",
+      "body_es": "Un nuevo medicamento llamado CYWC628 está en fase de prueba clínica. Los médicos estudian si funciona para las heridas crónicas que no cierran normalmente. Las heridas crónicas son heridas que no sanan en el tiempo esperado. Pueden ser muy difíciles de tratar. Los pacientes con diabetes o problemas de circulación tienen más riesgo. El tratamiento es importante para mejorar la salud del paciente. Los investigadores observan cuidadosamente cómo responden los pacientes. Si el tratamiento funciona bien, puede cambiar la forma de cuidar estas heridas. La prueba continúa en varios hospitales.",
+      "body_en": "A new medication called CYWC628 is in clinical trial phase. Doctors are studying whether it works for chronic wounds that do not close normally. Chronic wounds are injuries that do not heal in the expected time. They can be very difficult to treat. Patients with diabetes or circulation problems have higher risk. Treatment is important to improve patient health. Researchers carefully observe how patients respond. If the treatment works well, it could change how we care for these wounds. The trial continues in several hospitals.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenpnS2VtWjBlRDBxNlRiU1hDeDZPcUJyT2R2aEdpN2s2bVcyUWRmaUhFOFdDZ1ZyS2N0RFoxM3BRcDFRNlBwbUgzc1RibHZwZ2RqOXRDTFBrQWtNUTQ4bFJ2a2ZyWmN3RE93cW5mUHRtT0dMOGtYT3NPX0gyVGI0V0RKVVNoR2JveVlPWDdCUUs1RTVFaWVRV0ZlSDN3NVczTkFVUGNZZEl1Zw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-06/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra en tiempo normal",
+          "definition_en": "chronic wound - injury that does not close in normal time"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound closing"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método médico para curar una enfermedad",
+          "definition_en": "treatment - medical method to cure disease"
+        }
+      ],
+      "added_at": "2026-06-06T09:45:36.225326Z"
+    },
+    {
+      "id": "diabetic-foot-20250606",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Nuevos pasos hacia la curación de úlceras en el pie diabético",
+      "headline_en": "New steps toward healing diabetic foot ulcers",
+      "summary_es": "Se inicia un nuevo tratamiento con terapia celular experimental para las úlceras del pie diabético. Este avance ofrece esperanza a los pacientes con diabetes que enfrentan complicaciones graves en los pies.",
+      "body_es": "Un tratamiento experimental basado en terapia celular ha comenzado a tratar a pacientes con úlceras en el pie diabético. Este enfoque innovador utiliza células vivas para estimular la curación de heridas que son difíciles de sanar. Las úlceras del pie diabético representan una complicación seria de la diabetes que afecta a millones de personas. Sin tratamiento adecuado, estas úlceras pueden resultar en amputación. La terapia celular funciona reparando el tejido dañado y mejorando la circulación sanguínea. Los médicos esperan que este tratamiento reduzca el tiempo de curación significativamente. Los pacientes que participan en el estudio reciben monitoreo detallado de su progreso. Los resultados iniciales son prometedores para cambiar el manejo de estas complicaciones.",
+      "body_en": "An experimental treatment based on cell therapy has begun treating patients with diabetic foot ulcers. This innovative approach uses living cells to stimulate healing of wounds that are difficult to heal. Diabetic foot ulcers represent a serious complication of diabetes affecting millions of people. Without proper treatment, these ulcers can result in amputation. Cell therapy works by repairing damaged tissue and improving blood circulation. Doctors hope this treatment will significantly reduce healing time. Patients participating in the study receive detailed monitoring of their progress. Initial results are promising for changing how we manage these complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzJJS3NxeVJ3Z0l1dGtuMC1qaWUyRDgySDQtVGE5Tkpqa29yU0I4UDhNd2RvTXEtSExkRHp2cW4zXzJCREQ4ZFQ4YXM5dUlEbm5ZOWVTQmM1R3I0enhRc3lxb1lDaVRsWGE0eV95LXk0VENWbmtRYWwtdHh6WWROa3BzLWxPOFRXLUhnU00wdkRvWFhYOHl1TlZEbEowOFJUNGVKS3RlQTExdUdFSWRyVFcxX2s3RThfUXMxdHozLVQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-06/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "llaga abierta en la piel o tejido",
+          "definition_en": "ulcer - open sore on skin or tissue"
+        },
+        {
+          "word": "terapia celular",
+          "definition_es": "tratamiento que usa células vivas para sanar",
+          "definition_en": "cell therapy - treatment using living cells to heal"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de la sangre por el cuerpo",
+          "definition_en": "circulation - movement of blood through the body"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de nueva piel",
+          "definition_en": "scarring/healing - process of new skin formation"
+        }
+      ],
+      "added_at": "2026-06-06T09:45:36.225326Z"
+    },
+    {
+      "id": "burn-care-20250606",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Piel impresa en 3D con vasos sanguíneos para tratar quemaduras",
+      "headline_en": "3D printed skin with blood vessels to treat burns",
+      "summary_es": "Los científicos crean piel viva mediante impresión 3D que incluye vasos sanguíneos funcionales. Este avance revolucionario podría transformar el tratamiento de quemaduras graves.",
+      "body_es": "Investigadores han logrado imprimir piel viva en tres dimensiones que contiene vasos sanguíneos funcionales. Este descubrimiento representa un avance significativo en el tratamiento de quemaduras graves. La piel impresa incluye tanto la epidermis como la dermis con vasos sanguíneos reales. Estos vasos permiten que la piel reciba nutrientes y oxígeno necesarios para funcionar correctamente. Las quemaduras severas son muy difíciles de tratar porque la piel dañada no puede regenerarse naturalmente. La piel impresa podría reemplazar el injerto de piel tradicional, que requiere cirugía adicional. El proceso utiliza biomateriales compatibles con el cuerpo humano. Los científicos prueban esta tecnología en laboratorio antes de usarla en pacientes. Este método podría reducir significativamente el tiempo de curación y mejorar los resultados.",
+      "body_en": "Researchers have successfully printed living skin in three dimensions that contains functional blood vessels. This discovery represents a significant advance in treating severe burns. The printed skin includes both the epidermis and dermis with real blood vessels. These vessels allow the skin to receive necessary nutrients and oxygen to function properly. Severe burns are very difficult to treat because damaged skin cannot regenerate naturally. Printed skin could replace traditional skin grafting, which requires additional surgery. The process uses biomaterials compatible with the human body. Scientists test this technology in the laboratory before using it in patients. This method could significantly reduce healing time and improve outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkZvVEpOZnp4ZnhCWmpRcFllY1VwcGd4eEszY1YySGZiMHhldzlkZkhkSnVpSDlDRm5CM09VZkFmdDRWR0J2SUlRTDQ4RjIyUlYzM0tROGtHdHVsM2l4X2EtRkY1S0Noc3hTWGI5d3RQY09zSV95NXlmY3lwTG1yU1BFUkhkY1lGXzB3MHByRWxZNlJzSGtBNEtNNFRsQllvU1E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-06/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o químicos",
+          "definition_en": "burn - injury caused by heat, fire or chemicals"
+        },
+        {
+          "word": "vasos sanguíneos",
+          "definition_es": "tubos que transportan sangre en el cuerpo",
+          "definition_en": "blood vessels - tubes that carry blood through the body"
+        },
+        {
+          "word": "epidermis",
+          "definition_es": "capa externa de la piel",
+          "definition_en": "epidermis - outer layer of skin"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "transferencia de tejido de un lugar a otro",
+          "definition_en": "graft - transfer of tissue from one place to another"
+        }
+      ],
+      "added_at": "2026-06-06T09:45:36.225326Z"
+    },
+    {
+      "id": "surgical-wounds-20250606",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "rose",
+      "headline_es": "Complicaciones quirúrgicas en cesárea vinculadas a reingresos postparto",
+      "headline_en": "Surgical complications in cesarean delivery linked to postpartum readmission risk",
+      "summary_es": "Un nuevo estudio revela que las complicaciones durante la cesárea aumentan significativamente el riesgo de que las madres sean readmitidas al hospital después del parto.",
+      "body_es": "Un análisis reciente de datos de pacientes hospitalarias demuestra una conexión importante entre las complicaciones quirúrgicas durante la cesárea y el riesgo de reingresos postparto. Las complicaciones incluyen infecciones de heridas, hemorragia, daño a órganos cercanos y problemas de cicatrización. Las madres que experimentan estas complicaciones tienen mayor probabilidad de regresar al hospital dentro de treinta días después del parto. Este hallazgo destaca la importancia de cuidados postoperatorios rigurosos y seguimiento cuidadoso de las heridas quirúrgicas. Los médicos deben evaluar detalladamente las heridas de cesárea para detectar signos de infección o dehiscencia. El edema, eritema y exudado anormal requieren atención inmediata. Los cuidados de enfermería enfocados en la limpieza de heridas y cambios de vendaje reducen las complicaciones. El reconocimiento temprano de problemas previene reingresos innecesarios.",
+      "body_en": "A recent analysis of hospitalized patient data demonstrates an important connection between surgical complications during cesarean delivery and risk of postpartum readmission. Complications include wound infections, hemorrhage, damage to nearby organs, and healing problems. Mothers who experience these complications are more likely to return to the hospital within thirty days after delivery. This finding highlights the importance of rigorous postoperative care and careful monitoring of surgical wounds. Doctors must evaluate cesarean wounds in detail to detect signs of infection or dehiscence. Edema, erythema, and abnormal exudate require immediate attention. Nursing care focused on wound cleaning and dressing changes reduce complications. Early recognition of problems prevents unnecessary readmissions.",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZnBHVDZSM1NKTFB3ZWNMTk42YTFLaVkteFhTeERoRlFLYlg4d2RmQi1DZ051WFd6TjNURUtsQVZMdXZScjBybG92OFdzZTJMaGlwcXIwVVhvYlVTTnJ1RHZHMmZSdHMtb3YxU05MQWdQSWdrRzExT0VrbUQ4Y3pNanN6cURFb0VTV19BRmN4OWdwSGZYRlptbWtUMVM3ejU5WGQ1dzQ3Yw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-06/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dehiscencia",
+          "definition_es": "apertura de una herida suturada",
+          "definition_en": "dehiscence - opening of a sutured wound"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel",
+          "definition_en": "erythema - redness of the skin"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes from a wound"
+        },
+        {
+          "word": "edema",
+          "definition_es": "hinchazón causada por acumulación de líquido",
+          "definition_en": "edema - swelling caused by fluid accumulation"
+        }
+      ],
+      "added_at": "2026-06-06T09:45:36.225326Z"
+    },
+    {
+      "id": "wound-research-20250606",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "indigo",
+      "headline_es": "El Sistema VA de San Francisco destaca como centro de excelencia en curación",
+      "headline_en": "San Francisco VA Health Care System highlights excellence in healing",
+      "summary_es": "El Sistema de Atención Médica de Veteranos en San Francisco se reconoce como un lugar de excelencia en investigación de heridas y cuidados innovadores.",
+      "body_es": "El Sistema de Atención Médica de Veteranos de San Francisco ha establecido un programa de investigación de heridas de clase mundial. El centro combina la atención clínica con investigación avanzada para mejorar los resultados de curación en veteranos. Los investigadores estudian nuevas técnicas de desbridamiento, apósitos avanzados y terapias de estimulación de heridas. El personal de enfermería especializado en cuidado de heridas proporciona evaluaciones detalladas y seguimiento continuo. El equipo multidisciplinario incluye cirujanos, enfermeras de heridas, fisioterapeutas y especialistas en infecciones. Los veteranos con heridas crónicas, úlceras por presión y cicatrices complejas reciben tratamiento personalizado. La investigación se enfoca en reducir el tiempo de cicatrización y prevenir complicaciones como infecciones y necrosis. Este centro es modelo para otros sistemas de salud en el cuidado de heridas complejas.",
+      "body_en": "The San Francisco VA Health Care System has established a world-class wound research program. The center combines clinical care with advanced research to improve healing outcomes in veterans. Researchers study new debridement techniques, advanced dressings, and wound stimulation therapies. Nursing staff specialized in wound care provide detailed assessments and continuous follow-up. The multidisciplinary team includes surgeons, wound care nurses, physical therapists, and infection specialists. Veterans with chronic wounds, pressure ulcers, and complex scars receive personalized treatment. Research focuses on reducing healing time and preventing complications like infections and necrosis. This center serves as a model for other healthcare systems in complex wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHNXdTJQWk82VngxTnIwY01XMHhaZk9xYURJbkhqZWx4eGFDa09MaEdpNFlqSmNjMjMtVml3dGM4XzF6QWJXTVdiQUowcEtaT0lka25Da2F1VEZEWkIyYkQyM2k0Z0FFyllTU3lUMTBpeGs0Nk9MZ3p4UVNyM0IxSU96MlVMS1RTR3gyLWpDbWF6MEZIdWxHLTNhWG9icmpVbVNiX0t4dmdLaFBjZ2h6el9HYjhFQkd6S096eTNtNnJzNTFUZ2c?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-06/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto de una herida",
+          "definition_en": "debridement - removal of dead tissue from a wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material aplicado directamente sobre la herida",
+          "definition_en": "dressing - material applied directly on the wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de tejido vivo",
+          "definition_en": "necrosis - death of living tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz en la herida",
+          "definition_en": "scarring - process of scar formation in wound"
+        }
+      ],
+      "added_at": "2026-06-06T09:45:36.225326Z"
+    },
     {
       "id": "chronic-wounds-20250605",
       "category": "Chronic Wounds",
@@ -24606,6 +24791,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-05T10:25:52.774127Z",
+  "last_updated": "2026-06-06T09:45:36.225326Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
