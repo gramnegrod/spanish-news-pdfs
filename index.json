@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-06",
+      "filename": "spanish_lesson_2026-06-06.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-06.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump recibe 70 mil millones para deportar inmigrantes",
+          "headline_en": "Trump receives 70 billion to deport immigrants",
+          "body_es": "El Congreso de Estados Unidos va a dar 70 mil millones de dólares para la agenda de deportación del presidente Trump. Este dinero ayudará a expulsar a muchos inmigrantes que no tienen documentos legales. El plan incluye construir más centros de detención y contratar más agentes de inmigración. Trump prometió durante su campaña que haría deportaciones masivas. Los republicanos apoyan este plan, pero los demócratas están preocupados. Dicen que es demasiado dinero y que puede separar familias. El programa comenzará en los próximos meses. Millones de personas sin documentos viven con miedo. Las organizaciones de derechos humanos critican estas medidas. Este es uno de los proyectos más grandes de deportación en la historia estadounidense.",
+          "body_en": "The US Congress will give 70 billion dollars for President Trump's deportation agenda. This money will help expel many immigrants who don't have legal documents. The plan includes building more detention centers and hiring more immigration agents. Trump promised during his campaign that he would do massive deportations. Republicans support this plan, but Democrats are worried. They say it's too much money and could separate families. The program will begin in the coming months. Millions of undocumented people live in fear. Human rights organizations criticize these measures. This is one of the largest deportation projects in American history.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos crea 172,000 nuevos empleos en mayo",
+          "headline_en": "United States creates 172,000 new jobs in May",
+          "body_es": "La economía estadounidense añadió 172,000 nuevos empleos en el mes de mayo. Esta cifra muestra que el mercado laboral sigue siendo fuerte y resistente. Los expertos económicos estaban preocupados por una posible crisis, pero estos números son positivos. Los sectores que más empleos crearon fueron servicios, construcción y manufactura. La tasa de desempleo se mantiene baja, cerca del 4%. Esto significa que la mayoría de las personas que buscan trabajo pueden encontrarlo. Los salarios también están aumentando lentamente. Sin embargo, los precios de los productos siguen altos en algunas áreas. El gobierno dice que la economía está en buena condición. Muchas empresas necesitan más trabajadores. Esta información da esperanza a las familias estadounidenses que buscan estabilidad económica.",
+          "body_en": "The American economy added 172,000 new jobs in the month of May. This figure shows that the labor market continues to be strong and resilient. Economic experts were worried about a possible crisis, but these numbers are positive. The sectors that created the most jobs were services, construction, and manufacturing. The unemployment rate remains low, around 4%. This means that most people looking for work can find it. Wages are also increasing slowly. However, product prices remain high in some areas. The government says the economy is in good condition. Many companies need more workers. This information gives hope to American families seeking economic stability.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump negocia comprar partes de empresas de inteligencia artificial",
+          "headline_en": "Trump negotiates to buy parts of artificial intelligence companies",
+          "body_es": "El presidente Trump está hablando con ejecutivos de tecnología sobre comprar partes de grandes compañías de inteligencia artificial. Estas conversaciones son muy importantes para el futuro de la tecnología en Estados Unidos. Trump quiere que el gobierno tenga más control sobre estas empresas estratégicas. La inteligencia artificial es muy importante para la seguridad nacional y la economía. China también está invirtiendo mucho dinero en esta tecnología. Por eso, Estados Unidos no quiere quedarse atrás en esta competencia. Las empresas de IA más grandes incluyen OpenAI, Google y Microsoft. Algunos expertos piensan que es buena idea tener participación gubernamental. Otros creen que puede limitar la innovación privada. Estas negociaciones pueden cambiar cómo se desarrolla la tecnología en el país. El resultado afectará a millones de trabajadores del sector tecnológico.",
+          "body_en": "President Trump is talking with technology executives about buying parts of major artificial intelligence companies. These conversations are very important for the future of technology in the United States. Trump wants the government to have more control over these strategic companies. Artificial intelligence is very important for national security and the economy. China is also investing a lot of money in this technology. Therefore, the United States doesn't want to fall behind in this competition. The largest AI companies include OpenAI, Google, and Microsoft. Some experts think it's a good idea to have government participation. Others believe it could limit private innovation. These negotiations could change how technology develops in the country. The result will affect millions of workers in the technology sector.",
+          "source": "NOTUS"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "deportación",
+          "syllables": "de-por-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "La agenda de deportación de Trump va a recibir 70 mil millones de dólares.",
+          "definition_es": "Acción de expulsar a extranjeros de un país",
+          "definition_en": "The action of expelling foreigners from a country"
+        },
+        {
+          "word": "infusión",
+          "syllables": "in-fu-SIÓN",
+          "pos": "sustantivo",
+          "context": "El Congreso dará una infusión de dinero para deportaciones.",
+          "definition_es": "Cantidad grande de dinero que se añade a algo",
+          "definition_en": "A large amount of money added to something"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Estados Unidos añadió 172,000 empleos en mayo.",
+          "definition_es": "Trabajo que una persona tiene para ganar dinero",
+          "definition_en": "Work that a person has to earn money"
+        },
+        {
+          "word": "resistencia",
+          "syllables": "re-sis-TEN-cia",
+          "pos": "sustantivo",
+          "context": "El mercado laboral muestra signos de resistencia.",
+          "definition_es": "Capacidad de mantenerse fuerte ante dificultades",
+          "definition_en": "Ability to remain strong in the face of difficulties"
+        },
+        {
+          "word": "ejecutivos",
+          "syllables": "e-je-cu-TI-vos",
+          "pos": "sustantivo",
+          "context": "Trump habla con ejecutivos de tecnología sobre comprar empresas.",
+          "definition_es": "Personas que dirigen empresas importantes",
+          "definition_en": "People who manage important companies"
+        },
+        {
+          "word": "adquirir",
+          "syllables": "ad-qui-RIR",
+          "pos": "verbo",
+          "context": "Trump quiere adquirir partes de compañías de inteligencia artificial.",
+          "definition_es": "Comprar o conseguir algo",
+          "definition_en": "To buy or obtain something"
+        },
+        {
+          "word": "agenda",
+          "syllables": "a-GEN-da",
+          "pos": "sustantivo",
+          "context": "La agenda política de Trump incluye deportaciones masivas.",
+          "definition_es": "Lista de planes o actividades importantes",
+          "definition_en": "List of important plans or activities"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral estadounidense está fuerte.",
+          "definition_es": "El sistema de trabajo y empleos en un país",
+          "definition_en": "The system of work and jobs in a country"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'deportación'?",
+          "options": [
+            "Traer extranjeros al país",
+            "Expulsar extranjeros del país",
+            "Dar ciudadanía a inmigrantes",
+            "Construir muros fronterizos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es la definición de 'ejecutivos'?",
+          "options": [
+            "Trabajadores de fábricas",
+            "Personas que dirigen empresas",
+            "Políticos del gobierno",
+            "Estudiantes universitarios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'adquirir'?",
+          "options": [
+            "Vender algo",
+            "Comprar o conseguir algo",
+            "Regalar algo",
+            "Romper algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es el 'mercado laboral'?",
+          "options": [
+            "Un lugar para comprar comida",
+            "El sistema de trabajo y empleos",
+            "Una tienda de ropa",
+            "Un banco para dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero va a recibir la agenda de deportación de Trump?",
+          "options": [
+            "50 mil millones",
+            "60 mil millones",
+            "70 mil millones",
+            "80 mil millones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuántos empleos se crearon en Estados Unidos en mayo?",
+          "options": [
+            "162,000",
+            "172,000",
+            "182,000",
+            "192,000"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la tasa de desempleo mencionada en el artículo económico?",
+          "options": [
+            "Cerca del 3%",
+            "Cerca del 4%",
+            "Cerca del 5%",
+            "Cerca del 6%"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Con quién está hablando Trump sobre comprar empresas de IA?",
+          "options": [
+            "Políticos",
+            "Estudiantes",
+            "Ejecutivos de tecnología",
+            "Trabajadores de fábrica"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores crearon más empleos según el artículo?",
+          "options": [
+            "Servicios, construcción y manufactura",
+            "Agricultura, pesca y minería",
+            "Educación, salud y gobierno",
+            "Turismo, arte y deportes"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué Estados Unidos quiere controlar empresas de inteligencia artificial?",
+          "options": [
+            "Para ganar más dinero",
+            "Para competir con China",
+            "Para crear más empleos",
+            "Para bajar los precios"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-06T09:39:04.973814"
+    },
+    {
       "date": "2026-06-05",
       "filename": "spanish_lesson_2026-06-05.pdf",
       "path": "pdfs/spanish_lesson_2026-06-05.pdf",
@@ -39986,7 +40208,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-05T10:19:51.890256",
+  "last_updated": "2026-06-06T09:39:04.973847",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
