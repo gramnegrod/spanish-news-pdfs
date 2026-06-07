@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-07",
+      "filename": "spanish_lesson_2026-06-07.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-07.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Congreso aprueba resolución sobre guerra con Irán",
+          "headline_en": "Congress approves resolution on war with Iran",
+          "body_es": "La Cámara de Representantes de Estados Unidos aprobó una resolución importante sobre poderes de guerra con Irán. Esta resolución limita las acciones militares del presidente sin la aprobación del Congreso. Los republicanos de Wisconsin votaron en contra de esta medida. Ellos creen que el presidente necesita más libertad para tomar decisiones rápidas sobre seguridad nacional. Los demócratas apoyan la resolución porque quieren más control del Congreso en decisiones de guerra. Este tema divide mucho a los políticos americanos. La votación fue muy cercana y mostró las diferencias entre los dos partidos políticos principales del país.",
+          "body_en": "The US House of Representatives approved an important resolution on war powers with Iran. This resolution limits the president's military actions without Congress approval. Wisconsin Republicans voted against this measure. They believe the president needs more freedom to make quick decisions about national security. Democrats support the resolution because they want more Congressional control in war decisions. This topic greatly divides American politicians. The vote was very close and showed the differences between the country's two main political parties.",
+          "source": "WisPolitics"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Mercado laboral fuerte pero americanos siguen frustrados",
+          "headline_en": "Strong job market but Americans remain frustrated",
+          "body_es": "El mercado laboral de Estados Unidos está muy fuerte actualmente. Hay muchos trabajos disponibles y pocas personas desempleadas. Sin embargo, muchos americanos se sienten frustrados con sus oportunidades de trabajo. El problema principal son los precios altos de productos básicos como comida y vivienda. Aunque hay más trabajos, los salarios no suben tan rápido como los precios. Las familias tienen dificultades para pagar sus gastos mensuales. Los economistas dicen que esta situación es complicada. Por un lado, la economía está creciendo. Por otro lado, las personas sienten que su poder de compra está disminuyendo cada mes.",
+          "body_en": "The US job market is currently very strong. There are many available jobs and few unemployed people. However, many Americans feel frustrated with their job opportunities. The main problem is high prices for basic products like food and housing. Although there are more jobs, wages don't rise as fast as prices. Families have difficulties paying their monthly expenses. Economists say this situation is complicated. On one hand, the economy is growing. On the other hand, people feel their purchasing power is decreasing each month.",
+          "source": "Chicago Tribune"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Crece temor por burbuja de deuda en inteligencia artificial",
+          "headline_en": "Fear grows over AI debt bubble",
+          "body_es": "Las grandes empresas de tecnología van a invertir 1.4 trillones de dólares en inteligencia artificial. Esta cantidad enorme de dinero preocupa a muchos expertos económicos. Ellos tienen temor de que se forme una burbuja de deuda peligrosa. Las empresas como Google, Microsoft y Apple están gastando muchísimo dinero en proyectos de IA. Esperan ganar mucho dinero en el futuro con estas inversiones. Pero algunos economistas piensan que están gastando demasiado dinero muy rápido. Si estos proyectos no tienen éxito, las empresas pueden tener problemas financieros graves. Esta situación recuerda a otras burbujas económicas del pasado que causaron crisis financieras.",
+          "body_en": "Big technology companies will invest 1.4 trillion dollars in artificial intelligence. This enormous amount of money worries many economic experts. They fear that a dangerous debt bubble will form. Companies like Google, Microsoft and Apple are spending tremendous amounts of money on AI projects. They hope to make a lot of money in the future with these investments. But some economists think they are spending too much money too quickly. If these projects are not successful, companies could have serious financial problems. This situation reminds us of other economic bubbles from the past that caused financial crises.",
+          "source": "Memeburn"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "resolución",
+          "syllables": "re-so-lu-CIÓN",
+          "pos": "sustantivo",
+          "context": "La Cámara aprobó una resolución sobre poderes de guerra.",
+          "definition_es": "Decisión formal tomada por un grupo o institución",
+          "definition_en": "Formal decision made by a group or institution"
+        },
+        {
+          "word": "votar",
+          "syllables": "vo-TAR",
+          "pos": "verbo",
+          "context": "Los republicanos votaron en contra de la propuesta.",
+          "definition_es": "Expresar preferencia en una elección o decisión",
+          "definition_en": "To express preference in an election or decision"
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral estadounidense está fuerte.",
+          "definition_es": "Sistema donde las personas buscan trabajo y las empresas buscan empleados",
+          "definition_en": "System where people look for jobs and companies look for employees"
+        },
+        {
+          "word": "frustrado",
+          "syllables": "frus-TRA-do",
+          "pos": "adjetivo",
+          "context": "Los americanos se sienten frustrados por los precios altos.",
+          "definition_es": "Que siente enojo o decepción por no conseguir lo que quiere",
+          "definition_en": "Feeling anger or disappointment for not getting what one wants"
+        },
+        {
+          "word": "precios",
+          "syllables": "PRE-cios",
+          "pos": "sustantivo",
+          "context": "Los precios de los productos están subiendo.",
+          "definition_es": "Cantidad de dinero que cuesta algo",
+          "definition_en": "Amount of money something costs"
+        },
+        {
+          "word": "deuda",
+          "syllables": "DEU-da",
+          "pos": "sustantivo",
+          "context": "Existe temor por una burbuja de deuda en tecnología.",
+          "definition_es": "Dinero que una persona o empresa debe pagar",
+          "definition_en": "Money that a person or company owes"
+        },
+        {
+          "word": "invertir",
+          "syllables": "in-ver-TIR",
+          "pos": "verbo",
+          "context": "Las empresas tecnológicas van a invertir mucho dinero.",
+          "definition_es": "Poner dinero en algo para ganar más dinero después",
+          "definition_en": "To put money into something to make more money later"
+        },
+        {
+          "word": "temor",
+          "syllables": "te-MOR",
+          "pos": "sustantivo",
+          "context": "Crece el temor sobre los problemas económicos futuros.",
+          "definition_es": "Sentimiento de miedo o preocupación",
+          "definition_en": "Feeling of fear or worry"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'resolución' en el contexto político?",
+          "options": [
+            "Una decisión formal",
+            "Un problema",
+            "Una pregunta",
+            "Una respuesta"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Cuando alguien está 'frustrado', se siente:",
+          "options": [
+            "Muy feliz",
+            "Enojado o decepcionado",
+            "Tranquilo",
+            "Emocionado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "El 'mercado laboral' es el lugar donde:",
+          "options": [
+            "Se compra comida",
+            "Se buscan trabajos",
+            "Se venden casas",
+            "Se estudia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'invertir' dinero?",
+          "options": [
+            "Gastarlo rápido",
+            "Ponerlo en algo para ganar más después",
+            "Regalarlo",
+            "Esconderlo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cómo votaron los republicanos de Wisconsin sobre la resolución de guerra?",
+          "options": [
+            "A favor",
+            "En contra",
+            "Se abstuvieron",
+            "No votaron"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el principal problema de los trabajadores americanos según la historia económica?",
+          "options": [
+            "No hay trabajos",
+            "Los precios están muy altos",
+            "Los jefes son malos",
+            "Las oficinas están lejos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero van a invertir las empresas de tecnología en IA?",
+          "options": [
+            "1.4 millones",
+            "1.4 billones",
+            "1.4 trillones",
+            "1.4 mil"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Por qué los demócratas apoyan la resolución sobre poderes de guerra?",
+          "options": [
+            "Quieren más guerras",
+            "Quieren control del Congreso",
+            "No les gusta el presidente",
+            "Quieren paz mundial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué problema tienen las familias americanas con el mercado laboral actual?",
+          "options": [
+            "No encuentran trabajo",
+            "Los salarios no suben tan rápido como los precios",
+            "Trabajan demasiado",
+            "Los trabajos están muy lejos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué los expertos tienen temor sobre las inversiones en IA?",
+          "options": [
+            "La IA es peligrosa",
+            "Puede formarse una burbuja de deuda",
+            "Las empresas van a quebrar",
+            "Los robots van a dominar"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-07T10:01:29.649489"
+    },
+    {
       "date": "2026-06-06",
       "filename": "spanish_lesson_2026-06-06.pdf",
       "path": "pdfs/spanish_lesson_2026-06-06.pdf",
@@ -40208,7 +40430,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-06T09:39:04.973847",
+  "last_updated": "2026-06-07T10:01:29.649519",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
