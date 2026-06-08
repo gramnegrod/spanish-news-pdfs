@@ -1,11 +1,159 @@
 {
-  "date": "2026-06-07",
-  "generated_at": "2026-06-07T10:03:55.354367Z",
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T10:39:46.579721Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 675,
-  "new_today": 5,
+  "total_stories": 679,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250608",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Mes de Conciencia sobre Heridas: La Intervención Temprana Mejora la Curación",
+      "headline_en": "Wound Care Awareness Month: Early Intervention Improves Healing",
+      "summary_es": "El mes de conciencia sobre heridas promueve la intervención temprana para mejores resultados. Los profesionales de salud deben educar a los pacientes sobre la importancia del cuidado adecuado.",
+      "body_es": "Junio es el mes de conciencia sobre heridas crónicas. Este mes especial promueve la educación sobre el cuidado de heridas. La intervención temprana es muy importante para la curación. Los profesionales de enfermería deben evaluar las heridas rápidamente. El tratamiento temprano previene complicaciones graves. Las heridas crónicas incluyen úlceras por presión y heridas diabéticas. El vendaje correcto acelera la cicatrización. Los pacientes necesitan educación sobre el cuidado en casa. Las infecciones retrasan la curación. Los apósitos modernos ayudan a las heridas. La prevención es más fácil que el tratamiento. Los enfermeros tienen un rol importante en la educación del paciente.",
+      "body_en": "June is Wound Care Awareness Month. This special month promotes education about wound care. Early intervention is very important for healing. Nursing professionals must assess wounds quickly. Early treatment prevents serious complications. Chronic wounds include pressure ulcers and diabetic wounds. Correct dressing accelerates scarring. Patients need education about home care. Infections delay healing. Modern dressings help wounds. Prevention is easier than treatment. Nurses have an important role in patient education.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVGlvRWJfcHFGcmJwYzFfcXZYYUVjdlI3R2ZMUVZGSDZ4QnNDZFAzUWQ0Y3BvOGtWWmhOYWRVcWdOUF9TTXVFb2RTbFRfVmVHWVE5T01LckNyTEp5M3NUWXZTX0xCemNIaC0wazhNYXhaNERYZVNhMW1LQ2RLcmhVeXBWU19FblhYQ1FkRkk4cG1iVjBzalB0M3YyTHNlZ0JwMGZYeFh3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-08/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión en la piel que tarda mucho tiempo en sanar",
+          "definition_en": "chronic wound - skin injury that takes a long time to heal"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se aplica sobre la herida para protegerla",
+          "definition_en": "dressing - material applied over the wound to protect it"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y recuperación de una herida",
+          "definition_en": "healing - process of scarring and recovery from a wound"
+        },
+        {
+          "word": "intervención temprana",
+          "definition_es": "tratamiento rápido de una herida desde el inicio",
+          "definition_en": "early intervention - quick treatment of a wound from the start"
+        }
+      ],
+      "added_at": "2026-06-08T10:39:46.579721Z"
+    },
+    {
+      "id": "diabetic-foot-20250608",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "amber",
+      "headline_es": "¿Por Qué Las Heridas Diabéticas No Cicatrizan? Un Enfoque Sistémico",
+      "headline_en": "Why Diabetic Foot Wounds Stop Healing: A Systemic Approach",
+      "summary_es": "Las heridas diabéticas presentan complicaciones especiales que requieren un enfoque multidisciplinario. El cirujano Yaroslav Popovych explica los mecanismos sistémicos que ralentizan la cicatrización en pacientes diabéticos.",
+      "body_es": "Las úlceras de pie diabético representan un desafío clínico complejo que afecta a millones de pacientes en todo el mundo. Según el enfoque sistémico del cirujano Yaroslav Popovych, la cicatrización deficiente en estas heridas no es únicamente un problema local de la piel, sino que está relacionada con factores sistémicos del paciente. La hiperglucemia crónica afecta la función inmunológica y reduce el flujo sanguíneo periférico, limitando el suministro de oxígeno a los tejidos. Además, los pacientes diabéticos presentan alteraciones en la inflamación y la respuesta de granulación. El tratamiento efectivo requiere control glucémico estricto, evaluación vascular completa, desbridamiento regular y apósitos avanzados. Los profesionales sanitarios deben adoptar un enfoque integral que considere la hemoglobina glucosilada, la perfusión tisular y la prevención de infecciones secundarias. La educación del paciente sobre el cuidado diario del pie es fundamental para prevenir amputaciones.",
+      "body_en": "Diabetic foot ulcers represent a complex clinical challenge affecting millions of patients worldwide. According to surgeon Yaroslav Popovych's systemic approach, poor healing in these wounds is not solely a local skin problem but is related to the patient's systemic factors. Chronic hyperglycemia affects immune function and reduces peripheral blood flow, limiting oxygen supply to tissues. Additionally, diabetic patients present with alterations in inflammation and granulation response. Effective treatment requires strict glycemic control, complete vascular evaluation, regular debridement, and advanced dressings. Healthcare professionals must adopt a comprehensive approach that considers glycosylated hemoglobin, tissue perfusion, and prevention of secondary infections. Patient education about daily foot care is essential to prevent amputations.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVk5uN1JVcnBoZmRSTjY4QTRjQlVPR3M0R08wY1l5NFdPTllLWGRxUm9RTk91Z19wRVIyUC0tRjhnVXAyVXN6UWxGLXZQNlJXVzJuVFVsTmxyRUwtRmg1cHZKM1BPSmUwTDNsVTVxX01RaEhjU0J2Mk8yZjgzUFZram1GMlZKLXctMDluRlN2cmp1Zl9yV0JMMkFCaFkxRVc4bWo0VmxIcXFodHpEeFMzLXBpUDFON2pNdnI3NGxVaGxsdmtnNlE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-08/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida crónica en el pie causada por la diabetes",
+          "definition_en": "diabetic ulcer - chronic wound on the foot caused by diabetes"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica del tejido necrótico o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "perfusión tisular",
+          "definition_es": "llegada de sangre oxigenada a los tejidos",
+          "definition_en": "tissue perfusion - delivery of oxygenated blood to tissues"
+        },
+        {
+          "word": "hiperglucemia",
+          "definition_es": "aumento anormal de glucosa en la sangre",
+          "definition_en": "hyperglycemia - abnormal increase of glucose in blood"
+        }
+      ],
+      "added_at": "2026-06-08T10:39:46.579721Z"
+    },
+    {
+      "id": "burn-care-20250608",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Científicos Imprimen Piel Viva en 3D para Regeneración de Vasos Sanguíneos",
+      "headline_en": "Scientists 3D Print Living Skin That Helps Grow Blood Vessels",
+      "summary_es": "Investigadores han desarrollado una tecnología de impresión 3D para crear piel viva que promueve la angiogénesis. Este avance promete revolucionar el tratamiento de quemaduras graves y heridas crónicas.",
+      "body_es": "Un equipo de científicos ha logrado un avance significativo en la ingeniería de tejidos mediante la impresión tridimensional de piel viva. Este biomaterial impreso contiene células vivas capaces de promover el crecimiento de nuevos vasos sanguíneos, un proceso conocido como angiogénesis. La piel impresa en 3D integra células epidérmicas, fibroblastos y células endoteliales en una estructura arquitectónica compleja. Esta tecnología es especialmente prometedora para el tratamiento de quemaduras extensas y úlceras crónicas que no responden a tratamientos convencionales. Los vasos sanguíneos nuevos mejoran la oxigenación y nutrición del tejido regenerado, acelerando la cicatrización. Los investigadores utilizaron biomateriales biocompatibles que mantienen la viabilidad celular durante el proceso de impresión. Las aplicaciones clínicas podrían disponerse en los próximos años, transformando el cuidado de heridas profundas. Este enfoque representa una alternativa a los injertos de piel tradicionales.",
+      "body_en": "A team of scientists has achieved a significant breakthrough in tissue engineering by three-dimensionally printing living skin. This biomaterial contains living cells capable of promoting the growth of new blood vessels, a process known as angiogenesis. The 3D-printed skin integrates epidermal cells, fibroblasts, and endothelial cells in a complex architectural structure. This technology is especially promising for treating extensive burns and chronic ulcers that do not respond to conventional treatments. New blood vessels improve oxygenation and nutrition of regenerated tissue, accelerating healing. Researchers used biocompatible biomaterials that maintain cell viability during the printing process. Clinical applications could become available in the coming years, transforming the care of deep wounds. This approach represents an alternative to traditional skin grafts.",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRlB3bmt4Ymw1Q013a0hkd1NWY0RGRVhoME1VblV3OV8wWE5pYWQ3VXZZbThyaU1zMjVvZVhaWkVwTVN1YldaanZiaEczMUxnYmw0V3E5T000VmFVT0pvb3ZRX2Q5a1phZ0IwdXl2bGprUW9xYmFPOEd3SWgzN0FaeHF3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-08/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "bioimpresión",
+          "definition_es": "técnica para imprimir células vivas en tres dimensiones",
+          "definition_en": "bioprinting - technique to print living cells in three dimensions"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos",
+          "definition_en": "angiogenesis - formation of new blood vessels"
+        },
+        {
+          "word": "biomaterial",
+          "definition_es": "material biológico compatible con el cuerpo humano",
+          "definition_en": "biomaterial - biological material compatible with human body"
+        },
+        {
+          "word": "fibroblasto",
+          "definition_es": "célula que produce colágeno en los tejidos de cicatrización",
+          "definition_en": "fibroblast - cell that produces collagen in healing tissues"
+        }
+      ],
+      "added_at": "2026-06-08T10:39:46.579721Z"
+    },
+    {
+      "id": "surgical-wounds-20250608",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Reconstrucción de Herida Pretibial Compleja Usando Plantilla Regeneradora",
+      "headline_en": "Reconstruction of Complex Pretibial Wound Using Dermal Regeneration Template",
+      "summary_es": "Un caso clínico demuestra la efectividad de las plantillas de regeneración dérmica combinadas con injerto de piel parcial en la reconstrucción de heridas pretibiales complejas.",
+      "body_es": "Una herida pretibial compleja fue reconstruida exitosamente utilizando una combinación de plantilla de regeneración dérmica y injerto de piel de espesor parcial. Las heridas pretibiales presentan desafíos especiales debido a la vascularización limitada y la poca elasticidad de la piel en esta región anterior de la tibia. La plantilla de regeneración dérmica actúa como matriz extracelular que facilita la formación de nuevo tejido conectivo y la angiogénesis. El procedimiento quirúrgico incluyó desbridamiento cuidadoso del tejido necrótico, aplicación de la matriz dérmica y cobertura con injerto de piel parcial después de una semana. Este enfoque en dos fases permite una mejor integración vascular antes de la epitelización definitiva. El paciente fue monitorizado durante el proceso de cicatrización con evaluaciones regulares de granulación y exudado. Esta técnica reconstructiva proporciona resultados funcionales y estéticos superiores comparados con cicatrización por segunda intención. Los estudios demuestran tasas de éxito del injerto superiores al noventa por ciento con esta metodología.",
+      "body_en": "A complex pretibial wound was successfully reconstructed using a combination of dermal regeneration template and split-thickness skin graft. Pretibial wounds present special challenges due to limited vascularization and poor skin elasticity in the anterior tibial region. The dermal regeneration template acts as an extracellular matrix that facilitates formation of new connective tissue and angiogenesis. The surgical procedure included careful debridement of necrotic tissue, application of the dermal matrix, and coverage with split-thickness skin graft after one week. This two-phase approach allows better vascular integration before definitive epithelialization. The patient was monitored during the healing process with regular assessments of granulation and exudate. This reconstructive technique provides superior functional and aesthetic results compared to healing by secondary intention. Studies demonstrate graft success rates above ninety percent with this methodology.",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd2pJX2g4TzN1Slhvb1JCbU9la19nSFNMb2Jub0NVdnNKSGFqRHJERnVHellxRHRIZkJnMElHZVZ1WUtfWHVodWpUbWFGSEFQU2g2M3pnWTNZNVc3cjdDXzk4c2FnZHFlcDBYWnRsOWxuaFptTFdkQ0pKR0l3YlFfZGpUZWVLWWhlYVpYUlhYdlRXUHdLOFpBSXphUVZLVTFDTzlKLWJTaVpzWU9JSy1haUZrdjZ5TUZ3TkdXb2J5WE1PeXNzN2lnR2N1RDZfRldQY052UXZkcXZqZkVvb1ZlMmJiZ3ZVMXAzbTViMUdYSW85b1MwRnlwcVpyZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-08/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "plantilla de regeneración dérmica",
+          "definition_es": "matriz biológica que estimula el crecimiento de tejido dérmico nuevo",
+          "definition_en": "dermal regeneration template - biological matrix that stimulates new dermal tissue growth"
+        },
+        {
+          "word": "injerto de piel de espesor parcial",
+          "definition_es": "trasplante de piel que incluye epidermis y parte de la dermis",
+          "definition_en": "split-thickness skin graft - transplant including epidermis and part of dermis"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nuevo epitelio sobre la herida",
+          "definition_en": "epithelialization - process of new epithelium formation over wound"
+        },
+        {
+          "word": "herida pretibial",
+          "definition_es": "lesión en la cara anterior de la tibia con cicatrización lenta",
+          "definition_en": "pretibial wound - injury on anterior tibial surface with slow healing"
+        }
+      ],
+      "added_at": "2026-06-08T10:39:46.579721Z"
+    },
     {
       "id": "chronic-wounds-20250607",
       "category": "Chronic Wounds",
@@ -24976,6 +25124,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-07T10:03:55.354367Z",
+  "last_updated": "2026-06-08T10:39:46.579721Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
