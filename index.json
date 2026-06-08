@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-08",
+      "filename": "spanish_lesson_2026-06-08.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-08.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Republicanos de Nevada eligen nuevo representante",
+          "headline_en": "Nevada Republicans choose new representative",
+          "body_es": "En Nevada, los republicanos deben elegir un nuevo representante. El representante Mark Amodei necesita un reemplazante. Hay dos candidatos principales en esta elección. El primer candidato tiene el apoyo de Donald Trump. El segundo candidato es una persona muy experimentada en política. Los votantes republicanos deben decidir entre estas dos opciones. Esta elección es importante para el futuro del partido republicano en Nevada. El candidato con apoyo de Trump es nuevo en política. El candidato experimentado ha trabajado en el gobierno por muchos años. La votación será pronto y los resultados afectarán la representación de Nevada.",
+          "body_en": "In Nevada, Republicans must choose a new representative. Representative Mark Amodei needs a replacement. There are two main candidates in this election. The first candidate has Donald Trump's support. The second candidate is a very experienced person in politics. Republican voters must decide between these two options. This election is important for the future of the Republican party in Nevada. The Trump-supported candidate is new to politics. The experienced candidate has worked in government for many years. The vote will be soon and the results will affect Nevada's representation.",
+          "source": "San Francisco Chronicle"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Caída de chips borra 1.3 billones del mercado",
+          "headline_en": "Chip slump erases 1.3 trillion from market",
+          "body_es": "El mercado de valores perdió mucho dinero esta semana. La caída en las ventas de chips de computadora causó grandes problemas. Se perdieron 1.3 billones de dólares del valor total del mercado. Los chips son muy importantes para la tecnología moderna. Cuando las ventas de chips bajan, muchas empresas tecnológicas sufren. Los inversores vendieron sus acciones rápidamente. Esta situación preocupa a los expertos económicos. Las empresas que hacen chips vieron bajar el precio de sus acciones. También las empresas que usan chips en sus productos tuvieron problemas. Los analistas dicen que esta crisis puede durar varios meses. El mercado necesita tiempo para recuperarse de estas pérdidas.",
+          "body_en": "The stock market lost a lot of money this week. The drop in computer chip sales caused big problems. 1.3 trillion dollars were lost from the market's total value. Chips are very important for modern technology. When chip sales go down, many tech companies suffer. Investors sold their stocks quickly. This situation worries economic experts. Companies that make chips saw their stock prices fall. Companies that use chips in their products also had problems. Analysts say this crisis could last several months. The market needs time to recover from these losses.",
+          "source": "The Business Standard"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Venta masiva de acciones tecnológicas se acelera",
+          "headline_en": "Tech stock sell-off accelerates massively",
+          "body_es": "La venta de acciones de empresas tecnológicas continúa acelerándose. SoftBank, una empresa japonesa muy importante, perdió 6% de su valor. Los inversores están preocupados por las empresas de inteligencia artificial. Muchas personas pensaron que estas empresas valían mucho dinero. Ahora creen que los precios estaban demasiado altos. La inteligencia artificial fue muy popular entre los inversores el año pasado. Pero ahora hay dudas sobre su rentabilidad real. SoftBank invierte mucho dinero en empresas de tecnología avanzada. Otras empresas similares también perdieron valor en la bolsa. Los expertos dicen que el mercado está corrigiendo precios muy altos. Esta situación afecta a muchas empresas tecnológicas en todo el mundo.",
+          "body_en": "The selling of technology company stocks continues to accelerate. SoftBank, a very important Japanese company, lost 6% of its value. Investors are worried about artificial intelligence companies. Many people thought these companies were worth a lot of money. Now they believe the prices were too high. Artificial intelligence was very popular among investors last year. But now there are doubts about its real profitability. SoftBank invests a lot of money in advanced technology companies. Other similar companies also lost value in the stock market. Experts say the market is correcting very high prices. This situation affects many technology companies around the world.",
+          "source": "CNBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "reemplazar",
+          "syllables": "re-em-pla-SAR",
+          "pos": "verbo",
+          "context": "Los republicanos buscan reemplazar al representante Mark Amodei.",
+          "definition_es": "Sustituir o cambiar una persona o cosa por otra",
+          "definition_en": "To replace or substitute one person or thing for another"
+        },
+        {
+          "word": "experimentado",
+          "syllables": "ex-pe-ri-men-TA-do",
+          "pos": "adjetivo",
+          "context": "Hay un candidato experimentado contra uno apoyado por Trump.",
+          "definition_es": "Que tiene mucha experiencia o práctica en algo",
+          "definition_en": "Having much experience or practice in something"
+        },
+        {
+          "word": "borrar",
+          "syllables": "bo-RRAR",
+          "pos": "verbo",
+          "context": "La caída de chips borró 1.3 billones del mercado.",
+          "definition_es": "Hacer desaparecer o eliminar algo completamente",
+          "definition_en": "To make something disappear or eliminate it completely"
+        },
+        {
+          "word": "valor",
+          "syllables": "va-LOR",
+          "pos": "sustantivo",
+          "context": "Se perdió mucho valor en el mercado de acciones.",
+          "definition_es": "Precio o importancia que tiene algo",
+          "definition_en": "Price or importance that something has"
+        },
+        {
+          "word": "acelerar",
+          "syllables": "a-ce-le-RAR",
+          "pos": "verbo",
+          "context": "La venta de acciones tecnológicas se acelera.",
+          "definition_es": "Hacer que algo vaya más rápido",
+          "definition_en": "To make something go faster"
+        },
+        {
+          "word": "inversores",
+          "syllables": "in-ver-SO-res",
+          "pos": "sustantivo",
+          "context": "Los inversores están preocupados por las empresas de inteligencia artificial.",
+          "definition_es": "Personas que ponen dinero en negocios para ganar más",
+          "definition_en": "People who put money into businesses to earn more"
+        },
+        {
+          "word": "caída",
+          "syllables": "ca-Í-da",
+          "pos": "sustantivo",
+          "context": "La caída de las acciones fue muy grande.",
+          "definition_es": "Descenso o bajada de algo",
+          "definition_en": "Descent or drop of something"
+        },
+        {
+          "word": "apoyo",
+          "syllables": "a-PO-yo",
+          "pos": "sustantivo",
+          "context": "El candidato tiene el apoyo de Trump.",
+          "definition_es": "Ayuda o respaldo que se da a alguien",
+          "definition_en": "Help or support given to someone"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'reemplazar'?",
+          "options": [
+            "Sustituir una cosa por otra",
+            "Comprar algo nuevo",
+            "Vender rápidamente",
+            "Ganar dinero"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una persona 'experimentada' es alguien que:",
+          "options": [
+            "Es muy joven",
+            "Tiene mucha práctica",
+            "No sabe nada",
+            "Está enfermo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué hacen los 'inversores'?",
+          "options": [
+            "Ponen dinero en negocios",
+            "Cocinan comida",
+            "Enseñan en escuelas",
+            "Reparan carros"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Acelerar' significa:",
+          "options": [
+            "Ir más lento",
+            "Parar completamente",
+            "Ir más rápido",
+            "Cambiar de dirección"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "En Nevada, ¿quién necesita un reemplazante?",
+          "options": [
+            "Donald Trump",
+            "Mark Amodei",
+            "Un candidato nuevo",
+            "Los votantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero se perdió en el mercado por la caída de chips?",
+          "options": [
+            "1.3 millones",
+            "1.3 billones",
+            "6 millones",
+            "6 billones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué porcentaje perdió SoftBank?",
+          "options": [
+            "3%",
+            "4%",
+            "5%",
+            "6%"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la nacionalidad de SoftBank?",
+          "options": [
+            "Americana",
+            "Japonesa",
+            "China",
+            "Coreana"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué están preocupados los inversores?",
+          "options": [
+            "Por las empresas de inteligencia artificial",
+            "Por el clima",
+            "Por las elecciones",
+            "Por la comida"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué son importantes para la tecnología moderna?",
+          "options": [
+            "Los chips",
+            "Las elecciones",
+            "Los candidatos",
+            "Las ventas"
+          ],
+          "answer": "A"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-08T10:31:03.006891"
+    },
+    {
       "date": "2026-06-07",
       "filename": "spanish_lesson_2026-06-07.pdf",
       "path": "pdfs/spanish_lesson_2026-06-07.pdf",
@@ -40430,7 +40652,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-07T10:01:29.649519",
+  "last_updated": "2026-06-08T10:31:03.006923",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
