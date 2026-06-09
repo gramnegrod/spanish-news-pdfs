@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-09",
+      "filename": "spanish_lesson_2026-06-09.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-09.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos aprueba nueva ley sobre Georgia",
+          "headline_en": "United States approves new law about Georgia",
+          "body_es": "El Congreso de Estados Unidos aprobó una nueva ley importante. Esta ley habla sobre la influencia de China y Rusia en el país de Georgia. Georgia es una nación pequeña entre Europa y Asia. Los políticos estadounidenses creen que China y Rusia tienen demasiada influencia allí. La nueva ley quiere proteger a Georgia de esta influencia extranjera. También quiere ayudar a Georgia a mantener su independencia. Los congresistas votaron por esta ley porque quieren apoyar a Georgia. Esta decisión muestra que Estados Unidos se preocupa por la seguridad internacional. La ley también incluye ayuda económica para Georgia.",
+          "body_en": "The US Congress approved a new important law. This law talks about China and Russia's influence in the country of Georgia. Georgia is a small nation between Europe and Asia. American politicians believe that China and Russia have too much influence there. The new law wants to protect Georgia from this foreign influence. It also wants to help Georgia maintain its independence. Congressmen voted for this law because they want to support Georgia. This decision shows that the United States cares about international security. The law also includes economic aid for Georgia.",
+          "source": "sovanews.tv"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los estadounidenses se preocupan más por el dinero",
+          "headline_en": "Americans worry more about money",
+          "body_es": "Una nueva encuesta muestra que los estadounidenses están muy preocupados. Muchas personas tienen miedo de perder su trabajo. También están nerviosas por sus finanzas personales. Los precios de la comida y la vivienda han subido mucho. Por eso, las familias tienen menos dinero para gastar. Los expertos dicen que la economía no está bien. Muchos trabajadores piensan que van a despedirlos pronto. Esta situación hace que la gente compre menos cosas. Los estadounidenses no están contentos con cómo van las cosas en el país. Esta preocupación económica puede afectar las próximas elecciones presidenciales.",
+          "body_en": "A new survey shows that Americans are very worried. Many people are afraid of losing their jobs. They are also nervous about their personal finances. Food and housing prices have risen a lot. Therefore, families have less money to spend. Experts say the economy is not doing well. Many workers think they will be fired soon. This situation makes people buy fewer things. Americans are not happy with how things are going in the country. This economic concern may affect the upcoming presidential elections.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "OpenAI quiere vender acciones al público",
+          "headline_en": "OpenAI wants to sell shares to the public",
+          "body_es": "OpenAI es la empresa que creó ChatGPT, un programa de inteligencia artificial muy popular. Ahora la empresa quiere vender acciones en la bolsa de valores. Esto significa que cualquier persona puede comprar una parte pequeña de la empresa. OpenAI presentó documentos confidenciales para empezar este proceso. Si todo va bien, la gente podrá comprar acciones de OpenAI pronto. Muchas otras empresas de inteligencia artificial también quieren hacer lo mismo. Estas empresas crecen muy rápido y necesitan más dinero. Los inversionistas están muy interesados en la tecnología de inteligencia artificial. OpenAI puede ganar mucho dinero con esta venta.",
+          "body_en": "OpenAI is the company that created ChatGPT, a very popular artificial intelligence program. Now the company wants to sell shares on the stock market. This means that anyone can buy a small part of the company. OpenAI submitted confidential documents to start this process. If everything goes well, people will be able to buy OpenAI shares soon. Many other artificial intelligence companies also want to do the same. These companies are growing very fast and need more money. Investors are very interested in artificial intelligence technology. OpenAI can make a lot of money from this sale.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "influencia",
+          "syllables": "in-fluen-CIA",
+          "pos": "sustantivo",
+          "context": "El Congreso aprobó una ley sobre la influencia china y rusa.",
+          "definition_es": "El poder de cambiar o afectar las decisiones de otros",
+          "definition_en": "The power to change or affect others' decisions"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El Congreso estadounidense aprobó una nueva ley.",
+          "definition_es": "Aceptar oficialmente una propuesta o ley",
+          "definition_en": "To officially accept a proposal or law"
+        },
+        {
+          "word": "preocupado",
+          "syllables": "pre-o-cu-PA-do",
+          "pos": "adjetivo",
+          "context": "Los estadounidenses están preocupados por sus empleos.",
+          "definition_es": "Que siente inquietud o temor por algo",
+          "definition_en": "Feeling worried or anxious about something"
+        },
+        {
+          "word": "finanzas",
+          "syllables": "fi-NAN-zas",
+          "pos": "sustantivo",
+          "context": "La gente está nerviosa por sus finanzas personales.",
+          "definition_es": "El dinero y los asuntos económicos de una persona",
+          "definition_en": "Money and economic affairs of a person"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "OpenAI es una empresa de inteligencia artificial.",
+          "definition_es": "Una organización comercial que vende productos o servicios",
+          "definition_en": "A commercial organization that sells products or services"
+        },
+        {
+          "word": "confidencial",
+          "syllables": "con-fi-den-CIAL",
+          "pos": "adjetivo",
+          "context": "OpenAI presentó documentos confidenciales para su venta pública.",
+          "definition_es": "Información secreta que no se puede compartir públicamente",
+          "definition_en": "Secret information that cannot be shared publicly"
+        },
+        {
+          "word": "artificial",
+          "syllables": "ar-ti-fi-CIAL",
+          "pos": "adjetivo",
+          "context": "Las empresas de inteligencia artificial crecen rápidamente.",
+          "definition_es": "Creado por humanos, no natural",
+          "definition_en": "Created by humans, not natural"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense preocupa a los ciudadanos.",
+          "definition_es": "El sistema de dinero y comercio de un país",
+          "definition_en": "The money and trade system of a country"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'influencia'?",
+          "options": [
+            "El poder de afectar decisiones",
+            "Un tipo de dinero",
+            "Una empresa grande",
+            "Un país extranjero"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'aprobar'?",
+          "options": [
+            "Rechazar algo",
+            "Aceptar oficialmente",
+            "Comprar acciones",
+            "Estar preocupado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'finanzas'?",
+          "options": [
+            "Leyes del gobierno",
+            "Programas de computadora",
+            "Asuntos de dinero",
+            "Países extranjeros"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'confidencial'?",
+          "options": [
+            "Muy caro",
+            "Información secreta",
+            "Artificial",
+            "Muy grande"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según el texto, ¿qué aprobó el Congreso estadounidense?",
+          "options": [
+            "Una ley sobre Georgia",
+            "Un programa de computadora",
+            "Una empresa nueva",
+            "Un plan económico"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué están preocupados los estadounidenses?",
+          "options": [
+            "Por la tecnología",
+            "Por sus trabajos y dinero",
+            "Por las elecciones",
+            "Por otros países"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa creó ChatGPT?",
+          "options": [
+            "Google",
+            "Microsoft",
+            "OpenAI",
+            "Apple"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Dónde está ubicado el país de Georgia?",
+          "options": [
+            "En América del Norte",
+            "Entre Europa y Asia",
+            "En América del Sur",
+            "En África"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué han hecho los precios de comida y vivienda?",
+          "options": [
+            "Han bajado",
+            "Se mantienen igual",
+            "Han subido mucho",
+            "Desaparecieron"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué quiere hacer OpenAI en la bolsa de valores?",
+          "options": [
+            "Comprar otras empresas",
+            "Vender acciones",
+            "Crear nueva tecnología",
+            "Cerrar la empresa"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-09T10:12:22.871895"
+    },
+    {
       "date": "2026-06-08",
       "filename": "spanish_lesson_2026-06-08.pdf",
       "path": "pdfs/spanish_lesson_2026-06-08.pdf",
@@ -40652,7 +40874,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-08T10:31:03.006923",
+  "last_updated": "2026-06-09T10:12:22.871928",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
