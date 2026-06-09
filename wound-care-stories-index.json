@@ -1,11 +1,159 @@
 {
-  "date": "2026-06-08",
-  "generated_at": "2026-06-08T10:39:46.579721Z",
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T10:18:17.531625Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 679,
+  "total_stories": 683,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250609",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Aceite Natural Ayuda a Sanar Heridas Crónicas",
+      "headline_en": "Natural Oil Helps Heal Chronic Wounds",
+      "summary_es": "Un nuevo estudio muestra que el aceite esencial de Cymbopogon proximus acelera la curación de heridas y reduce la inflamación. Este tratamiento natural puede mejorar el cuidado de heridas crónicas.",
+      "body_es": "Los investigadores descubrieron que el aceite esencial de Cymbopogon proximus es muy efectivo para sanar heridas crónicas. El aceite reduce la inflamación de la piel dañada. Las heridas crónicas son lesiones que no cierran rápidamente. Este problema afecta a muchos pacientes con diabetes y otras enfermedades. El estudio usa farmacología de redes para entender cómo funciona el aceite. Los resultados muestran que el tratamiento natural acelera el proceso de curación. Los vendajes con este aceite pueden ayudar a los pacientes a recuperarse mejor. Es un tratamiento seguro y natural para heridas difíciles.",
+      "body_en": "Researchers discovered that Cymbopogon proximus essential oil is very effective for healing chronic wounds. The oil reduces inflammation of damaged skin. Chronic wounds are injuries that do not close quickly. This problem affects many patients with diabetes and other diseases. The study uses network pharmacology to understand how the oil works. The results show that the natural treatment accelerates the healing process. Dressings with this oil can help patients recover better. It is a safe and natural treatment for difficult wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10cXY2cUtJc3BpNERNQnp3UXFxRzVMM09IRHRQakkzZThWeVg0U1gwNkNkZ21uOWZ2S2t2T2txX28xR0JuMXc2YkdDRENYbHVhLUppcXh0SUpVbV8tN2FZ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-09/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra rápidamente",
+          "definition_en": "chronic wound - injury that does not close quickly"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "enrojecimiento y hinchazón de la piel",
+          "definition_en": "inflammation - redness and swelling of skin"
+        },
+        {
+          "word": "aceite esencial",
+          "definition_es": "líquido natural de las plantas",
+          "definition_en": "essential oil - natural liquid from plants"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of wound recovery"
+        }
+      ],
+      "added_at": "2026-06-09T10:18:17.531625Z"
+    },
+    {
+      "id": "burn-care-20250609",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Impresión 3D Crea Piel Viva con Vasos Sanguíneos",
+      "headline_en": "3D Printing Creates Living Skin with Blood Vessels",
+      "summary_es": "Científicos desarrollaron una técnica innovadora de impresión 3D que crea piel viva capaz de desarrollar vasos sanguíneos propios. Este avance promete mejorar significativamente el tratamiento de quemaduras graves.",
+      "body_es": "Los científicos han logrado imprimir piel viva en tres dimensiones utilizando una técnica revolucionaria de bioimpresión. La piel impresa contiene células vivas que pueden desarrollar sus propios vasos sanguíneos. Este descubrimiento es especialmente importante para pacientes con quemaduras extensas. Cuando se aplica la piel bioimpresa sobre una quemadura, los vasos sanguíneos comienzan a crecer y conectarse con el tejido circundante. El proceso de regeneración vascular es crucial para que la piel injertada sobreviva y funcione adecuadamente. Los investigadores utilizaron biomateriales especiales que permiten que las células vivas permanezcan viables durante el proceso de impresión. Este tratamiento podría reducir significativamente el tiempo de recuperación y mejorar los resultados estéticos para los pacientes quemados. Los ensayos clínicos continúan para validar esta tecnología innovadora.",
+      "body_en": "Scientists have successfully printed living skin in three dimensions using a revolutionary bioprinting technique. The printed skin contains living cells that can develop their own blood vessels. This discovery is especially important for patients with extensive burns. When the bioprinted skin is applied to a burn, blood vessels begin to grow and connect with surrounding tissue. The process of vascular regeneration is crucial for the grafted skin to survive and function properly. Researchers used special biomaterials that allow living cells to remain viable during the printing process. This treatment could significantly reduce recovery time and improve cosmetic outcomes for burn patients. Clinical trials continue to validate this innovative technology.",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRlB3bmt4Ymw1Q013a0hkd1NWY0RGRVhoME1VblV3OV8wWE5pYWQ3VXZZbThyaU1zMjVvZVhaWkVwTVN1YldaanZiaEczMUxnYmw0V3E5T000VmFVT0pvb3ZRX2Q5a1phZ0IwdXl2bGprUW9xYmFPOEd3SWgzN0FaeHF3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-09/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "bioimpresión",
+          "definition_es": "técnica de imprimir células vivas en 3D",
+          "definition_en": "bioprinting - technique of printing living cells in 3D"
+        },
+        {
+          "word": "vasos sanguíneos",
+          "definition_es": "tubos que transportan la sangre",
+          "definition_en": "blood vessels - tubes that carry blood"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor o fuego",
+          "definition_en": "burn - injury caused by heat or fire"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "piel o tejido trasplantado",
+          "definition_en": "graft - transplanted skin or tissue"
+        }
+      ],
+      "added_at": "2026-06-09T10:18:17.531625Z"
+    },
+    {
+      "id": "surgical-wounds-20250609",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Nuevos Apósitos para Heridas Bucales Mejoran la Recuperación",
+      "headline_en": "New Dressings for Oral Wounds Improve Recovery",
+      "summary_es": "El mercado de apósitos para heridas bucales está creciendo con nuevas tecnologías que mejoran la cicatrización después de procedimientos quirúrgicos. Se espera un crecimiento significativo en el período 2026-2033.",
+      "body_es": "Los apósitos para heridas bucales son materiales especializados diseñados para proteger y acelerar la cicatrización después de cirugías dentales y orales. Según un análisis reciente de Grand View Research, este mercado presenta un crecimiento prometedor entre 2026 y 2033. Los nuevos apósitos contienen ingredientes activos que reducen la infección y promueven la epitelización más rápida. Las heridas quirúrgicas en la boca requieren cuidados especiales porque están constantemente expuestas a la humedad y a bacterias orales. Los profesionales de la salud bucal utilizan estos apósitos después de procedimientos como extracciones dentales, implantes y cirugías periodontales. Las características clave de los apósitos modernos incluyen adhesión mejorada, liberación controlada de medicamentos y biocompatibilidad superior. El crecimiento del mercado refleja la demanda creciente de tratamientos que mejoren los resultados quirúrgicos y la comodidad del paciente.",
+      "body_en": "Oral wound dressings are specialized materials designed to protect and accelerate healing after dental and oral surgeries. According to a recent analysis by Grand View Research, this market shows promising growth between 2026 and 2033. New dressings contain active ingredients that reduce infection and promote faster epithelialization. Surgical wounds in the mouth require special care because they are constantly exposed to moisture and oral bacteria. Oral health professionals use these dressings after procedures such as tooth extractions, implants, and periodontal surgery. Key features of modern dressings include improved adhesion, controlled drug release, and superior biocompatibility. Market growth reflects increasing demand for treatments that improve surgical outcomes and patient comfort.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWnBTOGlkTEdOUHg5Ykp0enJCejM0N1NHY1d4QWJ3LXJnX01Qc25wVmFFc1ZkVzFPOFhNYmJBUkF5ajZyeC1OOFZpQjFfaFgycXRuRXZKbUl5SW9BSkZfaFhlNkhkc1pKNzF4QTI4OE41RkEyZ1ZYQVhBNFZFaGlIRHFZYXN0OXcweHkyZ3NR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-09/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre una herida",
+          "definition_en": "dressing - material that covers a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de piel nueva sobre la herida",
+          "definition_en": "epithelialization - formation of new skin over wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y curación de herida",
+          "definition_en": "scarring - process of wound closure and healing"
+        },
+        {
+          "word": "biocompatibilidad",
+          "definition_es": "capacidad de un material de ser tolerado por los tejidos",
+          "definition_en": "biocompatibility - ability of material to be tolerated by tissues"
+        }
+      ],
+      "added_at": "2026-06-09T10:18:17.531625Z"
+    },
+    {
+      "id": "wound-research-20250609",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación en Heridas: Nuevas Terapias para Mejorar Cicatrización",
+      "headline_en": "Wound Research: New Therapies to Improve Scarring",
+      "summary_es": "Los investigadores trabajan en nuevas terapias innovadoras para mejorar el proceso de cicatrización y reducir la formación de cicatrices visibles. Los avances incluyen el uso de técnicas de ingeniería tisular y biomateriales avanzados.",
+      "body_es": "La investigación moderna en heridas se enfoca en desarrollar terapias que mejoren la cicatrización y reduzcan las complicaciones post-quirúrgicas. Los científicos utilizan técnicas de ingeniería tisular para crear sustitutos de piel que favorecen la curación natural. El proceso de cicatrización implica varias fases: inflamación, proliferación y remodelado de tejido. Durante la fase de proliferación, se forma colágeno nuevo que proporciona resistencia a la herida. La investigación examina cómo acelerar esta fase sin crear cicatrices excesivas. Los biomateriales innovadores actúan como andamios biológicos que guían el crecimiento celular y la regeneración tisular. Estos materiales pueden liberar factores de crecimiento que estimulan la angiogénesis y la neovascularización. Los estudios clínicos demuestran que estas nuevas terapias reducen significativamente la morbilidad y mejoran los resultados cosméticos. La investigación continúa explorando aplicaciones en diferentes tipos de heridas traumáticas, quirúrgicas y crónicas.",
+      "body_en": "Modern wound research focuses on developing therapies that improve scarring and reduce post-surgical complications. Scientists use tissue engineering techniques to create skin substitutes that favor natural healing. The scarring process involves several phases: inflammation, proliferation, and tissue remodeling. During the proliferation phase, new collagen forms that provides wound strength. Research examines how to accelerate this phase without creating excessive scars. Innovative biomaterials act as biological scaffolds that guide cell growth and tissue regeneration. These materials can release growth factors that stimulate angiogenesis and neovascularization. Clinical studies demonstrate that these new therapies significantly reduce morbidity and improve cosmetic outcomes. Research continues exploring applications in different types of traumatic, surgical, and chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaTFMN2l3U05TNTFlM2FfUVU5SXp3WHBNdUR5eDBva0lNNFFoQ3NlVWdNUXU0RXI0VTZuTnU3TmQ0ME1LbU1IMmxuX2NaemJrSkZ0SWRBSFY2dlRYTDl4OFlneDZmcmVUVmVHLVdLWDVXSVhRTlBqSzZycWV6ZVAzaDFJZlNhT0V3UWkxN2ZLUXVJMlZXb08yUmpLbEtOV3hINHVtVF80YlIyTGVsME9wV0dEVWlYVEZHdUxLRFI3VnJ0cGVQcjVoSV9sLWh5c0ZW?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-09/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "ingeniería tisular",
+          "definition_es": "técnica para regenerar tejidos dañados",
+          "definition_en": "tissue engineering - technique to regenerate damaged tissues"
+        },
+        {
+          "word": "biomaterial",
+          "definition_es": "material biocompatible para usar en el cuerpo",
+          "definition_en": "biomaterial - biocompatible material for body use"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos",
+          "definition_en": "angiogenesis - formation of new blood vessels"
+        },
+        {
+          "word": "factores de crecimiento",
+          "definition_es": "proteínas que estimulan el crecimiento celular",
+          "definition_en": "growth factors - proteins that stimulate cell growth"
+        }
+      ],
+      "added_at": "2026-06-09T10:18:17.531625Z"
+    },
     {
       "id": "chronic-wounds-20250608",
       "category": "Chronic Wounds",
@@ -25124,6 +25272,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-08T10:39:46.579721Z",
+  "last_updated": "2026-06-09T10:18:17.531625Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
