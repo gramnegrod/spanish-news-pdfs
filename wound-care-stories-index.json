@@ -1,11 +1,122 @@
 {
-  "date": "2026-06-09",
-  "generated_at": "2026-06-09T10:18:17.531625Z",
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T10:29:04.528905Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 683,
-  "new_today": 4,
+  "total_stories": 686,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250610",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nanotecnología Nueva para Curar Heridas Crónicas",
+      "headline_en": "New Nanotechnology for Healing Chronic Wounds",
+      "summary_es": "Una empresa estona desarrolla una tecnología con nanopartículas para mejorar la curación de heridas crónicas. Este avance promete tratamientos más efectivos para pacientes con úlceras de larga duración.",
+      "body_es": "Una empresa de tecnología en Estonia crea un tratamiento nuevo con nanopartículas. Este tratamiento ayuda a curar heridas crónicas más rápido. Las heridas crónicas son difíciles de curar. Los pacientes esperan semanas o meses para mejorar. La nanotecnología acelera el proceso de curación. Las nanopartículas penetran profundamente en el tejido dañado. Estimulan las células para reparar la herida. Los médicos dicen que este método es muy prometedor. Pueden reducir infecciones y complicaciones. El tratamiento está en desarrollo para uso clínico próximo. Los profesionales de la salud esperan buenos resultados.",
+      "body_en": "A technology company in Estonia is creating a new treatment with nanoparticles. This treatment helps heal chronic wounds faster. Chronic wounds are difficult to cure. Patients wait weeks or months to improve. Nanotechnology accelerates the healing process. Nanoparticles penetrate deeply into damaged tissue. They stimulate cells to repair the wound. Doctors say this method is very promising. It can reduce infections and complications. The treatment is in development for upcoming clinical use. Healthcare professionals expect good results.",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTdXNDBTa2NxOGFVWm9RV3VSdDhPcGZZOWhqX3JyWnlwbUJmZ1NMUmJrRG1BM2ZteFo3RUlTVFBQX2MybzkySkZFY0RpSl92UWRGWTFHXzNjdTJpX1F1OC03a3JCa2d2bnR3WUw5SEdSbUpqLVFGbGVzT0ZRNjBCcGtEZ25Cb0cxaU14MTRudzg5ZW9YZzMtTjJpYUZkdkk",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-10/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "nanotecnología",
+          "definition_es": "tecnología con partículas muy pequeñas",
+          "definition_en": "nanotechnology - technology with very small particles"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "conjunto de células del cuerpo",
+          "definition_en": "tissue - group of cells in the body"
+        }
+      ],
+      "added_at": "2026-06-10T10:29:04.528905Z"
+    },
+    {
+      "id": "burn-care-20250610",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Científicos Imprimen en 3D Piel Viva con Vasos Sanguíneos",
+      "headline_en": "Scientists 3D Print Living Skin with Blood Vessels",
+      "summary_es": "Investigadores han logrado imprimir en tres dimensiones piel viva que contiene vasos sanguíneos funcionales. Este avance revolucionario podría transformar el tratamiento de quemaduras graves y heridas extensas.",
+      "body_es": "Los científicos han desarrollado una técnica innovadora para imprimir piel viva usando impresoras 3D. La piel impresa contiene vasos sanguíneos que funcionan correctamente. Este avance es importante para el tratamiento de quemaduras graves. Cuando los pacientes sufren quemaduras extensas, necesitan injertos de piel. Anteriormente, los injertos eran limitados y causaban problemas. La piel impresa en 3D puede crecer más rápido. Los vasos sanguíneos integrados mejoran la nutrición del tejido nuevo. Esto reduce el tiempo de cicatrización significativamente. Los investigadores utilizaron células vivas en el proceso de impresión. El resultado es una piel más similar a la piel natural. Este método promete revolucionar la medicina regenerativa en los próximos años.",
+      "body_en": "Scientists have developed an innovative technique to print living skin using 3D printers. The printed skin contains blood vessels that function properly. This breakthrough is important for treating severe burns. When patients suffer extensive burns, they need skin grafts. Previously, grafts were limited and caused complications. 3D printed skin can grow faster. The integrated blood vessels improve nutrition of new tissue. This significantly reduces healing time. Researchers used living cells in the printing process. The result is skin more similar to natural skin. This method promises to revolutionize regenerative medicine in the coming years.",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRlB3bmt4Ymw1Q013a0hkd1NWY0RGRVhoME1VblV3OV8wWE5pYWQ3VXZZbThyaU1zMjVvZVhaWkVwTVN1YldaanZiaEczMUxnYmw0V3E5T000VmFVT0pvb3ZRX2Q5a1phZ0IwdXl2bGprUW9xYmFPOEd3SWgzN0FaeHF3",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-10/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o químicos",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de piel de un área a otra",
+          "definition_en": "skin graft - transplant of skin from one area to another"
+        },
+        {
+          "word": "vaso sanguíneo",
+          "definition_es": "tubo que transporta sangre en el cuerpo",
+          "definition_en": "blood vessel - tube that carries blood in the body"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatrices durante la curación",
+          "definition_en": "scarring - formation of scars during healing"
+        }
+      ],
+      "added_at": "2026-06-10T10:29:04.528905Z"
+    },
+    {
+      "id": "surgical-wounds-20250610",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Comparación de Técnicas de Cierre de Heridas Quirúrgicas Abdominales",
+      "headline_en": "Comparison of Surgical Abdominal Wound Closure Techniques",
+      "summary_es": "Un estudio prospectivo compara dos técnicas de sutura para el cierre de la fascia abdominal en laparotomías de emergencia. Los resultados demuestran diferencias significativas en los resultados de curación.",
+      "body_es": "Investigadores realizaron un estudio comparativo sobre dos métodos de cierre quirúrgico en el abdomen. Utilizaron puntos cortos versus puntos largos para cerrar la fascia abdominal. Este tejido es crucial para la integridad estructural del abdomen. Los pacientes sometidos a laparotomía de emergencia fueron incluidos en el análisis. Se evaluaron resultados como infección, dehiscencia y tiempo de cicatrización. La técnica de puntos cortos mostró menor tasa de complicaciones. Los pacientes con puntos cortos presentaron menos infecciones de la herida. La dehiscencia, o apertura de la herida, fue menos frecuente con este método. El estudio concluye que los puntos cortos son más seguros. Esta técnica debe considerarse en protocolos quirúrgicos estándar. Los profesionales de enfermería deben capacitarse en ambas técnicas para cuidados óptimos.",
+      "body_en": "Researchers conducted a comparative study on two surgical closure methods in the abdomen. They used short-stitch versus long-stitch techniques to close the abdominal fascia. This tissue is crucial for structural integrity of the abdomen. Patients undergoing emergency laparotomy were included in the analysis. Outcomes such as infection, dehiscence, and healing time were evaluated. The short-stitch technique showed lower complication rates. Patients with short stitches presented fewer wound infections. Dehiscence, or wound opening, was less frequent with this method. The study concludes that short stitches are safer. This technique should be considered in standard surgical protocols. Nursing professionals should be trained in both techniques for optimal care.",
+      "source_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPUmRTdTViSzFUcmdtTEJiU1JpSHhLRzlOSnUwT2xWb0ZiWFByOWJZNmpIOTdoaFhyNDZLSk91U3R0UVZ1VzlMOHEwV3MyRGtlSVpQcUVUX0pXcEdxQVBHM3hVaHpKX2prT0d3Z084a2txWWhtclNZM0VWOFNIOVRwWnk4aU1Lam5vNHBtaHoxbGt3dmR2SHNIU25SZFBhaldfYWZZbGU1d3VfTTJJRUZHMGNaUThEZF9zMTNkTUVTY0Ltd1lzeEVVajVKMGp3bFo2ejJicEE2OHpEYTg0dVZPQkxyRlJpaElMNDRHd2d4YzlINDNRZEFnTzBVdWlaMWZjRm54S3BMQl9nRVI2TjJSUkpqRWhwWGF4Y21TNjBfTWE",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-10/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "sutura",
+          "definition_es": "hilo médico para cerrar heridas quirúrgicas",
+          "definition_en": "suture - medical thread to close surgical wounds"
+        },
+        {
+          "word": "fascia",
+          "definition_es": "capa de tejido conectivo bajo la piel",
+          "definition_en": "fascia - layer of connective tissue under the skin"
+        },
+        {
+          "word": "dehiscencia",
+          "definition_es": "apertura o separación de una herida quirúrgica",
+          "definition_en": "dehiscence - opening or separation of a surgical wound"
+        },
+        {
+          "word": "laparotomía",
+          "definition_es": "incisión quirúrgica en el abdomen",
+          "definition_en": "laparotomy - surgical incision in the abdomen"
+        }
+      ],
+      "added_at": "2026-06-10T10:29:04.528905Z"
+    },
     {
       "id": "chronic-wounds-20250609",
       "category": "Chronic Wounds",
@@ -25272,6 +25383,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-09T10:18:17.531625Z",
+  "last_updated": "2026-06-10T10:29:04.528905Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
