@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-10",
+      "filename": "spanish_lesson_2026-06-10.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-10.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Congreso estadounidense aprueba dinero para control fronterizo",
+          "headline_en": "US Congress approves money for border control",
+          "body_es": "La Cámara de Representantes de Estados Unidos aprobó una nueva ley. Esta ley dará dinero a ICE y la Patrulla Fronteriza hasta el final del gobierno de Trump. ICE es la agencia que controla la inmigración. La Patrulla Fronteriza vigila las fronteras del país. Los republicanos apoyan esta decisión. Dicen que es necesario para la seguridad nacional. Los demócratas no están de acuerdo. Creen que el dinero debe usarse para otras cosas. El debate sobre inmigración continúa en Washington. Esta ley afectará a millones de inmigrantes. También cambiará las políticas de deportación. El presidente firmará la ley pronto.",
+          "body_en": "The US House of Representatives approved a new law. This law will give money to ICE and Border Patrol until the end of Trump's administration. ICE is the agency that controls immigration. Border Patrol watches the country's borders. Republicans support this decision. They say it's necessary for national security. Democrats disagree. They believe the money should be used for other things. The immigration debate continues in Washington. This law will affect millions of immigrants. It will also change deportation policies. The president will sign the law soon.",
+          "source": "NPR"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Crisis económica deja vacíos los lugares turísticos de Cuba",
+          "headline_en": "Economic crisis leaves Cuba's tourist sites empty",
+          "body_es": "Cuba atraviesa una grave crisis económica. Los lugares turísticos que antes tenían muchos visitantes ahora están vacíos. La Habana Vieja y las playas famosas reciben pocos turistas. Los hoteles no tienen clientes. Los restaurantes y tiendas están cerrados. La economía cubana depende mucho del turismo. Sin turistas, no hay dinero para el país. Los trabajadores del sector turístico perdieron sus empleos. Muchas familias cubanas sufren problemas económicos. El gobierno busca soluciones urgentes. La situación empeora cada día. Los cubanos esperan que la economía mejore pronto. Mientras tanto, la vida diaria es muy difícil para todos.",
+          "body_en": "Cuba is going through a serious economic crisis. Tourist sites that once had many visitors are now empty. Old Havana and famous beaches receive few tourists. Hotels have no customers. Restaurants and shops are closed. The Cuban economy depends heavily on tourism. Without tourists, there's no money for the country. Tourism sector workers lost their jobs. Many Cuban families suffer economic problems. The government seeks urgent solutions. The situation worsens every day. Cubans hope the economy improves soon. Meanwhile, daily life is very difficult for everyone.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Hackers chinos son la mayor amenaza para empresas tecnológicas",
+          "headline_en": "Chinese hackers are the biggest threat to tech companies",
+          "body_es": "Una empresa de seguridad llamada CrowdStrike publicó un informe importante. Según este estudio, los hackers chinos son el mayor peligro para las empresas de tecnología. Estos criminales digitales roban información secreta de las compañías. Su objetivo es conseguir secretos comerciales y datos importantes. Los hackers usan métodos muy avanzados para atacar. Pueden entrar en sistemas de computadoras sin permiso. Las empresas tecnológicas pierden millones de dólares por estos ataques. El espionaje digital es un problema mundial. Los gobiernos también sufren estos ataques. Las compañías necesitan mejor seguridad informática. CrowdStrike recomienda nuevas medidas de protección. La guerra digital continúa creciendo cada año.",
+          "body_en": "A security company called CrowdStrike published an important report. According to this study, Chinese hackers are the biggest danger to technology companies. These digital criminals steal secret information from companies. Their goal is to obtain trade secrets and important data. Hackers use very advanced methods to attack. They can enter computer systems without permission. Tech companies lose millions of dollars from these attacks. Digital espionage is a global problem. Governments also suffer these attacks. Companies need better computer security. CrowdStrike recommends new protection measures. Digital warfare continues to grow each year.",
+          "source": "Reuters"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "financiar",
+          "syllables": "fi-nan-CIAR",
+          "pos": "verbo",
+          "context": "La Cámara aprobó una ley para financiar el control fronterizo.",
+          "definition_es": "Dar dinero para pagar algo",
+          "definition_en": "To fund, to provide money for"
+        },
+        {
+          "word": "frontera",
+          "syllables": "fron-TE-ra",
+          "pos": "sustantivo",
+          "context": "Los agentes trabajan en la frontera entre países.",
+          "definition_es": "Línea que separa dos países",
+          "definition_en": "Border, boundary between countries"
+        },
+        {
+          "word": "turístico",
+          "syllables": "tu-RÍS-ti-co",
+          "pos": "adjetivo",
+          "context": "Los sitios turísticos de Cuba están muy vacíos.",
+          "definition_es": "Relacionado con el turismo y los viajeros",
+          "definition_en": "Tourist, related to tourism"
+        },
+        {
+          "word": "crisis",
+          "syllables": "CRI-sis",
+          "pos": "sustantivo",
+          "context": "Cuba sufre una grave crisis económica.",
+          "definition_es": "Situación muy difícil y problemática",
+          "definition_en": "Crisis, difficult situation"
+        },
+        {
+          "word": "amenaza",
+          "syllables": "a-me-NA-za",
+          "pos": "sustantivo",
+          "context": "Los hackers representan una amenaza para las empresas.",
+          "definition_es": "Peligro o riesgo de algo malo",
+          "definition_en": "Threat, danger"
+        },
+        {
+          "word": "espionaje",
+          "syllables": "es-pio-NA-je",
+          "pos": "sustantivo",
+          "context": "El espionaje digital es un problema serio.",
+          "definition_es": "Actividad de obtener información secreta",
+          "definition_en": "Espionage, spying"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El Congreso aprobó la nueva ley de inmigración.",
+          "definition_es": "Aceptar o dar el visto bueno a algo",
+          "definition_en": "To approve, to pass"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas necesitan mejor seguridad.",
+          "definition_es": "Compañía u organización de negocios",
+          "definition_en": "Company, business"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'financiar'?",
+          "options": [
+            "Gastar dinero rápido",
+            "Dar dinero para pagar algo",
+            "Ahorrar dinero",
+            "Perder dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Una 'frontera' es:",
+          "options": [
+            "Una ciudad grande",
+            "Un edificio del gobierno",
+            "La línea que separa dos países",
+            "Un tipo de trabajo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'amenaza'?",
+          "options": [
+            "Una oportunidad",
+            "Un peligro o riesgo",
+            "Una celebración",
+            "Una solución"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "'Aprobar' significa:",
+          "options": [
+            "Rechazar algo",
+            "Aceptar o dar el visto bueno",
+            "Olvidar algo",
+            "Criticar duramente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿quién apoyó la nueva ley de inmigración?",
+          "options": [
+            "Los demócratas",
+            "Los republicanos",
+            "Todos los políticos",
+            "Nadie"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué están vacíos los lugares turísticos de Cuba?",
+          "options": [
+            "Por el mal clima",
+            "Por la crisis económica",
+            "Por falta de hoteles",
+            "Por problemas de transporte"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa publicó el informe sobre hackers?",
+          "options": [
+            "Microsoft",
+            "Google",
+            "CrowdStrike",
+            "Apple"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿De qué país son los hackers mencionados en la historia de tecnología?",
+          "options": [
+            "Estados Unidos",
+            "Rusia",
+            "China",
+            "Corea del Norte"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué pasó con los trabajadores del turismo en Cuba?",
+          "options": [
+            "Recibieron más dinero",
+            "Perdieron sus empleos",
+            "Cambiaron de profesión",
+            "Se fueron del país"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Hasta cuándo durará el financiamiento aprobado por el Congreso?",
+          "options": [
+            "Un año",
+            "Seis meses",
+            "Hasta el final del gobierno de Trump",
+            "Para siempre"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-10T10:23:44.200677"
+    },
+    {
       "date": "2026-06-09",
       "filename": "spanish_lesson_2026-06-09.pdf",
       "path": "pdfs/spanish_lesson_2026-06-09.pdf",
@@ -40874,7 +41096,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-09T10:12:22.871928",
+  "last_updated": "2026-06-10T10:23:44.200707",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
