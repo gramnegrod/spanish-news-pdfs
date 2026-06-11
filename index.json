@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-11",
+      "filename": "spanish_lesson_2026-06-11.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-11.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Joven político quiere el mismo trabajo que su padre y abuela",
+          "headline_en": "Young politician wants the same job as his father and grandmother",
+          "body_es": "Kendrick Meek Jr. quiere ser político como su familia. Él es candidato para el Congreso de Estados Unidos en Florida. Su padre y su abuela tuvieron el mismo trabajo antes. Su abuela, Carrie Meek, trabajó en el Congreso durante muchos años. Su padre, Kendrick Meek Sr., también fue congresista. Ahora el hijo quiere heredar esta tradición familiar. Meek Jr. dice que conoce bien los problemas de su comunidad. Quiere ayudar a las familias trabajadoras de Miami. La elección será en noviembre. Muchas personas de su distrito lo apoyan. Si gana, será el tercer miembro de su familia en el Congreso. Esta familia tiene una larga historia en la política americana.",
+          "body_en": "Kendrick Meek Jr. wants to be a politician like his family. He is a candidate for the US Congress in Florida. His father and grandmother had the same job before. His grandmother, Carrie Meek, worked in Congress for many years. His father, Kendrick Meek Sr., was also a congressman. Now the son wants to inherit this family tradition. Meek Jr. says he knows his community's problems well. He wants to help working families in Miami. The election will be in November. Many people in his district support him. If he wins, he will be the third member of his family in Congress. This family has a long history in American politics.",
+          "source": "Miami Herald"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los precios suben mucho en Estados Unidos por la energía",
+          "headline_en": "Prices rise a lot in the United States because of energy",
+          "body_es": "La inflación en Estados Unidos llegó al nivel más alto en tres años. Esto significa que todo cuesta más dinero ahora. El problema principal son los precios de la energía. La gasolina y la electricidad cuestan mucho más que antes. Las familias americanas pagan más por todo: comida, ropa y transporte. Los expertos dicen que esta situación es muy preocupante. El gobierno está buscando soluciones para ayudar a las personas. Muchos trabajadores piden salarios más altos porque todo es más caro. Los economistas piensan que los precios van a seguir subiendo. Esta inflación afecta especialmente a las familias con menos dinero. Es un problema muy serio para la economía del país.",
+          "body_en": "Inflation in the United States reached its highest level in three years. This means everything costs more money now. The main problem is energy prices. Gasoline and electricity cost much more than before. American families pay more for everything: food, clothes, and transportation. Experts say this situation is very worrying. The government is looking for solutions to help people. Many workers are asking for higher salaries because everything is more expensive. Economists think prices will continue to rise. This inflation especially affects families with less money. It's a very serious problem for the country's economy.",
+          "source": "Al Jazeera"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump quiere que el gobierno controle las empresas de inteligencia artificial",
+          "headline_en": "Trump wants the government to control artificial intelligence companies",
+          "body_es": "Donald Trump habló sobre las empresas de inteligencia artificial. Él piensa que el gobierno americano debe tener parte de estas empresas. Trump dice que estas compañías son muy importantes para el país. La inteligencia artificial puede cambiar muchas cosas en el futuro. Por eso, el gobierno debe participar en este negocio. Algunas empresas como Google y Microsoft trabajan mucho con inteligencia artificial. Estas empresas ganan muchísimo dinero con esta tecnología. Trump cree que el gobierno debe recibir parte de estas ganancias. Sin embargo, muchas personas no están de acuerdo con esta idea. Dicen que el gobierno no debe controlar las empresas privadas. Este tema va a ser muy importante en las próximas elecciones.",
+          "body_en": "Donald Trump talked about artificial intelligence companies. He thinks the American government should own part of these companies. Trump says these companies are very important for the country. Artificial intelligence can change many things in the future. Therefore, the government should participate in this business. Some companies like Google and Microsoft work a lot with artificial intelligence. These companies make a lot of money with this technology. Trump believes the government should receive part of these profits. However, many people disagree with this idea. They say the government shouldn't control private companies. This topic will be very important in the upcoming elections.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "candidato",
+          "syllables": "can-di-DA-to",
+          "pos": "sustantivo",
+          "context": "Kendrick Meek Jr. es candidato para el Congreso.",
+          "definition_es": "Persona que se presenta para un cargo político",
+          "definition_en": "A person running for political office"
+        },
+        {
+          "word": "heredar",
+          "syllables": "he-re-DAR",
+          "pos": "verbo",
+          "context": "Quiere heredar el puesto político de su familia.",
+          "definition_es": "Recibir algo de la familia",
+          "definition_en": "To inherit something from family"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación en Estados Unidos aumentó mucho.",
+          "definition_es": "Aumento general de los precios",
+          "definition_en": "General increase in prices"
+        },
+        {
+          "word": "energía",
+          "syllables": "e-ner-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Los precios de la energía subieron rápidamente.",
+          "definition_es": "Poder para hacer funcionar máquinas",
+          "definition_en": "Power to make machines work"
+        },
+        {
+          "word": "gobierno",
+          "syllables": "go-BIER-no",
+          "pos": "sustantivo",
+          "context": "El gobierno quiere controlar las empresas de tecnología.",
+          "definition_es": "Las personas que dirigen un país",
+          "definition_en": "The people who run a country"
+        },
+        {
+          "word": "artificial",
+          "syllables": "ar-ti-fi-CIAL",
+          "pos": "adjetivo",
+          "context": "La inteligencia artificial es muy importante ahora.",
+          "definition_es": "Hecho por humanos, no natural",
+          "definition_en": "Made by humans, not natural"
+        },
+        {
+          "word": "empresas",
+          "syllables": "em-PRE-sas",
+          "pos": "sustantivo",
+          "context": "Las empresas de tecnología ganan mucho dinero.",
+          "definition_es": "Organizaciones que hacen negocios",
+          "definition_en": "Organizations that do business"
+        },
+        {
+          "word": "aumentar",
+          "syllables": "au-men-TAR",
+          "pos": "verbo",
+          "context": "Los precios van a aumentar este año.",
+          "definition_es": "Hacer más grande o más alto",
+          "definition_en": "To make bigger or higher"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'candidato'?",
+          "options": [
+            "Persona que trabaja en una oficina",
+            "Persona que se presenta para un cargo político",
+            "Persona que estudia en la universidad",
+            "Persona que vive en la ciudad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'inflación'?",
+          "options": [
+            "Disminución de precios",
+            "Aumento general de los precios",
+            "Tipo de moneda",
+            "Sistema de gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué quiere decir 'heredar'?",
+          "options": [
+            "Comprar algo nuevo",
+            "Recibir algo de la familia",
+            "Vender una propiedad",
+            "Trabajar en una empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'empresas'?",
+          "options": [
+            "Edificios del gobierno",
+            "Organizaciones que hacen negocios",
+            "Tipos de transporte",
+            "Programas de televisión"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos miembros de la familia Meek trabajaron en el Congreso antes que Kendrick Jr.?",
+          "options": [
+            "Uno",
+            "Dos",
+            "Tres",
+            "Cuatro"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia económica, ¿cuál es la causa principal de la inflación?",
+          "options": [
+            "Los salarios altos",
+            "Los precios de la energía",
+            "Las importaciones",
+            "Los impuestos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué quiere Trump que haga el gobierno con las empresas de IA?",
+          "options": [
+            "Cerrarlas completamente",
+            "Tener parte de ellas",
+            "Ignorarlas",
+            "Venderlas a otros países"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Dónde quiere ser elegido Kendrick Meek Jr.?",
+          "options": [
+            "California",
+            "Texas",
+            "Florida",
+            "Nueva York"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Durante cuánto tiempo ha sido alta la inflación actual en Estados Unidos?",
+          "options": [
+            "Un año",
+            "Dos años",
+            "Tres años",
+            "Es la más alta en tres años"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas se mencionan como ejemplos de compañías de inteligencia artificial?",
+          "options": [
+            "Apple y Facebook",
+            "Google y Microsoft",
+            "Amazon y Tesla",
+            "IBM y Oracle"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-11T10:30:20.377181"
+    },
+    {
       "date": "2026-06-10",
       "filename": "spanish_lesson_2026-06-10.pdf",
       "path": "pdfs/spanish_lesson_2026-06-10.pdf",
@@ -41096,7 +41318,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-10T10:23:44.200707",
+  "last_updated": "2026-06-11T10:30:20.377234",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
