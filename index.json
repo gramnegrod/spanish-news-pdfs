@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-12",
+      "filename": "spanish_lesson_2026-06-12.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-12.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "La deuda del gobierno de Estados Unidos crece muy rápido",
+          "headline_en": "The US government debt is growing very fast",
+          "body_es": "El gobierno de Estados Unidos tiene un problema grande con el dinero. La deuda del país está creciendo más rápido que la economía. Esto significa que el gobierno debe más dinero cada año. La Oficina de Responsabilidad del Gobierno dice que esto puede ser malo para los ciudadanos. Cuando la deuda crece mucho, el gobierno tiene menos dinero para programas importantes. También puede significar más impuestos en el futuro. Los expertos están preocupados porque esta situación puede afectar la vida de las familias americanas. El gobierno necesita encontrar soluciones pronto para controlar el crecimiento de la deuda nacional.",
+          "body_en": "The United States government has a big problem with money. The country's debt is growing faster than the economy. This means the government owes more money each year. The Government Accountability Office says this can be bad for citizens. When debt grows a lot, the government has less money for important programs. It can also mean more taxes in the future. Experts are worried because this situation can affect the lives of American families. The government needs to find solutions soon to control the growth of the national debt.",
+          "source": "U.S. Government Accountability Office"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La inflación sube otra vez y causa problemas a las empresas",
+          "headline_en": "Inflation rises again and causes problems for businesses",
+          "body_es": "La inflación está subiendo otra vez en Estados Unidos. Esto significa que los precios de muchas cosas están más caros. Las empresas americanas sienten mucha presión económica ahora. Cuando los precios suben, es más difícil para las empresas comprar materiales. También es más caro producir productos. Los expertos dicen que esta inflación puede continuar por varios meses. Las familias también sienten este problema porque todo cuesta más dinero. La comida, la gasolina y otros productos básicos están más caros. El gobierno y los bancos están buscando maneras de controlar la inflación. Esta situación afecta toda la economía del país y preocupa a muchas personas.",
+          "body_en": "Inflation is rising again in the United States. This means that the prices of many things are more expensive. American businesses feel a lot of economic pressure now. When prices go up, it's harder for businesses to buy materials. It's also more expensive to produce products. Experts say this inflation may continue for several months. Families also feel this problem because everything costs more money. Food, gasoline and other basic products are more expensive. The government and banks are looking for ways to control inflation. This situation affects the entire country's economy and worries many people.",
+          "source": "MarketWatch"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "SpaceX hace historia con una venta de acciones de 75 mil millones",
+          "headline_en": "SpaceX makes history with a 75 billion stock sale",
+          "body_es": "La empresa SpaceX está haciendo historia en el mundo de los negocios. La compañía de Elon Musk va a vender sus acciones por primera vez. Esta venta vale 75 mil millones de dólares. Es un récord muy importante para una empresa de tecnología espacial. SpaceX es famosa por enviar cohetes al espacio y trabajar con la NASA. Muchos inversores quieren comprar acciones de esta empresa. Creen que SpaceX va a ganar mucho dinero en el futuro. La empresa planea usar este dinero para construir más cohetes. También quiere desarrollar viajes espaciales para personas normales. Este evento es muy importante para la industria espacial y puede cambiar el futuro de los viajes al espacio.",
+          "body_en": "SpaceX is making history in the business world. Elon Musk's company is going to sell its shares for the first time. This sale is worth 75 billion dollars. It's a very important record for a space technology company. SpaceX is famous for sending rockets to space and working with NASA. Many investors want to buy shares of this company. They believe SpaceX will make a lot of money in the future. The company plans to use this money to build more rockets. It also wants to develop space travel for normal people. This event is very important for the space industry and can change the future of space travel.",
+          "source": "NPR"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "deuda",
+          "syllables": "DEU-da",
+          "pos": "sustantivo",
+          "context": "La deuda del gobierno federal está creciendo muy rápido.",
+          "definition_es": "Dinero que se debe pagar",
+          "definition_en": "Money that must be paid back; debt"
+        },
+        {
+          "word": "crecer",
+          "syllables": "cre-CER",
+          "pos": "verbo",
+          "context": "La deuda está creciendo más rápido que la economía.",
+          "definition_es": "Hacerse más grande o aumentar",
+          "definition_en": "To grow or increase in size"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación está subiendo otra vez en Estados Unidos.",
+          "definition_es": "Cuando los precios de las cosas suben",
+          "definition_en": "When prices of goods and services increase"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "Las empresas tienen más presión económica ahora.",
+          "definition_es": "Organización que vende productos o servicios",
+          "definition_en": "Business or company"
+        },
+        {
+          "word": "presión",
+          "syllables": "pre-SIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación pone presión en las empresas americanas.",
+          "definition_es": "Fuerza que causa estrés o dificultades",
+          "definition_en": "Force that causes stress or difficulties"
+        },
+        {
+          "word": "lanzar",
+          "syllables": "lan-ZAR",
+          "pos": "verbo",
+          "context": "SpaceX va a lanzar sus acciones en la bolsa.",
+          "definition_es": "Empezar algo nuevo o enviar algo al aire",
+          "definition_en": "To launch or start something new"
+        },
+        {
+          "word": "récord",
+          "syllables": "RÉ-cord",
+          "pos": "sustantivo",
+          "context": "SpaceX estableció un récord con 75 mil millones de dólares.",
+          "definition_es": "La mejor marca o resultado nunca alcanzado antes",
+          "definition_en": "The best achievement ever reached before"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "La empresa vende acciones por primera vez.",
+          "definition_es": "Partes de una empresa que se pueden comprar",
+          "definition_en": "Shares of a company that can be bought"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'deuda'?",
+          "options": [
+            "Dinero que se debe pagar",
+            "Dinero que se gana",
+            "Dinero que se ahorra",
+            "Dinero que se encuentra"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'inflación'?",
+          "options": [
+            "Cuando los precios bajan",
+            "Cuando los precios suben",
+            "Cuando no hay dinero",
+            "Cuando hay mucho dinero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones'?",
+          "options": [
+            "Cosas que se hacen",
+            "Partes de una empresa",
+            "Tipos de dinero",
+            "Problemas económicos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'presión' en contexto económico?",
+          "options": [
+            "Fuerza física",
+            "Dificultades económicas",
+            "Velocidad",
+            "Temperatura"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia política, ¿qué problema tiene el gobierno americano?",
+          "options": [
+            "No tiene empleados",
+            "La deuda crece muy rápido",
+            "No tiene edificios",
+            "Tiene muchos impuestos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué efecto tiene la inflación en las empresas?",
+          "options": [
+            "Les da más dinero",
+            "Les causa presión económica",
+            "Les da más trabajadores",
+            "No les afecta"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuánto vale la venta de acciones de SpaceX?",
+          "options": [
+            "50 mil millones",
+            "60 mil millones",
+            "75 mil millones",
+            "80 mil millones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué puede pasar si la deuda del gobierno sigue creciendo?",
+          "options": [
+            "Más programas sociales",
+            "Menos impuestos",
+            "Más impuestos en el futuro",
+            "Más dinero para todos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué productos están más caros por la inflación?",
+          "options": [
+            "Solo la comida",
+            "Solo la gasolina",
+            "Comida, gasolina y productos básicos",
+            "Solo la ropa"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Para qué quiere SpaceX usar el dinero de las acciones?",
+          "options": [
+            "Comprar otras empresas",
+            "Construir más cohetes",
+            "Hacer más televisores",
+            "Abrir restaurantes"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-12T10:28:38.246790"
+    },
+    {
       "date": "2026-06-11",
       "filename": "spanish_lesson_2026-06-11.pdf",
       "path": "pdfs/spanish_lesson_2026-06-11.pdf",
@@ -41318,7 +41540,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-11T10:30:20.377234",
+  "last_updated": "2026-06-12T10:28:38.246823",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
