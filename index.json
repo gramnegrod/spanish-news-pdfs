@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-13",
+      "filename": "spanish_lesson_2026-06-13.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-13.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Juez mantiene bloqueado el fondo de Trump de 1.8 mil millones",
+          "headline_en": "Judge keeps Trump's $1.8 billion fund blocked",
+          "body_es": "Un juez estadounidense decidió mantener bloqueado el fondo de Donald Trump. Este fondo tiene 1.8 mil millones de dólares. Trump quería usar este dinero para su campaña política. El fondo se llama 'Anti-Weaponization Fund'. Los opositores dicen que Trump no puede usar este dinero. Creen que es ilegal para campañas políticas. El tribunal estudia el caso desde hace varias semanas. Trump y su equipo no están contentos con esta decisión. Quieren usar el dinero pronto. El juez dice que necesita más tiempo para decidir. Esta situación afecta los planes de campaña de Trump. El caso continuará en los próximos meses.",
+          "body_en": "A US judge decided to keep Donald Trump's fund blocked. This fund has 1.8 billion dollars. Trump wanted to use this money for his political campaign. The fund is called 'Anti-Weaponization Fund'. Opponents say Trump cannot use this money. They believe it is illegal for political campaigns. The court has been studying the case for several weeks. Trump and his team are not happy with this decision. They want to use the money soon. The judge says he needs more time to decide. This situation affects Trump's campaign plans. The case will continue in the coming months.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Presidente cubano anuncia reformas económicas por sanciones de EE.UU.",
+          "headline_en": "Cuban president announces economic reforms due to US sanctions",
+          "body_es": "El presidente de Cuba anunció reformas económicas importantes. Estas reformas responden a las sanciones de Estados Unidos. Las sanciones hacen difícil la economía cubana. El gobierno permitirá más empresas privadas. También habrá nuevas reglas para el comercio. Los cubanos podrán abrir más negocios pequeños. El presidente dice que estas reformas son necesarias. Quiere mejorar la vida de los ciudadanos. Las reformas incluyen cambios en el mercado de trabajo. También permitirán más inversión extranjera. Los expertos dicen que estos cambios son históricos. Cuba no hacía reformas tan grandes desde hace años. El gobierno espera que la economía mejore pronto.",
+          "body_en": "The president of Cuba announced important economic reforms. These reforms respond to United States sanctions. The sanctions make the Cuban economy difficult. The government will allow more private companies. There will also be new rules for commerce. Cubans will be able to open more small businesses. The president says these reforms are necessary. He wants to improve citizens' lives. The reforms include changes in the labor market. They will also allow more foreign investment. Experts say these changes are historic. Cuba had not made such large reforms in years. The government hopes the economy will improve soon.",
+          "source": "Anadolu Ajansı"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La salida a bolsa de SpaceX afectará a empresas de inteligencia artificial",
+          "headline_en": "SpaceX's IPO will affect artificial intelligence companies",
+          "body_es": "SpaceX planea vender acciones al público por primera vez. Esta decisión es muy importante para otras empresas tecnológicas. OpenAI y Anthropic son empresas de inteligencia artificial. Estas empresas pueden cambiar sus planes por SpaceX. Cuando una empresa grande como SpaceX vende acciones, afecta todo el mercado. Los inversionistas tienen más opciones donde poner su dinero. SpaceX es la empresa espacial de Elon Musk. La empresa vale muchísimo dinero ahora. OpenAI hace ChatGPT y otras tecnologías inteligentes. Anthropic también trabaja con inteligencia artificial. Las tres empresas compiten por los mismos inversionistas. El mercado tecnológico está cambiando rápidamente. Esta situación será interesante de seguir.",
+          "body_en": "SpaceX plans to sell shares to the public for the first time. This decision is very important for other technology companies. OpenAI and Anthropic are artificial intelligence companies. These companies may change their plans because of SpaceX. When a large company like SpaceX sells shares, it affects the entire market. Investors have more options where to put their money. SpaceX is Elon Musk's space company. The company is worth a lot of money now. OpenAI makes ChatGPT and other intelligent technologies. Anthropic also works with artificial intelligence. The three companies compete for the same investors. The technology market is changing rapidly. This situation will be interesting to follow.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "juez",
+          "syllables": "JUEZ",
+          "pos": "sustantivo",
+          "context": "El juez bloqueó el fondo de Trump por más tiempo.",
+          "definition_es": "Persona que decide casos legales en un tribunal",
+          "definition_en": "Judge"
+        },
+        {
+          "word": "bloquear",
+          "syllables": "blo-que-AR",
+          "pos": "verbo",
+          "context": "El tribunal decidió bloquear el uso del dinero.",
+          "definition_es": "Impedir o prohibir algo",
+          "definition_en": "To block"
+        },
+        {
+          "word": "fondo",
+          "syllables": "FON-do",
+          "pos": "sustantivo",
+          "context": "Trump creó un fondo de 1.8 mil millones de dólares.",
+          "definition_es": "Dinero guardado para un propósito específico",
+          "definition_en": "Fund"
+        },
+        {
+          "word": "reformas",
+          "syllables": "re-FOR-mas",
+          "pos": "sustantivo",
+          "context": "Cuba anunció reformas económicas importantes.",
+          "definition_es": "Cambios para mejorar un sistema",
+          "definition_en": "Reforms"
+        },
+        {
+          "word": "sanciones",
+          "syllables": "san-cio-NES",
+          "pos": "sustantivo",
+          "context": "Las sanciones de Estados Unidos afectan la economía cubana.",
+          "definition_es": "Castigos económicos entre países",
+          "definition_en": "Sanctions"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "Las reformas de mercado permitirán más comercio privado.",
+          "definition_es": "Sistema de compra y venta",
+          "definition_en": "Market"
+        },
+        {
+          "word": "empresa",
+          "syllables": "em-PRE-sa",
+          "pos": "sustantivo",
+          "context": "SpaceX es una empresa de tecnología espacial.",
+          "definition_es": "Organización que hace negocios",
+          "definition_en": "Company"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-cio-NES",
+          "pos": "sustantivo",
+          "context": "SpaceX planea vender acciones al público.",
+          "definition_es": "Partes de una empresa que se pueden comprar",
+          "definition_en": "Shares/stocks"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'bloquear'?",
+          "options": [
+            "Permitir algo",
+            "Impedir algo",
+            "Comprar algo",
+            "Vender algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'juez' es una persona que:",
+          "options": [
+            "Vende productos",
+            "Decide casos legales",
+            "Hace reformas",
+            "Compra acciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'sanciones'?",
+          "options": [
+            "Reformas económicas",
+            "Castigos entre países",
+            "Empresas privadas",
+            "Acciones de bolsa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Las 'acciones' de una empresa son:",
+          "options": [
+            "Actividades diarias",
+            "Partes que se pueden comprar",
+            "Reformas internas",
+            "Sanciones económicas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero tiene el fondo de Trump que está bloqueado?",
+          "options": [
+            "1.8 millones",
+            "1.8 mil millones",
+            "8.1 mil millones",
+            "18 mil millones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué Cuba anuncia reformas económicas?",
+          "options": [
+            "Por las sanciones de EE.UU.",
+            "Por SpaceX",
+            "Por el fondo de Trump",
+            "Por OpenAI"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué permitirán las reformas cubanas?",
+          "options": [
+            "Solo empresas extranjeras",
+            "Más empresas privadas",
+            "Menos comercio",
+            "Bloquear el mercado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué es SpaceX?",
+          "options": [
+            "Una empresa de inteligencia artificial",
+            "Una empresa espacial",
+            "Un fondo político",
+            "Una reforma económica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué hace OpenAI?",
+          "options": [
+            "Naves espaciales",
+            "ChatGPT y tecnologías inteligentes",
+            "Reformas en Cuba",
+            "Fondos políticos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Quién es el dueño de SpaceX?",
+          "options": [
+            "El presidente cubano",
+            "Donald Trump",
+            "Elon Musk",
+            "OpenAI"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-13T09:59:16.214155"
+    },
+    {
       "date": "2026-06-12",
       "filename": "spanish_lesson_2026-06-12.pdf",
       "path": "pdfs/spanish_lesson_2026-06-12.pdf",
@@ -41540,7 +41762,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-12T10:28:38.246823",
+  "last_updated": "2026-06-13T09:59:16.214181",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
