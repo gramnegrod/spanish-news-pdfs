@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-14",
+      "filename": "spanish_lesson_2026-06-14.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-14.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Los territorios de Estados Unidos pueden hablar en el Congreso pero no votar",
+          "headline_en": "US territories can speak in Congress but cannot vote",
+          "body_es": "Estados Unidos tiene varios territorios como Puerto Rico, Guam y las Islas Vírgenes. Estos lugares no son estados completos del país. Las personas que viven allí son ciudadanos estadounidenses. Pueden elegir representantes para el Congreso en Washington. Sin embargo, estos representantes tienen una limitación importante. Pueden participar en las discusiones y debates. Pueden presentar sus ideas y opiniones. Pero no pueden votar en las decisiones finales. Esta situación existe desde hace muchos años. Los territorios quieren tener más poder político. Algunos quieren convertirse en estados nuevos. Otros prefieren mantener su situación actual. El debate sobre los derechos de los territorios continúa en el Congreso estadounidense.",
+          "body_en": "The United States has several territories like Puerto Rico, Guam and the Virgin Islands. These places are not full states of the country. People who live there are US citizens. They can elect representatives to Congress in Washington. However, these representatives have an important limitation. They can participate in discussions and debates. They can present their ideas and opinions. But they cannot vote on final decisions. This situation has existed for many years. The territories want to have more political power. Some want to become new states. Others prefer to maintain their current situation. The debate about territorial rights continues in the US Congress.",
+          "source": "Honolulu Civil Beat"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "¿Puede Kevin Warsh controlar los 6.7 billones de dólares del banco central?",
+          "headline_en": "Can Kevin Warsh control the Federal Reserve's 6.7 trillion dollars?",
+          "body_es": "Kevin Warsh es un experto en economía muy conocido en Estados Unidos. El presidente quiere que dirija el banco central del país, llamado la Reserva Federal. Este banco tiene una responsabilidad enorme. Controla 6.7 billones de dólares en diferentes inversiones. Esta cantidad de dinero es más grande que la economía de muchos países. Warsh trabajó en el banco central antes, entre 2006 y 2011. Fue una época muy difícil para la economía estadounidense. Muchos bancos tuvieron problemas serios. Ahora debe decidir qué hacer con todo ese dinero. Algunos expertos piensan que el banco tiene demasiado dinero. Otros creen que es necesario para mantener la estabilidad económica. Las decisiones de Warsh afectarán a millones de personas.",
+          "body_en": "Kevin Warsh is a well-known economics expert in the United States. The president wants him to lead the country's central bank, called the Federal Reserve. This bank has an enormous responsibility. It controls 6.7 trillion dollars in different investments. This amount of money is larger than the economy of many countries. Warsh worked at the central bank before, between 2006 and 2011. It was a very difficult time for the US economy. Many banks had serious problems. Now he must decide what to do with all that money. Some experts think the bank has too much money. Others believe it's necessary to maintain economic stability. Warsh's decisions will affect millions of people.",
+          "source": "The Daily Upside"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Trump prohíbe a extranjeros usar la nueva tecnología de inteligencia artificial",
+          "headline_en": "Trump prohibits foreigners from using new artificial intelligence technology",
+          "body_es": "El presidente Trump ha tomado una decisión importante sobre tecnología. Ha prohibido que personas de otros países usen la inteligencia artificial más avanzada de Estados Unidos. La empresa Anthropic creó esta nueva tecnología. Es muy poderosa y puede hacer muchas tareas complicadas. El gobierno estadounidense piensa que esta tecnología es muy importante para la seguridad nacional. No quiere que otros países la usen para fines militares o de espionaje. La decisión afecta a estudiantes, empresarios y científicos extranjeros. Muchas universidades y empresas internacionales están preocupadas. Usan esta tecnología para investigación y educación. Los críticos dicen que esta prohibición puede dañar la cooperación científica internacional. Otros apoyan la decisión porque protege los intereses estadounidenses.",
+          "body_en": "President Trump has made an important decision about technology. He has prohibited people from other countries from using the most advanced artificial intelligence from the United States. The company Anthropic created this new technology. It is very powerful and can do many complicated tasks. The US government thinks this technology is very important for national security. It doesn't want other countries to use it for military or espionage purposes. The decision affects foreign students, businesspeople and scientists. Many universities and international companies are worried. They use this technology for research and education. Critics say this prohibition could harm international scientific cooperation. Others support the decision because it protects US interests.",
+          "source": "Mother Jones"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "territorio",
+          "syllables": "te-rri-TO-rio",
+          "pos": "sustantivo",
+          "context": "Los territorios de Estados Unidos tienen representación en el Congreso.",
+          "definition_es": "Área geográfica bajo el control de un país",
+          "definition_en": "Territory - a geographical area under a country's control"
+        },
+        {
+          "word": "representación",
+          "syllables": "re-pre-sen-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "Puerto Rico tiene representación pero no puede votar.",
+          "definition_es": "El acto de hablar o actuar por otras personas",
+          "definition_en": "Representation - the act of speaking or acting for others"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía estadounidense depende de las decisiones del banco central.",
+          "definition_es": "Sistema de producción y distribución de dinero",
+          "definition_en": "Economy - system of money production and distribution"
+        },
+        {
+          "word": "billones",
+          "syllables": "bi-LLO-nes",
+          "pos": "sustantivo",
+          "context": "El banco tiene billones de dólares en sus cuentas.",
+          "definition_es": "Número muy grande: mil millones",
+          "definition_en": "Billions - very large number: thousand millions"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología de inteligencia artificial es muy avanzada.",
+          "definition_es": "Conocimiento aplicado para crear máquinas y sistemas",
+          "definition_en": "Technology - applied knowledge to create machines and systems"
+        },
+        {
+          "word": "extranjeros",
+          "syllables": "ex-tran-JE-ros",
+          "pos": "sustantivo",
+          "context": "Los extranjeros no pueden usar esta tecnología nueva.",
+          "definition_es": "Personas de otros países",
+          "definition_en": "Foreigners - people from other countries"
+        },
+        {
+          "word": "bloquear",
+          "syllables": "blo-que-AR",
+          "pos": "verbo",
+          "context": "El gobierno decidió bloquear el acceso a la tecnología.",
+          "definition_es": "Impedir o prohibir algo",
+          "definition_en": "To block - to prevent or prohibit something"
+        },
+        {
+          "word": "artificial",
+          "syllables": "ar-ti-fi-CIAL",
+          "pos": "adjetivo",
+          "context": "La inteligencia artificial puede ayudar en muchas tareas.",
+          "definition_es": "Hecho por humanos, no natural",
+          "definition_en": "Artificial - made by humans, not natural"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'territorio' en el contexto de política?",
+          "options": [
+            "Un área geográfica bajo control de un país",
+            "Una ciudad muy grande",
+            "Un tipo de elección",
+            "Un partido político"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'billones' en el contexto económico?",
+          "options": [
+            "Cientos",
+            "Miles",
+            "Mil millones",
+            "Millones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'bloquear' en el contexto de tecnología?",
+          "options": [
+            "Crear algo nuevo",
+            "Impedir o prohibir",
+            "Mejorar la calidad",
+            "Vender a otros países"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'extranjeros' según el texto?",
+          "options": [
+            "Personas muy inteligentes",
+            "Científicos famosos",
+            "Personas de otros países",
+            "Trabajadores del gobierno"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué pueden hacer los representantes de los territorios estadounidenses en el Congreso?",
+          "options": [
+            "Solo votar",
+            "Participar en debates pero no votar",
+            "Solo escuchar",
+            "Dirigir las sesiones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero controla la Reserva Federal según el texto?",
+          "options": [
+            "6.7 millones de dólares",
+            "6.7 billones de dólares",
+            "6.7 mil dólares",
+            "67 millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué empresa creó la nueva tecnología de inteligencia artificial?",
+          "options": [
+            "Microsoft",
+            "Google",
+            "Anthropic",
+            "Apple"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuándo trabajó Kevin Warsh en el banco central anteriormente?",
+          "options": [
+            "2006-2011",
+            "2010-2015",
+            "2000-2005",
+            "2015-2020"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué el gobierno prohíbe a extranjeros usar la nueva IA?",
+          "options": [
+            "Es muy cara",
+            "Por seguridad nacional",
+            "No funciona bien",
+            "Solo para estudiantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué quieren algunos territorios estadounidenses según el texto?",
+          "options": [
+            "Independencia completa",
+            "Más dinero del gobierno",
+            "Convertirse en estados",
+            "Cambiar de ubicación"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-14T10:08:53.609987"
+    },
+    {
       "date": "2026-06-13",
       "filename": "spanish_lesson_2026-06-13.pdf",
       "path": "pdfs/spanish_lesson_2026-06-13.pdf",
@@ -41762,7 +41984,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-13T09:59:16.214181",
+  "last_updated": "2026-06-14T10:08:53.610020",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
