@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-15",
+      "filename": "spanish_lesson_2026-06-15.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-15.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Senador estadounidense Mitch McConnell hospitalizado el domingo",
+          "headline_en": "US Senator Mitch McConnell hospitalized on Sunday",
+          "body_es": "El senador estadounidense Mitch McConnell fue hospitalizado el domingo por la mañana. Un portavoz del senador confirmó la noticia. McConnell es una figura importante en el Partido Republicano. Ha sido senador de Kentucky durante muchos años. El portavoz no dio detalles específicos sobre su condición médica. McConnell tiene 82 años y ha tenido problemas de salud antes. En marzo del año pasado, se cayó y se lastimó. Los médicos del hospital están cuidando al senador. Su oficina dice que darán más información pronto. Muchos políticos le enviaron buenos deseos. McConnell es conocido por su trabajo en el Senado. Su familia está con él en el hospital.",
+          "body_en": "US Senator Mitch McConnell was hospitalized Sunday morning. A spokesperson for the senator confirmed the news. McConnell is an important figure in the Republican Party. He has been a senator from Kentucky for many years. The spokesperson did not give specific details about his medical condition. McConnell is 82 years old and has had health problems before. Last March, he fell and got injured. Hospital doctors are taking care of the senator. His office says they will give more information soon. Many politicians sent him good wishes. McConnell is known for his work in the Senate. His family is with him at the hospital.",
+          "source": "The Jerusalem Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Copa del Mundo podría añadir $17 mil millones a economía estadounidense",
+          "headline_en": "World Cup could add $17 billion to US economy",
+          "body_es": "La Copa del Mundo podría añadir $17 mil millones a la economía de Estados Unidos. Este evento deportivo es muy importante para el país. Muchas empresas pueden beneficiarse del torneo de fútbol. Los hoteles, restaurantes y tiendas esperan más clientes. Las acciones de estas compañías pueden subir de precio. Los turistas de todo el mundo visitarán Estados Unidos. Esto significa más dinero para la economía local. Los expertos dicen que el evento creará muchos trabajos temporales. Las ciudades que organizan los partidos tendrán más ingresos. La Copa del Mundo es uno de los eventos más grandes del mundo. Millones de personas la ven por televisión. Las empresas de televisión también ganarán mucho dinero con la publicidad.",
+          "body_en": "The World Cup could add $17 billion to the US economy. This sporting event is very important for the country. Many companies can benefit from the soccer tournament. Hotels, restaurants and stores expect more customers. The stocks of these companies may go up in price. Tourists from around the world will visit the United States. This means more money for the local economy. Experts say the event will create many temporary jobs. The cities hosting the games will have more income. The World Cup is one of the biggest events in the world. Millions of people watch it on television. Television companies will also make a lot of money from advertising.",
+          "source": "CNBC TV18"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Monday lanza brazo de inversión de $200 millones para empresas de IA",
+          "headline_en": "Monday launches $200 million investment arm for AI companies",
+          "body_es": "La empresa Monday lanzó un nuevo brazo de inversión de $200 millones. Este dinero será para empresas emergentes de inteligencia artificial. Monday es conocida por sus herramientas de trabajo en equipo. Ahora quiere ayudar a otras compañías de tecnología. La inteligencia artificial es muy popular en estos días. Muchas empresas nuevas trabajan en esta área. Monday piensa que estas empresas emergentes pueden crecer mucho. La inversión ayudará a desarrollar nuevas tecnologías. Los expertos dicen que la IA cambiará muchas industrias. Monday quiere ser parte de este cambio. La compañía buscará las mejores empresas emergentes para invertir. Este tipo de inversión puede ser muy rentable. Otras grandes empresas también invierten en inteligencia artificial.",
+          "body_en": "Monday company launched a new $200 million investment arm. This money will be for artificial intelligence startups. Monday is known for its team collaboration tools. Now it wants to help other technology companies. Artificial intelligence is very popular these days. Many new companies work in this area. Monday thinks these startups can grow a lot. The investment will help develop new technologies. Experts say AI will change many industries. Monday wants to be part of this change. The company will look for the best startups to invest in. This type of investment can be very profitable. Other big companies also invest in artificial intelligence.",
+          "source": "CTech"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "hospitalizado",
+          "syllables": "hos-pi-ta-li-ZA-do",
+          "pos": "adjetivo",
+          "context": "El senador Mitch McConnell fue hospitalizado el domingo por la mañana.",
+          "definition_es": "Persona que está en un hospital para recibir tratamiento médico",
+          "definition_en": "Person who is in a hospital receiving medical treatment"
+        },
+        {
+          "word": "portavoz",
+          "syllables": "por-ta-VOZ",
+          "pos": "sustantivo",
+          "context": "Un portavoz del senador confirmó la noticia.",
+          "definition_es": "Persona que habla en nombre de otra persona o grupo",
+          "definition_en": "Person who speaks on behalf of another person or group"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La Copa del Mundo podría añadir $17 mil millones a la economía de Estados Unidos.",
+          "definition_es": "Sistema de producción y distribución de dinero y bienes en un país",
+          "definition_en": "System of production and distribution of money and goods in a country"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Estas son las acciones que pueden beneficiarse del evento.",
+          "definition_es": "Partes de una empresa que se pueden comprar y vender",
+          "definition_en": "Parts of a company that can be bought and sold"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "Monday lanza un brazo de inversión de $200 millones.",
+          "definition_es": "Dinero que se usa para hacer crecer un negocio o ganar más dinero",
+          "definition_en": "Money used to grow a business or earn more money"
+        },
+        {
+          "word": "empresas emergentes",
+          "syllables": "em-PRE-sas e-mer-GEN-tes",
+          "pos": "sustantivo",
+          "context": "La compañía invertirá en empresas emergentes de inteligencia artificial.",
+          "definition_es": "Compañías nuevas que están empezando y creciendo rápidamente",
+          "definition_en": "New companies that are starting and growing quickly"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Monday invertirá en empresas emergentes de inteligencia artificial.",
+          "definition_es": "Tecnología que permite a las máquinas pensar y actuar como humanos",
+          "definition_en": "Technology that allows machines to think and act like humans"
+        },
+        {
+          "word": "beneficiarse",
+          "syllables": "be-ne-fi-CIAR-se",
+          "pos": "verbo",
+          "context": "Muchas empresas pueden beneficiarse de la Copa del Mundo.",
+          "definition_es": "Obtener algo bueno o provechoso de una situación",
+          "definition_en": "To gain something good or useful from a situation"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'portavoz'?",
+          "options": [
+            "Persona que trabaja en un hospital",
+            "Persona que habla por otra persona",
+            "Persona que invierte dinero",
+            "Persona que juega fútbol"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en economía?",
+          "options": [
+            "Movimientos del cuerpo",
+            "Partes de una empresa",
+            "Tipos de medicina",
+            "Deportes populares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'beneficiarse'?",
+          "options": [
+            "Perder dinero",
+            "Obtener algo bueno",
+            "Trabajar mucho",
+            "Estar enfermo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'empresas emergentes'?",
+          "options": [
+            "Compañías muy antiguas",
+            "Compañías nuevas que crecen rápido",
+            "Compañías que no tienen dinero",
+            "Compañías del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Cuántos años tiene el senador McConnell?",
+          "options": [
+            "72 años",
+            "82 años",
+            "92 años",
+            "62 años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero podría añadir la Copa del Mundo a la economía estadounidense?",
+          "options": [
+            "$7 mil millones",
+            "$27 mil millones",
+            "$17 mil millones",
+            "$70 mil millones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿De qué estado es senador McConnell?",
+          "options": [
+            "Texas",
+            "California",
+            "Kentucky",
+            "Florida"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuánto dinero invertirá Monday en empresas emergentes?",
+          "options": [
+            "$100 millones",
+            "$300 millones",
+            "$200 millones",
+            "$500 millones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿En qué tipo de empresas emergentes invertirá Monday?",
+          "options": [
+            "Empresas de deportes",
+            "Empresas de inteligencia artificial",
+            "Empresas de comida",
+            "Empresas de ropa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tipo de empresas se beneficiarán de la Copa del Mundo?",
+          "options": [
+            "Solo los bancos",
+            "Hoteles, restaurantes y tiendas",
+            "Solo las empresas de tecnología",
+            "Solo las empresas de medicina"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-15T11:00:03.257114"
+    },
+    {
       "date": "2026-06-14",
       "filename": "spanish_lesson_2026-06-14.pdf",
       "path": "pdfs/spanish_lesson_2026-06-14.pdf",
@@ -41984,7 +42206,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-14T10:08:53.610020",
+  "last_updated": "2026-06-15T11:00:03.257157",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
