@@ -1,11 +1,122 @@
 {
-  "date": "2026-06-14",
-  "generated_at": "2026-06-14T10:13:18.896223Z",
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T11:08:39.039698Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 704,
-  "new_today": 4,
+  "total_stories": 707,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250615",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Los bacteriófagos: una nueva esperanza para curar infecciones de la piel",
+      "headline_en": "Bacteriophages: A New Hope for Treating Skin Infections",
+      "summary_es": "Los investigadores descubren que los bacteriófagos pueden ser una terapia efectiva para tratar infecciones de la piel y heridas crónicas. Este avance científico abre nuevas posibilidades en el cuidado de heridas.",
+      "body_es": "Los bacteriófagos son virus que atacan las bacterias. Los científicos estudian cómo usarlos para tratar infecciones de la piel. Este tratamiento es importante para heridas crónicas que no mejoran con antibióticos. Los bacteriófagos matan las bacterias sin dañar el tejido sano. Los expertos dicen que esta terapia es segura y efectiva. Es especialmente útil en heridas infectadas. Los hospitales usan cada vez más este método. Los resultados son muy prometedores. Los bacteriófagos ofrecen una alternativa a los medicamentos tradicionales. Los pacientes mejoran más rápido con este tratamiento.",
+      "body_en": "Bacteriophages are viruses that attack bacteria. Scientists are studying how to use them to treat skin infections. This treatment is important for chronic wounds that do not improve with antibiotics. Bacteriophages kill bacteria without damaging healthy tissue. Experts say this therapy is safe and effective. It is especially useful in infected wounds. Hospitals increasingly use this method. The results are very promising. Bacteriophages offer an alternative to traditional medications. Patients improve faster with this treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4QVExMVdrREtweS00VkEzMXNiRHdYYVkzR3MtcUpvQUdzY0VPdTVYdkoyRGdJOTU1T0JFb25VM3FRdGt6TW9UQWY3Wkx3eURyZUxsUVpLdEQ0UXRmY1M4TkhldHE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-15/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "bacteriófago",
+          "definition_es": "virus que ataca las bacterias",
+          "definition_en": "bacteriophage - virus that attacks bacteria"
+        },
+        {
+          "word": "infección",
+          "definition_es": "presencia de bacterias dañinas en una herida",
+          "definition_en": "infection - presence of harmful bacteria in a wound"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "herida que tarda mucho tiempo en cicatrizar",
+          "definition_en": "chronic wound - wound that takes a long time to heal"
+        },
+        {
+          "word": "tejido sano",
+          "definition_es": "parte del cuerpo que no está dañada",
+          "definition_en": "healthy tissue - part of body that is not damaged"
+        }
+      ],
+      "added_at": "2026-06-15T11:08:39.039698Z"
+    },
+    {
+      "id": "diabetic-foot-20250615",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Nuevo programa hospitalar previene amputaciones en pacientes diabéticos de alto riesgo",
+      "headline_en": "New Hospital Program Prevents Amputations in High-Risk Diabetic Patients",
+      "summary_es": "Un nuevo programa en el Hospital MLK ha logrado reducir las amputaciones a cero en pacientes con diabetes de alto riesgo. El programa integral combina evaluación temprana, cuidado especializado de heridas y seguimiento continuo.",
+      "body_es": "El Hospital MLK ha implementado un programa innovador para prevenir amputaciones en pacientes diabéticos. El programa se enfoca en la detección temprana de lesiones en los pies y el tratamiento inmediato. Los especialistas evalúan regularmente a los pacientes de riesgo, incluyendo aquellos con neuropatía diabética y problemas de circulación. El equipo multidisciplinario incluye enfermeros especializados en cuidado de heridas, médicos endocrinólogos y cirujanos vasculares. Utilizan apósitos avanzados, desbridamiento cuando es necesario, y educación del paciente sobre el autocuidado. Los resultados han sido extraordinarios: cero amputaciones en el grupo de pacientes tratados. Este modelo de atención integral demuestra la importancia del diagnóstico precoz y la intervención especializada en la prevención de complicaciones del pie diabético.",
+      "body_en": "MLK Hospital has implemented an innovative program to prevent amputations in diabetic patients. The program focuses on early detection of foot injuries and immediate treatment. Specialists regularly evaluate at-risk patients, including those with diabetic neuropathy and circulation problems. The multidisciplinary team includes nurses specialized in wound care, endocrinologists, and vascular surgeons. They use advanced dressings, debridement when necessary, and patient education on self-care. The results have been extraordinary: zero amputations in the treated patient group. This comprehensive care model demonstrates the importance of early diagnosis and specialized intervention in preventing diabetic foot complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDJ0bTZBc2tMSmxySVVQdGpXVkFBalhhUHNLdkF3Y1B5alliNFdzOVRpcTFIR3JPY2dTeW1YS1dianlNVmdySVViLVNIaS10NlE1cnZ6ekYwYjJVNFlaVjliSjNpOGdJNlpXXzJoTVdBSWQ5NWhlTXpPSEM2X3YwSDRPNU9HQ2tudmZwNWNLYXpKTHFlOHh4S1JGUmRpOUZxQV9TZ0VHZVp2NDN0NHlKb29BT0RkaEN4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-15/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "neuropatía diabética",
+          "definition_es": "daño nervioso causado por diabetes",
+          "definition_en": "diabetic neuropathy - nerve damage caused by diabetes"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación del tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material medicado que se coloca en una herida",
+          "definition_en": "dressing - medicated material placed on a wound"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-06-15T11:08:39.039698Z"
+    },
+    {
+      "id": "surgical-wounds-20250615",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "La suplementación proteica perioperatoria mejora la cicatrización tras cirugía abdominal",
+      "headline_en": "Perioperative Protein Supplementation Improves Healing After Abdominal Surgery",
+      "summary_es": "Un estudio reciente demuestra que la suplementación proteica alrededor de la cirugía reduce las complicaciones postoperatorias y acorta el tiempo de hospitalización en pacientes sometidos a cirugía abdominal electiva.",
+      "body_es": "Un estudio clínico ha investigado el efecto de la suplementación proteica perioperatoria en pacientes sometidos a cirugía abdominal electiva. Los investigadores compararon dos grupos: uno que recibió suplementos proteicos antes y después de la cirugía, y otro grupo control sin suplementación. Los resultados demostraron que el grupo con suplementación proteica tuvo una estancia hospitalaria más corta. Además, presentaron tasas significativamente más bajas de complicaciones postoperatorias, incluyendo infecciones de herida quirúrgica y dehiscencia de sutura. La cicatrización de la herida fue más rápida en el grupo tratado. Los investigadores concluyeron que la proteína es fundamental para la síntesis de colágeno y la reparación tisular. Este hallazgo es importante porque destaca la necesidad de optimizar la nutrición preoperatoria en pacientes quirúrgicos. La intervención nutricional puede reducir costos hospitalarios y mejorar los resultados clínicos.",
+      "body_en": "A clinical study investigated the effect of perioperative protein supplementation in patients undergoing elective abdominal surgery. Researchers compared two groups: one that received protein supplements before and after surgery, and a control group without supplementation. Results showed that the supplemented group had shorter hospital stays. Additionally, they presented significantly lower rates of postoperative complications, including surgical site infections and suture dehiscence. Wound healing was faster in the treated group. Researchers concluded that protein is fundamental for collagen synthesis and tissue repair. This finding is important because it highlights the need to optimize preoperative nutrition in surgical patients. Nutritional intervention can reduce hospital costs and improve clinical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdU5EZFh3SElnb2VnSElvSkZ4T1BObzd6UXFhQnRyQXFEaDZucmtSbDd5ZVI1aFF5dkRnczBXU3pCUmRMTmdzRmdETG00RHZoaXVPVEhnTnFvcG9WMmYwWUtGdE5rQWR2TE92UjBFVG1Pd2U3alhiYkstYk5ESDRmNy1HNW5mcDZuSkdxNmExUUhDVEQwVmozLWxXU3I4YmpUSGhwb3hlWHQ3WlM4ZjZsZ2pneGZIZGRYZWZkQl92Wkp4X1BtZmNxOVNDRTZ3UnZEUFNYVHoyRURsc3dCZE91ODFTN1RUSzdLQ0xjUDhJMTZfUVhYdkZueFZsUWJPZERTWWlVb0pQeEdYSzlOZGZjRE9EdE5WYzdpNFdrU0F3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-15/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dehiscencia de sutura",
+          "definition_es": "separación de los bordes de una herida cosida",
+          "definition_en": "suture dehiscence - separation of sutured wound edges"
+        },
+        {
+          "word": "colágeno",
+          "definition_es": "proteína que forma la estructura de la piel y tejidos",
+          "definition_en": "collagen - protein that forms skin and tissue structure"
+        },
+        {
+          "word": "síntesis",
+          "definition_es": "proceso de formación de sustancias en el cuerpo",
+          "definition_en": "synthesis - process of substance formation in the body"
+        },
+        {
+          "word": "reparación tisular",
+          "definition_es": "proceso de cicatrización y regeneración del tejido",
+          "definition_en": "tissue repair - healing and regeneration process"
+        }
+      ],
+      "added_at": "2026-06-15T11:08:39.039698Z"
+    },
     {
       "id": "chronic-wounds-20250614",
       "category": "Chronic Wounds",
@@ -26049,6 +26160,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-14T10:13:18.896223Z",
+  "last_updated": "2026-06-15T11:08:39.039698Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
