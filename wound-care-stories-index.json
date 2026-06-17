@@ -1,11 +1,159 @@
 {
-  "date": "2026-06-16",
-  "generated_at": "2026-06-16T10:40:16.476291Z",
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T10:37:07.488684Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 712,
-  "new_today": 5,
+  "total_stories": 716,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250617",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La FDA aprueba una segunda empresa para usar terapia de larvas en heridas",
+      "headline_en": "FDA Approves Second Company to Use Maggot Therapy for Wound Care",
+      "summary_es": "La Administración de Alimentos y Medicamentos de Estados Unidos (FDA) ha aprobado a una segunda compañía para usar larvas médicas en el tratamiento de heridas crónicas. Este tratamiento ayuda a limpiar y curar heridas difíciles.",
+      "body_es": "La FDA ha dado aprobación a una segunda compañía para usar larvas médicas en el cuidado de heridas. Las larvas limpian el tejido muerto y enfermo de las heridas. Este tratamiento se llama terapia de larvas. Las larvas comen solo el tejido muerto. No dañan el tejido sano. La terapia de larvas es útil para heridas crónicas y úlceras que no cierran bien. Muchos hospitales usan este tratamiento cuando otros métodos no funcionan. La aprobación de una segunda compañía da más opciones a los pacientes y a los médicos. Este tratamiento es seguro y efectivo para muchas personas con heridas difíciles de curar.",
+      "body_en": "The FDA has granted approval to a second company to use medical maggots in wound care. The larvae clean dead and diseased tissue from wounds. This treatment is called maggot therapy. The larvae only eat dead tissue. They do not harm healthy tissue. Maggot therapy is useful for chronic wounds and ulcers that do not close well. Many hospitals use this treatment when other methods do not work. The approval of a second company gives more options to patients and doctors. This treatment is safe and effective for many people with difficult-to-heal wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sWmhCZExMaWxKeUhpUDZDUkNSZFFIQnBaa3dMM19Xdkt5ZFZick0wOFdwcTlZdjk5UzY2bWJUb253Qzk1N0gxRzBFUEI3bzkxQ2MzNG1nWmFSRXU0R194cTc1ZHV5SmRzak4zbW1xYjRTeDBDZktzcW5n?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-17/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "larva",
+          "definition_es": "insecto joven de la mosca que limpia heridas",
+          "definition_en": "larva - young form of fly used to clean wounds"
+        },
+        {
+          "word": "tejido muerto",
+          "definition_es": "parte de la herida que no está viva o sana",
+          "definition_en": "dead tissue - part of wound that is not alive or healthy"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cierra",
+          "definition_en": "ulcer - open wound on skin that does not close"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        }
+      ],
+      "added_at": "2026-06-17T10:37:07.488684Z"
+    },
+    {
+      "id": "diabetic-foot-20250617",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Nuevo programa del hospital MLK reduce amputaciones en pacientes diabéticos de riesgo",
+      "headline_en": "New MLK Hospital Program Brings Amputations to Zero for At-Risk Diabetic Patients",
+      "summary_es": "Un nuevo programa en el hospital MLK ha logrado reducir significativamente las amputaciones en pacientes diabéticos de alto riesgo. El programa integra cuidado multidisciplinario para salvar extremidades amenazadas.",
+      "body_es": "El hospital MLK ha implementado un innovador programa de prevención de amputaciones para pacientes con diabetes de alto riesgo. El programa utiliza un enfoque multidisciplinario que incluye endocrinología, cirugía vascular, podología y enfermería especializada en heridas. Los pacientes reciben evaluación integral de sus pies y úlceras diabéticas, con seguimiento regular para detectar complicaciones temprano. El equipo médico realiza intervenciones vasculares cuando es necesario para mejorar la circulación. El cuidado de heridas incluye desbridamiento, apósitos avanzados y control de la infección. El programa también proporciona educación sobre el autocuidado de los pies y el manejo de la diabetes. Hasta ahora, el programa ha demostrado resultados excelentes en la prevención de amputaciones innecesarias en esta población vulnerable.",
+      "body_en": "MLK Hospital has implemented an innovative amputation prevention program for high-risk diabetic patients. The program uses a multidisciplinary approach that includes endocrinology, vascular surgery, podiatry, and specialized wound care nursing. Patients receive comprehensive evaluation of their feet and diabetic ulcers, with regular follow-up to detect complications early. The medical team performs vascular interventions when necessary to improve circulation. Wound care includes debridement, advanced dressings, and infection control. The program also provides education on foot self-care and diabetes management. So far, the program has demonstrated excellent results in preventing unnecessary amputations in this vulnerable population.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDJ0bTZBc2tMSmxySVVQdGpXVkFBalhhUHNLdkF3Y1B5alliNFdzOVRpcTFIR3JPY2dTeW1YS1dianlNVmdySVViLVNIaS10NlE1cnZ6ekYwYjJVNFlaVjliSjNpOGdJNlpXXzJoTVdBSWQ5NWhlTXpPSEM2X3YwSDRPNU9HQ2tudmZwNWNLYXpKTHFlOHh4S1JGUmRpOUZxQV9TZ0VHZVp2NDN0NHlKb29BT0RkaEN4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-17/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o infectado de una herida",
+          "definition_en": "debridement - removal of dead or infected tissue from a wound"
+        },
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta en el pie causada por diabetes",
+          "definition_en": "diabetic ulcer - open wound on foot caused by diabetes"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - material placed over wound for protection"
+        }
+      ],
+      "added_at": "2026-06-17T10:37:07.488684Z"
+    },
+    {
+      "id": "burn-care-20250617",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "¿Pueden las pieles impresas ayudar a sanar quemaduras sin cicatrices?",
+      "headline_en": "Can Printed 'Skin' Help to Heal Burns Without Scars?",
+      "summary_es": "Investigadores están desarrollando tecnología de impresión de piel para tratar quemaduras de manera más efectiva. Este avance promete mejorar la cicatrización y reducir complicaciones a largo plazo.",
+      "body_es": "Los investigadores están explorando una tecnología revolucionaria para tratar quemaduras: pieles impresas en 3D. Esta tecnología utiliza bioimpresión para crear tejido de piel personalizado que se adapta exactamente a las características del paciente. La piel impresa contiene células vivas y componentes naturales de la matriz extracelular. Cuando se aplica sobre la quemadura, facilita la regeneración del tejido y reduce la formación de cicatrices. Los estudios preliminares muestran que la piel impresa promueve una epitelización más rápida y uniforme. El proceso reduce la inflamación y mejora la función de barrera de la piel. Esta tecnología es particularmente prometedora para quemaduras de espesor parcial y total. Los investigadores esperan que en el futuro, la bioimpresión de piel sea un tratamiento estándar en las unidades de quemados de hospitales especializados.",
+      "body_en": "Researchers are exploring a revolutionary technology for treating burns: 3D printed skin. This technology uses bioprinting to create personalized skin tissue that adapts exactly to the patient's characteristics. The printed skin contains living cells and natural components of the extracellular matrix. When applied to the burn, it facilitates tissue regeneration and reduces scar formation. Preliminary studies show that printed skin promotes faster and more uniform epithelialization. The process reduces inflammation and improves the skin's barrier function. This technology is particularly promising for partial and full-thickness burns. Researchers hope that in the future, skin bioprinting will become a standard treatment in specialized hospital burn units.",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1VGT3hjMnFGRElyVGozckVGbF9hb2EyZ0FRR0VERm5WUGpCTFVaOUU5WWROSW1YbmVJWG1jaGx5QV9vNUwxamFGODhuZHFNMU9qbklYdEdqSUYtWjMzSkhWTnYwdlJGODFiQzlKN1pEbS0tSmZqX1JzVGR1TXNuekFDTUk1cVJUSDZYYnB1V2JhcnN4bHV6MU9Oc3BqMXZTeU5OUkZvRmR1MUhsQkE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-17/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to skin caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "bioimpresión",
+          "definition_es": "tecnología para imprimir tejido vivo en 3D",
+          "definition_en": "bioprinting - technology to print living tissue in 3D"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso en el que se forma nueva piel en una herida",
+          "definition_en": "epithelialization - process of new skin forming on a wound"
+        }
+      ],
+      "added_at": "2026-06-17T10:37:07.488684Z"
+    },
+    {
+      "id": "surgical-wounds-20250617",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Escala de riesgo preoperatorio predice curación lenta de heridas quirúrgicas",
+      "headline_en": "Preoperative Risk Score for Predicting Delayed Wound Healing After Plate Fixation in Patients With Closed Distal Fibular Fractures",
+      "summary_es": "Un nuevo sistema de evaluación de riesgo preoperatorio ayuda a identificar pacientes con fracturas de peroné que pueden desarrollar cicatrización lenta después de la cirugía. Esta herramienta permite intervenciones preventivas tempranas.",
+      "body_es": "Investigadores han desarrollado una escala de riesgo preoperatorio para predecir la cicatrización lenta en pacientes sometidos a fijación con placa para fracturas cerradas del peroné distal. La escala evalúa múltiples factores de riesgo incluyendo edad, comorbilidades como diabetes e insuficiencia vascular, tabaquismo, estado nutricional, e índice de masa corporal. Los estudios demuestran que esta escala identifica con precisión qué pacientes tendrán mayor riesgo de complicaciones en la cicatrización de heridas quirúrgicas. La identificación temprana de pacientes de alto riesgo permite optimizar el manejo preoperatorio mediante mejora nutricional, control glucémico, y suspensión del tabaco. Durante el procedimiento quirúrgico, estos pacientes requieren técnica quirúrgica meticulosa y cuidado especial de los tejidos blandos. En el período postoperatorio, el cuidado de heridas debe incluir vigilancia frecuente, desbridamiento temprano si es necesario, y uso de apósitos avanzados. Esta estrategia basada en riesgo mejora significativamente los resultados de cicatrización.",
+      "body_en": "Researchers have developed a preoperative risk score to predict delayed wound healing in patients undergoing plate fixation for closed distal fibular fractures. The scale evaluates multiple risk factors including age, comorbidities such as diabetes and vascular insufficiency, smoking, nutritional status, and body mass index. Studies demonstrate that this scale accurately identifies which patients will have greater risk of wound healing complications after surgical procedures. Early identification of high-risk patients allows optimization of preoperative management through nutritional improvement, glycemic control, and smoking cessation. During the surgical procedure, these patients require meticulous surgical technique and special care of soft tissues. In the postoperative period, wound care must include frequent surveillance, early debridement if necessary, and use of advanced dressings. This risk-based strategy significantly improves healing outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeFJGbGZpc1FzRHQ4UTV4Z0Y3bnByR0FlMXdzQnJFMGptTGtFUmI1dU5Ncmp2NWNLcjVtWDRBclBkOWRRYVlQTkhKTmNzcl9pNERqZ3FnT2hkRXZsNGtfeDlXa0lyZS1aT21NUVFKaHRidXNtbWFJaXlza3dQbXhFckZzWlN4NEFXNGZnMUdObWZ0T1FvLTBJWVktT3dCektLY1NPSzJLNjdHSjJyOTh6LWN1SmFIMTZIMlNjemxILUF5azEyeGZnQ0dLTU51V0daUGxqV0dZNVFXTmNLZ1BROE15MFdXd2g1Sl8zeDZaWmdORFBDUDg5bXUweEl4dw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-17/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión causada durante una operación quirúrgica",
+          "definition_en": "surgical wound - injury caused during a surgical operation"
+        },
+        {
+          "word": "cicatrización lenta",
+          "definition_es": "proceso de curación de una herida más lento de lo normal",
+          "definition_en": "delayed healing - wound healing that is slower than normal"
+        },
+        {
+          "word": "fijación con placa",
+          "definition_es": "procedimiento quirúrgico donde se usa una placa de metal para estabilizar un hueso fracturado",
+          "definition_en": "plate fixation - surgical procedure using metal plate to stabilize fractured bone"
+        },
+        {
+          "word": "comorbilidad",
+          "definition_es": "presencia de una o más enfermedades además de la enfermedad principal",
+          "definition_en": "comorbidity - presence of additional disease alongside main disease"
+        }
+      ],
+      "added_at": "2026-06-17T10:37:07.488684Z"
+    },
     {
       "id": "chronic-wounds-20260616",
       "category": "Chronic Wounds",
@@ -26345,6 +26493,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-16T10:40:16.476291Z",
+  "last_updated": "2026-06-17T10:37:07.488684Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
