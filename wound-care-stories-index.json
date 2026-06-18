@@ -1,11 +1,196 @@
 {
-  "date": "2026-06-17",
-  "generated_at": "2026-06-17T10:37:07.488684Z",
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T10:34:43.570601Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 716,
-  "new_today": 4,
+  "total_stories": 721,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250618",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Las nanofibras de aceite de oliva cierren heridas diabéticas más rápido",
+      "headline_en": "Olive Oil Nanofibers Heal Diabetic Wounds Faster",
+      "summary_es": "Un nuevo tratamiento usa nanofibras de aceite de oliva para sanar heridas diabéticas más rápidamente. Este descubrimiento de Nature puede cambiar el cuidado de heridas crónicas.",
+      "body_es": "Investigadores descubren un tratamiento nuevo para heridas diabéticas. Usan nanofibras de aceite de oliva. Las nanofibras son muy pequeñas. Ayudan a sanar la piel más rápido. Los pacientes con diabetes tienen heridas difíciles. Estas heridas no cierran bien. El nuevo tratamiento mejora la curación. Las nanofibras protegen la herida. También reducen la infección. Los médicos aplican el tratamiento directamente en la herida. El resultado es muy prometedor. Los pacientes con heridas diabéticas pueden mejorar rápidamente. Este avance es importante para el cuidado de heridas.",
+      "body_en": "Researchers discover a new treatment for diabetic wounds. They use olive oil nanofibers. Nanofibers are very small. They help heal skin faster. Patients with diabetes have difficult wounds. These wounds don't close well. The new treatment improves healing. The nanofibers protect the wound. They also reduce infection. Doctors apply the treatment directly to the wound. The result is very promising. Patients with diabetic wounds can improve quickly. This advance is important for wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5c2FyZ1dVbXQ1MWNkdzRkMmZTajhicUdjSTJzUkVQOTRMNGFTaEl0WkdKUWo0dmthckttVEw4OEpYX0dXcTRSYVdWY2RYX0lmMXl3UHFYOWNZclp5eDFr?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-18/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o tejido",
+          "definition_en": "wound - injury to skin or tissue"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar o cerrarse una herida",
+          "definition_en": "healing - process of skin closing and recovering"
+        },
+        {
+          "word": "infección",
+          "definition_es": "enfermedad causada por gérmenes o bacterias",
+          "definition_en": "infection - disease caused by germs or bacteria"
+        },
+        {
+          "word": "nanofibra",
+          "definition_es": "fibra muy pequeña usada en tratamientos médicos",
+          "definition_en": "nanofiber - extremely small fiber used in medical treatments"
+        }
+      ],
+      "added_at": "2026-06-18T10:34:43.570601Z"
+    },
+    {
+      "id": "diabetic-foot-20250618",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Hospital MLK logra cero amputaciones en programa para pacientes diabéticos de riesgo",
+      "headline_en": "MLK Hospital Program Brings Amputations to Zero for At-Risk Diabetic Patients",
+      "summary_es": "Un nuevo programa en el hospital MLK en Los Angeles ha reducido las amputaciones a cero en pacientes diabéticos de alto riesgo. El enfoque multidisciplinario previene complicaciones graves del pie diabético.",
+      "body_es": "El hospital MLK en Los Angeles ha implementado un programa innovador que ha logrado eliminar las amputaciones en pacientes diabéticos de alto riesgo. El programa utiliza un enfoque multidisciplinario que incluye médicos, enfermeras especializadas y podólogos. Los pacientes reciben evaluaciones regulares del pie diabético para detectar úlceras tempranamente. El equipo proporciona educación sobre el cuidado diario de los pies y la prevención de lesiones. Se realizan desbridamientos cuando es necesario para evitar que las infecciones progresan. Los pacientes aprenden a reconocer signos de peligro como el eritema y el edema. El monitoreo continuo reduce significativamente el riesgo de amputación. Este programa demuestra que la prevención y el tratamiento temprano salvan extremidades y mejoran la calidad de vida.",
+      "body_en": "MLK Hospital in Los Angeles has implemented an innovative program that has achieved zero amputations in high-risk diabetic patients. The program uses a multidisciplinary approach that includes physicians, specialized nurses, and podologists. Patients receive regular diabetic foot evaluations to detect ulcers early. The team provides education about daily foot care and injury prevention. Debridements are performed when necessary to prevent infections from progressing. Patients learn to recognize danger signs such as erythema and edema. Continuous monitoring significantly reduces the risk of amputation. This program demonstrates that prevention and early treatment save limbs and improve quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDJ0bTZBc2tMSmxySVVQdGpXVkFBalhhUHNLdkF3Y1B5alliNFdzOVRpcTFIR3JPY2dTeW1YS1dianlNVmdySVViLVNIaS10NlE1cnZ6ekYwYjJVNFlaVjliSjNpOGdJNlpXXzJoTVdBSWQ5NWhlTXpPSEM2X3YwSDRPNU9HQ2tudmZwNWNLYXpKTHFlOHh4S1JGUmRpOUZxQV9TZ0VHZVp2NDN0NHlKb29BT0RkaEN4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-18/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza correctamente",
+          "definition_en": "ulcer - open wound on skin that doesn't heal properly"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel por inflamación o irritación",
+          "definition_en": "erythema - redness of skin due to inflammation"
+        },
+        {
+          "word": "edema",
+          "definition_es": "hinchazón causada por acumulación de líquido en los tejidos",
+          "definition_en": "edema - swelling caused by fluid buildup in tissues"
+        }
+      ],
+      "added_at": "2026-06-18T10:34:43.570601Z"
+    },
+    {
+      "id": "burn-care-20250618",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Tratamiento biológico revolucionario ayuda a estudiante a recuperarse de quemaduras graves",
+      "headline_en": "World-First Burn Treatment Helps Student Recover from Serious Injuries",
+      "summary_es": "Un hospital canadiense utiliza un tratamiento biológico revolucionario para tratar a una estudiante con quemaduras graves. Este avance mundial demuestra resultados 'absolutamente notables' en la curación de lesiones por fuego.",
+      "body_es": "Un hospital canadiense ha realizado un tratamiento biológico nunca antes utilizado para sanar quemaduras graves. Una estudiante de la Universidad de Western sufrió quemaduras severas en un incendio en una casa. El personal médico aplicó este tratamiento biológico innovador que ha mostrado resultados 'absolutamente notables'. El tratamiento acelera la epitelización de las quemaduras profundas. Los médicos combinan técnicas biológicas avanzadas con cuidado tradicional de quemaduras. El proceso incluye evaluación regular de la escara y el tejido granulado. La estudiante ha mostrado una recuperación excepcional después del tratamiento. Este enfoque revolucionario ofrece esperanza para pacientes con quemaduras extensas. El tratamiento biológico reduce significativamente el tiempo de curación y minimiza las complicaciones como la infección.",
+      "body_en": "A Canadian hospital has performed a biological treatment never before used to heal severe burn injuries. A Western University student suffered severe burns in a house fire. Medical staff applied this innovative biological treatment that has shown 'absolutely remarkable' results. The treatment accelerates epithelialization of deep burns. Doctors combine advanced biological techniques with traditional burn care. The process includes regular assessment of the eschar and granulated tissue. The student has shown exceptional recovery after treatment. This revolutionary approach offers hope for patients with extensive burns. The biological treatment significantly reduces healing time and minimizes complications such as infection.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa2VpYVJRdldIYXBBRTQ5VGc3VTZGRW5vNUhOOFp0SDUwVzhJWk1Ub0M2UHVnUkZpRlFOdExJM0U1dkh0TmsxU2QxQ3p0bm9tSWx1VC02a0YxRVlUVVk4blJSYlFCZGZKaE9iQVJiRlgwLXRrd01nbEF5QU9KN01EU3publRSNTg5ZzJIWnRpNGt5aF9hUEk1bkN2WlBfLTdOOU14c2RuOUgwLTU4eUhTVUlCTFNuazl2Q2kxdjNPR3AxUGs1U3E2Slo5WUlRWjdIX25CVTNDWFNQdDc1NG1N?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-18/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por fuego, calor o sustancias químicas",
+          "definition_en": "burn - skin injury caused by fire, heat, or chemicals"
+        },
+        {
+          "word": "escara",
+          "definition_es": "tejido muerto de color oscuro formado por quemaduras graves",
+          "definition_en": "eschar - dark dead tissue formed from severe burns"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - process of new skin forming over a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo rojo en la curación de heridas",
+          "definition_en": "granulation - formation of new red tissue in wound healing"
+        }
+      ],
+      "added_at": "2026-06-18T10:34:43.570601Z"
+    },
+    {
+      "id": "surgical-wounds-20250618",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Cirugía de derivación sin derivación extracorpórea reduce riesgos en pacientes con comorbilidades",
+      "headline_en": "Off-Pump Coronary Artery Bypass Surgery Reduces Risk for Patients with Comorbidities",
+      "summary_es": "Johns Hopkins Medicine informa que la cirugía de derivación coronaria sin derivación extracorpórea reduce significativamente los riesgos para pacientes con múltiples condiciones médicas. El procedimiento minimamente invasivo mejora los resultados quirúrgicos.",
+      "body_es": "Johns Hopkins Medicine ha documentado que la cirugía de derivación de arteria coronaria sin circulación extracorpórea reduce las complicaciones en pacientes con comorbilidades. Esta técnica quirúrgica evita el uso de máquina cardiopulmonar durante la intervención. Los pacientes que reciben esta cirugía muestran mejor cicatrización de heridas quirúrgicas. La evaluación perioperatoria es crucial para identificar pacientes candidatos. El procedimiento disminuye el riesgo de infección de la herida y otros eventos adversos. Los cirujanos realizan el desbridamiento selectivo solo cuando es necesario. La técnica minimiza el estrés fisiológico en el cuerpo durante la operación. Los pacientes experimentan mejor recuperación y menos complicaciones postoperatorias. Este enfoque representa un avance importante en cirugía cardíaca para poblaciones de alto riesgo.",
+      "body_en": "Johns Hopkins Medicine has documented that off-pump coronary artery bypass surgery reduces complications in patients with comorbidities. This surgical technique avoids the use of cardiopulmonary bypass machine during the procedure. Patients receiving this surgery show better surgical wound healing. Perioperative evaluation is crucial to identify candidate patients. The procedure decreases the risk of wound infection and other adverse events. Surgeons perform selective debridement only when necessary. The technique minimizes physiological stress on the body during surgery. Patients experience better recovery and fewer postoperative complications. This approach represents an important advance in cardiac surgery for high-risk populations.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX1dmd2czR0dNOGR2Q2NuZ3Z0eEdhMi11RzlxVEVzbTllNV9OdHpxU2R1MHF6VXhfbEFDbXU0andyNDFQZWtDR0VfMWdDbDVFUmNJV0ozQV83a253MHNwLUp3b1c5cUJXQkRfdExzWVpnTkZ3SG9EMzlPNmZwaGVWQTJ6cm9vYmsyX1NGdEh5U051WFhvX1NnRzRfQWRwSG1iakVDRzFvNkR2MVY2ZzFscjdsRWk3Vml1c2V6QjVJa3ZBYWVLV2l5ZTZQamJCUTFnaFBZaA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-18/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y cierre de una herida quirúrgica",
+          "definition_en": "wound healing - process of surgical wound closure and recovery"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido necrótico o dañado durante cirugía",
+          "definition_en": "debridement - removal of dead or damaged tissue during surgery"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de células o tejido vivo en el cuerpo",
+          "definition_en": "necrosis - death of cells or living tissue in the body"
+        },
+        {
+          "word": "comorbilidad",
+          "definition_es": "presencia de dos o más enfermedades en el mismo paciente",
+          "definition_en": "comorbidity - presence of two or more diseases in the same patient"
+        }
+      ],
+      "added_at": "2026-06-18T10:34:43.570601Z"
+    },
+    {
+      "id": "wound-research-20250618",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "UChicago Medicine presenta avances en investigación clínica en conferencia internacional",
+      "headline_en": "UChicago Medicine Highlights Research and Clinical Advances at International Conference",
+      "summary_es": "UChicago Medicine presenta resultados de investigación clínica significativa en una conferencia médica internacional. Los avances incluyen nuevas estrategias para el cuidado de heridas y tratamientos innovadores.",
+      "body_es": "UChicago Medicine ha presentado sus últimos avances en investigación clínica durante una conferencia médica internacional. El hospital destaca investigaciones en evaluación de heridas y nuevas técnicas de curación. Los estudios incluyen análisis de diferentes apósitos y vendajes para mejorar la epitelización. Los investigadores examinan factores que afectan la isquemia en heridas crónicas. El equipo presenta datos sobre la prevención de infecciones en heridas quirúrgicas. Se han publicado resultados sobre el uso de nuevos materiales para desbridamiento. Los líderes clínicos comparten protocolos de evaluación de granulación y formación de cicatrices. Estos avances contribuyen al conocimiento global sobre el cuidado óptimo de heridas. La investigación de UChicago mejora los resultados para pacientes con heridas complejas.",
+      "body_en": "UChicago Medicine has presented its latest clinical research advances at an international medical conference. The hospital highlights research in wound assessment and new healing techniques. The studies include analysis of different dressings and bandages to improve epithelialization. Researchers examine factors affecting ischemia in chronic wounds. The team presents data on preventing infections in surgical wounds. Results have been published on the use of new materials for debridement. Clinical leaders share protocols for assessing granulation and scar formation. These advances contribute to global knowledge about optimal wound care. UChicago's research improves outcomes for patients with complex wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUVsaTltUnh0MUVBSEF2Ri1LYWtYMURmaFlwaV9Yd3JrZ0xwZ3NsalhmNGp0T1lDVGQ0TVRQSXppZjBILWt3WVlkN0ZKRXFuRG14Z3ZiQzktWC0yeTBsYkJ1V0J5MUotTTNwWW51X2V5VlRfb2s5SGRNQ241My0tVVpmRG8?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-18/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de células epiteliales para cerrar una herida",
+          "definition_en": "epithelialization - growth of epithelial cells to close a wound"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo de sangre a un tejido",
+          "definition_en": "ischemia - lack of blood flow to tissue"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido de cicatrización que se forma durante la curación",
+          "definition_en": "granulation - scar tissue that forms during healing"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico aplicado directamente sobre una herida",
+          "definition_en": "dressing - medical material applied directly to a wound"
+        }
+      ],
+      "added_at": "2026-06-18T10:34:43.570601Z"
+    },
     {
       "id": "chronic-wounds-20250617",
       "category": "Chronic Wounds",
@@ -26493,6 +26678,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-17T10:37:07.488684Z",
+  "last_updated": "2026-06-18T10:34:43.570601Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
