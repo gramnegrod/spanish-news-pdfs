@@ -1,11 +1,233 @@
 {
-  "date": "2026-06-19",
-  "generated_at": "2026-06-19T10:36:03.475098Z",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T10:05:34.880446Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 726,
-  "new_today": 5,
+  "total_stories": 732,
+  "new_today": 6,
   "stories": [
+    {
+      "id": "chronic-wounds-20250620",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos medicamentos para tratar heridas crónicas",
+      "headline_en": "New Medications to Treat Chronic Wounds",
+      "summary_es": "Los investigadores estudian medicamentos nuevos para ayudar a curar heridas crónicas. Estos medicamentos pueden ser útiles para pacientes con problemas de piel graves.",
+      "body_es": "Las heridas crónicas son difíciles de curar. Un nuevo estudio examina medicamentos especiales llamados GLP-1RAs. Estos medicamentos pueden ayudar con muchas enfermedades de la piel. Los investigadores piensan que estos medicamentos pueden mejorar la curación de heridas. Las heridas crónicas afectan a muchos pacientes. El tratamiento es complicado y necesita cuidado especial. Los doctores usan vendajes y medicinas para curar las heridas. Los nuevos medicamentos pueden ser una solución buena. Los pacientes necesitan seguimiento regular para evaluar el progreso. Este estudio es importante para mejorar el cuidado de heridas.",
+      "body_en": "Chronic wounds are difficult to heal. A new study examines special medications called GLP-1RAs. These medications can help with many skin diseases. Researchers believe these medications can improve wound healing. Chronic wounds affect many patients. Treatment is complicated and requires special care. Doctors use dressings and medicines to heal wounds. New medications may be a good solution. Patients need regular follow-up to evaluate progress. This study is important for improving wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVExfZkFMbVlmWExJOG1mVUFqSzlDNFZHSFVmTk9mNUM1M0wxNFo1NmZmcENMN19JblRxdUt1bHJGYTQ4SjlUR0p6aTZ0cUhZY0R5ZDYwa0t6TDN2RXFPWGtZR09MVkxMTWJmM2tNU0xWYWItb1BqSkJJLVUzQTBjS05GMWNfZmgzWEZtX0NMeXBvNVAzZG9aWFpFMWZnU1dMVnZGSzZnS2ZUcjc1N1FFd0F3Q2hpTmYyRGFJ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-20/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "medicamento",
+          "definition_es": "sustancia para curar o tratar enfermedad",
+          "definition_en": "medication - substance to cure or treat disease"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de que la herida se cierre y sane",
+          "definition_en": "healing - process of wound closure and recovery"
+        }
+      ],
+      "added_at": "2026-06-20T10:05:34.880446Z"
+    },
+    {
+      "id": "pressure-ulcers-20250620",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "indigo",
+      "headline_es": "Colchones especiales previenen úlceras por presión",
+      "headline_en": "Special Mattresses Prevent Pressure Ulcers",
+      "summary_es": "Los colchones especiales ayudan a prevenir úlceras por presión en pacientes encamados. Un buen colchón reduce la presión en la piel.",
+      "body_es": "Las úlceras por presión son lesiones graves de la piel. Se forman en pacientes que están en cama mucho tiempo. Los colchones especiales pueden prevenir estas úlceras. Un buen colchón distribuye el peso del cuerpo de manera uniforme. Esto reduce la presión sobre la piel. Los pacientes con poco movimiento necesitan protección especial. Las enfermeras recomiendan cambiar de posición frecuentemente. Los apósitos protectores también son importantes. El cuidado preventivo es mejor que el tratamiento. Los hospitales usan colchones de espuma y aire para ayudar. La prevención salva tiempo y dinero en el tratamiento.",
+      "body_en": "Pressure ulcers are serious skin injuries. They form in patients who are bedridden for long periods. Special mattresses can prevent these ulcers. A good mattress distributes body weight evenly. This reduces pressure on the skin. Patients with limited mobility need special protection. Nurses recommend frequent position changes. Protective dressings are also important. Preventive care is better than treatment. Hospitals use foam and air mattresses to help. Prevention saves time and money in treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2N1ppdXV3ZUdHREtXVzJXTnFSSjBsZklwSkg0dHJJbWxCUnh4a0F4RV8tYmxWaGZzRnp5ZjJzdVZLNGlsTllXRHdoTElPd2YyQ1JRSzA1cWJtSmRjTzZDdzc5OGYtSl9qUkdGMUtBNjJ0VjBD?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-20/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "lesión de piel causada por presión prolongada",
+          "definition_en": "pressure ulcer - skin injury caused by prolonged pressure"
+        },
+        {
+          "word": "escara",
+          "definition_es": "zona de piel muerta por falta de circulación",
+          "definition_en": "bedsore - area of dead skin from lack of circulation"
+        },
+        {
+          "word": "colchón",
+          "definition_es": "superficie para dormir que distribuye peso",
+          "definition_en": "mattress - sleeping surface that distributes weight"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar que algo ocurra",
+          "definition_en": "prevention - actions to avoid injury or disease"
+        }
+      ],
+      "added_at": "2026-06-20T10:05:34.880446Z"
+    },
+    {
+      "id": "diabetic-foot-20250620",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Nuevo programa hospitalario reduce amputaciones en pacientes diabéticos",
+      "headline_en": "New Hospital Program Reduces Amputations in Diabetic Patients",
+      "summary_es": "Un hospital ha implementado un programa innovador que ha logrado eliminar las amputaciones en pacientes con alto riesgo diabético. El enfoque multidisciplinario ha transformado los resultados clínicos.",
+      "body_es": "Un nuevo programa hospitalario ha demostrado resultados excepcionales en el tratamiento de complicaciones del pie diabético. El equipo multidisciplinario incluye endocrinólogos, cirujanos vasculares, y especialistas en heridas. Los pacientes reciben evaluaciones completas para identificar problemas circulatorios y neuropáticos. El programa utiliza técnicas avanzadas de revascularización y desbridamiento cuando es necesario. Se ha logrado reducir significativamente las amputaciones mediante intervenciones tempranas. Los pacientes aprenden sobre el cuidado diario de los pies y la importancia del control glucémico. El seguimiento regular previene infecciones y complicaciones graves. Este enfoque coordinado ha transformado los resultados en centros participantes. La educación del paciente y el monitoreo continuo son esenciales para el éxito del programa.",
+      "body_en": "A new hospital program has demonstrated exceptional results in treating diabetic foot complications. The multidisciplinary team includes endocrinologists, vascular surgeons, and wound care specialists. Patients receive comprehensive evaluations to identify circulatory and neuropathic problems. The program uses advanced revascularization and debridement techniques when necessary. Significant reduction in amputations has been achieved through early interventions. Patients learn about daily foot care and the importance of glycemic control. Regular follow-up prevents infections and serious complications. This coordinated approach has transformed outcomes in participating centers. Patient education and continuous monitoring are essential for program success.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdS02TGwwSnA0Y29TYjlFekNPZF9yc2FIeXVkekxpUnFtWWowejBucGlNRGpIanpBb3NYU0djNUJSOU80TTFaU0NUaE9hNjF5TVh1bFJtQnZVbmt1c1hUU1Q2Z2xBMU1xeG1TT190bURNeUJ4cUFzMHBBQ0Nyc0ktMTdWdG9zQktpVnQxWU9CUVJldjA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-20/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación del pie en pacientes con diabetes",
+          "definition_en": "diabetic foot - foot complications in diabetic patients"
+        },
+        {
+          "word": "neuropatía",
+          "definition_es": "daño en los nervios que reduce sensibilidad",
+          "definition_en": "neuropathy - nerve damage that reduces sensation"
+        },
+        {
+          "word": "revascularización",
+          "definition_es": "restauración del flujo de sangre mediante intervención",
+          "definition_en": "revascularization - restoration of blood flow through intervention"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido dañado o muerto",
+          "definition_en": "debridement - removal of damaged or dead tissue"
+        }
+      ],
+      "added_at": "2026-06-20T10:05:34.880446Z"
+    },
+    {
+      "id": "burn-care-20250620",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Tratamiento revolucionario de quemaduras de tercer grado utiliza células vivas",
+      "headline_en": "Revolutionary Third-Degree Burn Treatment Uses Living Cells",
+      "summary_es": "Un tratamiento innovador ha logrado cicatrizar quemaduras graves de tercer grado en la cara de un paciente. Este avance utiliza células vivas para regenerar la piel dañada.",
+      "body_es": "Un nuevo tratamiento revolucionario ha permitido cicatrizar exitosamente quemaduras de tercer grado en la zona facial de un paciente. Este procedimiento utiliza células vivas y técnicas de bioingeniería para regenerar la piel. El tratamiento es menos invasivo que los injertos tradicionales de piel. Los médicos extrajeron células sanas del paciente y las cultivaron en laboratorio. Luego, aplicaron estas células sobre las áreas quemadas para promover la epitelización. El proceso de curación fue más rápido de lo esperado. Los resultados muestran reconstrucción de la dermis y epidermis. La cicatrización fue más estética que con métodos convencionales. Este avance abre nuevas posibilidades para pacientes con quemaduras extensas. El tratamiento también reduce el riesgo de infecciones y complicaciones asociadas.",
+      "body_en": "A revolutionary new treatment has successfully healed third-degree burns on a patient's face. This procedure uses living cells and bioengineering techniques to regenerate damaged skin. The treatment is less invasive than traditional skin grafts. Doctors extracted healthy cells from the patient and cultivated them in the laboratory. They then applied these cells to burned areas to promote epithelialization. The healing process was faster than expected. Results show reconstruction of the dermis and epidermis. Scarring was more aesthetic than with conventional methods. This breakthrough opens new possibilities for patients with extensive burns. The treatment also reduces the risk of infections and associated complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbW1teDRtU2FtTzByQ1FaRk50RHRmQUkxTUI2U0UyYnZ3QTMtSFAtN1YtMVQ2c1U2X2lwdnQ0ZFJUM1AwY0tvSzB1aVZ1RU95cTYteEN0U08xeEFhT0w3THZtdlRiY1h6VWcxYU9OUGlaUnczLTNzVWFadHpISy1ob2hDV25qOF9RdTcwaVVNbEdFaUdaUDhRcGg3UzlTNE0tVDJrQUVjX18yNS11bVMxSzdiRUYtTUdBZ0ZaMTlYZUlTYktra0E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-20/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura de tercer grado",
+          "definition_es": "lesión profunda que afecta todas las capas de la piel",
+          "definition_en": "third-degree burn - deep injury affecting all skin layers"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel",
+          "definition_en": "epithelialization - process of new skin formation"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "trasplante de piel de una área a otra",
+          "definition_en": "graft - transplant of skin from one area to another"
+        },
+        {
+          "word": "bioingeniería",
+          "definition_es": "aplicación de técnicas de ingeniería a sistemas biológicos",
+          "definition_en": "bioengineering - application of engineering techniques to biological systems"
+        }
+      ],
+      "added_at": "2026-06-20T10:05:34.880446Z"
+    },
+    {
+      "id": "surgical-wounds-20250620",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "rose",
+      "headline_es": "Paciente se recupera de complicaciones graves después de cirugía con atención especializada",
+      "headline_en": "Patient Recovers from Severe Post-Surgical Complications with Specialized Care",
+      "summary_es": "Un paciente ha logrado recuperarse de complicaciones severas después de una intervención quirúrgica mediante un programa integral de cuidado de heridas. La atención multidisciplinaria fue fundamental en su recuperación.",
+      "body_es": "Pam logró recuperarse de complicaciones postquirúrgicas graves que amenazaron su vida. Después de la cirugía inicial, desarrolló dehiscencia de la herida e infección secundaria. El equipo de especialistas en heridas implementó un protocolo de cuidado intensivo. Se utilizaron apósitos avanzados y técnicas de curación por presión negativa. El manejo del exudado fue crucial para prevenir la macración de la piel. Los médicos realizaron evaluaciones frecuentes para monitorear la granulación y epitelización. La nutrición adecuada y el control del dolor fueron componentes esenciales del tratamiento. Los cambios de vendaje se realizaron con técnicas asépticas para prevenir infecciones. Después de varios meses de tratamiento especializado, la herida cicatrizó completamente. Este caso demuestra la importancia de la atención dedicada en complicaciones postquirúrgicas.",
+      "body_en": "Pam successfully recovered from severe post-surgical complications that threatened her life. After the initial surgery, she developed wound dehiscence and secondary infection. The wound care specialist team implemented an intensive care protocol. Advanced dressings and negative pressure wound therapy techniques were utilized. Exudate management was crucial to prevent skin maceration. Doctors performed frequent assessments to monitor granulation and epithelialization. Adequate nutrition and pain control were essential treatment components. Dressing changes were performed using aseptic techniques to prevent infections. After several months of specialized treatment, the wound healed completely. This case demonstrates the importance of dedicated care in post-surgical complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTAwdHhteHNxdFNsalZ3UU4yTEdjaDEtZE51bmRhWWgtc0hYTEhnNDEwMzI2OEhUdS1vaFA5Q1BHUHBFRHl6NzRBN1FMOVVNd3Axa3c5Um51SkhtTlVra09zU09ZeUhKMHdsNlJjVUduYnZ6WDNKRU5kLW04OXFCVkRVUWNKNUNUY2NUUUF5NUtvOEZyc2h3Qk9FbnNTUQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-20/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dehiscencia",
+          "definition_es": "separación o apertura de los bordes de una herida",
+          "definition_en": "dehiscence - separation or opening of wound edges"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that drains from a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido en el proceso de cicatrización",
+          "definition_en": "granulation - formation of new tissue during healing"
+        },
+        {
+          "word": "curación por presión negativa",
+          "definition_es": "técnica que usa presión reducida para sanar heridas",
+          "definition_en": "negative pressure wound therapy - technique using reduced pressure to heal wounds"
+        }
+      ],
+      "added_at": "2026-06-20T10:05:34.880446Z"
+    },
+    {
+      "id": "wound-research-20250620",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "violet",
+      "headline_es": "Centro oncológico recibe millonaria inversión para investigación de heridas",
+      "headline_en": "Cancer Center Receives Major Grant for Wound Research",
+      "summary_es": "El Centro de Cáncer Moores de UC San Diego ha recibido una subvención de veinticinco millones de dólares para avanzar en la investigación de cuidado de heridas y cicatrización de tejidos.",
+      "body_es": "El Centro de Cáncer Moores de UC San Diego ha recibido una prestigiosa subvención de veinticinco millones de dólares. Esta inversión financiará investigación innovadora en cicatrización de heridas y regeneración de tejidos. El proyecto busca comprender los mecanismos moleculares de la epitelización y granulación. Los investigadores estudiarán cómo optimizar el proceso de curación en heridas complejas. La investigación incluye estudios sobre factores de crecimiento y células madre. El laboratorio desarrollará nuevos apósitos y técnicas de tratamiento. La colaboración entre departamentos oncológicos y de cirugía es fundamental. Los hallazgos podrán aplicarse en pacientes con cáncer y cirugía oncológica. Este financiamiento permitirá expandir el equipo de investigadores dedicados. Los resultados podría mejorar significativamente los resultados clínicos en cuidado de heridas.",
+      "body_en": "UC San Diego's Moores Cancer Center has received a prestigious grant of twenty-five million dollars. This investment will fund innovative research in wound healing and tissue regeneration. The project seeks to understand the molecular mechanisms of epithelialization and granulation. Researchers will study how to optimize the healing process in complex wounds. Research includes studies on growth factors and stem cells. The laboratory will develop new dressings and treatment techniques. Collaboration between oncology and surgery departments is fundamental. Findings could be applied in cancer patients and oncologic surgery. This funding will allow expansion of the dedicated research team. Results could significantly improve clinical outcomes in wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2dqMFZrdUdMNHgxVDlWRnQ0N3FCdWptaUZHTFkyN3Y2Rks5M0dJS2dwLW03VHRiRVNKMDVOR1FhUG5tUlhfVmduMUtJT3VaQm50dVFkVUJGWFNSbVctMmw4U1dNY081eXdSXzQ0UE5PTllVenVRWXZRQ0liRm9SMEFZV0RBQlJlb3FJekhadEN6UENqek0xOXRsaTBiTjgxN3c?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-20/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y curación de heridas",
+          "definition_en": "wound healing - process of closure and healing of wounds"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "proteína que estimula el crecimiento celular",
+          "definition_en": "growth factor - protein that stimulates cell growth"
+        },
+        {
+          "word": "célula madre",
+          "definition_es": "célula no diferenciada que puede regenerar tejidos",
+          "definition_en": "stem cell - undifferentiated cell that can regenerate tissue"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva epidermis sobre la herida",
+          "definition_en": "epithelialization - formation of new epidermis over the wound"
+        }
+      ],
+      "added_at": "2026-06-20T10:05:34.880446Z"
+    },
     {
       "id": "chronic-wounds-20250619",
       "category": "Chronic Wounds",
@@ -26863,6 +27085,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-19T10:36:03.475098Z",
+  "last_updated": "2026-06-20T10:05:34.880446Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
