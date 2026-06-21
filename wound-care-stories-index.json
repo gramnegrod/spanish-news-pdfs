@@ -1,11 +1,159 @@
 {
-  "date": "2026-06-20",
-  "generated_at": "2026-06-20T10:05:34.880446Z",
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T10:18:25.924309Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 732,
-  "new_today": 6,
+  "total_stories": 736,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250621",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Los farmacéuticos ayudan a tratar heridas crónicas y agudas",
+      "headline_en": "Pharmacists Help Treat Chronic and Acute Wounds",
+      "summary_es": "Los farmacéuticos juegan un papel importante en el tratamiento de heridas crónicas y agudas. Ellos trabajan con otros profesionales de la salud para mejorar la curación de los pacientes.",
+      "body_es": "Los farmacéuticos son profesionales importante en el equipo de cuidado de heridas. Ellos conocen los medicamentos y los apósitos para las heridas. Los farmacéuticos ayudan a seleccionar el mejor tratamiento para cada paciente. Trabajan con enfermeros y médicos para cuidar heridas crónicas, como úlceras de presión. También tratan heridas agudas, como quemaduras y lesiones quirúrgicas. El farmacéutico revisa los medicamentos del paciente. Verifica que no hay interacciones peligrosas. Enseña al paciente cómo cuidar su herida en casa. El trabajo del farmacéutico mejora la curación. Los pacientes se recuperan más rápido. Las infecciones disminuyen. Este enfoque de equipo es muy importante para los pacientes con heridas complicadas.",
+      "body_en": "Pharmacists are important professionals in wound care teams. They know about medications and wound dressings. Pharmacists help select the best treatment for each patient. They work with nurses and doctors to care for chronic wounds, such as pressure ulcers. They also treat acute wounds, like burns and surgical injuries. The pharmacist reviews the patient's medications. He or she verifies that there are no dangerous interactions. Teaches the patient how to care for his or her wound at home. The pharmacist's work improves healing. Patients recover faster. Infections decrease. This team approach is very important for patients with complicated wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXQwWHBWbFp5VTVwLUoxbkpHYzkyU2l5WWNMWkxtWFlOUWI3YjExbzZvVDZYOC1XUGI5TS1rcGFlQ2FtdmROLUY1dTZUTkxSbTR2TXdwWVJVaDFiX0tJenN2RU1wYjRBRndoRHM0bEpPVVFjUXh3N0h2U3l5Q0haYXFKU2RJQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-21/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o tejido del cuerpo",
+          "definition_en": "wound - injury to skin or body tissue"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso natural de sanar una herida",
+          "definition_en": "healing - natural process of a wound getting better"
+        },
+        {
+          "word": "infección",
+          "definition_es": "entrada de bacterias o microorganismos en una herida",
+          "definition_en": "infection - entry of bacteria or microorganisms into a wound"
+        }
+      ],
+      "added_at": "2026-06-21T10:18:25.924309Z"
+    },
+    {
+      "id": "diabetic-foot-20250621",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Nuevo programa hospitalario reduce amputaciones en pacientes diabéticos en riesgo",
+      "headline_en": "New hospital program brings amputations to zero for at-risk diabetic patients",
+      "summary_es": "Un nuevo programa hospitalario ha logrado reducir las amputaciones a cero en pacientes diabéticos en riesgo. El programa integra evaluación preventiva, educación del paciente y cuidado multidisciplinario.",
+      "body_es": "Un hospital ha implementado un programa innovador para prevenir amputaciones en pacientes diabéticos de alto riesgo. El programa comenzó después de que el equipo médico identificara que muchos pacientes llegaban con complicaciones avanzadas del pie diabético. Los especialistas en heridas trabajan con endocrinólogos, cirujanos vasculares y enfermeros para evaluar a los pacientes con diabetes. El equipo realiza evaluaciones regulares del pie utilizando pruebas de sensibilidad nerviosa. Identifican úlceras pequeñas antes de que se infecten. Los pacientes reciben educación sobre el cuidado diario del pie y la importancia del control de glucosa. Se proporciona calzado especializado a los pacientes que lo necesitan. Los resultados han sido excepcionales: el hospital ha eliminado las amputaciones relacionadas con el pie diabético. Este enfoque preventivo demuestra que con intervención temprana y coordinación entre especialistas, es posible salvar extremidades.",
+      "body_en": "A hospital has implemented an innovative program to prevent amputations in high-risk diabetic patients. The program began after the medical team identified that many patients arrived with advanced complications of diabetic foot. Wound care specialists work with endocrinologists, vascular surgeons, and nurses to evaluate patients with diabetes. The team performs regular foot evaluations using nerve sensitivity tests. They identify small ulcers before they become infected. Patients receive education about daily foot care and the importance of glucose control. Specialized footwear is provided to patients who need it. The results have been exceptional: the hospital has eliminated amputations related to diabetic foot. This preventive approach demonstrates that with early intervention and coordination between specialists, it is possible to save limbs.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdS02TGwwSnA0Y29TYjlFekNPZF9yc2FIeXVkekxpUnFtWWowejBucGlNRGpIanpBb3NYU0djNUJSOU80TTFaU0NUaE9hNjF5TVh1bFJtQnZVbmt1c1hUU1Q2Z2xBMU1xeG1TT190bURNeUJ4cUFzMHBBQ0Nyc0ktMTdWdG9zQktpVnQxWU9CUVJldjA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-21/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación de la diabetes que afecta los pies",
+          "definition_en": "diabetic foot - complication of diabetes affecting the feet"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta o erosión en la piel",
+          "definition_en": "ulcer - open wound or erosion of the skin"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción de tejido muerto o infectado",
+          "definition_en": "debridement - removal of dead or infected tissue"
+        }
+      ],
+      "added_at": "2026-06-21T10:18:25.924309Z"
+    },
+    {
+      "id": "burn-care-20250621",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Tratamiento innovador de quemaduras ayuda a estudiante a recuperarse sin cirugía",
+      "headline_en": "World-first burn treatment helps student recover from injuries without extensive surgery",
+      "summary_es": "Un tratamiento innovador para quemaduras ha permitido que un estudiante se recupere de lesiones graves sin necesidad de cirugías extensas. Este tratamiento revolucionario representa un avance significativo en el cuidado de quemaduras.",
+      "body_es": "Un estudiante sufrió quemaduras graves en un incendio y fue tratado con una técnica innovadora que cambió su resultado médico. El tratamiento utiliza células del paciente para regenerar la piel dañada, permitiendo una curación más rápida y natural. El proceso tradicional requería múltiples injertos de piel y cirugías prolongadas. Este nuevo tratamiento acelera la epitelización, el proceso natural donde la piel se regenera. Los médicos extrajeron células sanas de áreas no afectadas. Estas células fueron procesadas en el laboratorio para crear un cultivo celular. El cultivo se aplicó directamente a las áreas quemadas. La piel comenzó a regenerarse más rápidamente de lo esperado. El paciente requirió menos intervenciones quirúrgicas y experimentó menos dolor durante la recuperación. Los resultados fueron excepcionales, con una cicatrización mínima. Este tratamiento de nueva generación ofrece esperanza a los pacientes con quemaduras graves.",
+      "body_en": "A student suffered severe burns in a fire and was treated with an innovative technique that changed his medical outcome. The treatment uses cells from the patient to regenerate damaged skin, allowing faster and more natural healing. The traditional process required multiple skin grafts and prolonged surgeries. This new treatment accelerates epithelialization, the natural process where skin regenerates. Doctors extracted healthy cells from unaffected areas. These cells were processed in the laboratory to create a cell culture. The culture was applied directly to the burned areas. The skin began to regenerate more quickly than expected. The patient required fewer surgical interventions and experienced less pain during recovery. Results were exceptional, with minimal scarring. This next-generation treatment offers hope to patients with severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa2VpYVJRdldIYXBBRTQ5VGc3VTZGRW5vNUhOOFp0SDUwVzhJWk1Ub0M2UHVnUkZpRlFOdExJM0U1dkh0TmsxU2QxQ3p0bm9tSWx1VC02a0YxRVlUVVk4blJSYlFCZGZKaE9iQVJiRlgwLXRrd01nbEF5QU9KN01EU3publRSNTg5ZzJIWnRpNGt5aF9hUEk1bkN2WlBfLTdOOU14c2RuOUgwLTU4eUhTVUlCTFNuazl2Q2kxdjNPR3AxUGs1U3E2Slo5WUlRWjdIX25CVTNDWFNQdDc1NG1N?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-21/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de regeneración de la capa externa de la piel",
+          "definition_en": "epithelialization - process of skin regeneration and regrowth"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "tejido trasplantado quirúrgicamente para reparar una lesión",
+          "definition_en": "graft - tissue surgically transplanted to repair an injury"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        }
+      ],
+      "added_at": "2026-06-21T10:18:25.924309Z"
+    },
+    {
+      "id": "surgical-wounds-20250621",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Los farmacéuticos desempeñan papel clave en el tratamiento de heridas quirúrgicas y agudas",
+      "headline_en": "Pharmacists Play Key Role in Treatment of Surgical and Acute Wounds",
+      "summary_es": "Los farmacéuticos son miembros esenciales del equipo de cuidado de heridas quirúrgicas, coordinando medicamentos y apósitos para optimizar la cicatrización postoperatoria.",
+      "body_es": "Los farmacéuticos están expandiendo su rol en el manejo de heridas quirúrgicas y lesiones agudas en entornos hospitalarios. Después de una cirugía, las heridas requieren vigilancia cuidadosa para prevenir complicaciones como infecciones y dehiscencia. El farmacéutico colabora con cirujanos, anestesiólogos y enfermeros de quirófano para seleccionar los antimicrobianos apropiados. Evalúa los factores de riesgo del paciente, incluyendo edad, comorbilidades y tipo de procedimiento realizado. Los farmacéuticos recomiendan apósitos avanzados que mantienen la humedad óptima y favorecen la granulación del tejido. Monitorizan la terapia antibiótica para asegurar que se administren las dosis correctas en los intervalos adecuados. Educan a los pacientes sobre cuidados en casa, incluyendo cambios de vendajes y signos de alerta como eritema excesivo o exudado purulento. Esta colaboración multidisciplinaria ha reducido significativamente las complicaciones postoperatorias y mejora los resultados de curación.",
+      "body_en": "Pharmacists are expanding their role in the management of surgical wounds and acute injuries in hospital settings. After surgery, wounds require careful monitoring to prevent complications such as infections and dehiscence. The pharmacist collaborates with surgeons, anesthesiologists, and operating room nurses to select appropriate antimicrobials. Evaluates patient risk factors, including age, comorbidities, and type of procedure performed. Pharmacists recommend advanced dressings that maintain optimal moisture and promote tissue granulation. They monitor antibiotic therapy to ensure correct doses are administered at appropriate intervals. They educate patients about home care, including dressing changes and warning signs such as excessive erythema or purulent drainage. This multidisciplinary collaboration has significantly reduced postoperative complications and improves healing outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXQwWHBWbFp5VTVwLUoxbkpHYzkyU2l5WWNMWkxtWFlOUWI3YjExbzZvVDZYOC1XUGI5TS1rcGFlQ2FtdmROLUY1dTZUTkxSbTR2TXdwWVJVaDFiX0tJenN2RU1wYjRBRndoRHM0bEpPVVFjUXh3N0h2U3l5Q0haYXFKU2RJQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-21/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dehiscencia",
+          "definition_es": "reapertura de una herida quirúrgica después de cierre",
+          "definition_en": "dehiscence - reopening of a surgical wound after closure"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo en la base de una herida",
+          "definition_en": "granulation - formation of new tissue at the base of a wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that drains from a wound"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel",
+          "definition_en": "erythema - redness of the skin"
+        }
+      ],
+      "added_at": "2026-06-21T10:18:25.924309Z"
+    },
     {
       "id": "chronic-wounds-20250620",
       "category": "Chronic Wounds",
@@ -27085,6 +27233,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-20T10:05:34.880446Z",
+  "last_updated": "2026-06-21T10:18:25.924309Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
