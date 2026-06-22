@@ -1,11 +1,159 @@
 {
-  "date": "2026-06-21",
-  "generated_at": "2026-06-21T10:18:25.924309Z",
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T10:59:21.834802Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 736,
+  "total_stories": 740,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250622",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo tratamiento israelí ayuda a sanar heridas sin cirugía",
+      "headline_en": "New Israeli treatment helps heal wounds without surgery",
+      "summary_es": "Un tratamiento innovador de Israel reduce la necesidad de cirugía en quemaduras graves. Ahora se utiliza para salvar extremidades en pacientes con heridas crónicas.",
+      "body_es": "Un equipo médico israelí desarrolló un tratamiento revolucionario para heridas graves. Este tratamiento reduce la necesidad de cirugía de quemaduras. Los médicos usan este método en pacientes con quemaduras severas. Ahora, el tratamiento tiene un nuevo objetivo. Los médicos quieren usar esta técnica para salvar brazos y piernas. Los pacientes con heridas crónicas pueden beneficiarse. El tratamiento es menos invasivo que la cirugía tradicional. Los resultados iniciales son muy positivos. Los hospitales de todo el mundo estudian esta nueva opción. Este avance puede cambiar el cuidado de heridas graves.",
+      "body_en": "A medical team in Israel developed a revolutionary treatment for severe wounds. This treatment reduces the need for burn surgery. Doctors use this method in patients with severe burns. Now, the treatment has a new goal. Doctors want to use this technique to save arms and legs. Patients with chronic wounds can benefit. The treatment is less invasive than traditional surgery. Initial results are very positive. Hospitals worldwide are studying this new option. This advance could change the care of serious wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lOF9XTFRiOUN5X00yVUlab1c1VnhYa2FGTWZNbm9nSXBoTndVblNSejlVYkxxSGFibldGNUFvV1AwcFNIaXd6R0l6RVJLRW9Zay1ZMjFXMmw1UVFGN3BVRHZuVUlVMzA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-22/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión o corte en la piel",
+          "definition_en": "wound - injury or cut in the skin"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por fuego o calor",
+          "definition_en": "burn - injury caused by fire or heat"
+        },
+        {
+          "word": "cirugía",
+          "definition_es": "intervención médica con procedimiento operatorio",
+          "definition_en": "surgery - medical intervention with surgical procedure"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método o proceso para curar una enfermedad",
+          "definition_en": "treatment - method or process to cure a disease"
+        }
+      ],
+      "added_at": "2026-06-22T10:59:21.834802Z"
+    },
+    {
+      "id": "diabetic-foot-20250622",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Hospital logra cero amputaciones en pacientes diabéticos con programa nuevo",
+      "headline_en": "Hospital achieves zero amputations in diabetic patients with new program",
+      "summary_es": "Un programa hospitalario innovador ha eliminado las amputaciones en pacientes diabéticos de alto riesgo mediante vigilancia temprana y cuidado multidisciplinario. Los resultados demuestran la importancia de la evaluación preventiva.",
+      "body_es": "Un hospital ha implementado un programa revolucionario que ha reducido las amputaciones a cero en pacientes diabéticos de alto riesgo. El programa utiliza un enfoque multidisciplinario que incluye evaluaciones tempranas del pie diabético. Los especialistas trabajan juntos para identificar problemas antes de que se compliquen. El equipo examina las úlceras del pie y la circulación periférica regularmente. La detección temprana permite iniciar tratamientos como desbridamiento y vendajes especializados. Los pacientes reciben educación sobre el cuidado de sus pies en casa. El programa ha demostrado que las intervenciones preventivas pueden evitar amputaciones. Los resultados muestran tasas de cicatrización más rápidas. Este modelo de cuidado está siendo estudiado por otros hospitales como referencia para mejorar los resultados en pacientes diabéticos.",
+      "body_en": "A hospital has implemented a revolutionary program that has reduced amputations to zero in high-risk diabetic patients. The program uses a multidisciplinary approach that includes early evaluations of diabetic foot. Specialists work together to identify problems before they become complicated. The team examines foot ulcers and peripheral circulation regularly. Early detection allows treatments to begin such as debridement and specialized dressings. Patients receive education about foot care at home. The program has shown that preventive interventions can prevent amputations. Results show faster healing rates. This model of care is being studied by other hospitals as a reference to improve outcomes in diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdS02TGwwSnA0Y29TYjlFekNPZF9yc2FIeXVkekxpUnFtWWowejBucGlNRGpIanpBb3NYU0djNUJSOU80TTFaU0NUaE9hNjF5TVh1bFJtQnZVbmt1c1hUU1Q2Z2xBMU1xeG1TT190bURNeUJ4cUFzMHBBQ0Nyc0ktMTdWdG9zQktpVnQxWU9CUVJldjA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-22/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "procedimiento para remover tejido muerto o dañado",
+          "definition_en": "debridement - procedure to remove dead or damaged tissue"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo en una herida",
+          "definition_en": "healing - process of new tissue formation in a wound"
+        }
+      ],
+      "added_at": "2026-06-22T10:59:21.834802Z"
+    },
+    {
+      "id": "burn-care-20250622",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Tratamiento mundial innovador ayuda a estudiante a recuperarse de graves quemaduras",
+      "headline_en": "World-first innovative treatment helps student recover from severe burns",
+      "summary_es": "Un estudiante occidental se recuperó exitosamente de quemaduras graves sufridas en un incendio en una fraternidad usando un tratamiento de quemaduras de última generación nunca antes realizado en su país.",
+      "body_es": "Un estudiante universitario sufrió quemaduras graves durante un incendio en una casa de fraternidad. Los médicos utilizaron un tratamiento innovador de quemaduras que es el primero en su país. Este tratamiento de última generación reduce el trauma tisular y acelera la cicatrización. El procedimiento implica técnicas especializadas de injerto de piel y terapia biológica avanzada. Los especialistas en cuidado de quemaduras evaluaron la extensión de las quemaduras en el cuerpo del paciente. El equipo multidisciplinario incluyó cirujanos, enfermeras y terapeutas especializados. El paciente recibió cuidados intensivos para prevenir infecciones y complicaciones como el edema. Durante el tratamiento, los médicos monitorearon la epitelización y la granulación de las heridas. El estudiante respondió positivamente al tratamiento y mostró progreso significativo en su recuperación. Este caso demuestra cómo la medicina avanzada puede mejorar los resultados en pacientes con quemaduras severas.",
+      "body_en": "A university student suffered severe burns during a fire in a fraternity house. Doctors used an innovative burn treatment that is the first of its kind in the country. This state-of-the-art treatment reduces tissue trauma and accelerates healing. The procedure involves specialized skin grafting techniques and advanced biological therapy. Burn care specialists evaluated the extent of burns on the patient's body. The multidisciplinary team included surgeons, nurses, and specialized therapists. The patient received intensive care to prevent infections and complications such as edema. During treatment, doctors monitored epithelialization and granulation of the wounds. The student responded positively to treatment and showed significant progress in recovery. This case demonstrates how advanced medicine can improve outcomes in patients with severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa2VpYVJRdldIYXBBRTQ5VGc3VTZGRW5vNUhOOFp0SDUwVzhJWk1Ub0M2UHVnUkZpRlFOdExJM0U1dkh0TmsxU2QxQ3p0bm9tSWx1VC02a0YxRVlUVVk4blJSYlFCZGZKaE9iQVJiRlgwLXRrd01nbEF5QU9KN01EU3publRSNTg5ZzJIWnRpNGt5aF9hUEk1bkN2WlBfLTdOOU14c2RuOUgwLTU4eUhTVUlCTFNuazl2Q2kxdjNPR3AxUGs1U3E2Slo5WUlQWjdIX25CVTNDWFNQdDc1NG1N?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-22/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por fuego, calor o radiación",
+          "definition_en": "burn - injury to skin caused by fire, heat, or radiation"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "procedimiento de trasplante de piel sana a área dañada",
+          "definition_en": "skin graft - procedure to transplant healthy skin to damaged area"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva epidermis en la herida",
+          "definition_en": "epithelialization - process of new epidermis formation in the wound"
+        },
+        {
+          "word": "edema",
+          "definition_es": "acumulación anormal de líquido en los tejidos del cuerpo",
+          "definition_en": "edema - abnormal accumulation of fluid in body tissues"
+        }
+      ],
+      "added_at": "2026-06-22T10:59:21.834802Z"
+    },
+    {
+      "id": "surgical-wounds-20250622",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "red",
+      "headline_es": "Investigación destaca riesgos de infección en heridas quirúrgicas con diabetes mal controlada",
+      "headline_en": "Research highlights infection risks in surgical wounds with poorly controlled diabetes",
+      "summary_es": "Un caso clínico reportado describe complicaciones graves en una herida quirúrgica de paciente con diabetes no controlada, subrayando la importancia del control glucémico preoperatorio.",
+      "body_es": "Los investigadores del Instituto Cureus reportaron un caso de complicaciones graves tras cirugía en un paciente con diabetes mal controlada. El paciente desarrolló un absceso suprapúbico profundo de polimicrobios después de una orquiectomía radical por vía inguinal. Esta complicación demuestra cómo la hiperglucemia debilita la respuesta inmunitaria y favorece infecciones secundarias. La herida quirúrgica se infectó con múltiples bacterias que causaron necrosis tisular. El equipo médico tuvo que realizar desbridamiento quirúrgico para remover el tejido necrótico. El paciente requirió antibióticos de amplio espectro y cuidados intensivos de la herida. Los apósitos antimicrobianos fueron esenciales en el tratamiento. Este caso subraya la importancia crítica de lograr control glucémico antes de intervenciones quirúrgicas. Los pacientes diabéticos necesitan evaluaciones preoperatorias rigurosas y monitoreo glucémico estricto. El manejo multidisciplinario del paciente fue fundamental para prevenir complicaciones mayores como la sepsis.",
+      "body_en": "Researchers at Cureus Institute reported a case of serious complications after surgery in a patient with poorly controlled diabetes. The patient developed a deep polymicrobial suprapubic abscess after radical inguinal orchiectomy. This complication demonstrates how hyperglycemia weakens immune response and promotes secondary infections. The surgical wound became infected with multiple bacteria that caused tissue necrosis. The medical team had to perform surgical debridement to remove necrotic tissue. The patient required broad-spectrum antibiotics and intensive wound care. Antimicrobial dressings were essential in treatment. This case emphasizes the critical importance of achieving glycemic control before surgical interventions. Diabetic patients need rigorous preoperative evaluations and strict glucose monitoring. Multidisciplinary patient management was fundamental to prevent major complications such as sepsis.",
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSC1ZSkw1enNOOHVWZjI1eU9NUzJjNUNTUVQwelp2enV6M01MSVQ5eTg0R0tVakpCSEd4TkJYYUdXQWh6bTdjVUxJenMtR0xzRHgzOGJIVWpYWEhDUzlQLTRhMXowcFk4MmtrT3JraUNodEdqQ29nbXNWbGt5VFlRbEdMWk5qOFRJdDJPXzZnX3pOdGw2S0lMMWtjM0xxRlNrajlrcmRqajQxenNZbTZTd3pfOTZ1aURSbUJHYVRDVW13djJseGtiTnRncWYyNGFITVdSNzhtaWlyLUt1ckdhT3hFS1Y5WDJLQWxPaXFnRHQxQmJoZ2YtSVdBX0ZuNno5M0ZFMEQ2Ym5WWGJr?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-22/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "absceso",
+          "definition_es": "acumulación de pus en los tejidos causada por infección bacteriana",
+          "definition_en": "abscess - accumulation of pus in tissues caused by bacterial infection"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido causada por falta de sangre o infección",
+          "definition_en": "necrosis - death of tissue caused by lack of blood or infection"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto, dañado o infectado",
+          "definition_en": "debridement - surgical removal of dead, damaged or infected tissue"
+        },
+        {
+          "word": "apósito antimicrobiano",
+          "definition_es": "vendaje que contiene sustancias que previenen el crecimiento de bacterias",
+          "definition_en": "antimicrobial dressing - bandage containing substances that prevent bacterial growth"
+        }
+      ],
+      "added_at": "2026-06-22T10:59:21.834802Z"
+    },
     {
       "id": "chronic-wounds-20250621",
       "category": "Chronic Wounds",
@@ -27233,6 +27381,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-21T10:18:25.924309Z",
+  "last_updated": "2026-06-22T10:59:21.834802Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
