@@ -1,11 +1,196 @@
 {
-  "date": "2026-06-23",
-  "generated_at": "2026-06-23T10:18:46.824219Z",
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T10:08:45.516490Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 744,
-  "new_today": 4,
+  "total_stories": 749,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250624",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Un freno molecular para las heridas diabéticas",
+      "headline_en": "A Molecular Brake on Diabetic Wounds",
+      "summary_es": "Investigadores descubren un mecanismo molecular que controla la curación de heridas en pacientes diabéticos. Este hallazgo abre nuevas opciones de tratamiento para heridas crónicas.",
+      "body_es": "Los científicos han identificado un \"freno molecular\" importante en la curación de heridas diabéticas. Este mecanismo controla cómo el cuerpo repara la piel dañada. En pacientes con diabetes, este proceso funciona incorrectamente. Las heridas no cierran bien y se infectan con frecuencia. El nuevo descubrimiento explica por qué sucede esto. Los investigadores estudiaron moléculas especiales en el tejido. Encontraron que una proteína particular detiene la curación normal. Este conocimiento es muy importante. Ahora los médicos pueden desarrollar tratamientos nuevos. Estos tratamientos pueden activar nuevamente el proceso natural de curación. El resultado final es mejor cuidado para pacientes diabéticos con heridas crónicas.",
+      "body_en": "Scientists have identified an important 'molecular brake' in diabetic wound healing. This mechanism controls how the body repairs damaged skin. In diabetic patients, this process functions incorrectly. Wounds do not close properly and become infected frequently. The new discovery explains why this happens. Researchers studied special molecules in tissue. They found that one particular protein stops normal healing. This knowledge is very important. Now doctors can develop new treatments. These treatments can reactivate the natural healing process. The final result is better care for diabetic patients with chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wUFlLeWpiV2FHQnBhQm56UjVmaEd5aC1XMlhiZjh1NFplUzBURlZpY01CbDJlaUdaMDNQckVRenJFUDZjLW0way1YS0lrQWVzMGgwT3NXM1lkZUVw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-24/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o tejido del cuerpo",
+          "definition_en": "wound - injury to the skin or body tissue"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso natural de cicatrización y reparación",
+          "definition_en": "healing - natural process of scar formation and repair"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "células del cuerpo que forman órganos y piel",
+          "definition_en": "tissue - body cells that form organs and skin"
+        },
+        {
+          "word": "molécula",
+          "definition_es": "partícula microscópica de una sustancia",
+          "definition_en": "molecule - microscopic particle of a substance"
+        }
+      ],
+      "added_at": "2026-06-24T10:08:45.516490Z"
+    },
+    {
+      "id": "diabetic-foot-20250624",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Nuevo programa hospitalario reduce amputaciones a cero en pacientes diabéticos",
+      "headline_en": "New Hospital Program Brings Amputations to Zero for At-Risk Diabetic Patients",
+      "summary_es": "Un hospital implementa un programa integral que ha eliminado las amputaciones en pacientes diabéticos de alto riesgo. El enfoque multidisciplinario previene complicaciones severas del pie diabético.",
+      "body_es": "Un hospital ha lanzado un programa revolucionario que ha logrado reducir las amputaciones a cero en pacientes diabéticos de alto riesgo. El programa utiliza un enfoque multidisciplinario que incluye endocrinólogos, cirujanos vasculares, podólogos y enfermeros especializados en cuidado de heridas. Los pacientes reciben evaluaciones regulares del pie y educación sobre cuidado diario. El equipo identifica úlceras de pie diabético en etapas tempranas cuando el tratamiento es más efectivo. Se implementan protocolos de desbridamiento y vendajes avanzados para prevenir infecciones. Los resultados han sido extraordinarios: la tasa de amputación ha descendido significativamente desde que comenzó el programa. Este modelo demuestra que la prevención y la detección temprana son cruciales en el manejo del pie diabético. El programa también ha mejorado la calidad de vida de los pacientes y ha reducido costos hospitalarios.",
+      "body_en": "A hospital has launched a revolutionary program that has achieved zero amputations in high-risk diabetic patients. The program uses a multidisciplinary approach that includes endocrinologists, vascular surgeons, podiatrists, and wound care nurses. Patients receive regular foot evaluations and education about daily care. The team identifies diabetic foot ulcers in early stages when treatment is most effective. Debridement protocols and advanced dressings are implemented to prevent infections. The results have been extraordinary: the amputation rate has decreased significantly since the program began. This model demonstrates that prevention and early detection are crucial in diabetic foot management. The program has also improved patients' quality of life and reduced hospital costs.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdS02TGwwSnA0Y29TYjlFekNPZF9yc2FIeXVkekxpUnFtWWowejBucGlNRGpIanpBb3NYU0djNUJSOU80TTFaU0NUaE9hNjF5TVh1bFJtQnZVbmt1c1hUU1Q2Z2xBMU1xeG1TT190bURNeUJ4cUFzMHBBQ0Nyc0ktMTdWdG9zQktpVnQxWU9CUVJldjA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-24/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o infectado",
+          "definition_en": "debridement - surgical removal of dead or infected tissue"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material especial que se coloca sobre la herida para protegerla",
+          "definition_en": "dressing - special material placed on wound for protection"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de un miembro o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        }
+      ],
+      "added_at": "2026-06-24T10:08:45.516490Z"
+    },
+    {
+      "id": "burn-care-20250624",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Tratamiento revolucionario de quemaduras con resultados extraordinarios",
+      "headline_en": "World-First Burn Treatment with Absolutely Remarkable Results",
+      "summary_es": "Un hospital canadiense realiza por primera vez un tratamiento innovador de quemaduras con resultados extraordinarios. La nueva técnica ofrece esperanza a pacientes con quemaduras graves.",
+      "body_es": "Hamilton Health Sciences ha realizado un tratamiento de quemaduras sin precedentes con resultados absolutamente notables. La técnica innovadora fue aplicada a pacientes con quemaduras severas que previamente tenían opciones limitadas de tratamiento. El nuevo método acelera significativamente el proceso de cicatrización y reduce la necesidad de injertos de piel tradicionales. Durante el procedimiento, se utilizan tecnologías avanzadas para regenerar la piel dañada de forma más eficiente. Los pacientes tratados han mostrado mejoras dramáticas en la cicatrización y han experimentado menos dolor durante la recuperación. Los investigadores indican que este avance representa un cambio fundamental en el cuidado de quemaduras. La técnica también reduce el riesgo de infecciones, una complicación común en estos casos. Los resultados preliminares sugieren que este tratamiento podría transformar el estándar de cuidado para pacientes con quemaduras graves en todo el mundo.",
+      "body_en": "Hamilton Health Sciences has performed an unprecedented burn treatment with absolutely remarkable results. The innovative technique was applied to patients with severe burns who previously had limited treatment options. The new method significantly accelerates the healing process and reduces the need for traditional skin grafts. During the procedure, advanced technologies are used to regenerate damaged skin more efficiently. Treated patients have shown dramatic improvements in scarring and have experienced less pain during recovery. Researchers indicate that this breakthrough represents a fundamental change in burn care. The technique also reduces the risk of infections, a common complication in these cases. Preliminary results suggest this treatment could transform the standard of care for severely burned patients worldwide.",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMlVwOTdwcDhwRFhmQnVTcDNzLVppN0taemwyN0dTSGwwakZQNVg5Z1dvNmxVbTFHdk9lY0hDdm9vMVlHYkVTZUVUejRqdG85bjRXNi0tUUVZQVpVQ0R3Vk5wSG81TmxQUUJKbWFWY2lMZGxxR0JlR2o3SUFmY0dfUHFRdlV6bk9MOGNSMUVxdmt0UUFwQlBVeDFNSWU5ODdGNFZldHg0QjF6ZlpKYVZMVEM5SS13SkRzU0FVZ1lFVVNFX2F1TV9JNFlR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-24/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por fuego, calor o sustancias químicas",
+          "definition_en": "burn - skin injury caused by fire, heat, or chemicals"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "tejido de piel que se coloca quirúrgicamente para cubrir una herida",
+          "definition_en": "graft - skin tissue surgically placed to cover a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo para cerrar una herida",
+          "definition_en": "scarring - process of new tissue formation to close a wound"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "capacidad del cuerpo de reconstruir tejido dañado",
+          "definition_en": "regeneration - body's ability to rebuild damaged tissue"
+        }
+      ],
+      "added_at": "2026-06-24T10:08:45.516490Z"
+    },
+    {
+      "id": "surgical-wounds-20250624",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Mejora de la cicatrización en procedimientos quirúrgicos orales mediante biomateriales avanzados",
+      "headline_en": "Enhancing Healing in Oral Surgical Procedures: A Review on Biomaterials, Growth Factors, and Tissue Engineering",
+      "summary_es": "Un estudio científico examina cómo los biomateriales y factores de crecimiento mejoran la cicatrización en cirugías orales. Las nuevas tecnologías aceleran el proceso de curación post-quirúrgica.",
+      "body_es": "Un análisis exhaustivo de Cureus examina los avances en la cicatrización de heridas quirúrgicas orales mediante el uso de biomateriales, factores de crecimiento e ingeniería de tejidos. Las heridas quirúrgicas orales enfrentan desafíos únicos debido a la anatomía compleja de la boca y el ambiente húmedo que favorece infecciones. Los investigadores han documentado cómo los biomateriales biocompatibles aceleran significativamente la regeneración del tejido óseo y blando. Los factores de crecimiento derivados de plaquetas y células madre estimulan la formación de nuevos vasos sanguíneos y aumentan la matriz extracelular. La ingeniería de tejidos permite crear estructuras que imitan el tejido natural, mejorando la integración con el tejido existente. Estos avances reducen el tiempo de recuperación post-operatoria y minimizan complicaciones como infecciones y dehiscencia de suturas. El estudio concluye que la combinación de estas tecnologías representa el futuro del cuidado de heridas quirúrgicas orales.",
+      "body_en": "A comprehensive Cureus analysis examines advances in oral surgical wound healing using biomaterials, growth factors, and tissue engineering. Oral surgical wounds face unique challenges due to the mouth's complex anatomy and moist environment that favors infections. Researchers have documented how biocompatible biomaterials significantly accelerate bone and soft tissue regeneration. Growth factors derived from platelets and stem cells stimulate new blood vessel formation and increase extracellular matrix. Tissue engineering allows creation of structures that mimic natural tissue, improving integration with existing tissue. These advances reduce post-operative recovery time and minimize complications such as infections and suture dehiscence. The study concludes that combining these technologies represents the future of oral surgical wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzQ5YVA1STlDbmR2SXRoMHY1TmhTNy10WDhfd2d4bGNCRmhMSFZGYWZjMTN5WVk4SWFUNW9kOGNMQUtTenltdE5XUjYyU01IYVQ0QXJwaDN3YllCWmMxU1RBTnIySWI5S1BvOFVwa283NzdrTmcxSktyZzVydUdrbGNLb1l0R2o1QWRUS21OZ01nOGZQVndVYjl6bk13RzlWaG9iQmJ0QWVrQWVJcFVqN2trRXR2TGJYM2V4bmdMQXpISkxHY1FBdDkzSTVlLVk4QmRyYTJBdnIzbnp4X3pHaA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-24/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "biomaterial",
+          "definition_es": "material compatible con el cuerpo usado en medicina",
+          "definition_en": "biomaterial - body-compatible material used in medicine"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "punto quirúrgico que cierra una herida",
+          "definition_en": "suture - surgical stitch that closes a wound"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "proteína que estimula el crecimiento de células y tejidos",
+          "definition_en": "growth factor - protein that stimulates cell and tissue growth"
+        },
+        {
+          "word": "ingeniería de tejidos",
+          "definition_es": "tecnología para crear o reconstruir tejidos biológicos",
+          "definition_en": "tissue engineering - technology to create or rebuild biological tissue"
+        }
+      ],
+      "added_at": "2026-06-24T10:08:45.516490Z"
+    },
+    {
+      "id": "wound-research-20250624",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación traslacional en cuidado de heridas: avances clínicos en liderazgo",
+      "headline_en": "Champions of Translational Research: Scholars Recognized",
+      "summary_es": "Investigadores son reconocidos por sus logros en investigación traslacional que conecta descubrimientos de laboratorio con aplicaciones clínicas en cuidado de heridas. Los estudios avanzan el tratamiento de heridas crónicas y quirúrgicas.",
+      "body_es": "La Universidad de Utah Health ha reconocido a distinguidos investigadores como campeones de la investigación traslacional, cuyo trabajo conecta descubrimientos básicos con aplicaciones clínicas en el cuidado de heridas. La investigación traslacional es fundamental para convertir hallazgos de laboratorio en tratamientos prácticos que benefician a los pacientes. Estos estudiosos han dedicado años a estudiar los mecanismos moleculares de la cicatrización y han desarrollado nuevas estrategias terapéuticas. Su trabajo abarca desde la biología celular hasta ensayos clínicos en hospitales. Los investigadores han publicado estudios sobre regeneración de tejidos, manejo de infecciones en heridas y optimización de vendajes avanzados. Su labor ha contribuido a mejorar significativamente los resultados de curación en pacientes con heridas crónicas y post-quirúrgicas. Estos reconocimientos destacan la importancia de la investigación continua para desarrollar soluciones innovadoras en medicina de heridas.",
+      "body_en": "University of Utah Health has recognized distinguished researchers as champions of translational research, whose work connects basic discoveries with clinical applications in wound care. Translational research is fundamental to converting laboratory findings into practical treatments that benefit patients. These scholars have dedicated years to studying wound healing molecular mechanisms and have developed new therapeutic strategies. Their work spans from cell biology to clinical trials in hospitals. Researchers have published studies on tissue regeneration, infection management in wounds, and optimization of advanced dressings. Their work has significantly improved healing outcomes in patients with chronic and post-surgical wounds. These recognitions highlight the importance of continued research to develop innovative solutions in wound medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHNJeDRucFBhT24xWWFVLWZSa1NrUDdzQS1PbVBTZjlNODh0UWVBVC14WXpjcFdzd0NGWnZWa18xbS1lOEdRVldVYk5TQWVzZUt6X01KbTNMUEQ3U1VLZTBsVElwZkpOWnJkRnZJRWJVOGVCdDhhNHAzQUk5ZzJ4NmxuYWFCaFlNdHQxS2VfYmJhNURlMDJfVVZDNmlPbkpDQXQ3QkVMNGJNaGtpNzVZMDVwMThZQk8yeWpNdmlBNWJJeG1hSUxMNXZn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-24/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "investigación traslacional",
+          "definition_es": "estudio que convierte descubrimientos de laboratorio en tratamientos clínicos",
+          "definition_en": "translational research - study that converts laboratory discoveries into clinical treatments"
+        },
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio de un tratamiento nuevo en pacientes humanos",
+          "definition_en": "clinical trial - study of a new treatment in human patients"
+        },
+        {
+          "word": "regeneración de tejidos",
+          "definition_es": "proceso de reconstrucción de tejido dañado o perdido",
+          "definition_en": "tissue regeneration - process of rebuilding damaged or lost tissue"
+        },
+        {
+          "word": "mecanismo molecular",
+          "definition_es": "proceso bioquímico en el nivel de moléculas",
+          "definition_en": "molecular mechanism - biochemical process at the molecular level"
+        }
+      ],
+      "added_at": "2026-06-24T10:08:45.516490Z"
+    },
     {
       "id": "chronic-wounds-20250623",
       "category": "Chronic Wounds",
@@ -27529,6 +27714,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-23T10:18:46.824219Z",
+  "last_updated": "2026-06-24T10:08:45.516490Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
