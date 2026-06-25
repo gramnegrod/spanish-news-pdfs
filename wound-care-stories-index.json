@@ -1,11 +1,196 @@
 {
-  "date": "2026-06-24",
-  "generated_at": "2026-06-24T10:08:45.516490Z",
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:07:15.467025Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 749,
+  "total_stories": 754,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250625",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Un nuevo vendaje especial ayuda a curar heridas difíciles",
+      "headline_en": "A new special bandage helps heal difficult wounds",
+      "summary_es": "Los médicos usan un vendaje nuevo que entrega sulfuro de hidrógeno a las heridas. Este tratamiento mejora la circulación de sangre y ayuda a sanar las heridas crónicas.",
+      "body_es": "Un nuevo vendaje especial puede ayudar a curar heridas que no sanan bien. El vendaje es como una venda normal pero tiene una característica especial. Entrega sulfuro de hidrógeno directamente en la herida. Esta sustancia aumenta el flujo de sangre en el área dañada. Cuando la circulación mejora, el cuerpo puede sanar mejor. Las heridas crónicas son muy comunes en pacientes diabéticos y ancianos. Estos pacientes tienen problemas con la curación normal. El nuevo vendaje ofrece una solución innovadora. Los médicos dicen que este tratamiento es seguro y efectivo. Los pacientes pueden usar el vendaje en casa. Es un avance importante para el cuidado de heridas difíciles.",
+      "body_en": "A new special bandage can help heal wounds that do not heal well. The bandage is like a normal dressing but has a special feature. It delivers hydrogen sulfide directly to the wound. This substance increases blood flow in the damaged area. When circulation improves, the body can heal better. Chronic wounds are very common in diabetic and elderly patients. These patients have problems with normal healing. The new bandage offers an innovative solution. Doctors say this treatment is safe and effective. Patients can use the bandage at home. It is an important advance in difficult wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWRGZHhVWXdYYlVlVkJyVmhDRUxpelY4VWRXOC1oY2FFSUhmOFZabFNTbzQwZHB4XzM3dzNDOWlpcXpoYzJPWGFLSTM1N0VpeXJDV3J3WXNjbjhES2FNSkRkZWhzS2ExRU91OVV3M293M3JzZkNvTm5Cc1lfeXdJelZobkF5Z0VoMFE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-25/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "bandage - material to cover and protect a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida o lesión",
+          "definition_en": "healing - process of recovering from a wound or injury"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de sangre por el cuerpo",
+          "definition_en": "circulation - movement of blood through the body"
+        },
+        {
+          "word": "flujo de sangre",
+          "definition_es": "cantidad de sangre que pasa por un área",
+          "definition_en": "blood flow - amount of blood passing through an area"
+        }
+      ],
+      "added_at": "2026-06-25T10:07:15.467025Z"
+    },
+    {
+      "id": "diabetic-foot-20250625",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "indigo",
+      "headline_es": "Nuevo programa hospitalario reduce amputaciones en pacientes diabéticos",
+      "headline_en": "New hospital program reduces amputations in diabetic patients",
+      "summary_es": "Un programa integral en un hospital ha logrado reducir las amputaciones a cero en pacientes diabéticos de alto riesgo. El programa combina evaluación especializada, educación y tratamiento preventivo.",
+      "body_es": "Un hospital ha implementado un programa revolucionario para prevenir amputaciones en pacientes con diabetes. El objetivo era reducir el número de pacientes que perdían sus extremidades inferiores. El programa incluía evaluaciones regulares del pie, detección temprana de úlceras y educación del paciente. Los médicos identificaban problemas en etapas iniciales cuando el tratamiento era más efectivo. El equipo de atención incluía podólogos, enfermeras especializadas y médicos internistas. Los pacientes recibían instrucción sobre cuidado del pie y manejo de la glucosa. El resultado fue extraordinario: el número de amputaciones bajó significativamente. Este enfoque multidisciplinario demuestra que muchas amputaciones son prevenibles con intervención temprana. El programa ahora sirve como modelo para otros hospitales que desean mejorar el cuidado de pacientes diabéticos.",
+      "body_en": "A hospital has implemented a revolutionary program to prevent amputations in diabetic patients. The goal was to reduce the number of patients losing their lower extremities. The program included regular foot evaluations, early detection of ulcers, and patient education. Doctors identified problems at early stages when treatment was more effective. The care team included podiatrists, specialized nurses, and internists. Patients received instruction on foot care and glucose management. The result was extraordinary: the number of amputations decreased significantly. This multidisciplinary approach demonstrates that many amputations are preventable with early intervention. The program now serves as a model for other hospitals seeking to improve care for diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdS02TGwwSnA0Y29TYjlFekNPZF9yc2FIeXVkekxpUnFtWWowejBucGlNRGpIanpBb3NYU0djNUJSOU80TTFaU0NUaE9hNjF5TVh1bFJtQnZVbmt1c1hUU1Q2Z2xBMU1xeG1TT190bURNeUJ4cUFzMHBBQ0Nyc0ktMTdWdG9zQktpVnQxWU9CUVJldjA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-25/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cierra bien",
+          "definition_en": "ulcer - open wound on skin that does not close properly"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen cuidadoso de una situación o condición",
+          "definition_en": "evaluation - careful examination of a condition"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar que algo malo ocurra",
+          "definition_en": "prevention - actions to avoid something bad from happening"
+        }
+      ],
+      "added_at": "2026-06-25T10:07:15.467025Z"
+    },
+    {
+      "id": "burn-care-20250625",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "rose",
+      "headline_es": "La piel impresa en 3D promete sanar quemaduras sin dejar cicatrices",
+      "headline_en": "3D printed skin promises to heal burns without leaving scars",
+      "summary_es": "Investigadores desarrollan tecnología de piel impresa en 3D que podría revolucionar el tratamiento de quemaduras. Esta innovación promete mejorar la curación y reducir significativamente la formación de cicatrices.",
+      "body_es": "Científicos están trabajando en una tecnología revolucionaria para tratar quemaduras graves. Han desarrollado un método para imprimir piel artificialmente usando impresoras 3D. Esta piel impresa contiene células vivas que pueden integrarse con el tejido del paciente. El proceso involucra escanear el área quemada y crear un modelo personalizado. La piel se cultiva en laboratorio usando biomateriales especializados. Una vez lista, se aplica directamente en la quemadura. La ventaja principal es que reduce significativamente la cicatrización. Las quemaduras graves normalmente dejan cicatrices permanentes que afectan la función y la estética. La piel impresa promueve una regeneración más natural. Los investigadores realizaron pruebas exitosas con resultados prometedores. Esta tecnología podría cambiar el estándar de cuidado para pacientes quemados en el futuro cercano.",
+      "body_en": "Scientists are working on revolutionary technology to treat severe burns. They have developed a method to artificially print skin using 3D printers. This printed skin contains living cells that can integrate with patient tissue. The process involves scanning the burned area and creating a personalized model. The skin is cultured in laboratory using specialized biomaterials. Once ready, it is applied directly to the burn. The main advantage is that it significantly reduces scarring. Severe burns normally leave permanent scars that affect function and appearance. Printed skin promotes more natural regeneration. Researchers conducted successful tests with promising results. This technology could change the standard of care for burned patients in the near future.",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmVOVjl6UkRpX25aWmVpQWZVNloyREhFNjFjdHN5UThURmRfYVM2TzI0MXBtZkxXU3VGVGlDc0VXYlI2aWpObzBLX08wUXZ3V2NOcHowWDFseF9LRmpQVF8zRVdGYWVBMVM4elNpOHFydjN0aDBRS3hPMVJPLWt2OUNvQVJUMndLRXhqWmdYSUJBV09iNGlTc21EWkVRMkE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-25/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to skin caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de que una herida sana",
+          "definition_en": "scar - mark that remains after a wound heals"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "proceso de formar nuevos tejidos o células",
+          "definition_en": "regeneration - process of forming new tissue or cells"
+        },
+        {
+          "word": "biomaterial",
+          "definition_es": "material usado en medicina que el cuerpo puede aceptar",
+          "definition_en": "biomaterial - material used in medicine that the body can accept"
+        }
+      ],
+      "added_at": "2026-06-25T10:07:15.467025Z"
+    },
+    {
+      "id": "surgical-wounds-20250625",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "cyan",
+      "headline_es": "Biomateriales y factores de crecimiento mejoran cicatrización en cirugía oral",
+      "headline_en": "Biomaterials and growth factors improve healing in oral surgery",
+      "summary_es": "Una revisión científica examina cómo biomateriales avanzados y factores de crecimiento aceleran la cicatrización de heridas quirúrgicas en procedimientos orales. Los investigadores analizan múltiples estrategias de ingeniería de tejidos.",
+      "body_es": "Los investigadores han revisado los últimos avances en cicatrización de heridas quirúrgicas bucales. El estudio examina tres estrategias principales: biomateriales, factores de crecimiento e ingeniería de tejidos. Los biomateriales actúan como scaffolds que guían la formación de nuevo tejido. Los factores de crecimiento estimulan las células para regenerarse más rápidamente. La ingeniería de tejidos combina ambos enfoques para crear soluciones personalizadas. Los materiales más efectivos incluyen colágeno, quitosano y matrices de proteína. Los factores de crecimiento como PDGF y VEGF aceleran significativamente la angiogénesis. El resultado es una cicatrización más rápida y funcional en sitios quirúrgicos. Estos avances son especialmente importantes en procedimientos donde la estética y función son críticas. La investigación sugiere que estas tecnologías pueden reducir complicaciones y mejorar resultados para pacientes.",
+      "body_en": "Researchers have reviewed the latest advances in oral surgical wound healing. The study examines three main strategies: biomaterials, growth factors, and tissue engineering. Biomaterials act as scaffolds that guide new tissue formation. Growth factors stimulate cells to regenerate more quickly. Tissue engineering combines both approaches to create personalized solutions. The most effective materials include collagen, chitosan, and protein matrices. Growth factors like PDGF and VEGF significantly accelerate angiogenesis. The result is faster and more functional healing at surgical sites. These advances are especially important in procedures where aesthetics and function are critical. Research suggests these technologies can reduce complications and improve outcomes for patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzQ5YVA1STlDbmR2SXRoMHY1TmhTNy10WDhfd2d4bGNCRmhMSFZGYWZjMTN5WVk4SWFUNW9kOGNMQUtTenltdE5XUjYyU01IYVQ0QXJwaDN3YllCWmMxU1RBTnIySWI5S1BvOFVwa283NzdrTmcxSktyZzVydUdrbGNLb1l0R2o1QWRUS21OZ01nOGZQVndVYjl6bk13RzlWaG9iQmJ0QWVrQWVJcFVqN2trRXR2TGJYM2V4bmdMQXpISkxHY1FBdDkzSTVlLVk4QmRyYTJBdnIzbnp4X3pHaA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-25/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "biomaterial",
+          "definition_es": "material sintético o natural que el cuerpo tolera para regenerar tejido",
+          "definition_en": "biomaterial - synthetic or natural material the body tolerates for tissue regeneration"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "proteína que estimula el crecimiento y división celular",
+          "definition_en": "growth factor - protein that stimulates cell growth and division"
+        },
+        {
+          "word": "scaffold",
+          "definition_es": "estructura de soporte que guía el crecimiento de nuevo tejido",
+          "definition_en": "scaffold - support structure that guides new tissue growth"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos",
+          "definition_en": "angiogenesis - formation of new blood vessels"
+        }
+      ],
+      "added_at": "2026-06-25T10:07:15.467025Z"
+    },
+    {
+      "id": "wound-research-20250625",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Matriz de piel inspirada en el ajolote revoluciona la curación de heridas",
+      "headline_en": "Axolotl-inspired skin matrix revolutionizes wound healing",
+      "summary_es": "Investigadores desarrollan una matriz de piel basada en la biología del ajolote, un animal que regenera tejido sin formar cicatrices. Esta innovación promete reducir significativamente la cicatrización en heridas humanas.",
+      "body_es": "Los científicos han descubierto un secreto fascinante del ajolote: su capacidad para regenerar piel sin cicatrices visibles. Utilizando este conocimiento biológico, desarrollaron una matriz de piel sintética que imita este proceso. La matriz contiene componentes moleculares que estimulan la regeneración natural del cuerpo. El material se puede aplicar directamente en heridas para acelerar la cicatrización. Los investigadores probaron la matriz en modelos animales con resultados exitosos. Las heridas tratadas con la matriz mostraron mejor regeneración de tejido y menos formación de cicatrices. El mecanismo funciona estimulando células específicas responsables de la reparación sin dejar marcas permanentes. Esta tecnología tiene aplicaciones potenciales en traumatología, cirugía plástica y quemaduras. Los próximos pasos incluyen ensayos clínicos en humanos. Si se confirman los resultados, esta matriz podría transformar el tratamiento de heridas en los próximos años.",
+      "body_en": "Scientists have discovered a fascinating secret of the axolotl: its ability to regenerate skin without visible scars. Using this biological knowledge, they developed a synthetic skin matrix that mimics this process. The matrix contains molecular components that stimulate the body's natural regeneration. The material can be applied directly to wounds to accelerate healing. Researchers tested the matrix in animal models with successful results. Wounds treated with the matrix showed better tissue regeneration and reduced scar formation. The mechanism works by stimulating specific cells responsible for repair without leaving permanent marks. This technology has potential applications in trauma, plastic surgery, and burns. Next steps include human clinical trials. If results are confirmed, this matrix could transform wound treatment in coming years.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96aVBJV2pRT3A5TDNPWE1lTGIzNkRpNTRkb0EzQVYtNWlCaXB0dlpNTm9ad3BXNUlkLXM1UG9CWl9JU1oyNmxaTER0dU41dnFZQmpULUlhNU1EVk9hamxmMEpZZVpmLVRFNjdoMWVMOGZMR1VUZGRORnRn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-25/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "regeneración",
+          "definition_es": "formación natural de nuevo tejido después de una lesión",
+          "definition_en": "regeneration - natural formation of new tissue after injury"
+        },
+        {
+          "word": "matriz",
+          "definition_es": "estructura de soporte que contiene células o moléculas activas",
+          "definition_en": "matrix - support structure containing active cells or molecules"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatrices durante la curación",
+          "definition_en": "scarring - process of scar formation during healing"
+        },
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio de investigación donde se prueba un tratamiento en pacientes",
+          "definition_en": "clinical trial - research study testing a treatment in patients"
+        }
+      ],
+      "added_at": "2026-06-25T10:07:15.467025Z"
+    },
     {
       "id": "chronic-wounds-20250624",
       "category": "Chronic Wounds",
@@ -27714,6 +27899,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-24T10:08:45.516490Z",
+  "last_updated": "2026-06-25T10:07:15.467025Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
