@@ -1,11 +1,233 @@
 {
-  "date": "2026-06-25",
-  "generated_at": "2026-06-25T10:07:15.467025Z",
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:08:59.812943Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 754,
-  "new_today": 5,
+  "total_stories": 760,
+  "new_today": 6,
   "stories": [
+    {
+      "id": "chronic-wounds-20250626",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nueva terapia con células para cicatrizar heridas crónicas",
+      "headline_en": "New cell therapy to heal chronic wounds",
+      "summary_es": "FibroBiologics recibe aprobación para una nueva terapia tópica que usa células especiales para mejorar la cicatrización de heridas crónicas.",
+      "body_es": "FibroBiologics ha recibido una aprobación importante del gobierno de los Estados Unidos. La compañía desarrolla un tratamiento nuevo para heridas crónicas. Este tratamiento usa células especiales llamadas fibroblastos. Los fibroblastos ayudan a cicatrizar las heridas del cuerpo. El tratamiento es tópico, es decir, se aplica directamente en la herida. Los profesionales de enfermería pueden usar este producto en pacientes con heridas difíciles. Esta aprobación es un avance importante en el cuidado de heridas. Muchos pacientes con heridas crónicas necesitan tratamientos mejores. Este tratamiento nuevo promete resultados más rápidos. Los investigadores continúan estudiando su eficacia.",
+      "body_en": "FibroBiologics has received important government approval in the United States. The company develops a new treatment for chronic wounds. This treatment uses special cells called fibroblasts. Fibroblasts help heal the body's wounds. The treatment is topical, meaning it is applied directly to the wound. Nursing professionals can use this product in patients with difficult wounds. This approval is an important advance in wound care. Many patients with chronic wounds need better treatments. This new treatment promises faster results. Researchers continue studying its effectiveness.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnZqZUN5WDVkU0thZG9NazFzZERsTGZPYjZwbzg2RnJyMVp4NWlXRDRvS3pZckFvM3ZxMkZYZDcyZkNJQVFXNWUwZEp4eHZkSGtrUGN4ejhFOXRtckpqYWlEZmFqYklpZ3NjTTVWQ0FvQjBkZGJWZUtEU1RNRnktdG9QdHU3ckRsXzUySTBzcWxSLWF5RGhDeDB3NFd3QWtQOFoyNnZR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-26/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión o apertura en la piel o tejido",
+          "definition_en": "wound - injury or opening in skin or tissue"
+        },
+        {
+          "word": "cicatrizar",
+          "definition_es": "proceso de cerrarse y sanar una herida",
+          "definition_en": "to heal - process of closing and healing a wound"
+        },
+        {
+          "word": "tratamiento tópico",
+          "definition_es": "medicamento o terapia aplicada directamente en la piel",
+          "definition_en": "topical treatment - medication applied directly to the skin"
+        },
+        {
+          "word": "fibroblastos",
+          "definition_es": "células especiales que crean tejido nuevo y ayudan a cicatrizar",
+          "definition_en": "fibroblasts - special cells that create new tissue and help healing"
+        }
+      ],
+      "added_at": "2026-06-26T10:08:59.812943Z"
+    },
+    {
+      "id": "pressure-ulcers-20250626",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "indigo",
+      "headline_es": "El mercado de úlceras por presión crece rápidamente",
+      "headline_en": "Pressure ulcer market grows rapidly",
+      "summary_es": "El mercado mundial de tratamiento para úlceras por presión está creciendo significativamente, con una tasa de expansión del 23% anual hasta 2030.",
+      "body_es": "Las úlceras por presión, también llamadas escaras, son heridas serias. Se forman cuando una persona está en la cama o en una silla durante mucho tiempo. El mercado de tratamientos para estas úlceras está creciendo muy rápido. Los expertos dicen que crece 23 por ciento cada año. Este crecimiento continúa hasta 2030. Hay muchas razones para este aumento. La población envejece y hay más pacientes. También hay nuevos tratamientos y productos. Los enfermeros necesitan capacitación para prevenir estas heridas. La prevención es muy importante. Los hospitales invierten en mejores colchones especiales. Las centros de salud compran apósitos nuevos. Este mercado en crecimiento es bueno para los pacientes.",
+      "body_en": "Pressure ulcers, also called bedsores, are serious wounds. They form when a person stays in bed or a chair for a long time. The market for treatments for these ulcers is growing very fast. Experts say it grows 23 percent each year. This growth continues until 2030. There are many reasons for this increase. The population is aging and there are more patients. There are also new treatments and products. Nurses need training to prevent these wounds. Prevention is very important. Hospitals invest in better special mattresses. Health centers buy new dressings. This growing market is good for patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQREtUYWtsSWJKeGxuUVBtbE1vV1RaZXljdFRJRUJMTXZZY2V1d3h6akNUSkE2b09qVmlHV2hqNm9kc2MxQmtxWlZVdGtDV2t2THRlZFdrWWVPYWdCelVia2hYYm1LYXNhcXI2VEtOd01GSHByTU52UUt5SUdJNkZJT1RTSkhCeTRUdUxhZ0JqMDR0SmNESWF0SUlpZGVqb1lFRk9NZGpHbFViN1hyZlJxN05lQWpZMC1BMS1FamIxTdIBxAFBVV95cUxQVXVJemlzZ0R5a2lEcVNXekFlV2lMQVNBVFAxenQ2Q1VTNTdiUWZjQ2JLYUFDMkU0M3BJZWRxd2NKck1kejBHaElxY3lrWi00d0RtNHU0MWhMSjFyNi04eDFPZk81SUJsNU54VFNHbmo0X2pUTVNwX01PUHJYO3RPNEgzMmpRa1NsemJJa0k2UVE3c081b0tZcEVXZjlWaUZrSTZRdXlzVnQwNUk4cEMtc2s1bnhlTHgyZ2JZOFdxTFNGTHdj?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-26/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida causada por presión prolongada en la piel",
+          "definition_en": "pressure ulcer - wound caused by prolonged pressure on skin"
+        },
+        {
+          "word": "escara",
+          "definition_es": "tejido muerto causado por falta de circulación",
+          "definition_en": "eschar - dead tissue caused by lack of circulation"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar que algo malo suceda",
+          "definition_en": "prevention - actions to avoid something bad happening"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material estéril para cubrir y proteger heridas",
+          "definition_en": "dressing - sterile material to cover and protect wounds"
+        }
+      ],
+      "added_at": "2026-06-26T10:08:59.812943Z"
+    },
+    {
+      "id": "diabetic-foot-20250626",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Nuevo programa hospitalario evita amputaciones en pacientes diabéticos",
+      "headline_en": "New hospital program prevents amputations in diabetic patients",
+      "summary_es": "Un programa especializado en el cuidado del pie diabético ha logrado reducir las amputaciones a cero en pacientes de alto riesgo mediante intervención temprana y seguimiento continuo.",
+      "body_es": "Un hospital ha desarrollado un programa innovador para prevenir amputaciones en pacientes con diabetes. El programa se enfoca en la detección temprana de problemas en los pies diabéticos. Los pacientes de alto riesgo reciben evaluaciones regulares y cuidado especializado. El equipo multidisciplinario incluye endocrinólogos, cirujanos vasculares y especialistas en heridas. Mediante la educación del paciente y el monitoreo continuo, el programa ha logrado cero amputaciones en su cohorte de pacientes. Las úlceras diabéticas son una de las principales causas de amputación en adultos. Este enfoque preventivo cambia el estándar de atención. Los pacientes aprenden sobre el cuidado diario del pie y la importancia de mantener los niveles de glucosa controlados. El programa demuestra que la intervención temprana y la atención coordinada pueden prevenir complicaciones graves.",
+      "body_en": "A hospital has developed an innovative program to prevent amputations in diabetic patients. The program focuses on early detection of diabetic foot problems. High-risk patients receive regular evaluations and specialized care. The multidisciplinary team includes endocrinologists, vascular surgeons, and wound specialists. Through patient education and continuous monitoring, the program has achieved zero amputations in its patient cohort. Diabetic ulcers are one of the leading causes of amputation in adults. This preventive approach changes the standard of care. Patients learn about daily foot care and the importance of maintaining controlled glucose levels. The program demonstrates that early intervention and coordinated care can prevent serious complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdS02TGwwSnA0Y29TYjlFekNPZF9yc2FIeXVkekxpUnFtWWowejBucGlNRGpIanpBb3NYU0djNUJSOU80TTFaU0NUaE9hNjF5TVh1bFJtQnZVbmt1c1hUU1Q2Z2xBMU1xeG1TT190bURNeUJ4cUFzMHBBQ0Nyc0ktMTdWdG9zQktpVnQxWU9CUVJldjA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-26/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación de la diabetes que afecta los pies",
+          "definition_en": "diabetic foot - diabetes complication affecting the feet"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        },
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta en el pie causada por diabetes",
+          "definition_en": "diabetic ulcer - open wound on the foot caused by diabetes"
+        },
+        {
+          "word": "intervención temprana",
+          "definition_es": "tratamiento inmediato al detectar un problema",
+          "definition_en": "early intervention - immediate treatment upon problem detection"
+        }
+      ],
+      "added_at": "2026-06-26T10:08:59.812943Z"
+    },
+    {
+      "id": "burn-care-20250626",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "rose",
+      "headline_es": "Matriz de piel inspirada en el ajolote promete sanar quemaduras con menos cicatrices",
+      "headline_en": "Axolotl-inspired skin matrix promises to heal burns with less scarring",
+      "summary_es": "Investigadores desarrollan una matriz de piel inspirada en la capacidad regenerativa del ajolote, ofreciendo nuevas esperanzas para sanar quemaduras graves con cicatrices mínimas.",
+      "body_es": "Los investigadores han encontrado inspiración en un anfibio poco común: el ajolote. Este animal tiene la capacidad extraordinaria de regenerar tejidos sin cicatrices significativas. Basándose en este descubrimiento biológico, los científicos han desarrollado una matriz de piel artificial. Esta matriz imita la estructura y funciones del tejido regenerativo del ajolote. La matriz se puede aplicar a quemaduras graves para promover la curación natural. En ensayos iniciales, los resultados son prometedores. Los pacientes tratados con esta tecnología han mostrado una cicatrización mejorada con menos contracturas. El equipo está realizando estudios clínicos adicionales para confirmar su eficacia. Esta innovación podría transformar el tratamiento de quemaduras severas. La reducción de cicatrices mejora significativamente la calidad de vida de los pacientes quemados. La investigación continúa en varios centros médicos de investigación.",
+      "body_en": "Researchers found inspiration in an unusual amphibian: the axolotl. This animal has the extraordinary ability to regenerate tissues without significant scarring. Based on this biological discovery, scientists developed an artificial skin matrix. The matrix mimics the structure and functions of the axolotl's regenerative tissue. The matrix can be applied to severe burns to promote natural healing. In initial trials, results are promising. Patients treated with this technology have shown improved scarring with fewer contractures. The team is conducting additional clinical studies to confirm its effectiveness. This innovation could transform the treatment of severe burns. The reduction of scarring significantly improves the quality of life for burn patients. Research continues at several medical research centers.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96aVBJV2pRT3A5TDNPWE1lTGIzNkRpNTRkb0EzQVYtNWlCaXB0dlpNTm9ad3BXNUlkLXM1UG9CWl9JU1oyNmxaTER0dU41dnFZQmpULUlhNU1EVk9hamxmMEpZZVpmLVRFNjdoMWVMOGZMR1VUZGRORnRn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-26/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor o fuego",
+          "definition_en": "burn - injury caused by heat or fire"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark that remains after a wound heals"
+        },
+        {
+          "word": "matriz de piel",
+          "definition_es": "estructura artificial que imita la piel natural",
+          "definition_en": "skin matrix - artificial structure that mimics natural skin"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "proceso de crecer o formar tejido nuevo",
+          "definition_en": "regeneration - process of growing or forming new tissue"
+        }
+      ],
+      "added_at": "2026-06-26T10:08:59.812943Z"
+    },
+    {
+      "id": "surgical-wounds-20250626",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "cyan",
+      "headline_es": "Biomateriales y factores de crecimiento mejoran la cicatrización en cirugía oral",
+      "headline_en": "Biomaterials and growth factors improve healing in oral surgery",
+      "summary_es": "Una revisión comprensiva examina cómo los biomateriales, factores de crecimiento e ingeniería de tejidos aceleran la cicatrización en procedimientos quirúrgicos orales.",
+      "body_es": "Los investigadores han realizado una revisión exhaustiva sobre mejoras en la cicatrización quirúrgica oral. El estudio examina tres enfoques principales: biomateriales, factores de crecimiento e ingeniería de tejidos. Los biomateriales son sustancias diseñadas para promover la curación natural. Los factores de crecimiento son proteínas que estimulan el desarrollo de tejido nuevo. La ingeniería de tejidos combina estos elementos para crear andamios que guíen la regeneración. En procedimientos orales como extracciones dentales y implantes, estos enfoques reducen el tiempo de curación. Los resultados clínicos muestran menor dolor postoperatorio y menor riesgo de infección. La aplicación de estos materiales acelera la formación de nuevo tejido óseo y blando. Los cirujanos orales están integrando estas tecnologías en su práctica clínica. Estos avances permiten recuperaciones más rápidas y resultados estéticos mejorados para los pacientes.",
+      "body_en": "Researchers conducted a comprehensive review on improvements in oral surgical healing. The study examines three main approaches: biomaterials, growth factors, and tissue engineering. Biomaterials are substances designed to promote natural healing. Growth factors are proteins that stimulate the development of new tissue. Tissue engineering combines these elements to create scaffolds that guide regeneration. In oral procedures such as tooth extractions and implants, these approaches reduce healing time. Clinical results show reduced postoperative pain and lower infection risk. The application of these materials accelerates the formation of new bone and soft tissue. Oral surgeons are integrating these technologies into their clinical practice. These advances enable faster recoveries and improved aesthetic outcomes for patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPM2RRcjNJbEE0VTBtTjlRLXZSMmRRbE9STkE3MkkxNmp4YndCOVNLVklNYWZsYUsxWU9QN003eXRBLW0zMkVlTEk5VVZIZW0zN0JlYWJ1akdPRHJuVnZoWWRBMGRwaWZCT3R0OXlvMmFsNnJNN0JCRnc2aDVMN2RRdXhVQ0tSNkp6TkVtSHJZNlZIbHBPcTRzNEFQZ2NVTXR3d1VTeWNGNmlzM1N3YTlHckRSRTFEY2Z3SE5Fek5BZmJzNHFpd2o4djZldmVYbDNpRzRxQUtITmNkMEVvTEhYcV9VSkg3ODJhdlFFVU8zNlppRjBwM2V6V0V3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-26/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "biomaterial",
+          "definition_es": "material diseñado para promover la curación biológica",
+          "definition_en": "biomaterial - material designed to promote biological healing"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "proteína que estimula el desarrollo de tejido nuevo",
+          "definition_en": "growth factor - protein that stimulates new tissue development"
+        },
+        {
+          "word": "ingeniería de tejidos",
+          "definition_es": "disciplina que combina células, moléculas y materiales para restaurar función",
+          "definition_en": "tissue engineering - discipline combining cells, molecules, and materials to restore function"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de sanar y cerrarse de una herida quirúrgica",
+          "definition_en": "wound healing - process of healing and closing of a surgical wound"
+        }
+      ],
+      "added_at": "2026-06-26T10:08:59.812943Z"
+    },
+    {
+      "id": "wound-research-20250626",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "violet",
+      "headline_es": "Departamento de Salud de EE.UU. impulsa esfuerzo sin precedentes en ensayos clínicos",
+      "headline_en": "U.S. Department of Health launches unprecedented clinical trials effort",
+      "summary_es": "El HHS lanza una iniciativa departamental integrada para restaurar el liderazgo estadounidense en investigación de ensayos clínicos y mejorar la innovación médica.",
+      "body_es": "El Departamento de Salud y Servicios Humanos (HHS) de los Estados Unidos ha anunciado un esfuerzo histórico. La iniciativa busca restablecer el liderazgo estadounidense en la investigación de ensayos clínicos. Este programa coordina múltiples agencias federales de salud. Los investigadores en cuidado de heridas se beneficiarán de financiamiento y recursos adicionales. Los ensayos clínicos son estudios que prueban nuevos tratamientos en pacientes. Estos estudios son esenciales para desarrollar terapias innovadoras. La iniciativa facilita la participación de pacientes en investigación. Los hospitales y centros de salud reciben apoyo para realizar ensayos. El programa acelera la aprobación de tratamientos novedosos. Los investigadores pueden acceder a mejores herramientas y datos compartidos. Este esfuerzo afectará positivamente el desarrollo de nuevos apósitos, terapias celulares y otros tratamientos para heridas. La colaboración internacional también está planeada para fortalecer la investigación global.",
+      "body_en": "The U.S. Department of Health and Human Services (HHS) announced a historic effort. The initiative seeks to reestablish American leadership in clinical trials research. This program coordinates multiple federal health agencies. Wound care researchers will benefit from additional funding and resources. Clinical trials are studies that test new treatments in patients. These studies are essential for developing innovative therapies. The initiative facilitates patient participation in research. Hospitals and health centers receive support to conduct trials. The program accelerates approval of novel treatments. Researchers can access better tools and shared data. This effort will positively impact the development of new dressings, cell therapies, and other wound treatments. International collaboration is also planned to strengthen global research.",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSzNFMGl6VFg2amRvaThiQUpnQ3FXX05kLUxUekpkbXRXVlZZZUdXdVdLWmdfZGI3OWs1bUlpTUMwa2Nldkd1WF9uNWxPbDVqTThMaURrZHA0dGF0QUFGUUl3M1NoOUthU0o0OG1UTkxqVTNkbjMyLUN3blN2OGgzRm44b2J4VlVQOWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-26/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio de investigación que prueba nuevos tratamientos en pacientes",
+          "definition_en": "clinical trial - research study testing new treatments in patients"
+        },
+        {
+          "word": "innovación",
+          "definition_es": "creación y aplicación de nuevas ideas o tecnologías",
+          "definition_en": "innovation - creation and application of new ideas or technologies"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material estéril para cubrir heridas",
+          "definition_en": "dressing - sterile material to cover wounds"
+        },
+        {
+          "word": "terapia celular",
+          "definition_es": "tratamiento que usa células vivas para reparar tejidos",
+          "definition_en": "cell therapy - treatment using living cells to repair tissues"
+        }
+      ],
+      "added_at": "2026-06-26T10:08:59.812943Z"
+    },
     {
       "id": "chronic-wounds-20250625",
       "category": "Chronic Wounds",
@@ -27899,6 +28121,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-25T10:07:15.467025Z",
+  "last_updated": "2026-06-26T10:08:59.812943Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
