@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-26",
+      "filename": "spanish_lesson_2026-06-26.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-26.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Un juez federal bloquea el plan de Trump para crear una lista nacional de votantes",
+          "headline_en": "A federal judge blocks Trump's plan to create a national voter list",
+          "body_es": "Un juez federal en Estados Unidos detuvo una orden ejecutiva del presidente Donald Trump. Esta orden quería crear una lista nacional de votantes. El juez consideró que la orden podía ser ilegal. Según la Constitución de Estados Unidos, los estados tienen el derecho de controlar sus propias elecciones. El gobierno federal no puede tomar ese control fácilmente. La orden de Trump pedía recopilar información de los votantes de todo el país. Muchos grupos legales y organizaciones civiles estaban en contra de este plan. Ellos dijeron que era un ataque a los derechos de los ciudadanos. El juez escuchó estos argumentos y decidió parar la orden temporalmente. Ahora los tribunales van a estudiar el caso con más detalle. Este tema es muy importante porque afecta cómo se organizan las elecciones en el país. Muchas personas están mirando este caso con mucho interés.",
+          "body_en": "A federal judge in the United States stopped an executive order from President Donald Trump. This order wanted to create a national voter list. The judge considered that the order could be illegal. According to the US Constitution, states have the right to control their own elections. The federal government cannot easily take that control. Trump's order asked for voter information to be collected from across the country. Many legal groups and civil organizations were against this plan. They said it was an attack on citizens' rights. The judge heard these arguments and decided to temporarily stop the order. The courts will now study the case in more detail. This topic is very important because it affects how elections are organized in the country. Many people are watching this case with great interest.",
+          "source": "Spectrum News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La inflación en Estados Unidos sube más del cuatro por ciento en mayo",
+          "headline_en": "Inflation in the United States rises more than four percent in May",
+          "body_es": "En mayo, la inflación en Estados Unidos subió más del cuatro por ciento. Este número viene del índice PCE, que es una medida importante de los precios. La Reserva Federal, que es el banco central del país, usa este índice para tomar decisiones económicas. Cuando la inflación es alta, los productos y servicios cuestan más dinero. Esto es difícil para muchas familias porque tienen que pagar más por la misma cantidad de cosas. Ahora, la Reserva Federal puede decidir subir las tasas de interés otra vez. Subir las tasas de interés es una manera de controlar la inflación. Pero también puede hacer que los préstamos sean más caros. Los economistas están estudiando estos números con atención. Ellos quieren saber si la inflación va a bajar en los próximos meses. Muchos ciudadanos esperan que los precios bajen pronto para poder vivir con más tranquilidad.",
+          "body_en": "In May, inflation in the United States rose more than four percent. This number comes from the PCE index, which is an important measure of prices. The Federal Reserve, which is the country's central bank, uses this index to make economic decisions. When inflation is high, products and services cost more money. This is difficult for many families because they have to pay more for the same amount of things. Now, the Federal Reserve may decide to raise interest rates again. Raising interest rates is a way to control inflation. But it can also make loans more expensive. Economists are carefully studying these numbers. They want to know if inflation will go down in the coming months. Many citizens hope that prices will fall soon so they can live more comfortably.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "IBM crea un chip increíblemente pequeño para impulsar la inteligencia artificial",
+          "headline_en": "IBM creates an incredibly small chip to boost artificial intelligence",
+          "body_es": "La empresa tecnológica IBM presentó una nueva tecnología muy impresionante. Crearon un chip electrónico más pequeño que un nanómetro. Un nanómetro es una medida extremadamente pequeña. Es mil veces más pequeño que el grosor de un cabello humano. Este chip es muy importante para el futuro de la inteligencia artificial. Con chips más pequeños, las computadoras pueden procesar más información en menos tiempo. También usan menos energía eléctrica. IBM dijo que esta tecnología puede cambiar muchas industrias en el mundo. Por ejemplo, puede mejorar los sistemas de medicina, los autos inteligentes y las comunicaciones. Otros países y empresas también están trabajando en tecnologías similares. La competencia en el mundo de los chips es muy intensa. Estados Unidos quiere ser el líder en esta área. Esta noticia muestra que IBM sigue siendo una empresa muy innovadora y poderosa en el mundo de la tecnología.",
+          "body_en": "The technology company IBM presented very impressive new technology. They created an electronic chip smaller than one nanometer. A nanometer is an extremely small measurement. It is one thousand times smaller than the thickness of a human hair. This chip is very important for the future of artificial intelligence. With smaller chips, computers can process more information in less time. They also use less electrical energy. IBM said this technology can change many industries in the world. For example, it can improve medical systems, smart cars, and communications. Other countries and companies are also working on similar technologies. Competition in the world of chips is very intense. The United States wants to be the leader in this area. This news shows that IBM continues to be a very innovative and powerful company in the world of technology.",
+          "source": "Reuters"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "juez",
+          "syllables": "JUEZ",
+          "pos": "sustantivo",
+          "context": "Un juez federal detuvo la orden ejecutiva del presidente.",
+          "definition_es": "Persona que tiene autoridad para decidir en casos legales.",
+          "definition_en": "Judge – a person with legal authority to make decisions in court cases."
+        },
+        {
+          "word": "lista",
+          "syllables": "LIS-ta",
+          "pos": "sustantivo",
+          "context": "El presidente quería crear una lista federal de votantes.",
+          "definition_es": "Un conjunto de nombres o elementos escritos en orden.",
+          "definition_en": "List – a written collection of names or items in order."
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación en Estados Unidos superó el cuatro por ciento en mayo.",
+          "definition_es": "El aumento general de los precios de productos y servicios.",
+          "definition_en": "Inflation – the general rise in prices of goods and services."
+        },
+        {
+          "word": "chip",
+          "syllables": "CHIP",
+          "pos": "sustantivo",
+          "context": "IBM presentó un chip más pequeño que un nanómetro.",
+          "definition_es": "Un componente electrónico muy pequeño que procesa información.",
+          "definition_en": "Chip – a very small electronic component that processes information."
+        },
+        {
+          "word": "detener",
+          "syllables": "de-te-NER",
+          "pos": "verbo",
+          "context": "El juez decidió detener la orden ejecutiva del presidente Trump.",
+          "definition_es": "Parar o bloquear algo para que no continúe.",
+          "definition_en": "To stop/halt – to block or prevent something from continuing."
+        },
+        {
+          "word": "presentar",
+          "syllables": "pre-sen-TAR",
+          "pos": "verbo",
+          "context": "IBM presentó una nueva tecnología para inteligencia artificial.",
+          "definition_es": "Mostrar algo nuevo al público por primera vez.",
+          "definition_en": "To unveil/present – to show something new to the public for the first time."
+        },
+        {
+          "word": "federal",
+          "syllables": "fe-de-RAL",
+          "pos": "adjetivo",
+          "context": "Un juez federal bloqueó la orden del gobierno nacional.",
+          "definition_es": "Relacionado con el gobierno central o nacional de un país.",
+          "definition_en": "Federal – related to the central or national government of a country."
+        },
+        {
+          "word": "votante",
+          "syllables": "vo-TAN-te",
+          "pos": "sustantivo",
+          "context": "El gobierno quería hacer una lista con los nombres de todos los votantes.",
+          "definition_es": "Una persona que participa en una elección para elegir a sus representantes.",
+          "definition_en": "Voter – a person who participates in an election to choose their representatives."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'juez'?",
+          "options": [
+            "A) Una persona que vota en las elecciones",
+            "B) Una persona con autoridad legal para decidir casos",
+            "C) Un político del gobierno federal",
+            "D) Un periodista que escribe noticias"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inflación'?",
+          "options": [
+            "A) La reducción de los precios de productos",
+            "B) El número de personas que votan",
+            "C) El aumento general de los precios",
+            "D) Una nueva tecnología de computadoras"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa el verbo 'detener'?",
+          "options": [
+            "A) Continuar con más velocidad",
+            "B) Parar o bloquear algo",
+            "C) Presentar algo nuevo",
+            "D) Votar en una elección"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un 'votante' es una persona que...",
+          "options": [
+            "A) trabaja en un banco central",
+            "B) crea chips electrónicos",
+            "C) participa en una elección para elegir representantes",
+            "D) estudia la economía del país"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿por qué el juez detuvo la orden de Trump?",
+          "options": [
+            "A) Porque Trump no es presidente legalmente",
+            "B) Porque la Constitución da a los estados el derecho de controlar sus elecciones",
+            "C) Porque la lista de votantes ya existía",
+            "D) Porque el Congreso votó en contra"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de Política, ¿qué quería hacer la orden ejecutiva de Trump?",
+          "options": [
+            "A) Crear un nuevo impuesto federal",
+            "B) Cambiar la Constitución",
+            "C) Crear una lista nacional de votantes",
+            "D) Cancelar las elecciones del próximo año"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿qué índice usa la Reserva Federal para medir la inflación?",
+          "options": [
+            "A) El índice IBM",
+            "B) El índice PCE",
+            "C) El índice federal",
+            "D) El índice de votantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿qué puede hacer la Reserva Federal para controlar la inflación?",
+          "options": [
+            "A) Crear más listas de votantes",
+            "B) Invertir en chips tecnológicos",
+            "C) Subir las tasas de interés",
+            "D) Reducir el número de elecciones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué presentó IBM?",
+          "options": [
+            "A) Un nuevo tipo de elección digital",
+            "B) Un chip electrónico más pequeño que un nanómetro",
+            "C) Un sistema para medir la inflación",
+            "D) Una lista nacional de usuarios de internet"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "En la historia de Tecnología, ¿en qué áreas puede ayudar la nueva tecnología de IBM?",
+          "options": [
+            "A) Solo en las elecciones políticas",
+            "B) Solo en la economía y los bancos",
+            "C) En medicina, autos inteligentes y comunicaciones",
+            "D) Solo en la creación de listas de datos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-26T02:51:20.097225"
+    },
+    {
       "date": "2026-06-15",
       "filename": "spanish_lesson_2026-06-15.pdf",
       "path": "pdfs/spanish_lesson_2026-06-15.pdf",
@@ -42206,7 +42428,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-15T11:00:03.257157",
+  "last_updated": "2026-06-26T02:51:20.097251",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
