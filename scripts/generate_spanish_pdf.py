@@ -149,7 +149,7 @@ RESPOND WITH JSON ONLY - pick one story number per category:
 
     try:
         response = client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-6",
             max_tokens=500,
             messages=[{"role": "user", "content": selection_prompt}]
         )
@@ -283,7 +283,7 @@ REQUIREMENTS:
 Respond with ONLY the JSON, no other text."""
 
     response = client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-4-6",
         max_tokens=4000,
         messages=[{"role": "user", "content": prompt}]
     )
