@@ -1,11 +1,233 @@
 {
-  "date": "2026-06-26",
-  "generated_at": "2026-06-26T10:08:59.812943Z",
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T09:46:35.574575Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 760,
+  "total_stories": 766,
   "new_today": 6,
   "stories": [
+    {
+      "id": "chronic-wounds-20250627",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Microlanzetas Inteligentes Aceleran la Curación de Heridas Diabéticas",
+      "headline_en": "AI-Guided Microneedles Speed Diabetic Wound Healing",
+      "summary_es": "Científicos desarrollan microlanzetas guiadas por inteligencia artificial que se doblan con la temperatura corporal. Esta tecnología nueva ayuda a sanar heridas diabéticas más rápido.",
+      "body_es": "Investigadores crean microlanzetas especiales para heridas diabéticas. Las microlanzetas son muy pequeñas y se doblan cuando suben de temperatura. El cuerpo tiene temperatura de treinta y siete grados. Las microlanzetas se doblan a esta temperatura corporal. La inteligencia artificial guía el tratamiento. Los pacientes con diabetes tienen heridas que no sanan bien. Esta tecnología nueva es muy importante. Los doctores usan las microlanzetas en la piel. El proceso es rápido y efectivo. Los pacientes necesitan menos tiempo de curación. Esta investigación es un avance muy importante en medicina.",
+      "body_en": "Researchers develop special microneedles for diabetic wounds. The microneedles are very small and bend when temperature rises. The body has a temperature of thirty-seven degrees. The microneedles bend at this body temperature. Artificial intelligence guides the treatment. Patients with diabetes have wounds that do not heal well. This new technology is very important. Doctors use the microneedles on the skin. The process is fast and effective. Patients need less healing time. This research is a very important medical advancement.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTmg0dU1PY3RNUnJKSnZKMDl2Ry1zQ056QmY1LWJhT012bDlkZmZ5LXhYeUNKeGNIaDhSVkpkNl9melktTW5FcHlhc0dmbUk1QkFHXzdlVWJEbUFySmJ1N3pYVFEtT1g2Yzc4ajgxeVRpQjBINmFIaFRpalRBelhkOE52NVNhdmxQSDFtbjFn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-27/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "microlanzetas",
+          "definition_es": "agujas muy pequeñas para inyectar medicinas",
+          "definition_en": "microneedles - very small needles to inject medicine"
+        },
+        {
+          "word": "herida",
+          "definition_es": "lesión o daño en la piel",
+          "definition_en": "wound - injury or damage to skin"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of recovering from a wound"
+        },
+        {
+          "word": "temperatura corporal",
+          "definition_es": "calor del cuerpo humano",
+          "definition_en": "body temperature - heat of the human body"
+        }
+      ],
+      "added_at": "2026-06-27T09:46:35.574575Z"
+    },
+    {
+      "id": "pressure-ulcers-20250627",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "rose",
+      "headline_es": "El Mercado de Tratamiento de Úlceras por Presión Crece Rápidamente",
+      "headline_en": "Pressure Ulcer Treatment Market Expands Rapidly",
+      "summary_es": "El mercado de productos para úlceras por presión crece con una tasa de veintitrés por ciento anualmente hasta 2030. Este crecimiento refleja la importancia del cuidado de heridas.",
+      "body_es": "Las úlceras por presión son heridas muy graves. Ocurren cuando una persona está en la cama por mucho tiempo. El cuerpo tiene presión en un área pequeña. La piel se daña y forma una úlcera. El mercado de tratamientos crece muy rápido. Cada año crece veintitrés por ciento hasta dos mil treinta. Los hospitales necesitan más productos para cuidar estas úlceras. Los vendajes especiales son muy importantes. Los medicamentos ayudan a sanar las heridas. Los enfermeros usan tecnología nueva cada día. Esta industria es muy importante para los pacientes. Las úlceras por presión necesitan atención especial y cuidado constante.",
+      "body_en": "Pressure ulcers are very serious wounds. They occur when a person stays in bed for a long time. The body has pressure in a small area. The skin is damaged and forms an ulcer. The treatment market grows very fast. It grows twenty-three percent each year until 2030. Hospitals need more products to care for these ulcers. Special dressings are very important. Medicines help heal the wounds. Nurses use new technology every day. This industry is very important for patients. Pressure ulcers need special attention and constant care.",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQREtUYWtsSWJKeGxuUVBtbE1vV1RaZXljdFRJRUJMTXZZY2V1d3h6akNUSkE2b09qVmlHV2hqNm9kc2MxQmtxWlZVdGtDV2t2THRlZFdrWWVPYWdCelVia2hYYm1LYXNhcXI2VEtOd01GSHByTU52UUt5SUdJNkZJT1RTSkhCeTRUdUxhZ0JqMDR0SmNESWF0SUlpZGVqb1lFRk9NZGpHbFViN1hyZlJxN05lQWpZMC1BMS1FamIxTdIBxAFBVV95cUxQVXVJemlzZ0R5a2lEcVNXekFlV2lMQVNBVFAxenQ2Q1VTNTdiUWZjQ2JLYUFDMkU0M3BJZWRxd2NKck1kejBHaElxY3lrWi00d0RtNHU0MWhMSjFyNi04eDFPZk81SUJsNU54VFNHbmo0X2pUTVNwX01PVHJYW3RPNEgzMmpRa1NsemJJa0k2UVE3c081b0tZcEVXZjlWaUZrSTZRdXlzVnQwNUk4cEMtc2s1bnhlTHgyZ2JZOFdxTFNGTHdj?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-27/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida en la piel por presión prolongada",
+          "definition_en": "pressure ulcer - wound on skin from prolonged pressure"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "vendaje o material para cubrir heridas",
+          "definition_en": "dressing - bandage or material to cover wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of recovering from a wound"
+        },
+        {
+          "word": "cuidado de heridas",
+          "definition_es": "tratamiento especial para heridas graves",
+          "definition_en": "wound care - special treatment for serious wounds"
+        }
+      ],
+      "added_at": "2026-06-27T09:46:35.574575Z"
+    },
+    {
+      "id": "diabetic-foot-20250627",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Clínica Especializada en Pie Diabético Abre sus Puertas en Kolkata",
+      "headline_en": "Specialized Diabetic Foot Care Clinic Opens in Kolkata",
+      "summary_es": "El Centro de Investigación Médica Cardiovascular (CMRI) inaugura una clínica especializada en el cuidado del pie diabético en Kolkata. Este servicio mejora el acceso a tratamientos especializados para pacientes diabéticos.",
+      "body_es": "El Centro de Investigación Médica Cardiovascular (CMRI) ha abierto una nueva clínica especializada en el cuidado del pie diabético en Kolkata. Los pacientes con diabetes requieren atención especializada porque tienen riesgo de complicaciones en los pies. Las úlceras del pie diabético pueden causar infecciones graves e incluso amputación si no se tratan adecuadamente. La nueva clínica ofrece evaluación completa del pie, incluyendo examen neurológico y vascular. Los médicos utilizan tecnología moderna para diagnosticar problemas circulatorios y neuropatía diabética. El equipo multidisciplinario incluye endocrinólogos, cirujanos vasculares e infectólogos. Este servicio representa un avance importante en el acceso a cuidado preventivo para pacientes diabéticos de la región.",
+      "body_en": "The Cardiovascular Medical Research Center (CMRI) has opened a new specialized clinic for diabetic foot care in Kolkata. Patients with diabetes require specialized attention because they are at risk for foot complications. Diabetic foot ulcers can cause serious infections and even amputation if not treated properly. The new clinic offers complete foot evaluation, including neurological and vascular examination. Doctors use modern technology to diagnose circulatory problems and diabetic neuropathy. The multidisciplinary team includes endocrinologists, vascular surgeons, and infectious disease specialists. This service represents an important advance in access to preventive care for diabetic patients in the region.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOVM4U25SWlp1M2hTbmNqTjFNb0FTWWNLczIyUTVfODNrLVhOU01sck9VLW9MZWcxdzhrVXJVaTBHckhucW0zaW41M0tqYnAtZzMteHBybF9SRnRFanZWZmppWG1paFlFc0NtWFFXblQtektvZ2dzaG5ST09pczYxaHVNMzVhSVZvSFZPd0g4VkZZa1FRWHc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-27/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "neuropatía diabética",
+          "definition_es": "daño a los nervios causado por diabetes",
+          "definition_en": "diabetic neuropathy - nerve damage caused by diabetes"
+        },
+        {
+          "word": "úlcera del pie",
+          "definition_es": "herida abierta en el pie que no cicatriza bien",
+          "definition_en": "foot ulcer - open wound on foot that does not heal well"
+        },
+        {
+          "word": "evaluación vascular",
+          "definition_es": "examen de los vasos sanguíneos",
+          "definition_en": "vascular evaluation - examination of blood vessels"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar complicaciones",
+          "definition_en": "prevention - actions to avoid complications"
+        }
+      ],
+      "added_at": "2026-06-27T09:46:35.574575Z"
+    },
+    {
+      "id": "burn-care-20250627",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Joven Sobrevive a Incendio y se Cura sin Injertos de Piel",
+      "headline_en": "18-Year-Old Survives Fire and Heals Without Skin Grafts",
+      "summary_es": "Una joven de dieciocho años se convierte en la primera persona del mundo en sanar quemaduras graves en el rostro sin necesidad de injertos de piel. Este caso representa un avance médico significativo.",
+      "body_es": "Una joven de dieciocho años sufrió quemaduras graves en el rostro durante un incendio fraterno. Tradicionalmente, las quemaduras severas requieren injertos de piel para facilitar la curación. Sin embargo, este caso fue diferente y revolucionario. El equipo médico utilizó un enfoque innovador que permitió que su piel se regenerara naturalmente. Durante el proceso de curación, se aplicaron apósitos especiales y se monitoreó cuidadosamente la epitelización de la herida. Los médicos observaron que la piel dañada se regeneró sin necesidad de procedimientos quirúrgicos adicionales. Este resultado fue extraordinario porque demuestra que bajo condiciones óptimas, el cuerpo puede sanar quemaduras graves sin intervención quirúrgica. El caso abre nuevas posibilidades terapéuticas para futuros pacientes con quemaduras de similar magnitud. La curación completa sin cicatrices significativas representa un hito importante en medicina de quemados.",
+      "body_en": "An eighteen-year-old young woman suffered severe burns to her face during a fraternity fire. Traditionally, severe burns require skin grafts to facilitate healing. However, this case was different and revolutionary. The medical team used an innovative approach that allowed her skin to regenerate naturally. During the healing process, special dressings were applied and wound epithelialization was carefully monitored. Doctors observed that damaged skin regenerated without the need for additional surgical procedures. This result was extraordinary because it demonstrates that under optimal conditions, the body can heal severe burns without surgical intervention. The case opens new therapeutic possibilities for future patients with similar burns. Complete healing without significant scarring represents an important milestone in burn medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbFpIazFOR0RHUUxyUjNXR2ZCU3Y1TXY0VFVwWXQxSlltdXVYTUJDZmU1VGFlRm9aTUJyZUppbHp4ZDFrYVQ2VzlqN09NNUVvQzhpVkxrNEtsQnZKWmRGUVdNTkt1TEcxdG9ac2lDaGdwZjlaYVNJTkRyLV9CYzRGXzdJeDZUQnVjNi1XQUNuSmYxdUdwd0xEWVI5Z05ObGZnN0tzVHdPR0NrRWx3Rmh5YUZDWDhfdXhhQlRkMC0zbF8wV0c0M3NFUFFCY1lfMUNnMHN6cksyXzdXSTRHUzVHZVpCSnJlc1d1UUdobUF2UmE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-27/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor o fuego",
+          "definition_en": "burn - injury caused by heat or fire"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "transferencia de piel sana a área quemada",
+          "definition_en": "skin graft - transfer of healthy skin to burned area"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre la herida",
+          "definition_en": "epithelialization - formation of new skin over wound"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "proceso de restauración del tejido dañado",
+          "definition_en": "regeneration - process of restoration of damaged tissue"
+        }
+      ],
+      "added_at": "2026-06-27T09:46:35.574575Z"
+    },
+    {
+      "id": "surgical-wounds-20250627",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Predictores del Éxito en Reconstrucción de Úlceras por Presión",
+      "headline_en": "Predictors of Successful Flap Reconstruction for Pressure Ulcers",
+      "summary_es": "Análisis retrospectivo identifica factores clave que predicen el éxito de la reconstrucción quirúrgica con colgajos en pacientes con úlceras por presión. Este estudio publicado en Cureus proporciona orientación clínica importante.",
+      "body_es": "Un análisis retrospectivo reciente examina los predictores del éxito en la reconstrucción con colgajos de úlceras por presión. La reconstrucción quirúrgica es necesaria cuando las úlceras por presión son profundas y afectan músculos y huesos. Los investigadores evaluaron características del paciente y de la úlcera que influyen en los resultados quirúrgicos. Entre los factores analizados se incluyen edad, estado nutricional, comorbilidades y características de la herida como profundidad y ubicación. El estudio revisó múltiples casos de reconstrucción quirúrgica con colgajos. Los resultados identifican qué pacientes tienen mayores probabilidades de cicatrización exitosa. El estado nutricional adecuado y el control de infecciones fueron predictores importantes de éxito. Estos hallazgos ayudan a los cirujanos a seleccionar candidatos óptimos para la reconstrucción. La investigación contribuye a mejorar la planificación preoperatoria y optimizar resultados quirúrgicos en pacientes con úlceras por presión complejas.",
+      "body_en": "A recent retrospective analysis examines predictors of successful flap reconstruction for pressure ulcers. Surgical reconstruction is necessary when pressure ulcers are deep and affect muscles and bones. Researchers evaluated patient and ulcer characteristics that influence surgical outcomes. Factors analyzed include age, nutritional status, comorbidities, and wound characteristics such as depth and location. The study reviewed multiple cases of surgical flap reconstruction. Results identify which patients are more likely to achieve successful scarring. Adequate nutritional status and infection control were important predictors of success. These findings help surgeons select optimal candidates for reconstruction. The research contributes to improving preoperative planning and optimizing surgical outcomes in patients with complex pressure ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX3RoRjJOUEk2d1VnMm5BZ0xmSWJaeG51SWRNdURGRGVFNjFyb2NuZ2dObjYwVmFJLTBRQXJpMFZFRjFSTVpKUzJkMThKYmFSLVp0RlZzSmR6WUVRb2RVVTR1b0FsWjJhbjVmTm80ZmFNMjNya2hZUzJVTndoWTUzYmxfUFN1UlJ2RVE1VXVqYXNnYWVKRWd0S2l6YjNDVUV5cnZRMjVRRE90U2tVYXZ1QjFTN0xDelR1ZXRXOFMtdURpbGpwbDZSc0tYTTFZdklTSzNTdk9xQnJ4REdGTV8wXzAxNThTN3RxSGRxZU1LUUlRMGhLSGhfNg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-27/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "colgajo",
+          "definition_es": "tejido trasplantado quirúrgicamente para reconstrucción",
+          "definition_en": "flap - tissue surgically transplanted for reconstruction"
+        },
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida profunda causada por presión prolongada",
+          "definition_en": "pressure ulcer - deep wound caused by prolonged pressure"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y curación de una herida quirúrgica",
+          "definition_en": "scarring - process of closure and healing of a surgical wound"
+        },
+        {
+          "word": "comorbilidades",
+          "definition_es": "otras enfermedades que el paciente tiene simultáneamente",
+          "definition_en": "comorbidities - other diseases the patient has simultaneously"
+        }
+      ],
+      "added_at": "2026-06-27T09:46:35.574575Z"
+    },
+    {
+      "id": "wound-research-20250627",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Matriz de Piel Inspirada en Axolotl Mejora Cicatrización",
+      "headline_en": "Axolotl-Inspired Skin Matrix May Help Heal Wounds with Less Scarring",
+      "summary_es": "Investigadores desarrollan una matriz de piel basada en la capacidad regenerativa del axolotl que promete reducir cicatrización en heridas. Este avance biotecnológico abre nuevas posibilidades terapéuticas.",
+      "body_es": "Investigadores han desarrollado una matriz de piel inspirada en la extraordinaria capacidad regenerativa del axolotl, una salamandra acuática. Los axolotles pueden regenerar extremidades, órganos y piel sin desarrollar cicatrices significativas. Los científicos estudiaron los mecanismos biológicos que permiten esta regeneración sin fibrosis. La nueva matriz de piel imita estos procesos naturales usando biomateriales avanzados. Esta matriz se aplica directamente sobre heridas para facilitar una curación óptima. Durante el proceso de cicatrización, la matriz guía la regeneración celular y reduce la formación de tejido fibroso. Los estudios preliminares demuestran que las heridas tratadas con esta matriz muestran menos cicatrización visible. Esta investigación tiene implicaciones significativas para pacientes con quemaduras graves, heridas traumáticas y cirugía estética. La tecnología representa un ejemplo de biomimética, donde los investigadores aprenden de procesos naturales para mejorar tratamientos médicos. Se espera que estos biomateriales revolucionen el cuidado de heridas complejas.",
+      "body_en": "Researchers have developed a skin matrix inspired by the extraordinary regenerative capacity of the axolotl, an aquatic salamander. Axolotls can regenerate limbs, organs, and skin without developing significant scars. Scientists studied the biological mechanisms that allow this scar-free regeneration. The new skin matrix mimics these natural processes using advanced biomaterials. This matrix is applied directly to wounds to facilitate optimal healing. During the scarring process, the matrix guides cell regeneration and reduces the formation of fibrous tissue. Preliminary studies show that wounds treated with this matrix exhibit less visible scarring. This research has significant implications for patients with severe burns, traumatic wounds, and aesthetic surgery. The technology represents an example of biomimicry, where researchers learn from natural processes to improve medical treatments. These biomaterials are expected to revolutionize the care of complex wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVV95cUxPemlaVG1RVU9wOVQzT1hNZUxiM05EaTA0ZG9BM0FWLTVpQmlwdHZaTW5vWnd3V1V4Y3BXNUlkLXM1UG9CWl9JU1oyNmxaTER0dU41dnFZQmpULUlhNU1EVk9hamxmMEpZZVpmLVRFNjdoMWVMOGZMR1VUZGRORnRn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-27/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "matriz de piel",
+          "definition_es": "estructura biomaterial que facilita regeneración de piel",
+          "definition_en": "skin matrix - biomaterial structure that facilitates skin regeneration"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "crecimiento y restauración de tejido nuevo",
+          "definition_en": "regeneration - growth and restoration of new tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de tejido fibroso después de herida",
+          "definition_en": "scarring - formation of fibrous tissue after wound"
+        },
+        {
+          "word": "biomimética",
+          "definition_es": "imitación de procesos naturales en medicina",
+          "definition_en": "biomimicry - imitation of natural processes in medicine"
+        }
+      ],
+      "added_at": "2026-06-27T09:46:35.574575Z"
+    },
     {
       "id": "chronic-wounds-20250626",
       "category": "Chronic Wounds",
@@ -28121,6 +28343,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-26T10:08:59.812943Z",
+  "last_updated": "2026-06-27T09:46:35.574575Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
