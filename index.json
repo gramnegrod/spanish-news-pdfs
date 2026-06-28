@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-28",
+      "filename": "spanish_lesson_2026-06-28.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-28.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Un juez bloquea la orden de Trump sobre el voto por correo",
+          "headline_en": "A Judge Blocks Trump's Order on Mail Voting",
+          "body_es": "Un juez federal de los Estados Unidos bloqueó una orden del presidente Donald Trump. La orden quería restringir el voto por correo en el país. El voto por correo permite a los ciudadanos votar sin ir a un lugar físico. Muchas personas usan este sistema porque es más conveniente. Trump argumentó que el voto por correo puede causar fraude electoral. Sin embargo, el juez no estuvo de acuerdo con esta idea. El juez decidió que la orden no era legal según la Constitución. Millones de americanos usan el voto por correo en cada elección. Este método es especialmente importante para personas mayores y personas con discapacidades. La decisión del juez significa que los ciudadanos pueden continuar usando el voto por correo. El gobierno de Trump puede apelar esta decisión ante una corte superior. Por ahora, el voto por correo sigue siendo una opción legal para todos los votantes.",
+          "body_en": "A federal judge in the United States blocked an order from President Donald Trump. The order sought to restrict mail voting in the country. Mail voting allows citizens to vote without going to a physical location. Many people use this system because it is more convenient. Trump argued that mail voting can cause electoral fraud. However, the judge disagreed with this idea. The judge decided that the order was not legal according to the Constitution. Millions of Americans use mail voting in every election. This method is especially important for elderly people and people with disabilities. The judge's decision means that citizens can continue using mail voting. The Trump administration can appeal this decision to a higher court. For now, mail voting remains a legal option for all voters.",
+          "source": "Arizona Daily Sun"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La inflación sube al nivel más alto en tres años en Estados Unidos",
+          "headline_en": "Inflation Rises to Highest Level in Three Years in the United States",
+          "body_es": "Un indicador importante de la inflación subió al nivel más alto en tres años en los Estados Unidos. Esto significa que los precios de muchos productos están aumentando rápidamente. Los americanos están pagando más dinero por la comida, la gasolina y otros productos básicos. Al mismo tiempo, las tasas de hipoteca también subieron esta semana. Una hipoteca es un préstamo para comprar una casa. Cuando las tasas suben, comprar una casa se vuelve más difícil y más costoso. Muchas familias ya tienen problemas para pagar sus gastos mensuales. Los economistas están preocupados por esta situación. El gobierno federal está estudiando posibles soluciones para controlar la inflación. Algunos expertos dicen que la inflación puede bajar en los próximos meses. Otros expertos creen que los precios seguirán subiendo por más tiempo. Los ciudadanos esperan que la situación económica mejore pronto.",
+          "body_en": "An important inflation indicator rose to its highest level in three years in the United States. This means that the prices of many products are increasing rapidly. Americans are paying more money for food, gasoline, and other basic products. At the same time, mortgage rates also rose this week. A mortgage is a loan to buy a house. When rates rise, buying a house becomes more difficult and more expensive. Many families are already having trouble paying their monthly expenses. Economists are worried about this situation. The federal government is studying possible solutions to control inflation. Some experts say inflation could fall in the coming months. Other experts believe prices will continue rising for longer. Citizens hope the economic situation improves soon.",
+          "source": "Audacy"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Google limita el acceso de Meta a su inteligencia artificial Gemini",
+          "headline_en": "Google Limits Meta's Access to Its Gemini Artificial Intelligence",
+          "body_es": "Google decidió limitar el acceso de la empresa Meta a sus modelos de inteligencia artificial. Estos modelos se llaman Gemini y son muy avanzados. Meta es la compañía dueña de Facebook, Instagram y WhatsApp. Google explicó que la razón principal es un problema de capacidad. Esto significa que los servidores de Google no tienen suficiente espacio para todos los usuarios. La inteligencia artificial necesita muchos recursos tecnológicos para funcionar bien. Google y Meta son dos de las empresas tecnológicas más grandes del mundo. Normalmente, estas compañías compiten entre sí en el mercado de la inteligencia artificial. Muchas empresas quieren usar los modelos de Gemini para sus propios productos. Google está trabajando para aumentar su capacidad tecnológica. La empresa quiere poder ofrecer sus servicios a más clientes en el futuro. Por ahora, Meta tendrá que buscar otras soluciones para sus proyectos de inteligencia artificial.",
+          "body_en": "Google decided to limit the access of the company Meta to its artificial intelligence models. These models are called Gemini and are very advanced. Meta is the company that owns Facebook, Instagram, and WhatsApp. Google explained that the main reason is a capacity problem. This means that Google's servers do not have enough space for all users. Artificial intelligence needs many technological resources to work well. Google and Meta are two of the largest technology companies in the world. Normally, these companies compete with each other in the artificial intelligence market. Many companies want to use Gemini models for their own products. Google is working to increase its technological capacity. The company wants to be able to offer its services to more clients in the future. For now, Meta will have to find other solutions for its artificial intelligence projects.",
+          "source": "Business Standard"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "bloquear",
+          "syllables": "blo-QUEAR",
+          "pos": "verbo",
+          "context": "Un juez decidió bloquear la orden del presidente sobre el voto por correo.",
+          "definition_es": "Impedir que algo suceda o continúe",
+          "definition_en": "To block or prevent something from happening"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación subió al nivel más alto en tres años.",
+          "definition_es": "El aumento general de los precios de los productos y servicios",
+          "definition_en": "Inflation; the general rise in prices"
+        },
+        {
+          "word": "hipoteca",
+          "syllables": "hi-PO-te-ca",
+          "pos": "sustantivo",
+          "context": "Las tasas de hipoteca también subieron esta semana.",
+          "definition_es": "Un préstamo bancario para comprar una casa",
+          "definition_en": "Mortgage; a loan used to buy a house"
+        },
+        {
+          "word": "restringir",
+          "syllables": "res-trin-GIR",
+          "pos": "verbo",
+          "context": "El presidente quería restringir el acceso al voto por correo.",
+          "definition_es": "Limitar o reducir algo",
+          "definition_en": "To restrict or limit something"
+        },
+        {
+          "word": "acceso",
+          "syllables": "ac-CE-so",
+          "pos": "sustantivo",
+          "context": "Google limitó el acceso de Meta a sus modelos de inteligencia artificial.",
+          "definition_es": "La posibilidad de usar o entrar a algo",
+          "definition_en": "Access; the ability to use or enter something"
+        },
+        {
+          "word": "capacidad",
+          "syllables": "ca-pa-ci-DAD",
+          "pos": "sustantivo",
+          "context": "Google tiene problemas de capacidad con sus servidores de inteligencia artificial.",
+          "definition_es": "La cantidad máxima que algo puede manejar o producir",
+          "definition_en": "Capacity; the maximum amount something can handle"
+        },
+        {
+          "word": "orden",
+          "syllables": "OR-den",
+          "pos": "sustantivo",
+          "context": "Un juez bloqueó la orden del presidente Trump sobre el voto.",
+          "definition_es": "Un mandato oficial o instrucción de una autoridad",
+          "definition_en": "Order; an official command or instruction"
+        },
+        {
+          "word": "modelo",
+          "syllables": "mo-DE-lo",
+          "pos": "sustantivo",
+          "context": "Google desarrolló modelos de inteligencia artificial llamados Gemini.",
+          "definition_es": "Un sistema o programa que sirve como ejemplo o base",
+          "definition_en": "Model; a system or program used as a base or example"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'bloquear'?",
+          "options": [
+            "Permitir que algo suceda",
+            "Impedir que algo suceda o continúe",
+            "Ayudar a alguien",
+            "Crear algo nuevo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'hipoteca'?",
+          "options": [
+            "Un tipo de impuesto del gobierno",
+            "Un préstamo bancario para comprar una casa",
+            "Una cuenta de ahorros",
+            "Un tipo de seguro médico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'restringir'?",
+          "options": [
+            "Aumentar o expandir algo",
+            "Explicar algo claramente",
+            "Limitar o reducir algo",
+            "Compartir algo con otros"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "En el contexto de tecnología, ¿qué significa 'capacidad'?",
+          "options": [
+            "La velocidad de internet",
+            "El color de una pantalla",
+            "La cantidad máxima que algo puede manejar",
+            "El precio de un producto"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿por qué quería Trump restringir el voto por correo?",
+          "options": [
+            "Porque es muy costoso para el gobierno",
+            "Porque argumentó que puede causar fraude electoral",
+            "Porque muy pocas personas lo usan",
+            "Porque es difícil de organizar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿qué pueden hacer las personas mayores y con discapacidades gracias al voto por correo?",
+          "options": [
+            "Votar más de una vez",
+            "Votar sin ir a un lugar físico",
+            "Votar de forma anónima",
+            "Recibir ayuda económica del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de economía, ¿a qué nivel llegó el indicador de inflación?",
+          "options": [
+            "Al nivel más alto en diez años",
+            "Al nivel más alto en cinco años",
+            "Al nivel más alto en tres años",
+            "Al nivel más bajo en dos años"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia de economía, ¿qué pasó con las tasas de hipoteca esta semana?",
+          "options": [
+            "Bajaron significativamente",
+            "Se mantuvieron iguales",
+            "Desaparecieron completamente",
+            "También subieron"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿por qué Google limitó el acceso de Meta a Gemini?",
+          "options": [
+            "Porque Meta no pagó sus facturas",
+            "Porque Google y Meta son enemigos",
+            "Porque Google tiene un problema de capacidad",
+            "Porque Gemini no funciona bien"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿qué aplicaciones pertenecen a Meta?",
+          "options": [
+            "YouTube, Twitter y TikTok",
+            "Facebook, Instagram y WhatsApp",
+            "Gmail, Maps y Chrome",
+            "Spotify, Netflix y Amazon"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-28T09:59:33.620177"
+    },
+    {
       "date": "2026-06-27",
       "filename": "spanish_lesson_2026-06-27.pdf",
       "path": "pdfs/spanish_lesson_2026-06-27.pdf",
@@ -42650,7 +42872,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-27T09:41:03.514731",
+  "last_updated": "2026-06-28T09:59:33.620205",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
