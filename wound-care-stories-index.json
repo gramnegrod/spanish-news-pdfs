@@ -1,11 +1,233 @@
 {
-  "date": "2026-06-28",
-  "generated_at": "2026-06-28T10:03:12.710012Z",
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T10:39:53.154089Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 772,
+  "total_stories": 778,
   "new_today": 6,
   "stories": [
+    {
+      "id": "chronic-wounds-20250629",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La Terapia de Presión Negativa Ayuda a Curar Heridas Crónicas",
+      "headline_en": "Negative Pressure Therapy Helps Heal Chronic Wounds",
+      "summary_es": "La terapia de presión negativa es un tratamiento moderno para heridas crónicas. Los hospitales usan esta técnica para mejorar la curación de los pacientes.",
+      "body_es": "La terapia de presión negativa es un tratamiento importante para heridas crónicas. Este método usa una máquina especial que quita líquido de la herida. El líquido sale a través de un tubo pequeño. La máquina crea presión negativa en la herida. Esta presión ayuda a mejorar la circulación de sangre. El tejido dañado sana más rápido. Los pacientes con úlceras de presión, heridas diabéticas y lesiones quirúrgicas reciben este tratamiento. Los hospitales modernos tienen máquinas de presión negativa. El apósito especial cubre la herida completamente. El paciente debe cambiar el apósito cada dos o tres días. Este tratamiento reduce las infecciones y acelera la epitelización.",
+      "body_en": "Negative pressure therapy is an important treatment for chronic wounds. This method uses a special machine that removes fluid from the wound. The fluid exits through a small tube. The machine creates negative pressure in the wound. This pressure helps improve blood circulation. Damaged tissue heals faster. Patients with pressure ulcers, diabetic wounds, and surgical injuries receive this treatment. Modern hospitals have negative pressure machines. A special dressing completely covers the wound. The patient must change the dressing every two or three days. This treatment reduces infections and accelerates epithelialization.",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6MDVqLUxsU1Q1VXhsSDBpXzF6UG16M2ZmMnhTZ2pVYzN3YzZlY1JQM0JlWWdXSWtyWG1WRWF6aElQU2s3eC1jaFhMSExwWkFWRm94SXhfc0loY1NFNThTQmI1d3N6b3Iyek1NcGlmQmNOVWcyVEo2WXJFN1BWdw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-29/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "presión negativa",
+          "definition_es": "fuerza que quita líquido de la herida",
+          "definition_en": "negative pressure - force that removes fluid from the wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material especial que cubre la herida",
+          "definition_en": "dressing - special material that covers the wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de piel nueva",
+          "definition_en": "epithelialization - process of new skin formation"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de sangre en el cuerpo",
+          "definition_en": "circulation - movement of blood in the body"
+        }
+      ],
+      "added_at": "2026-06-29T10:39:53.154089Z"
+    },
+    {
+      "id": "pressure-ulcers-20250629",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "amber",
+      "headline_es": "El Mercado de Tratamiento de Úlceras por Presión Crece Rápidamente",
+      "headline_en": "Pressure Ulcer Treatment Market Grows Rapidly",
+      "summary_es": "El mercado de úlceras por presión está creciendo con un aumento del 23% hasta el año 2030. Los hospitales necesitan nuevos tratamientos para los pacientes.",
+      "body_es": "Las úlceras por presión son heridas graves en la piel. Ocurren cuando una persona está en la cama mucho tiempo. El cuerpo no recibe suficiente circulación de sangre en esas áreas. Las úlceras afectan principalmente a personas mayores y enfermas. El mercado de tratamiento crece muy rápido. Se espera un aumento del 23% cada año hasta 2030. Los hospitales compran más productos para tratar estas heridas. Los apósitos especiales, las cremas y los medicamentos son importantes. Las enfermeras previenen las úlceras con cambios de posición regulares. Los pacientes necesitan limpiar la piel cada día. El buen cuidado reduce las complicaciones e infecciones graves.",
+      "body_en": "Pressure ulcers are serious skin wounds. They occur when a person stays in bed for a long time. The body does not receive enough blood circulation in those areas. Ulcers mainly affect elderly and sick people. The treatment market is growing very fast. A 23% increase is expected each year until 2030. Hospitals are buying more products to treat these wounds. Special dressings, creams, and medications are important. Nurses prevent ulcers with regular position changes. Patients need to clean the skin every day. Good care reduces serious complications and infections.",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQREtUYWtsSWJKeGxuUVBtbE1vV1RaZXljdFRJRUJMTXZZY2V1d3h6akNUSkE2b09qVmlHV2hqNm9kc2MxQmtxWlZVdGtDV2t2THRlZFdrWWVPYWdCelVia2hYYm1LYXNhcXI2VEtOd01GSHByTU52UUt5SUdJNkZJT1RTSkhCeTRUdUxhZ0JqMDR0SmNESWF0SUlpZGVqb1lFRk9NZGpHbFViN1hyZlJxN05lQWpZMC1BMS1FamIxTdIBxAFBVV95cUxQVXVJemlzZ0R5a2lEcVNXekFlV2lMQVNBVFAxenQ2Q1VTNTdiUWZjQ2JLYUFDMkU0M3BJZWRxd2NKck1kejBHaElxY3lrWi00d0RtNHU0MWhMSjFyNi04eDFPZk81SUJsNU54VFNHbmo0X2pUTVNwX01PUHJYT3RPNEgzMmpRa1NsemJJa0k2UVE3c085b0tZcEVXZjlWaUZrSTZRdXlzVnQwNUk4cEMtc2s1bnhlTHgyZ2JZOFdxTFNGTHdj?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-29/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida en la piel causada por presión prolongada",
+          "definition_en": "pressure ulcer - skin wound caused by prolonged pressure"
+        },
+        {
+          "word": "escara",
+          "definition_es": "tejido muerto en la herida",
+          "definition_en": "eschar - dead tissue in the wound"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "limpieza del tejido dañado",
+          "definition_en": "debridement - cleaning of damaged tissue"
+        },
+        {
+          "word": "posición",
+          "definition_es": "forma en que el paciente está acostado",
+          "definition_en": "position - the way the patient is lying"
+        }
+      ],
+      "added_at": "2026-06-29T10:39:53.154089Z"
+    },
+    {
+      "id": "diabetic-foot-20250629",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "rose",
+      "headline_es": "Instituciones Sauditas se Unen para Combatir la Diabetes",
+      "headline_en": "Top Saudi Institutions Unite to Combat Diabetes",
+      "summary_es": "Las principales instituciones médicas de Arabia Saudita han firmado un acuerdo para mejorar el tratamiento de la diabetes y sus complicaciones. El programa incluye el cuidado especializado del pie diabético.",
+      "body_es": "Las instituciones médicas más importantes de Arabia Saudita han establecido una colaboración estratégica para abordar los desafíos de la diabetes. Este acuerdo busca mejorar la prevención, diagnóstico y tratamiento de esta enfermedad crónica. El pie diabético es una complicación grave que afecta a muchos pacientes. La neuropatía diabética causa pérdida de sensibilidad en los pies. Sin sensibilidad, los pacientes no sienten las heridas pequeñas. Estas heridas pueden convertirse en úlceras profundas si no se tratan. Las instituciones ofrecerán programas de educación para los pacientes diabéticos. Los especialistas en heridas evaluarán regularmente el estado de los pies. La intervención temprana previene la necesidad de amputaciones. El tratamiento incluye desbridamiento, antibióticos y apósitos especializados. La colaboración entre hospitales mejorará el acceso a la atención especializada.",
+      "body_en": "The most important medical institutions in Saudi Arabia have established a strategic collaboration to address the challenges of diabetes. This agreement seeks to improve the prevention, diagnosis, and treatment of this chronic disease. Diabetic foot is a serious complication affecting many patients. Diabetic neuropathy causes loss of sensation in the feet. Without sensation, patients do not feel small wounds. These wounds can become deep ulcers if not treated. The institutions will offer educational programs for diabetic patients. Wound care specialists will regularly evaluate foot status. Early intervention prevents the need for amputations. Treatment includes debridement, antibiotics, and specialized dressings. Collaboration between hospitals will improve access to specialized care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GUjRlMmJwUjBqU1ZNODNXTzhFZXA3Umg4QUtqbVdiSlUzMlhYeE5SNDJPcWtkekIxUmY1S3BERWs4NURuWElNel95d0k5d01uSmIw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-29/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "neuropatía",
+          "definition_es": "enfermedad del nervio que causa pérdida de sensación",
+          "definition_en": "neuropathy - nerve disease that causes loss of sensation"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica del tejido necrótico",
+          "definition_en": "debridement - surgical removal of dead tissue"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo en los tejidos",
+          "definition_en": "ischemia - lack of blood flow to tissues"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-06-29T10:39:53.154089Z"
+    },
+    {
+      "id": "burn-care-20250629",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Matriz Inspirada en Ajolote Podría Mejorar la Cicatrización de Quemaduras",
+      "headline_en": "Axolotl-Inspired Skin Matrix May Improve Burn Healing",
+      "summary_es": "Investigadores han desarrollado una matriz de piel inspirada en la capacidad regenerativa del ajolote. Este material podría reducir significativamente las cicatrices en pacientes quemados.",
+      "body_es": "Los investigadores han creado una matriz de piel nueva inspirada en el ajolote, un animal que regenera su piel sin dejar cicatrices. Esta matriz está hecha de materiales biocompatibles que imitan la estructura natural de la epidermis y la dermis. El ajolote puede curar heridas profundas sin formación excesiva de tejido cicatricial. Los científicos estudiaron cómo el ajolote regenera su piel después de lesiones graves. Descubrieron proteínas especiales que controlan la cicatrización anormal. Incorporaron estas proteínas en la nueva matriz. La matriz se aplica sobre quemaduras medianas y graves. Promueve la epitelización rápida y reduce la formación de cicatrices hipertróficas. Los pacientes quemados sufren no solo por el dolor sino también por las secuelas estéticas. Esta innovación podría mejorar significativamente la calidad de vida de los sobrevivientes de quemaduras. Los ensayos clínicos están en desarrollo para validar la seguridad y eficacia.",
+      "body_en": "Researchers have created a new skin matrix inspired by the axolotl's ability to regenerate skin without scarring. This matrix is made of biocompatible materials that mimic the natural structure of the epidermis and dermis. The axolotl can heal deep wounds without excessive scar tissue formation. Scientists studied how the axolotl regenerates its skin after serious injuries. They discovered special proteins that control abnormal scarring. They incorporated these proteins into the new matrix. The matrix is applied to moderate and severe burns. It promotes rapid epithelialization and reduces hypertrophic scar formation. Burn patients suffer not only from pain but also from aesthetic consequences. This innovation could significantly improve the quality of life for burn survivors. Clinical trials are in development to validate safety and efficacy.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96aVBJV2pRT3A5TDNPWE1lTGIzNkRpNTRkb0EzQVYtNWlCaXB0dlpNTm9ad3BXNUlkLXM1UG9CWl9JU1oyNmxaTER0dU41dnFZQmpULUlhNU1EVk9hamxmMEpZZVpmLVRFNjdoMWVMOGZMR1VUZGRORnRn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-29/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatriz hipertrófica",
+          "definition_es": "tejido cicatricial grueso y elevado",
+          "definition_en": "hypertrophic scar - thick and raised scar tissue"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de regeneración de la epidermis",
+          "definition_en": "epithelialization - process of epidermis regeneration"
+        },
+        {
+          "word": "biocompatible",
+          "definition_es": "material que el cuerpo tolera sin rechazar",
+          "definition_en": "biocompatible - material that the body tolerates without rejection"
+        },
+        {
+          "word": "dermis",
+          "definition_es": "capa profunda de la piel bajo la epidermis",
+          "definition_en": "dermis - deep layer of skin beneath the epidermis"
+        }
+      ],
+      "added_at": "2026-06-29T10:39:53.154089Z"
+    },
+    {
+      "id": "surgical-wounds-20250629",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Colaborativa de Calidad Musculoesquelética Mejora Atención Quirúrgica",
+      "headline_en": "Musculoskeletal Quality Collaborative Improves Surgical Care",
+      "summary_es": "Un sistema hospitalario ha implementado un programa colaborativo que mejora la entrega de atención basada en valor para pacientes quirúrgicos musculoesqueléticos. Los resultados muestran mejora en complicaciones de heridas postoperatorias.",
+      "body_es": "Una colaborativa de calidad enfocada en medicina musculoesquelética ha transformado la manera en que un sistema hospitalario entrega atención quirúrgica basada en valor. Este programa integra múltiples departamentos incluyendo cirugía ortopédica, traumatología, y cuidado de heridas. El objetivo principal es reducir las complicaciones postoperatorias en pacientes quirúrgicos. Las complicaciones de heridas quirúrgicas incluyen infección del sitio quirúrgico, seroma, hematoma y dehiscencia. La colaborativa ha estandarizado protocolos de prevención de infecciones. Los cirujanos ahora siguen directrices basadas en evidencia para desbridamiento y cierre de heridas. El equipo de cuidado de heridas evalúa a los pacientes en el período postoperatorio inmediato. Se han implementado sistemas de seguimiento para detectar complicaciones tempranamente. Los apósitos especializados se seleccionan según el tipo de herida y exudado. El programa también incluye educación del paciente sobre autocuidado de heridas. Los resultados muestran reducción significativa en tasas de infección y mejoría en cicatrización.",
+      "body_en": "A quality collaborative focused on musculoskeletal medicine has transformed how a hospital system delivers value-based surgical care. This program integrates multiple departments including orthopedic surgery, trauma, and wound care. The primary goal is to reduce postoperative complications in surgical patients. Surgical wound complications include surgical site infection, seroma, hematoma, and dehiscence. The collaborative has standardized infection prevention protocols. Surgeons now follow evidence-based guidelines for debridement and wound closure. The wound care team evaluates patients in the immediate postoperative period. Tracking systems have been implemented to detect complications early. Specialized dressings are selected based on wound type and exudate. The program also includes patient education about wound self-care. Results show significant reduction in infection rates and improved healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdmFxZXJLMjEyd1h6Q0ZEMG82R2VvUS15XzNtcDlsU2w5eHZ4Y2hjVThONzk0YWlEU204cl9DcVZsZ2Q1aGxJVmtyNXp4SThvY2lheHkzZWFFWXN2UXBJcUZKTWphdGozYVk2LTZZb1dFWXBGREQ1UWtuVjNWVVhQODRvbDJtWWd2QW5zQ3A1Z1FFX1RkWWQyc096REhaZm43ZEh4by1IYk4tQmNoV0pKOFNELUNRZmlVZzlYemxEUlVrVW1GMjNv?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-29/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dehiscencia",
+          "definition_es": "separación de los bordes de una herida quirúrgica",
+          "definition_en": "dehiscence - separation of the edges of a surgical wound"
+        },
+        {
+          "word": "seroma",
+          "definition_es": "acumulación de líquido en la herida quirúrgica",
+          "definition_en": "seroma - accumulation of fluid in the surgical wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de la herida",
+          "definition_en": "exudate - fluid that drains from the wound"
+        },
+        {
+          "word": "infección del sitio quirúrgico",
+          "definition_es": "infección que ocurre en el área de la cirugía",
+          "definition_en": "surgical site infection - infection occurring in the surgical area"
+        }
+      ],
+      "added_at": "2026-06-29T10:39:53.154089Z"
+    },
+    {
+      "id": "wound-research-20250629",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "TAPUR Celebra una Década de Innovación en Investigación Oncológica",
+      "headline_en": "TAPUR Marks a Decade of Innovation in Cancer Research",
+      "summary_es": "El programa TAPUR ha alcanzado diez años apoyando investigación innovadora en tumores. Sus descubrimientos incluyen avances en el manejo de heridas en pacientes con cáncer.",
+      "body_es": "El programa TAPUR de la Sociedad Americana de Oncología Clínica ha completado una década de apoyo a la investigación innovadora. TAPUR significa 'Prueba de Tumores Específicos del Paciente Que Utilizan Drogas Dirigidas'. El programa financía estudios sobre medicamentos experimentales para pacientes con cánceres raros. Durante estos diez años, TAPUR ha apoyado más de cien ensayos clínicos. Los investigadores han descubierto nuevos tratamientos que mejoran la supervivencia y la calidad de vida. Algunos descubrimientos han incluido avances en el cuidado de heridas relacionadas con el cáncer. Los pacientes oncológicos desarrollan úlceras y heridas complicadas por la quimioterapia y la radiación. Los investigadores han estudiado apósitos innovadores para estas heridas especiales. La investigación ha demostrado que ciertos materiales bioactivos aceleran la cicatrización. El programa continúa financiando proyectos que desarrollan nuevas soluciones para heridas oncológicas complejas.",
+      "body_en": "The TAPUR program of the American Society of Clinical Oncology has completed a decade of supporting innovative research. TAPUR stands for 'Tumor Profiling Using Advanced Technology and Molecular Testing Assay Registry'. The program funds studies on experimental drugs for patients with rare cancers. Over these ten years, TAPUR has supported over one hundred clinical trials. Researchers have discovered new treatments that improve survival and quality of life. Some discoveries have included advances in managing cancer-related wounds. Cancer patients develop ulcers and wounds complicated by chemotherapy and radiation. Researchers have studied innovative dressings for these special wounds. Research has shown that certain bioactive materials accelerate healing. The program continues to fund projects developing new solutions for complex oncology wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMU5lX0ZnZnpKSlhhVFlGRGJ5NXYxWjBsRnJKN3RRUVBJU3ludlItTnl6ejVhVnNsUTR0bDJjMFUtbEVHTmg1Mk9CQ19qc2tMT3o5dE9idW1LTng0TU05aHlyVjBqWkRmTmh2elNsZ0puWXpUTVlnbFJfN2lPT09ZeTJ3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-29/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio de investigación que prueba tratamientos nuevos",
+          "definition_en": "clinical trial - research study testing new treatments"
+        },
+        {
+          "word": "bioactivo",
+          "definition_es": "material que interactúa biológicamente con el tejido",
+          "definition_en": "bioactive - material that biologically interacts with tissue"
+        },
+        {
+          "word": "medicamento dirigido",
+          "definition_es": "fármaco que ataca específicamente células cancerosas",
+          "definition_en": "targeted drug - medication that specifically attacks cancer cells"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido cicatricial",
+          "definition_en": "scarring - process of scar tissue formation"
+        }
+      ],
+      "added_at": "2026-06-29T10:39:53.154089Z"
+    },
     {
       "id": "chronic-wounds-20250628",
       "category": "Chronic Wounds",
@@ -28565,6 +28787,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-28T10:03:12.710012Z",
+  "last_updated": "2026-06-29T10:39:53.154089Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
