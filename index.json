@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-06-29",
+      "filename": "spanish_lesson_2026-06-29.pdf",
+      "path": "pdfs/spanish_lesson_2026-06-29.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Biden dice que Trump ha dañado la imagen de EE.UU. ante el mundo",
+          "headline_en": "Biden says Trump has damaged the image of the US before the world",
+          "body_es": "El expresidente Joe Biden habló esta semana sobre su sucesor, Donald Trump. Biden dijo que Trump ha disminuido el prestigio de los Estados Unidos en el mundo. Según Biden, otros países ahora tienen menos respeto por los Estados Unidos. Biden criticó varias decisiones políticas de Trump. Estas decisiones, según él, han afectado las relaciones internacionales del país. Biden fue presidente de los Estados Unidos desde 2021 hasta enero de 2025. Trump ganó las elecciones y regresó a la Casa Blanca. Es poco común que un expresidente critique públicamente a su sucesor de esta manera. Las palabras de Biden generaron mucha atención en los medios de comunicación. Algunos políticos apoyan la opinión de Biden. Otros dicen que Biden está equivocado. La situación muestra que hay grandes diferencias políticas en los Estados Unidos. La imagen del país en el mundo es un tema muy importante para los dos partidos políticos.",
+          "body_en": "Former President Joe Biden spoke this week about his successor, Donald Trump. Biden said that Trump has diminished the prestige of the United States in the world. According to Biden, other countries now have less respect for the United States. Biden criticized several of Trump's political decisions. These decisions, he said, have affected the country's international relations. Biden was President of the United States from 2021 until January 2025. Trump won the elections and returned to the White House. It is unusual for a former president to publicly criticize his successor in this way. Biden's words generated a lot of attention in the media. Some politicians support Biden's opinion. Others say Biden is wrong. The situation shows that there are major political differences in the United States. The country's image in the world is a very important topic for both political parties.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El dólar sube a su nivel más alto en más de un año",
+          "headline_en": "The dollar rises to its highest level in more than a year",
+          "body_es": "Esta semana, el dólar americano alcanzó su precio más alto en trece meses. Esto significa que el dólar vale más comparado con otras monedas del mundo. Los inversores extranjeros están comprando muchos dólares en este momento. Esto es interesante porque muchas personas tenían preocupaciones sobre la economía bajo el presidente Trump. Algunos expertos pensaban que las políticas de Trump podrían dañar el valor del dólar. Sin embargo, los inversores parecen ignorar esas preocupaciones. Ellos siguen confiando en la economía americana. Un dólar fuerte tiene efectos positivos y negativos. Por un lado, los americanos pueden comprar productos extranjeros más baratos. Por otro lado, los productos americanos son más caros para otros países. Esto puede afectar las exportaciones de los Estados Unidos. Los expertos en economía están observando la situación con mucho interés. El mercado financiero mundial está pendiente de las próximas decisiones económicas del gobierno de Trump.",
+          "body_en": "This week, the American dollar reached its highest price in thirteen months. This means the dollar is worth more compared to other world currencies. Foreign investors are buying many dollars right now. This is interesting because many people had concerns about the economy under President Trump. Some experts thought Trump's policies could damage the value of the dollar. However, investors seem to be ignoring those concerns. They continue to trust the American economy. A strong dollar has positive and negative effects. On one hand, Americans can buy foreign products more cheaply. On the other hand, American products are more expensive for other countries. This can affect US exports. Economics experts are watching the situation with great interest. The global financial market is watching for the next economic decisions from the Trump administration.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Las ventas de chips de Nvidia en China caen mientras Huawei crece",
+          "headline_en": "Nvidia's chip sales in China fall while Huawei grows",
+          "body_es": "La empresa tecnológica Nvidia tiene problemas en China. Sus ventas de chips de inteligencia artificial han bajado mucho en ese país. Los chips son componentes electrónicos muy importantes para la inteligencia artificial. Nvidia es una de las empresas más importantes del mundo en este sector. Pero ahora, empresas chinas como Huawei están tomando el control del mercado en China. Huawei es una empresa tecnológica china muy grande. Está fabricando sus propios chips de inteligencia artificial. Esto representa una fuerte competencia para Nvidia. El gobierno americano ha puesto restricciones a la venta de chips avanzados a China. Estas restricciones han ayudado a las empresas chinas a desarrollar su propia tecnología. Ahora China quiere ser independiente en el sector tecnológico. Esta situación es muy importante para el futuro de la tecnología mundial. La competencia entre empresas americanas y chinas en inteligencia artificial está creciendo cada día más.",
+          "body_en": "Tech company Nvidia is having problems in China. Its artificial intelligence chip sales have dropped significantly in that country. Chips are very important electronic components for artificial intelligence. Nvidia is one of the most important companies in the world in this sector. But now, Chinese companies like Huawei are taking control of the market in China. Huawei is a very large Chinese technology company. It is manufacturing its own artificial intelligence chips. This represents strong competition for Nvidia. The American government has placed restrictions on the sale of advanced chips to China. These restrictions have helped Chinese companies develop their own technology. Now China wants to be independent in the technology sector. This situation is very important for the future of world technology. Competition between American and Chinese companies in artificial intelligence is growing every day.",
+          "source": "ABC News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "disminuir",
+          "syllables": "dis-mi-nu-IR",
+          "pos": "verbo",
+          "context": "Biden dice que Trump ha disminuido el prestigio de los Estados Unidos en el mundo.",
+          "definition_es": "Hacer que algo sea más pequeño o menos importante",
+          "definition_en": "To diminish, to reduce, to lessen"
+        },
+        {
+          "word": "prestigio",
+          "syllables": "pres-TI-gio",
+          "pos": "sustantivo",
+          "context": "El prestigio de los Estados Unidos en el mundo ha cambiado bajo el nuevo presidente.",
+          "definition_es": "La buena reputación o respeto que tiene una persona o país",
+          "definition_en": "Prestige, reputation, standing"
+        },
+        {
+          "word": "dólar",
+          "syllables": "DÓ-lar",
+          "pos": "sustantivo",
+          "context": "El dólar alcanzó su nivel más alto en trece meses esta semana.",
+          "definition_es": "La moneda oficial de los Estados Unidos",
+          "definition_en": "Dollar (US currency)"
+        },
+        {
+          "word": "inversor",
+          "syllables": "in-ver-SOR",
+          "pos": "sustantivo",
+          "context": "Los inversores extranjeros siguen comprando dólares a pesar de sus preocupaciones.",
+          "definition_es": "Una persona que pone dinero en negocios o mercados para ganar más dinero",
+          "definition_en": "Investor"
+        },
+        {
+          "word": "chip",
+          "syllables": "CHIP",
+          "pos": "sustantivo",
+          "context": "Las ventas de chips de inteligencia artificial de Nvidia en China han bajado mucho.",
+          "definition_es": "Un componente electrónico muy pequeño que procesa información en las computadoras",
+          "definition_en": "Chip (microchip, semiconductor)"
+        },
+        {
+          "word": "competencia",
+          "syllables": "com-pe-TEN-cia",
+          "pos": "sustantivo",
+          "context": "Huawei representa una fuerte competencia para Nvidia en el mercado chino.",
+          "definition_es": "La situación cuando dos o más empresas luchan por los mismos clientes",
+          "definition_en": "Competition, rivalry"
+        },
+        {
+          "word": "preocupación",
+          "syllables": "pre-o-cu-pa-CIÓN",
+          "pos": "sustantivo",
+          "context": "Los inversores ignoran sus preocupaciones sobre la política económica de Trump.",
+          "definition_es": "Un sentimiento de ansiedad o inquietud sobre algo",
+          "definition_en": "Worry, concern"
+        },
+        {
+          "word": "sucesor",
+          "syllables": "su-ce-SOR",
+          "pos": "sustantivo",
+          "context": "Biden criticó a su sucesor, el presidente Trump, en un discurso reciente.",
+          "definition_es": "La persona que toma el lugar de otra persona en un trabajo o posición",
+          "definition_en": "Successor"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'disminuir'?",
+          "options": [
+            "Hacer algo más grande o importante",
+            "Hacer algo más pequeño o menos importante",
+            "Cambiar completamente algo",
+            "Ignorar algo completamente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'inversor'?",
+          "options": [
+            "Una persona que trabaja en el gobierno",
+            "Una persona que fabrica productos tecnológicos",
+            "Una persona que pone dinero en negocios o mercados para ganar más dinero",
+            "Una persona que estudia las relaciones internacionales"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'preocupación'?",
+          "options": [
+            "Un sentimiento de felicidad y satisfacción",
+            "Un sentimiento de ansiedad o inquietud sobre algo",
+            "Una decisión importante del gobierno",
+            "Un tipo de inversión financiera"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "En el contexto de los negocios, ¿qué significa 'competencia'?",
+          "options": [
+            "La habilidad de hacer algo muy bien",
+            "Un examen difícil en la universidad",
+            "La situación cuando dos o más empresas luchan por los mismos clientes",
+            "Un acuerdo entre dos países"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿qué dijo Biden sobre Trump?",
+          "options": [
+            "Que Trump ha mejorado la imagen de EE.UU. en el mundo",
+            "Que Trump ha disminuido el prestigio de los Estados Unidos en el mundo",
+            "Que Trump es el mejor presidente de la historia",
+            "Que Trump tiene buenas relaciones internacionales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuándo fue presidente Joe Biden, según la historia de Política?",
+          "options": [
+            "Desde 2018 hasta 2021",
+            "Desde 2020 hasta 2024",
+            "Desde 2021 hasta enero de 2025",
+            "Desde 2019 hasta 2023"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿cuánto tiempo hace que el dólar no estaba tan alto?",
+          "options": [
+            "Seis meses",
+            "Un año y medio",
+            "Dos años",
+            "Trece meses"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿cuál es un efecto negativo de un dólar fuerte?",
+          "options": [
+            "Los americanos no pueden comprar productos extranjeros",
+            "Los productos americanos son más caros para otros países, lo que puede afectar las exportaciones",
+            "El gobierno americano pierde mucho dinero",
+            "Los inversores extranjeros dejan de comprar dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿por qué han bajado las ventas de Nvidia en China?",
+          "options": [
+            "Porque los chips de Nvidia son de muy mala calidad",
+            "Porque China no necesita chips de inteligencia artificial",
+            "Porque empresas chinas como Huawei están fabricando sus propios chips y tomando el mercado",
+            "Porque Nvidia decidió dejar de vender en China voluntariamente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué ha hecho el gobierno americano con respecto a los chips avanzados?",
+          "options": [
+            "Ha dado dinero a Nvidia para vender más chips en China",
+            "Ha puesto restricciones a la venta de chips avanzados a China",
+            "Ha creado una nueva empresa de chips para competir con Huawei",
+            "Ha firmado un acuerdo con China para compartir tecnología"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-06-29T10:31:41.049312"
+    },
+    {
       "date": "2026-06-28",
       "filename": "spanish_lesson_2026-06-28.pdf",
       "path": "pdfs/spanish_lesson_2026-06-28.pdf",
@@ -42872,7 +43094,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-28T09:59:33.620205",
+  "last_updated": "2026-06-29T10:31:41.049340",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
