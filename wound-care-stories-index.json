@@ -1,11 +1,196 @@
 {
-  "date": "2026-06-29",
-  "generated_at": "2026-06-29T10:39:53.154089Z",
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T10:16:29.868292Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 778,
-  "new_today": 6,
+  "total_stories": 783,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250630",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos apósitos activos para heridas crónicas",
+      "headline_en": "New Active Dressings for Chronic Wounds",
+      "summary_es": "El mercado de apósitos bioactivos crece rápidamente. Estos productos nuevos ayudan a curar heridas difíciles.",
+      "body_es": "Los apósitos bioactivos son vendajes especiales para heridas crónicas. Estas heridas no cicatrizan bien con tratamientos normales. Los apósitos bioactivos tienen sustancias que ayudan a la curación. El mercado de estos productos crece mucho. Los expertos dicen que el crecimiento continúa hasta 2036. Los hospitales usan más estos apósitos cada año. Son útiles para úlceras de presión y úlceras diabéticas. Los profesionales de enfermería aprenden a usar estos vendajes. La curación es más rápida con estos productos. Los pacientes tienen menos complicaciones e infecciones.",
+      "body_en": "Bioactive dressings are special bandages for chronic wounds. These wounds do not heal well with normal treatments. Bioactive dressings contain substances that help healing. The market for these products is growing rapidly. Experts say growth continues until 2036. Hospitals use more of these dressings each year. They are useful for pressure ulcers and diabetic ulcers. Nursing professionals learn to use these bandages. Healing is faster with these products. Patients have fewer complications and infections.",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wTmlpQkFWS0g4Mnd3dGlkeUFpVUVvbk5yUDNDWU1sUVh6NzVfY2d5OWN2LV8wYnk0TjJtN2VTa0o4SFZlenkwZmJtTjlDakVyQ2JYU0lFemtraEFPRlNIQzJuSDEyMlMzLW52d2hLOA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-30/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "vendaje o material que cubre una herida",
+          "definition_en": "dressing - bandage or material that covers a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanación de una herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza",
+          "definition_en": "ulcer - open wound on skin that does not heal"
+        },
+        {
+          "word": "infección",
+          "definition_es": "entrada de microbios en una herida",
+          "definition_en": "infection - entry of microbes into a wound"
+        }
+      ],
+      "added_at": "2026-06-30T10:16:29.868292Z"
+    },
+    {
+      "id": "diabetic-foot-20250630",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "La enfermedad del pie diabético: un problema importante de salud pública",
+      "headline_en": "Diabetic Foot Disease: A Significant Public Health Problem",
+      "summary_es": "Un simposio reciente en el Hospital Beaumont identificó la enfermedad del pie diabético como un problema importante de salud pública. Los expertos discutieron estrategias para mejorar la prevención y el tratamiento.",
+      "body_es": "La enfermedad del pie diabético representa un desafío significativo en la salud pública actual. Un simposio celebrado en el Hospital Beaumont reunió a profesionales de la medicina para analizar esta condición. Los pacientes diabéticos desarrollan úlceras en los pies debido a la neuropatía periférica y la mala circulación. Estas complicaciones pueden llevar a infecciones graves e incluso amputaciones. Los especialistas enfatizaron la importancia del cuidado preventivo y el monitoreo regular de los pies. La educación del paciente sobre inspección diaria y el uso de calzado apropiado es esencial. El tratamiento temprano de las úlceras puede prevenir resultados adversos. Se recomendó un enfoque multidisciplinario que incluya enfermería, medicina, y podología. La detección precoz de cambios en la piel reduce las complicaciones significativamente.",
+      "body_en": "Diabetic foot disease represents a significant challenge in current public health. A symposium held at Beaumont Hospital brought together medical professionals to analyze this condition. Diabetic patients develop foot ulcers due to peripheral neuropathy and poor circulation. These complications can lead to serious infections and even amputations. Specialists emphasized the importance of preventive care and regular foot monitoring. Patient education regarding daily inspection and appropriate footwear is essential. Early treatment of ulcers can prevent adverse outcomes. A multidisciplinary approach including nursing, medicine, and podiatry was recommended. Early detection of skin changes significantly reduces complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb0R6aC1HdVppUk52bzZhT1ZWV0E0ZTNPVGJ6TklFTTNXOXd1MGtoRUJjcE1jTTlHWW43RnR4WHotbEhiaDJFcHBxMkNpeXNDZjVkTy1PMTExNTByc0R6Q3NUMzJjenlfNHlMeVhIRFE1YXhzQS12YXVGdG9rc1Z5aU11V241RlZ3QVM0R3liR2xYQ1dHcUljY0lGSXU4TnB0M01YRWV6U2dxNDl2U3MyOWdZUnJGZ3ZPRFpGRXNrV3E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-30/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "neuropatía",
+          "definition_es": "enfermedad de los nervios que reduce la sensibilidad",
+          "definition_en": "neuropathy - nerve disease that reduces sensation"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar que ocurra una enfermedad",
+          "definition_en": "prevention - actions to avoid disease occurrence"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de la sangre por el cuerpo",
+          "definition_en": "circulation - movement of blood through the body"
+        }
+      ],
+      "added_at": "2026-06-30T10:16:29.868292Z"
+    },
+    {
+      "id": "burn-care-20250630",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Matriz de piel inspirada en el ajolote podría mejorar la cicatrización de heridas",
+      "headline_en": "Axolotl-inspired Skin Matrix May Improve Wound Healing",
+      "summary_es": "Investigadores desarrollaron una matriz de piel basada en la capacidad del ajolote para regenerarse sin dejar cicatrices. Este avance podría revolucionar el tratamiento de quemaduras y heridas graves.",
+      "body_es": "Un equipo de investigadores ha desarrollado una matriz de piel inspirada en el ajolote, un animal conocido por su extraordinaria capacidad regenerativa. El ajolote puede regenerar partes complejas de su cuerpo sin desarrollar cicatrices visibles. Esta matriz sintética podría aplicarse a heridas quemadas y lesiones traumáticas en humanos. La tecnología busca mejorar la curación acelular mientras reduce la formación de cicatrices. Los estudios preliminares muestran resultados prometedores en la epitelización de heridas profundas. El tratamiento podría beneficiar a pacientes con quemaduras extensas y heridas quirúrgicas complejas. Los investigadores están optimistas sobre las aplicaciones clínicas futuras. Esta innovación representa un avance significativo en medicina regenerativa. El proceso de curación con menos cicatrices mejoraría la calidad de vida de los pacientes.",
+      "body_en": "A team of researchers has developed a skin matrix inspired by the axolotl, an animal known for its extraordinary regenerative capacity. The axolotl can regenerate complex body parts without developing visible scars. This synthetic matrix could be applied to burned wounds and traumatic injuries in humans. The technology aims to improve wound healing while reducing scar formation. Preliminary studies show promising results in deep wound epithelialization. The treatment could benefit patients with extensive burns and complex surgical wounds. Researchers are optimistic about future clinical applications. This innovation represents a significant advance in regenerative medicine. The healing process with fewer scars would improve patient quality of life.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96aVBJV2pRT3A5TDNPWE1lTGIzNkRpNTRkb0EzQVYtNWlCaXB0dlpNTm9ad3BXNUlkLXM1UG9CWl9JU1oyNmxaTER0dU41dnFZQmpULUlhNU1EVk9hamxmMEpZZVpmLVRFNjdoMWVMOGZMR1VUZGRORnRn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-30/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatriz",
+          "definition_es": "marca permanente que deja una herida después de sanar",
+          "definition_en": "scar - permanent mark left by a wound after healing"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor o fuego",
+          "definition_en": "burn - skin injury caused by heat or fire"
+        },
+        {
+          "word": "regeneración",
+          "definition_es": "capacidad de un tejido para crecer nuevamente",
+          "definition_en": "regeneration - ability of tissue to grow again"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nuevas células de piel sobre una herida",
+          "definition_en": "epithelialization - formation of new skin cells over a wound"
+        }
+      ],
+      "added_at": "2026-06-30T10:16:29.868292Z"
+    },
+    {
+      "id": "surgical-wounds-20250630",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "La membrana amniótica mejora la curación de heridas después de cesárea",
+      "headline_en": "Amniotic Membrane Improves Wound Healing After Cesarean Surgery",
+      "summary_es": "Un estudio publicado en Nature investigó el efecto de la aplicación de membrana amniótica en la cicatrización de heridas post-cesárea. Los resultados muestran mejoras significativas en la curación y resultados estéticos.",
+      "body_es": "Un estudio reciente publicado en Nature examinó los efectos de la membrana amniótica en la curación de heridas después de cesárea. La membrana amniótica es un tejido natural con propiedades bioactivas que promueve la cicatrización. Los investigadores aplicaron la membrana en heridas quirúrgicas de cesárea y midieron los resultados de curación. Los pacientes tratados con membrana amniótica mostraron epitelización más rápida y menos complicaciones infecciosas. Los resultados estéticos fueron mejores, con menos visibilidad de cicatrices postoperatorias. El estudio incluyó múltiples centros médicos para validar los hallazgos. Los resultados sugieren que la membrana amniótica es segura y efectiva para heridas quirúrgicas. El tratamiento redujo significativamente el tiempo de curación en comparación con vendajes convencionales. Este descubrimiento podría cambiar la práctica estándar en el cuidado de heridas obstétricas.",
+      "body_en": "A recent study published in Nature examined the effects of amniotic membrane on wound healing after cesarean section. Amniotic membrane is natural tissue with bioactive properties that promotes healing. Researchers applied the membrane to cesarean surgical wounds and measured healing outcomes. Patients treated with amniotic membrane showed faster epithelialization and fewer infectious complications. Aesthetic results were improved, with less postoperative scar visibility. The study included multiple medical centers to validate the findings. Results suggest that amniotic membrane is safe and effective for surgical wounds. The treatment significantly reduced healing time compared to conventional dressings. This discovery could change standard practice in obstetric wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hTEFsTnpPR2hmWjZhNlJtOW11bkZZanhSdGNfWEV6TElFbHNsQVlRaklpNlp5QWptRTkzWWZ5X0NjWWdqVWhSOUdOUC1oMUp2U1RYZjlpX0ZRWElBdF9n?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-30/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "membrana amniótica",
+          "definition_es": "tejido natural que rodea al bebé durante el embarazo, con propiedades curativas",
+          "definition_en": "amniotic membrane - natural tissue surrounding baby during pregnancy with healing properties"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - process of new skin formation over a wound"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de que una herida sana",
+          "definition_en": "scar - mark left after a wound heals"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "vendaje que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - bandage placed on a wound for protection"
+        }
+      ],
+      "added_at": "2026-06-30T10:16:29.868292Z"
+    },
+    {
+      "id": "wound-research-20250630",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Mercado de productos biológicos para heridas alcanzará $6.24 mil millones para 2035",
+      "headline_en": "Wound Care Biologics Market to Reach $6.24 Billion by 2035",
+      "summary_es": "Un nuevo análisis de mercado predice un crecimiento significativo en la industria de productos biológicos para el cuidado de heridas. Se espera que el mercado alcance $6.24 mil millones en 2035.",
+      "body_es": "Un análisis reciente de SNS Insider proyecta un crecimiento importante en el mercado de productos biológicos para cuidado de heridas. Se estima que este mercado alcanzará $6.24 mil millones para 2035. Este crecimiento refleja la demanda creciente de tratamientos innovadores para heridas crónicas y complicadas. Los productos biológicos incluyen factores de crecimiento, células madre y matrices de andamios. Los hospitales y centros de cuidado están invirtiendo más en estas tecnologías avanzadas. La prevalencia de úlceras diabéticas y heridas de presión impulsa la demanda de mercado. Los profesionales de enfermería necesitan capacitación continua en estos productos nuevos. La investigación clínica continúa desarrollando opciones de tratamiento más efectivas. Los costos iniciales son altos, pero los resultados mejorados justifican la inversión. Este crecimiento de mercado indica un futuro prometedor para la medicina regenerativa.",
+      "body_en": "A recent analysis by SNS Insider projects significant growth in the wound care biologics market. This market is estimated to reach $6.24 billion by 2035. This growth reflects increasing demand for innovative treatments for chronic and complicated wounds. Biologic products include growth factors, stem cells, and scaffold matrices. Hospitals and care centers are investing more in these advanced technologies. The prevalence of diabetic ulcers and pressure wounds drives market demand. Nursing professionals require ongoing training in these new products. Clinical research continues to develop more effective treatment options. Initial costs are high, but improved results justify the investment. This market growth indicates a promising future for regenerative medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWoxMksySHpxSDJGcWViNzIyR3pTMnFyOElILUhVa3IycUVhQ2FMeHdzYm9BVGJIV1lRTFk5LXFQckJwTXpVcHFiVUExNmlNYzhqU09XRU9rdHFzdmRvWXJfampfODFTdjFoM3ItUWE0cjZTY2gzOVJ0SFh1UUducQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-06-30/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "biológicos",
+          "definition_es": "productos derivados de organismos vivos utilizados en tratamientos médicos",
+          "definition_en": "biologics - products derived from living organisms used in medical treatments"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "proteína que estimula el crecimiento y reparación de tejidos",
+          "definition_en": "growth factor - protein that stimulates tissue growth and repair"
+        },
+        {
+          "word": "células madre",
+          "definition_es": "células que pueden convertirse en diferentes tipos de células del cuerpo",
+          "definition_en": "stem cells - cells that can become different body cell types"
+        },
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta en la piel de pacientes con diabetes",
+          "definition_en": "diabetic ulcer - open wound on skin of diabetic patients"
+        }
+      ],
+      "added_at": "2026-06-30T10:16:29.868292Z"
+    },
     {
       "id": "chronic-wounds-20250629",
       "category": "Chronic Wounds",
@@ -28787,6 +28972,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-29T10:39:53.154089Z",
+  "last_updated": "2026-06-30T10:16:29.868292Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
