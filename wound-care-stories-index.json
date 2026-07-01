@@ -1,11 +1,196 @@
 {
-  "date": "2026-06-30",
-  "generated_at": "2026-06-30T10:16:29.868292Z",
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T10:24:53.978960Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 783,
+  "total_stories": 788,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250701",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "McLaren Greater Lansing Recibe Premio por Excelencia en Cuidado de Heridas",
+      "headline_en": "McLaren Greater Lansing Receives Award for Excellence in Wound Care",
+      "summary_es": "El centro de cuidado de heridas de McLaren Greater Lansing recibió el premio Center of Distinction Award 2025. Este reconocimiento nacional valida su excelencia en el tratamiento de heridas crónicas.",
+      "body_es": "McLaren Greater Lansing ha ganado el premio Center of Distinction Award para 2025. Este premio reconoce los centros de cuidado de heridas más avanzados en Estados Unidos. El equipo de McLaren trata heridas crónicas con métodos modernos. Utilizan apósitos especializados y evaluación continua. Los pacientes reciben tratamiento individual adaptado a sus necesidades. El equipo incluye enfermeras y médicos especializados. La curación de heridas es el objetivo principal. McLaren invierte en tecnología nueva para mejorar los resultados. El premio demuestra el compromiso con la excelencia médica. Los pacientes se benefician de este cuidado de alta calidad.",
+      "body_en": "McLaren Greater Lansing has won the Center of Distinction Award for 2025. This award recognizes the most advanced wound care centers in the United States. The McLaren team treats chronic wounds with modern methods. They use specialized dressings and continuous evaluation. Patients receive individual treatment adapted to their needs. The team includes specialized nurses and physicians. Wound healing is the main objective. McLaren invests in new technology to improve outcomes. The award demonstrates a commitment to medical excellence. Patients benefit from this high-quality care.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzRuVDh0WDh2RjMyclBvbER5MlduM3VwRkFBYTh1UG5YMWxuTWhIdHVuV1d1MFo2NE5HNURjazBFVXpFenYxM3Z0b0NxTFBIMlNibkVNMUNGSEF1eElId0E0eGcyU1BHWVFsamdmLTlJMFFLM1dlSnBEdVdrRFZhSk5PWGI0ZE1HOGdOQnNNa3lrSFJCUnpz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-01/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no sana rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material especial para cubrir heridas",
+          "definition_en": "dressing - special material to cover wounds"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen para valorar la herida",
+          "definition_en": "assessment - examination to evaluate the wound"
+        }
+      ],
+      "added_at": "2026-07-01T10:24:53.978960Z"
+    },
+    {
+      "id": "diabetic-foot-20250701",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Nuevo Programa Hospitalario Reduce Amputaciones en Pacientes Diabéticos de Riesgo",
+      "headline_en": "New Hospital Program Reduces Amputations in At-Risk Diabetic Patients",
+      "summary_es": "Un nuevo programa hospitalario ha logrado reducir las amputaciones a cero en pacientes diabéticos de alto riesgo. El programa combina evaluación preventiva y tratamiento temprano de úlceras diabéticas.",
+      "body_es": "Un hospital en Jefferson City ha desarrollado un programa innovador para prevenir amputaciones en pacientes diabéticos. El programa se enfoca en la detección temprana de úlceras en el pie diabético. Los pacientes reciben evaluaciones regulares de la piel y los tejidos. Se utilizan técnicas de desbridamiento para eliminar tejido necrótico. El equipo multidisciplinario incluye endocrinólogos, cirujanos vasculares y enfermeras especializadas. El tratamiento interviene antes de que la infección progrese. Los apósitos avanzados previenen la isquemia tisular. El programa ha logrado cero amputaciones en su población de pacientes. Esta estrategia preventiva mejora significativamente la calidad de vida. El éxito demuestra que la intervención temprana salva miembros y vidas.",
+      "body_en": "A hospital in Jefferson City has developed an innovative program to prevent amputations in diabetic patients. The program focuses on early detection of diabetic foot ulcers. Patients receive regular evaluations of skin and tissues. Debridement techniques are used to remove necrotic tissue. The multidisciplinary team includes endocrinologists, vascular surgeons, and specialized nurses. Treatment intervenes before infection progresses. Advanced dressings prevent tissue ischemia. The program has achieved zero amputations in its patient population. This preventive strategy significantly improves quality of life. The success demonstrates that early intervention saves limbs and lives.",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWhwd21HT0pmQlJJdGdFWXRhQ3R2OER6MHhRTW9wWGlVYUpuUzZvc00xZE9ocmNHMS1sUmZMQUhaRlJpS0pVeWhYM0UyU1BPa19aODg0MEpNNkZKNnZHWmxuNDNtWGlYZzl6ZFNCdWZBc0w0WjlyZTA5ZkdHR2JNbV9xYW1fUGdGMmltUFlqVkdDajNSeURleg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-01/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida en el pie del paciente con diabetes",
+          "definition_en": "diabetic ulcer - wound on diabetic patient's foot"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo en los tejidos",
+          "definition_en": "ischemia - lack of blood flow to tissues"
+        },
+        {
+          "word": "intervención temprana",
+          "definition_es": "tratamiento realizado al inicio de la enfermedad",
+          "definition_en": "early intervention - treatment performed at disease onset"
+        }
+      ],
+      "added_at": "2026-07-01T10:24:53.978960Z"
+    },
+    {
+      "id": "burn-care-20250701",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "rose",
+      "headline_es": "Dermis Artificial Combinada con Injerto de Piel Mejora Cicatrización en Quemaduras",
+      "headline_en": "Artificial Dermis Combined with Skin Graft Improves Healing in Burn Patients",
+      "summary_es": "Un nuevo tratamiento combina dermis artificial con injerto de piel de grosor parcial para mejorar la función articular y reducir cicatrices en pacientes con contracturas. Este método innovador mejora significativamente los resultados estéticos y funcionales.",
+      "body_es": "Investigadores han demostrado que la combinación de dermis artificial con injerto de piel de grosor parcial mejora la recuperación en pacientes quemados. Este tratamiento compuesto se utiliza especialmente en quemaduras articulares que causan contracturas. La dermis artificial proporciona una estructura para el crecimiento de nuevos tejidos. El injerto de piel de grosor parcial se aplica sobre la dermis artificial. Esta técnica reduce significativamente la formación de cicatrices hipertróficas. La función articular mejora durante la rehabilitación. Los pacientes experimentan mayor flexibilidad y movilidad. La epitelización ocurre más rápidamente con este método. Los resultados demuestran menor necesidad de cirugías reconstructivas posteriores. Este enfoque combinado representa un avance importante en el tratamiento de quemaduras complejas.",
+      "body_en": "Researchers have demonstrated that combining artificial dermis with partial-thickness skin graft improves recovery in burn patients. This composite treatment is especially used for joint burns that cause contractures. The artificial dermis provides structure for new tissue growth. The partial-thickness skin graft is applied over the artificial dermis. This technique significantly reduces hypertrophic scar formation. Joint function improves during rehabilitation. Patients experience greater flexibility and mobility. Epithelialization occurs more rapidly with this method. Results show reduced need for subsequent reconstructive surgeries. This combined approach represents an important advance in complex burn treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOenRWaThoQ003MG9nb2FDYkdzcnRYVXBHZWVDeGxkNUNYYXZOc2VMcHRoS3loQlJDX3JGZTZMUnFUYXNFVUZWOGhTeVZMdi1vRWVKRHV3MXlIMXBlSk11V3pLRFB0bEswTHJHMnJzaFB6ZVVzUDFnWGtMaHVjaDdpSFljLXFOYy1uUHpZcEZB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-01/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o químicos",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "piel trasplantada para cubrir una herida",
+          "definition_en": "skin graft - transplanted skin to cover a wound"
+        },
+        {
+          "word": "cicatriz hipertrófica",
+          "definition_es": "cicatriz gruesa y prominente",
+          "definition_en": "hypertrophic scar - thick and raised scar"
+        },
+        {
+          "word": "contractura",
+          "definition_es": "acortamiento de músculos que limita el movimiento",
+          "definition_en": "contracture - muscle shortening that limits movement"
+        }
+      ],
+      "added_at": "2026-07-01T10:24:53.978960Z"
+    },
+    {
+      "id": "surgical-wounds-20250701",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "purple",
+      "headline_es": "Estudio Internacional Identifica Factores de Riesgo de Mortalidad Postoperatoria",
+      "headline_en": "International Study Identifies Risk Factors for Postoperative Mortality",
+      "summary_es": "Una investigación internacional ha identificado los principales factores que aumentan el riesgo de mortalidad después de cirugía ortopédica. El estudio destaca la importancia de la vigilancia de heridas quirúrgicas.",
+      "body_es": "Un estudio internacional reciente ha analizado los factores de riesgo ocultos que aumentan la mortalidad después de cirugía ortopédica. Los investigadores evaluaron complicaciones de heridas quirúrgicas en miles de pacientes. La infección de incisiones quirúrgicas fue identificada como un factor crítico. El edema excesivo y la formación de hematomas también aumentan el riesgo. La mala oxigenación de los tejidos contribuye a resultados adversos. Los pacientes con comorbilidades tienen mayor susceptibilidad a complicaciones. La evaluación temprana de la cicatrización previene eventos graves. El equipo quirúrgico debe monitorizar signos de eritema o exudado purulento. Los cuidados postoperatorios de la herida son esenciales para la supervivencia. Este hallazgo enfatiza la necesidad de vigilancia intensiva en período postoperatorio.",
+      "body_en": "A recent international study analyzed hidden risk factors that increase mortality after orthopedic surgery. Researchers evaluated surgical wound complications in thousands of patients. Surgical site infection was identified as a critical factor. Excessive edema and hematoma formation also increase risk. Poor tissue oxygenation contributes to adverse outcomes. Patients with comorbidities have greater susceptibility to complications. Early assessment of wound healing prevents serious events. The surgical team must monitor for signs of erythema or purulent drainage. Postoperative wound care is essential for survival. This finding emphasizes the need for intensive monitoring in the postoperative period.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pbEZyeVlUVTFEdFloTVVSQ3Etc1dYQlJDM0JFU3Bpdmd2cVhzbEtHb19oVHpzeTVHUVpXLUs3a1J1ODRWbEtjUW02bS1sbkZJcjBYNHA4UEhISXNL?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-01/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión hecha durante una operación",
+          "definition_en": "surgical wound - incision made during surgery"
+        },
+        {
+          "word": "infección de sitio quirúrgico",
+          "definition_es": "complicación con bacterias en la herida",
+          "definition_en": "surgical site infection - bacterial complication at wound"
+        },
+        {
+          "word": "hematoma",
+          "definition_es": "acumulación de sangre en los tejidos",
+          "definition_en": "hematoma - accumulation of blood in tissues"
+        },
+        {
+          "word": "exudado purulento",
+          "definition_es": "líquido infectado que sale de la herida",
+          "definition_en": "purulent drainage - infected fluid from wound"
+        }
+      ],
+      "added_at": "2026-07-01T10:24:53.978960Z"
+    },
+    {
+      "id": "wound-research-20250701",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "indigo",
+      "headline_es": "Investigadores Desarrollan Matriz de Piel Inspirada en el Ajolote para Cicatrización sin Cicatrices",
+      "headline_en": "Researchers Develop Axolotl-Inspired Skin Matrix for Scarless Wound Healing",
+      "summary_es": "Un equipo de investigación ha creado una matriz de piel artificial basada en la capacidad de cicatrización del ajolote. Este avance promete heridas que cierren sin formar cicatrices visibles.",
+      "body_es": "Los investigadores han desarrollado una matriz de piel inspirada en la biología del ajolote, un animal conocido por su capacidad de cicatrización regenerativa. La matriz está diseñada para promover la epitelización sin causar formación de cicatrices hipertróficas. Los estudios preliminares demuestran que la estructura de la matriz facilita la migración de fibroblastos. Las células epiteliales proliferan de manera organizada sin crear tejido cicatricial denso. La matriz contiene componentes biocompatibles que imitan la dermis natural. Los investigadores probaron el material en modelos de heridas experimentales. Los resultados mostraron cicatrización más rápida y menos formación de escara. Este enfoque innovador podría revolucionar el tratamiento de quemaduras y úlceras. La investigación continúa para aplicaciones clínicas en pacientes humanos. El potencial terapéutico de esta técnica es promisorio para mejorar resultados estéticos.",
+      "body_en": "Researchers have developed a skin matrix inspired by the axolotl's regenerative healing ability. The matrix is designed to promote epithelialization without causing hypertrophic scar formation. Preliminary studies demonstrate that the matrix structure facilitates fibroblast migration. Epithelial cells proliferate in an organized manner without creating dense scar tissue. The matrix contains biocompatible components that mimic natural dermis. Researchers tested the material in experimental wound models. Results showed faster wound healing and less scar formation. This innovative approach could revolutionize burn and ulcer treatment. Research continues for clinical applications in human patients. The therapeutic potential of this technique is promising for improving aesthetic outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96aVBJV2pRT3A5TDNPWE1lTGIzNkRpNTRkb0EzQVYtNWlCaXB0dlpNTm9ad3BXNUlkLXM1UG9CWl9JU1oyNmxaTER0dU41dnFZQmpULUlhNU1EVk9hamxmMEpZZVpmLVRFNjdoMWVMOGZMR1VUZGRORnRn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-01/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "matriz de piel",
+          "definition_es": "estructura artificial que promueve cicatrización",
+          "definition_en": "skin matrix - artificial structure that promotes healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nuevas células de piel",
+          "definition_en": "epithelialization - formation of new skin cells"
+        },
+        {
+          "word": "fibroblastos",
+          "definition_es": "células que producen colágeno y forman tejido cicatricial",
+          "definition_en": "fibroblasts - cells that produce collagen and form scar tissue"
+        },
+        {
+          "word": "cicatrización regenerativa",
+          "definition_es": "proceso de curación sin formación de cicatrices",
+          "definition_en": "regenerative healing - healing process without scar formation"
+        }
+      ],
+      "added_at": "2026-07-01T10:24:53.978960Z"
+    },
     {
       "id": "chronic-wounds-20250630",
       "category": "Chronic Wounds",
@@ -28972,6 +29157,6 @@
       ]
     }
   ],
-  "last_updated": "2026-06-30T10:16:29.868292Z",
+  "last_updated": "2026-07-01T10:24:53.978960Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
