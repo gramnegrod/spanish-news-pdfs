@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-01",
+      "filename": "spanish_lesson_2026-07-01.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-01.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump amenaza con eliminar la ciudadanía por nacimiento después de perder en la Corte Suprema",
+          "headline_en": "Trump threatens to eliminate birthright citizenship after losing at the Supreme Court",
+          "body_es": "El presidente Donald Trump quiere eliminar la ciudadanía automática para los hijos de inmigrantes que nacen en los Estados Unidos. Esta práctica se llama 'ciudadanía por nacimiento'. Primero, Trump intentó cambiar esta regla con una orden ejecutiva. Sin embargo, la Corte Suprema de los Estados Unidos votó en contra de su plan. La Corte decidió que Trump no puede hacer este cambio solo. Después de perder en la Corte Suprema, Trump amenazó con usar el Congreso para abolir esta ley. La ciudadanía por nacimiento está protegida por la Decimocuarta Enmienda de la Constitución de los Estados Unidos. Esta enmienda existe desde el año 1868. Muchos expertos en leyes dicen que cambiar la Constitución es muy difícil. Se necesita la aprobación de dos tercios del Congreso y también de tres cuartos de los estados del país. Los grupos de defensa de los inmigrantes critican fuertemente los planes de Trump.",
+          "body_en": "President Donald Trump wants to eliminate automatic citizenship for children of immigrants born in the United States. This practice is called 'birthright citizenship.' First, Trump tried to change this rule with an executive order. However, the United States Supreme Court voted against his plan. The Court decided that Trump cannot make this change alone. After losing at the Supreme Court, Trump threatened to use Congress to abolish this law. Birthright citizenship is protected by the Fourteenth Amendment of the United States Constitution. This amendment has existed since 1868. Many legal experts say that changing the Constitution is very difficult. It requires approval from two-thirds of Congress and also three-quarters of the states. Immigrant advocacy groups strongly criticize Trump's plans.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Las bolsas de Estados Unidos tuvieron su mejor trimestre desde 2020 a pesar de la guerra con Irán",
+          "headline_en": "US stock markets had their best quarter since 2020 despite the war with Iran",
+          "body_es": "Los mercados financieros de Estados Unidos terminaron un trimestre muy bueno. El índice S&P 500 y el Nasdaq registraron sus mejores resultados desde el año 2020. Esto es una gran sorpresa porque hubo muchos problemas en el mundo durante estos meses. Por ejemplo, hubo un conflicto militar con Irán que preocupó a muchos inversores. Normalmente, las guerras y los conflictos hacen que los mercados bajen. Sin embargo, esta vez los mercados subieron de manera importante. Los analistas financieros dicen que los inversores mantuvieron la confianza en la economía americana. También ayudaron las noticias positivas sobre las empresas de tecnología. Muchas compañías grandes reportaron buenas ganancias este trimestre. Los precios de las acciones de empresas como Apple, Microsoft y Nvidia subieron bastante. Los expertos dicen que el futuro de los mercados depende de muchos factores, incluyendo las decisiones del banco central y la situación política internacional.",
+          "body_en": "US financial markets finished a very good quarter. The S&P 500 and Nasdaq indexes registered their best results since 2020. This is a big surprise because there were many problems in the world during these months. For example, there was a military conflict with Iran that worried many investors. Normally, wars and conflicts cause markets to fall. However, this time markets rose significantly. Financial analysts say that investors maintained confidence in the American economy. Positive news about technology companies also helped. Many large companies reported good earnings this quarter. Stock prices of companies like Apple, Microsoft, and Nvidia rose considerably. Experts say the future of markets depends on many factors, including central bank decisions and the international political situation.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Los modelos de inteligencia artificial de China se acercan al nivel de las empresas americanas líderes",
+          "headline_en": "China's artificial intelligence models close the gap with leading American companies",
+          "body_es": "Las empresas chinas de inteligencia artificial están mejorando muy rápido. Según un nuevo informe, los modelos de IA de China ahora son casi tan buenos como los de las empresas americanas Anthropic y OpenAI. Anthropic y OpenAI son dos de las compañías más importantes en el mundo de la inteligencia artificial. OpenAI es la empresa que creó ChatGPT, el asistente virtual muy famoso. Antes, las empresas americanas tenían una gran ventaja tecnológica sobre China. Pero ahora la brecha entre los dos países es mucho más pequeña. Los expertos dicen que las empresas chinas han invertido muchísimo dinero en investigación y desarrollo. También han contratado a muchos científicos e ingenieros muy talentosos. Este progreso preocupa a algunas personas en el gobierno de Estados Unidos. Ellos creen que la inteligencia artificial es muy importante para la seguridad nacional. La competencia tecnológica entre China y Estados Unidos continúa creciendo cada año.",
+          "body_en": "Chinese artificial intelligence companies are improving very quickly. According to a new report, China's AI models are now almost as good as those of American companies Anthropic and OpenAI. Anthropic and OpenAI are two of the most important companies in the world of artificial intelligence. OpenAI is the company that created ChatGPT, the very famous virtual assistant. Before, American companies had a large technological advantage over China. But now the gap between the two countries is much smaller. Experts say that Chinese companies have invested enormous amounts of money in research and development. They have also hired many talented scientists and engineers. This progress worries some people in the US government. They believe that artificial intelligence is very important for national security. The technological competition between China and the United States continues to grow every year.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "ciudadanía",
+          "syllables": "ciu-da-da-NÍ-a",
+          "pos": "sustantivo",
+          "context": "Trump quiere eliminar la ciudadanía automática para los hijos de inmigrantes.",
+          "definition_es": "El derecho legal de pertenecer a un país como ciudadano.",
+          "definition_en": "Citizenship – the legal right to belong to a country."
+        },
+        {
+          "word": "abolir",
+          "syllables": "a-bo-LIR",
+          "pos": "verbo",
+          "context": "El presidente amenazó con abolir el derecho de ciudadanía por nacimiento.",
+          "definition_es": "Eliminar o acabar completamente con una ley o costumbre.",
+          "definition_en": "To abolish – to completely eliminate a law or custom."
+        },
+        {
+          "word": "trimestre",
+          "syllables": "tri-MES-tre",
+          "pos": "sustantivo",
+          "context": "El S&P 500 tuvo su mejor trimestre desde el año 2020.",
+          "definition_es": "Un período de tres meses, una cuarta parte del año.",
+          "definition_en": "Quarter – a period of three months, one fourth of a year."
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "Los mercados financieros subieron mucho a pesar de los conflictos internacionales.",
+          "definition_es": "Un lugar o sistema donde se compran y venden productos o acciones.",
+          "definition_en": "Market – a place or system where goods or stocks are bought and sold."
+        },
+        {
+          "word": "brecha",
+          "syllables": "BRE-cha",
+          "pos": "sustantivo",
+          "context": "Los modelos chinos de IA están reduciendo la brecha con las empresas americanas.",
+          "definition_es": "Una diferencia o distancia entre dos cosas o grupos.",
+          "definition_en": "Gap – a difference or distance between two things or groups."
+        },
+        {
+          "word": "amenazar",
+          "syllables": "a-me-na-ZAR",
+          "pos": "verbo",
+          "context": "Trump amenazó con usar el Congreso para cambiar la ley de ciudadanía.",
+          "definition_es": "Decir que vas a hacer algo malo o dañino si no se cumple tu voluntad.",
+          "definition_en": "To threaten – to say you will do something harmful if your demands are not met."
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Los nuevos modelos de inteligencia artificial de China son muy avanzados.",
+          "definition_es": "Tecnología que permite a las computadoras pensar y aprender como los humanos.",
+          "definition_en": "Artificial intelligence – technology that allows computers to think and learn like humans."
+        },
+        {
+          "word": "a pesar de",
+          "syllables": "a pe-SAR de",
+          "pos": "locución preposicional",
+          "context": "Las bolsas subieron a pesar de la guerra entre Irán e Israel.",
+          "definition_es": "Expresión que indica que algo sucede aunque haya un obstáculo o problema.",
+          "definition_en": "Despite / in spite of – used to say something happens even though there is an obstacle."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'abolir'?",
+          "options": [
+            "A) Crear una nueva ley",
+            "B) Eliminar completamente una ley o costumbre",
+            "C) Votar en el Congreso",
+            "D) Cambiar el nombre de algo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'trimestre'?",
+          "options": [
+            "A) Un período de un mes",
+            "B) Un período de seis meses",
+            "C) Un período de tres meses",
+            "D) Un período de un año"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "En la frase 'los modelos chinos están reduciendo la brecha', ¿qué significa 'brecha'?",
+          "options": [
+            "A) La velocidad de una computadora",
+            "B) Una diferencia o distancia entre dos cosas",
+            "C) El precio de una acción",
+            "D) Un tipo de programa de computadora"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'amenazar'?",
+          "options": [
+            "A) Pedir ayuda a alguien",
+            "B) Celebrar una victoria",
+            "C) Decir que vas a hacer algo dañino si no se cumple tu voluntad",
+            "D) Firmar un acuerdo oficial"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿por qué Trump no pudo cambiar la ley de ciudadanía con su orden ejecutiva?",
+          "options": [
+            "A) Porque el Congreso votó en contra",
+            "B) Porque la Corte Suprema votó en contra de su plan",
+            "C) Porque los inmigrantes protestaron",
+            "D) Porque otros países se opusieron"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿desde qué año existe la Decimocuarta Enmienda que protege la ciudadanía por nacimiento?",
+          "options": [
+            "A) Desde 1776",
+            "B) Desde 1900",
+            "C) Desde 1868",
+            "D) Desde 1920"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de economía, ¿cuál fue la última vez que los mercados S&P 500 y Nasdaq tuvieron resultados tan buenos?",
+          "options": [
+            "A) En el año 2018",
+            "B) En el año 2015",
+            "C) En el año 2022",
+            "D) En el año 2020"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia de economía, ¿qué evento internacional preocupó a los inversores durante este trimestre?",
+          "options": [
+            "A) Una guerra con Rusia",
+            "B) Un conflicto militar con Irán",
+            "C) Una crisis económica en Europa",
+            "D) Un terremoto en Asia"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿qué producto famoso creó la empresa OpenAI?",
+          "options": [
+            "A) El iPhone",
+            "B) Windows",
+            "C) ChatGPT",
+            "D) Google Search"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿por qué el progreso de la IA china preocupa al gobierno de Estados Unidos?",
+          "options": [
+            "A) Porque los productos chinos son más baratos",
+            "B) Porque China tiene más usuarios de internet",
+            "C) Porque creen que la inteligencia artificial es importante para la seguridad nacional",
+            "D) Porque las empresas americanas están perdiendo dinero"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-01T10:19:50.548630"
+    },
+    {
       "date": "2026-06-30",
       "filename": "spanish_lesson_2026-06-30.pdf",
       "path": "pdfs/spanish_lesson_2026-06-30.pdf",
@@ -43316,7 +43538,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-06-30T10:12:03.138473",
+  "last_updated": "2026-07-01T10:19:50.548658",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
