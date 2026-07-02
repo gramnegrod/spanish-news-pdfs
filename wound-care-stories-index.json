@@ -1,11 +1,196 @@
 {
-  "date": "2026-07-01",
-  "generated_at": "2026-07-01T10:24:53.978960Z",
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:05:17.734572Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 788,
+  "total_stories": 793,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20260702",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Dos tratamientos nuevos para úlceras del pie diabético",
+      "headline_en": "Two New Treatments for Diabetic Foot Ulcers",
+      "summary_es": "Un estudio compara dos métodos para tratar úlceras en pies de pacientes diabéticos. Los investigadores evalúan la terapia de presión negativa y los vendajes con solución salina.",
+      "body_es": "Los investigadores estudian dos tratamientos para úlceras del pie diabético. El primer tratamiento es la terapia de presión negativa. Este método usa una máquina especial. La máquina extrae fluido de la herida. El segundo tratamiento usa vendajes con solución salina al tres por ciento. Los vendajes se cambian regularmente. Ambos tratamientos ayudan a cicatrizar la herida. Los médicos miden el progreso de cada paciente. Este estudio es importante para los enfermeros. Ayuda a elegir el mejor tratamiento para cada paciente diabético.",
+      "body_en": "Researchers study two treatments for diabetic foot ulcers. The first treatment is negative pressure wound therapy. This method uses a special machine. The machine removes fluid from the wound. The second treatment uses dressings with three percent saline solution. The dressings are changed regularly. Both treatments help the wound heal. Doctors measure each patient's progress. This study is important for nurses. It helps choose the best treatment for each diabetic patient.",
+      "source_url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQVE9FRjFCMlZvbTl6LS1wQUZ1Ql94SnI2dzhLMmV6a1ZjcmpmZ1ZRMGVkMWVoR3JVRVVSekVrTUdpUC1IdTVEYUFadlV2OFM5UXB6WERpa3l0S05JTXI5Q2VRMDJ5WDlIOE1YZlVqbWNEdmQ1UDlqZE1hZ3lTbnhDR0NVUm1zRXhqbDFFRmtPb2EzVXJzb2JCVkZBbFRBcmhMdEs3VUZGcGZ6SnJaaGx4LVYyaXpYWTBwaWFGMFFSZ1ZrYlVZQUpCWDVDdHpST3EtOXgwZ3ZxVHFXbTQ3bXdGMUJha180WTBCZF9EOVA5Q2JabGhRZUtEUjdiRHhWTjBSOEt3ZjBqNG5oaHhBdk5QSzdNV2E1b3NvdUVnTE04ektrOHdsMVp4VkNmXzVvSXltWDFyNE13?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-02/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "presión negativa",
+          "definition_es": "técnica que extrae fluido de la herida con una máquina",
+          "definition_en": "negative pressure - technique that removes fluid from wound with a machine"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material que cubre y protege la herida",
+          "definition_en": "dressing - material that covers and protects the wound"
+        },
+        {
+          "word": "cicatrizar",
+          "definition_es": "proceso de curación de una herida",
+          "definition_en": "heal - process of wound recovery"
+        }
+      ],
+      "added_at": "2026-07-02T10:05:17.734572Z"
+    },
+    {
+      "id": "diabetic-foot-20260702",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Estudio comparativo: Terapia de presión negativa versus vendajes salinos en úlceras diabéticas",
+      "headline_en": "Comparative Study: Negative Pressure Therapy vs. Saline Dressings in Diabetic Ulcers",
+      "summary_es": "Un nuevo estudio de Cureus compara la efectividad de la terapia de presión negativa con vendajes de solución salina al 3% para el tratamiento de úlceras del pie diabético. Los resultados sugieren diferentes ventajas para cada método.",
+      "body_es": "Una investigación publicada en Cureus evaluó dos enfoques terapéuticos para las úlceras del pie diabético, una complicación grave que afecta a millones de pacientes. La terapia de presión negativa utiliza dispositivos especializados que generan presión subatmosférica para promover la granulación tisular y reducir el exudado. Los vendajes con solución salina hipertónica al 3% actúan mediante ósmosis, extrayendo líquido del tejido edematoso. El estudio midió variables como la velocidad de epitelización, la formación de tejido de granulación y el tiempo total de curación. Los investigadores observaron que ambas modalidades presentaban beneficios específicos según las características de la úlcera. Este hallazgo es relevante para los especialistas en cuidado de heridas, ya que permite seleccionar el tratamiento más efectivo según la presentación clínica individual del paciente diabético.",
+      "body_en": "Research published in Cureus evaluated two therapeutic approaches for diabetic foot ulcers, a serious complication affecting millions of patients. Negative pressure therapy uses specialized devices that generate subatmospheric pressure to promote tissue granulation and reduce exudate. Hypertonic saline dressings at 3% work through osmosis, extracting fluid from edematous tissue. The study measured variables such as epithelialization rate, granulation tissue formation, and total healing time. Researchers observed that both modalities presented specific benefits depending on ulcer characteristics. This finding is relevant for wound care specialists, as it allows selection of the most effective treatment based on each diabetic patient's individual clinical presentation.",
+      "source_url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQVE9FRjFCMlZvbTl6LS1wQUZ1Ql94SnI2dzhLMmV6a1ZjcmpmZ1ZRMGVkMWVoR3JVRVVSekVrTUdpUC1IdTVEYUFadlV2OFM5UXB6WERpa3l0S05JTXI5Q2VRMDJ5WDlIOE1YZlVqbWNEdmQ1UDlqZE1hZ3lTbnhDR0NVUm1zRXhqbDFFRmtPb2EzVXJzb2JCVkZBbFRBcmhMdEs3VUZGcGZ6SnJaaGx4LVYyaXpYWTBwaWFGMFFSZ1ZrYlVZQUpCWDVDdHpST3EtOXgwZ3ZxVHFXbTQ3bXdGMUJha180YTBCZF9EOVA5Q2JabGhRZUtEUjdiRHhWTjBSOEt3ZjBqNG5oaHhBdk5QSzdNV2E1b3NvdUVnTE04ektrOHdsMVp4VkNmXzVvSXltWDFyNE13?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-02/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "granulación",
+          "definition_es": "formación de nuevo tejido en la herida durante la curación",
+          "definition_en": "granulation - formation of new tissue in wound during healing"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que se filtra desde los vasos sanguíneos a la herida",
+          "definition_en": "exudate - fluid that filters from blood vessels into the wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de regeneración de la capa superior de la piel",
+          "definition_en": "epithelialization - process of regenerating the top layer of skin"
+        },
+        {
+          "word": "edematoso",
+          "definition_es": "tejido inflamado que contiene acumulación de líquido",
+          "definition_en": "edematous - inflamed tissue with accumulated fluid"
+        }
+      ],
+      "added_at": "2026-07-02T10:05:17.734572Z"
+    },
+    {
+      "id": "burn-care-20260702",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Tratamiento revolucionario de quemaduras muestra resultados extraordinarios",
+      "headline_en": "Revolutionary Burn Treatment Shows Remarkable Results",
+      "summary_es": "Un nuevo tratamiento para quemaduras desarrollado recientemente ha demostrado resultados excepcionales en ensayos clínicos. Este avance podría transformar el cuidado de pacientes quemados en el futuro.",
+      "body_es": "Un novedoso tratamiento para quemaduras ha sido presentado como un avance significativo en la medicina de emergencia y cuidado de heridas. Los investigadores reportan que este nuevo protocolo terapéutico ha generado resultados descritos como \"absolutamente notables\" en los primeros ensayos clínicos. El tratamiento utiliza una combinación de técnicas innovadoras que mejoran la cicatrización y reducen las complicaciones infecciosas comunes en pacientes quemados. Los especialistas observaron una aceleración en la epitelización del tejido dañado y una disminución significativa en la formación de cicatrices hipertróficas. Adicionalmente, se registró una reducción en el tiempo de hospitalización y en los procedimientos quirúrgicos necesarios. Este hallazgo es particularmente importante para unidades de cuidados intensivos y departamentos de emergencia. El nuevo enfoque podría mejorar la calidad de vida de los sobrevivientes de quemaduras al minimizar las secuelas estéticas y funcionales.",
+      "body_en": "A novel burn treatment has been presented as a significant breakthrough in emergency medicine and wound care. Researchers report that this new therapeutic protocol has generated results described as \"absolutely remarkable\" in initial clinical trials. The treatment uses a combination of innovative techniques that improve healing and reduce common infectious complications in burn patients. Specialists observed acceleration in epithelialization of damaged tissue and significant reduction in hypertrophic scar formation. Additionally, reduced hospitalization time and fewer necessary surgical procedures were recorded. This finding is particularly important for intensive care units and emergency departments. The new approach could improve the quality of life for burn survivors by minimizing aesthetic and functional sequelae.",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlBTdEhzclJaSnN1MEc4aEMyT2puRFY0WHlHSm1OdG95a2lRVkUwNlBwNThSOVo2ejF4QTJkSTczWmZxUVQxLS0yb2NudE1QSldPODUtMWhod0U4VDJ2Qk8xbUtOdWQxdmZzQzg5MnY5TTRVNDNkSXlLcnFacVVnWjdQQ3VHbFB5WEZjdGxwaEEzZXdrMGc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-02/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, radiación o químicos",
+          "definition_en": "burn - injury to skin caused by heat, radiation, or chemicals"
+        },
+        {
+          "word": "cicatriz hipertrófica",
+          "definition_es": "cicatriz gruesa y elevada que se forma después de una quemadura grave",
+          "definition_en": "hypertrophic scar - thick, raised scar that forms after severe burn"
+        },
+        {
+          "word": "secuela",
+          "definition_es": "consecuencia o efecto prolongado de una enfermedad o lesión",
+          "definition_en": "sequela - consequence or prolonged effect of illness or injury"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión y multiplicación de microorganismos patógenos en los tejidos",
+          "definition_en": "infection - invasion and multiplication of pathogenic microorganisms in tissues"
+        }
+      ],
+      "added_at": "2026-07-02T10:05:17.734572Z"
+    },
+    {
+      "id": "surgical-wounds-20260702",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Pioderma gangrenoso post-quirúrgico: Lecciones de manejo clínico",
+      "headline_en": "Post-Surgical Pyoderma Gangrenosum: Clinical Management Lessons",
+      "summary_es": "Un caso clínico de pioderma gangrenoso simulando complicaciones post-mastectomía revela importantes lecciones para el diagnóstico y manejo de complicaciones de heridas quirúrgicas atípicas.",
+      "body_es": "Un reporte de caso en CancerNetwork documenta el diagnóstico y manejo de pioderma gangrenoso presentándose como aparente fallo de colgajo post-mastectomía. El pioderma gangrenoso es una afección dermatológica rara que produce úlceras necróticas destructivas y puede complicar el seguimiento post-operatorio en pacientes oncológicos. En este caso, la lesión inicial fue interpretada como complicación vascular del colgajo quirúrgico, retrasando el diagnóstico correcto. Los investigadores utilizaron criterios clínicos, histopatológicos y de exclusión para confirmar el diagnóstico. El manejo incluyó desbridamiento selectivo, cultivos microbiológicos, e inmunodepresión controlada mediante corticosteroides sistémicos. Este caso ilustra la importancia de mantener un diagnóstico diferencial amplio en complicaciones de heridas quirúrgicas. Los especialistas en cuidado de heridas quirúrgicas deben reconocer que úlceras atípicamente agresivas pueden corresponder a procesos inflamatorios sistémicos. El reconocimiento temprano permite implementar terapias específicas y evitar intervenciones quirúrgicas innecesarias.",
+      "body_en": "A case report in CancerNetwork documents diagnosis and management of pyoderma gangrenosum presenting as apparent surgical flap failure post-mastectomy. Pyoderma gangrenosum is a rare dermatological condition producing destructive necrotic ulcers and can complicate post-operative follow-up in cancer patients. In this case, the initial lesion was interpreted as vascular complication of the surgical flap, delaying correct diagnosis. Researchers used clinical, histopathological, and exclusion criteria to confirm diagnosis. Management included selective debridement, microbiological cultures, and controlled immunosuppression with systemic corticosteroids. This case illustrates the importance of maintaining broad differential diagnosis in surgical wound complications. Specialists in surgical wound care must recognize that atypically aggressive ulcers may correspond to systemic inflammatory processes. Early recognition allows implementation of specific therapies and avoidance of unnecessary surgical interventions.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMkFlYkQ5TFRaSjlHNXQ1amVHdUlZSDM0bEwxMW5yN2RiT1NNM1cwUjk3VUhGb3FKX3JfbkpfZDBvcEtlNkh5RGZwZVZSSHRubTdTWHFYREZ4M1RnaDZJWWVINml3a3VFbGw4UDE0eE56NHQ1RHRlam5MXzlNeHVuMU9TTWFUeUozenRqOWR4LXBzWHU0WXowOW5wNHlmZmNQS3lLeG9lNTh1ZnJ0RjJ6WVZuSVUyYUVFWmlQblhOX2dWVDIzSVZZNk1pZ3QwMzNpNnpnMldZYXVobHVIY1EweURBdkF0ZDQ0SEJfWWF6WG5NVlpIRVE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-02/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "pioderma gangrenoso",
+          "definition_es": "enfermedad inflamatoria rara que causa úlceras necróticas progresivas",
+          "definition_en": "pyoderma gangrenosum - rare inflammatory disease causing progressive necrotic ulcers"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción quirúrgica de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue from wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido vivo debido a inflamación o falta de circulación",
+          "definition_en": "necrosis - death of living tissue due to inflammation or poor circulation"
+        },
+        {
+          "word": "colgajo",
+          "definition_es": "sección de tejido transferida quirúrgicamente manteniendo su suministro de sangre",
+          "definition_en": "flap - section of tissue surgically transferred while maintaining blood supply"
+        }
+      ],
+      "added_at": "2026-07-02T10:05:17.734572Z"
+    },
+    {
+      "id": "wound-research-20260702",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Avances en investigación y ciencia translacional en salud de heridas",
+      "headline_en": "Advances in Wound Health Research and Translational Science",
+      "summary_es": "Investigadores destacados en medicina translacional están liderando nuevas iniciativas para transformar los descubrimientos de laboratorio en tratamientos clínicos efectivos para el cuidado de heridas.",
+      "body_es": "La Universidad de South Florida anuncia nuevas iniciativas de investigación en salud, bajo el liderazgo de científicos con trayectoria destacada en descubrimiento médico y ciencia translacional. Estos programas de investigación se enfocan en convertir hallazgos de laboratorio en aplicaciones clínicas prácticas para mejorar el cuidado de pacientes con heridas crónicas. La ciencia translacional representa el puente entre la investigación básica y la práctica clínica, acelerando el desarrollo de nuevas terapias. Los investigadores utilizan metodologías innovadoras para estudiar mecanismos de cicatrización, inflamación, y regeneración tisular. Estos estudios incluyen análisis de factores de crecimiento, matriz extracelular, y respuestas inmunológicas en diferentes tipos de heridas. Los hallazgos generados por estos programas tienen potencial para revolucionar los protocolos de tratamiento en unidades de cuidado de heridas. La colaboración entre especialistas en biología molecular, cirugía y enfermería es esencial para traducir estos descubrimientos en beneficios tangibles para los pacientes afectados por úlceras crónicas y complicadas.",
+      "body_en": "University of South Florida announces new health research initiatives under the leadership of scientists with distinguished track records in medical discovery and translational science. These research programs focus on converting laboratory findings into practical clinical applications to improve patient care for chronic wound management. Translational science represents the bridge between basic research and clinical practice, accelerating development of new therapies. Researchers use innovative methodologies to study healing mechanisms, inflammation, and tissue regeneration across different wound types. These studies include analysis of growth factors, extracellular matrix, and immune responses in various wound categories. Findings generated by these programs have potential to revolutionize treatment protocols in wound care units. Collaboration among specialists in molecular biology, surgery, and nursing is essential to translate these discoveries into tangible benefits for patients affected by chronic and complicated ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFBVV95cUxMFBwRE8zeS0wYTliNWFfSnJCdDdKeU1qLW15dTc3M3ZxRFZMX3h6ZXpjZ2V0OFpVZi1lRHk5VTZXaExSUUE5NzFMa1BGandldjJIMy1QWVJsaEtzRVM5UUxlNWd0ZTFvcnltU3VkMGdfRm9oQXFQOEcyYTBZcUE5QQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-02/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "ciencia translacional",
+          "definition_es": "proceso de convertir descubrimientos de laboratorio en tratamientos clínicos",
+          "definition_en": "translational science - process of converting laboratory discoveries into clinical treatments"
+        },
+        {
+          "word": "factor de crecimiento",
+          "definition_es": "proteína que estimula la proliferación celular y regeneración tisular",
+          "definition_en": "growth factor - protein that stimulates cell proliferation and tissue regeneration"
+        },
+        {
+          "word": "matriz extracelular",
+          "definition_es": "estructura de proteínas y moléculas que rodea y soporta las células",
+          "definition_en": "extracellular matrix - structure of proteins and molecules surrounding and supporting cells"
+        },
+        {
+          "word": "regeneración tisular",
+          "definition_es": "proceso biológico de formación de nuevo tejido después de daño",
+          "definition_en": "tissue regeneration - biological process of new tissue formation after injury"
+        }
+      ],
+      "added_at": "2026-07-02T10:05:17.734572Z"
+    },
     {
       "id": "chronic-wounds-20250701",
       "category": "Chronic Wounds",
@@ -29157,6 +29342,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-01T10:24:53.978960Z",
+  "last_updated": "2026-07-02T10:05:17.734572Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
