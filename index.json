@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-05",
+      "filename": "spanish_lesson_2026-07-05.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-05.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Estados Unidos celebra 250 años de independencia con fuegos artificiales y debate político",
+          "headline_en": "United States celebrates 250 years of independence with fireworks and political debate",
+          "body_es": "El 4 de julio es una fecha muy especial para los estadounidenses. Este año, la celebración fue más grande que nunca porque Estados Unidos cumplió 250 años de independencia. En todo el país, las personas salieron a ver fuegos artificiales y a comer hot dogs. Las familias se reunieron en parques y plazas para celebrar juntas. Sin embargo, la política también estuvo presente en las festividades. Algunos eventos tuvieron discursos de políticos importantes. El calor fue un problema en muchas ciudades. Las temperaturas estuvieron muy altas durante el fin de semana. A pesar del calor, millones de personas salieron a celebrar. El 4 de julio recuerda el día de 1776 cuando Estados Unidos declaró su independencia del Reino Unido. Es uno de los días festivos más importantes del año para los americanos. La celebración de los 250 años fue un momento histórico para todo el país.",
+          "body_en": "July 4th is a very special date for Americans. This year, the celebration was bigger than ever because the United States turned 250 years old. Across the country, people went out to watch fireworks and eat hot dogs. Families gathered in parks and plazas to celebrate together. However, politics was also present at the festivities. Some events featured speeches by important politicians. The heat was a problem in many cities. Temperatures were very high during the weekend. Despite the heat, millions of people went out to celebrate. July 4th commemorates the day in 1776 when the United States declared independence from the United Kingdom. It is one of the most important holidays of the year for Americans. The 250th anniversary celebration was a historic moment for the entire country.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La bolsa de valores sube a un nivel récord y expertos dicen que la economía está muy fuerte",
+          "headline_en": "Stock market rises to a record level and experts say the economy is very strong",
+          "body_es": "Esta semana fue una muy buena semana para la economía de Estados Unidos. La bolsa de valores subió más de 400 puntos en un solo día. Esto es un récord histórico, el número más alto que ha llegado la bolsa. ¿Por qué subió tanto? Los expertos dicen que un informe sobre el empleo mostró resultados débiles. Cuando hay menos empleos, los bancos normalmente no suben las tasas de interés. Tasas de interés más bajas son buenas para la bolsa. Kevin Hassett, un importante asesor económico del gobierno, dijo que la economía de Estados Unidos está muy fuerte. Muchos inversores están contentos con estas noticias. Sin embargo, algunos economistas tienen preocupaciones. Un informe de empleo débil también puede significar que hay problemas en el mercado laboral. En general, las noticias económicas de esta semana fueron positivas para los mercados financieros de Estados Unidos.",
+          "body_en": "This week was a very good week for the United States economy. The stock market rose more than 400 points in a single day. This is an all-time record, the highest level the market has ever reached. Why did it rise so much? Experts say that a jobs report showed weak results. When there are fewer jobs, banks normally do not raise interest rates. Lower interest rates are good for the stock market. Kevin Hassett, an important economic advisor to the government, said that the US economy is very strong. Many investors are happy with this news. However, some economists have concerns. A weak jobs report can also mean there are problems in the labor market. Overall, the economic news this week was positive for US financial markets.",
+          "source": "Stocktwits"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "¿Tu trabajo está seguro con la IA? Un estudio dice que las empresas que usan esta tecnología pueden proteger más empleos",
+          "headline_en": "Is your job safe with AI? A study says companies that use this technology may protect more jobs",
+          "body_es": "Muchas personas tienen miedo de perder su trabajo por la inteligencia artificial. Pero una nueva investigación tiene buenas noticias. El estudio dice que los trabajadores pueden estar más seguros en empresas que usan la inteligencia artificial. ¿Por qué? Porque las empresas que adoptan la IA normalmente crecen más rápido. Cuando una empresa crece, necesita más empleados. La inteligencia artificial puede hacer algunas tareas difíciles más rápido que los humanos. Pero los humanos todavía son necesarios para muchas otras tareas importantes. Las empresas que no usan la IA pueden tener más problemas en el futuro. Pueden perder competitividad en el mercado. El estudio fue publicado en el periódico Los Angeles Times. Los investigadores analizaron muchas empresas diferentes en Estados Unidos. Sus resultados son importantes para los trabajadores y para los jefes de empresas. La tecnología está cambiando el mundo del trabajo, pero no siempre de manera negativa.",
+          "body_en": "Many people are afraid of losing their jobs because of artificial intelligence. But new research has good news. The study says workers may be safer at companies that use artificial intelligence. Why? Because companies that adopt AI normally grow faster. When a company grows, it needs more employees. Artificial intelligence can perform some difficult tasks faster than humans. But humans are still needed for many other important tasks. Companies that do not use AI may have more problems in the future. They could lose competitiveness in the market. The study was published in the Los Angeles Times. Researchers analyzed many different companies in the United States. Their results are important for workers and company managers. Technology is changing the world of work, but not always in a negative way.",
+          "source": "Los Angeles Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "celebrar",
+          "syllables": "ce-le-BRAR",
+          "pos": "verbo",
+          "context": "Estados Unidos va a celebrar su 250 aniversario con fuegos artificiales.",
+          "definition_es": "Hacer una fiesta o un evento especial para recordar algo importante.",
+          "definition_en": "To celebrate"
+        },
+        {
+          "word": "aniversario",
+          "syllables": "a-ni-ver-SA-rio",
+          "pos": "sustantivo",
+          "context": "Este año es el 250 aniversario de la independencia de Estados Unidos.",
+          "definition_es": "El día en que recordamos algo importante que pasó en el pasado.",
+          "definition_en": "Anniversary"
+        },
+        {
+          "word": "récord",
+          "syllables": "RÉ-cord",
+          "pos": "sustantivo",
+          "context": "La bolsa de valores alcanzó un récord histórico esta semana.",
+          "definition_es": "El número o nivel más alto que se ha llegado hasta ahora.",
+          "definition_en": "Record (all-time high)"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "Un experto dijo que la economía de Estados Unidos está muy fuerte.",
+          "definition_es": "El sistema de dinero, trabajo y negocios de un país.",
+          "definition_en": "Economy"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Muchos trabajadores tienen miedo de perder su trabajo por la inteligencia artificial.",
+          "definition_es": "Tecnología que permite a las computadoras hacer tareas que normalmente hacen los humanos.",
+          "definition_en": "Artificial intelligence (AI)"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Un nuevo estudio dice que el empleo puede estar más seguro en empresas que usan IA.",
+          "definition_es": "El trabajo que una persona hace para ganar dinero.",
+          "definition_en": "Job / Employment"
+        },
+        {
+          "word": "bolsa de valores",
+          "syllables": "BOL-sa de va-LO-res",
+          "pos": "sustantivo",
+          "context": "La bolsa de valores subió más de 400 puntos en un solo día.",
+          "definition_es": "El mercado donde se compran y venden acciones de empresas.",
+          "definition_en": "Stock market"
+        },
+        {
+          "word": "independencia",
+          "syllables": "in-de-pen-DEN-cia",
+          "pos": "sustantivo",
+          "context": "Estados Unidos celebra su independencia el 4 de julio.",
+          "definition_es": "La libertad de un país para gobernarse a sí mismo.",
+          "definition_en": "Independence"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'celebrar'?",
+          "options": [
+            "Trabajar mucho",
+            "Hacer una fiesta para recordar algo importante",
+            "Comprar cosas en una tienda",
+            "Leer un libro"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'bolsa de valores'?",
+          "options": [
+            "Una tienda donde se venden bolsas",
+            "El banco central de un país",
+            "El mercado donde se compran y venden acciones de empresas",
+            "Un tipo de moneda extranjera"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'empleo'?",
+          "options": [
+            "Una celebración especial",
+            "El trabajo que una persona hace para ganar dinero",
+            "Un tipo de tecnología nueva",
+            "Una fecha histórica importante"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La palabra 'récord' en el contexto de la bolsa de valores significa:",
+          "options": [
+            "Una canción musical famosa",
+            "Un documento legal importante",
+            "El número o nivel más bajo registrado",
+            "El número o nivel más alto que se ha alcanzado"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿cuántos años cumplió Estados Unidos este 4 de julio?",
+          "options": [
+            "200 años",
+            "225 años",
+            "250 años",
+            "275 años"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de Política, ¿cuál fue un problema durante las celebraciones del 4 de julio?",
+          "options": [
+            "La lluvia fuerte",
+            "El calor muy alto",
+            "La falta de fuegos artificiales",
+            "Los problemas de tráfico"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿cuántos puntos subió la bolsa de valores?",
+          "options": [
+            "Más de 200 puntos",
+            "Más de 300 puntos",
+            "Más de 400 puntos",
+            "Más de 500 puntos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿por qué subió la bolsa de valores?",
+          "options": [
+            "Porque el gobierno bajó los impuestos",
+            "Porque un informe de empleo débil redujo las probabilidades de subir las tasas de interés",
+            "Porque muchas empresas nuevas abrieron",
+            "Porque Estados Unidos firmó acuerdos comerciales nuevos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿dónde pueden estar más seguros los trabajadores según el nuevo estudio?",
+          "options": [
+            "En empresas pequeñas sin tecnología",
+            "En empresas del gobierno",
+            "En empresas que usan la inteligencia artificial",
+            "En empresas que no usan computadoras"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "En la historia de Tecnología, ¿qué puede pasar con las empresas que NO usan la inteligencia artificial?",
+          "options": [
+            "Pueden ganar más dinero",
+            "Pueden perder competitividad en el mercado",
+            "Pueden contratar más empleados fácilmente",
+            "Pueden recibir ayuda del gobierno"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-05T09:49:50.271901"
+    },
+    {
       "date": "2026-07-04",
       "filename": "spanish_lesson_2026-07-04.pdf",
       "path": "pdfs/spanish_lesson_2026-07-04.pdf",
@@ -44196,7 +44418,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-04T09:41:52.152321",
+  "last_updated": "2026-07-05T09:49:50.271933",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
