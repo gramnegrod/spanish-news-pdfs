@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-06",
+      "filename": "spanish_lesson_2026-07-06.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-06.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso quiere limitar la ciudadanía automática por nacimiento",
+          "headline_en": "Congress wants to limit automatic birthright citizenship",
+          "body_es": "En Estados Unidos, cualquier persona que nace en el país recibe la ciudadanía automáticamente. Esta regla existe desde hace muchos años y está en la Constitución. Ahora, el presidente de la Cámara de Representantes quiere cambiar esta ley. Él dice que el Congreso debe restringir la ciudadanía por nacimiento. Según él, no todas las personas que nacen en Estados Unidos deben recibir la ciudadanía automática. Por ejemplo, los hijos de personas que están en el país sin documentos legales. Este tema es muy polémico y divide a muchos estadounidenses. Algunas personas creen que la ciudadanía por nacimiento es un derecho fundamental. Otras personas piensan que es necesario hacer cambios. Esta propuesta necesita el apoyo del Congreso para convertirse en ley. El debate sobre la inmigración y la ciudadanía continúa siendo muy importante en la política americana.",
+          "body_en": "In the United States, anyone born in the country automatically receives citizenship. This rule has existed for many years and is in the Constitution. Now, the Speaker of the House of Representatives wants to change this law. He says Congress should restrict birthright citizenship. According to him, not everyone born in the United States should automatically receive citizenship. For example, the children of people who are in the country without legal documents. This topic is very controversial and divides many Americans. Some people believe birthright citizenship is a fundamental right. Others think changes are necessary. This proposal needs Congress's support to become law. The debate over immigration and citizenship remains very important in American politics.",
+          "source": "USA Today"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos sigue creando empleos, pero el crecimiento es más lento",
+          "headline_en": "The United States continues creating jobs, but growth is slower",
+          "body_es": "El mercado laboral de Estados Unidos sigue siendo fuerte, pero hay cambios importantes. Las empresas continúan contratando nuevos trabajadores cada mes. Sin embargo, el ritmo de contratación es más lento que antes. Esto significa que se están creando menos empleos nuevos comparado con meses anteriores. Los economistas observan esta situación con atención. Un crecimiento más lento no es necesariamente malo. Puede significar que la economía está encontrando un equilibrio. La tasa de desempleo se mantiene en un nivel relativamente bajo. Muchas industrias todavía necesitan trabajadores. Los sectores de salud, construcción y servicios siguen contratando personas. Los expertos dicen que la economía americana es resistente. También dicen que es importante monitorear estos datos cada mes. Los ciudadanos y los políticos están atentos a estas noticias económicas porque afectan la vida diaria de millones de familias americanas.",
+          "body_en": "The United States labor market remains strong, but there are important changes. Companies continue hiring new workers every month. However, the pace of hiring is slower than before. This means fewer new jobs are being created compared to previous months. Economists are watching this situation closely. Slower growth is not necessarily bad. It can mean the economy is finding a balance. The unemployment rate remains at a relatively low level. Many industries still need workers. The health, construction, and services sectors continue hiring people. Experts say the American economy is resilient. They also say it is important to monitor this data every month. Citizens and politicians are paying attention to this economic news because it affects the daily lives of millions of American families.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La inteligencia artificial elimina 28,000 empleos por mes en tecnología y finanzas",
+          "headline_en": "Artificial intelligence eliminates 28,000 jobs per month in technology and finance",
+          "body_es": "La inteligencia artificial, o IA, está cambiando el mundo del trabajo muy rápidamente. Un nuevo informe dice que los sectores de tecnología y finanzas están perdiendo 28,000 empleos cada mes. La razón principal es el uso de herramientas de inteligencia artificial. Estas herramientas pueden hacer muchas tareas que antes hacían los humanos. Por ejemplo, analizar datos, escribir reportes y atender clientes. Las empresas usan la IA porque es más rápida y más barata. Pero esto significa que muchos trabajadores están perdiendo sus empleos. Este fenómeno preocupa a muchos expertos y trabajadores. Algunas personas creen que la IA también creará nuevos tipos de empleos en el futuro. Otros piensan que los cambios son demasiado rápidos. Los gobiernos y las empresas necesitan encontrar soluciones. Es importante preparar a los trabajadores para esta nueva realidad tecnológica.",
+          "body_en": "Artificial intelligence, or AI, is changing the world of work very quickly. A new report says the technology and finance sectors are losing 28,000 jobs every month. The main reason is the use of artificial intelligence tools. These tools can perform many tasks that humans used to do. For example, analyzing data, writing reports, and serving customers. Companies use AI because it is faster and cheaper. But this means many workers are losing their jobs. This phenomenon worries many experts and workers. Some people believe AI will also create new types of jobs in the future. Others think the changes are too fast. Governments and companies need to find solutions. It is important to prepare workers for this new technological reality.",
+          "source": "Claims Journal"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "ciudadanía",
+          "syllables": "ciu-da-da-NÍ-a",
+          "pos": "sustantivo",
+          "context": "El presidente del Congreso quiere limitar la ciudadanía por nacimiento.",
+          "definition_es": "El derecho legal de pertenecer a un país como ciudadano.",
+          "definition_en": "Citizenship – the legal right to belong to a country."
+        },
+        {
+          "word": "restringir",
+          "syllables": "res-trin-GIR",
+          "pos": "verbo",
+          "context": "El Congreso quiere restringir la ciudadanía automática.",
+          "definition_es": "Limitar o reducir algo para que no sea tan libre o amplio.",
+          "definition_en": "To restrict – to limit or reduce something."
+        },
+        {
+          "word": "contratación",
+          "syllables": "con-tra-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "La contratación de trabajadores continúa, pero es más lenta.",
+          "definition_es": "El proceso de contratar o emplear a nuevos trabajadores.",
+          "definition_en": "Hiring – the process of employing new workers."
+        },
+        {
+          "word": "ritmo",
+          "syllables": "RIT-mo",
+          "pos": "sustantivo",
+          "context": "El ritmo de nuevos empleos es más lento este mes.",
+          "definition_es": "La velocidad o frecuencia con la que ocurre algo.",
+          "definition_en": "Pace/rhythm – the speed or frequency at which something happens."
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está eliminando miles de empleos cada mes.",
+          "definition_es": "Tecnología que permite a las computadoras realizar tareas inteligentes.",
+          "definition_en": "Artificial intelligence – technology that allows computers to perform intelligent tasks."
+        },
+        {
+          "word": "sector",
+          "syllables": "sec-TOR",
+          "pos": "sustantivo",
+          "context": "El sector tecnológico está perdiendo muchos empleos por la IA.",
+          "definition_es": "Una parte o división de la economía o la sociedad.",
+          "definition_en": "Sector – a part or division of the economy or society."
+        },
+        {
+          "word": "nacimiento",
+          "syllables": "na-ci-MIEN-to",
+          "pos": "sustantivo",
+          "context": "La ciudadanía por nacimiento significa ser ciudadano porque naciste en ese país.",
+          "definition_es": "El momento en que una persona nace al mundo.",
+          "definition_en": "Birth – the moment when a person is born."
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLEO",
+          "pos": "sustantivo",
+          "context": "Miles de empleos desaparecen cada mes en el sector financiero.",
+          "definition_es": "Un trabajo o puesto de trabajo pagado.",
+          "definition_en": "Job/employment – a paid position of work."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'ciudadanía'?",
+          "options": [
+            "El derecho legal de pertenecer a un país",
+            "Un tipo de documento de viaje",
+            "Una ciudad grande",
+            "Un trabajo del gobierno"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'restringir'?",
+          "options": [
+            "Aumentar o expandir algo",
+            "Limitar o reducir algo",
+            "Celebrar un evento",
+            "Buscar información"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "La palabra 'contratación' se refiere a...",
+          "options": [
+            "Firmar un contrato de alquiler",
+            "Viajar a otro país",
+            "El proceso de emplear nuevos trabajadores",
+            "Una reunión política importante"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "En la noticia de tecnología, ¿qué significa 'sector'?",
+          "options": [
+            "Una persona muy inteligente",
+            "Una parte o división de la economía",
+            "Un tipo de computadora",
+            "Una ciudad industrial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la noticia de política, ¿quién quiere cambiar la ley de ciudadanía por nacimiento?",
+          "options": [
+            "El presidente de Estados Unidos",
+            "El presidente de la Cámara de Representantes",
+            "El juez de la Corte Suprema",
+            "El gobernador de California"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la noticia de política, ¿dónde está escrita la regla actual de la ciudadanía por nacimiento?",
+          "options": [
+            "En una ley del Congreso",
+            "En un decreto presidencial",
+            "En la Constitución",
+            "En el reglamento de inmigración"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la noticia de economía, ¿cómo está el mercado laboral de Estados Unidos?",
+          "options": [
+            "Está muy mal y hay muchos desempleados",
+            "Sigue fuerte pero el ritmo de contratación es más lento",
+            "Está creciendo más rápido que nunca",
+            "Está completamente paralizado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores menciona la noticia de economía como sectores que siguen contratando personas?",
+          "options": [
+            "Tecnología, finanzas y comercio",
+            "Turismo, educación y transporte",
+            "Salud, construcción y servicios",
+            "Agricultura, minería y energía"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la noticia de tecnología, ¿cuántos empleos pierden los sectores de tecnología y finanzas cada mes?",
+          "options": [
+            "2,800 empleos",
+            "280,000 empleos",
+            "28,000 empleos",
+            "2,000 empleos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "En la noticia de tecnología, ¿por qué las empresas prefieren usar inteligencia artificial?",
+          "options": [
+            "Porque es más creativa que los humanos",
+            "Porque es más rápida y más barata",
+            "Porque el gobierno obliga a usarla",
+            "Porque los trabajadores no quieren trabajar"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-06T10:29:53.707548"
+    },
+    {
       "date": "2026-07-05",
       "filename": "spanish_lesson_2026-07-05.pdf",
       "path": "pdfs/spanish_lesson_2026-07-05.pdf",
@@ -44418,7 +44640,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-05T09:49:50.271933",
+  "last_updated": "2026-07-06T10:29:53.707576",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
