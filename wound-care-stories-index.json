@@ -1,11 +1,196 @@
 {
-  "date": "2026-07-04",
-  "generated_at": "2026-07-04T09:46:10.574400Z",
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T10:37:25.638843Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 802,
-  "new_today": 4,
+  "total_stories": 807,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250706",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La FDA Aprueba Tratamiento de Heridas con Larvas Vivas",
+      "headline_en": "FDA Approves Live Maggot Wound Treatment",
+      "summary_es": "La FDA ha aprobado por segunda vez un tratamiento especial para heridas crónicas que usa larvas vivas. Este método ayuda a limpiar heridas difíciles.",
+      "body_es": "La Administración de Medicamentos y Alimentos (FDA) aprobó nuevamente un tratamiento único para heridas crónicas. Este tratamiento utiliza larvas vivas de mosca. Las larvas comen el tejido muerto de la herida. El tejido muerto impide la curación. Las larvas son muy efectivas para limpiar heridas profundas. Este tratamiento es especialmente útil para úlceras que no mejoran con otros métodos. Los profesionales de salud pueden usar este tratamiento en pacientes con heridas complicadas. La aprobación de la FDA confirma la seguridad del método. Muchos pacientes se benefician de esta terapia biológica innovadora.",
+      "body_en": "The Food and Drug Administration (FDA) has approved a unique treatment for chronic wounds for the second time. This treatment uses live fly larvae. The larvae eat dead tissue from the wound. Dead tissue prevents healing. The larvae are very effective at cleaning deep wounds. This treatment is especially useful for ulcers that do not improve with other methods. Healthcare professionals can use this treatment in patients with complicated wounds. FDA approval confirms the safety of the method. Many patients benefit from this innovative biological therapy.",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zSXdPcTM1SE8tX1R6azNiNmlmTnlaYzdXYk8zQUJIMTB6eVEydzktNGVyQWM1WlRDcWI5bkhQd1dmU0VORl9tWWFmU1hRaDFuYzQwSWZHczVaNnhPWTNIQTZ2V2JvRWpGOGlzaHpwS2I?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-06/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no sana rápidamente",
+          "definition_en": "chronic wound - injury that heals slowly"
+        },
+        {
+          "word": "tejido muerto",
+          "definition_es": "células dañadas que no funcionan",
+          "definition_en": "dead tissue - damaged cells that do not function"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar la herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida profunda en la piel",
+          "definition_en": "ulcer - deep wound in the skin"
+        }
+      ],
+      "added_at": "2026-07-06T10:37:25.638843Z"
+    },
+    {
+      "id": "diabetic-foot-20250706",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "El Cuidado del Pie Diabético Requiere Tanta Atención como el Control de Glucosa",
+      "headline_en": "Diabetic Foot Care Deserves As Much Attention As Blood Sugar Management",
+      "summary_es": "Los especialistas enfatizan que el cuidado del pie en pacientes diabéticos es fundamental. Las complicaciones en los pies pueden ser graves y prevenibles con atención adecuada.",
+      "body_es": "Los profesionales de salud advierten que el cuidado del pie diabético debe ser una prioridad igual al control de la glucosa. Las personas con diabetes tienen mayor riesgo de desarrollar úlceras y lesiones en los pies debido a problemas circulatorios y neuropatía. Una evaluación regular de los pies es esencial para detectar problemas temprano. Los pacientes deben examinar sus pies diariamente buscando enrojecimiento, hinchazón o cualquier herida. El uso de calzado apropiado y la higiene adecuada previenen muchas complicaciones. Las infecciones en los pies diabéticos pueden progresar rápidamente si no se tratan. Los enfermeros de cuidado de heridas deben educar a los pacientes sobre la importancia de la prevención. El manejo multidisciplinario que incluye podólogos, endocrinólogos y especialistas en heridas mejora significativamente los resultados del tratamiento.",
+      "body_en": "Health professionals warn that diabetic foot care must be a priority equal to blood sugar control. People with diabetes have increased risk of developing ulcers and foot injuries due to circulatory problems and neuropathy. Regular foot evaluation is essential to detect problems early. Patients should examine their feet daily looking for redness, swelling, or any wounds. Appropriate footwear use and proper hygiene prevent many complications. Infections in diabetic feet can progress rapidly if untreated. Wound care nurses should educate patients about the importance of prevention. Multidisciplinary management including podiatrists, endocrinologists, and wound specialists significantly improves treatment outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNemtzS1RTMURDNGFobi1fU29uNklwVW5HUkk1Z2ktaEkxV2VFQkVYenA0WlVKRjBqSWR1dnA5NndNcVc5MVVsVDZSV2RZeGFISlNidTJxNy12b0xjb01UNk0wUXF0SGVocWc5ZlA0R29WZWJsdUtGZkZWbmNDMGllbEFkbFg3T01qaXVMZDdJS2xWTVBMY21pUXNROW5udW94b0dIekZYVzRGZllVVEJmWTNmb2xWMmlsNDBwTVpSelpNZHBuQzVPbTdLLWVpSHQtcVB3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-06/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "neuropatía",
+          "definition_es": "daño en los nervios que reduce la sensibilidad",
+          "definition_en": "neuropathy - nerve damage that reduces sensation"
+        },
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida profunda en el pie de un diabético",
+          "definition_en": "diabetic ulcer - deep wound in a diabetic's foot"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "flujo de sangre por el cuerpo",
+          "definition_en": "circulation - blood flow through the body"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar enfermedades o complicaciones",
+          "definition_en": "prevention - actions to avoid disease or complications"
+        }
+      ],
+      "added_at": "2026-07-06T10:37:25.638843Z"
+    },
+    {
+      "id": "burn-care-20250706",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Advertencia: Los Juguetes Blandos Defectuosos Causan Quemaduras Graves en Niños",
+      "headline_en": "Warning: Defective Squishy Toys Cause Serious Burns in Children",
+      "summary_es": "Una tendencia viral peligrosa de juguetes blandos ha causado quemaduras graves en niños. Los expertos advierten sobre los riesgos de estos productos defectuosos.",
+      "body_es": "Los profesionales médicos advierten sobre una tendencia peligrosa que está causando quemaduras graves en niños. Los juguetes blandos o \"squishy\" defectuosos explotan de manera inesperada cuando se manipulan. Esta explosión genera calor intenso que quema la piel de los niños. Muchos niños han sufrido quemaduras de segundo y tercer grado en las manos y la cara. Los especialistas en cuidado de quemaduras reportan un aumento en las admisiones hospitalarias relacionadas con estos juguetes. Los padres deben ser conscientes de los riesgos de estos productos. Es importante supervisar los juguetes que los niños utilizan e inspeccionar regularmente su estado. Las quemaduras causadas por estos juguetes requieren atención médica inmediata para prevenir infecciones y cicatrices permanentes. Los profesionales de enfermería recomiendan educación preventiva en escuelas y comunidades.",
+      "body_en": "Medical professionals warn about a dangerous trend causing serious burns in children. Defective squishy toys unexpectedly explode when manipulated. This explosion generates intense heat that burns children's skin. Many children have suffered second and third-degree burns on their hands and face. Burn care specialists report increased hospital admissions related to these toys. Parents should be aware of the risks of these products. It is important to supervise children's toys and regularly inspect their condition. Burns caused by these toys require immediate medical attention to prevent infections and permanent scarring. Nursing professionals recommend preventive education in schools and communities.",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONVRlc2JjMi1HdTVtN0lNcGJIRVJZUUswVUNkWU1KM0FLbG1sd2lwSkJXUlZqSGNyTndWQW80QzJmRFdiX0dyMWVuNnpnMzRwQTkwSTZjeGk2VHE0NEZydU5zRV90M0RyNkt4djJ1UXVyWkRxaUtXRUtSbnFwYU1IMGRycGp2RmRBbTZmaHZjMTVHLXZNWWJxTGJzd1UzbDdkdDRKOWJTUGI2M0x5NHR0TVptNA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-06/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel por calor o fuego",
+          "definition_en": "burn - skin injury from heat or fire"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos dañinos",
+          "definition_en": "infection - invasion of harmful microorganisms"
+        },
+        {
+          "word": "epidermis",
+          "definition_es": "capa externa de la piel",
+          "definition_en": "epidermis - outer layer of skin"
+        }
+      ],
+      "added_at": "2026-07-06T10:37:25.638843Z"
+    },
+    {
+      "id": "surgical-wounds-20250706",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Sulfato de Calcio con Antibióticos Mejora el Manejo de Infecciones Postquirúrgicas",
+      "headline_en": "Antibiotic-Eluting Calcium Sulfate Improves Surgical Infection Management",
+      "summary_es": "Un nuevo estudio presenta el uso de sulfato de calcio impregnado de antibióticos para prevenir y tratar infecciones después de cirugía espinal.",
+      "body_es": "Investigadores presentaron resultados positivos del uso de sulfato de calcio que libera antibióticos en el tratamiento de infecciones postquirúrgicas, especialmente en procedimientos de columna vertebral. Este biomaterial se coloca directamente en el sitio quirúrgico para liberar medicamento localmente. Las infecciones después de la cirugía espinal, conocidas como espondilodiscitis, pueden ser complicaciones graves que requieren tratamiento prolongado. El sulfato de calcio actúa como un vehículo para mantener altas concentraciones de antibióticos en el área afectada. Los estudios de caso demostraron que este tratamiento redujo significativamente la recurrencia de infecciones. El material es reabsorbible, lo que significa que el cuerpo lo elimina gradualmente mientras sana. Los profesionales de cuidado de heridas quirúrgicas pueden beneficiarse de esta tecnología innovadora. La evaluación cuidadosa del sitio quirúrgico y el monitoreo postoperatorio continúan siendo fundamentales para el éxito del tratamiento.",
+      "body_en": "Researchers presented positive results from using antibiotic-eluting calcium sulfate in treating post-surgical infections, especially in spinal procedures. This biomaterial is placed directly in the surgical site to release medication locally. Infections after spinal surgery, known as spondylodiscitis, can be serious complications requiring prolonged treatment. Calcium sulfate acts as a vehicle to maintain high antibiotic concentrations in the affected area. Case studies demonstrated that this treatment significantly reduced infection recurrence. The material is resorbable, meaning the body gradually eliminates it during healing. Surgical wound care professionals can benefit from this innovative technology. Careful evaluation of the surgical site and continuous postoperative monitoring remain fundamental to treatment success.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWnBBWWFYbG1GcXd1WnM3YWl3U2E2UTJUdTAyMjQxUldCemhJdUNpTENOcThKVERwMTRFUXNrVkZWSE1fVjdEZC15V3NTNjdwMDJ1bUc4cWNNTkNBZ3g2LXpjY2dyYkIwaEZ4Q2plX1RCU3BMS2p2enlXX0wtREdnTXVSUERTZ3VKNkNOVUhHRDlnbUZEX0F2Y0ZwSFdQYjIyem5uUS04ZkJIT2NmSWdwNkdXUG5XdXZGMjVMV253cWJUTjB0b3BxYjF4MUlrZ0Z2ZzZoQzFTVDZyNXVBSkhKVkQtZlBTNl9DdFpIQUtLdjFyWGpBMzVLTElsS2U?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-06/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "espondilodiscitis",
+          "definition_es": "infección de las vértebras y discos espinales",
+          "definition_en": "spondylodiscitis - infection of spinal vertebrae and discs"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se pone sobre una herida para protegerla",
+          "definition_en": "dressing - material placed over a wound for protection"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilos que cierran una herida quirúrgica",
+          "definition_en": "suture - threads that close a surgical wound"
+        },
+        {
+          "word": "biomaterial",
+          "definition_es": "material biocompatible usado en medicina",
+          "definition_en": "biomaterial - biocompatible material used in medicine"
+        }
+      ],
+      "added_at": "2026-07-06T10:37:25.638843Z"
+    },
+    {
+      "id": "wound-research-20250706",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Investigador Destaca en USF Health con Carrera de Descubrimiento Científico",
+      "headline_en": "Researcher Brings Career of Discovery to USF Health",
+      "summary_es": "El Dr. Shyam Kottilil se une a la Universidad de South Florida con experiencia en investigación translacional y ciencias de descubrimiento médico.",
+      "body_es": "El Dr. Shyam Kottilil ha comenzado una posición en la Universidad de South Florida (USF) Health trayendo consigo una carrera distinguida en investigación translacional. Su experiencia incluye investigación de enfermedades infecciosas y desarrollo de nuevas terapias. La investigación translacional convierte los descubrimientos de laboratorio en tratamientos clínicos prácticos. El Dr. Kottilil se enfocará en proyectos que mejoren la calidad de vida de los pacientes. Su experiencia en ciencias básicas y medicina clínica puede contribuir significativamente al avance del cuidado de heridas. La colaboración entre investigadores y profesionales clínicos es fundamental para innovar en el tratamiento de heridas. USF Health se beneficiará de su expertise en el desarrollo de nuevas soluciones terapéuticas. El Dr. Kottilil trabajará con equipos multidisciplinarios para traducir investigación en beneficios reales para los pacientes con heridas complejas.",
+      "body_en": "Dr. Shyam Kottilil has joined the University of South Florida (USF) Health bringing with him a distinguished career in translational research. His experience includes research on infectious diseases and development of new therapies. Translational research converts laboratory discoveries into practical clinical treatments. Dr. Kottilil will focus on projects that improve patients' quality of life. His expertise in basic sciences and clinical medicine can significantly contribute to advancing wound care. Collaboration between researchers and clinical professionals is fundamental to innovating wound treatment. USF Health will benefit from his expertise in developing new therapeutic solutions. Dr. Kottilil will work with multidisciplinary teams to translate research into real benefits for patients with complex wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwRE8zeS0wYTliNWFfSnJCdDdKeU1qLW15dTc3M3ZxRFZMX3h6ZXpjZ2V0OFpVZi1lRHk5VTZXaExSUUE5NzFMa1BGandldjJIMy1QWVJsaEtzRVM5UUxlNWd0ZTFvcnltU3VkMGdfRm9oQXFQOEcyYTBZcUE5QQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-06/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "investigación translacional",
+          "definition_es": "investigación que convierte descubrimientos en tratamientos clínicos",
+          "definition_en": "translational research - research that converts discoveries into clinical treatments"
+        },
+        {
+          "word": "terapia",
+          "definition_es": "tratamiento para curar una enfermedad",
+          "definition_en": "therapy - treatment to cure disease"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido nuevo que se forma durante la cicatrización",
+          "definition_en": "granulation - new tissue forming during wound healing"
+        },
+        {
+          "word": "multidisciplinario",
+          "definition_es": "trabajo de varios especialistas de diferentes campos",
+          "definition_en": "multidisciplinary - work of specialists from different fields"
+        }
+      ],
+      "added_at": "2026-07-06T10:37:25.638843Z"
+    },
     {
       "id": "chronic-wounds-20250704",
       "category": "Chronic Wounds",
@@ -29675,6 +29860,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-04T09:46:10.574400Z",
+  "last_updated": "2026-07-06T10:37:25.638843Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
