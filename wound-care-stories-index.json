@@ -1,11 +1,122 @@
 {
-  "date": "2026-07-08",
-  "generated_at": "2026-07-08T09:51:35.416387Z",
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T10:12:42.963505Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 815,
-  "new_today": 4,
+  "total_stories": 818,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250709",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "El mercado de cuidado de heridas activas crece rápidamente",
+      "headline_en": "Active Wound Care Market Growing Rapidly",
+      "summary_es": "El mercado mundial de tratamiento de heridas crónicas está creciendo. Se espera alcanzar 2.08 mil millones de dólares para el año 2035.",
+      "body_es": "El cuidado de heridas activas es muy importante en los hospitales y clínicas. Una herida crónica es una lesión que no cicatriza rápidamente. Los pacientes con diabetes tienen muchas heridas crónicas. El tratamiento moderno usa vendajes especiales y medicinas nuevas. Los estudios muestran que el mercado crece cada año. Para el 2035, el mercado alcanzará 2.08 mil millones de dólares. Esto significa más inversión en tecnología y tratamientos. Los enfermeros necesitan aprender sobre estos nuevos apósitos y técnicas. La curación correcta previene infecciones graves. El cuidado de calidad mejora la vida de los pacientes.",
+      "body_en": "Active wound care is very important in hospitals and clinics. A chronic wound is an injury that does not heal quickly. Patients with diabetes have many chronic wounds. Modern treatment uses special dressings and new medicines. Studies show that the market grows every year. By 2035, the market will reach 2.08 billion dollars. This means more investment in technology and treatments. Nurses need to learn about these new dressings and techniques. Correct healing prevents serious infections. Quality care improves patients' lives.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbXp6RkZKVW12MUZEZTNvSThCeEtPczlGaDAzYjI2cW1vdkNrdk5xNEJNaF9JWnQyOUZnRnlkTng2eG9JMWNuWnBjRGlyc3liME5sLWxJZFZ6QkdjZ05QUFFYMDY5LXNlZk1jOHFWS2lFV2ZaUlE2NEZ3SGtXMzVOMkZfNFB4clBtMDF4aElDWXZtc2tLMmxuMnUwNjZrWmI1QjlEUGlWWGRLUlVRLTJ1dVphdVFhTzB0T2xRWTRIbzlpMU9BQTJhVkJ0NzFKQzBpdC1RZlF5Nm9Oejg2bkhHRA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-09/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente en el cuerpo",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico para cubrir y proteger heridas",
+          "definition_en": "dressing - medical material to cover and protect wounds"
+        },
+        {
+          "word": "cicatrizar",
+          "definition_es": "proceso natural de curación de una herida",
+          "definition_en": "to heal - natural process of wound recovery"
+        },
+        {
+          "word": "curación",
+          "definition_es": "tratamiento para sanar una lesión o enfermedad",
+          "definition_en": "healing - treatment to recover from injury or illness"
+        }
+      ],
+      "added_at": "2026-07-09T10:12:42.963505Z"
+    },
+    {
+      "id": "burn-care-20250709",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Accidente con fuegos artificiales casi cuesta la vida a una mujer de Carolina del Norte",
+      "headline_en": "Sparkler Accident Nearly Took Woman's Life in North Carolina",
+      "summary_es": "Una mujer de Carolina del Norte sufrió quemaduras graves por un accidente con fuegos artificiales. Ahora promueve la conciencia sobre la seguridad durante las festividades.",
+      "body_es": "Una mujer de Carolina del Norte experimentó un accidente traumático con fuegos artificiales que causó quemaduras graves en su cuerpo. Los fuegos artificiales pequeños, como las varitas brillantes, pueden provocar lesiones severas cuando no se manejan correctamente. Las quemaduras de este tipo requieren evaluación inmediata y tratamiento especializado en unidades de cuidado intensivo. Durante la curación, los enfermeros deben cambiar los vendajes regularmente para prevenir infecciones. El desbridamiento de tejido necrótico es esencial para permitir la cicatrización. Esta experiencia traumática ha inspirado a la paciente a educar al público sobre los peligros de los fuegos artificiales. Los profesionales de salud reconocen la importancia de la prevención y la educación en lesiones por quemadura. Las campañas de sensibilización durante las festividades pueden reducir significativamente estos accidentes prevenibles.",
+      "body_en": "A woman in North Carolina experienced a traumatic accident with fireworks that caused severe burns to her body. Small fireworks, such as sparklers, can cause severe injuries when not handled correctly. Burns of this type require immediate evaluation and specialized treatment in intensive care units. During healing, nurses must change dressings regularly to prevent infections. Debridement of necrotic tissue is essential to allow healing. This traumatic experience has inspired the patient to educate the public about the dangers of fireworks. Healthcare professionals recognize the importance of prevention and education in burn injuries. Awareness campaigns during festivals can significantly reduce these preventable accidents.",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EbzBzd09WbmFTcGRfWFlkbzdQcUZ5eENUVnlHVTcxSFlWREJXZmlVNVpld0diMmhDaXBreWVvc1l0ckpydUJFcy1DdzlreU1uTy1zaFBUb1psNHBzUFR6LUJUMUFLXzlyR3hLeTB30gFuQVVfeXFMTnR4VHFWdGEtQzFRckN1WU1ESmNOS0N3YUV1cDFzR2ZDUEh6dnBpM0pMNlNiY044TzFUdWtJSXJtdzZ2OW1uSHJRelh4VzJRZzBUX3h1c2N0bU1wME9iTHNOTVB5cHdVZXMtOGtnc3c?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-09/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por fuego, calor o químicos",
+          "definition_en": "burn - skin injury caused by fire, heat, or chemicals"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido corporal debido a falta de circulación",
+          "definition_en": "necrosis - death of body tissue due to lack of circulation"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material o tela que cubre y protege una herida",
+          "definition_en": "dressing - material that covers and protects a wound"
+        }
+      ],
+      "added_at": "2026-07-09T10:12:42.963505Z"
+    },
+    {
+      "id": "surgical-wounds-20250709",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Ventris Medical presenta nueva matriz quirúrgica Connext para necesidades quirúrgicas",
+      "headline_en": "Ventris Medical Presents New Connext Surgical Matrix for Surgical Needs",
+      "summary_es": "Ventris Medical ha desarrollado una nueva matriz quirúrgica Connext para mejorar los resultados de las cirugías. Este material avanzado ayuda en la curación de heridas quirúrgicas.",
+      "body_es": "Ventris Medical ha introducido la matriz quirúrgica Connext para abordar necesidades no satisfechas en procedimientos quirúrgicos. Esta matriz es un material biológico que facilita la regeneración de tejidos después de la intervención quirúrgica. Los cirujanos utilizan este apósito especializado para promover la cicatrización y reducir complicaciones postoperatorias. La matriz Connext proporciona un andamiaje de soporte que permite que el tejido nuevo crezca correctamente. Durante el periodo postoperatorio, los enfermeros monitorean la curación observando la granulación y epitelización del sitio quirúrgico. Este tipo de tecnología avanzada disminuye el riesgo de infección y necrosis en heridas quirúrgicas. Los pacientes experimentan mejor recuperación y menos tiempo de hospitalización con esta innovación. Los profesionales de salud pueden aplicar esta matriz en diversos tipos de cirugías para optimizar resultados.",
+      "body_en": "Ventris Medical has introduced the Connext surgical matrix to address unmet needs in surgical procedures. This matrix is a biological material that facilitates tissue regeneration after surgical intervention. Surgeons use this specialized dressing to promote healing and reduce postoperative complications. The Connext matrix provides a supportive scaffold that allows new tissue to grow correctly. During the postoperative period, nurses monitor healing by observing granulation and epithelialization of the surgical site. This type of advanced technology decreases the risk of infection and necrosis in surgical wounds. Patients experience better recovery and less hospitalization time with this innovation. Healthcare professionals can apply this matrix in various types of surgeries to optimize outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWHBIVFZYQTRnd3RDLVdlamdRd3RrUzI5MmkyVGtOdUp3ZTYxSl9HUWlDUGhnNXBlbE1GN0NSWlBTOXBNYWpCVTdVV1FtRF90eUs4VzFzWVl4a3QwdEtmbmY5LVNqRDNWZFRiRFdxYWdzY0ZjakstN1NhMFVLWEZUS3g2ZkdEY0k5Z0ZvenU0MjRIYWVNQzh1Ul9VSTBjUldDUXY2Ql9RcnVDa3NPR3NwRVhRNXdMc29tb1hVUG9NdGNEQWJ5cHBKS3loejJ3ZFh5?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-09/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "matriz quirúrgica",
+          "definition_es": "material biológico que apoya la regeneración de tejidos después de cirugía",
+          "definition_en": "surgical matrix - biological material that supports tissue regeneration after surgery"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo con aspecto granular en la curación de heridas",
+          "definition_en": "granulation - formation of new tissue with granular appearance in wound healing"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de regeneración de la capa superficial de la piel",
+          "definition_en": "epithelialization - process of regeneration of the skin's outer layer"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material colocado sobre una herida para protección y curación",
+          "definition_en": "dressing - material placed on a wound for protection and healing"
+        }
+      ],
+      "added_at": "2026-07-09T10:12:42.963505Z"
+    },
     {
       "id": "chronic-wounds-20250708",
       "category": "Chronic Wounds",
@@ -30156,6 +30267,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-08T09:51:35.416387Z",
+  "last_updated": "2026-07-09T10:12:42.963505Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
