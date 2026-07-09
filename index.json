@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-09",
+      "filename": "spanish_lesson_2026-07-09.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-09.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Candidato al Senado abandona su campaña después de una acusación grave",
+          "headline_en": "Senate Candidate Drops Out of Race After Serious Accusation",
+          "body_es": "Graham Platner era un candidato demócrata para el Senado de los Estados Unidos. Platner quería ganar un asiento en el Senado en las próximas elecciones. Sin embargo, su campaña terminó de forma inesperada. Una mujer hizo una acusación grave de violación contra él. Después de esta acusación, Platner decidió abandonar la carrera electoral. Su equipo anunció la noticia públicamente. El Partido Demócrata ahora necesita encontrar otro candidato para esa posición. Este tipo de situaciones es difícil para los partidos políticos. Las elecciones al Senado son muy importantes en los Estados Unidos. Los senadores trabajan en Washington D.C. y ayudan a crear las leyes del país. Cada estado tiene dos senadores. La carrera para el Senado continúa, pero sin Graham Platner. Otros candidatos pueden ahora tener más posibilidades de ganar en su lugar.",
+          "body_en": "Graham Platner was a Democratic candidate for the United States Senate. Platner wanted to win a Senate seat in the upcoming elections. However, his campaign ended unexpectedly. A woman made a serious rape accusation against him. After this accusation, Platner decided to drop out of the race. His team announced the news publicly. The Democratic Party now needs to find another candidate for that position. This type of situation is difficult for political parties. Senate elections are very important in the United States. Senators work in Washington D.C. and help create the country's laws. Each state has two senators. The race for Senate continues, but without Graham Platner. Other candidates may now have a better chance of winning in his place.",
+          "source": "Le Monde"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El FMI reduce su pronóstico de crecimiento global para 2026 al 3%",
+          "headline_en": "IMF Cuts Global Growth Forecast for 2026 to 3%",
+          "body_es": "El Fondo Monetario Internacional, conocido como el FMI, es una organización económica muy importante. Recientemente, el FMI publicó nuevas predicciones sobre la economía mundial. Según el FMI, el crecimiento económico global en 2026 será solamente del 3%. Este número es más bajo que las predicciones anteriores. Una cifra del 3% indica que la economía mundial crece, pero de manera más lenta. Existen varias razones para esta reducción en el pronóstico. Las tensiones comerciales entre países y la incertidumbre política son factores importantes. Sin embargo, el FMI también tiene buenas noticias. La organización espera una recuperación económica en el año 2027. Es decir, la economía global podría crecer más rápido después de 2026. Muchos países del mundo observan con atención estas predicciones. Los gobiernos usan esta información para planificar sus políticas económicas. El FMI tiene su sede en Washington D.C.",
+          "body_en": "The International Monetary Fund, known as the IMF, is a very important economic organization. Recently, the IMF published new predictions about the world economy. According to the IMF, global economic growth in 2026 will be only 3%. This number is lower than previous predictions. A figure of 3% indicates that the world economy is growing, but more slowly. There are several reasons for this reduction in the forecast. Trade tensions between countries and political uncertainty are important factors. However, the IMF also has good news. The organization expects an economic recovery in the year 2027. In other words, the global economy could grow faster after 2026. Many countries around the world watch these predictions closely. Governments use this information to plan their economic policies. The IMF is headquartered in Washington D.C.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "China estudia nuevas reglas más estrictas para controlar la inteligencia artificial",
+          "headline_en": "China Studies Stricter New Rules to Control Artificial Intelligence",
+          "body_es": "La inteligencia artificial, o IA, es una tecnología muy poderosa y moderna. Los programas de IA pueden escribir textos, crear imágenes y responder preguntas. China es uno de los países más avanzados en el desarrollo de esta tecnología. Ahora, el gobierno chino está considerando establecer controles más estrictos sobre los modelos de IA. La razón principal son las preocupaciones de seguridad nacional. El gobierno quiere asegurarse de que los sistemas de IA no representen un peligro. También quiere controlar qué información pueden usar estos programas. Muchas empresas tecnológicas chinas crean modelos de IA muy avanzados. Estas nuevas reglas podrían afectar el trabajo de esas empresas. China ya tiene algunas regulaciones sobre la inteligencia artificial. Sin embargo, el gobierno considera que necesitan ser más fuertes. Otros países del mundo, como Estados Unidos y Europa, también tienen debates similares sobre cómo regular la IA de manera segura.",
+          "body_en": "Artificial intelligence, or AI, is a very powerful and modern technology. AI programs can write texts, create images, and answer questions. China is one of the most advanced countries in the development of this technology. Now, the Chinese government is considering establishing stricter controls on AI models. The main reason is national security concerns. The government wants to make sure that AI systems do not represent a danger. It also wants to control what information these programs can use. Many Chinese technology companies create very advanced AI models. These new rules could affect the work of those companies. China already has some regulations on artificial intelligence. However, the government believes they need to be stronger. Other countries around the world, such as the United States and Europe, also have similar debates about how to regulate AI safely.",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "candidato",
+          "syllables": "can-di-DA-to",
+          "pos": "sustantivo",
+          "context": "El candidato demócrata abandonó la carrera electoral.",
+          "definition_es": "Persona que quiere ganar unas elecciones o un puesto.",
+          "definition_en": "Candidate; a person running for a position or election."
+        },
+        {
+          "word": "acusación",
+          "syllables": "a-cu-sa-CION",
+          "pos": "sustantivo",
+          "context": "El político salió de la carrera después de una acusación grave.",
+          "definition_es": "Declaración que dice que alguien hizo algo malo o ilegal.",
+          "definition_en": "Accusation; a claim that someone did something wrong or illegal."
+        },
+        {
+          "word": "pronóstico",
+          "syllables": "pro-NOS-ti-co",
+          "pos": "sustantivo",
+          "context": "El FMI bajó su pronóstico de crecimiento global para 2026.",
+          "definition_es": "Predicción o estimación sobre algo que puede pasar en el futuro.",
+          "definition_en": "Forecast; a prediction about what may happen in the future."
+        },
+        {
+          "word": "crecimiento",
+          "syllables": "cre-ci-MIEN-to",
+          "pos": "sustantivo",
+          "context": "El crecimiento económico mundial será del 3% en 2026.",
+          "definition_es": "Aumento en el tamaño, cantidad o nivel de algo.",
+          "definition_en": "Growth; an increase in size, amount, or level."
+        },
+        {
+          "word": "controles",
+          "syllables": "con-TRO-les",
+          "pos": "sustantivo",
+          "context": "China quiere establecer controles más estrictos sobre los modelos de IA.",
+          "definition_es": "Reglas o límites para controlar algo o a alguien.",
+          "definition_en": "Controls; rules or limits used to regulate something."
+        },
+        {
+          "word": "seguridad",
+          "syllables": "se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "China tiene preocupaciones de seguridad sobre la inteligencia artificial.",
+          "definition_es": "Estado de estar protegido de peligros o amenazas.",
+          "definition_en": "Security; the state of being protected from danger or threats."
+        },
+        {
+          "word": "recuperación",
+          "syllables": "re-cu-pe-ra-CION",
+          "pos": "sustantivo",
+          "context": "El FMI espera una recuperación económica en el año 2027.",
+          "definition_es": "Proceso de volver a un estado bueno después de un problema.",
+          "definition_en": "Recovery; the process of returning to a good state after a problem."
+        },
+        {
+          "word": "abandonar",
+          "syllables": "a-ban-do-NAR",
+          "pos": "verbo",
+          "context": "El candidato decidió abandonar su campaña política.",
+          "definition_es": "Dejar algo o a alguien de manera definitiva.",
+          "definition_en": "To abandon; to leave something or someone permanently."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'candidato'?",
+          "options": [
+            "Una persona que vota en las elecciones",
+            "Una persona que quiere ganar un puesto en unas elecciones",
+            "Un político que ya ganó las elecciones",
+            "Un miembro del gobierno nacional"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'pronóstico' en el contexto de la economía?",
+          "options": [
+            "Un problema económico grave",
+            "El dinero que tiene un país",
+            "Una predicción sobre lo que puede pasar en el futuro",
+            "Una reunión entre líderes económicos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Si alguien decide 'abandonar' una carrera política, ¿qué hace?",
+          "options": [
+            "Trabaja más duro en su campaña",
+            "Deja su campaña de manera definitiva",
+            "Pide más votos a los ciudadanos",
+            "Cambia de partido político"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'controles' en el contexto de la tecnología?",
+          "options": [
+            "Los botones de un ordenador",
+            "Los programas de inteligencia artificial",
+            "Reglas o límites para regular algo",
+            "Los datos que usa un programa de IA"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿por qué abandonó Graham Platner su campaña?",
+          "options": [
+            "Porque perdió las elecciones al Senado",
+            "Porque el Partido Demócrata lo eliminó",
+            "Porque una mujer hizo una acusación grave de violación contra él",
+            "Porque no tenía suficiente dinero para su campaña"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿para qué posición quería ganar Graham Platner?",
+          "options": [
+            "Presidente de los Estados Unidos",
+            "Senador de los Estados Unidos",
+            "Gobernador de su estado",
+            "Miembro de la Cámara de Representantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿cuál es el pronóstico de crecimiento global del FMI para 2026?",
+          "options": [
+            "El 2%",
+            "El 4%",
+            "El 5%",
+            "El 3%"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿qué espera el FMI para el año 2027?",
+          "options": [
+            "Una crisis económica mundial",
+            "Una recuperación económica",
+            "Un crecimiento más lento que en 2026",
+            "El cierre de muchos bancos internacionales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿cuál es la razón principal por la que China quiere controlar más la IA?",
+          "options": [
+            "Para proteger a las empresas tecnológicas chinas de la competencia",
+            "Porque la IA es demasiado cara para las personas",
+            "Por preocupaciones de seguridad nacional",
+            "Porque otros países le pidieron que lo hiciera"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué pueden hacer los programas de inteligencia artificial?",
+          "options": [
+            "Solo crear imágenes digitales",
+            "Escribir textos, crear imágenes y responder preguntas",
+            "Únicamente traducir idiomas",
+            "Solo analizar datos económicos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-09T10:12:40.051427"
+    },
+    {
       "date": "2026-07-08",
       "filename": "spanish_lesson_2026-07-08.pdf",
       "path": "pdfs/spanish_lesson_2026-07-08.pdf",
@@ -45076,7 +45298,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-08T09:46:07.682847",
+  "last_updated": "2026-07-09T10:12:40.051455",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
