@@ -1,11 +1,122 @@
 {
-  "date": "2026-07-09",
-  "generated_at": "2026-07-09T10:12:42.963505Z",
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:10:19.531697Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 818,
+  "total_stories": 821,
   "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20250710",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Una Terapia Nueva Puede Transformar el Cuidado de Heridas Crónicas",
+      "headline_en": "A New Therapy Could Transform Chronic Wound Care",
+      "summary_es": "Los científicos en África descubren un tratamiento innovador para las heridas crónicas que puede mejorar la cicatrización y reducir complicaciones. Este método ofrece esperanza a millones de pacientes.",
+      "body_es": "Un nuevo tratamiento llega para ayudar a pacientes con heridas crónicas en África. Los investigadores descubrieron una terapia innovadora que estimula la cicatrización de heridas difíciles. Esta terapia utiliza un proceso biológico especial para promover la curación. Los pacientes con heridas que no cierran pueden beneficiarse mucho de este método. El tratamiento reduce infecciones y acelera la cicatrización. Los expertos médicos creen que este avance es muy importante. Puede cambiar la forma en que tratamos las úlceras y heridas crónicas. Los resultados iniciales son muy prometedores para los pacientes.",
+      "body_en": "A new treatment is arriving to help patients with chronic wounds in Africa. Researchers discovered an innovative therapy that stimulates wound healing in difficult cases. This therapy uses a special biological process to promote healing. Patients with wounds that do not close can benefit greatly from this method. The treatment reduces infections and accelerates wound closure. Medical experts believe this breakthrough is very important. It can change how we treat ulcers and chronic wounds. Initial results are very promising for patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjVfcVh4cjFFTWY2ZkRRSXNaSWJOVnFKQTF1eHNXR0ctaEhhNHRzSU12dGFyRGVUQ2hUMldSQTBnSWxPSGNpQ1VGbjBrZjBwQlhtOEx1azNpWWRzX2RHYVV3aDdVY09YZHFmX0ZIdmxEaDBMczdMbl9PTUM5dl9lSjVCaWpRX0JVR015R1hjTldzNW1zRzBFLW9BV21MZUNkU0E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-10/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra después de varias semanas",
+          "definition_en": "chronic wound - injury that does not close after several weeks"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo en la herida",
+          "definition_en": "wound healing - process of new tissue formation in the wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de bacterias o microorganismos en la herida",
+          "definition_en": "infection - invasion of bacteria or microorganisms in the wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de recuperación y cierre de la herida",
+          "definition_en": "healing - process of recovery and wound closure"
+        }
+      ],
+      "added_at": "2026-07-10T10:10:19.531697Z"
+    },
+    {
+      "id": "burn-care-20250710",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Los Juguetes Calientes Causas Quemaduras en Niños: Alerta Médica",
+      "headline_en": "Heated Squishy Toys Cause Burns in Children: Medical Alert",
+      "summary_es": "Una tendencia de juguetes blandos calentables está causando quemaduras peligrosas en niños, alertan los médicos. Los profesionales de salud recomiendan que los padres supervisen el uso de estos productos.",
+      "body_es": "Una nueva tendencia de juguetes blandos y calentables está provocando quemaduras graves en niños pequeños. Estos juguetes se calientan rápidamente y pueden causar lesiones térmicas en la piel sensible de los menores. Los centros de quemados han reportado un aumento en casos de quemaduras relacionadas con estos productos. Los médicos recomiendan que los padres supervisen constantemente el uso de juguetes calentados. Las quemaduras por calor requieren atención médica inmediata para prevenir cicatrices permanentes. Los profesionales advierten sobre los riesgos de temperatura excesiva en juguetes infantiles. Es importante educar a los niños sobre la seguridad térmica. Los expertos sugieren elegir juguetes seguros y regulados que cumplan con normas internacionales de temperatura.",
+      "body_en": "A new trend of soft, heated toys is causing serious burns in young children. These toys heat up quickly and can cause thermal injuries to the sensitive skin of minors. Burn centers have reported an increase in cases of burns related to these products. Doctors recommend that parents constantly supervise the use of heated toys. Burns require immediate medical attention to prevent permanent scarring. Professionals warn about the risks of excessive temperature in children's toys. It is important to educate children about thermal safety. Experts suggest choosing safe, regulated toys that meet international temperature standards.",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lbktKXzhvYmlSbmZuUmJRXzVySkVObVJ4WWpQSGlndXdBU1N3Wmo4OE42MUdycktpQk04dzB1NDFUNDR0WFFFYmVvYy1scEpCTHRXRk1HeFp2UE9uY3FTYVYyal9SbVl2U1ZTRnFfOFJyamtlclQyZklGWnM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-10/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury to the skin caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "lesión térmica",
+          "definition_es": "daño a los tejidos causado por temperatura excesiva",
+          "definition_en": "thermal injury - damage to tissues caused by excessive temperature"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de la curación de una herida",
+          "definition_en": "scar - mark left after wound healing"
+        },
+        {
+          "word": "atención médica inmediata",
+          "definition_es": "cuidado urgente sin demora para emergencias",
+          "definition_en": "immediate medical attention - urgent care without delay for emergencies"
+        }
+      ],
+      "added_at": "2026-07-10T10:10:19.531697Z"
+    },
+    {
+      "id": "surgical-wounds-20250710",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Nuevas Recomendaciones Alemanas para la Terapia de Heridas Quirúrgicas Cerradas",
+      "headline_en": "New German Recommendations for Closed Surgical Wound Therapy",
+      "summary_es": "Un consenso de expertos alemanes establece recomendaciones basadas en riesgo para el uso de terapia de presión negativa en incisiones quirúrgicas cerradas. Esta guía mejora los protocolos de cuidado postoperatorio.",
+      "body_es": "Un grupo de expertos médicos alemanes ha desarrollado nuevas recomendaciones para el tratamiento de incisiones quirúrgicas cerradas. Estas directrices establece criterios basados en el riesgo del paciente para usar terapia de presión negativa de heridas. La terapia de presión negativa acelera la cicatrización y reduce complicaciones postoperatorias. Los cirujanos pueden evaluar el riesgo individual de cada paciente antes del procedimiento. La nueva guía considera factores como la edad, comorbilidades y tipo de cirugía. Esta estrategia de riesgo permite optimizar los resultados quirúrgicos y reducir infecciones. Los hospitales pueden implementar estas recomendaciones para mejorar la atención postoperatoria. El consenso representa un avance importante en la medicina de heridas quirúrgicas basada en evidencia.",
+      "body_en": "A group of German medical experts has developed new recommendations for treating closed surgical incisions. These guidelines establish risk-based criteria for using negative pressure wound therapy. Negative pressure therapy accelerates healing and reduces postoperative complications. Surgeons can evaluate individual patient risk before the procedure. The new guideline considers factors such as age, comorbidities, and type of surgery. This risk-based strategy optimizes surgical outcomes and reduces infections. Hospitals can implement these recommendations to improve postoperative care. The consensus represents an important advance in evidence-based surgical wound medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHR6N0NuV3o0LVI2SGphMVNEQVhlZEFYQllSNUEtQWx6eExxWkpQZ0xZbGMzQUxfSW56Q1B5eU1JNzJURFVOeTVpZGZXOWNLaTBXRnAtTHJfQnFzckdCc2oxYWJ0US1rQ0pweEFKaFYwUFRROElZWGRaREZSNzB2WTI3UEdyRm9WMEJmZWpIV0psOG40X3VXeDRQbzZzZlhi?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-10/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "incisión quirúrgica",
+          "definition_es": "corte hecho por el cirujano durante una operación",
+          "definition_en": "surgical incision - cut made by the surgeon during an operation"
+        },
+        {
+          "word": "terapia de presión negativa",
+          "definition_es": "tratamiento que usa succión controlada para sanar heridas",
+          "definition_en": "negative pressure therapy - treatment that uses controlled suction to heal wounds"
+        },
+        {
+          "word": "complicaciones postoperatorias",
+          "definition_es": "problemas que ocurren después de una cirugía",
+          "definition_en": "postoperative complications - problems that occur after surgery"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de nuevo tejido y cierre de herida",
+          "definition_en": "wound healing - process of new tissue formation and wound closure"
+        }
+      ],
+      "added_at": "2026-07-10T10:10:19.531697Z"
+    },
     {
       "id": "chronic-wounds-20250709",
       "category": "Chronic Wounds",
@@ -30267,6 +30378,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-09T10:12:42.963505Z",
+  "last_updated": "2026-07-10T10:10:19.531697Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
