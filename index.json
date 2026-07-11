@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-11",
+      "filename": "spanish_lesson_2026-07-11.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-11.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "La ley de vivienda más grande en décadas entra en vigor sin la firma de Trump",
+          "headline_en": "The largest housing bill in decades becomes law without Trump's signature",
+          "body_es": "Una nueva ley sobre vivienda asequible se convirtió en ley en los Estados Unidos. Esta es la ley de vivienda más importante en muchas décadas. El presidente Trump no firmó la ley, pero tampoco la vetó. Cuando el presidente no firma ni veta una ley, la ley puede entrar en vigor automáticamente. El objetivo principal de esta ley es ayudar a las familias a encontrar viviendas a precios más bajos. Millones de personas en los Estados Unidos tienen problemas para pagar el alquiler o comprar una casa. Los precios de las viviendas han subido mucho en los últimos años. Los expertos dicen que esta ley puede crear más casas y apartamentos accesibles para la gente común. Muchos ciudadanos esperaban esta ley por mucho tiempo. El Congreso aprobó la ley con votos de los dos partidos políticos principales. Es un paso importante para resolver el problema de la vivienda en el país.",
+          "body_en": "A new affordable housing law came into effect in the United States. This is the most important housing law in many decades. President Trump did not sign the law, but he also did not veto it. When the president neither signs nor vetoes a law, it can automatically go into effect. The main goal of this law is to help families find homes at lower prices. Millions of people in the United States have problems paying rent or buying a house. Housing prices have risen a lot in recent years. Experts say this law can create more affordable homes and apartments for ordinary people. Many citizens had been waiting for this law for a long time. Congress passed the law with votes from both major political parties. It is an important step toward solving the housing problem in the country.",
+          "source": "NPR"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La Reserva Federal advierte: los aranceles, la guerra y la IA están aumentando la inflación",
+          "headline_en": "The Federal Reserve warns: tariffs, war, and AI are increasing inflation",
+          "body_es": "La Reserva Federal de los Estados Unidos publicó un informe importante sobre la economía. El informe dice que la inflación está aumentando más de lo esperado. Hay tres razones principales para este aumento. Primero, los aranceles sobre productos importados hacen que los precios sean más altos. Segundo, la guerra con Irán está afectando los precios del petróleo y otros productos. Tercero, las grandes inversiones en inteligencia artificial están usando muchos recursos y energía. La Reserva Federal es el banco central del país y controla la política monetaria. Cuando la inflación sube, las personas necesitan más dinero para comprar las mismas cosas. Esto es difícil para las familias con ingresos bajos o medios. Los expertos están preocupados porque estos tres factores pueden continuar por mucho tiempo. El gobierno y la Reserva Federal están buscando soluciones para controlar los precios y proteger la economía americana.",
+          "body_en": "The United States Federal Reserve published an important report about the economy. The report says that inflation is rising more than expected. There are three main reasons for this increase. First, tariffs on imported products are making prices higher. Second, the war with Iran is affecting oil prices and other products. Third, large investments in artificial intelligence are using many resources and energy. The Federal Reserve is the country's central bank and controls monetary policy. When inflation rises, people need more money to buy the same things. This is difficult for families with low or middle incomes. Experts are worried because these three factors may continue for a long time. The government and the Federal Reserve are looking for solutions to control prices and protect the American economy.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Apple demanda a OpenAI por robo de secretos comerciales",
+          "headline_en": "Apple sues OpenAI for stealing trade secrets",
+          "body_es": "La empresa tecnológica Apple presentó una demanda legal contra OpenAI. Apple acusa a OpenAI de robar información privada y secretos comerciales muy importantes. OpenAI es la empresa que creó el famoso chatbot ChatGPT. Esta disputa legal es muy significativa en el mundo de la tecnología y la inteligencia artificial. Apple dice que empleados que trabajaban en su empresa llevaron información secreta a OpenAI. Esta información incluye tecnología y datos que Apple desarrolló con mucho tiempo y dinero. OpenAI aún no ha respondido públicamente a las acusaciones. Las batallas legales entre empresas tecnológicas grandes son comunes porque la competencia es muy fuerte. La inteligencia artificial es una de las áreas más importantes y valiosas en la tecnología actual. Esta demanda puede afectar la relación entre las dos compañías en el futuro. Muchos expertos en tecnología y leyes están observando este caso con mucho interés.",
+          "body_en": "Technology company Apple filed a lawsuit against OpenAI. Apple accuses OpenAI of stealing private information and very important trade secrets. OpenAI is the company that created the famous chatbot ChatGPT. This legal dispute is very significant in the world of technology and artificial intelligence. Apple says that employees who worked at their company took secret information to OpenAI. This information includes technology and data that Apple developed with a lot of time and money. OpenAI has not yet responded publicly to the accusations. Legal battles between large technology companies are common because competition is very strong. Artificial intelligence is one of the most important and valuable areas in current technology. This lawsuit could affect the relationship between the two companies in the future. Many technology and law experts are watching this case with great interest.",
+          "source": "The Washington Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "vivienda",
+          "syllables": "vi-VIEN-da",
+          "pos": "sustantivo",
+          "context": "La nueva ley de vivienda es la más grande en décadas.",
+          "definition_es": "El lugar donde vive una persona o familia; una casa o apartamento.",
+          "definition_en": "Housing; a place where a person or family lives."
+        },
+        {
+          "word": "asequible",
+          "syllables": "a-se-QUI-ble",
+          "pos": "adjetivo",
+          "context": "El objetivo de la ley es hacer las viviendas más asequibles para todos.",
+          "definition_es": "Que tiene un precio que la mayoría de las personas puede pagar.",
+          "definition_en": "Affordable; something that most people can pay for."
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La Reserva Federal reportó un aumento de la inflación por los aranceles.",
+          "definition_es": "El aumento general de los precios de los productos y servicios.",
+          "definition_en": "Inflation; the general rise in prices of goods and services."
+        },
+        {
+          "word": "arancel",
+          "syllables": "a-ran-CEL",
+          "pos": "sustantivo",
+          "context": "Los aranceles sobre productos importados están causando más inflación.",
+          "definition_es": "Un impuesto que se paga por productos que vienen de otros países.",
+          "definition_en": "Tariff; a tax on imported goods from other countries."
+        },
+        {
+          "word": "demandar",
+          "syllables": "de-man-DAR",
+          "pos": "verbo",
+          "context": "Apple decidió demandar a OpenAI por robar secretos comerciales.",
+          "definition_es": "Llevar a alguien a un tribunal de justicia para resolver un problema legal.",
+          "definition_en": "To sue; to take legal action against someone in court."
+        },
+        {
+          "word": "secreto comercial",
+          "syllables": "se-CRE-to co-mer-CIAL",
+          "pos": "sustantivo",
+          "context": "Apple dice que OpenAI robó sus secretos comerciales.",
+          "definition_es": "Información privada de una empresa que le da ventaja sobre la competencia.",
+          "definition_en": "Trade secret; private business information that gives a company a competitive advantage."
+        },
+        {
+          "word": "firma",
+          "syllables": "FIR-ma",
+          "pos": "sustantivo",
+          "context": "La ley se aprobó sin la firma del presidente Trump.",
+          "definition_es": "El nombre de una persona escrito a mano para aprobar un documento oficial.",
+          "definition_en": "Signature; a person's name written by hand to approve an official document."
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "El desarrollo de la inteligencia artificial también está afectando los precios.",
+          "definition_es": "Tecnología que permite a las computadoras aprender y realizar tareas inteligentes.",
+          "definition_en": "Artificial intelligence; technology that allows computers to learn and perform intelligent tasks."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'asequible'?",
+          "options": [
+            "Que tiene un precio que la mayoría puede pagar",
+            "Que es muy caro y difícil de obtener",
+            "Que es nuevo y moderno",
+            "Que está lejos de la ciudad"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Un 'arancel' es:",
+          "options": [
+            "Un tipo de casa pequeña",
+            "Un impuesto sobre productos importados de otros países",
+            "Un banco central del gobierno",
+            "Un documento legal firmado por el presidente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'demandar' en el contexto de la historia de Apple?",
+          "options": [
+            "Pedir algo con mucha urgencia",
+            "Vender un producto tecnológico",
+            "Llevar a alguien a un tribunal de justicia",
+            "Firmar un contrato de trabajo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'secreto comercial'?",
+          "options": [
+            "Un producto que se vende en secreto",
+            "Información privada de una empresa que le da ventaja sobre la competencia",
+            "Un contrato entre dos empresas grandes",
+            "El precio secreto de un producto en el mercado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿por qué la ley de vivienda entró en vigor sin la firma de Trump?",
+          "options": [
+            "Porque el Congreso ignoró al presidente",
+            "Porque Trump estaba de vacaciones fuera del país",
+            "Porque cuando el presidente no firma ni veta una ley, puede entrar en vigor automáticamente",
+            "Porque la Corte Suprema aprobó la ley directamente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el objetivo principal de la nueva ley de vivienda mencionada en la historia de Política?",
+          "options": [
+            "Construir nuevas autopistas en las ciudades",
+            "Ayudar a las familias a encontrar viviendas a precios más bajos",
+            "Dar dinero a los bancos para construir edificios de lujo",
+            "Reducir los impuestos para las empresas constructoras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿cuántas razones principales menciona el informe de la Reserva Federal para el aumento de la inflación?",
+          "options": [
+            "Una razón",
+            "Dos razones",
+            "Tres razones",
+            "Cuatro razones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿cuál de estas opciones NO es una de las causas del aumento de inflación según la Reserva Federal?",
+          "options": [
+            "Los aranceles sobre productos importados",
+            "La guerra con Irán",
+            "Las inversiones en inteligencia artificial",
+            "El aumento del precio de las viviendas"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "En la historia de Tecnología, ¿qué acusa Apple de haber hecho OpenAI?",
+          "options": [
+            "Copiar el diseño del iPhone sin permiso",
+            "Robar información privada y secretos comerciales de Apple",
+            "Vender productos de Apple sin autorización",
+            "Contratar empleados de Apple ilegalmente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué producto famoso creó la empresa OpenAI?",
+          "options": [
+            "El iPhone",
+            "El buscador Google",
+            "El chatbot ChatGPT",
+            "El sistema operativo Windows"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-11T09:30:29.541822"
+    },
+    {
       "date": "2026-07-10",
       "filename": "spanish_lesson_2026-07-10.pdf",
       "path": "pdfs/spanish_lesson_2026-07-10.pdf",
@@ -45520,7 +45742,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-10T10:06:37.697933",
+  "last_updated": "2026-07-11T09:30:29.541848",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
