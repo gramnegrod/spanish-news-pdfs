@@ -1,11 +1,196 @@
 {
-  "date": "2026-07-10",
-  "generated_at": "2026-07-10T10:10:19.531697Z",
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:34:55.872366Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 821,
-  "new_today": 3,
+  "total_stories": 826,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250711",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos tratamientos con polinucleótidos aceleran la curación de heridas",
+      "headline_en": "New polynucleotide treatments accelerate wound healing",
+      "summary_es": "Un estudio reciente muestra que los polinucleótidos son efectivos para curar heridas crónicas y prevenir cicatrices postoperatorias. Los investigadores analizaron múltiples ensayos clínicos para confirmar estos resultados.",
+      "body_es": "Los polinucleótidos y polideoxirribonucleótidos son sustancias naturales que mejoran la curación de heridas. Un análisis sistemático de ensayos clínicos aleatorios examinó cómo estos tratamientos funcionan en pacientes con heridas crónicas. Los resultados muestran que estas sustancias estimulan la regeneración de tejido. También previenen las cicatrices después de operaciones quirúrgicas. Los médicos aplican estos tratamientos directamente en la herida. La curación es más rápida con estos productos naturales. Los pacientes experimentan menos dolor durante el proceso. Este tratamiento es útil para heridas que no cierran normalmente. Los profesionales de enfermería pueden usar estos apósitos en clínicas y hospitales.",
+      "body_en": "Polynucleotides and polydeoxyribonucleotides are natural substances that improve wound healing. A systematic analysis of randomized clinical trials examined how these treatments work in patients with chronic wounds. The results show that these substances stimulate tissue regeneration. They also prevent scars after surgical operations. Doctors apply these treatments directly to the wound. Healing is faster with these natural products. Patients experience less pain during the process. This treatment is useful for wounds that do not close normally. Nursing professionals can use these dressings in clinics and hospitals.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQQkU4TTFERXNqakp2Zzdqd2x3NlFacmVic24yUndxRnp1bld6RTZON3hjc1VZNnFZMFNsdUVHdXltd3NScGFLMzJ6cXhWNjd4Nm56cnN0cTFCT3l6REJiLUE1NnluVjJhaWtuWXFkVGxrUFIxbGJueTd5OG1Md2RQaXFXM2ZhVE9Ua1ZjZTNzeGViN1pxVTVkNmtZamN0Y3E5VVU0T1RsWVNmMUNzMldqdlVBcUJnVXpXVk1tNUhYVkItWjQ2SDAzLW1GQ096RVQ5NU9qcHpmTmxtcVBNdlFBOHYzTG5OcV95TlgwY2QxSV8wN0dkX0RtUURfV2VLS3BhN2ZEREwxT05RVkw4eHMxU0Y5dTN1R09pdWQzTUdSelVxYkozejl0MHMxcw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-11/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "polinucleótido",
+          "definition_es": "sustancia natural que estimula la cicatrización",
+          "definition_en": "polynucleotide - natural substance that stimulates healing"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cerrar y sanar una herida",
+          "definition_en": "healing - process of closing and recovering from a wound"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que deja una herida al cerrar",
+          "definition_en": "scar - mark left by a wound when it closes"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "células del cuerpo que forman órganos y piel",
+          "definition_en": "tissue - cells of the body that form organs and skin"
+        }
+      ],
+      "added_at": "2026-07-11T09:34:55.872366Z"
+    },
+    {
+      "id": "pressure-ulcers-20250711",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "⚕️",
+      "gradient": "rose",
+      "headline_es": "Dispositivos para prevenir úlceras por presión en pacientes hospitalizados",
+      "headline_en": "Devices to prevent pressure ulcers in hospitalized patients",
+      "summary_es": "Nuevos masajeadores y dispositivos de vibración ayudan a prevenir úlceras por presión en pacientes que pasan mucho tiempo en cama. Estos productos mejoran la circulación de la sangre.",
+      "body_es": "Las úlceras por presión son lesiones graves que afectan a pacientes inmóviles. Se forman cuando el paciente permanece en la misma posición demasiado tiempo. La piel se daña por la falta de movimiento y circulación. Los masajeadores con vibración son una herramienta nueva para prevenir estas úlceras. El masaje estimula la circulación sanguínea en la piel. Aumenta el flujo de oxígeno a los tejidos afectados. Los enfermeros pueden usar estos dispositivos en los pies y talones. El tratamiento es no invasivo y seguro para el paciente. La vibración relaja los músculos y mejora la salud de la piel. Estos dispositivos son especialmente útiles en pacientes diabéticos.",
+      "body_en": "Pressure ulcers are serious injuries that affect immobile patients. They form when the patient remains in the same position for too long. The skin is damaged by lack of movement and circulation. Massagers with vibration are a new tool to prevent these ulcers. Massage stimulates blood circulation in the skin. It increases oxygen flow to affected tissues. Nurses can use these devices on feet and heels. The treatment is non-invasive and safe for the patient. Vibration relaxes muscles and improves skin health. These devices are especially useful in diabetic patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBLRUJLMlVWZngwMHA5cVZBQi1INWxlUTdxUTFhcmVOdnVCOUMxR3YxNDZWYnBRbEtBZE40?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-11/pressure-ulcers.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "lesión de piel causada por presión prolongada",
+          "definition_en": "pressure ulcer - skin injury caused by prolonged pressure"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de la sangre por el cuerpo",
+          "definition_en": "circulation - movement of blood through the body"
+        },
+        {
+          "word": "vibración",
+          "definition_es": "movimiento rápido que estimula los tejidos",
+          "definition_en": "vibration - rapid movement that stimulates tissues"
+        },
+        {
+          "word": "prevenir",
+          "definition_es": "impedir que algo ocurra",
+          "definition_en": "prevent - stop something from happening"
+        }
+      ],
+      "added_at": "2026-07-11T09:34:55.872366Z"
+    },
+    {
+      "id": "burn-care-20250711",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Advertencia médica: juguete popular causa quemaduras graves en niños",
+      "headline_en": "Medical warning: popular toy causes severe burns in children",
+      "summary_es": "Los médicos advierten que un juguete popular está hospitalizando a niños con quemaduras severas e injuries graves. Las autoridades sanitarias recomiendan a los padres supervisar el uso de este producto.",
+      "body_es": "Un juguete de gran popularidad ha causado múltiples ingresos hospitalarios en niños con quemaduras extremadamente dolorosas. Los médicos están emitiendo alertas urgentes a los padres y cuidadores sobre los riesgos asociados con este producto. Las lesiones registradas incluyen quemaduras de segundo y tercer grado que requieren tratamiento especializado en unidades de quemados. El mecanismo de lesión ocurre cuando los niños manipulan el juguete sin la debida supervisión de un adulto. Las quemaduras reportadas son particularmente graves en las manos y brazos de los menores. Los tratamientos en pacientes pediátricos incluyen desbridamiento de tejido necrótico, aplicación de apósitos especializados y antibióticos para prevenir infecciones. Los hospitales recomiendan que los padres retiren este juguete del hogar inmediatamente. Los profesionales de enfermería advierten sobre la importancia de la prevención y la educación del paciente sobre seguridad infantil.",
+      "body_en": "A highly popular toy has caused multiple hospital admissions in children with extremely painful burns. Doctors are issuing urgent alerts to parents and caregivers about the risks associated with this product. Reported injuries include second and third-degree burns that require specialized treatment in burn units. The mechanism of injury occurs when children manipulate the toy without proper adult supervision. The reported burns are particularly severe on the hands and arms of minors. Treatments in pediatric patients include debridement of necrotic tissue, application of specialized dressings, and antibiotics to prevent infections. Hospitals recommend that parents remove this toy from the home immediately. Nursing professionals warn about the importance of prevention and patient education regarding child safety.",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWdIVzhFak9FN1l2d1JPV2FURzFKS2NPQkdpc19xTGN2MC1RSEZUUFJ0MENVc0Jqalo2enlKUVRsdUU3LWpyaUR4ZFpPdnBSQTRiMTliUTlUR2k1QXY3X3BTR01rSkFZNWNNTUMxVmVNbk13SnBsRU00V0hIWWk5eXNSLVJyTTFfQ3V4Vzg4Ukh4aG5pVWVaZzdMdUo2eE5SeGhlSXB2T00wbE5qcC1HZEpGY1JMZ1RZeGc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-11/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o sustancia química",
+          "definition_en": "burn - injury to skin caused by heat, fire, or chemical substance"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material médico para cubrir y proteger heridas",
+          "definition_en": "dressing - medical material to cover and protect wounds"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos patógenos en el cuerpo",
+          "definition_en": "infection - invasion of pathogenic microorganisms in the body"
+        }
+      ],
+      "added_at": "2026-07-11T09:34:55.872366Z"
+    },
+    {
+      "id": "surgical-wounds-20250711",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Polinucleótidos mejoran la cicatrización y reducen cicatrices postoperatorias",
+      "headline_en": "Polynucleotides improve healing and reduce postoperative scars",
+      "summary_es": "Un análisis exhaustivo de ensayos clínicos demuestra que los polinucleótidos aceleran la curación de heridas quirúrgicas y previenen la formación de cicatrices visibles. Este tratamiento revoluciona el cuidado postoperatorio.",
+      "body_es": "Una revisión sistemática publicada recientemente ha analizado múltiples ensayos clínicos aleatorizados que evalúan la eficacia de los polinucleótidos y polideoxirribonucleótidos en la cicatrización de heridas quirúrgicas. Los resultados demuestran que estos tratamientos biológicos aceleran significativamente el proceso de epitelización y granulación tisular. Los mecanismos de acción incluyen la estimulación de fibroblastos y la promoción de angiogénesis en el lecho de la herida. Además de mejorar la curación, estos tratamientos reducen visiblemente la formación de cicatrices hipertróficas y queloides después de procedimientos quirúrgicos. Los apósitos basados en polinucleótidos se pueden aplicar directamente en la herida quirúrgica durante el postoperatorio inmediato. Los estudios muestran una disminución en el tiempo de hospitalización cuando se utilizan estos tratamientos avanzados. Los enfermeros pueden monitorear la cicatrización mediante la evaluación de la granulación y la ausencia de exudado. Este enfoque representa un avance significativo en el manejo de heridas quirúrgicas complejas.",
+      "body_en": "A recently published systematic review has analyzed multiple randomized clinical trials evaluating the efficacy of polynucleotides and polydeoxyribonucleotides in surgical wound healing. The results demonstrate that these biological treatments significantly accelerate the epithelialization and tissue granulation process. The mechanisms of action include stimulation of fibroblasts and promotion of angiogenesis in the wound bed. In addition to improving healing, these treatments visibly reduce the formation of hypertrophic and keloid scars after surgical procedures. Polynucleotide-based dressings can be applied directly to the surgical wound during the immediate postoperative period. Studies show a decrease in hospitalization time when these advanced treatments are used. Nurses can monitor healing through evaluation of granulation and absence of exudate. This approach represents a significant advance in the management of complex surgical wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQQkU4TTFERXNqakp2Zzdqd2x3NlFacmVic24yUndxRnp1bld6RTZON3hjc1VZNnFZMFNsdUVHdXltd3NScGFLMzJ6cXhWNjd4Nm56cnN0cTFCT3l6REJiLUE1NnluVjJhaWtuWXFkVGxrUFIxbGJueTd5OG1Md2RQaXFXM2ZhVE9Ua1ZjZTNzeGViN1pxVTVkNmtZamN0Y3E5VVU0T1RsWVNmMUNzMldqdlVBcUJnVXpXVk1tNUhYVkItWjQ2SDAzLW1GQ096RVQ5NU9qcHpmTmxtcVBNdlFBOHYzTG5OcV95TlgwY2QxSV8wN0dkX0RtUURfV2VLS3BhN2ZEREwxT05RVkw4eHMxU0Y5dTN1R09pdWQzTUdSelVxYkozejl0MHMxcw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-11/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nuevas células epiteliales sobre una herida",
+          "definition_en": "epithelialization - process of formation of new epithelial cells over a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido de reparación que se forma durante la cicatrización",
+          "definition_en": "granulation - repair tissue that forms during wound healing"
+        },
+        {
+          "word": "fibroblasto",
+          "definition_es": "célula que produce colágeno y participa en la cicatrización",
+          "definition_en": "fibroblast - cell that produces collagen and participates in wound healing"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos",
+          "definition_en": "angiogenesis - formation of new blood vessels"
+        }
+      ],
+      "added_at": "2026-07-11T09:34:55.872366Z"
+    },
+    {
+      "id": "wound-research-20250711",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Innovación en investigación de heridas: colaboración entre Philips y Universidad de Washington",
+      "headline_en": "Innovation in wound research: collaboration between Philips and University of Washington",
+      "summary_es": "Philips y la Universidad de Washington se asocian para desarrollar nuevas tecnologías en resonancia magnética avanzada. Esta colaboración acelera la innovación en el tratamiento de heridas y enfermedades complejas.",
+      "body_es": "Philips ha establecido una colaboración estratégica con la Universidad de Washington para acelerar la innovación en tecnología de resonancia magnética (MRI) avanzada aplicada al cuidado de heridas. Esta asociación institucional combina la experiencia técnica de Philips en sistemas de imagen médica con la investigación clínica de la universidad. El objetivo principal es desarrollar nuevas modalidades de diagnóstico y monitoreo para heridas crónicas, lesiones por quemadura y úlceras complejas. Los investigadores utilizarán la tecnología MRI avanzada para visualizar mejor los procesos de cicatrización y evaluar la perfusión tisular. La colaboración permitirá a los clínicos y enfermeros obtener imágenes detalladas del progreso de la cicatrización sin invasión quirúrgica. Estos avances facilitarán la toma de decisiones terapéuticas basada en datos de imagen en tiempo real. Los profesionales de cuidado de heridas podrán monitorear la granulación, detectar infecciones tempranas y evaluar la viabilidad del tejido. Esta iniciativa de investigación conjunta promete revolucionar el enfoque personalizado en el tratamiento de heridas complejas en los próximos años.",
+      "body_en": "Philips has established a strategic collaboration with the University of Washington to accelerate innovation in advanced magnetic resonance imaging (MRI) technology applied to wound care. This institutional partnership combines Philips' technical expertise in medical imaging systems with the university's clinical research. The main objective is to develop new diagnostic and monitoring modalities for chronic wounds, burn injuries, and complex ulcers. Researchers will use advanced MRI technology to better visualize healing processes and evaluate tissue perfusion. The collaboration will allow clinicians and nurses to obtain detailed images of healing progress without surgical invasion. These advances will facilitate therapeutic decision-making based on real-time imaging data. Wound care professionals will be able to monitor granulation, detect early infections, and assess tissue viability. This joint research initiative promises to revolutionize the personalized approach to treating complex wounds in the coming years.",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONFZmNXk4OEw4Q1NuV09BR3g5bTRheUFBMnRydFdFTGg1UXhFd2FuVHlRTTZIQkNQSzlyRXhGNUJxS08tVGxld3JlZGRZWEYwR2d0NHV2dzdvR2VKQUE5RlRFVE9Bb3lDbnp3Vng4U0xaWHl1eUdBc0Z2aWtXUmxqdktSMUJGQmRZc1lhOWJRLW80Q2RFS0lBVlZuMEgtRF8yQ0RkQW8tbm15RWlSeGRoR2hFWFdKNzJkaHJmTDljd0E4UnhsZUFHbHJHRGloVk8waHlUZWlLTTRMX2t5bk9LMllIMW4xWUkxN3RpNjFXcE9HcUpRLWpjbXR3MHZHNllHbngzbQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-11/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "resonancia magnética",
+          "definition_es": "técnica de imagen médica que utiliza campos magnéticos para visualizar órganos y tejidos",
+          "definition_en": "magnetic resonance - medical imaging technique that uses magnetic fields to visualize organs and tissues"
+        },
+        {
+          "word": "perfusión tisular",
+          "definition_es": "flujo de sangre que llega a los tejidos",
+          "definition_en": "tissue perfusion - blood flow that reaches tissues"
+        },
+        {
+          "word": "modalidad de diagnóstico",
+          "definition_es": "método o técnica para detectar y identificar enfermedades",
+          "definition_en": "diagnostic modality - method or technique to detect and identify diseases"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de reparación de heridas y formación de tejido nuevo",
+          "definition_en": "wound healing - biological process of wound repair and new tissue formation"
+        }
+      ],
+      "added_at": "2026-07-11T09:34:55.872366Z"
+    },
     {
       "id": "chronic-wounds-20250710",
       "category": "Chronic Wounds",
@@ -30378,6 +30563,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-10T10:10:19.531697Z",
+  "last_updated": "2026-07-11T09:34:55.872366Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
