@@ -1,11 +1,159 @@
 {
-  "date": "2026-07-11",
-  "generated_at": "2026-07-11T09:34:55.872366Z",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:37:33.390173Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 826,
-  "new_today": 5,
+  "total_stories": 830,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250712",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "La Terapia de Vacío es Importante para Heridas Crónicas",
+      "headline_en": "Vacuum Therapy is Important for Chronic Wounds",
+      "summary_es": "Las máquinas de terapia de vacío son tratamientos modernos para heridas crónicas. El mercado de estas máquinas crece en el mundo.",
+      "body_es": "La terapia de vacío es un tratamiento efectivo para heridas crónicas. Las máquinas de vacío ayudan a cerrar heridas difíciles. El proceso es simple: la máquina aplica presión negativa en la herida. Esta presión reduce el líquido y mejora la circulación de sangre. Los profesionales de enfermería usan estas máquinas en hospitales y clínicas. El mercado mundial de máquinas de vacío crece cada año. Los pacientes con úlceras de presión reciben este tratamiento. También se usa para heridas quirúrgicas complicadas. La terapia de vacío acelera la curación y reduce infecciones. Es un método seguro y comprobado para cuidar heridas crónicas.",
+      "body_en": "Vacuum therapy is an effective treatment for chronic wounds. Vacuum machines help close difficult wounds. The process is simple: the machine applies negative pressure to the wound. This pressure reduces fluid and improves blood circulation. Nursing professionals use these machines in hospitals and clinics. The global market for vacuum machines grows each year. Patients with pressure ulcers receive this treatment. It is also used for complicated surgical wounds. Vacuum therapy accelerates healing and reduces infections. It is a safe and proven method for caring for chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNelRPSlJBMk1ybzQxRmNzVXNVUjdpTi1zbU1weTRKQndJQW9reTNYZnpGMDFjQzh0dXVfM1c0Ul9mSnR5NG5Ib2FBSkgwNDlFODFEaG1tUGhxaWVTX3VxQnlKU0piRUgwNFlDSmtKdzktcnNKYkc0V3MyaHY0dVRtOTZWcjQ1aDA2Q2FRM2oydFQxSlpJcjFYZm9ucnlpdWJ3NC1zOUViaGc1M05TREdHMV8zcGxncDhCd2FmUnVMd3llc1BfdU5wcXo1eUwzeUVWUUFUeGs2Yw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-12/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra rápidamente",
+          "definition_en": "chronic wound - injury that does not close quickly"
+        },
+        {
+          "word": "terapia de vacío",
+          "definition_es": "tratamiento con presión negativa",
+          "definition_en": "vacuum therapy - treatment with negative pressure"
+        },
+        {
+          "word": "úlcera de presión",
+          "definition_es": "herida por presión prolongada en la piel",
+          "definition_en": "pressure ulcer - wound from prolonged pressure on skin"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y cierre de herida",
+          "definition_en": "healing - process of wound closure and scarring"
+        }
+      ],
+      "added_at": "2026-07-12T09:37:33.390173Z"
+    },
+    {
+      "id": "burn-care-20250712",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Avita Medical Desarrolla Estrategia de Regeneración para Quemaduras",
+      "headline_en": "Avita Medical Develops Regenerative Strategy for Burn Care",
+      "summary_es": "Avita Medical está implementando una estrategia integral para el tratamiento regenerativo de quemaduras usando tecnología celular avanzada. La compañía continúa expandiendo sus soluciones para pacientes con lesiones por quemadura.",
+      "body_es": "Avita Medical ha presentado una estrategia comprehensiva para el cuidado regenerativo de quemaduras. La compañía utiliza tecnología regenerativa basada en células vivas para tratar pacientes con quemaduras graves. Esta estrategia representa un avance importante en el tratamiento de lesiones térmicas complejas. Los apósitos celulares permiten una cicatrización más rápida y resultados estéticos mejorados. Los profesionales de enfermería especializada aplican estos productos en unidades de quemados. El tratamiento reduce el tiempo de hospitalización para muchos pacientes. Avita Medical continúa investigando nuevas aplicaciones de la tecnología regenerativa. Los estudios clínicos demuestran que la terapia celular disminuye la formación de cicatrices hipertróficas. Esta estrategia representa una opción terapéutica promisoria para pacientes con quemaduras de espesor parcial y total.",
+      "body_en": "Avita Medical has presented a comprehensive strategy for regenerative burn care. The company uses regenerative technology based on living cells to treat patients with severe burns. This strategy represents an important advance in treating complex thermal injuries. Cellular dressings allow faster healing and improved aesthetic results. Specialized nursing professionals apply these products in burn units. The treatment reduces hospitalization time for many patients. Avita Medical continues researching new applications of regenerative technology. Clinical studies show that cell therapy decreases the formation of hypertrophic scars. This strategy represents a promising therapeutic option for patients with partial and full-thickness burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYl9TNDlScC1EcFlRV29nMXA4NloxcF9WNkpMMF9kTWJZMXZObkpCQTNPdnN4VGtxWVhhQ2hOS1RZVXBFaGt3X0doajgxNGJ2bE82UWRBclZ2cUJWaEpycVBEd2hRUlZwMEdSVXQ3SXMwTDVvTE1raW5JMjZCUlBpLVhKMFctYXVNLUJfb2RhaldvUEpMUHVPcUY3OWozZmVmZmpqUzg3UTJUbzY4VUhqVWlPaHVPdjhnT2cwaHVvSDItV3VzbHc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-12/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "regenerativo",
+          "definition_es": "relacionado con la restauración de tejidos dañados",
+          "definition_en": "regenerative - related to restoration of damaged tissues"
+        },
+        {
+          "word": "apósito celular",
+          "definition_es": "vendaje con células vivas para curación",
+          "definition_en": "cellular dressing - bandage with living cells for healing"
+        },
+        {
+          "word": "cicatriz hipertrófica",
+          "definition_es": "cicatriz elevada y abultada después de quemadura",
+          "definition_en": "hypertrophic scar - raised and thickened scar after burn"
+        }
+      ],
+      "added_at": "2026-07-12T09:37:33.390173Z"
+    },
+    {
+      "id": "surgical-wounds-20250712",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Seguimiento Postoperatorio por Telehealth Mejora Expectativas de Pacientes",
+      "headline_en": "Postoperative Telehealth Follow-up Improves Patient Expectations",
+      "summary_es": "Un estudio francés examina cómo los pacientes perciben el seguimiento postoperatorio por telehealth después de cirugía mamaria oncológica. Los resultados muestran expectativas positivas pero también identifican barreras en la implementación.",
+      "body_es": "Una investigación realizada en Francia evaluó las expectativas de pacientes y las barreras hacia el seguimiento postoperatorio mediante telehealth después de cirugía mamaria oncológica. El estudio involucró pacientes que se sometieron a procedimientos quirúrgicos complejos de mama. Los investigadores encontraron que muchos pacientes apoyan esta modalidad de atención por su conveniencia. Sin embargo, identificaron barreras significativas como la falta de acceso tecnológico y preocupaciones sobre la evaluación de heridas a distancia. Los profesionales de enfermería expresaron interés en integrar telehealth en los protocolos de seguimiento. El monitoreo remoto permite detectar complicaciones como infección o seroma de manera oportuna. Esta investigación proporciona información valiosa para desarrollar programas efectivos de seguimiento postoperatorio que combinen tecnología con evaluación clínica presencial.",
+      "body_en": "A study conducted in France evaluated patient expectations and barriers toward postoperative telehealth follow-up after oncologic breast surgery. The study involved patients who underwent complex surgical procedures on the breast. Researchers found that many patients support this mode of care for its convenience. However, they identified significant barriers such as lack of technological access and concerns about wound evaluation remotely. Nursing professionals expressed interest in integrating telehealth into follow-up protocols. Remote monitoring allows for timely detection of complications such as infection or seroma. This research provides valuable information for developing effective postoperative follow-up programs that combine technology with in-person clinical evaluation.",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pLTR5dWNmeHBpVC1PaUFySEdwdWRlaE50QmljUmhaRERqMGFtZktJN3p3M01aVUU2b19ldWJWVE8yWEdiZW5XOTR1Tld4bmJJYzYtM1lCWDlmRGU5RDVpb0lHZlI0LXBHOW16Tg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-12/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "seguimiento postoperatorio",
+          "definition_es": "vigilancia del paciente después de cirugía",
+          "definition_en": "postoperative follow-up - monitoring patient after surgery"
+        },
+        {
+          "word": "telehealth",
+          "definition_es": "atención médica a través de tecnología remota",
+          "definition_en": "telehealth - medical care through remote technology"
+        },
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada por el cirujano durante operación",
+          "definition_en": "surgical wound - injury created by surgeon during operation"
+        },
+        {
+          "word": "complicación postoperatoria",
+          "definition_es": "problema que surge después de la cirugía",
+          "definition_en": "postoperative complication - problem arising after surgery"
+        }
+      ],
+      "added_at": "2026-07-12T09:37:33.390173Z"
+    },
+    {
+      "id": "wound-research-20250712",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "GE HealthCare y Mayo Clinic Colaboran en Investigación Terapéutica Personalizada",
+      "headline_en": "GE HealthCare and Mayo Clinic Collaborate on Personalized Theranostics Research",
+      "summary_es": "GE HealthCare y la Clínica Mayo anunciaron una colaboración de investigación para avanzar en tratamientos de cáncer personalizados mediante theranostics. Esta asociación busca mejorar los resultados del tratamiento oncológico.",
+      "body_es": "GE HealthCare y la Clínica Mayo han establecido una colaboración de investigación para avanzar en medicina personalizada mediante theranostics en oncología. Esta asociación combina la tecnología diagnóstica de GE con la experiencia clínica de Mayo Clinic para desarrollar tratamientos más precisos. La theranostics integra diagnóstico y terapia en un único enfoque personalizado. Los investigadores trabajan en identificar biomarcadores que predicen la respuesta del paciente al tratamiento. Este tipo de investigación permite adaptar las estrategias de curación a las características individuales del tumor. La colaboración incluye estudios clínicos en la Clínica Mayo con pacientes oncológicos. Los resultados preliminares sugieren que este enfoque personalizado mejora significativamente los resultados clínicos. Esta iniciativa representa un avance importante en medicina de precisión que beneficiará a miles de pacientes con cáncer.",
+      "body_en": "GE HealthCare and Mayo Clinic have established a research collaboration to advance personalized medicine through theranostics in oncology. This partnership combines GE's diagnostic technology with Mayo Clinic's clinical expertise to develop more precise treatments. Theranostics integrates diagnosis and therapy in a single personalized approach. Researchers work on identifying biomarkers that predict patient response to treatment. This type of research allows healing strategies to be adapted to individual tumor characteristics. The collaboration includes clinical trials at Mayo Clinic with cancer patients. Preliminary results suggest that this personalized approach significantly improves clinical outcomes. This initiative represents an important advancement in precision medicine that will benefit thousands of cancer patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcWd1czdITmVZSWdJaDFsOTZwVC1ZbWJ1M3lzUVdQU2xvTGpKR1VCWGlLMko3clpzRnQ3MGZwMnVVMTYwY3R3TUdCODdpOTcxSXY5YnJHR1RPYjFzLVFPWExZdDlUSHFuZXFpNXF3YzU2c2N0T3RfSlJpb0tPNFJTUnF4TVNSMzhwcS1lUFoxTmlNZklaUUNYd3E4ekdJc0tqTHdENFVDc3l1Zk9BMUI2bDBwQU56VlZkRjRDTjBFRGFSWVJqVkNBQ2Jzd25aR1V2YVBpZXVsMXJ2UjhvN3FvUk56YmNJU1JrNl81T05Gcy1GRXZFUVlIMDBjdlRHUQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-12/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "theranostics",
+          "definition_es": "enfoque que combina diagnóstico y terapia personalizada",
+          "definition_en": "theranostics - approach combining personalized diagnosis and therapy"
+        },
+        {
+          "word": "biomarcador",
+          "definition_es": "característica biológica medible que indica enfermedad o respuesta",
+          "definition_en": "biomarker - measurable biological characteristic indicating disease or response"
+        },
+        {
+          "word": "medicina de precisión",
+          "definition_es": "tratamiento adaptado a características genéticas del paciente",
+          "definition_en": "precision medicine - treatment adapted to patient's genetic characteristics"
+        },
+        {
+          "word": "oncología",
+          "definition_es": "rama de medicina que estudia y trata tumores y cáncer",
+          "definition_en": "oncology - medical specialty studying and treating tumors and cancer"
+        }
+      ],
+      "added_at": "2026-07-12T09:37:33.390173Z"
+    },
     {
       "id": "chronic-wounds-20250711",
       "category": "Chronic Wounds",
@@ -30563,6 +30711,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-11T09:34:55.872366Z",
+  "last_updated": "2026-07-12T09:37:33.390173Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
