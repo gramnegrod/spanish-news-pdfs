@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-14",
+      "filename": "spanish_lesson_2026-07-14.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-14.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "La muerte de un senador complica los planes del Partido Republicano",
+          "headline_en": "A senator's death complicates the Republican Party's plans",
+          "body_es": "El senador Graham murió recientemente y esto crea un gran problema para el Partido Republicano en el Congreso de los Estados Unidos. El Partido Republicano tiene muchos planes importantes que quiere aprobar. Sin embargo, ahora tienen menos votos en el Congreso. En política, cada voto es muy importante. Cuando un partido pierde un miembro, es más difícil aprobar nuevas leyes. El Partido Republicano necesita trabajar rápido para encontrar una solución. El gobernador del estado de Graham debe nombrar a una nueva persona para ocupar su lugar. Pero este proceso puede tomar tiempo. Mientras tanto, los planes del partido están en pausa. Muchos republicanos están preocupados porque tienen temas urgentes que necesitan aprobación. La situación muestra que incluso un solo voto puede cambiar el futuro de leyes importantes en los Estados Unidos. Los demócratas observan la situación con mucho interés.",
+          "body_en": "Senator Graham recently passed away and this creates a major problem for the Republican Party in the United States Congress. The Republican Party has many important plans it wants to pass. However, they now have fewer votes in Congress. In politics, every vote is very important. When a party loses a member, it becomes harder to pass new laws. The Republican Party needs to work quickly to find a solution. The governor of Graham's state must appoint a new person to take his place. But this process can take time. Meanwhile, the party's plans are on hold. Many Republicans are worried because they have urgent issues that need approval. The situation shows that even a single vote can change the future of important laws in the United States. Democrats are watching the situation with great interest.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Un economista famoso ve señales preocupantes en el mercado laboral de junio",
+          "headline_en": "A famous economist sees worrying signs in the June job market",
+          "body_es": "Mark Zandi es el economista principal de la empresa Moody's. Él estudia la economía de los Estados Unidos todos los días. En junio, Zandi encontró datos muy preocupantes sobre el empleo en el país. Muchas empresas están reduciendo el número de trabajadores. Esto se llama recortes de empleo. Zandi dice que estas son grandes señales de advertencia para la economía. Cuando las empresas despiden a muchos trabajadores, las personas tienen menos dinero. Con menos dinero, las personas compran menos productos. Esto puede causar problemas serios para toda la economía. Los datos de junio muestran que el número de recortes de empleo es más alto que antes. Zandi está muy preocupado por esta tendencia. Él recomienda que el gobierno tome medidas para proteger a los trabajadores. Los expertos dicen que es importante observar los datos de los próximos meses para entender mejor la situación económica del país.",
+          "body_en": "Mark Zandi is the chief economist at the company Moody's. He studies the United States economy every day. In June, Zandi found very worrying data about employment in the country. Many companies are reducing their number of workers. This is called job cuts. Zandi says these are big warning signs for the economy. When companies lay off many workers, people have less money. With less money, people buy fewer products. This can cause serious problems for the entire economy. The June data shows that the number of job cuts is higher than before. Zandi is very concerned about this trend. He recommends that the government take steps to protect workers. Experts say it is important to watch the data from the coming months to better understand the country's economic situation.",
+          "source": "The Economic Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Premios Nobel y líderes tecnológicos advierten que la IA puede eliminar empleos",
+          "headline_en": "Nobel Prize winners and tech leaders warn that AI could eliminate jobs",
+          "body_es": "Algunos de los científicos y economistas más importantes del mundo están muy preocupados por la inteligencia artificial. Varios ganadores del Premio Nobel y líderes de grandes empresas tecnológicas han dado una advertencia seria. Ellos dicen que la inteligencia artificial puede amenazar millones de empleos en el futuro. La inteligencia artificial puede hacer muchas tareas que antes solo podían hacer las personas. Por ejemplo, puede escribir textos, analizar datos y responder preguntas. Esto significa que algunas empresas pueden usar la IA en lugar de contratar trabajadores humanos. Los expertos dicen que los trabajos más afectados serán los que incluyen tareas repetitivas. Sin embargo, también puede crear nuevos tipos de empleos. El debate es muy importante para gobiernos y empresas de todo el mundo. Los expertos piden que los gobiernos creen reglas para proteger a los trabajadores. Es necesario preparar a las personas para los trabajos del futuro.",
+          "body_en": "Some of the most important scientists and economists in the world are very concerned about artificial intelligence. Several Nobel Prize winners and leaders of major technology companies have issued a serious warning. They say that artificial intelligence could threaten millions of jobs in the future. Artificial intelligence can perform many tasks that previously only humans could do. For example, it can write texts, analyze data, and answer questions. This means some companies can use AI instead of hiring human workers. Experts say the jobs most affected will be those that include repetitive tasks. However, it could also create new types of jobs. The debate is very important for governments and companies around the world. Experts are asking governments to create rules to protect workers. It is necessary to prepare people for the jobs of the future.",
+          "source": "The Washington Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "agenda",
+          "syllables": "a-GEN-da",
+          "pos": "sustantivo",
+          "context": "La muerte de Graham complica la agenda del Partido Republicano en el Congreso.",
+          "definition_es": "Lista de temas o planes que un grupo quiere hacer",
+          "definition_en": "Agenda; a list of plans or topics to be addressed"
+        },
+        {
+          "word": "recortes",
+          "syllables": "re-COR-tes",
+          "pos": "sustantivo",
+          "context": "Los recortes de empleos en junio son una señal de advertencia para la economía.",
+          "definition_es": "Reducciones en el número de trabajos o en el gasto",
+          "definition_en": "Cuts; reductions in jobs or spending"
+        },
+        {
+          "word": "advertencia",
+          "syllables": "ad-ver-TEN-cia",
+          "pos": "sustantivo",
+          "context": "El economista jefe de Moody's ve señales de advertencia en los datos de junio.",
+          "definition_es": "Un aviso sobre algo peligroso o malo que puede pasar",
+          "definition_en": "Warning; a notice about something dangerous or bad"
+        },
+        {
+          "word": "amenazar",
+          "syllables": "a-me-na-ZAR",
+          "pos": "verbo",
+          "context": "Los líderes tecnológicos advierten que la IA puede amenazar los empleos.",
+          "definition_es": "Causar peligro o riesgo a algo o alguien",
+          "definition_en": "To threaten; to put something or someone at risk"
+        },
+        {
+          "word": "economista",
+          "syllables": "e-co-no-MIS-ta",
+          "pos": "sustantivo",
+          "context": "El economista Mark Zandi analiza los datos del mercado laboral de los Estados Unidos.",
+          "definition_es": "Una persona que estudia y analiza la economía y el dinero",
+          "definition_en": "Economist; a person who studies the economy and finance"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial puede reemplazar muchos trabajos en el futuro.",
+          "definition_es": "Tecnología que permite a las computadoras hacer tareas que normalmente hacen los humanos",
+          "definition_en": "Artificial intelligence; technology that allows computers to perform tasks normally done by humans"
+        },
+        {
+          "word": "complicar",
+          "syllables": "com-pli-CAR",
+          "pos": "verbo",
+          "context": "La muerte de Graham va a complicar los planes del Partido Republicano.",
+          "definition_es": "Hacer algo más difícil o menos claro",
+          "definition_en": "To complicate; to make something more difficult"
+        },
+        {
+          "word": "datos",
+          "syllables": "DA-tos",
+          "pos": "sustantivo",
+          "context": "Los datos de junio muestran que muchas empresas están reduciendo empleos.",
+          "definition_es": "Información y números que se usan para analizar algo",
+          "definition_en": "Data; information and numbers used to analyze something"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'recortes' en el contexto de la economía?",
+          "options": [
+            "Aumentos en el número de empleos",
+            "Reducciones en el número de trabajos o en el gasto",
+            "Nuevas oportunidades de trabajo",
+            "Pagos extra para los trabajadores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa el verbo 'amenazar'?",
+          "options": [
+            "Ayudar a alguien a tener éxito",
+            "Causar peligro o riesgo a algo o alguien",
+            "Crear nuevas oportunidades",
+            "Estudiar un problema con cuidado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Una 'advertencia' es:",
+          "options": [
+            "Una celebración de buenas noticias",
+            "Una lista de tareas para hacer",
+            "Un aviso sobre algo peligroso o malo que puede pasar",
+            "Un tipo de trabajo en el gobierno"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Si algo 'complica' una situación, significa que la hace:",
+          "options": [
+            "Más fácil y rápida",
+            "Más interesante y divertida",
+            "Más barata y eficiente",
+            "Más difícil y menos clara"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿por qué es difícil la situación para el Partido Republicano?",
+          "options": [
+            "Porque perdieron las elecciones",
+            "Porque tienen menos votos después de la muerte del senador Graham",
+            "Porque el presidente vetó sus planes",
+            "Porque no tienen dinero para sus proyectos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿quién debe nombrar a una nueva persona para reemplazar al senador Graham?",
+          "options": [
+            "El Presidente de los Estados Unidos",
+            "Los otros senadores del Congreso",
+            "El gobernador del estado de Graham",
+            "Los ciudadanos en una elección especial"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿para qué empresa trabaja Mark Zandi?",
+          "options": [
+            "Para el gobierno de los Estados Unidos",
+            "Para Moody's",
+            "Para The New York Times",
+            "Para una empresa tecnológica"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿qué puede pasar cuando las empresas despiden a muchos trabajadores?",
+          "options": [
+            "La economía crece más rápido",
+            "Las personas tienen más dinero para gastar",
+            "Las personas tienen menos dinero y compran menos",
+            "Los precios de los productos bajan inmediatamente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿quiénes dieron la advertencia sobre la inteligencia artificial?",
+          "options": [
+            "Solo políticos del gobierno",
+            "Ganadores del Premio Nobel y líderes de empresas tecnológicas",
+            "Solo estudiantes universitarios",
+            "Solamente empresas pequeñas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué tipo de empleos serán los más afectados por la inteligencia artificial?",
+          "options": [
+            "Los trabajos que requieren mucha creatividad artística",
+            "Los trabajos en el gobierno y la política",
+            "Los trabajos que incluyen tareas repetitivas",
+            "Los trabajos al aire libre y en la naturaleza"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-14T09:33:06.103983"
+    },
+    {
       "date": "2026-07-13",
       "filename": "spanish_lesson_2026-07-13.pdf",
       "path": "pdfs/spanish_lesson_2026-07-13.pdf",
@@ -46186,7 +46408,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-13T10:03:35.304589",
+  "last_updated": "2026-07-14T09:33:06.104013",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
