@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-15",
+      "filename": "spanish_lesson_2026-07-15.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-15.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso de EE.UU. vota para mantener el horario de verano todo el año",
+          "headline_en": "U.S. Congress Votes to Keep Daylight Saving Time All Year",
+          "body_es": "La Cámara de Representantes de Estados Unidos aprobó una nueva ley importante. Esta ley quiere hacer el horario de verano permanente en todo el país. Eso significa que los estadounidenses no van a cambiar sus relojes dos veces al año. El presidente Donald Trump apoyó esta ley. Muchos americanos están cansados de cambiar los relojes cada primavera y cada otoño. Con el horario de verano permanente, hay más luz solar por la tarde durante todo el año. Algunos expertos dicen que esto es bueno para la salud y para la economía. Otros expertos no están de acuerdo. Ellos creen que es mejor tener más luz por la mañana en el invierno. Ahora la ley tiene que ir al Senado para recibir otro voto. Si el Senado también aprueba la ley, el presidente puede firmarla y se convierte en ley oficial.",
+          "body_en": "The U.S. House of Representatives passed an important new bill. This bill wants to make daylight saving time permanent across the country. That means Americans will not change their clocks twice a year. President Donald Trump supported this bill. Many Americans are tired of changing their clocks every spring and every fall. With permanent daylight saving time, there is more sunlight in the afternoon all year long. Some experts say this is good for health and for the economy. Other experts disagree. They believe it is better to have more light in the morning during winter. Now the bill must go to the Senate for another vote. If the Senate also approves the bill, the president can sign it and it becomes official law.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La deuda de 39 billones de dólares puede afectar el futuro de la Generación Z",
+          "headline_en": "The $39 Trillion Debt Could Affect the Future of Generation Z",
+          "body_es": "La deuda nacional de Estados Unidos es enorme. En este momento, el país debe 39 billones de dólares. Es una cantidad de dinero muy difícil de imaginar. Según un grupo de expertos en economía, esta deuda va a causar problemas serios para los jóvenes de hoy. Los expertos dicen que la Generación Z, las personas nacidas entre 1997 y 2012, van a tener menos oportunidades de trabajo en el futuro. También dicen que los salarios van a ser más bajos. Esto significa que los jóvenes de hoy van a ganar menos dinero que las generaciones anteriores. El gobierno tiene que pagar intereses muy altos por esta deuda cada año. Ese dinero no puede usarse para educación, salud, u otros servicios importantes. Muchos economistas creen que el gobierno necesita encontrar soluciones rápidamente para proteger el futuro económico del país.",
+          "body_en": "The national debt of the United States is enormous. Right now, the country owes 39 trillion dollars. It is an amount of money very difficult to imagine. According to a group of economic experts, this debt is going to cause serious problems for today's young people. The experts say that Generation Z, people born between 1997 and 2012, will have fewer job opportunities in the future. They also say that salaries will be lower. This means that today's young people will earn less money than previous generations. The government must pay very high interest on this debt every year. That money cannot be used for education, health, or other important services. Many economists believe the government needs to find solutions quickly to protect the country's economic future.",
+          "source": "Fortune"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Expertos dicen que la inteligencia artificial generativa está causando grandes problemas",
+          "headline_en": "Experts Say Generative Artificial Intelligence Is Causing Major Problems",
+          "body_es": "La inteligencia artificial generativa es una tecnología muy popular en este momento. Muchas empresas y personas usan programas como ChatGPT para trabajar más rápido. Pero una revista importante llamada The Atlantic publicó un artículo muy crítico. El artículo dice que la IA generativa es un desastre para la ingeniería. Según los expertos, estos programas crean muchos errores en el código de computadoras. Los ingenieros tienen que pasar mucho tiempo corrigiendo esos errores. A veces, los errores son muy difíciles de encontrar. Esto hace el trabajo más lento y más complicado, no más fácil. Además, los ingenieros jóvenes que dependen demasiado de la IA no aprenden a programar bien. Esto puede ser un problema serio para el futuro de la tecnología. Algunos expertos creen que la IA puede ser útil, pero los ingenieros siempre necesitan revisar el trabajo cuidadosamente.",
+          "body_en": "Generative artificial intelligence is a very popular technology right now. Many companies and people use programs like ChatGPT to work faster. But an important magazine called The Atlantic published a very critical article. The article says that generative AI is a disaster for engineering. According to experts, these programs create many errors in computer code. Engineers have to spend a lot of time correcting those errors. Sometimes, the errors are very difficult to find. This makes work slower and more complicated, not easier. Additionally, young engineers who depend too much on AI do not learn to program well. This could be a serious problem for the future of technology. Some experts believe AI can be useful, but engineers always need to review the work carefully.",
+          "source": "The Atlantic"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "permanente",
+          "syllables": "per-ma-NEN-te",
+          "pos": "adjetivo",
+          "context": "El Congreso aprobó una ley para hacer el horario de verano permanente.",
+          "definition_es": "Que dura para siempre, que no cambia",
+          "definition_en": "Permanent, lasting forever"
+        },
+        {
+          "word": "deuda",
+          "syllables": "DEU-da",
+          "pos": "sustantivo",
+          "context": "La deuda nacional de Estados Unidos es de 39 billones de dólares.",
+          "definition_es": "Dinero que una persona o país debe pagar",
+          "definition_en": "Debt, money owed"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "La Cámara de Representantes aprobó el proyecto de ley.",
+          "definition_es": "Aceptar o votar a favor de algo oficialmente",
+          "definition_en": "To approve, to pass (a law)"
+        },
+        {
+          "word": "salario",
+          "syllables": "sa-LA-rio",
+          "pos": "sustantivo",
+          "context": "Los jóvenes de la Generación Z pueden tener salarios más bajos en el futuro.",
+          "definition_es": "El dinero que una persona gana por su trabajo",
+          "definition_en": "Salary, wages"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial generativa está causando problemas en la ingeniería.",
+          "definition_es": "Tecnología que permite a las computadoras pensar como humanos",
+          "definition_en": "Artificial intelligence"
+        },
+        {
+          "word": "generación",
+          "syllables": "ge-ne-ra-CIÓN",
+          "pos": "sustantivo",
+          "context": "La Generación Z va a sufrir las consecuencias de la deuda nacional.",
+          "definition_es": "Grupo de personas que nacieron en la misma época",
+          "definition_en": "Generation"
+        },
+        {
+          "word": "horario",
+          "syllables": "ho-RA-rio",
+          "pos": "sustantivo",
+          "context": "El horario de verano da más luz solar por la tarde.",
+          "definition_es": "El tiempo oficial que se usa en un lugar o actividad",
+          "definition_en": "Schedule, time (as in daylight saving time)"
+        },
+        {
+          "word": "ingeniería",
+          "syllables": "in-ge-nie-RÍ-a",
+          "pos": "sustantivo",
+          "context": "Expertos dicen que la IA generativa es un desastre para la ingeniería.",
+          "definition_es": "La ciencia de diseñar y construir máquinas o sistemas tecnológicos",
+          "definition_en": "Engineering"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'deuda'?",
+          "options": [
+            "Dinero que una persona gana",
+            "Dinero que una persona o país debe pagar",
+            "Un tipo de trabajo",
+            "Una ley del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'aprobar' en el contexto de una ley?",
+          "options": [
+            "Rechazar una idea",
+            "Escribir una ley nueva",
+            "Votar a favor de algo oficialmente",
+            "Cambiar una ley antigua"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'salario'?",
+          "options": [
+            "El dinero que una persona gana por su trabajo",
+            "El dinero que una persona debe al banco",
+            "Un tipo de impuesto del gobierno",
+            "El precio de un producto en la tienda"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La palabra 'permanente' significa...",
+          "options": [
+            "Que cambia frecuentemente",
+            "Que es muy caro",
+            "Que dura para siempre o que no cambia",
+            "Que es difícil de entender"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿qué tiene que hacer ahora la ley sobre el horario de verano?",
+          "options": [
+            "El presidente tiene que firmarla inmediatamente",
+            "Tiene que ir al Senado para otro voto",
+            "Tiene que volver a la Cámara de Representantes",
+            "Tiene que esperar cinco años"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿quién apoyó la ley para hacer el horario de verano permanente?",
+          "options": [
+            "El Senado",
+            "La Corte Suprema",
+            "El presidente Donald Trump",
+            "Los científicos del clima"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿cuánto dinero debe Estados Unidos en su deuda nacional?",
+          "options": [
+            "39 millones de dólares",
+            "39 billones de dólares",
+            "3.9 billones de dólares",
+            "390 millones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿cuál es uno de los problemas que va a tener la Generación Z por la deuda nacional?",
+          "options": [
+            "Van a pagar más impuestos cada mes",
+            "Van a tener menos oportunidades de trabajo y salarios más bajos",
+            "Van a necesitar estudiar más años en la universidad",
+            "Van a emigrar a otros países"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿cuál es el problema principal de la IA generativa para los ingenieros?",
+          "options": [
+            "Es demasiado cara para usar",
+            "Crea muchos errores en el código que son difíciles de corregir",
+            "No puede escribir código de computadoras",
+            "Solo funciona en inglés"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué problema tienen los ingenieros jóvenes que usan demasiado la IA?",
+          "options": [
+            "Trabajan demasiadas horas cada día",
+            "Ganan salarios muy bajos",
+            "No aprenden a programar bien",
+            "No pueden encontrar trabajo fácilmente"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-15T09:35:34.081721"
+    },
+    {
       "date": "2026-07-14",
       "filename": "spanish_lesson_2026-07-14.pdf",
       "path": "pdfs/spanish_lesson_2026-07-14.pdf",
@@ -46408,7 +46630,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-14T09:33:06.104013",
+  "last_updated": "2026-07-15T09:35:34.081749",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
