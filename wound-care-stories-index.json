@@ -1,11 +1,159 @@
 {
-  "date": "2026-07-15",
-  "generated_at": "2026-07-15T09:40:31.948813Z",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T09:44:14.123431Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 841,
+  "total_stories": 845,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250716",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Investigadores Descubren la Causa Principal de las Úlceras en las Piernas",
+      "headline_en": "Researchers Uncover Key Driver of Nonhealing Leg Ulcers",
+      "summary_es": "Investigadores de la Universidad de Miami descubrieron una causa importante de las úlceras venosas en las piernas que no cicatrizan. Este descubrimiento ayuda a entender mejor cómo tratar estas heridas crónicas.",
+      "body_es": "Los investigadores de la Escuela de Medicina Miller de la Universidad de Miami tienen nuevas informaciones sobre las úlceras venosas de las piernas. Estas heridas no cicatrizan bien en muchos pacientes. Los científicos identificaron un factor importante que impide la curación. Este descubrimiento es importante para los profesionales de enfermería y especialistas en cuidado de heridas. Ahora los médicos pueden entender mejor por qué algunas úlceras no responden al tratamiento tradicional. Los apósitos y vendajes son tratamientos comunes, pero no siempre funcionan. Esta investigación abre nuevas posibilidades para mejorar el cuidado de las heridas crónicas. Los pacientes con úlceras venosas pueden beneficiarse de nuevos tratamientos basados en estos hallazgos.",
+      "body_en": "Researchers at the University of Miami Miller School of Medicine have new information about venous leg ulcers. These wounds do not heal well in many patients. Scientists identified an important factor that prevents healing. This discovery is important for nursing professionals and wound care specialists. Now doctors can better understand why some ulcers do not respond to traditional treatment. Dressings and bandages are common treatments, but they do not always work. This research opens new possibilities to improve the care of chronic wounds. Patients with venous ulcers can benefit from new treatments based on these findings.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kQTFRa1RHd04xQjBRZDMzWmhfS0hrVWpQZWF5NGxzX3RRRU5ONW1OVjFabWp0VnBhT1VnbmpSNXF4TUNzT21TTXRqNDU4R0hXY2JlZnhDbmdPclJxNEdyeUNHekpJODloYXNWWFlEWkx3QkFLMnBITk93?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-16/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza bien",
+          "definition_en": "ulcer - open wound on skin that does not heal well"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material estéril para cubrir y proteger heridas",
+          "definition_en": "dressing - sterile material to cover and protect wounds"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "tira de material para envolver y sostener un apósito",
+          "definition_en": "bandage - strip of material to wrap and hold a dressing"
+        }
+      ],
+      "added_at": "2026-07-16T09:44:14.123431Z"
+    },
+    {
+      "id": "burn-care-20250716",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Centros de Cuidado de Heridas Reconocidos por Calidad y Seguridad del Paciente",
+      "headline_en": "Wound Care Centers Honored for Quality, Safety, and Patient Outcomes",
+      "summary_es": "Los Centros de Cuidado de Heridas de Saint Peter's han sido reconocidos nacionalmente por su excelencia en la calidad, seguridad y resultados de los pacientes. Este honor refleja el compromiso del equipo con la atención de heridas complejas.",
+      "body_es": "Los Centros de Cuidado de Heridas de Saint Peter's han recibido un reconocimiento nacional por su dedicación a la calidad y seguridad en el cuidado del paciente. El equipo multidisciplinario incluye enfermeras especializadas, médicos cirujanos y especialistas en heridas que trabajan juntos para optimizar los resultados. Estos centros utilizan tecnologías avanzadas como oxigenoterapia hiperbárica y apósitos de última generación para tratar heridas complejas, incluyendo quemaduras, úlceras diabéticas y lesiones quirúrgicas. Los protocolos establecidos garantizan que cada paciente reciba una evaluación completa y un plan de tratamiento personalizado. El equipo realiza seguimiento continuo para monitorear la epitelización y prevenir complicaciones como infecciones o necrosis. Este reconocimiento demuestra el compromiso institucional con la excelencia en el cuidado de heridas.",
+      "body_en": "Saint Peter's Wound Care Centers have received national recognition for their dedication to quality and patient safety. The multidisciplinary team includes specialized nurses, surgeons, and wound care specialists who work together to optimize outcomes. These centers use advanced technologies such as hyperbaric oxygen therapy and state-of-the-art dressings to treat complex wounds, including burns, diabetic ulcers, and surgical injuries. Established protocols ensure that each patient receives a complete evaluation and personalized treatment plan. The team conducts continuous monitoring to track epithelialization and prevent complications such as infections or necrosis. This recognition demonstrates institutional commitment to excellence in wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGpGQXRTNVFFdVlZWGl0ZHdIcmNvSC1mLTZHSklreDFyLUZJakRJbmprQ0tNZVZlbEtRMnpidlhDQzhKMGd4MGhUOHNVUXlTdlMtTWI2WXlUWEl2SkhVRkI3eUVmR2xjUXN5V2FzQzdXUU55Y0FrT203RGR0TER6MEpsWm9KZV9LYzY3dGdITF9DSjVXaExqeDFjTGVwMnNFU3lfVXdnSmVJQkIyQVpyS0l4MmNPUmxLUWtJbjBVdF9IQ0htVmc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-16/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de crecimiento de células nuevas sobre una herida",
+          "definition_en": "epithelialization - process of new cell growth over a wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de tejido corporal",
+          "definition_en": "necrosis - death of body tissue"
+        },
+        {
+          "word": "oxigenoterapia hiperbárica",
+          "definition_es": "tratamiento con oxígeno a presión para acelerar la curación",
+          "definition_en": "hyperbaric oxygen therapy - pressurized oxygen treatment to accelerate healing"
+        }
+      ],
+      "added_at": "2026-07-16T09:44:14.123431Z"
+    },
+    {
+      "id": "surgical-wounds-20250716",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Era de la Medicación GLP-1 Llega al Quirófano",
+      "headline_en": "GLP-1 Era Arrives in the Operating Room",
+      "summary_es": "El Colegio Americano de Cirujanos analiza cómo los medicamentos GLP-1 están cambiando las prácticas quirúrgicas y el cuidado postoperatorio. Los cirujanos deben considerar estos fármacos durante la planificación y recuperación de heridas quirúrgicas.",
+      "body_es": "El Colegio Americano de Cirujanos ha publicado información sobre cómo los medicamentos GLP-1 están transformando la práctica quirúrgica. Estos fármacos afectan el metabolismo y la composición corporal, lo que tiene implicaciones importantes para la cicatrización de heridas quirúrgicas. Los cirujanos deben evaluar a los pacientes que utilizan estos medicamentos antes de la operación. Durante la evaluación preoperatoria, es esencial documentar el tipo de medicación GLP-1, la dosis y la duración del tratamiento. En el período postoperatorio, el equipo multidisciplinario debe monitorear cuidadosamente la curación de la lesión quirúrgica. La nutrición y la cicatrización pueden verse afectadas, requiriendo apósitos especializados y seguimiento más frecuente. Los protocolos de cuidado de heridas deben adaptarse según el estado del paciente y su respuesta al tratamiento.",
+      "body_en": "The American College of Surgeons has published information on how GLP-1 medications are transforming surgical practice. These drugs affect metabolism and body composition, which has important implications for surgical wound healing. Surgeons must evaluate patients using these medications before surgery. During the preoperative evaluation, it is essential to document the type of GLP-1 medication, dosage, and duration of treatment. In the postoperative period, the multidisciplinary team must carefully monitor the surgical wound healing. Nutrition and wound healing may be affected, requiring specialized dressings and more frequent follow-up. Wound care protocols must be adapted based on the patient's condition and response to treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRHpjTkM5TnpFX1FkRnlXZ0dHblo1dFE4VXZfVS1LZmV2UzV2MFpwZXJsMGpDX0lMOGdsNnFLUkJBZ0VDSEg3UlVBX3J5M2RSN0hERlY0aFBQWjJrR3VSeWhvbnlTWFdtOVVDUEhkQ01yUkkwUlBBdjA5Z3p6MHFTclR2NWMxLWpYcUZHaVVvNm9aanRfYTNHUU5CS0tLS0l4bUdYYl9Yb19TN2VHMXhXdkJkRWg3RkRzODlkcks4SEMyTzI4SkwtNUNyWkFyVVlxY291djRKU3hIQVRaTl9rc3N1T1h1Q2lleTBRZGg3OGVxLVk?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-16/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada durante una operación quirúrgica",
+          "definition_en": "surgical wound - injury created during a surgical operation"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de recuperación de una herida mediante la formación de tejido cicatricial",
+          "definition_en": "wound healing - recovery process of a wound through scar tissue formation"
+        },
+        {
+          "word": "apósito especializado",
+          "definition_es": "material avanzado diseñado para optimizar la curación de heridas",
+          "definition_en": "specialized dressing - advanced material designed to optimize wound healing"
+        },
+        {
+          "word": "evaluación preoperatoria",
+          "definition_es": "examen médico completo antes de una cirugía",
+          "definition_en": "preoperative evaluation - complete medical examination before surgery"
+        }
+      ],
+      "added_at": "2026-07-16T09:44:14.123431Z"
+    },
+    {
+      "id": "wound-research-20250716",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigadores Descubren el Factor Clave que Impide la Cicatrización de Úlceras Venosas",
+      "headline_en": "Researchers Uncover Key Driver of Nonhealing Venous Leg Ulcers",
+      "summary_es": "Un equipo de investigadores de la Universidad de Miami Miller School of Medicine ha identificado un factor fundamental que causa la falta de cicatrización en las úlceras venosas de las piernas. Este descubrimiento promete mejorar significativamente los tratamientos disponibles.",
+      "body_es": "Los investigadores de la Escuela de Medicina Miller de la Universidad de Miami han realizado un importante descubrimiento sobre las úlceras venosas de las piernas que no cicatrizan. Mediante estudios detallados, identificaron un conductor clave que impide la curación normal de estas lesiones. El equipo de investigación analizó los mecanismos biológicos y moleculares involucrados en la patología de estas úlceras crónicas. Descubrieron que ciertos factores específicos interfieren con la epitelización y la regeneración de tejido. Este hallazgo tiene implicaciones significativas para el desarrollo de nuevos tratamientos y apósitos más efectivos. Los profesionales de cuidado de heridas podrán utilizar esta información para mejorar sus protocolos clínicos. La investigación también sugiere que modificar este factor conductor podría acelerar la curación en pacientes con úlceras venosas resistentes al tratamiento convencional. Los resultados abren nuevas posibilidades terapéuticas para millones de pacientes con esta condición crónica.",
+      "body_en": "Researchers at the University of Miami Miller School of Medicine have made an important discovery about venous leg ulcers that do not heal. Through detailed studies, they identified a key driver that prevents normal healing of these wounds. The research team analyzed the biological and molecular mechanisms involved in the pathology of these chronic ulcers. They discovered that certain specific factors interfere with epithelialization and tissue regeneration. This finding has significant implications for the development of new treatments and more effective dressings. Wound care professionals will be able to use this information to improve their clinical protocols. The research also suggests that modifying this key driver could accelerate healing in patients with venous ulcers resistant to conventional treatment. The results open new therapeutic possibilities for millions of patients with this chronic condition.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kQTFRa1RHd04xQjBRZDMzWmhfS0hrVWpQZWF5NGxzX3RRRU5ONW1OVjFabWp0VnBhT1VnbmpSNXF4TUNzT21TTXRqNDU4R0hXY2JlZnhDbmdPclJxNEdyeUNHekpJODloYXNWWFlEWkx3QkFLMnBITk93?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-16/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera venosa",
+          "definition_es": "herida crónica causada por problemas de circulación venosa",
+          "definition_en": "venous ulcer - chronic wound caused by venous circulation problems"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de crecimiento de células epiteliales sobre la herida",
+          "definition_en": "epithelialization - process of epithelial cell growth over the wound"
+        },
+        {
+          "word": "regeneración de tejido",
+          "definition_es": "formación de tejido nuevo para reparar una herida",
+          "definition_en": "tissue regeneration - formation of new tissue to repair a wound"
+        },
+        {
+          "word": "factor conductor",
+          "definition_es": "elemento biológico que impulsa un proceso de enfermedad",
+          "definition_en": "key driver - biological element that drives a disease process"
+        }
+      ],
+      "added_at": "2026-07-16T09:44:14.123431Z"
+    },
     {
       "id": "chronic-wounds-20250715",
       "category": "Chronic Wounds",
@@ -31118,6 +31266,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-15T09:40:31.948813Z",
+  "last_updated": "2026-07-16T09:44:14.123431Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
