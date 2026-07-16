@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-16",
+      "filename": "spanish_lesson_2026-07-16.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-16.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Más de 100 demócratas votan para detener la ayuda militar a Israel",
+          "headline_en": "More than 100 Democrats vote to stop military aid to Israel",
+          "body_es": "En un cambio histórico, más de cien representantes demócratas en el Congreso de Estados Unidos votaron para detener la ayuda militar a Israel. Esta votación es muy importante porque muestra una división grande dentro del Partido Demócrata. Antes, casi todos los demócratas apoyaban la ayuda a Israel. Ahora, muchos representantes están en desacuerdo con la política del gobierno. La votación ocurrió en la Cámara de Representantes. Los representantes que votaron a favor del cambio dicen que están preocupados por la situación humanitaria en Gaza. Esta es una de las votaciones más significativas sobre la política exterior de Estados Unidos en muchos años. El resultado muestra que hay un debate serio dentro del partido sobre cómo responder al conflicto en el Medio Oriente. El gobierno de Biden había pedido continuar con la ayuda económica y militar a Israel.",
+          "body_en": "In a historic shift, more than one hundred Democratic representatives in the US Congress voted to stop military aid to Israel. This vote is very important because it shows a large division within the Democratic Party. Before, almost all Democrats supported aid to Israel. Now, many representatives disagree with the government's policy. The vote took place in the House of Representatives. The representatives who voted for the change say they are concerned about the humanitarian situation in Gaza. This is one of the most significant votes on US foreign policy in many years. The result shows there is a serious debate within the party about how to respond to the conflict in the Middle East. The Biden administration had asked to continue with economic and military aid to Israel.",
+          "source": "Politico"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los bancos de Wall Street dicen que los americanos siguen gastando dinero",
+          "headline_en": "Wall Street banks say Americans are still spending money",
+          "body_es": "Los grandes bancos de Wall Street tienen buenas noticias sobre la economía americana. Según estos bancos, los consumidores en Estados Unidos siguen siendo fuertes y resistentes. Esto significa que las personas continúan comprando productos y pidiendo préstamos a los bancos. El número de préstamos bancarios está creciendo. Esto es una señal positiva para la economía del país. Los bancos reportaron estos datos en sus informes financieros más recientes. Los expertos dicen que muchas personas temían una crisis económica, pero eso no ha pasado todavía. Los americanos siguen usando sus tarjetas de crédito y pidiendo dinero prestado para comprar casas y carros. Sin embargo, algunos economistas advierten que hay que tener cuidado. Las tasas de interés siguen siendo altas. Esto puede causar problemas económicos en el futuro. Por ahora, los bancos están contentos con los resultados y dicen que la economía está estable.",
+          "body_en": "The big banks on Wall Street have good news about the American economy. According to these banks, consumers in the United States continue to be strong and resilient. This means people are continuing to buy products and take out loans from banks. The number of bank loans is growing. This is a positive sign for the country's economy. The banks reported this data in their most recent financial reports. Experts say many people feared an economic crisis, but that has not happened yet. Americans continue to use their credit cards and borrow money to buy houses and cars. However, some economists warn that caution is needed. Interest rates remain high. This could cause economic problems in the future. For now, banks are happy with the results and say the economy is stable.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Estados Unidos adopta una postura más dura contra China en inteligencia artificial",
+          "headline_en": "The United States takes a harder stance against China in artificial intelligence",
+          "body_es": "El gobierno de Estados Unidos está tomando medidas más fuertes para limitar el acceso de China a la tecnología de inteligencia artificial. Esta decisión es parte de una competencia tecnológica importante entre los dos países. La empresa americana Anthropic, que crea sistemas de inteligencia artificial, pide al gobierno que mantenga la ventaja de Estados Unidos sobre China en este campo. Anthropic dice que es muy importante que América sea el líder mundial en inteligencia artificial. La inteligencia artificial es una tecnología muy poderosa que puede cambiar muchas industrias. Estados Unidos quiere asegurarse de que China no pueda acceder fácilmente a los mejores sistemas de inteligencia artificial. El gobierno está considerando nuevas reglas y restricciones para lograr este objetivo. La competencia entre Estados Unidos y China en tecnología es uno de los temas más importantes de la política internacional hoy en día. Muchos expertos dicen que el país que lidere en inteligencia artificial tendrá grandes ventajas económicas y militares.",
+          "body_en": "The US government is taking stronger measures to limit China's access to artificial intelligence technology. This decision is part of an important technological competition between the two countries. American company Anthropic, which creates artificial intelligence systems, is asking the government to maintain the United States' advantage over China in this field. Anthropic says it is very important that America be the world leader in artificial intelligence. Artificial intelligence is a very powerful technology that can change many industries. The United States wants to make sure that China cannot easily access the best artificial intelligence systems. The government is considering new rules and restrictions to achieve this goal. The competition between the United States and China in technology is one of the most important topics in international politics today. Many experts say that the country that leads in artificial intelligence will have great economic and military advantages.",
+          "source": "South China Morning Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "ayuda",
+          "syllables": "a-YU-da",
+          "pos": "sustantivo",
+          "context": "Más de cien demócratas votaron para terminar la ayuda a Israel.",
+          "definition_es": "Apoyo o asistencia que se da a alguien",
+          "definition_en": "Help or aid given to someone"
+        },
+        {
+          "word": "préstamo",
+          "syllables": "PRÉS-ta-mo",
+          "pos": "sustantivo",
+          "context": "El crecimiento de los préstamos bancarios indica que la economía está bien.",
+          "definition_es": "Dinero que un banco da a una persona y que hay que devolver",
+          "definition_en": "A loan; money given by a bank that must be repaid"
+        },
+        {
+          "word": "resistente",
+          "syllables": "re-sis-TEN-te",
+          "pos": "adjetivo",
+          "context": "Los bancos dicen que el consumidor americano es muy resistente.",
+          "definition_es": "Que puede soportar dificultades sin romperse o fallar",
+          "definition_en": "Resilient; able to withstand difficulties"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Estados Unidos quiere tener una posición más fuerte en inteligencia artificial.",
+          "definition_es": "Tecnología que permite a las máquinas pensar y aprender como humanos",
+          "definition_en": "Artificial intelligence; technology that allows machines to think and learn"
+        },
+        {
+          "word": "votar",
+          "syllables": "vo-TAR",
+          "pos": "verbo",
+          "context": "Los demócratas votaron para detener el dinero que va a Israel.",
+          "definition_es": "Expresar una opinión o decisión oficial en un proceso político",
+          "definition_en": "To vote; to formally express a political decision"
+        },
+        {
+          "word": "consumidor",
+          "syllables": "con-su-mi-DOR",
+          "pos": "sustantivo",
+          "context": "El consumidor americano sigue gastando dinero a pesar de los problemas económicos.",
+          "definition_es": "Persona que compra productos o servicios",
+          "definition_en": "Consumer; a person who buys products or services"
+        },
+        {
+          "word": "ventaja",
+          "syllables": "ven-TA-ja",
+          "pos": "sustantivo",
+          "context": "La empresa Anthropic quiere mantener la ventaja de Estados Unidos en tecnología.",
+          "definition_es": "Posición mejor o superior comparada con otros",
+          "definition_en": "Advantage; a superior position compared to others"
+        },
+        {
+          "word": "postura",
+          "syllables": "pos-TU-ra",
+          "pos": "sustantivo",
+          "context": "Estados Unidos tiene una postura más dura contra China en tecnología.",
+          "definition_es": "Actitud o posición oficial sobre un tema",
+          "definition_en": "Stance or position on an issue"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'préstamo'?",
+          "options": [
+            "Un regalo de dinero",
+            "Dinero que un banco da y que hay que devolver",
+            "El salario de un trabajador",
+            "El precio de un producto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "Si una persona es 'resistente', ¿qué significa?",
+          "options": [
+            "Que está muy cansada",
+            "Que tiene mucho dinero",
+            "Que puede soportar dificultades sin fallar",
+            "Que no quiere trabajar"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'ventaja' en el contexto de la competencia tecnológica?",
+          "options": [
+            "Un problema grave",
+            "Una posición mejor o superior comparada con otros",
+            "Un tipo de computadora",
+            "Un contrato de negocios"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'votar' en el contexto político?",
+          "options": [
+            "Hablar con el presidente",
+            "Escribir una ley nueva",
+            "Expresar una decisión oficial en un proceso político",
+            "Pagar impuestos al gobierno"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿cuántos demócratas votaron para detener la ayuda a Israel?",
+          "options": [
+            "Menos de cincuenta",
+            "Exactamente cincuenta",
+            "Más de cien",
+            "Todos los demócratas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de política, ¿por qué dicen que están preocupados los representantes que votaron a favor del cambio?",
+          "options": [
+            "Por la economía de Estados Unidos",
+            "Por la situación humanitaria en Gaza",
+            "Por las elecciones presidenciales",
+            "Por los precios del petróleo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de economía, ¿qué está creciendo en Estados Unidos?",
+          "options": [
+            "El número de desempleados",
+            "El precio de las casas",
+            "El número de préstamos bancarios",
+            "El número de empresas que cierran"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de economía, ¿qué advierten algunos economistas que puede causar problemas en el futuro?",
+          "options": [
+            "El precio alto de la gasolina",
+            "Las tasas de interés altas",
+            "La falta de trabajo",
+            "La deuda del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "En la historia de tecnología, ¿qué empresa pide al gobierno de Estados Unidos mantener la ventaja sobre China?",
+          "options": [
+            "Google",
+            "Microsoft",
+            "Anthropic",
+            "Apple"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿por qué es importante liderar en inteligencia artificial?",
+          "options": [
+            "Porque hace los teléfonos más baratos",
+            "Porque el país líder tendrá grandes ventajas económicas y militares",
+            "Porque ayuda a mejorar las escuelas",
+            "Porque reduce el precio de la energía"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-16T09:39:11.980420"
+    },
+    {
       "date": "2026-07-15",
       "filename": "spanish_lesson_2026-07-15.pdf",
       "path": "pdfs/spanish_lesson_2026-07-15.pdf",
@@ -46630,7 +46852,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-15T09:35:34.081749",
+  "last_updated": "2026-07-16T09:39:11.980446",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
