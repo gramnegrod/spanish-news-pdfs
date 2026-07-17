@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-17",
+      "filename": "spanish_lesson_2026-07-17.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-17.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "La votación sobre ayuda a Israel revela una gran división en el Congreso de EE.UU.",
+          "headline_en": "Vote on aid to Israel reveals a large divide in the U.S. Congress",
+          "body_es": "El Congreso de los Estados Unidos votó recientemente sobre el envío de ayuda militar a Israel. La votación mostró una división muy fuerte entre los congresistas. Algunos legisladores apoyaron la ayuda porque creen que Israel necesita protección. Otros congresistas votaron en contra porque están preocupados por las víctimas civiles en la región. Esta diferencia de opiniones existe tanto en el Partido Demócrata como en el Partido Republicano. Algunos miembros jóvenes del Congreso se opusieron firmemente a la ayuda. Ellos piensan que EE.UU. no debe enviar armas mientras hay tantas personas sufriendo. Los líderes del Congreso tuvieron dificultades para llegar a un acuerdo. Esta votación es una de las más difíciles y polémicas de los últimos años. El debate continúa y muestra las diferentes opiniones que existen dentro del gobierno estadounidense sobre la política exterior.",
+          "body_en": "The United States Congress recently voted on sending military aid to Israel. The vote showed a very strong divide among lawmakers. Some legislators supported the aid because they believe Israel needs protection. Other members of Congress voted against it because they are concerned about civilian victims in the region. This difference of opinion exists in both the Democratic Party and the Republican Party. Some younger members of Congress strongly opposed the aid. They think the U.S. should not send weapons while so many people are suffering. Congressional leaders had difficulty reaching an agreement. This vote is one of the most difficult and controversial in recent years. The debate continues and shows the different opinions within the U.S. government on foreign policy.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Las ventas al por menor subieron menos de lo esperado el mes pasado",
+          "headline_en": "Retail sales rose less than expected last month",
+          "body_es": "Las ventas al por menor en los Estados Unidos aumentaron el mes pasado, pero el aumento fue más pequeño de lo que los economistas esperaban. Las ventas al por menor incluyen los productos que la gente compra en tiendas y supermercados. Los expertos pensaban que las ventas iban a subir más. Sin embargo, los consumidores gastaron menos dinero de lo esperado. Esto puede ser una señal de que la economía está creciendo más lentamente. Muchas familias todavía sienten el impacto de los precios altos. La inflación ha hecho que los productos sean más caros en los últimos años. Por eso, algunas personas están gastando con más cuidado. Los analistas económicos están observando estos números con atención. Ellos quieren entender si los consumidores van a seguir gastando menos en los próximos meses. Este dato es importante para entender la salud de la economía estadounidense.",
+          "body_en": "Retail sales in the United States increased last month, but the increase was smaller than economists expected. Retail sales include the products that people buy in stores and supermarkets. Experts thought that sales were going to rise more. However, consumers spent less money than expected. This could be a sign that the economy is growing more slowly. Many families still feel the impact of high prices. Inflation has made products more expensive in recent years. Because of this, some people are spending more carefully. Economic analysts are watching these numbers closely. They want to understand if consumers will continue spending less in the coming months. This data is important for understanding the health of the U.S. economy.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El CEO de Microsoft dice que los laboratorios de IA están robando secretos de sus clientes",
+          "headline_en": "Microsoft CEO says AI labs are secretly stealing their customers' secrets",
+          "body_es": "Satya Nadella, el director ejecutivo de Microsoft, hizo una declaración muy importante sobre la inteligencia artificial. Nadella dijo que algunos laboratorios de IA están usando la información privada de sus clientes sin permiso. Según Nadella, estas empresas aprenden de los datos de sus clientes para mejorar sus propios sistemas. Esto significa que las empresas que usan estas herramientas de IA pueden perder sus secretos comerciales. Muchas compañías comparten información confidencial cuando usan programas de inteligencia artificial. Nadella cree que esto es un problema serio para los negocios. Microsoft quiere ser diferente y proteger la información de sus clientes. Esta noticia ha generado mucha preocupación en el mundo tecnológico. Las empresas ahora están pensando más cuidadosamente sobre qué información comparten con los sistemas de IA. Es un tema muy importante para el futuro de la tecnología y los negocios.",
+          "body_en": "Satya Nadella, the CEO of Microsoft, made a very important statement about artificial intelligence. Nadella said that some AI labs are using their customers' private information without permission. According to Nadella, these companies learn from their customers' data to improve their own systems. This means that companies that use these AI tools may lose their trade secrets. Many companies share confidential information when they use artificial intelligence programs. Nadella believes this is a serious problem for businesses. Microsoft wants to be different and protect its customers' information. This news has generated a lot of concern in the technology world. Companies are now thinking more carefully about what information they share with AI systems. It is a very important topic for the future of technology and business.",
+          "source": "Fortune"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "ayuda",
+          "syllables": "a-YU-da",
+          "pos": "sustantivo",
+          "context": "El Congreso votó sobre la ayuda de EE.UU. a Israel.",
+          "definition_es": "Apoyo o asistencia que se da a alguien",
+          "definition_en": "Help or assistance given to someone"
+        },
+        {
+          "word": "división",
+          "syllables": "di-vi-SIÓN",
+          "pos": "sustantivo",
+          "context": "La votación mostró una fuerte división en el Congreso.",
+          "definition_es": "Separación o desacuerdo entre personas o grupos",
+          "definition_en": "A split or disagreement between people or groups"
+        },
+        {
+          "word": "ventas",
+          "syllables": "VEN-tas",
+          "pos": "sustantivo",
+          "context": "Las ventas al por menor subieron menos de lo esperado.",
+          "definition_es": "El acto de vender productos o servicios a cambio de dinero",
+          "definition_en": "The act of selling products or services for money"
+        },
+        {
+          "word": "esperado",
+          "syllables": "es-pe-RA-do",
+          "pos": "adjetivo",
+          "context": "El aumento de ventas fue menor de lo esperado este mes.",
+          "definition_es": "Lo que se pensaba que iba a pasar",
+          "definition_en": "What was anticipated or predicted to happen"
+        },
+        {
+          "word": "robar",
+          "syllables": "ro-BAR",
+          "pos": "verbo",
+          "context": "Nadella dice que los laboratorios de IA están robando información de sus clientes.",
+          "definition_es": "Tomar algo de alguien sin permiso",
+          "definition_en": "To take something from someone without permission"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "El CEO de Microsoft habló sobre los peligros de la inteligencia artificial.",
+          "definition_es": "Tecnología que permite a las máquinas aprender y tomar decisiones",
+          "definition_en": "Technology that allows machines to learn and make decisions"
+        },
+        {
+          "word": "congresistas",
+          "syllables": "con-gre-SIS-tas",
+          "pos": "sustantivo",
+          "context": "Muchos congresistas no estuvieron de acuerdo sobre la ayuda a Israel.",
+          "definition_es": "Personas que trabajan en el Congreso y hacen las leyes",
+          "definition_en": "Members of Congress who make laws"
+        },
+        {
+          "word": "minorista",
+          "syllables": "mi-no-RIS-ta",
+          "pos": "adjetivo",
+          "context": "El sector minorista registró un aumento pequeño en las ventas.",
+          "definition_es": "Relacionado con la venta de productos directamente al consumidor",
+          "definition_en": "Related to selling products directly to consumers"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'ayuda' en español?",
+          "options": [
+            "A) Ataque o agresión",
+            "B) Apoyo o asistencia",
+            "C) Votación o elección",
+            "D) División o conflicto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'ventas' en el contexto de la economía?",
+          "options": [
+            "A) Compras de productos en el extranjero",
+            "B) Impuestos que paga la gente",
+            "C) El acto de vender productos a cambio de dinero",
+            "D) Los precios en los supermercados"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "En la historia de tecnología, ¿qué significa 'robar' en este contexto?",
+          "options": [
+            "A) Comprar información legalmente",
+            "B) Tomar información sin permiso",
+            "C) Compartir datos con clientes",
+            "D) Crear nuevos programas de computadora"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué palabra describe algo que fue anticipado o predicho que iba a ocurrir?",
+          "options": [
+            "A) Minorista",
+            "B) División",
+            "C) Esperado",
+            "D) Congresista"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿sobre qué votó el Congreso de EE.UU.?",
+          "options": [
+            "A) Sobre una nueva ley de tecnología",
+            "B) Sobre el envío de ayuda militar a Israel",
+            "C) Sobre los precios en los supermercados",
+            "D) Sobre el uso de inteligencia artificial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de política, ¿por qué algunos congresistas votaron en contra de la ayuda a Israel?",
+          "options": [
+            "A) Porque Israel es un país rico",
+            "B) Porque no tienen dinero en el presupuesto",
+            "C) Porque están preocupados por las víctimas civiles",
+            "D) Porque prefieren ayudar a otros países"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de economía, ¿cómo fueron las ventas al por menor el mes pasado?",
+          "options": [
+            "A) Subieron más de lo esperado",
+            "B) Bajaron mucho",
+            "C) Se mantuvieron iguales",
+            "D) Subieron menos de lo esperado"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de economía, ¿cuál es una razón por la que los consumidores gastaron menos dinero?",
+          "options": [
+            "A) Porque no hay productos en las tiendas",
+            "B) Porque la inflación ha hecho los productos más caros",
+            "C) Porque el gobierno prohibió las compras",
+            "D) Porque las tiendas están cerradas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿quién es Satya Nadella?",
+          "options": [
+            "A) El presidente de los Estados Unidos",
+            "B) Un científico que estudia la IA",
+            "C) El director ejecutivo de Microsoft",
+            "D) Un congresista que habla de tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "En la historia de tecnología, ¿qué dice Nadella que hacen algunos laboratorios de IA con los datos de sus clientes?",
+          "options": [
+            "A) Los protegen con mucha seguridad",
+            "B) Los eliminan después de usarlos",
+            "C) Los comparten con el gobierno",
+            "D) Los usan sin permiso para mejorar sus propios sistemas"
+          ],
+          "answer": "D"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-17T09:32:56.594644"
+    },
+    {
       "date": "2026-07-16",
       "filename": "spanish_lesson_2026-07-16.pdf",
       "path": "pdfs/spanish_lesson_2026-07-16.pdf",
@@ -46852,7 +47074,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-16T09:39:11.980446",
+  "last_updated": "2026-07-17T09:32:56.594678",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
