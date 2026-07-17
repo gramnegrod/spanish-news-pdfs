@@ -1,11 +1,196 @@
 {
-  "date": "2026-07-16",
-  "generated_at": "2026-07-16T09:44:14.123431Z",
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T09:37:57.325821Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 845,
-  "new_today": 4,
+  "total_stories": 850,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250717",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo tratamiento con oxígeno para heridas en las piernas",
+      "headline_en": "New Oxygen Treatment for Leg Wounds",
+      "summary_es": "Un nuevo tratamiento con oxígeno tópico cíclico ayuda a curar heridas venosas en las piernas de pacientes con diabetes. Este método es seguro y efectivo.",
+      "body_es": "Un nuevo tratamiento llamado terapia de oxígeno tópico cíclico es muy útil para las heridas en las piernas. Este tratamiento funciona bien en pacientes con diabetes que tienen heridas causadas por traumatismos. El oxígeno ayuda a la piel a sanar más rápido. Los médicos aplican el oxígeno directamente en la herida. El proceso es seguro y no causa dolor. Los pacientes con heridas venosas ven buenos resultados. La curación es más rápida con este tratamiento. Los doctores recomiendan este método para heridas difíciles. Es una opción importante para prevenir problemas más graves. Muchos centros de salud ahora usan esta técnica.",
+      "body_en": "A new treatment called cyclical topical oxygen therapy is very helpful for leg wounds. This treatment works well in diabetic patients who have trauma-induced wounds. Oxygen helps the skin heal faster. Doctors apply oxygen directly to the wound. The process is safe and causes no pain. Patients with venous wounds see good results. Healing is faster with this treatment. Doctors recommend this method for difficult wounds. It is an important option to prevent more serious complications. Many healthcare centers now use this technique.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUkpRekFMMWluME1TYkpGODRMZjIyR19Qd1pVaUZHdktpNUFJZWtETEhXMnNBcTBUbGhYMjhzc3JoTzFSQU90dF94V19uMVRNbjhFemdqZ2g4c3NMUHUyamxsLWJqNll1Y1drWUJTY0E3cS02cnZIdzRDN2hoMTd3UFdLdUgyUHBWaklkSGhYbFp6RjlVNnRCNV83dlpOek1ZXzRmMTc1R1VMRHF0TkllV05PZmFYUTFFdm0xRnNYblJMaFVlaVFrMmJtb2VhWmtiTjhJ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-17/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel causada por trauma o enfermedad",
+          "definition_en": "wound - injury to the skin caused by trauma or disease"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de recuperación y cicatrización de una lesión",
+          "definition_en": "healing - process of recovery and scarring of an injury"
+        },
+        {
+          "word": "oxígeno",
+          "definition_es": "gas esencial que ayuda a los tejidos a sanar",
+          "definition_en": "oxygen - essential gas that helps tissues heal"
+        },
+        {
+          "word": "diabetes",
+          "definition_es": "enfermedad que afecta el control del azúcar en la sangre",
+          "definition_en": "diabetes - disease that affects blood sugar control"
+        }
+      ],
+      "added_at": "2026-07-17T09:37:57.325821Z"
+    },
+    {
+      "id": "diabetic-foot-20250717",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Prevención de amputación: Guía completa para pacientes diabéticos",
+      "headline_en": "Amputation Prevention: Complete Guide for Diabetic Patients",
+      "summary_es": "Un médico especialista explica cómo los pacientes con diabetes pueden prevenir la amputación del pie mediante cuidados regulares y detección temprana de problemas.",
+      "body_es": "Los médicos enfatizan que la prevención es fundamental para evitar la amputación del pie en pacientes diabéticos. La diabetes afecta la circulación sanguínea y la sensibilidad de los pies, lo que aumenta el riesgo de úlceras y lesiones graves. Los pacientes deben inspeccionar sus pies diariamente para detectar cambios, enrojecimiento o úlceras pequeñas. El control del azúcar en la sangre es esencial para mantener la salud de los tejidos. Se recomienda usar zapatos cómodos y protectores para evitar lesiones. Los profesionales de la salud aconsejan visitas regulares al podólogo y al especialista en heridas. El desbridamiento temprano de úlceras infectadas puede prevenir complicaciones graves. La educación del paciente y la detección temprana son las mejores estrategias para proteger los pies. Con cuidados apropiados, se pueden evitar amputaciones innecesarias.",
+      "body_en": "Doctors emphasize that prevention is essential to avoid foot amputation in diabetic patients. Diabetes affects blood circulation and foot sensitivity, increasing the risk of ulcers and serious injuries. Patients should inspect their feet daily to detect changes, redness, or small ulcers. Blood sugar control is essential for maintaining tissue health. Comfortable and protective shoes are recommended to prevent injuries. Healthcare professionals advise regular visits to podiatrists and wound care specialists. Early debridement of infected ulcers can prevent serious complications. Patient education and early detection are the best strategies to protect the feet. With appropriate care, unnecessary amputations can be prevented.",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNalNFUmFyRGtvaTdRMVBYZWlReG1nZnNwY0loWFhTOEJZeUJaczRhOHV0VWlFRGljVlRlakRFcktiRE1lYUZ0LXlsamV0bE5nZ1ZOS1p3ZEVfeUNfQ1FVS2ozelRyZENQZTlabUV6RTA0a0h2Q09KdnFMb0tYNWtYREtuRm90dGcxdENDNkdRYw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-17/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza normalmente",
+          "definition_en": "ulcer - open wound on the skin that does not heal normally"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto o infectado de una herida",
+          "definition_en": "debridement - removal of dead or infected tissue from a wound"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de la sangre a través del cuerpo",
+          "definition_en": "circulation - movement of blood through the body"
+        }
+      ],
+      "added_at": "2026-07-17T09:37:57.325821Z"
+    },
+    {
+      "id": "burn-care-20250717",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Centro avanzado de gestión de heridas: Atención de calidad para quemaduras",
+      "headline_en": "Advanced Wound Management Center: Quality Care for Burns",
+      "summary_es": "Un nuevo centro especializado en tratamiento de heridas complejas, incluyendo quemaduras, abre sus puertas con tecnología moderna y equipo médico especializado.",
+      "body_es": "El Centro Avanzado de Gestión de Heridas ofrece tratamiento integral para quemaduras y heridas complejas. Este centro cuenta con profesionales especializados en cuidado de quemaduras que utilizan técnicas modernas de curación. El equipo médico está capacitado para manejar diferentes tipos y grados de quemaduras, desde superficiales hasta profundas. Los pacientes reciben evaluaciones completas que incluyen medición de la extensión de la quemadura y evaluación del riesgo de infección. El centro ofrece diferentes tipos de apósitos especializados que protegen la quemadura y aceleran la cicatrización. Se utilizan procedimientos de desbridamiento para eliminar el tejido dañado. El manejo del dolor es una prioridad importante en el tratamiento de pacientes quemados. Los profesionales también proporcionan educación sobre el cuidado en el hogar después del alta médica. Esta instalación representa un avance significativo en la calidad de atención para pacientes con heridas graves.",
+      "body_en": "The Advanced Wound Management Center offers comprehensive treatment for burns and complex wounds. This center has professionals specialized in burn care who use modern healing techniques. The medical team is trained to handle different types and degrees of burns, from superficial to deep. Patients receive complete evaluations that include measurement of burn extension and infection risk assessment. The center offers different types of specialized dressings that protect the burn and accelerate healing. Debridement procedures are used to remove damaged tissue. Pain management is an important priority in the treatment of burn patients. Professionals also provide education about home care after discharge. This facility represents a significant advance in the quality of care for patients with serious wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaXRZWlNlSHJJdWdCaGtVSmVreEw1OEtYQjJXbDJqSTVGM1g1R2JWNG84UmVlbHJoZTVYTVdNbXl5WGVUXzZxRU9aTF9qeW9PWG1pSDlZZkxXWDB4Y2pDbWpkQjZqeTVIQ1lmalFwVWRtNzJyS0xYdmNlNm1hY1hJTGhsWWU1M1hwUVpGMXVYazNrUDhHWE9HTU5ES2I5R3E0WFpUOS1oY3dTVDNndV8xclNlQl9tbm9JX0xjNG9YMjJyVWRGbEpVOGhIY3gzZWR4RmlZUzA3TzFtbGJWRkZiTVFoZWhuZlZsWHQyN01oRFZsdnlYZHFCS3ln0gH6AUFVX3lxTE9pdFlaU2VIckl1Z0Joa1VKZWt4TDU4S1hCMldsMmpJNUYzWDVHYlY0bzhSZWVscmhlNVhNV01teXlYZVRfNnFFT1pMX2p5b09YbWlIOVlmTFdYMHhjakNtamRCNmp5NUhDWWZqUXBVZG03MnJLTFh2Y2U2bWFjWElMaGxZZTUzWHBRWkYxdVhrM2tQOEdYT0dNTkRLYjlHcTRYWlQ5LWhjd1NUM2d1XzFyU2VCX21ub0lfTGM0b1gyMnJVZEZsSlU4aEhjeDNlZHhGaVlTXzdPMW1sYlZGRmJNUWhlaG5mVmxYdDI3TWhEVmx2eVhkcUJLeWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-17/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material medicinal que se aplica directamente sobre una herida",
+          "definition_en": "dressing - medicinal material applied directly to a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo después de una lesión",
+          "definition_en": "scarring - process of new tissue formation after injury"
+        },
+        {
+          "word": "especializado",
+          "definition_es": "entrenado específicamente en un área particular de la medicina",
+          "definition_en": "specialized - specifically trained in a particular area of medicine"
+        }
+      ],
+      "added_at": "2026-07-17T09:37:57.325821Z"
+    },
+    {
+      "id": "surgical-wounds-20250717",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Cuidados postoperatorios: Qué esperar después de la cirugía",
+      "headline_en": "Postoperative Care: What to Expect After Surgery",
+      "summary_es": "Los profesionales de la salud explican los pasos importantes del cuidado postoperatorio para asegurar una buena recuperación y prevenir complicaciones.",
+      "body_es": "Después de una cirugía, el cuidado de la herida quirúrgica es esencial para la recuperación adecuada. Los pacientes deben mantener el área quirúrgica limpia y seca durante los primeros días. Las suturas o grapas se retiran generalmente entre siete y catorce días después de la operación, dependiendo del tipo de cirugía. Es importante inspeccionar la herida regularmente para detectar signos de infección como enrojecimiento, calor, hinchazón o drenaje anormal. Los pacientes deben seguir las instrucciones del cirujano respecto a los cambios de vendaje y la aplicación de medicamentos tópicos. Se recomienda evitar actividades físicas que puedan estirar la herida durante el período de cicatrización. El dolor postoperatorio es normal, pero debe disminuir gradualmente cada día. Los pacientes deben reportar inmediatamente cualquier signo de complicación como fiebre o separación de la herida. Una buena nutrición y descanso adecuado favorecen la cicatrización rápida.",
+      "body_en": "After surgery, caring for the surgical wound is essential for proper recovery. Patients must keep the surgical area clean and dry for the first few days. Stitches or staples are usually removed between seven and fourteen days after surgery, depending on the type of procedure. It is important to inspect the wound regularly to detect signs of infection such as redness, warmth, swelling, or abnormal drainage. Patients should follow the surgeon's instructions regarding dressing changes and application of topical medications. It is recommended to avoid physical activities that may stretch the wound during the healing period. Postoperative pain is normal but should decrease gradually each day. Patients should immediately report any signs of complications such as fever or wound separation. Good nutrition and adequate rest promote rapid healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcG9IbG1VOExqMGFUcmFHTlFucDFiVjMwV0d4SlhqM09ObHJRVHhwazV6clNFSEozMHhEdXVQY2FLS1lNU2V4MGdVLXBKdUROaENFZEVEakRNdWhacjNZNF9NVk1SVzFwaVZ2TGdFOGRMcG5kZEk3YmZWdHhNM2dHYkFvSmJuMEJLZlRXZ2x0T2JZSVV3N3U5WFBDcmlfOTJxcnBrby1wdVVnZml0?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-17/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "sutura",
+          "definition_es": "hilo o material utilizado para cerrar una herida quirúrgica",
+          "definition_en": "suture - thread or material used to close a surgical wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión y multiplicación de microorganismos dañinos en una herida",
+          "definition_en": "infection - invasion and multiplication of harmful microorganisms in a wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de recuperación y curación de una herida",
+          "definition_en": "healing - natural process of recovery and wound healing"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material protector colocado sobre una herida para cubrirla y protegerla",
+          "definition_en": "dressing - protective material placed over a wound to cover and protect it"
+        }
+      ],
+      "added_at": "2026-07-17T09:37:57.325821Z"
+    },
+    {
+      "id": "wound-research-20250717",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "El melanoma: Un modelo para innovación científica en medicina",
+      "headline_en": "Melanoma: A Model for Scientific Innovation in Medicine",
+      "summary_es": "Investigadores de Penn Medicine utilizan estudios de melanoma para desarrollar nuevas estrategias de tratamiento y mejorar la comprensión de enfermedades de la piel.",
+      "body_es": "Los investigadores de la Universidad de Pennsylvania están utilizando el melanoma como modelo para avanzar en innovación científica y desarrollo de tratamientos. El estudio del melanoma ha permitido entender mejor cómo las células cancerosas se desarrollan y se propagan en la piel. Estos conocimientos son aplicables no solo al tratamiento del cáncer de piel, sino también a otras enfermedades dermatológicas y de heridas. Los científicos investigan cómo mejorar la respuesta inmunológica del cuerpo contra las células malignas. La investigación incluye el desarrollo de nuevos fármacos y terapias que pueden acelerar la cicatrización y prevenir complicaciones. Los estudios también examinan cómo factores ambientales y genéticos influyen en la salud de la piel. Estos avances contribuyen a mejorar el cuidado de heridas complejas y lesiones graves. La innovación en el tratamiento del melanoma abre nuevas posibilidades para otras condiciones de la piel. Penn Medicine continúa liderando investigaciones que transforman la práctica clínica.",
+      "body_en": "Researchers at the University of Pennsylvania are using melanoma as a model to advance scientific innovation and treatment development. The study of melanoma has allowed for a better understanding of how cancer cells develop and spread in the skin. This knowledge is applicable not only to skin cancer treatment but also to other dermatological and wound diseases. Scientists investigate how to improve the body's immune response against malignant cells. Research includes the development of new drugs and therapies that can accelerate healing and prevent complications. Studies also examine how environmental and genetic factors influence skin health. These advances contribute to improved care of complex wounds and serious injuries. Innovation in melanoma treatment opens new possibilities for other skin conditions. Penn Medicine continues to lead research that transforms clinical practice.",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2NvVlRYODIzRE9jRnFDR1psUVdyWVExOUJKbkJvXzJlb2ZwNkRtQXVXR2RsMzJRMDB3bXFIYjJxVzNCX19hSTBtSW9vTEd0b1hDdUJudHQwYXBjUktSR1JiTW8zS1BRek1XS2ZSTmNfM19Dd1ZDa0t0amZTY0JYRVdHSnVjN2l4S0I2V3A5M3hBa2tFcUMwMUNwTnNPUmlaRVY0NEpJQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-17/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "melanoma",
+          "definition_es": "tipo de cáncer de piel que surge de las células productoras de pigmento",
+          "definition_en": "melanoma - type of skin cancer that arises from pigment-producing cells"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de curación y renovación de tejidos dañados",
+          "definition_en": "healing - biological process of repair and renewal of damaged tissues"
+        },
+        {
+          "word": "inmunológico",
+          "definition_es": "relacionado con la capacidad del cuerpo para defenderse de enfermedades",
+          "definition_en": "immune - related to the body's ability to defend against disease"
+        },
+        {
+          "word": "investigación",
+          "definition_es": "estudio científico sistémico para descubrir nuevos conocimientos",
+          "definition_en": "research - systematic scientific study to discover new knowledge"
+        }
+      ],
+      "added_at": "2026-07-17T09:37:57.325821Z"
+    },
     {
       "id": "chronic-wounds-20250716",
       "category": "Chronic Wounds",
@@ -31266,6 +31451,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-16T09:44:14.123431Z",
+  "last_updated": "2026-07-17T09:37:57.325821Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
