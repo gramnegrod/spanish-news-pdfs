@@ -1,11 +1,159 @@
 {
-  "date": "2026-07-19",
-  "generated_at": "2026-07-19T09:38:09.114346Z",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:06:35.832108Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 860,
-  "new_today": 5,
+  "total_stories": 864,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20260720",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo vendaje con cúrcuma ayuda a sanar heridas",
+      "headline_en": "New curcumin dressing helps heal wounds",
+      "summary_es": "Los científicos crean un vendaje especial con cúrcuma para tratar heridas crónicas. Este vendaje nuevo detiene las bacterias y ayuda a la curación.",
+      "body_es": "Un equipo de investigadores ha desarrollado un vendaje innovador para heridas crónicas. El vendaje contiene cúrcuma, una sustancia natural con propiedades antibacterianas. Los científicos usan tres materiales diferentes: hidroxipropil metilcelulosa, celulosa etílica y polivinilpirrolidona. Estos materiales crean un vendaje fuerte y flexible. El vendaje protege la herida de las bacterias. También ayuda al cuerpo a sanar más rápido. Los investigadores probaron el vendaje en el laboratorio. Los resultados fueron muy positivos. La cúrcuma mata las bacterias que causan infecciones. Este nuevo vendaje es prometedor para pacientes con heridas difíciles de sanar.",
+      "body_en": "A team of researchers has developed an innovative dressing for chronic wounds. The dressing contains curcumin, a natural substance with antibacterial properties. Scientists use three different materials: hydroxypropyl methylcellulose, ethyl cellulose, and polyvinylpyrrolidone. These materials create a strong and flexible dressing. The dressing protects the wound from bacteria. It also helps the body heal faster. Researchers tested the dressing in the laboratory. The results were very positive. Curcumin kills bacteria that cause infections. This new dressing is promising for patients with difficult-to-heal wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfcmtrVWFOeEVHR3dXdTl3azAzRWNveG9sNDF1MzBBWl8xZ0VRUDZRQ0tHSHdFUjh2Q2MxLURsTlpRQ2NndHF3MzRKQ19jaV9fY3lSS0VDUVU3QlJUdjZJ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-20/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "herida que tarda mucho tiempo en sanar",
+          "definition_en": "chronic wound - wound that takes a long time to heal"
+        },
+        {
+          "word": "bacterias",
+          "definition_es": "microorganismos que pueden causar infecciones",
+          "definition_en": "bacteria - microorganisms that can cause infections"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        }
+      ],
+      "added_at": "2026-07-20T10:06:35.832108Z"
+    },
+    {
+      "id": "diabetic-foot-20260720",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "indigo",
+      "headline_es": "Nuevas estrategias previenen amputaciones en pacientes diabéticos",
+      "headline_en": "New strategies prevent amputations in diabetic patients",
+      "summary_es": "Los médicos están implementando nuevas técnicas para prevenir las amputaciones en pacientes con pie diabético. La detección temprana y el tratamiento agresivo son clave para salvar las extremidades.",
+      "body_es": "Los doctores han desarrollado guías comprensivas para prevenir amputaciones en pacientes con diabetes. La prevención comienza con una evaluación cuidadosa del pie diabético cada mes. Los profesionales sanitarios deben revisar la sensibilidad, la circulación y la integridad de la piel. Los pacientes diabéticos tienen mayor riesgo de úlceras en los pies debido a la neuropatía y la mala circulación. Si se detecta una úlcera temprano, el tratamiento agresivo con desbridamiento y antibióticos puede prevenir la infección. El control de la glucosa es fundamental para la curación. Los médicos recomiendan el uso de calzado especial y la evaluación regular. Las estadísticas muestran que la detección temprana reduce significativamente las complicaciones severas. El cuidado preventivo es más efectivo y menos costoso que la amputación.",
+      "body_en": "Doctors have developed comprehensive guides to prevent amputations in diabetic patients. Prevention begins with careful evaluation of the diabetic foot every month. Healthcare professionals must review sensitivity, circulation, and skin integrity. Diabetic patients have a higher risk of foot ulcers due to neuropathy and poor circulation. If an ulcer is detected early, aggressive treatment with debridement and antibiotics can prevent infection. Glucose control is fundamental for healing. Doctors recommend using special footwear and regular evaluation. Statistics show that early detection significantly reduces severe complications. Preventive care is more effective and less costly than amputation.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2tFLVJPMWRJa0pEX1BQdXZrdDVSeUZzZnh6MEdjRjZqUUlWNmhOdEM2b2RVVHNDN1oyUUxDbTlyMmFpbl80YjJoU1libkdXaGZseGFYaXVwazhtWXd6eG1qbzVDZTJsLUhTbHExb2JUNm1zdUM5SW5hakRxSTltUjh5UE5WOS12eDh1dVItWlFmRTlUWlNB0gGcAUFVX3lxTFBMc2FuTXZIUDRtRUNDUGYyVnZKRlNYiktGMUVqVWFTdTVBTmhMQmJ4LWxpTFhpZEY0dXlGUGtXMnB5TV8yb3ZYZFlVQVpwYzBpc09KMEtzLWcwS0pkbThlcGU1Q1RBazFramtKcURaalpUb0x5MG1LTEpaVmFxYnFFUmxXTkZSQUFOSVpzWVFyeEgyaDZzUEtBaFRJOQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-20/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "lesión abierta en el pie causada por la diabetes",
+          "definition_en": "diabetic foot ulcer - open sore on the foot caused by diabetes"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación del tejido necrótico o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "neuropatía",
+          "definition_es": "daño a los nervios que causa pérdida de sensación",
+          "definition_en": "neuropathy - nerve damage causing loss of sensation"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-07-20T10:06:35.832108Z"
+    },
+    {
+      "id": "burn-care-20260720",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Centro avanzado de quemaduras abre nuevo departamento de cuidados de heridas",
+      "headline_en": "Advanced burn center opens new wound care department",
+      "summary_es": "El hospital CHA Hollywood Presbyterian Medical Center ha inaugurado un nuevo centro para el manejo avanzado de quemaduras y heridas complejas. El centro ofrece tratamientos innovadores para pacientes con lesiones graves.",
+      "body_es": "El Centro Médico Presbiteriano Hollywood CHA ha abierto recientemente un departamento especializado en el manejo avanzado de heridas y quemaduras. El nuevo centro cuenta con tecnología de última generación para tratar a pacientes con lesiones complejas. El equipo multidisciplinario incluye cirujanos especializados, enfermeras de cuidado de heridas y terapeutas. El centro ofrece tratamientos para quemaduras de diferentes grados, úlceras crónicas y heridas quirúrgicas complicadas. Los pacientes reciben evaluaciones integrales que incluyen medición del exudado, evaluación de la granulación y planificación del desbridamiento. El hospital utiliza apósitos avanzados y técnicas de reconstrucción de tejidos. El personal está capacitado en protocolos modernos de curación y prevención de infecciones. Este nuevo centro mejorará significativamente los resultados clínicos para pacientes con quemaduras graves.",
+      "body_en": "CHA Hollywood Presbyterian Medical Center has recently opened a specialized department for advanced wound and burn management. The new center features state-of-the-art technology to treat patients with complex injuries. The multidisciplinary team includes specialized surgeons, wound care nurses, and therapists. The center offers treatment for burns of different degrees, chronic ulcers, and complicated surgical wounds. Patients receive comprehensive evaluations that include exudate measurement, granulation assessment, and debridement planning. The hospital uses advanced dressings and tissue reconstruction techniques. Staff are trained in modern healing protocols and infection prevention. This new center will significantly improve clinical outcomes for patients with severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONk93U3lsLTZfYW1JQ0cwNENMejlXc1hlTy1kSm1ENW1VRjAwekJjNGZCeV81OXgwN2xrYnhDeGw5bWxWZndFcTVzOE9oRnY2bF84bW1RVlc4bkkxQWdOeENiOXlrYVp4dUdsNGkybk1kVWFuWlRCOGhkS1lzdExYWnZNbXZYMmUyWm1GYUdaaGEtMHNUSi1NTTRvaVFGSUhyR0VZZmRldWx0X2gwQmZvM092N2p2SnYwdmJQTXhFLU0wSlJHYndrV1ZGRUR5Y0wydmZLZW4xQzhvdE9hYUdvQ3l4SnNVNUpyMHdlVk1xUnNPbExE0gH6AUFVX3lxTE9pdFlaU2VIckl1Z0Joa1VKZWt4TDU4S1hCMldsMmpJNUYzWDVHYlY0bzhSZWVscmhlNVhNV01teXlYZVRfNnFFT1pMX2p5b09YbWlIOVlmTFdYMHhjakNtamRCNmp5NUhDWWZqUXBVZG03MnJLTFh2Y2U2bWFjWElMaGxZZTUzWHBRWkYxdVhrM2tQOEdYT0dNTkRLYjlHcTRYWlQ5LWhjd1NUM2d1XzFyU2VCX21ub0lfTGM0b1gyMnJVZEZsSlU4aEhjeDNlZHhGaVlTXzdPMW1sYlZGRmJNUWhlaG5mVmxYdDI3TWhEVmx2eVhkcUJLeWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-20/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por fuego, calor o sustancias químicas",
+          "definition_en": "burn - injury caused by fire, heat, or chemical substances"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that drains from a wound"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido nuevo que se forma durante la curación",
+          "definition_en": "granulation - new tissue that forms during healing"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material para cubrir y tratar una herida",
+          "definition_en": "dressing - material to cover and treat a wound"
+        }
+      ],
+      "added_at": "2026-07-20T10:06:35.832108Z"
+    },
+    {
+      "id": "surgical-wounds-20260720",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "emerald",
+      "headline_es": "Técnicas innovadoras reducen infecciones después de la cirugía",
+      "headline_en": "Innovative techniques reduce infections after surgery",
+      "summary_es": "Nuevas investigaciones comparan métodos de cierre quirúrgico para prevenir infecciones después de la laparotomía. La técnica del bucle vascular muestra resultados prometedores versus el cierre tradicional.",
+      "body_es": "Un estudio reciente ha comparado dos técnicas diferentes para cerrar heridas quirúrgicas después de una laparotomía en cirugía general. La técnica tradicional de cierre de piel ha sido utilizada durante décadas, pero los investigadores están evaluando una técnica alternativa llamada bucle vascular. La técnica del bucle vascular utiliza un material especial para mantener los bordes de la herida alineados correctamente. Los estudios muestran que esta técnica puede reducir significativamente las infecciones del sitio quirúrgico. La prevención de infecciones es crítica porque las infecciones quirúrgicas aumentan la estancia hospitalaria y los costos. Los cirujanos observaron que el bucle vascular mejora la tensión uniforme en los bordes de la herida. La técnica también reduce la formación de cicatrices y mejora la curación. Los resultados de esta investigación pueden cambiar los protocolos estándar en cirugía general.",
+      "body_en": "A recent study has compared two different techniques for closing surgical wounds after laparotomy in general surgery. The traditional skin closure technique has been used for decades, but researchers are evaluating an alternative technique called the vessel loop technique. The vessel loop technique uses a special material to keep the wound edges correctly aligned. Studies show that this technique can significantly reduce surgical site infections. Prevention of infections is critical because surgical infections increase hospital stays and costs. Surgeons observed that the vessel loop improves uniform tension on wound edges. The technique also reduces scar formation and improves healing. The results of this research may change standard protocols in general surgery.",
+      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONjJYM3czekVSTUR0T0pxSTV4UzRXTHFMOHFuV1dIT053RnE4QThmTi1OT0tBRjhpY2dNNnRXblhFUWtyWnEyWldzM1N6ZWF2eTRaVXNfUi1XODVCQ2R1ZnNSNnhhaUhreDI4ajNjdlBZNlA5MkVXMDZ5cTl0VEtqeW84Y21rcVMwZVU0X3JzOEVLMGtrUGY0WlVxVE1Ld05aRnBlOHMtZGVFcFJobWdpcVhFcmR2WEhHQkgxYWFHSUxmRS1VakJRRW8zdm9PN1I2RE1vQ1EzTTJET212ekZkQ1hBdzQzbVVVSDlsdS1JdThzcXk3dDg3Mjh6azZ0ZGxqSDZMVTFTUG1qRF92Y0VlLURIams0SW1yRUJJUUpXdU5fdw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-20/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "laparotomía",
+          "definition_es": "incisión quirúrgica del abdomen",
+          "definition_en": "laparotomy - surgical incision of the abdomen"
+        },
+        {
+          "word": "infección del sitio quirúrgico",
+          "definition_es": "infección que ocurre después de una operación",
+          "definition_en": "surgical site infection - infection that occurs after surgery"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo médico usado para cerrar heridas",
+          "definition_en": "suture - medical thread used to close wounds"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida",
+          "definition_en": "scar - mark that remains after a wound heals"
+        }
+      ],
+      "added_at": "2026-07-20T10:06:35.832108Z"
+    },
     {
       "id": "chronic-wounds-20250719",
       "category": "Chronic Wounds",
@@ -31821,6 +31969,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-19T09:38:09.114346Z",
+  "last_updated": "2026-07-20T10:06:35.832108Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
