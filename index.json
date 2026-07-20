@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-20",
+      "filename": "spanish_lesson_2026-07-20.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-20.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso quiere cambiar FEMA mientras Trump debate el futuro de la ayuda en desastres",
+          "headline_en": "Congress wants to change FEMA while Trump debates the future of disaster relief",
+          "body_es": "En Estados Unidos, el presidente Trump está considerando cambios importantes en cómo el gobierno ayuda a las víctimas de desastres naturales. La agencia federal llamada FEMA es responsable de coordinar esta ayuda. Ahora, el Congreso también quiere reformar esta agencia. Algunos políticos piensan que FEMA no funciona bien. Creen que los estados deberían tener más control sobre el dinero para emergencias. Otros legisladores están preocupados porque los desastres naturales son cada vez más frecuentes en el país. Huracanes, inundaciones e incendios afectan a millones de personas cada año. El debate es importante porque muchas comunidades dependen de la ayuda federal después de un desastre. Sin esta ayuda, las familias no pueden reconstruir sus casas ni sus vidas. El Congreso necesita encontrar una solución que funcione para todos los americanos que sufren después de un desastre natural.",
+          "body_en": "In the United States, President Trump is considering important changes to how the government helps victims of natural disasters. The federal agency called FEMA is responsible for coordinating this help. Now, Congress also wants to reform this agency. Some politicians think FEMA does not work well. They believe states should have more control over emergency funds. Other lawmakers are worried because natural disasters are becoming more frequent in the country. Hurricanes, floods, and fires affect millions of people every year. The debate is important because many communities depend on federal help after a disaster. Without this help, families cannot rebuild their homes or their lives. Congress needs to find a solution that works for all Americans who suffer after a natural disaster.",
+          "source": "NJ Spotlight News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El desempleo en EE.UU. alcanza un nuevo récord: la situación es peor de lo que dicen los datos oficiales",
+          "headline_en": "Unemployment in the US reaches a new record: the situation is worse than official data shows",
+          "body_es": "Nuevos datos sobre el mercado laboral en Estados Unidos muestran una situación preocupante. Las cifras oficiales de desempleo no muestran toda la realidad del problema. Los expertos dicen que el número real de personas sin trabajo es mucho más alto de lo que el gobierno reporta. Esto sucede porque muchas personas han dejado de buscar trabajo activamente. Estas personas no se cuentan en las estadísticas oficiales. También hay muchos trabajadores que tienen empleos de medio tiempo pero quieren trabajar tiempo completo. Cuando incluimos a todas estas personas, el problema del desempleo parece mucho más serio. Los economistas están muy preocupados por esta situación. Dicen que el gobierno necesita crear más empleos de calidad. Los trabajadores americanos necesitan salarios buenos y empleos estables para tener una vida mejor. Esta situación afecta especialmente a los jóvenes y a las comunidades de bajos ingresos.",
+          "body_en": "New data on the labor market in the United States shows a worrying situation. Official unemployment figures do not show the full reality of the problem. Experts say the real number of people without work is much higher than what the government reports. This happens because many people have stopped actively looking for work. These people are not counted in official statistics. There are also many workers who have part-time jobs but want to work full time. When we include all these people, the unemployment problem seems much more serious. Economists are very worried about this situation. They say the government needs to create more quality jobs. American workers need good wages and stable jobs to have a better life. This situation especially affects young people and low-income communities.",
+          "source": "24/7 Wall St."
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "China acelera su desarrollo en inteligencia artificial y desafía el liderazgo tecnológico de Estados Unidos",
+          "headline_en": "China accelerates its artificial intelligence development and challenges US technological leadership",
+          "body_es": "La competencia en inteligencia artificial entre China y Estados Unidos está creciendo muy rápidamente. China está invirtiendo grandes cantidades de dinero para desarrollar nuevas tecnologías de IA. El país asiático quiere superar a Estados Unidos en este campo tecnológico tan importante. Una parte clave de esta competencia es el software de código abierto. Este tipo de software permite que cualquier persona pueda usar y mejorar los programas de IA. China está usando esta estrategia para avanzar más rápido en su desarrollo tecnológico. Los expertos americanos están muy preocupados por esta situación. Dicen que Estados Unidos podría perder su posición de liderazgo en tecnología. Las empresas tecnológicas americanas como Google y Microsoft también están trabajando muy fuerte para mantenerse adelante. Esta competencia entre los dos países más poderosos del mundo tiene consecuencias importantes para el futuro de la tecnología global y para todos nosotros.",
+          "body_en": "The competition in artificial intelligence between China and the United States is growing very rapidly. China is investing large amounts of money to develop new AI technologies. The Asian country wants to surpass the United States in this very important technological field. A key part of this competition is open-source software. This type of software allows anyone to use and improve AI programs. China is using this strategy to advance faster in its technological development. American experts are very worried about this situation. They say the United States could lose its leadership position in technology. American tech companies like Google and Microsoft are also working very hard to stay ahead. This competition between the two most powerful countries in the world has important consequences for the future of global technology and for all of us.",
+          "source": "AI: Reset to Zero"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "desastre",
+          "syllables": "de-SAS-tre",
+          "pos": "sustantivo",
+          "context": "El gobierno debate cómo ayudar a las víctimas de un desastre natural.",
+          "definition_es": "Un evento muy malo que causa mucho daño a personas y lugares.",
+          "definition_en": "A disaster; a terrible event that causes great damage."
+        },
+        {
+          "word": "desempleo",
+          "syllables": "des-em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Los datos muestran que el desempleo es peor de lo que pensamos.",
+          "definition_es": "La situación cuando una persona no tiene trabajo.",
+          "definition_en": "Unemployment; the state of not having a job."
+        },
+        {
+          "word": "alivio",
+          "syllables": "a-LI-vio",
+          "pos": "sustantivo",
+          "context": "El Congreso discute los cambios en los programas de alivio para desastres.",
+          "definition_es": "Ayuda o reducción de un problema o dolor.",
+          "definition_en": "Relief; help that reduces a problem or difficulty."
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "China está invirtiendo más dinero en inteligencia artificial.",
+          "definition_es": "La capacidad de las computadoras para realizar tareas que normalmente hacen los humanos.",
+          "definition_en": "Artificial intelligence; the ability of computers to perform human-like tasks."
+        },
+        {
+          "word": "competencia",
+          "syllables": "com-pe-TEN-cia",
+          "pos": "sustantivo",
+          "context": "La competencia entre China y Estados Unidos en tecnología es muy fuerte.",
+          "definition_es": "Una situación donde dos o más personas o países luchan por ganar algo.",
+          "definition_en": "Competition; a situation where parties compete against each other."
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "Los nuevos datos del mercado laboral muestran cifras preocupantes.",
+          "definition_es": "El sistema donde los trabajadores buscan empleo y las empresas buscan empleados.",
+          "definition_en": "Labor market; the system where workers look for jobs and companies look for employees."
+        },
+        {
+          "word": "reformar",
+          "syllables": "re-for-MAR",
+          "pos": "verbo",
+          "context": "El Congreso quiere reformar la agencia federal de emergencias.",
+          "definition_es": "Cambiar algo para hacerlo mejor.",
+          "definition_en": "To reform; to change something in order to improve it."
+        },
+        {
+          "word": "récord",
+          "syllables": "RÉ-cord",
+          "pos": "sustantivo",
+          "context": "Los datos del empleo han llegado a un nuevo récord negativo.",
+          "definition_es": "El nivel más alto o más bajo que se ha alcanzado en algo.",
+          "definition_en": "Record; the highest or lowest level ever reached in something."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'desempleo'?",
+          "options": [
+            "A) Tener mucho trabajo",
+            "B) La situación de no tener trabajo",
+            "C) Un tipo de empresa",
+            "D) Un programa del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'reformar'?",
+          "options": [
+            "A) Destruir completamente algo",
+            "B) Comprar algo nuevo",
+            "C) Cambiar algo para hacerlo mejor",
+            "D) Ignorar un problema"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "En la frase 'los datos llegaron a un nuevo récord', ¿qué significa 'récord'?",
+          "options": [
+            "A) Un tipo de música antigua",
+            "B) El nivel más alto o más bajo que se ha alcanzado",
+            "C) Un documento oficial",
+            "D) Una persona importante"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inteligencia artificial'?",
+          "options": [
+            "A) Una persona muy inteligente",
+            "B) Un tipo de robot físico",
+            "C) La capacidad de las computadoras para realizar tareas humanas",
+            "D) Un programa de estudios universitarios"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia sobre Política, ¿cuál es la función principal de FEMA?",
+          "options": [
+            "A) Controlar las elecciones presidenciales",
+            "B) Coordinar la ayuda después de desastres naturales",
+            "C) Administrar los impuestos federales",
+            "D) Regular el comercio internacional"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de Política, ¿qué quieren algunos políticos del Congreso?",
+          "options": [
+            "A) Eliminar completamente FEMA",
+            "B) Dar más dinero directamente a Trump",
+            "C) Que los estados tengan más control sobre el dinero para emergencias",
+            "D) Crear una nueva agencia internacional"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿por qué el número real de desempleados es más alto que las cifras oficiales?",
+          "options": [
+            "A) Porque el gobierno miente siempre",
+            "B) Porque muchas personas han dejado de buscar trabajo activamente",
+            "C) Porque los trabajadores no quieren registrarse",
+            "D) Porque los datos son muy antiguos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿a quiénes afecta especialmente la situación del desempleo?",
+          "options": [
+            "A) Solo a los trabajadores mayores de 60 años",
+            "B) Solo a los trabajadores de tecnología",
+            "C) A los jóvenes y a las comunidades de bajos ingresos",
+            "D) Solo a los trabajadores del gobierno"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué estrategia está usando China para avanzar en inteligencia artificial?",
+          "options": [
+            "A) Copiar tecnología americana secretamente",
+            "B) Usar software de código abierto",
+            "C) Contratar solo científicos americanos",
+            "D) Comprar empresas tecnológicas europeas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "En la historia de Tecnología, ¿qué empresas americanas se mencionan como competidores en inteligencia artificial?",
+          "options": [
+            "A) Apple y Amazon",
+            "B) Facebook y Twitter",
+            "C) Google y Microsoft",
+            "D) Netflix y Spotify"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-20T10:00:54.402096"
+    },
+    {
       "date": "2026-07-19",
       "filename": "spanish_lesson_2026-07-19.pdf",
       "path": "pdfs/spanish_lesson_2026-07-19.pdf",
@@ -47518,7 +47740,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-19T09:33:51.224595",
+  "last_updated": "2026-07-20T10:00:54.402125",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
