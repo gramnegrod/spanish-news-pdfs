@@ -1,11 +1,196 @@
 {
-  "date": "2026-07-20",
-  "generated_at": "2026-07-20T10:06:35.832108Z",
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T09:53:55.004189Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 864,
-  "new_today": 4,
+  "total_stories": 869,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250721",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo vendaje antibacteriano con cúrcuma para heridas crónicas",
+      "headline_en": "New Antibacterial Dressing with Turmeric for Chronic Wounds",
+      "summary_es": "Investigadores crean un vendaje nuevo que combate infecciones y ayuda a curar heridas crónicas. Este apósito usa cúrcuma, una sustancia natural muy efectiva.",
+      "body_es": "Un estudio reciente en Nature presenta un vendaje innovador para heridas crónicas. Los científicos crean vendajes especiales con tres materiales diferentes. Estos apósitos tienen propiedades antibacterianas muy fuertes. El vendaje contiene cúrcuma, una sustancia natural que cura infecciones. El nuevo material es muy efectivo contra bacterias peligrosas. Los investigadores prueban el vendaje en el laboratorio. Los resultados muestran que protege la herida excelentemente. Este apósito puede cambiar el tratamiento de heridas crónicas. Es una promesa muy buena para los pacientes con úlceras difíciles.",
+      "body_en": "A recent study in Nature presents an innovative dressing for chronic wounds. Scientists create special dressings with three different materials. These dressings have very strong antibacterial properties. The dressing contains turmeric, a natural substance that cures infections. The new material is very effective against dangerous bacteria. Researchers test the dressing in the laboratory. The results show that it protects the wound excellently. This dressing can change the treatment of chronic wounds. It is a very promising option for patients with difficult ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfcmtrVWFOeEVHR3dXdTl3azAzRWNveG9sNDF1MzBBWl8xZ0VRUDZRQ0tHSHdFUjh2Q2MxLURsTlpRQ2NndHF3MzRKQ19jaV9fY3lSS0VDUVU3QlJUdjZJ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-21/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "vendaje",
+          "definition_es": "material que cubre y protege una herida",
+          "definition_en": "dressing - material that covers and protects a wound"
+        },
+        {
+          "word": "antibacteriano",
+          "definition_es": "que mata o previene las bacterias",
+          "definition_en": "antibacterial - that kills or prevents bacteria"
+        },
+        {
+          "word": "cúrcuma",
+          "definition_es": "sustancia natural con propiedades curativas",
+          "definition_en": "turmeric - natural substance with healing properties"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "herida que no cicatriza rápidamente",
+          "definition_en": "chronic wound - wound that does not heal quickly"
+        }
+      ],
+      "added_at": "2026-07-21T09:53:55.004189Z"
+    },
+    {
+      "id": "diabetic-foot-20250721",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "Prevención de amputación en pacientes con diabetes",
+      "headline_en": "Prevention of Amputation in Diabetic Patients",
+      "summary_es": "Los profesionales médicos enfatizan la importancia de la prevención temprana para evitar amputaciones en pacientes diabéticos. Un cuidado adecuado del pie puede salvar extremidades.",
+      "body_es": "Prevenir la amputación es fundamental en el cuidado de pacientes diabéticos. Los especialistas recomiendan evaluaciones regulares del pie para detectar úlceras diabéticas tempranamente. La diabetes afecta la circulación sanguínea y la sensibilidad nerviosa en los pies. Estas complicaciones crean condiciones ideales para que se desarrollen úlceras. Los pacientes deben inspeccionar sus pies diariamente buscando heridas, enrojecimiento o cambios en la piel. El desbridamiento oportuno de tejido necrótico es esencial para evitar infecciones graves. El tratamiento temprano de estas úlceras puede prevenir hasta el 80% de las amputaciones. Los médicos aconsejan mantener un control glucémico adecuado y usar calzado especial. La educación del paciente es clave para evitar complicaciones severas.",
+      "body_en": "Preventing amputation is fundamental in the care of diabetic patients. Specialists recommend regular foot evaluations to detect diabetic ulcers early. Diabetes affects blood circulation and nerve sensitivity in the feet. These complications create ideal conditions for ulcers to develop. Patients should inspect their feet daily looking for wounds, redness, or skin changes. Timely debridement of necrotic tissue is essential to prevent serious infections. Early treatment of these ulcers can prevent up to 80% of amputations. Doctors advise maintaining adequate glycemic control and wearing special footwear. Patient education is key to avoiding severe complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWloY2RZQmlienpDVGlLaTNkSnN1Y0x6ZU0xSm5TTWJheGxtc1V3TjNUdTlBWHFpOHl5RkNxb3ZuQ2txRHFRTlVDRldEQUo1S214ZnB6dV9PV2tIWHNPZm5YcXlGOFp0Umc5emF3b0N1S25Zdkl2cHNVd2ZleDlUbGxvTGJHTzBSQkNjbUhsd3k2bHF0Y0ZtYUlOVU5XWDUwTkE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-21/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        },
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta en el pie causada por diabetes",
+          "definition_en": "diabetic ulcer - open wound on foot caused by diabetes"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación del tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido debido a falta de sangre",
+          "definition_en": "necrosis - tissue death due to lack of blood supply"
+        }
+      ],
+      "added_at": "2026-07-21T09:53:55.004189Z"
+    },
+    {
+      "id": "burn-care-20250721",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Centro avanzado de curación de heridas abre en hospital",
+      "headline_en": "Advanced Wound Management Center Opens at Hospital",
+      "summary_es": "El Centro Avanzado de Curación de Heridas abrió recientemente en un hospital importante. Este centro proporciona tratamientos especializados para quemaduras y otras heridas complejas.",
+      "body_es": "El CHA Hollywood Presbyterian Medical Center inaugura un nuevo Centro para Curación Avanzada de Heridas. Esta instalación moderna está diseñada para tratar quemaduras, úlceras crónicas y otras lesiones complejas. El centro cuenta con tecnología de punta para evaluación y tratamiento de heridas. Los especialistas en curación utilizan técnicas avanzadas incluyendo terapia de presión negativa y apósitos biológicos. La equipo multidisciplinario incluye cirujanos, enfermeros de heridas e infectólogos. El centro maneja casos difíciles que requieren cuidado especializado prolongado. Los pacientes reciben evaluaciones detalladas y planes de tratamiento personalizados. La apertura de este centro refleja el compromiso del hospital con la excelencia en el cuidado de heridas. Los tratamientos pueden acelerar la cicatrización y mejorar significativamente los resultados para los pacientes con quemaduras graves.",
+      "body_en": "CHA Hollywood Presbyterian Medical Center inaugurates a new Advanced Wound Management Center. This modern facility is designed to treat burns, chronic ulcers, and other complex injuries. The center features cutting-edge technology for wound evaluation and treatment. Wound healing specialists use advanced techniques including negative pressure therapy and biological dressings. The multidisciplinary team includes surgeons, wound nurses, and infectious disease specialists. The center manages difficult cases requiring prolonged specialized care. Patients receive detailed evaluations and personalized treatment plans. The opening of this center reflects the hospital's commitment to excellence in wound care. Treatments can accelerate healing and significantly improve outcomes for patients with severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONk93U3lsLTZfYW1JQ0cwNENMejlXc1hlTy1kSm1ENW1VRjAwekJjNGZCeV81OXgwN2xrYnhDeGw5bWxWZndFcTVzOE9oRnY2bF84bW1RVlc4bkkxQWdOeENiOXlrYVp4dUdsNGkybk1kVWFuWlRCOGhkS1lzdExYWnZNbXZYMmUyWm1GYUdaaGEtMHNUSi1NTTRvaVFGSUhyR0VZZmRldWx0X2gwQmZvM092N2p2SnYwdmJQTXhFLU0wSlJHYndrV1ZGRWR5Y0wydmZLZW4xQzhvdE9hYUdvQ3l4SnNVNUpyMHdlVk1xUnNPbExE0gH6AUFVX3lxTE9pdFlaU2VIckl1Z0Joa1VKZWt4TDU4S1hCMldsMmpJNUYzWDVHYlY0bzhSZWVscmhlNVhNV01teXlYZVRfNnFFT1pMX2p5b09YbWlIOVlmTFdYMHhjakNtamRCNmp5NUhDWWZqUXBVZG03MnJLTFh2Y2U2bWFjWElMaGxZZTUzWHBRWkYxdVhrM2tQOEdYT0dNTkRLYjlHcTRYWlQ5LWhjd1NUM2d1XzFyU2VCX21ub0lfTGM0b1gyMnJVZEZsSlU4aEhjeDNlZHhGaVlTXzdPMW1sYlZGRmJNUWhlaG5mVmxYdDI3TWhEVmx2eVhkcUJLeWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-21/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor o fuego",
+          "definition_en": "burn - skin injury caused by heat or fire"
+        },
+        {
+          "word": "terapia de presión negativa",
+          "definition_es": "tratamiento que usa succión para curar heridas",
+          "definition_en": "negative pressure therapy - treatment using suction to heal wounds"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de nueva piel en una herida",
+          "definition_en": "wound healing - process of new skin formation in a wound"
+        },
+        {
+          "word": "apósito biológico",
+          "definition_es": "vendaje hecho de materiales vivos para curar heridas",
+          "definition_en": "biological dressing - bandage made from living materials to heal wounds"
+        }
+      ],
+      "added_at": "2026-07-21T09:53:55.004189Z"
+    },
+    {
+      "id": "surgical-wounds-20250721",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "El momento de la profilaxis antibiótica afecta infecciones de heridas quirúrgicas",
+      "headline_en": "Timing of Antibiotic Prophylaxis Affects Surgical Wound Infections",
+      "summary_es": "Un estudio importante muestra que el momento en que se administra la profilaxis con cefalotina afecta significativamente la tasa de infecciones en heridas quirúrgicas. La administración antes de la incisión es más efectiva.",
+      "body_es": "Un estudio publicado en Cureus examina el impacto del tiempo de administración de cefalotina en la prevención de infecciones de heridas quirúrgicas. La investigación compara pacientes que recibieron la profilaxis antes de la incisión quirúrgica versus después. Los resultados demuestran que la administración previa a la incisión es significativamente más efectiva. Los pacientes que recibieron cefalotina después de la incisión mostraron tasas de infección más altas. La profilaxis antibiótica es crítica en la cirugía limpia para prevenir infecciones del sitio quirúrgico. El timing correcto maximiza la concentración del antibiótico en los tejidos durante la cirugía. Los cirujanos deben administrar el medicamento dentro de 60 minutos antes de hacer la incisión. Este protocolo es especialmente importante en procedimientos cardiovasculares donde se requiere mayor precisión. El estudio enfatiza que los detalles en el procedimiento pueden prevenir complicaciones serias.",
+      "body_en": "A study published in Cureus examines the impact of cefazolin administration timing on prevention of surgical wound infections. The research compares patients who received prophylaxis before surgical incision versus after. The results demonstrate that administration prior to incision is significantly more effective. Patients who received cefazolin after incision showed higher infection rates. Antibiotic prophylaxis is critical in clean surgery to prevent surgical site infections. Correct timing maximizes antibiotic concentration in tissues during surgery. Surgeons should administer the medication within 60 minutes before making the incision. This protocol is especially important in cardiovascular procedures where greater precision is required. The study emphasizes that procedural details can prevent serious complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU0lWLWtIZDNIdmRqa0R5U0RkODBVUi01NDdRRVNaNGhybFJOOHkySzNZeHhRX1lXTWRjc0x0cFQzcHhMdWlOVW5RRDZkRDdBVWpGRDdRVzFJNm01S09BbE1ZNTQwTmdhNjY0MFpPSUJPV0hpZGl1alJWNEdma0M0d3ZHd3RsUmctMUNZenEyMkxsT1lVRTAwTVRIT3lVN0hHM3Vtd1Z0ek5uRVA5dnF5RDctOXlQeDFMZGY1RVoybVd5ZS0wN19vdG1XQ1VObVl6ZkVLMGRZbmZrSS0yLWxGVWkxNldpYklHTVhud0s2WlYtTlpEUy02cW9GcXRIdHdZelpfWEV0RQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-21/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "profilaxis",
+          "definition_es": "tratamiento preventivo para evitar infecciones",
+          "definition_en": "prophylaxis - preventive treatment to avoid infections"
+        },
+        {
+          "word": "cefalotina",
+          "definition_es": "antibiótico usado para prevenir infecciones quirúrgicas",
+          "definition_en": "cefazolin - antibiotic used to prevent surgical infections"
+        },
+        {
+          "word": "infección del sitio quirúrgico",
+          "definition_es": "infección que ocurre en el lugar de la operación",
+          "definition_en": "surgical site infection - infection that occurs at the operation location"
+        },
+        {
+          "word": "incisión",
+          "definition_es": "corte que hace el cirujano durante la operación",
+          "definition_en": "incision - cut made by surgeon during operation"
+        }
+      ],
+      "added_at": "2026-07-21T09:53:55.004189Z"
+    },
+    {
+      "id": "wound-research-20250721",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🧪",
+      "gradient": "purple",
+      "headline_es": "Dispositivos electrónicos portátiles con inteligencia artificial para el cuidado de heridas",
+      "headline_en": "AI-Powered Wearable Bioelectronics for Wound Care",
+      "summary_es": "Investigadores desarrollan dispositivos portátiles inteligentes que monitorean heridas automáticamente. Estos dispositivos utilizan inteligencia artificial para proporcionar cuidado personalizado y autónomo.",
+      "body_es": "Un estudio publicado en Nature describe el desarrollo de dispositivos electrónicos portátiles de última generación. Estos aparatos utilizan inteligencia artificial para monitorear la salud de las heridas en tiempo real. Los dispositivos pueden detectar signos tempranos de infección y complicaciones. La tecnología de circuito cerrado permite que el dispositivo ajuste automáticamente el tratamiento. Los sensores miden parámetros como temperatura, humedad y pH de la herida. La inteligencia artificial analiza estos datos para proporcionar intervenciones personalizadas. El dispositivo comunica información importante al equipo médico constantemente. Esta tecnología revolucionaria puede mejorar significativamente los resultados del cuidado de heridas. Los investigadores esperan que estos dispositivos estén disponibles clínicamente pronto. El desarrollo representa un avance importante en medicina de precisión para el cuidado de heridas.",
+      "body_en": "A study published in Nature describes the development of state-of-the-art wearable electronic devices. These devices use artificial intelligence to monitor wound health in real time. The devices can detect early signs of infection and complications. Closed-loop circuit technology allows the device to automatically adjust treatment. Sensors measure parameters such as temperature, humidity, and wound pH. Artificial intelligence analyzes this data to provide personalized interventions. The device continuously communicates important information to the medical team. This revolutionary technology can significantly improve wound care outcomes. Researchers hope these devices will become clinically available soon. The development represents an important advance in precision medicine for wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nSlREdl9KNnJoaWJxMjE2dEF5U2dqOHpuQ1FaUEZ4cHdjczhvaEJkSG9RX1UwNENnSmNvZ3B6aDVVYzNRV1lnS0Z5MkVoYUhoXzNaWXdrdTI4bWlPZkZz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-21/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dispositivo portátil",
+          "definition_es": "aparato pequeño que se puede llevar en el cuerpo",
+          "definition_en": "wearable device - small apparatus that can be worn on the body"
+        },
+        {
+          "word": "inteligencia artificial",
+          "definition_es": "sistemas computarizados que pueden aprender y tomar decisiones",
+          "definition_en": "artificial intelligence - computerized systems that can learn and make decisions"
+        },
+        {
+          "word": "circuito cerrado",
+          "definition_es": "sistema que se autorregula sin intervención humana",
+          "definition_en": "closed-loop circuit - system that self-regulates without human intervention"
+        },
+        {
+          "word": "sensor",
+          "definition_es": "aparato que detecta cambios en las condiciones de la herida",
+          "definition_en": "sensor - device that detects changes in wound conditions"
+        }
+      ],
+      "added_at": "2026-07-21T09:53:55.004189Z"
+    },
     {
       "id": "chronic-wounds-20260720",
       "category": "Chronic Wounds",
@@ -31969,6 +32154,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-20T10:06:35.832108Z",
+  "last_updated": "2026-07-21T09:53:55.004189Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
