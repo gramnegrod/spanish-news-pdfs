@@ -1,11 +1,196 @@
 {
-  "date": "2026-07-21",
-  "generated_at": "2026-07-21T09:53:55.004189Z",
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T09:53:22.667498Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 869,
+  "total_stories": 874,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250722",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Una bacteria peligrosa afecta la curación de úlceras diabéticas",
+      "headline_en": "A dangerous bacterium affects the healing of diabetic ulcers",
+      "summary_es": "Investigadores descubren que la bacteria Wohlfahrtiimonas chitiniclastica interfiere con la curación de úlceras en el pie diabético y afecta el metabolismo de glucosa.",
+      "body_es": "Un estudio importante publicado en Frontiers identifica una bacteria especial llamada Wohlfahrtiimonas chitiniclastica. Esta bacteria causa problemas en la curación de úlceras del pie diabético. Los pacientes con diabetes tienen riesgo de desarrollar úlceras en los pies. Estas heridas son difíciles de curar. La bacteria nueva interfiere con el proceso de curación normal. También afecta el metabolismo de glucosa en el cuerpo. Los médicos necesitan identificar esta bacteria rápidamente. El tratamiento correcto es muy importante para prevenir infecciones graves. Los enfermeros deben evaluar las heridas con cuidado. La detección temprana puede salvar extremidades y mejorar resultados.",
+      "body_en": "An important study published in Frontiers identifies a special bacterium called Wohlfahrtiimonas chitiniclastica. This bacterium causes problems in healing diabetic foot ulcers. Patients with diabetes have risk of developing foot ulcers. These wounds are difficult to heal. The new bacterium interferes with the normal healing process. It also affects glucose metabolism in the body. Doctors need to identify this bacterium quickly. Correct treatment is very important to prevent serious infections. Nurses should evaluate wounds carefully. Early detection can save limbs and improve outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmxka1Y0WG04TXpDdDA1MW9mOURNTDc5bUl5dGpOXzNfSHhRdk5ieFU0U09jakp1QVZ1SGRZc2VFRXF4bjZKQjRsQWhWMzIwZUpDaHBKblU2OTlhVnhyNWxVQmhGUFh5UjloX0FHV3FYT24yOUcwRXhSYnF0ZkJKMUlSakF1akl0Y2UtRmdFdlhJakdB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-22/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "bacteria",
+          "definition_es": "microorganismo pequeño que puede causar infecciones",
+          "definition_en": "bacterium - small microorganism that can cause infections"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar o recuperarse de una herida",
+          "definition_en": "healing - process of recovering from a wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "entrada de bacterias o gérmenes en una herida",
+          "definition_en": "infection - entry of bacteria or germs into a wound"
+        }
+      ],
+      "added_at": "2026-07-22T09:53:22.667498Z"
+    },
+    {
+      "id": "diabetic-foot-20250722",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Prevención de amputación: Guía médica para pacientes con diabetes",
+      "headline_en": "Preventing Amputation: A Doctor's Guide for Diabetes Patients",
+      "summary_es": "Los médicos proporcionan una guía completa sobre cómo los pacientes diabéticos pueden prevenir la amputación de extremidades mediante el cuidado adecuado del pie y la detección temprana de problemas.",
+      "body_es": "Una guía médica reciente enfatiza la importancia de la prevención de amputación en pacientes con diabetes. Las úlceras del pie diabético representan una complicación grave que afecta a millones de personas. Los pacientes deben inspeccionar sus pies diariamente para detectar heridas, enrojecimiento o cambios de temperatura. El control glucémico es fundamental para mantener una curación adecuada de las lesiones. Los médicos recomiendan usar calzado especial y mantener una buena higiene de los pies. Las infecciones deben tratarse inmediatamente con antibióticos para evitar la propagación. El desbridamiento de tejido muerto es necesario en muchos casos. La evaluación regular con especialistas en cuidado de heridas puede prevenir el 85% de las amputaciones no traumáticas. La educación del paciente y el monitoreo constante son elementos clave en el tratamiento exitoso.",
+      "body_en": "A recent medical guide emphasizes the importance of amputation prevention in diabetic patients. Diabetic foot ulcers represent a serious complication affecting millions of people. Patients should inspect their feet daily to detect wounds, redness, or temperature changes. Glycemic control is fundamental to maintain proper wound healing. Doctors recommend wearing special footwear and maintaining good foot hygiene. Infections must be treated immediately with antibiotics to prevent spread. Debridement of dead tissue is necessary in many cases. Regular evaluation with wound care specialists can prevent 85% of non-traumatic amputations. Patient education and constant monitoring are key elements in successful treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2tFLVJPMWRJa0pEX1BQdXZrdDVSeUZzZnh6MEdjRjZqUUlWNmhOdEM2b2RVVHNDN1oyUUxDbTlyMmFpbl80YjJoU1libkdXaGZseGFYaXVwazhtWXd6eG1qbzVDZTJsLUhTbHExb2JUNm1zdUM5SW5hakRxSTltUjh5UE5WOS12eDh1dVItWlFmRTlUWlNB0gGcAUFVX3lxTFBMc2FuTXZIUDRtRUNDUGYyVnZKRlNYaktGMUVqVWFTdTVBTmhMQmJ4LWxpTFhpZEY0dXlGUGtXMnB5TV8yb3ZYZFlVQVpwYzBpc09KMEtzLWcwS0pkbThlcGU1Q1RBazFramtKcURaalpUb0x5MG1LTEpaVmFxYnFFUmxXTkZSQUFOSVpzWVFyeEgyaDZzUEtBaFRJOQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-22/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta que ocurre comúnmente en los pies de diabéticos",
+          "definition_en": "diabetic ulcer - open wound that commonly occurs on diabetic feet"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción quirúrgica de tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "control glucémico",
+          "definition_es": "manejo de los niveles de azúcar en sangre",
+          "definition_en": "glycemic control - management of blood sugar levels"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-07-22T09:53:22.667498Z"
+    },
+    {
+      "id": "burn-care-20250722",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Quemaduras de tercer grado: Un dispositivo médico popular deja trail de niños heridos",
+      "headline_en": "Third-degree burns and skin grafts: The popular medical device that left a trail of injured children",
+      "summary_es": "Un dispositivo médico popular ha causado quemaduras graves en niños, resultando en injertos de piel y complicaciones serias que han generado preocupaciones sobre seguridad.",
+      "body_es": "Un informe del Brisbane Times revela que un dispositivo médico popular ha causado quemaduras de tercer grado en múltiples niños. Las quemaduras de tercer grado son las más graves y afectan todas las capas de la piel. Muchos pacientes pediátricos requirieron injertos de piel para recuperarse. Los injertos de piel son procedimientos quirúrgicos donde se transfiere tejido sano a las áreas quemadas. Las complicaciones incluyen infecciones, cicatrices permanentes y limitación del movimiento. Los padres reportan que no recibieron advertencias adecuadas sobre los riesgos del dispositivo. Las quemaduras de tercer grado requieren cuidado especializado en unidades de quemados. El tratamiento incluye limpieza de heridas, aplicación de apósitos específicos y manejo del dolor. La prevención mediante educación de seguridad es crucial para evitar accidentes similares en el futuro.",
+      "body_en": "A Brisbane Times report reveals that a popular medical device has caused third-degree burns in multiple children. Third-degree burns are the most severe and affect all skin layers. Many pediatric patients required skin grafts for recovery. Skin grafts are surgical procedures where healthy tissue is transferred to burned areas. Complications include infections, permanent scarring, and movement limitations. Parents report that they did not receive adequate warnings about device risks. Third-degree burns require specialized care in burn units. Treatment includes wound cleaning, application of specific dressings, and pain management. Prevention through safety education is crucial to prevent similar accidents in the future.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdXVoOC05YkRwanVxOTVKdnhyOVA5aGFzVGJEVXRESkpqOWowRmlLeXJ3NHNocTcxMUlhR0dxcXNoek9SLVdZcTI2d1dtcTQweWZXY3FGdDRuMnpRV3dXbzZGUHVBMHI4aUJLbzhaZEdZOE54cGt1MkVsa2hUWmZ1Z3BiSU1WdTJOMUlaX0JOcWE0NFZUSTFVRjBaU0l5NF95a2JuNllJUlRxZVhfUjNBUVN2VWdPbVFjTFAtaFlSbHRoNkd2RG5fQzZ4WUhfeHZqUWpqV2xpY1JrcXdaWkR1em8zbXhOeXQ3ZHBHN3lycUNfU2dB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-22/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por fuego, calor o químicos",
+          "definition_en": "burn - injury to skin caused by fire, heat, or chemicals"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "transferencia de tejido sano a áreas dañadas por quemadura",
+          "definition_en": "skin graft - transfer of healthy tissue to burn-damaged areas"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material estéril aplicado directamente a la herida para protegerla",
+          "definition_en": "dressing - sterile material applied directly to wound for protection"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de sanar una herida profunda",
+          "definition_en": "scar - mark that remains after a deep wound heals"
+        }
+      ],
+      "added_at": "2026-07-22T09:53:22.667498Z"
+    },
+    {
+      "id": "surgical-wounds-20250722",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "BRIJ Medical lanza sellador avanzado para mejorar la gestión de incisiones quirúrgicas",
+      "headline_en": "BRIJ Medical Launches BRIJ-SEAL™, Expanding Its Incision Management Portfolio with an Advanced Wound Sealant",
+      "summary_es": "BRIJ Medical presenta BRIJ-SEAL™, un sellador de heridas avanzado diseñado para mejorar la gestión de incisiones quirúrgicas y reducir complicaciones postoperatorias.",
+      "body_es": "BRIJ Medical ha anunciado el lanzamiento de BRIJ-SEAL™, un producto innovador para el manejo de incisiones quirúrgicas. Este sellador avanzado está diseñado para proteger las heridas quirúrgicas después de la cirugía. Las complicaciones de incisiones incluyen infecciones, dehiscencia y retrasos en la epitelización. BRIJ-SEAL™ proporciona una barrera efectiva contra bacterias y humedad. El producto mejora la integración de los bordes de la herida y promueve una curación más rápida. Los pacientes experimentan menos dolor y molestias postoperatorias. El sellador se aplica directamente sobre la línea de sutura después del cierre quirúrgico. Los estudios clínicos muestran que reduce significativamente las infecciones de sitio quirúrgico. Este avance en tecnología de apósitos representa un importante progreso en el cuidado postoperatorio moderno.",
+      "body_en": "BRIJ Medical has announced the launch of BRIJ-SEAL™, an innovative product for surgical incision management. This advanced sealant is designed to protect surgical wounds after surgery. Incision complications include infections, dehiscence, and delayed epithelialization. BRIJ-SEAL™ provides an effective barrier against bacteria and moisture. The product improves wound edge integration and promotes faster healing. Patients experience less postoperative pain and discomfort. The sealant is applied directly over the suture line after surgical closure. Clinical studies show it significantly reduces surgical site infections. This advance in dressing technology represents important progress in modern postoperative care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbkxJRmFCLVZ1YV9zX2pLQmJoZ0x6cEZjTEd6Z1ozd25yRFBUSjJqRGx1WHdTMDBpdFhZYmxTTlRXaU1TSnRSb3NCVUpHaGQ3YzRUWlZydW8xWnA2d2ZVbFhHblpLY3JDV1d5MHJXbTkyUjNhT3dOZ1B4QUhHMzdUWDVkOHZGcHB2NHoydTJzZURzRXM5Ukh1dERVM3ZjZWFQdzJTaTRuSldwWjZrLVl5d3NqVmdoSFpxRTNnaWpoaTRPLXd1YUhxa1dKU0lTMnVqUElVRDdKUFdWcDh5elVycFlRcllJS1plalBDTk41ODd1bVMz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-22/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "incisión",
+          "definition_es": "corte quirúrgico realizado durante una operación",
+          "definition_en": "incision - surgical cut made during an operation"
+        },
+        {
+          "word": "sellador",
+          "definition_es": "material que cierra o protege una herida quirúrgica",
+          "definition_en": "sealant - material that seals or protects a surgical wound"
+        },
+        {
+          "word": "dehiscencia",
+          "definition_es": "reapertura de una herida quirúrgica cerrada",
+          "definition_en": "dehiscence - reopening of a closed surgical wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de piel nueva cubriendo una herida",
+          "definition_en": "epithelialization - formation of new skin covering a wound"
+        }
+      ],
+      "added_at": "2026-07-22T09:53:22.667498Z"
+    },
+    {
+      "id": "wound-research-20250722",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Georgia Tech recibe inversión para lanzar centro de innovación en salud impulsado por inteligencia artificial",
+      "headline_en": "Georgia Tech Receives Commitment to Launch New AI-Driven Health Innovation Center",
+      "summary_es": "Georgia Tech ha recibido un compromiso de inversión importante para crear un nuevo centro de innovación en salud que utilizará inteligencia artificial para mejorar el cuidado de heridas y otras aplicaciones médicas.",
+      "body_es": "Georgia Tech ha anunciado un compromiso significativo para establecer un nuevo Centro de Innovación en Salud impulsado por inteligencia artificial. Este centro se enfocará en aplicaciones innovadoras de la tecnología para mejorar el cuidado del paciente. La inteligencia artificial puede mejorar diagnósticos de heridas y predecir complicaciones. El centro investigará algoritmos de aprendizaje automático para análisis de imágenes de heridas. Los sistemas de IA pueden identificar infecciones y etapas de curación con mayor precisión. Esto permitirá intervenciones más tempranas y tratamientos más efectivos. El centro también explorará el uso de tecnología para monitoreo remoto de pacientes. La colaboración entre ingenieros y profesionales médicos es fundamental para el éxito. Este tipo de innovación promete revolucionar el cuidado de heridas crónicas y agudas.",
+      "body_en": "Georgia Tech has announced a significant commitment to establish a new AI-Driven Health Innovation Center. This center will focus on innovative technology applications to improve patient care. Artificial intelligence can improve wound diagnosis and predict complications. The center will research machine learning algorithms for wound image analysis. AI systems can identify infections and healing stages with greater accuracy. This will enable earlier interventions and more effective treatments. The center will also explore technology use for remote patient monitoring. Collaboration between engineers and medical professionals is fundamental to success. This type of innovation promises to revolutionize chronic and acute wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObGpxbGhsNFVRbUhXQ2R6ZXVzb192b0l5RDBZY3VXdnJyVEpUd09uTjNMMGdLN0tTWjdYVzk1cTg5YkVaeHVZRDIwWk4xejNlVlRMN2R6cExnOWFJanhNZEhFejhoMTB5bXhzcHE1RXREM1drVTUzSW95NVEzV2VVRjZ3dWY4Ym56RmdtdFpZdWRZWTlwVnA3X0JURXlVajdjUDRic0NZaXU0MUhNYVh3WHVuVy1wbnVCN3c?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-22/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "inteligencia artificial",
+          "definition_es": "tecnología que permite a las máquinas aprender y analizar datos",
+          "definition_en": "artificial intelligence - technology that allows machines to learn and analyze data"
+        },
+        {
+          "word": "algoritmo",
+          "definition_es": "conjunto de pasos que una computadora sigue para resolver un problema",
+          "definition_en": "algorithm - set of steps a computer follows to solve a problem"
+        },
+        {
+          "word": "monitoreo remoto",
+          "definition_es": "observación de pacientes a distancia usando tecnología",
+          "definition_en": "remote monitoring - observation of patients from distance using technology"
+        },
+        {
+          "word": "diagnóstico",
+          "definition_es": "identificación de una enfermedad o condición mediante evaluación",
+          "definition_en": "diagnosis - identification of disease or condition through evaluation"
+        }
+      ],
+      "added_at": "2026-07-22T09:53:22.667498Z"
+    },
     {
       "id": "chronic-wounds-20250721",
       "category": "Chronic Wounds",
@@ -32154,6 +32339,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-21T09:53:55.004189Z",
+  "last_updated": "2026-07-22T09:53:22.667498Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
