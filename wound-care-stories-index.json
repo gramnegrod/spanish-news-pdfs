@@ -1,11 +1,159 @@
 {
-  "date": "2026-07-22",
-  "generated_at": "2026-07-22T09:53:22.667498Z",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T09:51:54.314806Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 874,
-  "new_today": 5,
+  "total_stories": 878,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250723",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Una bacteria especial afecta las úlceras del pie diabético",
+      "headline_en": "A Special Bacteria Affects Diabetic Foot Ulcers",
+      "summary_es": "Los investigadores descubrieron que la bacteria Wohlfahrtiimonas chitiniclastica puede afectar la curación de heridas en personas con diabetes. Este descubrimiento es importante para mejorar el tratamiento de úlceras del pie.",
+      "body_es": "Una nueva investigación publicada en Frontiers identifica una bacteria llamada Wohlfahrtiimonas chitiniclastica. Esta bacteria afecta la curación de heridas en pacientes diabéticos. Los científicos encontraron que la bacteria interrumpe el metabolismo de glucosa en las úlceras del pie.\n\nLas úlceras del pie diabético son heridas que no cierran bien. Cuando hay infección bacteriana, la curación es más lenta y difícil. Este estudio ayuda a los enfermeros y doctores a entender mejor los problemas de curación.\n\nLos profesionales de salud ahora pueden buscar esta bacteria en las heridas. El tratamiento temprano de infecciones es muy importante. Los pacientes con diabetes necesitan cuidado especial del pie y revisiones regulares.",
+      "body_en": "New research published in Frontiers identifies a bacterium called Wohlfahrtiimonas chitiniclastica. This bacterium affects wound healing in diabetic patients. Scientists found that the bacterium interrupts glucose metabolism in foot ulcers.\n\nDiabetic foot ulcers are wounds that do not close well. When there is bacterial infection, healing is slower and more difficult. This study helps nurses and doctors better understand healing problems.\n\nHealth professionals can now look for this bacterium in wounds. Early treatment of infections is very important. Patients with diabetes need special foot care and regular check-ups.",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmxka1Y0WG04TXpDdDA1MW9mOURNTDc5bUl5dGpOXzNfSHhRdk5ieFU0U09jakp1QVZ1SGRZc2VFRXF4bjZKQjRsQUhWMzIwZUpDaHBKblU2OTlhVnhyNWxVQmhGUFh5UjloX0FHV3FYT24yOUcwRXhSYnF0ZkJKMUlSakF1akl0Y2UtRmdFdlhJakdB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-23/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "bacteria",
+          "definition_es": "microorganismo que puede causar infección",
+          "definition_en": "bacterium - microorganism that can cause infection"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cierra bien",
+          "definition_en": "ulcer - open wound on skin that does not heal well"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cicatrización y cierre de heridas",
+          "definition_en": "healing - process of wound closure and scarring"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de gérmenes en una herida",
+          "definition_en": "infection - invasion of germs in a wound"
+        }
+      ],
+      "added_at": "2026-07-23T09:51:54.314806Z"
+    },
+    {
+      "id": "diabetic-foot-20250723",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "orange",
+      "headline_es": "¿Puede la diabetes costarle una extremidad? Estrategias para prevenirlo",
+      "headline_en": "Could Diabetes Cost You a Limb? Strategies to Prevent It",
+      "summary_es": "Un artículo reciente enfatiza la importancia de la prevención y el cuidado del pie en pacientes diabéticos para evitar amputaciones. Los profesionales de salud explican cómo detectar y tratar problemas tempranamente.",
+      "body_es": "La diabetes es una enfermedad que afecta significativamente la circulación y la sensibilidad en los pies. Las úlceras del pie diabético representan una complicación grave que puede resultar en amputación si no se detecta y trata adecuadamente. Los profesionales de la salud recomiendan evaluaciones regulares para identificar cambios en la piel, disminución de sensibilidad, o signos de infección.\n\nLa prevención comienza con el control glucémico riguroso y el cuidado diario del pie. Los pacientes deben inspeccionar sus pies diariamente para detectar heridas, ampollas o cambios en el color de la piel. El calzado apropiado y el mantener los pies limpios y secos son medidas esenciales.\n\nCuando aparecen úlceras, el tratamiento inmediato es crítico. Los enfermeros utilizan apósitos especializados, desbridamiento de tejido necrótico, y control de infecciones bacterianas. La derivación oportuna a especialistas en cuidado de heridas puede prevenir complicaciones graves y preservar las extremidades.",
+      "body_en": "Diabetes is a disease that significantly affects circulation and sensitivity in the feet. Diabetic foot ulcers represent a serious complication that can result in amputation if not detected and treated properly. Health professionals recommend regular evaluations to identify changes in skin, decreased sensitivity, or signs of infection.\n\nPrevention begins with strict blood sugar control and daily foot care. Patients should inspect their feet daily to detect wounds, blisters, or changes in skin color. Appropriate footwear and keeping feet clean and dry are essential measures.\n\nWhen ulcers appear, immediate treatment is critical. Nurses use specialized dressings, debridement of necrotic tissue, and bacterial infection control. Timely referral to wound care specialists can prevent serious complications and preserve limbs.",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc05YWDZwNVR6cEp5T1J4bFBRS0MzcFZmZ29Yc1NxZTB1RldVWXFENFdhb05oLXJEVFJwNHp5LUpGQ2tQbFg3eEtHbUJqQXdBUm5yaFoyQWk1VHNXVXhhVlFlV3FBNnJmbTBudWlsUUZZMDdpTmlwUm02c0FJUjNWNUZpeHl3RXhUZ1YxY3V4c3d6WlpuT0czNFZMcXljMzFYUDVCZA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-23/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad o parte del cuerpo",
+          "definition_en": "amputation - surgical removal of a limb or body part"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "flujo de sangre a través de los vasos sanguíneos",
+          "definition_en": "circulation - flow of blood through blood vessels"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción de tejido muerto o dañado de una herida",
+          "definition_en": "debridement - removal of dead or damaged tissue from a wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - material placed over a wound for protection"
+        }
+      ],
+      "added_at": "2026-07-23T09:51:54.314806Z"
+    },
+    {
+      "id": "surgical-wounds-20250723",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "purple",
+      "headline_es": "La recuperación postquirúrgica: la fase más desafiante según expertos",
+      "headline_en": "Post-Surgical Recovery: The Most Challenging Phase According to Experts",
+      "summary_es": "Los expertos médicos destacan que la fase de recuperación después de la cirugía es la más importante para prevenir complicaciones en la cicatrización de heridas quirúrgicas. El cuidado adecuado de la herida determina el resultado final.",
+      "body_es": "La recuperación después de una intervención quirúrgica es un período crítico que requiere atención especializada. Durante esta fase, la herida quirúrgica pasa por varios estadios de cicatrización: inflamación inicial, proliferación de tejido nuevo, y finalmente remodelación y maduración de la cicatriz.\n\nLos profesionales de enfermería juegan un papel fundamental en el manejo de heridas postquirúrgicas. Deben evaluar regularmente el sitio quirúrgico para detectar signos de infección, como aumento de eritema, drenaje purulento, o calor local. El cambio de apósitos según protocolos establecidos es esencial para mantener un ambiente óptimo para la cicatrización.\n\nLa educación del paciente es igualmente importante. Los pacientes deben comprender la importancia de mantener la herida limpia y seca, reconocer signos de complicaciones, y seguir las recomendaciones sobre actividad física. Los hematomas, seromas, y dehiscencia de herida son complicaciones potenciales que requieren intervención médica inmediata.",
+      "body_en": "Recovery after surgery is a critical period that requires specialized attention. During this phase, the surgical wound goes through several stages of healing: initial inflammation, proliferation of new tissue, and finally remodeling and scar maturation.\n\nNursing professionals play a fundamental role in managing post-surgical wounds. They must regularly assess the surgical site to detect signs of infection, such as increased erythema, purulent drainage, or local heat. Dressing changes according to established protocols are essential to maintain an optimal environment for healing.\n\nPatient education is equally important. Patients must understand the importance of keeping the wound clean and dry, recognize signs of complications, and follow recommendations about physical activity. Hematomas, seromas, and wound dehiscence are potential complications requiring immediate medical intervention.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTWcxclVnTUNLQUpTUmtIX0lLRlFCWWMwZHQ3Zkd5clI2NWlLckoxemtDV0x3S0c3TlEwZ3pkMmh6SmtvMWRaNTVwMUlCcnBMTzRGQUtzTTNNYnlzMzVEdTRqaGhxMGlvY1l0dGxrbTlsZ2pHRm9oX251bmR1b1FEMklCNXQ0V1cwdGZYV2xjU05TanJiNExFOG9ianpodVJLMWpUOGpoRFVCVGZfcE5qdHptYVQ0ZktyWGprUmlfTFVtTlJ0T0N6cXNtNC1DdlFBVkN4c3FRY2JuY1ZsR1ZDekNpcUVlVkJFTXlBOFY0YXhGOTB6QVE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-23/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y cierre de una herida quirúrgica",
+          "definition_en": "wound healing - process of closure and healing of surgical wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "contaminación de la herida por bacterias u otros microorganismos",
+          "definition_en": "infection - contamination of wound by bacteria or microorganisms"
+        },
+        {
+          "word": "dehiscencia",
+          "definition_es": "reapertura o separación de los bordes de una herida cerrada",
+          "definition_en": "dehiscence - reopening or separation of closed wound edges"
+        },
+        {
+          "word": "drenaje",
+          "definition_es": "salida de líquido o pus de una herida o cavidad corporal",
+          "definition_en": "drainage - discharge of fluid or pus from a wound or body cavity"
+        }
+      ],
+      "added_at": "2026-07-23T09:51:54.314806Z"
+    },
+    {
+      "id": "wound-research-20250723",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "blue",
+      "headline_es": "SPARK Colorado anuncia nuevos proyectos para avances en medicina y cuidado de heridas",
+      "headline_en": "SPARK Colorado Announces New Projects for Advances in Medicine and Wound Care",
+      "summary_es": "La Universidad de Colorado Anschutz presenta nueve nuevos proyectos de investigación que incluyen innovaciones en cuidado de heridas, inteligencia artificial aplicada a la medicina, y mejora de la atención al paciente. Estos proyectos representan un avance significativo en la investigación médica.",
+      "body_es": "El programa SPARK Colorado ha seleccionado nueve proyectos innovadores para su novena cohorte, que incluyen avances prometedores en el cuidado de heridas y medicina regenerativa. Estos proyectos se financian a través de la Universidad de Colorado Anschutz y representan colaboraciones entre investigadores, clínicos, e innovadores.\n\nLos proyectos de investigación abordan problemas críticos en el cuidado de pacientes, incluyendo técnicas mejoradas para la evaluación de heridas, desarrollo de biomateriales para apósitos avanzados, e integración de inteligencia artificial para predecir complicaciones en la cicatrización. Los investigadores utilizarán tecnologías innovadoras para entender mejor los mecanismos biológicos de la curación.\n\nEstas iniciativas de investigación tienen el potencial de transformar la práctica clínica en cuidado de heridas. Los resultados esperados incluyen nuevos tratamientos para úlceras crónicas, mejores métodos de prevención de infecciones, y protocolos de cuidado más efectivos. La investigación translacional de SPARK Colorado conecta el laboratorio con la clínica, mejorando directamente la atención de los pacientes.",
+      "body_en": "The SPARK Colorado program has selected nine innovative projects for its ninth cohort, which include promising advances in wound care and regenerative medicine. These projects are funded through the University of Colorado Anschutz and represent collaborations between researchers, clinicians, and innovators.\n\nThe research projects address critical problems in patient care, including improved techniques for wound assessment, development of biomaterials for advanced dressings, and integration of artificial intelligence to predict healing complications. Researchers will use innovative technologies to better understand the biological mechanisms of healing.\n\nThese research initiatives have the potential to transform clinical practice in wound care. Expected results include new treatments for chronic ulcers, better infection prevention methods, and more effective care protocols. SPARK Colorado's translational research connects the laboratory with the clinic, directly improving patient care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGtVMlJFeFFMLTE4SHB1WXBHMjJWZ1YtS0tGWWdGMWVERnZZdTRZdlEtOEQxUnBOenM1OFY3UTRSM2NsY2hNRDZQbHdqOVZicGpQTUtvSjFKN1NXb1FyUDJXa1hiaEg2NHVtLS1FR19ncnM2d3diOEMxNG94YWU1OHhxeXVQWFFWVnYtOWg4VjBQdmYyMGpmUHh6YVpuNUQ2QXpYMkN0bk1wcjhmMzMtSktSY29xQ2JtaFg5WmFTYjFGbzY1cHJqX1pOdzZINy15bFZYVjgtdTJEN0R4aXprRVFPUkrSAfQBQVVfeXFMT25EX000WXp5VGlGMTZKNkN0YkNjZ0ZMUjloc0xfY29KUWZCYXlaNHI3RExtMDhteDM5QXBUNUpUSUhhS3NHOW5yWHQ2WE9oaWYwa0Y4czk2bVlzUHVxQ3Ewb1U3c3UyMGo2OVJGTmpVT1MwVlUxbXM1cVhVU3ZnVUM0OWs4TFJwd1hEWUFFbTBxV1ZDRzByWjZ3bWdEWWVtaEZaWDRnZ1JxUm5oZHBBdEhQNlpMZDJrUTNYNFM0M25GczVfRUNobl83V0otb0g5WUFwREhoTjlUbWJLU2tyTzF1M1dmMjdTNUtOTnh0U2lIRUpuRg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-23/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "biomaterial",
+          "definition_es": "material biocompatible usado en aplicaciones médicas y de cuidado de heridas",
+          "definition_en": "biomaterial - biocompatible material used in medical and wound care applications"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de curación y regeneración de tejido dañado",
+          "definition_en": "healing - biological process of repair and regeneration of damaged tissue"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material especializado que cubre y protege heridas para optimizar la curación",
+          "definition_en": "dressing - specialized material that covers and protects wounds to optimize healing"
+        },
+        {
+          "word": "investigación translacional",
+          "definition_es": "investigación que conecta descubrimientos de laboratorio con aplicaciones clínicas",
+          "definition_en": "translational research - research that connects laboratory discoveries with clinical applications"
+        }
+      ],
+      "added_at": "2026-07-23T09:51:54.314806Z"
+    },
     {
       "id": "chronic-wounds-20250722",
       "category": "Chronic Wounds",
@@ -32339,6 +32487,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-22T09:53:22.667498Z",
+  "last_updated": "2026-07-23T09:51:54.314806Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
