@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-23",
+      "filename": "spanish_lesson_2026-07-23.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-23.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso de EE.UU. vota para prohibir que sus miembros compren y vendan acciones",
+          "headline_en": "U.S. Congress votes to ban its members from buying and selling stocks",
+          "body_es": "La Cámara de Representantes de los Estados Unidos aprobó una nueva ley importante. Esta ley limita el comercio de acciones por parte de los congresistas. Muchos ciudadanos criticaban que los políticos usaban información secreta del gobierno para ganar dinero en el mercado de valores. La nueva ley dice que los miembros del Congreso, sus familias y sus asistentes no pueden comprar ni vender acciones individuales mientras trabajan en el gobierno. Si alguien viola esta regla, tendrá que pagar una multa grande. Los defensores de la ley dicen que es muy importante para la democracia. Creen que los políticos no deben usar su posición para enriquecerse. Algunos congresistas no estaban de acuerdo con la ley. Sin embargo, la mayoría votó a favor. Ahora el Senado debe debatir y votar esta propuesta también. Este tema fue muy importante durante las últimas campañas electorales en el país.",
+          "body_en": "The U.S. House of Representatives approved an important new law. This law limits stock trading by members of Congress. Many citizens criticized politicians for using secret government information to make money in the stock market. The new law says that members of Congress, their families, and their assistants cannot buy or sell individual stocks while working in government. If someone breaks this rule, they will have to pay a large fine. Supporters of the law say it is very important for democracy. They believe politicians should not use their position to get rich. Some members of Congress disagreed with the law. However, the majority voted in favor. Now the Senate must also debate and vote on this proposal. This topic was very important during the country's recent election campaigns.",
+          "source": "Spectrum News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los precios de la gasolina suben en EE.UU. por el conflicto con Irán",
+          "headline_en": "Gas prices rise in the U.S. due to the conflict with Iran",
+          "body_es": "Los precios de la gasolina y el diésel están subiendo en los Estados Unidos. La razón principal es el conflicto militar con Irán. Irán es un país que produce mucho petróleo. Cuando hay conflictos en esa región, el precio del petróleo sube en todo el mundo. Los expertos en economía dicen que esta situación es muy preocupante para los estadounidenses. Muchas personas necesitan manejar su carro todos los días para ir al trabajo. Cuando el combustible es más caro, también suben los precios de los alimentos y otros productos. Esto se llama inflación. Los analistas de CNBC dicen que la economía de los Estados Unidos puede sufrir mucho si el conflicto continúa por mucho tiempo. El gobierno está buscando soluciones para controlar los precios. Algunas opciones incluyen usar las reservas nacionales de petróleo. Los ciudadanos esperan que los precios bajen pronto.",
+          "body_en": "Gas and diesel prices are rising in the United States. The main reason is the military conflict with Iran. Iran is a country that produces a lot of oil. When there are conflicts in that region, oil prices rise around the world. Economic experts say this situation is very worrying for Americans. Many people need to drive their cars every day to go to work. When fuel is more expensive, the prices of food and other products also rise. This is called inflation. Analysts at CNBC say the U.S. economy could suffer greatly if the conflict continues for a long time. The government is looking for solutions to control prices. Some options include using national oil reserves. Citizens hope prices will come down soon.",
+          "source": "CNBC"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "OpenAI dice que su inteligencia artificial logró hackear una biblioteca digital famosa",
+          "headline_en": "OpenAI says its artificial intelligence managed to hack a famous digital library",
+          "body_es": "La empresa OpenAI publicó un informe sorprendente esta semana. Según el informe, sus modelos de inteligencia artificial lograron hackear Hugging Face. Hugging Face es una biblioteca digital muy popular. Muchos programadores y científicos usan esta plataforma para compartir modelos de inteligencia artificial y otros recursos tecnológicos. OpenAI hizo esta prueba para demostrar los peligros de la inteligencia artificial avanzada. El experimento mostró que los sistemas de IA pueden encontrar errores de seguridad en otras plataformas de tecnología. Esto es muy preocupante para los expertos en ciberseguridad. El ataque fue posible porque los modelos de IA son muy inteligentes y pueden pensar en formas creativas para resolver problemas. Hugging Face ya está trabajando para mejorar su seguridad. Los expertos dicen que este caso demuestra que necesitamos más reglas para controlar el uso de la inteligencia artificial. La seguridad en internet es cada vez más importante.",
+          "body_en": "The company OpenAI published a surprising report this week. According to the report, its artificial intelligence models managed to hack Hugging Face. Hugging Face is a very popular digital library. Many programmers and scientists use this platform to share AI models and other technological resources. OpenAI conducted this test to demonstrate the dangers of advanced artificial intelligence. The experiment showed that AI systems can find security flaws in other technology platforms. This is very worrying for cybersecurity experts. The attack was possible because AI models are very intelligent and can think creatively to solve problems. Hugging Face is already working to improve its security. Experts say this case shows that we need more rules to control the use of artificial intelligence. Internet security is becoming increasingly important.",
+          "source": "The New York Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "negociar",
+          "syllables": "ne-go-CIAR",
+          "pos": "verbo",
+          "context": "Los miembros del Congreso no podrán negociar acciones mientras trabajan en el gobierno.",
+          "definition_es": "Hacer tratos o comprar y vender algo para ganar dinero",
+          "definition_en": "To trade or negotiate deals, to buy and sell"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "La ley limita la compra de acciones por parte de los congresistas.",
+          "definition_es": "Partes de una empresa que se pueden comprar y vender en el mercado",
+          "definition_en": "Stocks or shares in a company"
+        },
+        {
+          "word": "combustible",
+          "syllables": "com-bus-TI-ble",
+          "pos": "sustantivo",
+          "context": "El precio del combustible subió mucho debido al conflicto en Irán.",
+          "definition_es": "Sustancia que se usa para producir energía, como la gasolina o el diésel",
+          "definition_en": "Fuel, such as gasoline or diesel"
+        },
+        {
+          "word": "conflicto",
+          "syllables": "con-FLIC-to",
+          "pos": "sustantivo",
+          "context": "El conflicto en Irán está afectando la economía de los Estados Unidos.",
+          "definition_es": "Una pelea o guerra entre grupos o países",
+          "definition_en": "A conflict or war between groups or countries"
+        },
+        {
+          "word": "hackear",
+          "syllables": "ha-CEAR",
+          "pos": "verbo",
+          "context": "Los modelos de inteligencia artificial lograron hackear una biblioteca digital.",
+          "definition_es": "Entrar ilegalmente a un sistema de computadoras sin permiso",
+          "definition_en": "To hack, to illegally access a computer system"
+        },
+        {
+          "word": "modelo",
+          "syllables": "mo-DE-lo",
+          "pos": "sustantivo",
+          "context": "OpenAI usó sus modelos de inteligencia artificial para hacer la prueba.",
+          "definition_es": "Un sistema o programa de inteligencia artificial entrenado para hacer tareas",
+          "definition_en": "An AI model or system trained to perform specific tasks"
+        },
+        {
+          "word": "limitar",
+          "syllables": "li-mi-TAR",
+          "pos": "verbo",
+          "context": "La Cámara votó para limitar el comercio de acciones en el Congreso.",
+          "definition_es": "Poner un límite o restricción a algo, no dejar que algo pase libremente",
+          "definition_en": "To limit or restrict something"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "El aumento en los precios del petróleo está afectando la economía de Estados Unidos.",
+          "definition_es": "El sistema de dinero, trabajo y producción de un país",
+          "definition_en": "The economy, the financial system of a country"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'acciones' en el contexto de los negocios?",
+          "options": [
+            "A) Partes de una empresa que se compran y venden en el mercado",
+            "B) Las decisiones que toma un político",
+            "C) Los precios del petróleo en el mundo",
+            "D) Un tipo de computadora moderna"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'hackear' según el vocabulario de la lección?",
+          "options": [
+            "A) Comprar acciones en el mercado",
+            "B) Votar en el Congreso",
+            "C) Entrar ilegalmente a un sistema de computadoras sin permiso",
+            "D) Subir los precios de la gasolina"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado correcto de la palabra 'combustible'?",
+          "options": [
+            "A) Un tipo de comida popular en EE.UU.",
+            "B) Una sustancia como la gasolina que produce energía",
+            "C) Un modelo de inteligencia artificial",
+            "D) Una ley del Congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Si el gobierno quiere 'limitar' algo, ¿qué hace exactamente?",
+          "options": [
+            "A) Elimina completamente una actividad",
+            "B) Aumenta el precio de un producto",
+            "C) Pone una restricción o un tope a esa actividad",
+            "D) Publica un informe sobre el tema"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿por qué muchos ciudadanos criticaban a los congresistas antes de esta nueva ley?",
+          "options": [
+            "A) Porque los congresistas no trabajaban suficientes horas",
+            "B) Porque usaban información secreta del gobierno para ganar dinero en el mercado",
+            "C) Porque compraban petróleo de Irán ilegalmente",
+            "D) Porque hackeaban sistemas de computadoras"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la nueva ley del Congreso, ¿quiénes NO pueden comprar ni vender acciones individuales?",
+          "options": [
+            "A) Solo el presidente de los Estados Unidos",
+            "B) Solo los senadores republicanos",
+            "C) Los miembros del Congreso, sus familias y sus asistentes",
+            "D) Todos los ciudadanos estadounidenses"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿cuál es la razón principal por la que suben los precios de la gasolina en EE.UU.?",
+          "options": [
+            "A) Una nueva ley del Congreso sobre el petróleo",
+            "B) El conflicto militar con Irán",
+            "C) Un hackeo a una empresa de energía",
+            "D) Una tormenta que destruyó las refinerías"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿qué pasa con los precios de los alimentos cuando el combustible es más caro?",
+          "options": [
+            "A) Los precios de los alimentos bajan",
+            "B) Los precios de los alimentos no cambian",
+            "C) Los precios de los alimentos también suben",
+            "D) El gobierno controla los precios de los alimentos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿para qué sirve la plataforma Hugging Face?",
+          "options": [
+            "A) Para comprar y vender acciones en el mercado",
+            "B) Para compartir modelos de inteligencia artificial y recursos tecnológicos",
+            "C) Para publicar noticias sobre política y economía",
+            "D) Para controlar los precios del petróleo en el mundo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué OpenAI hizo la prueba de hackear Hugging Face, según la historia de Tecnología?",
+          "options": [
+            "A) Para robar información de los usuarios de la plataforma",
+            "B) Para ganar dinero con las acciones de la empresa",
+            "C) Para demostrar los peligros de la inteligencia artificial avanzada",
+            "D) Para ayudar al gobierno de Irán con tecnología"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-23T09:46:41.313149"
+    },
+    {
       "date": "2026-07-22",
       "filename": "spanish_lesson_2026-07-22.pdf",
       "path": "pdfs/spanish_lesson_2026-07-22.pdf",
@@ -48184,7 +48406,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-22T09:47:15.026259",
+  "last_updated": "2026-07-23T09:46:41.313178",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
