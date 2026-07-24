@@ -1,11 +1,196 @@
 {
-  "date": "2026-07-23",
-  "generated_at": "2026-07-23T09:51:54.314806Z",
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T09:51:22.416105Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 878,
-  "new_today": 4,
+  "total_stories": 883,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250724",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo tratamiento para úlceras del pie diabético",
+      "headline_en": "New treatment for diabetic foot ulcers",
+      "summary_es": "Una empresa llamada Merakris Therapeutics recibió una beca importante del gobierno de Estados Unidos para desarrollar un nuevo medicamento llamado MTX-001. Este medicamento puede ayudar a sanar las úlceras del pie en personas con diabetes.",
+      "body_es": "Merakris Therapeutics es una empresa de medicina. Recibió dinero del Instituto Nacional de Salud de Estados Unidos. El dinero es para estudiar un nuevo medicamento. El medicamento se llama MTX-001. Los pacientes con diabetes tienen úlceras en los pies. Estas heridas son graves y difíciles de curar. El MTX-001 puede ayudar a sanar estas úlceras. Los doctores van a hacer pruebas en laboratorio. Después, van a hacer pruebas con pacientes. Este tratamiento es muy importante para las personas con diabetes. Las úlceras del pie pueden causar problemas graves. Con este medicamento nuevo, muchas personas pueden mejorar. La curación será más rápida y segura.",
+      "body_en": "Merakris Therapeutics is a medical company. It received funding from the United States National Institutes of Health. The money is to study a new medication. The medication is called MTX-001. Patients with diabetes have ulcers on their feet. These wounds are serious and difficult to heal. MTX-001 can help heal these ulcers. Doctors will perform laboratory tests. After that, they will test with patients. This treatment is very important for people with diabetes. Foot ulcers can cause serious problems. With this new medication, many people can improve. Healing will be faster and safer.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTVmMk1BVEx0aTJfa2tZUHRQVThlWEVydlo4VnRMajdtekFDSjk5N0c0aWwyMUhEN0ppNG5IZWxmbjVoRW9CZlBreFJObmphX2tXLXl3b2Z1UDUxbnVKUnFBUy01VEhpcmNCQVBmOGNwczVrc0MxeFdpLXJzNFN0WkhhUGlzeXgwbUd4VUI1RWVmSzg1NUR5YlNPcUowY211V2dn?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-24/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida profunda en la piel que no cicatriza rápido",
+          "definition_en": "ulcer - deep wound on skin that does not heal quickly"
+        },
+        {
+          "word": "medicamento",
+          "definition_es": "sustancia para tratar una enfermedad",
+          "definition_en": "medication - substance to treat a disease"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of recovering from a wound"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método médico para curar una enfermedad",
+          "definition_en": "treatment - medical method to cure a disease"
+        }
+      ],
+      "added_at": "2026-07-24T09:51:22.416105Z"
+    },
+    {
+      "id": "diabetic-foot-20250724",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "De la úlcera a la amputación: Por qué las úlceras del pie diabético requieren atención urgente",
+      "headline_en": "From wound to amputation: Why diabetic foot ulcers demand urgent attention",
+      "summary_es": "Un médico explica cómo las úlceras del pie diabético pueden progresar rápidamente y causar amputación si no se tratan de manera inmediata y adecuada. La prevención y el tratamiento temprano son fundamentales.",
+      "body_es": "Las úlceras del pie diabético representan una complicación grave que afecta a millones de pacientes en todo el mundo. Cuando los pacientes con diabetes no reciben tratamiento inmediato, estas heridas pueden infectarse y causar necrosis tisular. Si la infección se propaga, puede ser necesaria la amputación del pie o la pierna. Los médicos enfatizan que la evaluación temprana es esencial. Los pacientes deben examinar sus pies diariamente para detectar lesiones. El desbridamiento de tejido muerto y el manejo de la infección son tratamientos críticos. La neuropatía diabética reduce la sensibilidad, lo que significa que los pacientes no sienten el dolor de las úlceras. Por eso, muchas personas no buscan ayuda hasta que la lesión es muy grave. El control glucémico y el cuidado preventivo pueden evitar estas complicaciones. Los enfermeros juegan un papel importante en la educación del paciente sobre la prevención y el autocuidado.",
+      "body_en": "Diabetic foot ulcers represent a serious complication affecting millions of patients worldwide. When patients with diabetes do not receive immediate treatment, these wounds can become infected and cause tissue necrosis. If the infection spreads, amputation of the foot or leg may be necessary. Doctors emphasize that early evaluation is essential. Patients should examine their feet daily to detect injuries. Debridement of dead tissue and infection management are critical treatments. Diabetic neuropathy reduces sensitivity, meaning patients do not feel the pain of ulcers. That is why many people do not seek help until the injury is very severe. Glycemic control and preventive care can prevent these complications. Nurses play an important role in patient education about prevention and self-care.",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlFSM2V5SFI1VlNTdUJBM3Zya24xczBOOTMxckI1OGF4LVdjY25oN2xCV2hnMmtVR3ZJMkx2TENTMlVMcm1GekEzZ001SEV6Q3JOOEdzM0hxNFlIYmh6cnJFZ0psSkwxSTZpc25LY0dNSjNSOGRsbE8xbzNkdXY4cE9iZU51NkVTRy1MOXJMUXNvZkFYaEJtbklILXBMMTVQVTBBaDlURFdSZUlMODllRUJSNXJrbUVnTXJvMm1JeUFpM1NybWpZaWdZZWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-24/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open lesion on skin that does not heal easily"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido corporal",
+          "definition_en": "necrosis - death of body tissue"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación quirúrgica del tejido muerto o dañado",
+          "definition_en": "debridement - surgical removal of dead or damaged tissue"
+        },
+        {
+          "word": "neuropatía",
+          "definition_es": "enfermedad que afecta los nervios y reduce la sensibilidad",
+          "definition_en": "neuropathy - disease affecting nerves and reducing sensation"
+        }
+      ],
+      "added_at": "2026-07-24T09:51:22.416105Z"
+    },
+    {
+      "id": "burn-care-20250724",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Unidad de oxígeno hiperbárico lanzada en hospital para mejorar tratamiento de quemaduras",
+      "headline_en": "Hyperbaric oxygen therapy unit launched at hospital to improve burn treatment",
+      "summary_es": "El Hospital Grace Kennett Foundation lanzó una nueva unidad de oxígeno hiperbárico para tratar pacientes con quemaduras graves. Esta terapia avanzada acelera la cicatrización de heridas y reduce el riesgo de infección.",
+      "body_es": "El Hospital Grace Kennett Foundation ha inaugurado recientemente una unidad de oxígeno hiperbárico para mejorar el tratamiento de pacientes con quemaduras. La oxigenoterapia hiperbárica es un tratamiento avanzado que aumenta la presión de oxígeno en la sangre. Este proceso estimula la angiogénesis, que es la formación de nuevos vasos sanguíneos en las heridas. Los pacientes con quemaduras de segundo y tercer grado se benefician significativamente de esta terapia. Durante el tratamiento, los pacientes se colocan en una cámara presurizada con oxígeno al cien por cien. Las sesiones duran aproximadamente noventa minutos y se realizan varias veces por semana. La oxigenoterapia hiperbárica reduce el edema, previene la infección y acelera la epitelización. Los cirujanos pueden usar esta terapia antes o después de los injertos de piel. Esta nueva unidad representa un avance importante en el cuidado de quemaduras en la región.",
+      "body_en": "Grace Kennett Foundation Hospital has recently inaugurated a hyperbaric oxygen therapy unit to improve treatment of burn patients. Hyperbaric oxygen therapy is an advanced treatment that increases oxygen pressure in the blood. This process stimulates angiogenesis, which is the formation of new blood vessels in wounds. Patients with second and third-degree burns benefit significantly from this therapy. During treatment, patients are placed in a pressurized chamber with one hundred percent oxygen. Sessions last approximately ninety minutes and are performed several times per week. Hyperbaric oxygen therapy reduces edema, prevents infection, and accelerates epithelialization. Surgeons can use this therapy before or after skin grafts. This new unit represents an important advance in burn care in the region.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPejgyVDdVTkFHSnVCeHZRMTduMFFkcW5PY1dwbmNSUVZUaEUxSjgweDIweWZaYXRwTlhXXzEweGpXWHgta0MxNXRlTmVmeVREcVJ6bkpBOVJjem9uVUNyb1d3WXBDNnZFRm9kMEtnTFJ0MzRfeTNkYXhDX1pnTm1FZnUyVXFmX3hwd2pucE00bVdFdE90TU9qZE1PbXdlTDdFbmI5cnVHTURHUXhQazg2WGI1MWx1UGp4cGRIeldjOW80QUttUG9fMHo0dXdXNDFtUHFzYkdkTmVya2M3MjBj0gHfAUFVX3lxTE96ODJUN1VOQUdKdUJ4dlExN24wUWRxbk9jV3BuY1JRVlRoRTFKODB4MjB5ZlphdHBOWFdfMTB4aldYeC1rQzE1dGVOZWZ5VERxUnpuSkE5UmN6b25VQ3JvV3dZcEM2dkVGb2QwS2dMUnQzNF95M2RheENfWmdObUVmdTJVcWZfeHB3am5wTTRtV0V0T3RNT2pkTU9td2VMN0VuYjlydUdNREdReFBrODZYYjUxbHVQanhwZEh6V2M5bzRBS21Qb18wejR1d1c0MW1QcXNiR2ROZXJrYzcyMGM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-24/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión en la piel causada por calor, fuego o radiación",
+          "definition_en": "burn - injury to skin caused by heat, fire, or radiation"
+        },
+        {
+          "word": "oxígeno hiperbárico",
+          "definition_es": "tratamiento con oxígeno a alta presión en cámara especial",
+          "definition_en": "hyperbaric oxygen - treatment with oxygen at high pressure in special chamber"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - process of new skin forming over a wound"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de piel de un área a otra para cubrir quemaduras",
+          "definition_en": "skin graft - transplant of skin from one area to another to cover burns"
+        }
+      ],
+      "added_at": "2026-07-24T09:51:22.416105Z"
+    },
+    {
+      "id": "surgical-wounds-20250724",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Directrices para ajustar tratamiento del cáncer en pacientes sometidos a cirugía dermatológica",
+      "headline_en": "Guidelines for adjusting cancer treatment in dermatologic surgery patients",
+      "summary_es": "Nuevas directrices de Medscape proporcionan recomendaciones para los médicos sobre cómo ajustar el tratamiento del cáncer en pacientes que se someten a procedimientos quirúrgicos dermatológicos, asegurando cicatrización óptima de las heridas.",
+      "body_es": "Los pacientes con cáncer de piel que requieren cirugía dermatológica presentan desafíos especiales en el manejo de heridas postoperatorias. Las nuevas directrices publicadas por Medscape ofrecen orientación clínica sobre cómo equilibrar el tratamiento del cáncer con la cicatrización de heridas quirúrgicas. Los dermatólogos y oncólogos deben coordinar cuidadosamente la administración de quimioterapia y radioterapia para no comprometer la curación de las incisiones. Durante la fase inicial postoperatoria, los cuidados de la herida incluyen el control de la infección y el manejo del exudado. Los apósitos especializados pueden acelerar la epitelización sin interferir con el tratamiento oncológico. Los pacientes inmunocomprometidos tienen mayor riesgo de complicaciones quirúrgicas, incluyendo infección y dehiscencia de heridas. Las sutures deben removerse en el tiempo apropiado para evitar marcas permanentes mientras se mantiene la integridad de la herida. El seguimiento a largo plazo es esencial para monitorear tanto la recurrencia del cáncer como la calidad de la cicatrización.",
+      "body_en": "Patients with skin cancer requiring dermatologic surgery present special challenges in managing postoperative wounds. New guidelines published by Medscape offer clinical guidance on how to balance cancer treatment with surgical wound healing. Dermatologists and oncologists must carefully coordinate chemotherapy and radiotherapy administration to avoid compromising incision healing. During the initial postoperative phase, wound care includes infection control and exudate management. Specialized dressings can accelerate epithelialization without interfering with cancer treatment. Immunocompromised patients have higher risk of surgical complications, including infection and wound dehiscence. Sutures should be removed at the appropriate time to avoid permanent scarring while maintaining wound integrity. Long-term follow-up is essential to monitor both cancer recurrence and scar quality.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelM2b0ZKbl9xOGdNZjRJaVByb0M2b3FoLW5sQUc5UFRsMGNtbDVWRGlxaXA5eGhNLVVzVG5TaUtwYkptY0phWEFQT0NEZ0JhMHpFaDBQZVVlRlhaWVhOMlVXWjFZd1R6M3dXeEJTS05aWXhmaTI4S29PLXBNU2pILVZhQ2l5WlV1Wk42YVUwelp6bTJaZlJNMmtXZTBDdGtnbUZ0bTY5RVM?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-24/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "incisión",
+          "definition_es": "corte hecho durante la cirugía",
+          "definition_en": "incision - cut made during surgery"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de cobertura de la herida con nueva piel",
+          "definition_en": "epithelialization - process of wound coverage with new skin"
+        },
+        {
+          "word": "dehiscencia",
+          "definition_es": "reapertura de una herida cerrada",
+          "definition_en": "dehiscence - reopening of a closed wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - material placed over a wound to protect it"
+        }
+      ],
+      "added_at": "2026-07-24T09:51:22.416105Z"
+    },
+    {
+      "id": "wound-research-20250724",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "La Universidad de Arizona otorga casi $1 millón para avanzar investigación sanitaria impulsada por inteligencia artificial",
+      "headline_en": "University of Arizona awards nearly $1 million to advance AI-driven health research",
+      "summary_es": "La Universidad de Arizona ha asignado fondos significativos para proyectos de investigación que utilizan inteligencia artificial en aplicaciones clínicas, incluyendo estudios sobre cicatrización de heridas y regeneración tisular.",
+      "body_es": "La Universidad de Arizona ha anunciado una inversión de casi un millón de dólares para financiar proyectos innovadores de investigación sanitaria que utilizan inteligencia artificial. Estos fondos apoyan varios estudios clínicos, incluyendo investigaciones sobre cicatrización acelerada de heridas y regeneración de tejidos. Los algoritmos de aprendizaje automático pueden analizar imágenes de heridas para evaluar el progreso de la cicatrización de manera más precisa que la evaluación clínica tradicional. Los investigadores están desarrollando sistemas de inteligencia artificial que predicen el riesgo de complicaciones de heridas, como infecciones o dehiscencia. La inteligencia artificial también ayuda a personalizar los tratamientos según las características específicas de cada paciente y su tipo de herida. Los datos recopilados de estos estudios contribuirán a protocolos de cuidado de heridas basados en evidencia. Esta investigación tiene aplicaciones potenciales para pacientes con úlceras crónicas, quemaduras, y heridas quirúrgicas complejas. La colaboración entre ingenieros informáticos y profesionales de la salud es fundamental para el éxito de estos proyectos innovadores.",
+      "body_en": "The University of Arizona has announced an investment of nearly one million dollars to fund innovative health research projects using artificial intelligence. These funds support several clinical studies, including research on accelerated wound healing and tissue regeneration. Machine learning algorithms can analyze wound images to assess healing progress more accurately than traditional clinical evaluation. Researchers are developing artificial intelligence systems that predict the risk of wound complications, such as infections or dehiscence. Artificial intelligence also helps personalize treatments based on each patient's specific characteristics and wound type. Data collected from these studies will contribute to evidence-based wound care protocols. This research has potential applications for patients with chronic ulcers, burns, and complex surgical wounds. Collaboration between computer engineers and health professionals is fundamental to the success of these innovative projects.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFk4RXFhMHNKTS01Um05dW91V3dCbFB0ejJtRUs5ZU54OEFyeE85ZDNPUlEwRFAzbTZGQ2JvSkdvejdSQ25pYXIybXp3MjRWRjR4cHFWQ0NLSXM0eDBZN1ZEZy0yV3ZGQVpMZ281Y1ZHZldRQTJ0Mnh3ekxQVUpiOFYwQ25WbU5CbHJQeUVjVk5WUlQtcEdXT0VxVkROOWxiT3lPby1n?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-24/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de cierre y recuperación de una herida",
+          "definition_en": "healing - process of closure and recovery of a wound"
+        },
+        {
+          "word": "inteligencia artificial",
+          "definition_es": "tecnología que permite a las máquinas aprender y analizar datos",
+          "definition_en": "artificial intelligence - technology allowing machines to learn and analyze data"
+        },
+        {
+          "word": "aprendizaje automático",
+          "definition_es": "técnica de inteligencia artificial que permite a los programas aprender de datos",
+          "definition_en": "machine learning - AI technique allowing programs to learn from data"
+        },
+        {
+          "word": "regeneración tisular",
+          "definition_es": "proceso de formación de nuevo tejido para reemplazar tejido dañado",
+          "definition_en": "tissue regeneration - process of forming new tissue to replace damaged tissue"
+        }
+      ],
+      "added_at": "2026-07-24T09:51:22.416105Z"
+    },
     {
       "id": "chronic-wounds-20250723",
       "category": "Chronic Wounds",
@@ -32487,6 +32672,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-23T09:51:54.314806Z",
+  "last_updated": "2026-07-24T09:51:22.416105Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
