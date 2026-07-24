@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-24",
+      "filename": "spanish_lesson_2026-07-24.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-24.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "La Cámara quiere parar la guerra con Irán, pero el Senado republicano dice que no",
+          "headline_en": "The House wants to stop the war with Iran, but the Republican Senate says no",
+          "body_es": "La Cámara de Representantes de Estados Unidos votó para terminar las operaciones militares contra Irán. Esta es una decisión muy importante para el país. La mayoría de los representantes quieren parar el conflicto. Sin embargo, los senadores republicanos votaron de manera diferente. Ellos quieren permitir que el presidente Trump continúe con las acciones militares. El Senado bloqueó la decisión de la Cámara. Esto significa que Trump puede seguir dirigiendo operaciones contra Irán por ahora. Los dos grupos del Congreso no están de acuerdo sobre este tema. La Cámara piensa que el presidente necesita permiso especial del Congreso para continuar una guerra. Los republicanos del Senado creen que el presidente ya tiene ese poder. Este desacuerdo muestra la división política en Washington sobre la política exterior de Estados Unidos con Irán.",
+          "body_en": "The United States House of Representatives voted to end military operations against Iran. This is a very important decision for the country. The majority of representatives want to stop the conflict. However, Republican senators voted differently. They want to allow President Trump to continue with military actions. The Senate blocked the House's decision. This means Trump can continue directing operations against Iran for now. The two groups in Congress do not agree on this issue. The House believes the president needs special permission from Congress to continue a war. Senate Republicans believe the president already has that power. This disagreement shows the political division in Washington over US foreign policy with Iran.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El miedo a la estanflación regresa mientras el petróleo sube a 100 dólares",
+          "headline_en": "Fear of stagflation returns as oil rises to 100 dollars",
+          "body_es": "Los mercados financieros están nerviosos otra vez. Los economistas hablan de estanflación, una situación económica muy difícil. La estanflación ocurre cuando los precios suben mucho pero la economía no crece. Esto es muy malo para los trabajadores y las familias. El precio del petróleo subió hasta cien dólares por barril. Este aumento preocupa a muchos inversores y empresas en todo el mundo. Cuando el petróleo es caro, todo cuesta más. Los productos, el transporte y la energía se vuelven más caros también. Los mercados de acciones bajaron porque los inversores tienen miedo. Muchos expertos comparan esta situación con los años setenta, cuando Estados Unidos tuvo estanflación por primera vez. El gobierno y los bancos centrales buscan soluciones para controlar la inflación sin dañar el crecimiento económico. Por ahora, la situación es incierta y preocupante.",
+          "body_en": "Financial markets are nervous again. Economists are talking about stagflation, a very difficult economic situation. Stagflation occurs when prices rise a lot but the economy does not grow. This is very bad for workers and families. The price of oil rose to one hundred dollars per barrel. This increase worries many investors and companies around the world. When oil is expensive, everything costs more. Products, transportation, and energy also become more expensive. Stock markets fell because investors are afraid. Many experts compare this situation to the seventies, when the United States experienced stagflation for the first time. The government and central banks are looking for solutions to control inflation without harming economic growth. For now, the situation is uncertain and worrying.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Un asesor de Trump dice que la inteligencia artificial de China robó datos de una empresa americana",
+          "headline_en": "A Trump adviser says China's AI stole data from an American company",
+          "body_es": "Un asesor de tecnología del presidente Trump hizo una acusación muy seria. Él dijo que una empresa china de inteligencia artificial llamada Moonshot AI robó información de Anthropic. Anthropic es una compañía americana muy importante en el mundo de la inteligencia artificial. Según el asesor, Moonshot AI usó datos secretos de Anthropic sin permiso. Esto es ilegal y muy peligroso para la industria tecnológica. La inteligencia artificial necesita muchos datos para aprender y funcionar bien. Robar esos datos da una ventaja muy grande a los competidores. Las relaciones entre Estados Unidos y China en el área de tecnología ya son difíciles. Este nuevo caso aumenta la tensión entre los dos países. El gobierno americano investiga esta situación con atención. Anthropic no ha confirmado oficialmente el robo todavía. Pero el caso muestra los grandes problemas de seguridad en el mundo digital de hoy.",
+          "body_en": "A technology adviser to President Trump made a very serious accusation. He said that a Chinese artificial intelligence company called Moonshot AI stole information from Anthropic. Anthropic is a very important American company in the world of artificial intelligence. According to the adviser, Moonshot AI used secret data from Anthropic without permission. This is illegal and very dangerous for the technology industry. Artificial intelligence needs a lot of data to learn and function well. Stealing that data gives a huge advantage to competitors. Relations between the United States and China in the technology area are already difficult. This new case increases the tension between the two countries. The American government is closely investigating this situation. Anthropic has not officially confirmed the theft yet. But the case shows the major security problems in today's digital world.",
+          "source": "BBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "votar",
+          "syllables": "vo-TAR",
+          "pos": "verbo",
+          "context": "La Cámara de Representantes votó para terminar la guerra.",
+          "definition_es": "Expresar una opinión oficial en una elección o decisión política",
+          "definition_en": "To vote"
+        },
+        {
+          "word": "guerra",
+          "syllables": "GUE-rra",
+          "pos": "sustantivo",
+          "context": "Los senadores republicanos quieren continuar la guerra contra Irán.",
+          "definition_es": "Conflicto armado entre países o grupos",
+          "definition_en": "War"
+        },
+        {
+          "word": "estanflación",
+          "syllables": "es-tan-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La estanflación preocupa a los mercados financieros.",
+          "definition_es": "Situación económica con inflación alta y crecimiento bajo al mismo tiempo",
+          "definition_en": "Stagflation"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo asusta a los mercados.",
+          "definition_es": "Lugar o sistema donde se compran y venden productos o acciones",
+          "definition_en": "Market"
+        },
+        {
+          "word": "robar",
+          "syllables": "ro-BAR",
+          "pos": "verbo",
+          "context": "China robó información secreta de una empresa americana.",
+          "definition_es": "Tomar algo que no te pertenece sin permiso",
+          "definition_en": "To steal"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial de China copió datos de una empresa de tecnología.",
+          "definition_es": "Tecnología que permite a las computadoras aprender y resolver problemas como los humanos",
+          "definition_en": "Artificial intelligence"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "El precio del petróleo subió a cien dólares por barril.",
+          "definition_es": "Líquido natural usado para producir gasolina y energía",
+          "definition_en": "Oil / petroleum"
+        },
+        {
+          "word": "senador",
+          "syllables": "se-na-DOR",
+          "pos": "sustantivo",
+          "context": "Los senadores republicanos bloquearon la decisión de la Cámara.",
+          "definition_es": "Político que trabaja en el Senado, parte del gobierno legislativo",
+          "definition_en": "Senator"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'votar'?",
+          "options": [
+            "Volar en avión",
+            "Expresar una opinión oficial en una decisión política",
+            "Hablar en público",
+            "Escribir una ley"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'estanflación'?",
+          "options": [
+            "Cuando la economía crece muy rápido",
+            "Cuando los precios bajan y hay mucho trabajo",
+            "Cuando los precios suben pero la economía no crece",
+            "Cuando el petróleo es muy barato"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'petróleo'?",
+          "options": [
+            "Un tipo de comida",
+            "Líquido natural usado para producir gasolina y energía",
+            "Una moneda internacional",
+            "Un metal precioso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Si alguien 'roba' algo, ¿qué hace?",
+          "options": [
+            "Compra algo en una tienda",
+            "Regala algo a otra persona",
+            "Toma algo que no le pertenece sin permiso",
+            "Vende algo por internet"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿qué hicieron los senadores republicanos?",
+          "options": [
+            "Votaron para terminar la guerra con Irán",
+            "Bloquearon la decisión de la Cámara y permitieron que Trump continúe",
+            "Pidieron negociaciones con Irán",
+            "Apoyaron la decisión de la Cámara de Representantes"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de Política, ¿qué quiere la Cámara de Representantes?",
+          "options": [
+            "Continuar la guerra con Irán indefinidamente",
+            "Dar más poder militar al presidente",
+            "Terminar las operaciones militares contra Irán",
+            "Enviar más soldados a Irán"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿a cuánto subió el precio del petróleo?",
+          "options": [
+            "50 dólares por barril",
+            "75 dólares por barril",
+            "100 dólares por barril",
+            "150 dólares por barril"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿con qué década comparan los expertos esta situación?",
+          "options": [
+            "Los años cincuenta",
+            "Los años sesenta",
+            "Los años setenta",
+            "Los años ochenta"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué empresa americana fue víctima del robo de datos?",
+          "options": [
+            "Google",
+            "Anthropic",
+            "Microsoft",
+            "Apple"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "En la historia de Tecnología, ¿quién hizo la acusación contra Moonshot AI?",
+          "options": [
+            "El presidente de Anthropic",
+            "Un periodista de la BBC",
+            "Un asesor de tecnología del presidente Trump",
+            "Un juez federal americano"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-24T09:45:39.933807"
+    },
+    {
       "date": "2026-07-23",
       "filename": "spanish_lesson_2026-07-23.pdf",
       "path": "pdfs/spanish_lesson_2026-07-23.pdf",
@@ -48406,7 +48628,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-23T09:46:41.313178",
+  "last_updated": "2026-07-24T09:45:39.933835",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
