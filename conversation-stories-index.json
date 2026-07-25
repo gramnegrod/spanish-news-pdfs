@@ -1,225 +1,219 @@
 {
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T09:53:21.937002Z",
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:37:00.530829Z",
   "description": "Daily conversation stories for Spanish practice",
   "stories": [
     {
-      "id": "tech-20250724",
+      "id": "tech-20260725",
       "category": "Tecnología",
       "difficulty": "A2",
       "emoji": "🤖",
       "gradient": "blue",
-      "headline_es": "Las empresas de tecnología despiden empleados por la inteligencia artificial",
-      "headline_en": "Tech companies lay off employees due to artificial intelligence",
-      "summary_es": "Dos empresas de tecnología en San Francisco despiden trabajadores porque la inteligencia artificial hace algunos trabajos automáticamente.",
-      "body_es": "En San Francisco, dos empresas de tecnología grandes anunciaron despidos de empleados. Las empresas dicen que la inteligencia artificial (IA) puede hacer trabajos que antes hacían las personas. La IA es una tecnología nueva muy importante en el mundo. Con la IA, las máquinas aprenden y trabajan solos. Las empresas necesitan menos empleados ahora porque la IA hace el trabajo más rápido. Muchas personas están preocupadas por sus trabajos. Algunos empleados pierden su empleo este año. Las empresas dicen que la IA es el futuro de la tecnología. Pero los trabajadores necesitan encontrar nuevos empleos.",
-      "body_en": "In San Francisco, two major tech companies announced employee layoffs. The companies say that artificial intelligence (AI) can do jobs that people did before. AI is an important new technology in the world. With AI, machines learn and work alone. Companies need fewer employees now because AI does the work faster. Many people are worried about their jobs. Some employees are losing their jobs this year. Companies say that AI is the future of technology. But workers need to find new jobs.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-07-24/tech.mp3",
+      "headline_es": "Corea del Sur abre una nueva era de inteligencia artificial",
+      "headline_en": "South Korea Opens a New Era of Artificial Intelligence",
+      "summary_es": "El presidente de Corea del Sur organiza una cumbre con empresas de tecnología estadounidenses para desarrollar nuevas soluciones de inteligencia artificial. Las compañías grandes quieren trabajar juntas en el futuro.",
+      "body_es": "El presidente Lee de Corea del Sur organiza una cumbre importante con empresas de tecnología. Las compañías como Samsung y SK Group participan en el evento. Muchas empresas estadounidenses también asisten a la reunión. El objetivo es hablar sobre la inteligencia artificial y el futuro de la tecnología. Las empresas firman acuerdos por más de 950 mil millones de dólares. Estos acuerdos ayudan a desarrollar nuevas tecnologías de inteligencia artificial. El presidente Lee dice que es el inicio de una nueva era. Las empresas quieren trabajar juntas para crear soluciones nuevas. La inteligencia artificial es muy importante para el futuro de los países.",
+      "body_en": "South Korea's President Lee hosts an important summit with technology companies. Companies like Samsung and SK Group participate in the event. Many American technology companies also attend the meeting. The goal is to discuss artificial intelligence and the future of technology. Companies sign agreements worth more than 950 billion dollars. These agreements help develop new artificial intelligence technologies. President Lee says this is the beginning of a new era. Companies want to work together to create new solutions. Artificial intelligence is very important for the future of countries.",
+      "audio_url": "",
       "key_vocabulary": [
         {
-          "word": "despedir",
-          "definition_es": "quitar el trabajo a un empleado",
-          "definition_en": "to lay off an employee"
+          "word": "cumbre",
+          "definition_es": "reunión importante entre líderes",
+          "definition_en": "important meeting between leaders"
         },
         {
           "word": "inteligencia artificial",
-          "definition_es": "máquinas que aprenden y trabajan como personas",
-          "definition_en": "machines that learn and work like people"
+          "definition_es": "tecnología que aprende y piensa como los humanos",
+          "definition_en": "technology that learns and thinks like humans"
         },
         {
-          "word": "empleado",
-          "definition_es": "persona que trabaja en una empresa",
-          "definition_en": "person who works for a company"
+          "word": "acuerdos",
+          "definition_es": "contratos entre empresas para trabajar juntas",
+          "definition_en": "contracts between companies to work together"
         },
         {
-          "word": "tecnología",
-          "definition_es": "máquinas y sistemas modernos",
-          "definition_en": "machines and modern systems"
+          "word": "era",
+          "definition_es": "período importante en la historia",
+          "definition_en": "important period in history"
         }
-      ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-07-24/tech-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste la nota? En San Francisco dos tecnológicas gigantes despidieron gente por la IA.  \nCARLOS: ¿En serio? No manches… o sea, “gracias por tu servicio” y ahora te reemplaza un robot.  \nLAURA: Dicen que la IA ya hace chamba que antes hacían personas, y más rápido. ¡Qué fuerte!  \nCARLOS: Sí, la neta la IA está cañona… pero qué miedo. Imagínate llegar y que tu compu ya haga tu trabajo.  \nLAURA: Yo estaría tipo: “¿y mi renta qué, campeón?”  \nCARLOS: Exacto. Las empresas juran que es el futuro, pero la banda necesita reubicarse, aprender otra cosa.  \nLAURA: ¿Tú qué harías si tu trabajo se automatiza?  \nCARLOS: Me meto a cursos, me muevo a algo creativo… o a supervisar a la IA, ¿no?  \nLAURA: Jajaja, “Gerente de robots”: les pones límites y les apagas el WiFi.  \nCARLOS: Y les dices: “Aquí se descansa los domingos, ¿eh?”  \nLAURA: Va, café para nosotros… y actualizamos el CV."
+      ]
     },
     {
-      "id": "sports-20250724",
+      "id": "sports-20260725",
       "category": "Deportes",
       "difficulty": "A2",
       "emoji": "⚽",
       "gradient": "green",
-      "headline_es": "El fútbol juvenil crece con la ayuda del YMCA",
-      "headline_en": "Youth soccer grows with help from the YMCA",
-      "summary_es": "El YMCA ha sido muy importante para desarrollar el fútbol juvenil en Atlanta y en todo Estados Unidos.",
-      "body_es": "El YMCA es una organización importante en Atlanta. Hace muchos años, el YMCA comenzó programas de fútbol para niños y jóvenes. El fútbol es un deporte popular en Estados Unidos ahora. Muchos niños juegan fútbol en las escuelas y en los parques. El YMCA organiza partidos y entrenamientos para los jóvenes. Los entrenadores enseñan a los niños cómo jugar correctamente. El fútbol juvenil es bueno para la salud de los niños. También ayuda a los jóvenes a tener amigos nuevos. Hoy, miles de niños juegan fútbol en Atlanta gracias al YMCA. El deporte continúa creciendo cada año.",
-      "body_en": "The YMCA is an important organization in Atlanta. Many years ago, the YMCA started soccer programs for children and young people. Soccer is a popular sport in the United States now. Many children play soccer in schools and parks. The YMCA organizes matches and training for young people. Coaches teach children how to play correctly. Youth soccer is good for children's health. It also helps young people make new friends. Today, thousands of children play soccer in Atlanta thanks to the YMCA. The sport continues to grow every year.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-07-24/sports.mp3",
+      "headline_es": "Escocia comienza con éxito en baloncesto 3x3",
+      "headline_en": "Scotland Makes Steady Start in Men's 3x3 Basketball",
+      "summary_es": "El equipo de baloncesto 3x3 de Escocia comienza su competencia con buenos resultados. Los jugadores escoceses juegan con mucha energía y determinación.",
+      "body_es": "El equipo de baloncesto 3x3 de Escocia comienza su participación en la competencia. Los jugadores escoceses muestran mucho talento y buena defensa. El equipo gana varios partidos con resultados positivos. El baloncesto 3x3 es un deporte rápido y emocionante. Hay solo tres jugadores de cada equipo en la cancha. Los partidos duran menos tiempo que el baloncesto tradicional. Los aficionados disfrutan mucho viendo este deporte. Escocia tiene grandes esperanzas para los próximos partidos. El entrenador está muy satisfecho con el desempeño del equipo.",
+      "body_en": "Scotland's 3x3 basketball team begins its competition participation. The Scottish players show a lot of talent and good defense. The team wins several games with positive results. 3x3 basketball is a fast and exciting sport. There are only three players from each team on the court. Games last less time than traditional basketball. Fans enjoy watching this sport very much. Scotland has great hopes for the upcoming games. The coach is very satisfied with the team's performance.",
+      "audio_url": "",
       "key_vocabulary": [
         {
-          "word": "fútbol",
-          "definition_es": "deporte con un balón redondo",
-          "definition_en": "sport with a round ball"
+          "word": "baloncesto",
+          "definition_es": "deporte donde dos equipos lanzan una pelota a una canasta",
+          "definition_en": "sport where two teams throw a ball into a basket"
         },
         {
-          "word": "entrenador",
-          "definition_es": "persona que enseña a jugar",
-          "definition_en": "person who teaches how to play"
+          "word": "defensa",
+          "definition_es": "acción de proteger la canasta del equipo contrario",
+          "definition_en": "action of protecting the team's basket from opponents"
         },
         {
-          "word": "joven",
-          "definition_es": "persona con poca edad",
-          "definition_en": "young person"
+          "word": "cancha",
+          "definition_es": "lugar donde se juega el deporte",
+          "definition_en": "place where the sport is played"
         },
         {
-          "word": "programa",
-          "definition_es": "plan de actividades",
-          "definition_en": "plan of activities"
+          "word": "aficionados",
+          "definition_es": "personas que aman ver un deporte",
+          "definition_en": "people who love watching a sport"
         }
       ]
     },
     {
-      "id": "culture-20250724",
+      "id": "culture-20260725",
       "category": "Cultura",
       "difficulty": "B1",
-      "emoji": "🎭",
+      "emoji": "🎬",
       "gradient": "purple",
-      "headline_es": "\"Hadestown\" llega al cine como un éxito de Broadway",
-      "headline_en": "\"Hadestown\" comes to cinema as a Broadway success",
-      "summary_es": "El musical \"Hadestown\" de Broadway finalmente puede ser visto en las salas de cine, permitiendo que más personas disfrutaran de esta obra teatral aclamada.",
-      "body_es": "\"Hadestown\" es un musical de Broadway que ha tenido un gran éxito durante varios años. La obra cuenta la historia del mitología griega, pero de una manera moderna y emocionante. Muchas personas querían ver este musical en el cine, pero no era posible. Ahora, la versión de cine de \"Hadestown\" está disponible para que todos puedan verla. Los críticos dicen que es una de las mejores adaptaciones teatrales al cine. La música es hermosa y los actores actúan excepcionalemente bien. El director de cine logró capturar la magia del teatro en la pantalla. Muchas personas que no pueden ir a Nueva York ahora pueden disfrutar de este musical. \"Hadestown\" combina la tradición con la innovación artística.",
-      "body_en": "\"Hadestown\" is a Broadway musical that has been very successful for several years. The work tells the story of Greek mythology, but in a modern and exciting way. Many people wanted to see this musical in the cinema, but it was not possible. Now, the film version of \"Hadestown\" is available for everyone to see. Critics say it is one of the best theatrical adaptations to film. The music is beautiful and the actors perform exceptionally well. The film director managed to capture the magic of theater on screen. Many people who cannot go to New York can now enjoy this musical. \"Hadestown\" combines tradition with artistic innovation.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-07-24/culture.mp3",
+      "headline_es": "Atari convierte sus juegos clásicos en películas de Hollywood",
+      "headline_en": "Atari Signs Deal with Universal Pictures to Turn Games Into Movies",
+      "summary_es": "La compañía Atari ha firmado un acuerdo con Universal Pictures para convertir diez de sus juegos clásicos en películas. Este proyecto reunirá la nostalgia de los videojuegos retro con la producción cinematográfica moderna.",
+      "body_es": "Atari, la legendaria compañía de videojuegos, ha anunciado un acuerdo importante con Universal Pictures. El trato permite convertir diez juegos clásicos en películas de cine. Este proyecto es ambicioso y promete traer personajes icónicos a la pantalla grande. Los juegos como Pac-Man y Donkey Kong podrían ser algunos de los títulos adaptados. Universal Pictures tiene la experiencia necesaria para producir películas de éxito basadas en propiedad intelectual conocida. Los fans de la era dorada de los videojuegos esperan con entusiasmo estas películas. Se espera que estas películas combinen la nostalgia con la tecnología moderna del cine. Este acuerdo refleja cómo la cultura pop evoluciona y se transforma en nuevas formas de entretenimiento.",
+      "body_en": "Atari, the legendary video game company, has announced an important agreement with Universal Pictures. The deal allows for ten classic games to be turned into feature films. This project is ambitious and promises to bring iconic characters to the big screen. Games like Pac-Man and Donkey Kong could be among the titles adapted. Universal Pictures has the necessary experience to produce successful movies based on well-known intellectual property. Fans of the golden age of video games eagerly await these films. These movies are expected to combine nostalgia with modern cinema technology. This agreement reflects how pop culture evolves and transforms into new forms of entertainment.",
+      "audio_url": "",
       "key_vocabulary": [
         {
-          "word": "musical",
-          "definition_es": "obra teatral con canciones y danzas",
-          "definition_en": "theatrical work with songs and dances"
+          "word": "acuerdo",
+          "definition_es": "contrato entre dos compañías para colaborar",
+          "definition_en": "contract between two companies to collaborate"
         },
         {
-          "word": "mitología",
-          "definition_es": "historias antiguas y legendarias",
-          "definition_en": "ancient and legendary stories"
+          "word": "adaptación",
+          "definition_es": "transformación de una historia de un medio a otro",
+          "definition_en": "transformation of a story from one medium to another"
         },
         {
-          "word": "pantalla",
-          "definition_es": "superficie donde se proyectan películas",
-          "definition_en": "surface where films are projected"
+          "word": "nostalgia",
+          "definition_es": "sentimiento de tristeza y alegría por el pasado",
+          "definition_en": "feeling of sadness and joy about the past"
         },
         {
-          "word": "magia",
-          "definition_es": "encanto o efecto especial",
-          "definition_en": "charm or special effect"
-        }
-      ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-07-24/culture-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¡no manches! “Hadestown” ya llegó al cine.  \nCARLOS: ¿En serio? Yo siempre escuchaba que era EL musical de Broadway, pero… Nueva York me queda tantito lejos.  \nLAURA: Exacto, y ahora ya lo podemos ver aquí, como gente normal con presupuesto de café.  \nCARLOS: Me encanta porque es mitología griega, pero en versión moderna, ¿no? O sea, dioses con vibra actual.  \nLAURA: Sí, y dicen que la música está hermosa. Yo ya me imaginé llorando en la sala con mi combo de palomitas.  \nCARLOS: Jajaja, y los críticos andan diciendo que es de las mejores adaptaciones del teatro al cine. Eso casi nunca pasa.  \nLAURA: ¡Qué padre! Porque luego las adaptaciones se sienten… raras, como cosplay caro.  \nCARLOS: Aquí según capturaron “la magia del teatro”. O sea, que sí se siente vivo.  \nLAURA: Además, qué cool que ya no tienes que ir a Broadway para vivirlo.  \nCARLOS: Va, plan: la vemos y luego nos ponemos intensos analizando a Orfeo con pan dulce."
-    },
-    {
-      "id": "economy-20250724",
-      "category": "Economía",
-      "difficulty": "B1",
-      "emoji": "💹",
-      "gradient": "orange",
-      "headline_es": "Los mercados se preocupan por el aumento de los precios del petróleo",
-      "headline_en": "Markets worry about rising oil prices",
-      "summary_es": "El precio del petróleo ha subido a $100 por barril, lo que genera preocupación sobre la posible estanflación en los mercados mundiales.",
-      "body_es": "Los mercados financieros mundiales están mostrando signos de preocupación mientras que el precio del petróleo sube nuevamente. El barril de petróleo ha alcanzado $100, un nivel que no se veía desde hace tiempo. Los economistas hablan de \"estanflación\", que es cuando la economía crece poco pero los precios suben mucho. Esta combinación es peligrosa para las empresas y los consumidores. Si el petróleo sigue subiendo, también subirán los precios de muchos productos. El transporte y la gasolina costarán más dinero. Las empresas que dependen del petróleo deben prepararse para cambios económicos. Los inversores están atentos a cómo responden los gobiernos a estos cambios. Se espera que los bancos centrales tomen medidas para controlar la inflación.",
-      "body_en": "Global financial markets are showing signs of concern as oil prices rise again. The barrel of oil has reached $100, a level unseen for some time. Economists talk about \"stagflation,\" which is when the economy grows little but prices rise a lot. This combination is dangerous for businesses and consumers. If oil continues to rise, the prices of many products will also rise. Transportation and gasoline will cost more money. Companies that depend on oil must prepare for economic changes. Investors are watching how governments respond to these changes. Central banks are expected to take measures to control inflation.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-07-24/economy.mp3",
-      "key_vocabulary": [
-        {
-          "word": "estanflación",
-          "definition_es": "crecimiento lento con inflación alta",
-          "definition_en": "slow growth with high inflation"
-        },
-        {
-          "word": "barril",
-          "definition_es": "unidad de medida para el petróleo",
-          "definition_en": "unit of measurement for oil"
-        },
-        {
-          "word": "inversor",
-          "definition_es": "persona que pone dinero en negocios",
-          "definition_en": "person who puts money into businesses"
-        },
-        {
-          "word": "inflación",
-          "definition_es": "aumento de los precios",
-          "definition_en": "rise in prices"
+          "word": "propiedad intelectual",
+          "definition_es": "derechos de creador sobre personajes y historias",
+          "definition_en": "creator rights over characters and stories"
         }
       ]
     },
     {
-      "id": "environment-20250724",
+      "id": "economy-20260725",
+      "category": "Economía",
+      "difficulty": "B1",
+      "emoji": "📈",
+      "gradient": "orange",
+      "headline_es": "¿Qué modelo de inteligencia artificial es el mejor operador bursátil?",
+      "headline_en": "Which AI Model is the Best Stock Trader? A Finance Professor Claims to Have the Answer",
+      "summary_es": "Un profesor de finanzas ha realizado un estudio para determinar cuál modelo de inteligencia artificial es más efectivo para operar en los mercados de valores. Sus resultados sugieren que la IA podría revolucionar la forma en que se invierte en bolsa.",
+      "body_es": "Un profesor de finanzas de una universidad prestigiosa ha completado una investigación que compara diferentes modelos de inteligencia artificial. El estudio analiza cómo estos sistemas pueden predecir tendencias del mercado y tomar decisiones de inversión. Según los resultados preliminares, algunos modelos de IA superan significativamente a los operadores humanos tradicionales. El investigador examinó datos históricos del mercado durante varios años. Su análisis reveló patrones que los algoritmos pueden detectar más rápidamente que los humanos. Sin embargo, los expertos advierten que los modelos de IA aún requieren supervisión humana. La volatilidad del mercado presenta desafíos que estos sistemas no pueden predecir completamente. El profesor espera que sus hallazgos contribuyan a mejorar estrategias de inversión en el futuro.",
+      "body_en": "A finance professor from a prestigious university has completed research comparing different artificial intelligence models. The study analyzes how these systems can predict market trends and make investment decisions. According to preliminary results, some AI models significantly outperform traditional human traders. The researcher examined historical market data over several years. His analysis revealed patterns that algorithms can detect faster than humans. However, experts warn that AI models still require human oversight. Market volatility presents challenges that these systems cannot fully predict. The professor hopes his findings will contribute to improving investment strategies in the future.",
+      "audio_url": "",
+      "key_vocabulary": [
+        {
+          "word": "operador",
+          "definition_es": "persona que compra y vende acciones en la bolsa",
+          "definition_en": "person who buys and sells stocks on the stock exchange"
+        },
+        {
+          "word": "tendencias",
+          "definition_es": "direcciones que toman los precios en el mercado",
+          "definition_en": "directions that prices take in the market"
+        },
+        {
+          "word": "algoritmos",
+          "definition_es": "procedimientos matemáticos que usa la IA para resolver problemas",
+          "definition_en": "mathematical procedures that AI uses to solve problems"
+        },
+        {
+          "word": "volatilidad",
+          "definition_es": "cambios rápidos y drásticos en los precios",
+          "definition_en": "rapid and drastic changes in prices"
+        }
+      ]
+    },
+    {
+      "id": "environment-20260725",
       "category": "Medio Ambiente",
       "difficulty": "B2",
       "emoji": "🌍",
       "gradient": "green",
-      "headline_es": "Incendios forestales cerca de Madrid y en Francia obligan a evacuar a decenas de miles",
-      "headline_en": "Wildfires near Madrid and in France force tens of thousands to evacuate",
-      "summary_es": "Incendios masivos en España y Francia han obligado a la evacuación de miles de residentes, evidenciando los efectos del cambio climático en la región mediterránea.",
-      "body_es": "Los incendios forestales que azotan a España y Francia representan una de las crisis ambientales más graves de la temporada estival. Cerca de Madrid y en el suroeste francés, decenas de miles de personas han sido evacuadas de sus hogares debido a la propagación descontrolada de las llamas. Estos desastres naturales, cada vez más frecuentes e intensos, son consecuencia directa del calentamiento global y de las condiciones climáticas extremas. Las temperaturas record han favorecido que la vegetación seca se encienda fácilmente, creando un entorno propicio para incendios de difícil extinción. Las autoridades han implementado operaciones de evacuación a gran escala, mientras que equipos de bomberos trabajan incansablemente para contener el fuego. Se requieren soluciones a largo plazo que incluyan la reforestación, la gestión preventiva de bosques y la reducción de emisiones de gases de efecto invernadero. La comunidad internacional debe reconocer que estos eventos climáticos extremos exigen acciones inmediatas y coordinadas para mitigar el cambio climático.",
-      "body_en": "The forest fires ravaging Spain and France represent one of the most serious environmental crises of the summer season. Near Madrid and in southwestern France, tens of thousands of people have been evacuated from their homes due to the uncontrolled spread of flames. These increasingly frequent and intense natural disasters are a direct consequence of global warming and extreme weather conditions. Record temperatures have facilitated the ignition of dry vegetation, creating an environment conducive to difficult-to-extinguish fires. Authorities have implemented large-scale evacuation operations, while firefighting teams work tirelessly to contain the fire. Long-term solutions are required that include reforestation, preventive forest management, and reduction of greenhouse gas emissions. The international community must recognize that these extreme weather events demand immediate and coordinated action to mitigate climate change.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-07-24/environment.mp3",
+      "headline_es": "Científicos completan estudio sobre la naturaleza que el gobierno había cancelado",
+      "headline_en": "The Government Canceled This Nature Study. Scientists Finished It Anyway",
+      "summary_es": "Después de que el gobierno cancelara un importante estudio ambiental, los científicos independientes continuaron la investigación por su cuenta. Sus hallazgos revelan datos críticos sobre el impacto del cambio climático en los ecosistemas locales.",
+      "body_es": "Un grupo de científicos ambientales enfrentó un obstáculo significativo cuando el gobierno canceló el financiamiento de su estudio sobre la biodiversidad regional. A pesar de los contratiempos administrativos y financieros, los investigadores perseveraron en su compromiso con la ciencia. Demostraron una dedicación admirable al completar la investigación utilizando recursos alternativos y colaboraciones académicas. El estudio, que se prolongó durante varios años, documentó cambios alarmantes en las poblaciones de especies locales. Los datos recopilados revelan correlaciones directas entre el calentamiento global y la migración de fauna silvestre. Los científicos encontraron que ciertos ecosistemas están al borde del colapso si no se implementan medidas de conservación inmediatamente. Sus hallazgos desafían las políticas gubernamentales existentes y sugieren que se requieren intervenciones más agresivas. Este caso ejemplifica cómo la comunidad científica puede mantener su integridad académica incluso cuando enfrenta presiones políticas y presupuestarias.",
+      "body_en": "A group of environmental scientists faced a significant obstacle when the government canceled funding for their study on regional biodiversity. Despite administrative and financial setbacks, researchers persevered in their commitment to science. They demonstrated admirable dedication by completing the research using alternative resources and academic collaborations. The study, which lasted several years, documented alarming changes in local species populations. The collected data reveal direct correlations between global warming and wildlife migration. Scientists found that certain ecosystems are on the brink of collapse if conservation measures are not implemented immediately. Their findings challenge existing government policies and suggest that more aggressive interventions are required. This case exemplifies how the scientific community can maintain academic integrity even when facing political and budgetary pressures.",
+      "audio_url": "",
       "key_vocabulary": [
         {
-          "word": "incendio",
-          "definition_es": "fuego que se propaga descontroladamente",
-          "definition_en": "fire that spreads uncontrollably"
+          "word": "biodiversidad",
+          "definition_es": "variedad de especies vivas en un ecosistema",
+          "definition_en": "variety of living species in an ecosystem"
         },
         {
-          "word": "evacuar",
-          "definition_es": "obligar a personas a abandonar un lugar",
-          "definition_en": "to force people to leave a place"
+          "word": "correlaciones",
+          "definition_es": "relaciones de causa y efecto entre fenómenos",
+          "definition_en": "cause and effect relationships between phenomena"
         },
         {
-          "word": "calentamiento global",
-          "definition_es": "aumento de la temperatura terrestre",
-          "definition_en": "increase in Earth's temperature"
+          "word": "colapso",
+          "definition_es": "destrucción o desaparición total de un sistema",
+          "definition_en": "destruction or total disappearance of a system"
         },
         {
-          "word": "reforestación",
-          "definition_es": "plantación de nuevos árboles",
-          "definition_en": "planting of new trees"
+          "word": "integridad académica",
+          "definition_es": "honestidad y principios éticos en la investigación científica",
+          "definition_en": "honesty and ethical principles in scientific research"
         }
-      ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-07-24/environment-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, ¿viste lo de los incendios cerca de Madrid y en Francia? ¡Está cañón!  \nCARLOS: Sí, no manches… dicen que evacuaron a decenas de miles. O sea, ¡un montón de gente!  \nLAURA: ¿En serio? Imagínate salir corriendo con la maleta y el perrito en brazos… qué estrés.  \nCARLOS: Y con estas temperaturas récord, todo está súper seco. Es como prenderle cerillo a un tostador gigante.  \nLAURA: Jajaja, qué analogía, pero sí… y luego el fuego se pone bien loco, imposible pararlo.  \nCARLOS: Los bomberos andan en friega, y las autoridades con evacuaciones masivas. Suena a película, pero sin palomitas.  \nLAURA: Y lo peor: cada año más seguido. O sea, calentamiento global en modo “sí soy”.  \nCARLOS: Exacto. Y no es solo apagar fuegos: reforestar, cuidar bosques, y bajar emisiones… lo pesado.  \nLAURA: Pues mínimo nosotros: menos coche, más arbolitos, ¿no?  \nCARLOS: Va. Y hoy, café frío… por solidaridad con el calorón."
+      ]
     },
     {
-      "id": "gastro-20250724",
+      "id": "gastronomy-20260725",
       "category": "Gastronomía",
       "difficulty": "B2",
-      "emoji": "🍽️",
+      "emoji": "🍜",
       "gradient": "red",
-      "headline_es": "Chefs de alta cocina crean nuevos restaurantes con un enfoque diferente",
-      "headline_en": "Fine dining chefs create new restaurants with a different approach",
-      "summary_es": "Tres restaurantes excepcionales han sido creados por chefs que abandonaron la cocina de lujo tradicional para explorar nuevas propuestas culinarias innovadoras.",
-      "body_es": "La escena gastronómica contemporánea ha presenciado un movimiento fascinante donde renombrados chefs de alta cocina han decidido alejarse de los restrictivos parámetros de la gastronomía tradicional para establecer propuestas culinarias más accesibles e innovadoras. Tres excelentes restaurantes ejemplifican esta tendencia: cada uno representa un ruptura deliberada con la pretensión y rigidez de la cocina de lujo convencional. Estos establecimientos privilegian la autenticidad de los ingredientes, la creatividad culinaria sin limitaciones y una experiencia gastronómica que prioriza el disfrute genuino sobre la formalidad excesiva. Los chefs han reconocido que la verdadera excelencia culinaria no necesariamente requiere la solemnidad de múltiples cubiertos o la presentación teatral. En cambio, han adoptado un enfoque que combina técnica refinada con ingredientes de calidad superior, preparados de manera que resalta sus características naturales. Estos restaurantes se han convertido en destinos gastronómicos populares, demostrando que existe una demanda significativa por cocina excepcional que es, simultáneamente, más desenfadada y cercana. Este movimiento refleja una evolución en los gustos culinarios contemporáneos, donde la sofisticación y la accesibilidad no son conceptos excluyentes.",
-      "body_en": "The contemporary gastronomic scene has witnessed a fascinating movement where renowned fine dining chefs have decided to move away from the restrictive parameters of traditional gastronomy to establish more accessible and innovative culinary proposals. Three excellent restaurants exemplify this trend: each represents a deliberate break with the pretension and rigidity of conventional luxury cuisine. These establishments privilege the authenticity of ingredients, culinary creativity without limitations, and a gastronomic experience that prioritizes genuine enjoyment over excessive formality. The chefs have recognized that true culinary excellence does not necessarily require the solemnity of multiple place settings or theatrical presentation. Instead, they have adopted an approach that combines refined technique with superior quality ingredients, prepared in a way that highlights their natural characteristics. These restaurants have become popular gastronomic destinations, demonstrating that there is significant demand for exceptional cuisine that is, simultaneously, more relaxed and approachable. This movement reflects an evolution in contemporary culinary tastes, where sophistication and accessibility are not mutually exclusive concepts.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-07-24/gastronomy.mp3",
+      "headline_es": "Los mejores destinos gastronómicos del mundo según los expertos",
+      "headline_en": "The Top 10 Global Cities for Food and Drink, According to the Experts",
+      "summary_es": "Especialistas en gastronomía internacional han identificado las ciudades donde la experiencia culinaria alcanza sus mayores expresiones. Estos destinos combinan tradición ancestral con innovación contemporánea en la preparación de alimentos.",
+      "body_es": "La gastronomía mundial ha identificado diez ciudades que se destacan como epicentros culinarios sin igual. Estos destinos no solo ofrecen comida exquisita, sino que también representan la intersección de culturas, tradiciones y técnicas innovadoras. Ciudades como Tokio, París y Bangkok han consolidado su reputación a través de generaciones de maestría culinaria. Lo que distingue a estas metrópolis es su capacidad para honrar técnicas ancestrales mientras abrazan métodos modernos de preparación. Los restaurantes premiados en estas ciudades a menudo cuentan historias a través de sus platos, reflejando la geografía, historia y valores de sus comunidades. Los expertos subrayan que la excelencia gastronómica requiere no solo ingredientes de calidad superior, sino también un profundo conocimiento de sabores y texturas. La tendencia actual observa una valorización creciente de la cocina regional autóctona sobre las tendencias globalizadas. Estos destinos gastronómicos se han convertido en pilares del turismo cultural, atrayendo a viajeros que buscan experiencias auténticas y memorables a través de la mesa.",
+      "body_en": "World gastronomy has identified ten cities that stand out as unparalleled culinary epicenters. These destinations not only offer exquisite food but also represent the intersection of cultures, traditions, and innovative techniques. Cities like Tokyo, Paris, and Bangkok have solidified their reputation through generations of culinary mastery. What distinguishes these metropolises is their ability to honor ancestral techniques while embracing modern preparation methods. Award-winning restaurants in these cities often tell stories through their dishes, reflecting the geography, history, and values of their communities. Experts emphasize that gastronomic excellence requires not only superior ingredients but also profound knowledge of flavors and textures. The current trend observes growing appreciation of indigenous regional cuisine over globalized trends. These gastronomic destinations have become pillars of cultural tourism, attracting travelers seeking authentic and memorable experiences through dining.",
+      "audio_url": "",
       "key_vocabulary": [
         {
-          "word": "gastronomía",
-          "definition_es": "arte de preparar y disfrutar la comida",
-          "definition_en": "art of preparing and enjoying food"
+          "word": "epicentros",
+          "definition_es": "centros principales donde ocurren fenómenos importantes",
+          "definition_en": "main centers where important phenomena occur"
         },
         {
-          "word": "autenticidad",
-          "definition_es": "cualidad de ser genuino o verdadero",
-          "definition_en": "quality of being genuine or true"
+          "word": "maestría",
+          "definition_es": "dominio experto de un arte o técnica",
+          "definition_en": "expert mastery of an art or technique"
         },
         {
-          "word": "refinado",
-          "definition_es": "elegante y sofisticado",
-          "definition_en": "elegant and sophisticated"
+          "word": "autóctona",
+          "definition_es": "originaria de un lugar específico, nativa",
+          "definition_en": "originating from a specific place, native"
         },
         {
-          "word": "ingrediente",
-          "definition_es": "elemento que forma parte de una receta",
-          "definition_en": "element that is part of a recipe"
+          "word": "valorización",
+          "definition_es": "acción de aumentar el valor o importancia de algo",
+          "definition_en": "action of increasing the value or importance of something"
         }
       ]
     }
   ],
-  "last_updated": "2026-07-24T09:53:21.937002Z",
+  "last_updated": "2026-07-25T09:37:00.530829Z",
   "generated_by": "GitHub Actions + Anthropic API"
 }
