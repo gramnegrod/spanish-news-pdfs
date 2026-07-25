@@ -1,11 +1,233 @@
 {
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T09:51:22.416105Z",
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:36:27.016860Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 883,
-  "new_today": 5,
+  "total_stories": 889,
+  "new_today": 6,
   "stories": [
+    {
+      "id": "chronic-wounds-20260725",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos modelos de piel en 3D para estudiar heridas crónicas",
+      "headline_en": "New 3D Skin Models to Study Chronic Wounds",
+      "summary_es": "Investigadores desarrollan modelos tridimensionales de piel para entender mejor cómo el microbioma interactúa con las células inmunológicas en heridas crónicas. Este avance ayuda a mejorar los tratamientos.",
+      "body_es": "Los científicos usan modelos de piel en 3D para estudiar las heridas crónicas. Estas heridas no cierran rápidamente y causan problemas graves. El microbioma de la piel es importante. Contiene bacterias que afectan la curación. Las células inmunológicas también participan en el proceso. Los modelos 3D permiten ver cómo trabajan juntas. Los investigadores pueden entender mejor qué hace lenta la curación. Este conocimiento ayuda a crear nuevos tratamientos más efectivos. Los profesionales de enfermería necesitan comprender estos procesos. Así pueden cuidar mejor a los pacientes con heridas crónicas.",
+      "body_en": "Scientists use 3D skin models to study chronic wounds. These wounds do not close quickly and cause serious problems. The skin microbiome is important. It contains bacteria that affect healing. Immune cells also participate in the process. 3D models allow researchers to see how they work together. Researchers can better understand what slows healing. This knowledge helps create new, more effective treatments. Nursing professionals need to understand these processes. This way they can better care for patients with chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRm1GN0JxVEc5MTNFNHFoN00xbTVoZVlMQjljcWpCaVI3a1paZm5TSnRQN1VyWHlpNnZkTFY1c3NkejAtVkVPT1dFakR5QldQT21OWXFsRDBpdUEyb3pKYjVnUEhsa2xvSGNUd3RvaS1aZlVvQkYyTGxmUy1zVWFodGRIZFV5TmpiR09OTVhrcHFER1BESGc4VzhqeXpkc2lNMEdqd3V5S2VJQTdGUTJSSTh5NVhhNTdjOUVJTVY1NDlMb0J1a2c1aUg1M2prYm5ZVzA5YXlwWWVwbDJvWVN2Yjl6UGQ0OE1oOGMxNnlDcks0ekgzOW10VkQxU3hnbVU?oc=5",
+      "audio_url": "",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cierra en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "microbioma",
+          "definition_es": "comunidad de bacterias en la piel",
+          "definition_en": "microbiome - community of bacteria on the skin"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cerrar y sanar una herida",
+          "definition_en": "healing - process of closing and recovering a wound"
+        },
+        {
+          "word": "células inmunológicas",
+          "definition_es": "células que defienden el cuerpo",
+          "definition_en": "immune cells - cells that defend the body"
+        }
+      ],
+      "added_at": "2026-07-25T09:36:27.016860Z"
+    },
+    {
+      "id": "pressure-ulcers-20260725",
+      "category": "Pressure Ulcers",
+      "difficulty": "A2",
+      "emoji": "🛏️",
+      "gradient": "orange",
+      "headline_es": "Mercado crece en prevención de úlceras por presión",
+      "headline_en": "Pressure Ulcer Prevention Market Growing",
+      "summary_es": "La industria de cuidado de salud invierte más en productos para prevenir úlceras por presión. Estos productos ayudan a proteger la piel de pacientes que pasan mucho tiempo en cama.",
+      "body_es": "Las úlceras por presión son un problema grave en hospitales. Se forman cuando la piel no recibe suficiente sangre. Los pacientes en cama están en riesgo alto. Las organizaciones de salud buscan prevenir estas heridas. Compran colchones especiales, vendajes y cojines. El mercado de prevención crece cada año. Los enfermeros aprenden nuevas técnicas de cuidado. Evalúan la piel regularmente. Cambian la posición de los pacientes frecuentemente. Usan apósitos protectores en las zonas de presión. La prevención es más fácil que curar úlceras establecidas.",
+      "body_en": "Pressure ulcers are a serious problem in hospitals. They form when skin does not receive enough blood. Bedridden patients are at high risk. Health organizations seek to prevent these wounds. They purchase special mattresses, dressings, and cushions. The prevention market grows each year. Nurses learn new care techniques. They assess skin regularly. They change patient positions frequently. They use protective dressings on pressure areas. Prevention is easier than treating established ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUM4UDd3a2RjdFRSd0dXQnoxZ21xQlItMERwNFpKVnFzRGlSdXJDZndUNTAwaVNENjBtVm9yWW5WdXF1R3Y5dUo4d0dkd2VFS2J4MEplbFQxZUNxYVl3cGNuS2dWZ0JmaW52VnU1S084ZllyYzlvd2VHaXFYN0VTYzgtT3FwdHZULU1LYVJBOURHcUNJbTlyckJLTEg?oc=5",
+      "audio_url": "",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida causada por presión prolongada en la piel",
+          "definition_en": "pressure ulcer - wound caused by prolonged pressure on skin"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se aplica sobre la herida",
+          "definition_en": "dressing - material applied over the wound"
+        },
+        {
+          "word": "prevención",
+          "definition_es": "acciones para evitar que algo suceda",
+          "definition_en": "prevention - actions to avoid something from happening"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen y análisis de la condición",
+          "definition_en": "assessment - examination and analysis of condition"
+        }
+      ],
+      "added_at": "2026-07-25T09:36:27.016860Z"
+    },
+    {
+      "id": "diabetic-foot-20260725",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "red",
+      "headline_es": "Estudio revela tasas de mortalidad en amputaciones mayores",
+      "headline_en": "Study Reveals Mortality Rates Following Major Amputations",
+      "summary_es": "Un análisis retrospectivo de 15 años en un hospital docente examina la mortalidad perioperatoria en pacientes sometidos a amputaciones mayores. El estudio proporciona datos críticos para mejorar los protocolos de cuidado.",
+      "body_es": "Los investigadores completaron un análisis descriptivo de 15 años sobre mortalidad perioperatoria en amputaciones mayores. El estudio se realizó en un hospital docente de referencia. La amputación es una intervención quirúrgica que se realiza cuando la enfermedad vascular diabética o la infección amenazan la vida del paciente. Los datos muestran las complicaciones que ocurren antes, durante y después de la cirugía. Los especialistas en heridas necesitan entender estos riesgos para preparar a los pacientes. La evaluación preoperatoria incluye análisis de circulación, infección y estado general. El monitoreo postoperatorio es crítico para la supervivencia. El equipo multidisciplinario mejora los resultados clínicos. Estos hallazgos informan las decisiones quirúrgicas futuras.",
+      "body_en": "Researchers completed a 15-year descriptive analysis on perioperative mortality in major amputations. The study was conducted at a teaching hospital. Amputation is a surgical intervention performed when diabetic vascular disease or infection threatens patient life. Data shows complications that occur before, during, and after surgery. Wound care specialists need to understand these risks to prepare patients. Preoperative assessment includes circulation, infection, and general health analysis. Postoperative monitoring is critical for survival. The multidisciplinary team improves clinical outcomes. These findings inform future surgical decisions.",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRWJ0a1JLel9USlV2R3d4MFhPVy04OG9tM1dzTDJpVEc1YmJ0RkVVLTBrM193alQtS3R0UEY3NHl4ODNGVGdwb3lXWlgtdzVISHRlbF95dlBhczFRbndLMXJ6aE9wQVhTcFhId0ZHZTc1OENEamVlRm9mSW5PQkMtOXNleUdoQUFVZmZMdU9nYmJYYmV0OEl3aWZnYWs3N2diOHBINUFRSEc5T1l6TXFCUV9MT0staHptbmZlSmpZeko1RUUydlNWZ0dpX3RzeHQyb2FIYUxsYUstT2lkSWZTTzlydmpZQUk0VGZfc2wtRnU0X1dJSVk4MU5fRmtoUk9LTWVN?oc=5",
+      "audio_url": "",
+      "key_vocabulary": [
+        {
+          "word": "amputación mayor",
+          "definition_es": "extirpación quirúrgica de una extremidad por encima de la articulación",
+          "definition_en": "major amputation - surgical removal of limb above joint"
+        },
+        {
+          "word": "mortalidad perioperatoria",
+          "definition_es": "muerte durante o inmediatamente después de una cirugía",
+          "definition_en": "perioperative mortality - death during or immediately after surgery"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de circulación sanguínea en un tejido",
+          "definition_en": "ischemia - lack of blood circulation to tissue"
+        },
+        {
+          "word": "evaluación preoperatoria",
+          "definition_es": "examen médico antes de la cirugía",
+          "definition_en": "preoperative assessment - medical examination before surgery"
+        }
+      ],
+      "added_at": "2026-07-25T09:36:27.016860Z"
+    },
+    {
+      "id": "burn-care-20260725",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "yellow",
+      "headline_es": "Quemaduras de tercer grado e injertos de piel por dispositivo popular",
+      "headline_en": "Third-Degree Burns and Skin Grafts from Popular Medical Device",
+      "summary_es": "Un dispositivo médico popular ha ocasionado lesiones graves incluyendo quemaduras de tercer grado y la necesidad de injertos de piel en una serie de niños. Los profesionales deben estar alertas sobre los riesgos de seguridad.",
+      "body_es": "Se ha identificado un dispositivo médico popular que ha causado una serie de lesiones graves en niños. Las quemaduras reportadas incluyen lesiones de tercer grado que requirieron procedimientos de injerto de piel. Las quemaduras de tercer grado destruyen todas las capas de la piel incluyendo la epidermis, dermis e hipodermis. Estos pacientes requieren manejo especializado y cuidado postoperatorio intensivo. Los injertos de piel son procedimientos quirúrgicos que transfieren piel sana a las zonas quemadas. La evaluación de las heridas debe ser exhaustiva para determinar la profundidad y extensión del daño. Los profesionales de enfermería deben vigilar signos de infección y complicaciones durante la curación. Este incidente ha generado alertas de seguridad en toda la región.",
+      "body_en": "A popular medical device has been identified as causing a series of serious injuries in children. Reported burns include third-degree lesions requiring skin graft procedures. Third-degree burns destroy all skin layers including epidermis, dermis, and hypodermis. These patients require specialized management and intensive postoperative care. Skin grafts are surgical procedures that transfer healthy skin to burned areas. Wound assessment must be thorough to determine damage depth and extent. Nursing professionals must monitor for infection signs and complications during healing. This incident has generated safety alerts across the region.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLW5oLXRJQS00WDdvNlpJYVl6c0xSU1duZkRjWTI5V3VnajA2RkgyVDRpbGlDMG9JOUlrM01vRndsdHJmNzJIM2xNOW1NOS1oQkZNNU9ncGZRdjc3UmxTNl9CWW01d21PenhMZDlESWFWV0xTdU83bk55Q1BiVk9FSk14ZFFkWUZLSnEzQ1hVWDdocTM2bVJSVERCRjd2dDdwRk5qTTJWcjFQU3VTcmQxclZDaTYtbFNsZG1GSFlzb1NON3g2MnEzZWY5d2tEZDFQSFhnQnNfbGNkQjVIdEZmLU1sOUlTQ3c?oc=5",
+      "audio_url": "",
+      "key_vocabulary": [
+        {
+          "word": "quemadura de tercer grado",
+          "definition_es": "quemadura que destruye todas las capas de la piel",
+          "definition_en": "third-degree burn - burn that destroys all skin layers"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "procedimiento quirúrgico que transfiere piel sana a zona dañada",
+          "definition_en": "skin graft - surgical procedure transferring healthy skin to damaged area"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido dañado o muerto",
+          "definition_en": "debridement - removal of damaged or dead tissue"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - process of new skin formation over wound"
+        }
+      ],
+      "added_at": "2026-07-25T09:36:27.016860Z"
+    },
+    {
+      "id": "surgical-wounds-20260725",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "blue",
+      "headline_es": "Corredor de complicaciones quirúrgicas: puntos ciegos regulatorios en cirugía cosmética",
+      "headline_en": "Complication Corridor: Regulatory Blind Spots in Cosmetic Surgery",
+      "summary_es": "Un análisis exhaustivo revela un patrón de complicaciones quirúrgicas de alto volumen en la región del I-95 relacionado con cirugía cosmética. Los pacientes quedan sin apoyo debido a vacíos regulatorios significativos.",
+      "body_es": "Un estudio reciente examina las complicaciones asociadas con la cirugía cosmética de alto volumen en la región del I-95. El análisis identifica puntos ciegos regulatorios que permiten que las complicaciones de heridas quirúrgicas ocurran sin supervisión adecuada. Las heridas quirúrgicas requieren evaluación cuidadosa para detectar signos de infección, deiscencia y hematomas. La deiscencia es la separación de los bordes de la herida quirúrgica. Las infecciones quirúrgicas pueden conducir a absurdos y necrosis del tejido. Los especialistas en heridas deben comprender los estándares mínimos de cuidado postoperatorio. El equipo multidisciplinario debe monitorear a los pacientes en busca de complicaciones. La documentación adecuada es esencial para la responsabilidad clínica. Este análisis subraya la necesidad de regulación más estricta.",
+      "body_en": "A recent study examines complications associated with high-volume cosmetic surgery in the I-95 region. The analysis identifies regulatory blind spots that allow surgical wound complications to occur without adequate oversight. Surgical wounds require careful assessment to detect infection signs, dehiscence, and hematomas. Dehiscence is the separation of surgical wound edges. Surgical infections can lead to abscess and tissue necrosis. Wound care specialists must understand minimum postoperative care standards. The multidisciplinary team must monitor patients for complications. Proper documentation is essential for clinical accountability. This analysis underscores the need for stricter regulation.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON08tbl9ZWmt0NlYyQjRPLVByckFEV01rLVBpeERvQ1BiMkMxLVNISF80WkNKQTR0TUhzS1hZd2laZThMTmpEVEhNX3JWX3JGd2VPZDB1RkVMTm43OTV6V1ZaYXZ0Rmt1ZmFsMHJLSklKcjJLNVk3Sk1aLWRIZUx5czRUbk8zNE5CcVpLUk9Fb3JqYUVNNkRHUWVoNk1VNUU4RXIxUkJKc2dlbWhyNWZuM0FvV3dxdDV4ZWIzZkZBM2xkNHdwclpkcDVjd1d4OGhQS05YbG9wNGpDZF9ibl9vemlQMWE?oc=5",
+      "audio_url": "",
+      "key_vocabulary": [
+        {
+          "word": "deiscencia",
+          "definition_es": "separación de los bordes de una herida quirúrgica",
+          "definition_en": "dehiscence - separation of surgical wound edges"
+        },
+        {
+          "word": "hematoma",
+          "definition_es": "acumulación de sangre fuera de los vasos sanguíneos",
+          "definition_en": "hematoma - collection of blood outside blood vessels"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de las células tisulares",
+          "definition_en": "necrosis - death of tissue cells"
+        },
+        {
+          "word": "postoperatorio",
+          "definition_es": "período después de la cirugía",
+          "definition_en": "postoperative - period after surgery"
+        }
+      ],
+      "added_at": "2026-07-25T09:36:27.016860Z"
+    },
+    {
+      "id": "wound-research-20260725",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Cuidado de heridas impulsado por IA se prepara para disrupción revolucionaria",
+      "headline_en": "AI-Powered Wound Care Poised for Revolutionary Disruption",
+      "summary_es": "El mercado de cuidado de heridas impulsado por inteligencia artificial experimenta un aumento significativo en actividad de inversión. Esta tecnología promete transformar los protocolos de evaluación y tratamiento de heridas.",
+      "body_es": "El mercado global de cuidado de heridas con inteligencia artificial está experimentando un crecimiento acelerado impulsado por inversión considerable. La tecnología de IA permite analizar imágenes de heridas con mayor precisión que los métodos tradicionales. Los sistemas de IA pueden detectar signos de infección, granulación y epitelización automáticamente. Estas herramientas asisten a los profesionales de enfermería en la evaluación consistente de heridas. La IA mejora la medición de profundidad, área y exudado de las heridas. Los algoritmos aprenden de miles de casos clínicos para mejorar la precisión diagnóstica. La adopción de esta tecnología reduce el tiempo de evaluación y mejora la documentación. Los inversores reconocen el potencial de transformar el cuidado de heridas a nivel mundial. Esta innovación tiene implicaciones profundas para la práctica clínica futura.",
+      "body_en": "The global AI-powered wound care market is experiencing accelerated growth driven by significant investment. AI technology enables wound image analysis with greater precision than traditional methods. AI systems can automatically detect infection signs, granulation, and epithelialization. These tools assist nursing professionals in consistent wound assessment. AI improves measurement of wound depth, area, and exudate. Algorithms learn from thousands of clinical cases to improve diagnostic accuracy. Adoption of this technology reduces assessment time and improves documentation. Investors recognize the potential to transform wound care globally. This innovation has profound implications for future clinical practice.",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNczNsVkZjcVR4ZzlibzBQRDVDVHdMSko0U1R3OEt0bWpGVzlEWDkycW01aVlmZTNJUURid01VUl83bUtKRzJzakM4WGxvUDR6cjVTSGRpT2VTaGMyalY3Ql8wQkNrZ3NGVEhuREJ4d2N4SFNXVnIwb3ZqRkR2cHFMVFgtQQ?oc=5",
+      "audio_url": "",
+      "key_vocabulary": [
+        {
+          "word": "inteligencia artificial",
+          "definition_es": "tecnología que simula la inteligencia humana",
+          "definition_en": "artificial intelligence - technology simulating human intelligence"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "tejido nuevo que se forma durante la curación de heridas",
+          "definition_en": "granulation - new tissue that forms during wound healing"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid discharged from a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - process of new skin formation over wound"
+        }
+      ],
+      "added_at": "2026-07-25T09:36:27.016860Z"
+    },
     {
       "id": "chronic-wounds-20250724",
       "category": "Chronic Wounds",
@@ -32672,6 +32894,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-24T09:51:22.416105Z",
+  "last_updated": "2026-07-25T09:36:27.016860Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
