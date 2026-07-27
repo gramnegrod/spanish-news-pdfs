@@ -1,11 +1,196 @@
 {
-  "date": "2026-07-26",
-  "generated_at": "2026-07-26T09:44:05.340391Z",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T10:22:37.307565Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 895,
-  "new_today": 6,
+  "total_stories": 900,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20260727",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevas Tecnologías para Curar Heridas Crónicas",
+      "headline_en": "New Technologies for Treating Chronic Wounds",
+      "summary_es": "La Universidad de Stony Brook desarrolla nuevas tecnologías para mejorar el tratamiento de heridas crónicas. Estos avances están disponibles para uso en hospitales y clínicas.",
+      "body_es": "La Universidad de Stony Brook presenta tecnologías innovadoras para el cuidado de heridas crónicas. Estas nuevas herramientas mejoran la curación de pacientes con úlceras y lesiones difíciles. Los médicos y enfermeras pueden usar estos aparatos en sus hospitales. La tecnología ayuda a evaluar las heridas de forma más precisa. También acelera el proceso de cicatrización en los tejidos dañados. Los profesionales sanitarios reciben capacitación especial para usar estos dispositivos. Estas innovaciones reducen el tiempo de tratamiento y mejoran los resultados. Los pacientes con heridas crónicas se benefician de mejores cuidados y recuperación más rápida.",
+      "body_en": "Stony Brook University presents innovative technologies for chronic wound care. These new tools improve healing in patients with ulcers and difficult wounds. Doctors and nurses can use these devices in their hospitals. The technology helps evaluate wounds more accurately. It also accelerates the tissue healing process in damaged areas. Healthcare professionals receive special training to use these devices. These innovations reduce treatment time and improve outcomes. Patients with chronic wounds benefit from better care and faster recovery.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmp2MEdvbnBWTGxvYnlxQ09iTWhDd1dlSFdySVFVaUVaeGxjV2lXc2JyMXVldHA1dTNvSy00VEVyak9EZXdKUlZYUThXSm9UVml1cVdXU2JPcWhZOVV4Y29rTE01UVpwTWEzUEtBZGN4UE14R2FnbVhUaS1lZWJZY1I3TGFmRXZiemI1VDhINVJyd3FRY2NV?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-27/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una lesión",
+          "definition_en": "healing - process of recovering from an injury"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de tejido nuevo en una herida",
+          "definition_en": "scarring - formation of new tissue in a wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material para cubrir y proteger heridas",
+          "definition_en": "dressing - material to cover and protect wounds"
+        }
+      ],
+      "added_at": "2026-07-27T10:22:37.307565Z"
+    },
+    {
+      "id": "diabetic-foot-20260727",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Cuidado de los Pies en Pacientes Diabéticos: Una Atención Esencial",
+      "headline_en": "Foot Care in Diabetic Patients: Essential Attention",
+      "summary_es": "Las personas con diabetes deben prestar atención especial al cuidado de sus pies para prevenir complicaciones graves. La vigilancia regular y el tratamiento temprano son fundamentales.",
+      "body_es": "Las personas con diabetes enfrentan riesgos especiales en los pies debido a la neuropatía diabética y la mala circulación. Cuando los nervios están dañados, los pacientes no sienten heridas pequeñas que pueden infectarse. La isquemia reduce el flujo sanguíneo, complicando la cicatrización. Los enfermeros deben educar a los pacientes sobre la inspección diaria de los pies. Es importante revisar entre los dedos, las plantas y los talones. Si se desarrollan úlceras, se requiere desbridamiento y curaciones especializadas. La prevención incluye mantener los pies limpios, secos y protegidos. El uso de calzado adecuado previene lesiones. Los pacientes deben consultar al médico si notan enrojecimiento, edema o úlceras. El diagnóstico temprano mejora significativamente los resultados del tratamiento.",
+      "body_en": "People with diabetes face special risks to their feet due to diabetic neuropathy and poor circulation. When nerves are damaged, patients cannot feel small wounds that may become infected. Ischemia reduces blood flow, complicating healing. Nurses must educate patients about daily foot inspection. It is important to check between toes, soles, and heels. If ulcers develop, specialized debridement and dressings are required. Prevention includes keeping feet clean, dry, and protected. Proper footwear prevents injuries. Patients should consult a doctor if they notice redness, edema, or ulcers. Early diagnosis significantly improves treatment outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVENuZWRndVFDT3NSdWpraTh0WXRRem1BNlhvRW51R0RtejJyQS0taHF2MUdYZi1xWU8tVDdhMXRxSWhfODducG5seXM1V2x5WURLNExQMHhlaHNmd0xVX3otWFJtV29tS0Z6UkNoVUtVdXJhMGh0MUJTeDF0SzlZMVpkT3ZmN3ZVR3QyV0FnQ1JheDF4VHFEdDZ5cVVrU2JtX1pLVWtlQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-27/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "neuropatía diabética",
+          "definition_es": "daño en los nervios causado por la diabetes",
+          "definition_en": "diabetic neuropathy - nerve damage caused by diabetes"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "reducción del flujo sanguíneo a los tejidos",
+          "definition_en": "ischemia - reduction of blood flow to tissues"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        }
+      ],
+      "added_at": "2026-07-27T10:22:37.307565Z"
+    },
+    {
+      "id": "burn-care-20260727",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Tratamientos Innovadores para Quemaduras: Descontaminación Especializada",
+      "headline_en": "Innovative Treatments for Burns: Specialized Decontamination",
+      "summary_es": "La investigación en quemaduras químicas desarrolla soluciones avanzadas de descontaminación para mejorar la cicatrización. Los estudios demuestran efectos positivos en la regeneración de tejidos.",
+      "body_es": "La investigación en quemaduras químicas ha evaluado soluciones de alta eficiencia para tratar lesiones por sodio. Cuando el sodio entra en contacto con la piel, causa quemaduras profundas y daño tisular significativo. Las soluciones de descontaminación especializadas neutralizan la sustancia química rápidamente. Los estudios en modelos de piel demostraron que la descontaminación temprana mejora la epitelización. La evaluación clínica incluye medición de la profundidad de la lesión y el edema asociado. El tratamiento requiere apósitos especiales que faciliten la cicatrización sin infección. Los enfermeros deben aplicar estas soluciones dentro de los primeros minutos de la exposición. La necrosis tisular se reduce significativamente con intervención rápida. El manejo del dolor y la prevención de infecciones son esenciales durante la recuperación. Estos avances mejoran los resultados funcionales y estéticos en pacientes quemados.",
+      "body_en": "Research in chemical burns has evaluated high-efficiency decontamination solutions to treat sodium-induced injuries. When sodium contacts skin, it causes deep burns and significant tissue damage. Specialized decontamination solutions neutralize the chemical rapidly. Studies in skin models demonstrated that early decontamination improves epithelialization. Clinical evaluation includes measuring lesion depth and associated edema. Treatment requires special dressings that facilitate healing without infection. Nurses must apply these solutions within the first minutes of exposure. Tissue necrosis is significantly reduced with rapid intervention. Pain management and infection prevention are essential during recovery. These advances improve functional and aesthetic outcomes in burned patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40VkdiRHZOQkZzSHp3eFIxaXRKc192c0QzeTNOTXdjRWNPU3UwcnlMTW9NQXVPY0ttRmlGYWhYQWt2d296ZGFwdG9ycG1VUUhycmt1SDFJNkp5WklZUV9TcHVqckZJZFI3aVFiSmpGalNXVjZzRWlN?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-27/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel por fuego o sustancia química",
+          "definition_en": "burn - injury to skin from fire or chemical substance"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido en el cuerpo",
+          "definition_en": "necrosis - death of tissue in the body"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva epidermis en una herida",
+          "definition_en": "epithelialization - formation of new epidermis in a wound"
+        },
+        {
+          "word": "descontaminación",
+          "definition_es": "proceso de remover sustancias peligrosas de la piel",
+          "definition_en": "decontamination - process of removing harmful substances from skin"
+        }
+      ],
+      "added_at": "2026-07-27T10:22:37.307565Z"
+    },
+    {
+      "id": "surgical-wounds-20260727",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Cicatrización de Heridas Quirúrgicas: Complicaciones y Prevención",
+      "headline_en": "Surgical Wound Healing: Complications and Prevention",
+      "summary_es": "El síndrome de Ehlers-Danlos complica significativamente la cicatrización de heridas quirúrgicas. Los estudios sistemáticos revelan la importancia del diagnóstico temprano.",
+      "body_es": "El síndrome de Ehlers-Danlos es un trastorno del tejido conectivo que afecta la calidad de la piel y su capacidad de cicatrización. Los pacientes con esta condición tienen mayor riesgo de complicaciones después de cirugías. Una revisión sistemática de casos de reducción mamaria reveló resultados variables en esta población. La fragilidad del tejido dérmico aumenta el riesgo de dehiscencia de la sutura y formación deficiente de cicatrices. Los cirujanos deben evaluar cuidadosamente a los pacientes antes de intervenciones quirúrgicas. La técnica quirúrgica debe adaptarse para minimizar el trauma tisular. El monitoreo postoperatorio incluye evaluación regular de la herida para detectar infecciones o separación de bordes. Los apósitos especiales protegen la lesión durante la epitelización. La cicatrización requiere más tiempo en estos pacientes. El seguimiento a largo plazo es esencial para evaluar los resultados estéticos y funcionales finales.",
+      "body_en": "Ehlers-Danlos syndrome is a connective tissue disorder that affects skin quality and healing capacity. Patients with this condition have higher risk of complications after surgery. A systematic review of reduction mammaplasty cases revealed variable outcomes in this population. Fragility of dermal tissue increases risk of suture dehiscence and poor scar formation. Surgeons must carefully evaluate patients before surgical interventions. Surgical technique must be adapted to minimize tissue trauma. Postoperative monitoring includes regular wound evaluation to detect infections or edge separation. Special dressings protect the lesion during epithelialization. Scarring requires more time in these patients. Long-term follow-up is essential to evaluate final aesthetic and functional outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORWRIelgtR0pRcmNJdlZBUk9Kd2dwOFRveVJtVWtRYlFENEVSRXRWVjc3Z2F3QzU0TU9OeWlLb3dwOGFlT2VQZ1QtenM3RmNNZnRjUlFFWWx1MDAzZE52cG51U1hSSUlqTFNELUQ2VDQ3SXdTendmYzB5YkJOWnBudVBxSVY0bGtWms4a0FHNGJKUkZVWUg1dHBSZFJLOUlYeVdMaEstOFZwZmItdWRnNHlmdW5PXzhkN183V3lsVFJKVzFQMDBpUTRCS091cE9jbWVkc1FVZ296cVcyUmtza1ZIZGFSX3pTZU5jMEhuQmc/oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-27/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatriz",
+          "definition_es": "marca resultante de la cicatrización de una herida",
+          "definition_en": "scar - mark resulting from wound healing"
+        },
+        {
+          "word": "dehiscencia",
+          "definition_es": "apertura o separación de los bordes de una herida cerrada",
+          "definition_en": "dehiscence - opening or separation of closed wound edges"
+        },
+        {
+          "word": "tejido conectivo",
+          "definition_es": "tejido que sostiene y conecta otras estructuras",
+          "definition_en": "connective tissue - tissue that supports and connects other structures"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "costura quirúrgica usada para unir tejidos",
+          "definition_en": "suture - surgical stitching used to join tissues"
+        }
+      ],
+      "added_at": "2026-07-27T10:22:37.307565Z"
+    },
+    {
+      "id": "wound-research-20260727",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Investigación de Heridas: Nuevas Tecnologías de Diagnóstico y Tratamiento",
+      "headline_en": "Wound Research: New Technologies for Diagnosis and Treatment",
+      "summary_es": "Las instituciones médicas desarrollan tecnologías avanzadas para mejorar el diagnóstico y tratamiento de heridas. Estos avances están disponibles para uso clínico en hospitales.",
+      "body_es": "La Universidad de Stony Brook continúa desarrollando tecnologías innovadoras para el manejo de heridas complejas. Los investigadores trabajan en sistemas de imagenología que mejoran la evaluación de la profundidad y extensión de las lesiones. Estas tecnologías permiten monitorear el progreso de la cicatrización de forma más precisa. Los sistemas de diagnóstico pueden detectar infecciones tempranas y complicaciones. La investigación incluye estudios sobre materiales biocompatibles para apósitos avanzados. Los dispositivos de medición evalúan el exudado y la granulación de forma objetiva. Los enfermeros pueden usar estas herramientas para documentar el progreso del tratamiento. La capacitación profesional asegura que los equipos de salud utilicen correctamente estos aparatos. Los datos recopilados ayudan a personalizar el tratamiento según cada paciente. Estos avances transforman la práctica clínica hacia un cuidado más basado en evidencia.",
+      "body_en": "Stony Brook University continues developing innovative technologies for managing complex wounds. Researchers work on imaging systems that improve evaluation of lesion depth and extent. These technologies allow monitoring of healing progress more precisely. Diagnostic systems can detect early infections and complications. Research includes studies on biocompatible materials for advanced dressings. Measurement devices evaluate exudate and granulation objectively. Nurses can use these tools to document treatment progress. Professional training ensures healthcare teams use these devices correctly. Data collected helps personalize treatment according to each patient. These advances transform clinical practice toward more evidence-based care.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmp2MEdvbnBWTGxvYnlxQ09iTWhDd1dlSFdySVFVaUVaeGxjV2lXc2JyMXVldHA1dTNvSy00VEVyak9EZXdKUlZYUThXSm9UVml1cVdXU2JPcWhZOVV4Y29rTE01UVpwTWEzUEtBZGN4UE14R2FnbVhUaS1lZWJZY1I3TGFmRXZiemI1VDhINVJyd3FRY2NV?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-07-27/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "imagenología",
+          "definition_es": "técnica de obtener imágenes del interior del cuerpo",
+          "definition_en": "imaging - technique to obtain images of body interior"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida o tejido inflamado",
+          "definition_en": "exudate - fluid that comes from a wound or inflamed tissue"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo en una herida abierta",
+          "definition_en": "granulation - formation of new tissue in an open wound"
+        },
+        {
+          "word": "biocompatible",
+          "definition_es": "material que el cuerpo tolera sin rechazar",
+          "definition_en": "biocompatible - material that body tolerates without rejecting"
+        }
+      ],
+      "added_at": "2026-07-27T10:22:37.307565Z"
+    },
     {
       "id": "chronic-wounds-20250726",
       "category": "Chronic Wounds",
@@ -33116,6 +33301,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-26T09:44:05.340391Z",
+  "last_updated": "2026-07-27T10:22:37.307565Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
