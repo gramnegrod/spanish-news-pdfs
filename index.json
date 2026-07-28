@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-07-28",
+      "filename": "spanish_lesson_2026-07-28.pdf",
+      "path": "pdfs/spanish_lesson_2026-07-28.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "La deuda de EE.UU. sube sin control: ¿Por qué el Congreso no actúa?",
+          "headline_en": "US Debt Rises Out of Control: Why Isn't Congress Acting?",
+          "body_es": "La deuda nacional de los Estados Unidos está creciendo muy rápido. En este momento, el país debe más de 34 billones de dólares. Muchos expertos dicen que esto es un problema muy serio para el futuro del país. Sin embargo, el Congreso no está haciendo mucho para resolver el problema. Los políticos de los dos partidos principales no pueden ponerse de acuerdo. Los republicanos quieren reducir los gastos del gobierno. Los demócratas quieren mantener los programas sociales importantes. Esta situación es difícil porque ningún partido quiere tomar decisiones impopulares. Los economistas advierten que si la deuda continúa creciendo, puede causar problemas económicos graves en el futuro. El gobierno necesita pagar intereses muy altos sobre esta deuda cada año. Esto significa que hay menos dinero disponible para otros servicios importantes como la educación y la salud. Los ciudadanos estadounidenses esperan que sus líderes encuentren una solución pronto.",
+          "body_en": "The national debt of the United States is growing very fast. Right now, the country owes more than 34 trillion dollars. Many experts say this is a very serious problem for the country's future. However, Congress is not doing much to solve the problem. Politicians from the two main parties cannot agree. Republicans want to reduce government spending. Democrats want to maintain important social programs. This situation is difficult because neither party wants to make unpopular decisions. Economists warn that if the debt continues to grow, it can cause serious economic problems in the future. The government needs to pay very high interest on this debt every year. This means there is less money available for other important services like education and health. American citizens hope their leaders will find a solution soon.",
+          "source": "The Christian Science Monitor"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía mundial mejora gracias a los chips de IA y el bajo desempleo en EE.UU.",
+          "headline_en": "World Economy Improves Thanks to AI Chips and Low US Unemployment",
+          "body_es": "La economía global está recibiendo buenas noticias esta semana. Hay dos razones principales para este optimismo. Primero, la demanda de chips para inteligencia artificial está creciendo muchísimo. Muchas empresas de tecnología necesitan estos chips especiales para desarrollar sus productos de IA. Esto está generando muchos empleos y mucho dinero en el sector tecnológico. Segundo, en los Estados Unidos, muy pocas personas están pidiendo beneficios de desempleo. Esto significa que el mercado laboral americano está en muy buena condición. Cuando hay poco desempleo, los trabajadores tienen más dinero para gastar. Esto ayuda a toda la economía. Los expertos financieros dicen que estas dos tendencias juntas son muy positivas. Los mercados financieros del mundo reaccionaron bien a estas noticias. Los precios de las acciones subieron en varias bolsas internacionales. Sin embargo, algunos economistas advierten que todavía existen riesgos como la inflación y las tensiones entre países.",
+          "body_en": "The global economy is receiving good news this week. There are two main reasons for this optimism. First, the demand for artificial intelligence chips is growing enormously. Many technology companies need these special chips to develop their AI products. This is generating many jobs and lots of money in the technology sector. Second, in the United States, very few people are requesting unemployment benefits. This means the American labor market is in very good condition. When there is low unemployment, workers have more money to spend. This helps the entire economy. Financial experts say these two trends together are very positive. World financial markets reacted well to this news. Stock prices rose on several international exchanges. However, some economists warn that risks still exist, such as inflation and tensions between countries.",
+          "source": "Los Angeles Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El jefe de OpenAI dice que la singularidad de la inteligencia artificial ya llegó",
+          "headline_en": "OpenAI CEO Says the AI Singularity Has Already Arrived",
+          "body_es": "Sam Altman, el director de la empresa OpenAI, hizo una declaración muy importante. Altman dice que la inteligencia artificial ya alcanzó un punto llamado 'singularidad'. Pero, ¿qué significa esto exactamente? La singularidad de la IA es el momento en que la inteligencia artificial se vuelve tan avanzada que puede cambiar el mundo de manera permanente y muy rápida. Altman cree que los sistemas de IA ahora pueden aprender y mejorar solos sin mucha ayuda humana. OpenAI es la empresa que creó ChatGPT, uno de los programas de IA más famosos del mundo. Muchos científicos y expertos en tecnología tienen opiniones diferentes sobre esta afirmación. Algunos están de acuerdo con Altman y dicen que la IA está avanzando muy rápido. Otros piensan que todavía estamos lejos de una verdadera singularidad. Esta declaración generó un debate mundial sobre el futuro de la tecnología y su impacto en la sociedad humana.",
+          "body_en": "Sam Altman, the CEO of OpenAI, made a very important statement. Altman says that artificial intelligence has already reached a point called 'singularity.' But what does this mean exactly? The AI singularity is the moment when artificial intelligence becomes so advanced that it can change the world permanently and very quickly. Altman believes that AI systems can now learn and improve on their own without much human help. OpenAI is the company that created ChatGPT, one of the most famous AI programs in the world. Many scientists and technology experts have different opinions about this claim. Some agree with Altman and say that AI is advancing very fast. Others think we are still far from a true singularity. This statement sparked a global debate about the future of technology and its impact on human society.",
+          "source": "ABC News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "deuda",
+          "syllables": "DEU-da",
+          "pos": "sustantivo",
+          "context": "La deuda de los Estados Unidos está creciendo muy rápido.",
+          "definition_es": "Dinero que una persona o país debe pagar a otra persona o institución.",
+          "definition_en": "Debt; money owed to someone else"
+        },
+        {
+          "word": "desempleo",
+          "syllables": "des-em-PLEO",
+          "pos": "sustantivo",
+          "context": "Las solicitudes de desempleo en Estados Unidos están en un nivel bajo.",
+          "definition_es": "La situación de no tener trabajo o empleo.",
+          "definition_en": "Unemployment; the state of not having a job"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está cambiando la economía mundial.",
+          "definition_es": "La capacidad de las máquinas y computadoras para hacer tareas que normalmente hacen los humanos.",
+          "definition_en": "Artificial intelligence; the ability of machines to perform human-like tasks"
+        },
+        {
+          "word": "singularidad",
+          "syllables": "sin-gu-la-ri-DAD",
+          "pos": "sustantivo",
+          "context": "El director de OpenAI dice que la singularidad de la IA ya llegó.",
+          "definition_es": "Un momento único e importante donde algo cambia para siempre.",
+          "definition_en": "Singularity; a unique turning point of permanent change"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía global recibe un impulso por la tecnología de chips de IA.",
+          "definition_es": "El sistema de producción, distribución y consumo de bienes y servicios de un país o del mundo.",
+          "definition_en": "Economy; the system of money, trade, and industry"
+        },
+        {
+          "word": "congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "El Congreso de Estados Unidos no está tomando medidas para reducir la deuda.",
+          "definition_es": "El grupo de personas elegidas para hacer las leyes de un país.",
+          "definition_en": "Congress; the legislative body that makes laws"
+        },
+        {
+          "word": "chip",
+          "syllables": "CHIP",
+          "pos": "sustantivo",
+          "context": "La demanda de chips para inteligencia artificial está creciendo mucho.",
+          "definition_es": "Un pequeño componente electrónico que procesa información en una computadora.",
+          "definition_en": "Chip; a small electronic component that processes information"
+        },
+        {
+          "word": "impulso",
+          "syllables": "im-PUL-so",
+          "pos": "sustantivo",
+          "context": "La economía recibe un gran impulso gracias a los chips de IA.",
+          "definition_es": "Una fuerza o energía que ayuda a que algo crezca o avance.",
+          "definition_en": "Boost; a force that helps something grow or advance"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'deuda'?",
+          "options": [
+            "A) Dinero que alguien debe pagar a otra persona",
+            "B) Un tipo de impuesto del gobierno",
+            "C) El salario de un trabajador",
+            "D) Una ley del Congreso"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado correcto de 'desempleo'?",
+          "options": [
+            "A) Tener dos trabajos al mismo tiempo",
+            "B) La situación de no tener trabajo",
+            "C) Un programa de educación del gobierno",
+            "D) El dinero que gana una empresa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "En la frase 'la economía recibe un gran impulso', ¿qué significa 'impulso'?",
+          "options": [
+            "A) Un problema serio",
+            "B) Una reducción o baja",
+            "C) Una fuerza que ayuda a que algo avance",
+            "D) Una nueva ley económica"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'chip' en el contexto de la tecnología?",
+          "options": [
+            "A) Un tipo de moneda digital",
+            "B) Un programa de computadora muy grande",
+            "C) Un pequeño componente electrónico que procesa información",
+            "D) El nombre de una empresa de tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia sobre la deuda de EE.UU., ¿cuánto dinero debe el país aproximadamente?",
+          "options": [
+            "A) Más de 34 millones de dólares",
+            "B) Más de 34 billones de dólares",
+            "C) Más de 34 mil dólares",
+            "D) Más de 34 trillones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia política, ¿por qué los republicanos y los demócratas no pueden resolver el problema de la deuda?",
+          "options": [
+            "A) Porque no saben que existe el problema",
+            "B) Porque no tienen suficiente dinero",
+            "C) Porque no pueden ponerse de acuerdo sobre cómo resolverlo",
+            "D) Porque el presidente no les permite actuar"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia económica, ¿cuáles son las DOS razones principales por las que la economía global está mejorando?",
+          "options": [
+            "A) Los precios bajos del petróleo y el aumento de exportaciones",
+            "B) La demanda de chips de IA y el bajo desempleo en EE.UU.",
+            "C) Las nuevas leyes del Congreso y la reducción de la deuda",
+            "D) El crecimiento de China y la caída del dólar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué famoso programa de IA creó la empresa OpenAI, según la historia de tecnología?",
+          "options": [
+            "A) Google Bard",
+            "B) Microsoft Copilot",
+            "C) ChatGPT",
+            "D) Siri"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿cómo reaccionaron los expertos ante la declaración de Sam Altman sobre la singularidad?",
+          "options": [
+            "A) Todos estuvieron completamente de acuerdo con él",
+            "B) Nadie le prestó atención",
+            "C) Todos estuvieron completamente en desacuerdo",
+            "D) Algunos estuvieron de acuerdo y otros pensaron que estamos lejos de la singularidad"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia económica, ¿qué pasó con los precios de las acciones en los mercados financieros después de las buenas noticias?",
+          "options": [
+            "A) Bajaron en todas las bolsas del mundo",
+            "B) No cambiaron nada",
+            "C) Subieron en varias bolsas internacionales",
+            "D) El gobierno cerró los mercados financieros"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-07-28T09:51:41.921990"
+    },
+    {
       "date": "2026-07-27",
       "filename": "spanish_lesson_2026-07-27.pdf",
       "path": "pdfs/spanish_lesson_2026-07-27.pdf",
@@ -49294,7 +49516,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-27T10:16:24.285717",
+  "last_updated": "2026-07-28T09:51:41.922013",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
