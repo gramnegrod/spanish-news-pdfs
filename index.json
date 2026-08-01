@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-01",
+      "filename": "spanish_lesson_2026-08-01.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-01.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Miles de migrantes llegan a Ceuta y crean una gran crisis política",
+          "headline_en": "Thousands of migrants arrive in Ceuta and create a major political crisis",
+          "body_es": "Casi 50,000 personas migrantes llegaron a Ceuta en muy poco tiempo. Ceuta es un territorio español en el norte de África. Esta situación creó una gran crisis política en España. El presidente del gobierno, Pedro Sánchez, recibió muchas críticas por esta situación. Políticos de derecha de Europa y de Estados Unidos atacaron al gobierno español. Ellos dijeron que España no controló bien su frontera. Muchos migrantes llegaron desde Marruecos, el país vecino. Las autoridades españolas trabajaron rápidamente para organizar la situación. Algunos migrantes eran adultos y otros eran niños solos. El gobierno español pidió ayuda a la Unión Europea para resolver el problema. La crisis de Ceuta mostró que la inmigración es un tema muy importante y complicado en Europa hoy en día. Los debates sobre la inmigración continuaron en muchos países europeos después de estos eventos.",
+          "body_en": "Nearly 50,000 migrants arrived in Ceuta in a very short time. Ceuta is a Spanish territory in North Africa. This situation created a major political crisis in Spain. The Prime Minister, Pedro Sánchez, received a lot of criticism because of this situation. Right-wing politicians from Europe and the United States attacked the Spanish government. They said that Spain did not control its border well. Many migrants arrived from Morocco, the neighboring country. Spanish authorities worked quickly to organize the situation. Some migrants were adults and others were unaccompanied children. The Spanish government asked the European Union for help to solve the problem. The Ceuta crisis showed that immigration is a very important and complicated issue in Europe today. Debates about immigration continued in many European countries after these events.",
+          "source": "facebook.com"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Las bolsas de EE.UU. suben en julio, pero la inflación sigue preocupando",
+          "headline_en": "US stock markets rise in July, but inflation continues to worry investors",
+          "body_es": "El mercado bursátil de Estados Unidos terminó el mes de julio con buenos resultados. Fue un mes muy inestable, con muchos cambios de precios cada día. Las acciones de Amazon subieron mucho y eso ayudó al mercado. Sin embargo, las acciones de Apple bajaron bastante durante el mismo período. Esto sorprendió a muchos inversores porque Apple es una empresa muy grande e importante. El tema de la inflación también preocupó a los inversores durante todo el mes. La inflación significa que los precios de los productos y servicios suben mucho. Cuando hay mucha inflación, el dinero de las personas vale menos. Los expertos económicos analizaron la situación con mucha atención. Algunos dijeron que la Reserva Federal necesitaba tomar medidas para controlar los precios. A pesar de los problemas, el mercado terminó el mes con números positivos. Los inversores esperaron noticias económicas importantes para los próximos meses.",
+          "body_en": "The US stock market finished the month of July with good results. It was a very unstable month, with many price changes every day. Amazon's shares rose a lot and that helped the market. However, Apple's shares fell quite a bit during the same period. This surprised many investors because Apple is a very large and important company. The topic of inflation also worried investors throughout the entire month. Inflation means that the prices of products and services rise a lot. When there is a lot of inflation, people's money is worth less. Economic experts analyzed the situation very carefully. Some said that the Federal Reserve needed to take steps to control prices. Despite the problems, the market finished the month with positive numbers. Investors waited for important economic news for the coming months.",
+          "source": "KTBS 3"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La UE crea un nuevo equipo para luchar contra los deepfakes y el hackeo",
+          "headline_en": "The EU creates a new team to fight deepfakes and hacking",
+          "body_es": "La Unión Europea anunció un plan para controlar los peligros de la inteligencia artificial. En Bruselas, la capital europea, se creó un nuevo equipo especial. Este equipo trabajará para proteger a los ciudadanos europeos de los deepfakes. Los deepfakes son imágenes o videos falsos creados por computadoras. Parecen reales pero no lo son. Estas imágenes pueden causar muchos problemas para las personas y para la sociedad. El nuevo equipo también luchará contra el hackeo y las imágenes ilegales en internet. El hackeo ocurre cuando criminales entran ilegalmente a sistemas informáticos. La Unión Europea quiere ser un líder mundial en la regulación de la tecnología. Muchos expertos aplaudieron esta decisión porque la inteligencia artificial crece muy rápidamente. Sin una buena regulación, los problemas pueden ser muy serios. Este es un paso importante para hacer internet un lugar más seguro para todos los europeos.",
+          "body_en": "The European Union announced a plan to control the dangers of artificial intelligence. In Brussels, the European capital, a new special team was created. This team will work to protect European citizens from deepfakes. Deepfakes are fake images or videos created by computers. They look real but they are not. These images can cause many problems for people and for society. The new team will also fight against hacking and illegal images on the internet. Hacking occurs when criminals illegally enter computer systems. The European Union wants to be a world leader in technology regulation. Many experts applauded this decision because artificial intelligence is growing very quickly. Without good regulation, the problems can be very serious. This is an important step to make the internet a safer place for all Europeans.",
+          "source": "ABC News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "migrante",
+          "syllables": "mi-GRAN-te",
+          "pos": "sustantivo",
+          "context": "Casi 50,000 migrantes llegaron a Ceuta en muy poco tiempo.",
+          "definition_es": "Persona que se mueve de un país a otro para vivir o trabajar.",
+          "definition_en": "A person who moves from one country to another to live or work."
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación preocupa a muchos inversores en los mercados.",
+          "definition_es": "Cuando los precios de los productos suben mucho y el dinero vale menos.",
+          "definition_en": "When prices rise significantly and money loses its purchasing power."
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones de Amazon subieron mucho al final de julio.",
+          "definition_es": "Partes pequeñas de una empresa que la gente puede comprar y vender.",
+          "definition_en": "Small parts of a company that people can buy and sell on the stock market."
+        },
+        {
+          "word": "deepfake",
+          "syllables": "DEEP-fake",
+          "pos": "sustantivo",
+          "context": "La Unión Europea quiere controlar los deepfakes creados con inteligencia artificial.",
+          "definition_es": "Un video o imagen falsa creada por una computadora que parece real.",
+          "definition_en": "A fake video or image created by a computer that looks real."
+        },
+        {
+          "word": "exclave",
+          "syllables": "EX-cla-ve",
+          "pos": "sustantivo",
+          "context": "Ceuta es un exclave español en el norte de África.",
+          "definition_es": "Un territorio de un país que está separado del resto y rodeado por otro país.",
+          "definition_en": "A territory of a country that is separated from the main part and surrounded by another country."
+        },
+        {
+          "word": "hackeo",
+          "syllables": "ha-KE-o",
+          "pos": "sustantivo",
+          "context": "La Unión Europea quiere proteger a los ciudadanos contra el hackeo.",
+          "definition_es": "Cuando alguien entra ilegalmente a una computadora o sistema para robar información.",
+          "definition_en": "When someone illegally enters a computer or system to steal information."
+        },
+        {
+          "word": "mercado bursátil",
+          "syllables": "mer-CA-do bur-SÁ-til",
+          "pos": "sustantivo",
+          "context": "El mercado bursátil de Estados Unidos terminó el mes de julio con subidas.",
+          "definition_es": "El lugar donde la gente compra y vende acciones de empresas.",
+          "definition_en": "The place where people buy and sell shares of companies."
+        },
+        {
+          "word": "regulación",
+          "syllables": "re-gu-la-CIÓN",
+          "pos": "sustantivo",
+          "context": "La UE trabaja en una nueva regulación para controlar la inteligencia artificial.",
+          "definition_es": "Una regla o ley oficial que controla cómo funciona algo.",
+          "definition_en": "An official rule or law that controls how something works."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'migrante'?",
+          "options": [
+            "A) Una persona que trabaja en el gobierno",
+            "B) Una persona que se mueve de un país a otro para vivir",
+            "C) Un tipo de moneda extranjera",
+            "D) Un político de derecha"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'deepfake'?",
+          "options": [
+            "A) Un tipo de hackeo bancario",
+            "B) Una nueva red social europea",
+            "C) Un video o imagen falsa creada por una computadora que parece real",
+            "D) Un programa para proteger computadoras"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "En economía, ¿qué significa 'inflación'?",
+          "options": [
+            "A) Cuando los precios bajan mucho",
+            "B) Cuando el gobierno gana más dinero",
+            "C) Cuando las empresas venden más productos",
+            "D) Cuando los precios suben y el dinero vale menos"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en el contexto del mercado bursátil?",
+          "options": [
+            "A) Las leyes que hace el gobierno",
+            "B) Partes pequeñas de una empresa que la gente puede comprar y vender",
+            "C) Los empleados de una empresa",
+            "D) Los productos que vende una tienda"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia sobre Ceuta, ¿dónde está Ceuta?",
+          "options": [
+            "A) En el sur de España",
+            "B) En una isla del Mediterráneo",
+            "C) En el norte de África",
+            "D) En el centro de Europa"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Quién recibió críticas políticas por la llegada de migrantes a Ceuta?",
+          "options": [
+            "A) El rey de España",
+            "B) El presidente Pedro Sánchez",
+            "C) El presidente de Francia",
+            "D) El director de la Unión Europea"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de economía, ¿qué pasó con las acciones de Amazon en julio?",
+          "options": [
+            "A) Bajaron mucho",
+            "B) No cambiaron nada",
+            "C) Subieron mucho",
+            "D) Desaparecieron del mercado"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de economía, ¿cuál empresa tuvo una bajada en sus acciones durante julio?",
+          "options": [
+            "A) Amazon",
+            "B) Microsoft",
+            "C) Google",
+            "D) Apple"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿En qué ciudad europea se creó el nuevo equipo para luchar contra los deepfakes?",
+          "options": [
+            "A) París",
+            "B) Berlín",
+            "C) Bruselas",
+            "D) Madrid"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿contra cuáles peligros luchará el nuevo equipo de la UE?",
+          "options": [
+            "A) Solo contra los deepfakes",
+            "B) Contra los deepfakes, el hackeo y las imágenes ilegales",
+            "C) Solo contra el hackeo bancario",
+            "D) Contra los videojuegos violentos"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-01T09:38:13.934783"
+    },
+    {
       "date": "2026-07-31",
       "filename": "spanish_lesson_2026-07-31.pdf",
       "path": "pdfs/spanish_lesson_2026-07-31.pdf",
@@ -50182,7 +50404,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-07-31T09:53:47.597858",
+  "last_updated": "2026-08-01T09:38:13.934816",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
