@@ -1,11 +1,196 @@
 {
-  "date": "2026-08-01",
-  "generated_at": "2026-08-01T09:42:24.396351Z",
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:43:47.427696Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 918,
-  "new_today": 4,
+  "total_stories": 923,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250802",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos tratamientos para úlceras diabéticas del pie",
+      "headline_en": "New Treatments for Diabetic Foot Ulcers",
+      "summary_es": "Un estudio reciente examina tratamientos nuevos para úlceras diabéticas. Los pacientes reciben vitaminas especiales para mejorar la curación.",
+      "body_es": "Los médicos estudian un tratamiento nuevo para las úlceras del pie diabético. El tratamiento usa L-methylfolate, Methylcobalamin y Pyridoxal-5′-Phosphate. Estos son tipos especiales de vitaminas. El estudio observa pacientes con úlceras Wagner Grado 2. Las úlceras Wagner Grado 2 son úlceras profundas en el pie. Las vitaminas ayudan a mejorar la circulación de la sangre. La mejor circulación ayuda a cicatrizar las heridas. Los pacientes reciben el tratamiento con el cuidado estándar. El cuidado estándar incluye limpiar la herida y usar vendajes especiales. Los resultados son muy positivos para los pacientes. Este tratamiento es una opción nueva y importante para las clínicas.",
+      "body_en": "Doctors are studying a new treatment for diabetic foot ulcers. The treatment uses L-methylfolate, Methylcobalamin, and Pyridoxal-5′-Phosphate. These are special types of vitamins. The study observes patients with Wagner Grade 2 ulcers. Wagner Grade 2 ulcers are deep wounds in the foot. The vitamins help improve blood circulation. Better circulation helps wounds heal. Patients receive the treatment along with standard care. Standard care includes cleaning the wound and using special dressings. The results are very positive for patients. This treatment is a new and important option for clinics.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaVczU3lNX1ppWHViU29IRHM5ZG5WQTFMN1V6clNVbEhlZTM2R3kyUUdOTUNyUFJBV1pSMDBYa1dKSGNKUEIyR0ozU2UzV29STkVyVWw3Wk5NVzh4ZlpZQlA0OHRnV2IzeFItNUMtQlhod09IdG02cjBIX3ZIQTdJcnd1M1IxZUZscjliRVdqNXlFLXF2YnJ5Z2FUR2pGX1c4c2g3elQ1Ti1MN3d0T252cXRUSzBESklLWVhRZXVmUTVQdlI5T2JuTGpHUEs2ZFlYYXBITA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-02/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida profunda y abierta en la piel",
+          "definition_en": "ulcer - deep open wound in the skin"
+        },
+        {
+          "word": "cicatrizar",
+          "definition_es": "proceso de curación de una herida",
+          "definition_en": "to heal - process of wound recovery"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de la sangre en el cuerpo",
+          "definition_en": "circulation - movement of blood in the body"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material especial para cubrir y proteger heridas",
+          "definition_en": "dressing - special material to cover and protect wounds"
+        }
+      ],
+      "added_at": "2026-08-02T09:43:47.427696Z"
+    },
+    {
+      "id": "diabetic-foot-20250802",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "👣",
+      "gradient": "blue",
+      "headline_es": "Inteligencia artificial revolucionaria salva miembros de pacientes diabéticos",
+      "headline_en": "Revolutionary Artificial Intelligence Saves Limbs of Diabetic Patients",
+      "summary_es": "Científicos de Melbourne desarrollaron una herramienta de inteligencia artificial que puede identificar úlceras del pie diabético en etapas tempranas. Esta tecnología podría prevenir amputaciones en pacientes con diabetes.",
+      "body_es": "Un equipo de investigadores en Melbourne ha desarrollado una herramienta innovadora de inteligencia artificial. Esta tecnología fue creada para detectar úlceras del pie diabético en fases tempranas. El sistema utiliza algoritmos avanzados para analizar imágenes de los pies. La detección temprana es crucial porque previene complicaciones graves. Las úlceras diabéticas pueden llevar a infecciones severas y necrosis del tejido. Sin tratamiento adecuado, estas condiciones resultan en amputaciones. La herramienta de inteligencia artificial permite que los médicos intervengan rápidamente. El tratamiento precoz de las úlceras mejora significativamente los resultados para los pacientes. Los investigadores indican que esta tecnología representa un avance mundial importante. La herramienta podría cambiar el manejo clínico de las úlceras diabéticas del pie.",
+      "body_en": "A team of researchers in Melbourne has developed an innovative artificial intelligence tool. This technology was created to detect diabetic foot ulcers in early phases. The system uses advanced algorithms to analyze images of the feet. Early detection is crucial because it prevents serious complications. Diabetic ulcers can lead to severe infections and tissue necrosis. Without proper treatment, these conditions result in amputations. The artificial intelligence tool allows doctors to intervene quickly. Early treatment of ulcers significantly improves patient outcomes. Researchers indicate that this technology represents an important worldwide advance. The tool could change the clinical management of diabetic foot ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYk8zVWE1YjRfbkVUMTRWTDRXRkRQVzV1RkhzQ0dTREpBNUhLeE82clNxeWRmTnpiU04zTnc2S3gzZzN1WFhBakhBblFza25TbGNzQVZJLTF0bWl1OWVxeXExemgxSDBFajQxendIRDZidHY5SEk4SFRSR3NMSFFhaldGNXVieUJGOE52Z1d1R2ROMThyWWZia1N1YjNXZHA1TVZBTkhRZWRIZFRxbFUzdWlkbERXdk1wSWxiaWg5Z3BvUGtKei0yUTlldTZxUlU0Z1HSAdcBQVVfeXFMUGJfdndxRThhYTB5bFJxQ0szZGl5WTB5bHE3Rnl5cTdic3RKR0hHY0Y3VTd2YTJhWEItTHJSeEdYU3VNM0VFSklyUUMwU2tLcy0xaGNxMnBxY1ZZZ2FsUERJUkNFTW5MMDJ5SExIUE1Md2FnUmJZNDNkSG4xMktfLS1McGRtS0FlbTF6eGxyVm5WVzRKVEp3bEdBbUpRRjRmbXRYZXhpUDJHRlcwUlc4ejRzdEJBT1pyTl8xeW5hN3hkZ2RhY283NGt3aTlQOGcwNlJwc3FtRDA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-02/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida profunda causada por la diabetes en la piel",
+          "definition_en": "diabetic ulcer - deep wound caused by diabetes in the skin"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad del cuerpo",
+          "definition_en": "amputation - surgical removal of a body limb"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido vivo por falta de circulación",
+          "definition_en": "necrosis - death of living tissue due to lack of circulation"
+        },
+        {
+          "word": "detección temprana",
+          "definition_es": "identificación de una enfermedad en sus primeras etapas",
+          "definition_en": "early detection - identification of disease in its initial stages"
+        }
+      ],
+      "added_at": "2026-08-02T09:43:47.427696Z"
+    },
+    {
+      "id": "burn-care-20250802",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "AIIMS Jammu logra reconstrucción exitosa de mano quemada compleja",
+      "headline_en": "AIIMS Jammu Achieves Successful Reconstruction of Complex Burn-Deformed Hand",
+      "summary_es": "El Hospital AIIMS en Jammu realizó una reconstrucción quirúrgica complicada de una mano deformada por quemaduras. El procedimiento restauró la funcionalidad y apariencia de la mano del paciente.",
+      "body_es": "El equipo quirúrgico del Hospital AIIMS Jammu ha completado una reconstrucción exitosa de una mano severamente quemada. El paciente había sufrido quemaduras complejas que causaron deformación significativa. La mano había perdido funcionalidad y movilidad debido a las cicatrices y contracturas. Los cirujanos utilizaron técnicas quirúrgicas avanzadas para restaurar la estructura. El procedimiento incluyó injertos de piel, liberación de contracturas y reparación de tendones. La reconstrucción fue un proceso quirúrgico multifase que requirió varias intervenciones. Después de la cirugía, el paciente recibió terapia física intensiva. La terapia física fue esencial para recuperar la movilidad y fuerza de la mano. Los resultados demuestran que la reconstrucción fue exitosa y funcional. Este caso representa un logro importante en la medicina de quemaduras en India.",
+      "body_en": "The surgical team at AIIMS Jammu Hospital has completed a successful reconstruction of a severely burned hand. The patient had suffered complex burns that caused significant deformation. The hand had lost functionality and mobility due to scars and contractures. Surgeons used advanced surgical techniques to restore the structure. The procedure included skin grafts, contracture release, and tendon repair. Reconstruction was a multiphase surgical process requiring several interventions. After surgery, the patient received intensive physical therapy. Physical therapy was essential for recovering hand mobility and strength. The results demonstrate that the reconstruction was successful and functional. This case represents an important achievement in burn medicine in India.",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2FrcExwbHpENlhkNjhyaGNsbklkUm5VQ2VXbS04WS1kcDM5OGV4SXlBdWpXMjJqanVYMm83bm5zUVAwMmZhb0V6b3hVTjhteG10ZWQ0eERQYzMyMHhMTVFfVl9hQlJ2MS1ZcUVObXdDLVN6Q0xIdTlaYTY0MzVDQjR2OHJtRjZJQm9BQU1WUmt5aGtFTk53ZjBZLVVSV0Jfb2ZqcFJqaml1MERx0gGwAUFVX3lxTE5LNlNnYktuY3FPSm5jc3o5VDFmMUtSY3RQUmktVmtCd0xwY1c2Z0g1ZWFQOWZaWEhqQm1RbVVremlNRnpUeDNmN0hHTTRqNjBCdGNVLTNGWldjejRGVGxaY1RsOTFfb01kTEh2TWc5TjRublFGWkFGV2hjMFRSZ0JxN3h5OVZQVVFwc1VSS3hWNjFSblhlNTN3Q0RZSUZQMjVlcm5SeTM2NGVFRk1YR0ZO?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-02/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o productos químicos",
+          "definition_en": "burn - injury to skin caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de la curación de una herida",
+          "definition_en": "scar - mark left after a wound heals"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de piel sana para cubrir áreas dañadas",
+          "definition_en": "skin graft - transplant of healthy skin to cover damaged areas"
+        },
+        {
+          "word": "contractura",
+          "definition_es": "encogimiento anormal del tejido que limita el movimiento",
+          "definition_en": "contracture - abnormal tissue shrinkage that limits movement"
+        }
+      ],
+      "added_at": "2026-08-02T09:43:47.427696Z"
+    },
+    {
+      "id": "surgical-wounds-20250802",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Opciones quirúrgicas mínimamente invasivas para la deformidad de Haglund",
+      "headline_en": "Minimally Invasive Surgical Options for Haglund's Deformity",
+      "summary_es": "Un artículo médico reciente examina técnicas quirúrgicas mínimamente invasivas para tratar la deformidad de Haglund y el dolor del talón retrocalcáneo. Estos procedimientos ofrecen recuperación más rápida que la cirugía abierta tradicional.",
+      "body_es": "La deformidad de Haglund es una protuberancia ósea que se desarrolla en la parte posterior del talón. Esta condición causa dolor retrocalcáneo significativo que afecta la calidad de vida de los pacientes. Tradicionalmente, los cirujanos utilizaban procedimientos de cirugía abierta para tratar esta patología. Sin embargo, las técnicas mínimamente invasivas ahora ofrecen mejores alternativas. Los procedimientos mínimamente invasivos requieren incisiones más pequeñas que la cirugía abierta. Las incisiones pequeñas resultan en menos trauma de tejido blando. La recuperación después de cirugía mínimamente invasiva es más rápida. Los pacientes experimentan menos dolor postoperatorio. Las heridas quirúrgicas se cierran con menos sutura y vendaje. El tiempo de cicatrización es reducido con estas técnicas. Los resultados funcionales son comparables a la cirugía abierta. La cirugía mínimamente invasiva permite que los pacientes regresen a actividades normales más rápidamente.",
+      "body_en": "Haglund's deformity is a bony bump that develops on the back of the heel. This condition causes significant retrocalcaneal pain that affects patients' quality of life. Traditionally, surgeons used open surgery procedures to treat this condition. However, minimally invasive techniques now offer better alternatives. Minimally invasive procedures require smaller incisions than open surgery. Small incisions result in less soft tissue trauma. Recovery after minimally invasive surgery is faster. Patients experience less postoperative pain. Surgical wounds close with less suture and dressing. Healing time is reduced with these techniques. Functional results are comparable to open surgery. Minimally invasive surgery allows patients to return to normal activities more quickly.",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWlBhV0I4ODVzd1VZQURJV1NJXzNyV3RWWGdpOUFkeFFzQ2dlWGoxWVRPVGlvODV3WGVaQW4xODc4LVJweUJyOGxSOFVqTXM2bklCWDcyN3ljMS14YkhkS3NxODNYaXN2YUdqNXhGRnY1VWUwN1M4aEJsd0JfTVd4YnlfcVNabkZaTVNPeFNWTkZVWUtGVURmVm4za210ZUVUaEhiLW9TR1NpNlFEWl82b3FCX21LZHpEQ3dmS2FYUlRINFg1WXdaSXlaOA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-02/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cirugía mínimamente invasiva",
+          "definition_es": "procedimiento quirúrgico que utiliza incisiones muy pequeñas",
+          "definition_en": "minimally invasive surgery - surgical procedure using very small incisions"
+        },
+        {
+          "word": "deformidad de Haglund",
+          "definition_es": "protuberancia ósea en la parte posterior del talón",
+          "definition_en": "Haglund's deformity - bony bump on the back of the heel"
+        },
+        {
+          "word": "incisión",
+          "definition_es": "corte quirúrgico realizado en la piel y tejido",
+          "definition_en": "incision - surgical cut made in skin and tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de curación de heridas quirúrgicas",
+          "definition_en": "wound healing - biological process of surgical wound recovery"
+        }
+      ],
+      "added_at": "2026-08-02T09:43:47.427696Z"
+    },
+    {
+      "id": "wound-research-20250802",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Alianza estratégica de 10 años entre Siemens Healthineers y Cleveland Clinic",
+      "headline_en": "10-Year Strategic Alliance Between Siemens Healthineers and Cleveland Clinic",
+      "summary_es": "Siemens Healthineers y la Clínica Cleveland anunciaron una alianza estratégica de una década para mejorar la atención clínica mediante innovación y tecnología de imágenes avanzadas. Esta colaboración revolucionará la investigación y el diagnóstico de heridas.",
+      "body_es": "Siemens Healthineers y la Clínica Cleveland han establecido una alianza estratégica de diez años. Esta asociación se enfoca en la innovación clínica y las tecnologías avanzadas de imagen. La colaboración permitirá que ambas organizaciones desarrollen nuevas soluciones diagnósticas. La tecnología de imagen avanzada es crucial para evaluar heridas complejas. Los sistemas de imagen modernos pueden detectar cambios en el tejido que otros métodos no pueden identificar. La investigación conjunta explorará nuevas aplicaciones clínicas para estas tecnologías. El objetivo es mejorar significativamente la calidad de la atención al paciente. La alianza también promoverá la capacitación de profesionales médicos. Los investigadores de Cleveland Clinic tendrán acceso a la tecnología de Siemens. Siemens Healthineers se beneficiará de la experiencia clínica de Cleveland Clinic. Esta colaboración representa un avance importante en la medicina de heridas.",
+      "body_en": "Siemens Healthineers and Cleveland Clinic have established a ten-year strategic alliance. This partnership focuses on clinical innovation and advanced imaging technologies. The collaboration will allow both organizations to develop new diagnostic solutions. Advanced imaging technology is crucial for evaluating complex wounds. Modern imaging systems can detect tissue changes that other methods cannot identify. Joint research will explore new clinical applications for these technologies. The goal is to significantly improve the quality of patient care. The alliance will also promote training of medical professionals. Cleveland Clinic researchers will have access to Siemens technology. Siemens Healthineers will benefit from Cleveland Clinic's clinical expertise. This collaboration represents an important advance in wound medicine.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNkdGZHNPd190cnM0aWpHVjlVZXpZMjdBZnJ3UEl2dUM2VEYyV1l4RTRRZ0dRMUxkQWdXU3E2a3hfRk9kaEZOZkw3bVZ0bGh0TWg2LWNkbkx3dzQ0bkFEb0M5dHBUY1VrbjhEYjA4M1JjYnRoNVpCRl9CZk9kb3Z1S2M4ZDlFMXNONFo3dWdKc24teHJzU1BmcE1iS0VRcmFnS1lubmlqTWRrZUhjbmtNaVFUVk9HenZqTWtockVsX3N0Y2NjYTcyTkoxSGpHa1k0Y0ltVTZxWHNmZHVkRC02eVQtMjVWUkIxRHM5cVFtVUVhUnIybmlvSmhodEhaeVlNTHV4emdOMUhJeldnMC1DRklhUHgxalE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-02/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "alianza estratégica",
+          "definition_es": "asociación entre organizaciones para lograr objetivos comunes",
+          "definition_en": "strategic alliance - partnership between organizations to achieve common goals"
+        },
+        {
+          "word": "imagen médica",
+          "definition_es": "tecnología para obtener imágenes del interior del cuerpo",
+          "definition_en": "medical imaging - technology to obtain images of the body interior"
+        },
+        {
+          "word": "innovación clínica",
+          "definition_es": "desarrollo de nuevos métodos y tecnologías para el cuidado médico",
+          "definition_en": "clinical innovation - development of new methods and technologies for medical care"
+        },
+        {
+          "word": "diagnóstico",
+          "definition_es": "identificación de una enfermedad o condición mediante análisis clínico",
+          "definition_en": "diagnosis - identification of disease or condition through clinical analysis"
+        }
+      ],
+      "added_at": "2026-08-02T09:43:47.427696Z"
+    },
     {
       "id": "chronic-wounds-20250801",
       "category": "Chronic Wounds",
@@ -33967,6 +34152,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-01T09:42:24.396351Z",
+  "last_updated": "2026-08-02T09:43:47.427696Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
