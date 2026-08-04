@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-04",
+      "filename": "spanish_lesson_2026-08-04.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-04.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Líderes del Senado llegan a un acuerdo para evitar el cierre del gobierno",
+          "headline_en": "Senate Leaders Reach a Deal to Avoid Government Shutdown",
+          "body_es": "Los líderes del Senado de los Estados Unidos llegaron a un acuerdo importante esta semana. El objetivo es evitar el cierre del gobierno federal. Un cierre del gobierno ocurre cuando el Congreso no aprueba un presupuesto. Durante un cierre, muchos empleados del gobierno no pueden trabajar. Este acuerdo es especialmente importante porque las elecciones de 2026 se acercan. Los políticos no quieren que los votantes recuerden un cierre del gobierno. Los líderes de los dos partidos principales trabajaron juntos para encontrar una solución. El acuerdo incluye decisiones sobre el presupuesto nacional. Muchos ciudadanos americanos estaban preocupados por la posibilidad de un cierre. El gobierno federal emplea a millones de personas en todo el país. Un cierre puede afectar muchos servicios importantes, como los parques nacionales y las agencias federales. Por ahora, el gobierno puede continuar funcionando con normalidad.",
+          "body_en": "Senate leaders in the United States reached an important agreement this week. The goal is to prevent a federal government shutdown. A government shutdown happens when Congress does not approve a budget. During a shutdown, many government employees cannot work. This agreement is especially important because the 2026 elections are approaching. Politicians do not want voters to remember a government shutdown. Leaders from both major parties worked together to find a solution. The agreement includes decisions about the national budget. Many American citizens were worried about the possibility of a shutdown. The federal government employs millions of people across the country. A shutdown can affect many important services, such as national parks and federal agencies. For now, the government can continue to function normally.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La Reserva Federal mantiene las tasas de interés mientras la inflación sube al nivel más alto en tres años",
+          "headline_en": "The Federal Reserve Holds Interest Rates Steady as Inflation Reaches a Three-Year High",
+          "body_es": "La Reserva Federal de los Estados Unidos tomó una decisión importante sobre las tasas de interés. Los funcionarios decidieron no cambiar las tasas por ahora. Esta decisión ocurrió en un momento difícil para la economía americana. La inflación subió al nivel más alto en los últimos tres años. La inflación significa que los precios de los productos suben. Cuando los precios suben, las personas pueden comprar menos cosas con el mismo dinero. Muchos americanos sienten el impacto de los precios más altos en los supermercados y las tiendas. La Reserva Federal normalmente sube las tasas de interés para controlar la inflación. Sin embargo, esta vez decidió esperar y observar la situación. Los economistas están debatiendo qué pasará en los próximos meses. Algunos expertos creen que la inflación bajará pronto. Otros piensan que los precios seguirán subiendo durante más tiempo.",
+          "body_en": "The United States Federal Reserve made an important decision about interest rates. Officials decided not to change the rates for now. This decision happened at a difficult time for the American economy. Inflation rose to its highest level in the last three years. Inflation means that the prices of products go up. When prices rise, people can buy fewer things with the same money. Many Americans feel the impact of higher prices at supermarkets and stores. The Federal Reserve usually raises interest rates to control inflation. However, this time it decided to wait and observe the situation. Economists are debating what will happen in the coming months. Some experts believe inflation will fall soon. Others think prices will continue rising for a longer time.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Un gráfico muestra el increíble cambio en las empresas tecnológicas americanas",
+          "headline_en": "One Chart Shows the Incredible Reversal at American Tech Companies",
+          "body_es": "Las grandes empresas tecnológicas de los Estados Unidos están cambiando mucho. Un nuevo análisis muestra una transformación sorprendente en el sector tecnológico. Durante varios años, estas empresas contrataron a miles de empleados nuevos. Empresas como Google, Amazon y Meta crecieron enormemente. Sin embargo, ahora la situación es muy diferente. Muchas empresas tecnológicas han despedido a muchos trabajadores en los últimos años. Al mismo tiempo, estas compañías están invirtiendo mucho dinero en inteligencia artificial. La inteligencia artificial puede hacer muchas tareas que antes hacían los empleados. Este cambio afecta a miles de trabajadores del sector tecnológico. Algunas personas están preocupadas por su trabajo. Los expertos dicen que el sector tecnológico continuará cambiando rápidamente. Las empresas buscan ser más eficientes con menos empleados. Este fenómeno es visible en todo el país y también en otras partes del mundo.",
+          "body_en": "The large technology companies in the United States are changing a lot. A new analysis shows a surprising transformation in the technology sector. For several years, these companies hired thousands of new employees. Companies like Google, Amazon, and Meta grew enormously. However, now the situation is very different. Many tech companies have laid off many workers in recent years. At the same time, these companies are investing a lot of money in artificial intelligence. Artificial intelligence can do many tasks that employees used to do. This change affects thousands of workers in the technology sector. Some people are worried about their jobs. Experts say the technology sector will continue to change rapidly. Companies seek to be more efficient with fewer employees. This phenomenon is visible throughout the country and also in other parts of the world.",
+          "source": "The Washington Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Los líderes del Senado llegaron a un acuerdo para evitar el cierre del gobierno.",
+          "definition_es": "Un convenio o decisión entre dos o más personas o grupos.",
+          "definition_en": "An agreement or deal between two or more people or groups."
+        },
+        {
+          "word": "cierre",
+          "syllables": "CIER-re",
+          "pos": "sustantivo",
+          "context": "El acuerdo evitó el cierre del gobierno antes de las elecciones.",
+          "definition_es": "Cuando algo deja de funcionar temporalmente, como una oficina o institución.",
+          "definition_en": "A shutdown or closure, when something stops functioning temporarily."
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación llegó al nivel más alto en tres años.",
+          "definition_es": "El aumento general de los precios de los productos y servicios.",
+          "definition_en": "The general rise in prices of goods and services."
+        },
+        {
+          "word": "tasas de interés",
+          "syllables": "TA-sas de in-te-RÉS",
+          "pos": "sustantivo",
+          "context": "La Reserva Federal mantuvo las tasas de interés sin cambios.",
+          "definition_es": "El porcentaje que los bancos cobran o pagan por el dinero prestado.",
+          "definition_en": "The percentage charged or paid for borrowed money."
+        },
+        {
+          "word": "reversión",
+          "syllables": "re-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas experimentaron una increíble reversión en sus operaciones.",
+          "definition_es": "Un cambio importante hacia una dirección opuesta.",
+          "definition_en": "An important change back toward the opposite direction."
+        },
+        {
+          "word": "elecciones",
+          "syllables": "e-lec-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Los senadores quieren evitar problemas antes de las elecciones de 2026.",
+          "definition_es": "El proceso en el que los ciudadanos votan para elegir a sus representantes.",
+          "definition_en": "The process in which citizens vote to choose their representatives."
+        },
+        {
+          "word": "mantener",
+          "syllables": "man-te-NER",
+          "pos": "verbo",
+          "context": "La Reserva Federal decidió mantener las tasas de interés estables.",
+          "definition_es": "Conservar algo en el mismo estado, sin cambiarlo.",
+          "definition_en": "To keep something in the same state without changing it."
+        },
+        {
+          "word": "tecnológico",
+          "syllables": "tec-no-LÓ-gi-co",
+          "pos": "adjetivo",
+          "context": "El sector tecnológico en los Estados Unidos ha cambiado mucho recientemente.",
+          "definition_es": "Relacionado con la tecnología y los avances modernos.",
+          "definition_en": "Related to technology and modern advances."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'acuerdo'?",
+          "options": [
+            "A) Un conflicto entre dos grupos",
+            "B) Una decisión o convenio entre dos o más personas",
+            "C) Un tipo de elección política",
+            "D) El cierre de una institución"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inflación'?",
+          "options": [
+            "A) La bajada general de los precios",
+            "B) El número de empleados en una empresa",
+            "C) El aumento general de los precios de productos y servicios",
+            "D) Una tasa de interés bancaria"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado del verbo 'mantener'?",
+          "options": [
+            "A) Cambiar algo completamente",
+            "B) Conservar algo en el mismo estado",
+            "C) Aumentar el precio de algo",
+            "D) Votar en una elección"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'cierre' en el contexto del gobierno?",
+          "options": [
+            "A) Una nueva ley aprobada por el Senado",
+            "B) Las elecciones nacionales",
+            "C) Cuando el gobierno deja de funcionar temporalmente",
+            "D) Un aumento de los impuestos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿por qué es especialmente importante el acuerdo del Senado?",
+          "options": [
+            "A) Porque la inflación está muy alta",
+            "B) Porque las elecciones de 2026 se acercan",
+            "C) Porque las empresas tecnológicas están despidiendo empleados",
+            "D) Porque la Reserva Federal subió las tasas de interés"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿qué puede pasar durante un cierre del gobierno?",
+          "options": [
+            "A) Los precios de los productos suben",
+            "B) Las empresas tecnológicas contratan más empleados",
+            "C) Muchos empleados del gobierno no pueden trabajar",
+            "D) La Reserva Federal cambia las tasas de interés"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿qué decidió hacer la Reserva Federal con las tasas de interés?",
+          "options": [
+            "A) Subir las tasas inmediatamente",
+            "B) Bajar las tasas para ayudar a la economía",
+            "C) Mantenerlas sin cambios por ahora",
+            "D) Eliminar las tasas de interés completamente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿a qué nivel llegó la inflación?",
+          "options": [
+            "A) Al nivel más bajo en tres años",
+            "B) Al nivel más alto en tres años",
+            "C) Al nivel más alto en diez años",
+            "D) Al mismo nivel que el año pasado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿en qué están invirtiendo mucho dinero las empresas tecnológicas ahora?",
+          "options": [
+            "A) En contratar miles de empleados nuevos",
+            "B) En abrir nuevas tiendas en todo el país",
+            "C) En inteligencia artificial",
+            "D) En campañas políticas para las elecciones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué cambio importante ocurrió en las grandes empresas tecnológicas?",
+          "options": [
+            "A) Subieron los precios de sus productos",
+            "B) Después de años de crecimiento, han despedido a muchos trabajadores",
+            "C) Trasladaron sus oficinas a otros países",
+            "D) Se fusionaron con el gobierno federal"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-04T09:52:49.568062"
+    },
+    {
       "date": "2026-08-03",
       "filename": "spanish_lesson_2026-08-03.pdf",
       "path": "pdfs/spanish_lesson_2026-08-03.pdf",
@@ -50848,7 +51070,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-03T10:14:59.706065",
+  "last_updated": "2026-08-04T09:52:49.568096",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
