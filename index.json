@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-06",
+      "filename": "spanish_lesson_2026-08-06.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-06.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Senado vota contra Fauci después de que invoca la Quinta Enmienda",
+          "headline_en": "Senate votes against Fauci after he invokes the Fifth Amendment",
+          "body_es": "El doctor Anthony Fauci estuvo en el centro de una controversia política esta semana. El senador Rand Paul organizó una votación formal de desacato en el Senado de Estados Unidos. Esta acción ocurrió después de que Fauci invocó la Quinta Enmienda. La Quinta Enmienda es un derecho legal que permite a una persona no responder preguntas para no acusarse a sí misma. El senador Paul cree que Fauci no fue honesto sobre investigaciones relacionadas con el coronavirus. Fauci fue el director del Instituto Nacional de Alergias y Enfermedades Infecciosas durante muchos años. Él fue una figura muy importante durante la pandemia de COVID-19. Sus críticos dicen que no respondió preguntas importantes del Congreso. Sus seguidores dicen que él siempre actuó con integridad. La votación fue televisada en vivo y generó mucha atención del público en todo el país.",
+          "body_en": "Doctor Anthony Fauci was at the center of a political controversy this week. Senator Rand Paul organized a formal contempt vote in the United States Senate. This action occurred after Fauci invoked the Fifth Amendment. The Fifth Amendment is a legal right that allows a person to refuse to answer questions to avoid self-incrimination. Senator Paul believes Fauci was not honest about research related to the coronavirus. Fauci was the director of the National Institute of Allergy and Infectious Diseases for many years. He was a very important figure during the COVID-19 pandemic. His critics say he did not answer important questions from Congress. His supporters say he always acted with integrity. The vote was broadcast live and generated a lot of public attention across the country.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía de EE.UU. crece, pero los costos altos frenan la contratación",
+          "headline_en": "US economy grows, but high costs slow down hiring",
+          "body_es": "La economía de Estados Unidos continúa creciendo con buena energía este año. Los expertos dicen que los números económicos son positivos en general. Sin embargo, hay un problema importante: los costos de las empresas son muy altos. Estos costos altos hacen difícil para las compañías contratar nuevos empleados. Muchos negocios quieren crecer, pero el dinero no es suficiente para pagar más trabajadores. Los precios de los materiales y los servicios siguen siendo elevados. Esto crea una situación complicada para la economía. Por un lado, la producción y el consumo son buenos. Por otro lado, el mercado de trabajo no crece tan rápido como se esperaba. Los economistas observan esta situación con atención. Ellos esperan que los costos bajen en los próximos meses. Si los costos bajan, las empresas podrán contratar más personas y el empleo mejorará.",
+          "body_en": "The United States economy continues to grow with good energy this year. Experts say the economic numbers are generally positive. However, there is an important problem: business costs are very high. These high costs make it difficult for companies to hire new employees. Many businesses want to grow, but there is not enough money to pay more workers. The prices of materials and services remain elevated. This creates a complicated situation for the economy. On one hand, production and consumption are good. On the other hand, the job market is not growing as fast as expected. Economists are watching this situation closely. They hope that costs will decrease in the coming months. If costs go down, companies will be able to hire more people and employment will improve.",
+          "source": "MarketWatch"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Empresas tecnológicas despiden trabajadores y culpan a la inteligencia artificial",
+          "headline_en": "Tech companies lay off workers and blame artificial intelligence",
+          "body_es": "Esta semana varias empresas de tecnología anunciaron despidos masivos de empleados. Las compañías afectadas incluyen Cloudflare, Coinbase y Upwork, entre otras. Todas estas empresas tienen algo en común: mencionaron la inteligencia artificial como una razón principal para los despidos. La inteligencia artificial puede hacer muchas tareas que antes hacían los trabajadores humanos. Por eso, las empresas necesitan menos personas para hacer el mismo trabajo. Esto preocupa mucho a los trabajadores del sector tecnológico. Muchos empleados tienen miedo de perder sus trabajos en el futuro. Los expertos dicen que esta tendencia va a continuar en los próximos años. La inteligencia artificial está cambiando la forma en que las empresas operan. Algunos creen que la tecnología también creará nuevos empleos diferentes. Sin embargo, muchos trabajadores no tienen las habilidades necesarias para esos nuevos puestos de trabajo todavía.",
+          "body_en": "This week several technology companies announced mass layoffs of employees. The affected companies include Cloudflare, Coinbase, and Upwork, among others. All these companies have something in common: they mentioned artificial intelligence as a main reason for the layoffs. Artificial intelligence can perform many tasks that human workers used to do. Therefore, companies need fewer people to do the same work. This worries workers in the technology sector greatly. Many employees are afraid of losing their jobs in the future. Experts say this trend will continue in the coming years. Artificial intelligence is changing the way companies operate. Some believe that technology will also create different new jobs. However, many workers do not yet have the necessary skills for those new positions.",
+          "source": "Fast Company"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "despido",
+          "syllables": "des-PI-do",
+          "pos": "sustantivo",
+          "context": "Las empresas tecnológicas anunciaron despidos masivos esta semana.",
+          "definition_es": "Cuando una empresa termina el trabajo de un empleado.",
+          "definition_en": "Layoff / dismissal from a job"
+        },
+        {
+          "word": "acusación",
+          "syllables": "a-cu-sa-CIÓN",
+          "pos": "sustantivo",
+          "context": "El senador Paul presentó una acusación formal contra el doctor Fauci.",
+          "definition_es": "Cuando alguien dice que otra persona hizo algo malo o ilegal.",
+          "definition_en": "Accusation / charge"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía de Estados Unidos sigue creciendo este año.",
+          "definition_es": "El sistema de dinero, trabajo y productos de un país.",
+          "definition_en": "Economy"
+        },
+        {
+          "word": "contratar",
+          "syllables": "con-tra-TAR",
+          "pos": "verbo",
+          "context": "Los costos altos impiden a las empresas contratar más empleados.",
+          "definition_es": "Dar trabajo a una persona en una empresa.",
+          "definition_en": "To hire / to employ"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Muchas compañías usan la inteligencia artificial para reemplazar trabajadores.",
+          "definition_es": "Tecnología que hace que las computadoras piensen como personas.",
+          "definition_en": "Artificial intelligence (AI)"
+        },
+        {
+          "word": "costos",
+          "syllables": "COS-tos",
+          "pos": "sustantivo",
+          "context": "Los costos altos son un problema para las empresas que quieren crecer.",
+          "definition_es": "El dinero que se necesita para hacer o comprar algo.",
+          "definition_en": "Costs / expenses"
+        },
+        {
+          "word": "votación",
+          "syllables": "vo-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "El Senado organizó una votación sobre el caso del doctor Fauci.",
+          "definition_es": "El proceso de elegir algo o a alguien con votos.",
+          "definition_en": "Vote / voting process"
+        },
+        {
+          "word": "momentum",
+          "syllables": "mo-MEN-tum",
+          "pos": "sustantivo",
+          "context": "La economía mantiene su momentum a pesar de los problemas.",
+          "definition_es": "La fuerza o energía que ayuda a algo a seguir avanzando.",
+          "definition_en": "Momentum / forward drive"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'despido'?",
+          "options": [
+            "A) Cuando una empresa da un aumento de salario a un empleado",
+            "B) Cuando una empresa termina el trabajo de un empleado",
+            "C) Cuando un empleado renuncia voluntariamente",
+            "D) Cuando una empresa contrata a un nuevo trabajador"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'contratar'?",
+          "options": [
+            "A) Despedir a una persona de su trabajo",
+            "B) Firmar un contrato para comprar algo",
+            "C) Dar trabajo a una persona en una empresa",
+            "D) Pagar una multa legal"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "En el contexto de las noticias, ¿qué es la 'inteligencia artificial'?",
+          "options": [
+            "A) Un tipo de universidad para personas inteligentes",
+            "B) Tecnología que hace que las computadoras piensen como personas",
+            "C) Un programa de gobierno para educar trabajadores",
+            "D) Una empresa de tecnología famosa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'votación' en español?",
+          "options": [
+            "A) Una conversación entre dos políticos",
+            "B) Un documento legal importante",
+            "C) El proceso de elegir algo o a alguien con votos",
+            "D) Una acusación formal en el Congreso"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Sobre la historia de Política: ¿Por qué el doctor Fauci invocó la Quinta Enmienda?",
+          "options": [
+            "A) Para pedir más tiempo para responder las preguntas",
+            "B) Para no responder preguntas y no acusarse a sí mismo",
+            "C) Para protestar contra el senador Paul",
+            "D) Para hablar sobre la pandemia de COVID-19"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Sobre la historia de Política: ¿Qué cargo tuvo Anthony Fauci durante muchos años?",
+          "options": [
+            "A) Senador de Estados Unidos",
+            "B) Director del FBI",
+            "C) Director del Instituto Nacional de Alergias y Enfermedades Infecciosas",
+            "D) Presidente del Congreso"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Sobre la historia de Economía: ¿Cuál es el problema principal que frena la contratación de empleados?",
+          "options": [
+            "A) La economía está creciendo demasiado rápido",
+            "B) Los costos altos de las empresas",
+            "C) No hay suficientes trabajadores disponibles",
+            "D) Las leyes del gobierno son muy estrictas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Sobre la historia de Economía: ¿Qué esperan los economistas que pase en los próximos meses?",
+          "options": [
+            "A) Que la economía deje de crecer",
+            "B) Que más empresas cierren",
+            "C) Que los costos bajen para poder contratar más personas",
+            "D) Que el gobierno pague los salarios de los trabajadores"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Sobre la historia de Tecnología: ¿Cuáles de estas empresas anunciaron despidos esta semana?",
+          "options": [
+            "A) Google, Apple y Microsoft",
+            "B) Cloudflare, Coinbase y Upwork",
+            "C) Amazon, Netflix y Spotify",
+            "D) Facebook, Twitter y LinkedIn"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Sobre la historia de Tecnología: ¿Por qué muchos trabajadores no pueden conseguir los nuevos empleos creados por la tecnología?",
+          "options": [
+            "A) Porque los nuevos empleos están en otros países",
+            "B) Porque los salarios son muy bajos",
+            "C) Porque no tienen las habilidades necesarias para esos puestos",
+            "D) Porque las empresas prefieren contratar robots"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-06T09:53:05.591954"
+    },
+    {
       "date": "2026-08-05",
       "filename": "spanish_lesson_2026-08-05.pdf",
       "path": "pdfs/spanish_lesson_2026-08-05.pdf",
@@ -51292,7 +51514,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-05T09:52:36.572955",
+  "last_updated": "2026-08-06T09:53:05.591995",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
