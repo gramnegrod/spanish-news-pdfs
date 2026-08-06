@@ -1,11 +1,159 @@
 {
-  "date": "2026-08-05",
-  "generated_at": "2026-08-05T09:56:44.419720Z",
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T09:58:54.412833Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 938,
-  "new_today": 5,
+  "total_stories": 942,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250806",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Applied Biologics Aprueba Nuevo Tratamiento para Úlceras del Pie Diabético",
+      "headline_en": "Applied Biologics Approves New Treatment for Diabetic Foot Ulcers",
+      "summary_es": "Applied Biologics recibió aprobación para un nuevo tratamiento en ensayo clínico fase 3. Este tratamiento ayuda a curar úlceras del pie en pacientes diabéticos.",
+      "body_es": "Applied Biologics ha recibido aprobación importante para su nuevo tratamiento BIOxHEAL. Este tratamiento se prueba en pacientes con úlceras del pie diabético. El ensayo clínico es fase 3, el paso más avanzado antes de disponibilidad general.\n\nLas úlceras del pie diabético son heridas graves y comunes. Afectan a muchos pacientes con diabetes. El nuevo tratamiento usa tecnología biológica para estimular la curación natural.\n\nLos investigadores esperan que este tratamiento mejore la cicatrización. Muchos pacientes diabéticos tienen dificultad para sanar heridas. Este nuevo método podría cambiar el cuidado de estas úlceras crónicas.",
+      "body_en": "Applied Biologics has received important approval for its new BIOxHEAL treatment. This treatment is being tested in patients with diabetic foot ulcers. The clinical trial is phase 3, the most advanced step before general availability.\n\nDiabetic foot ulcers are serious and common wounds. They affect many patients with diabetes. The new treatment uses biological technology to stimulate natural healing.\n\nResearchers hope this treatment will improve wound scarring. Many diabetic patients have difficulty healing wounds. This new method could change the care of these chronic ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUF3eS1sa0tHVDBDemRZekN3d3F6ZWJCQmhza21tdXg3eEs4TGhvcTJNVUJDWWpxNk1tS1R2dERBRzBrMGZ0TjdlcWFMeGV5Qm1vaDg4eFJrcExxanlPbDZOOXhmc1NoQ3ExMi1JVHJ5Q3V0cmVYbkRqMTRBanktUHoySm5aTEI1eHRXemQ3VXlyZHVONXJlSENyRmo3NjN0M19UaA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-06/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta que no cicatriza bien",
+          "definition_en": "ulcer - open wound that does not heal well"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "formación de tejido nuevo para cerrar herida",
+          "definition_en": "scarring - formation of new tissue to close a wound"
+        },
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio científico de un nuevo tratamiento",
+          "definition_en": "clinical trial - scientific study of a new treatment"
+        }
+      ],
+      "added_at": "2026-08-06T09:58:54.412833Z"
+    },
+    {
+      "id": "diabetic-foot-20250806",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Infecciones Fúngicas en las Uñas: Un Riesgo Importante para Pacientes Diabéticos",
+      "headline_en": "Fungal Infections in Nails: An Important Risk for Diabetic Patients",
+      "summary_es": "Las infecciones fúngicas en las uñas representan un peligro significativo para pacientes diabéticos. Estos pacientes tienen mayor riesgo de complicaciones graves si desarrollan onicomicosis.",
+      "body_es": "Las infecciones fúngicas en las uñas, conocidas como onicomicosis, presentan un riesgo especial para los pacientes diabéticos. Mientras que la población general puede desarrollar estas infecciones sin consecuencias graves, los diabéticos enfrentan complicaciones potencialmente serias.\n\nEn pacientes diabéticos, la onicomicosis puede progresar rápidamente hacia infecciones más profundas. Las uñas infectadas pueden debilitarse y romperse, creando heridas en la piel. Estas heridas tienen dificultad para cicatrizar debido a los niveles de glucosa elevados.\n\nLos especialistas recomiendan que los diabéticos revisen sus pies regularmente. El tratamiento antifúngico debe iniciarse temprano para prevenir complicaciones. Una detección precoz puede evitar que la infección se extienda a tejidos más profundos y cause úlceras del pie.",
+      "body_en": "Fungal infections of the nails, known as onychomycosis, present a special risk for diabetic patients. While the general population can develop these infections without serious consequences, diabetics face potentially serious complications.\n\nIn diabetic patients, onychomycosis can progress rapidly to deeper infections. Infected nails can weaken and break, creating wounds in the skin. These wounds have difficulty healing due to elevated glucose levels.\n\nSpecialists recommend that diabetics examine their feet regularly. Antifungal treatment should be started early to prevent complications. Early detection can prevent the infection from spreading to deeper tissues and causing foot ulcers.",
+      "source_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPcXFJSllna0ZZTVlZa1A2blNxbFNkdFZ1RndHQ0E5YkZvWUktckMxcWhEdUoydlcwVHRaNWpNSlVVaEc5MnhLSm5wSUVZV3RyaFVYSWFKS2xKamFuYmRRbHQxeWd3UWU2cXdpUmFlbzBUR19JVlp0T1RQVnNDQzdWSzZKbkp4MDNsMnh0eHR1T1JBUkVFbzR1VndFT1F1WEpmUmNhLXJlX2JvVGJYd0xhZXhGbExDSTkwUzIwRVJ0MW5Vck1NOFBtbEN4bmtOenNUT3RJV21JcUZMY1N1QTkzQk4wZS1IWFhNdFhwZGtEdjd5UFR5aWx0N3NNc3RQSzYwR3dzZlNvR2swM0pRdDdQME51MVhkbEl5SG4zZkhzaklYOGhjN0kzcFZvRjV2UVZIOThN?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-06/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "onicomicosis",
+          "definition_es": "infección fúngica de las uñas",
+          "definition_en": "onychomycosis - fungal infection of the nails"
+        },
+        {
+          "word": "antifúngico",
+          "definition_es": "medicamento que elimina los hongos",
+          "definition_en": "antifungal - medication that eliminates fungi"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo para cerrar herida",
+          "definition_en": "healing - process of forming new tissue to close a wound"
+        },
+        {
+          "word": "complicación",
+          "definition_es": "problema adicional que surge durante una enfermedad",
+          "definition_en": "complication - additional problem that arises during an illness"
+        }
+      ],
+      "added_at": "2026-08-06T09:58:54.412833Z"
+    },
+    {
+      "id": "surgical-wounds-20250806",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Arnica Montana: Revisión de su Efectividad en la Recuperación Postoperatoria",
+      "headline_en": "Arnica Montana: Review of its Effectiveness in Postoperative Recovery",
+      "summary_es": "Una revisión sistemática examina el uso de árnica montana en la recuperación después de cirugía. Los investigadores analizan si este tratamiento natural mejora la cicatrización de heridas quirúrgicas.",
+      "body_es": "Una revisión sistemática publicada en la revista Cureus examina el uso de árnica montana en varios tipos de cirugía. Los investigadores recopilaron estudios de múltiples especialidades quirúrgicas para evaluar su efectividad.\n\nÁrnica montana es una planta medicinal tradicional que se utiliza para reducir la inflamación y los moretones después de la cirugía. Muchos pacientes creen que acelera la recuperación postoperatoria y mejora la cicatrización.\n\nLa revisión sistemática analiza evidencia científica de múltiples estudios clínicos. Los resultados ayudan a los cirujanos a comprender si realmente mejora la curación de heridas. Este tipo de investigación es importante porque permite medicina basada en evidencia en el cuidado postoperatorio. Actualmente, se necesitan más estudios para confirmar la efectividad del árnica en todas las especialidades quirúrgicas.",
+      "body_en": "A systematic review published in the Cureus journal examines the use of arnica montana in various types of surgery. Researchers collected studies from multiple surgical specialties to evaluate its effectiveness.\n\nArnica montana is a traditional medicinal plant used to reduce inflammation and bruising after surgery. Many patients believe it accelerates postoperative recovery and improves wound healing.\n\nThe systematic review analyzes scientific evidence from multiple clinical studies. The results help surgeons understand whether it really improves wound healing. This type of research is important because it allows evidence-based medicine in postoperative care. Currently, more studies are needed to confirm the effectiveness of arnica in all surgical specialties.",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd0NLQktKSEFDbTh2eEo0aGlrNDdfN3M4Ymx2ems3NGk5VzFCb3RTd3BnMi1MMDRnMTl5dmxnei1LbXhSQU5reVNJdHdhSFlIcWFucU54NldSdkhCbnlUeU1YbHFYempFWGw4MGRmVnEyNHczMVNHQ0h6dWxBOUpiMFdBN0RNVnBRQy10M0NqQi0yeEwtOW9TRkNqb3d2em1pa3BGb2RnMEVhYV8zM3BfTElmNW45RGV1dGNfSGxNUDduUGlCVjRzQ3NB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-06/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo para cerrar herida quirúrgica",
+          "definition_en": "healing - process of forming new tissue to close surgical wound"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "hinchazón y enrojecimiento después de la cirugía",
+          "definition_en": "inflammation - swelling and redness after surgery"
+        },
+        {
+          "word": "postoperatorio",
+          "definition_es": "período después de la cirugía",
+          "definition_en": "postoperative - period after surgery"
+        },
+        {
+          "word": "moretones",
+          "definition_es": "manchas azuladas por hematomas en la piel",
+          "definition_en": "bruises - bluish marks from hematomas on the skin"
+        }
+      ],
+      "added_at": "2026-08-06T09:58:54.412833Z"
+    },
+    {
+      "id": "wound-research-20250806",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Universidad de Maryland Publica Avances en Investigación de Curación de Heridas en 2026",
+      "headline_en": "University of Maryland Publishes Advances in Wound Healing Research in 2026",
+      "summary_es": "La Universidad de Maryland, Baltimore, continúa sus investigaciones innovadoras en curación de heridas. Los nuevos hallazgos prometen mejorar los tratamientos para pacientes con heridas crónicas.",
+      "body_es": "La Universidad de Maryland, Baltimore, ha publicado importantes avances en investigación de curación de heridas durante 2026. El departamento de medicina continúa desarrollando nuevas tecnologías y métodos para mejorar la cicatrización.\n\nLos investigadores de Maryland se enfocan en entender los procesos biológicos que ocurren durante la curación de heridas. Utilizan tecnología avanzada para estudiar cómo el cuerpo forma nuevo tejido y cierra heridas. Este conocimiento fundamental es esencial para desarrollar tratamientos más efectivos.\n\nLos avances incluyen mejor comprensión de la inflamación, la formación de vasos sanguíneos y la deposición de colágeno durante la cicatrización. Estos descubrimientos permiten a los médicos diseñar tratamientos más específicos para diferentes tipos de heridas. La investigación de la Universidad de Maryland contribuye significativamente al campo de la medicina de heridas a nivel nacional.",
+      "body_en": "University of Maryland, Baltimore, has published important advances in wound healing research during 2026. The medical department continues developing new technologies and methods to improve wound healing.\n\nMaryland researchers focus on understanding the biological processes that occur during wound healing. They use advanced technology to study how the body forms new tissue and closes wounds. This fundamental knowledge is essential for developing more effective treatments.\n\nAdvances include better understanding of inflammation, blood vessel formation, and collagen deposition during wound healing. These discoveries allow doctors to design more specific treatments for different types of wounds. University of Maryland research contributes significantly to the field of wound care medicine at the national level.",
+      "source_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNZzJwbF92dDJ4ejFHMlV0ajI5Q3R1djZHSmw1ZXBpZTdBSEl4T200d3FWSVBoXzIxTzFxcldjRkVwRk9LWHhWNzh2WTUxRUhkM0hPd09YdG5TVEdNUEhGMkF0VHNwczZmbzNmcTljR3hTaHVvNkpkYkUtOGhsMWVpd20xUU4zSHZUUVpobElWOVNoY1BPeWNhOGVnenF1aXdDVmEzT1pXNEZsMDN2NWVfNEJjaUlydWdZNHU2Vkp3Y1Y2SDVJT2ZjbzZNS2lXd1pYX1diYWxWVWl6b3VWS281dndLazBMbjh3bVZZSi1JOHQ5dWIyYXh3UUQ0ZDFtWk5rdjJfOGNrcGtkOEdFT2lFUGkwdDg3S25hbThTYnBwaWxtSWRQLWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-06/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de tejido nuevo para cerrar una herida",
+          "definition_en": "wound healing - process of forming new tissue to close a wound"
+        },
+        {
+          "word": "colágeno",
+          "definition_es": "proteína principal en el tejido conectivo y la piel",
+          "definition_en": "collagen - main protein in connective tissue and skin"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "respuesta del cuerpo a una lesión con enrojecimiento e hinchazón",
+          "definition_en": "inflammation - body's response to injury with redness and swelling"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos",
+          "definition_en": "angiogenesis - formation of new blood vessels"
+        }
+      ],
+      "added_at": "2026-08-06T09:58:54.412833Z"
+    },
     {
       "id": "chronic-wounds-20250805",
       "category": "Chronic Wounds",
@@ -34707,6 +34855,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-05T09:56:44.419720Z",
+  "last_updated": "2026-08-06T09:58:54.412833Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
