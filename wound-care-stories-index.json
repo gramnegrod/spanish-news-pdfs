@@ -1,11 +1,159 @@
 {
-  "date": "2026-08-07",
-  "generated_at": "2026-08-07T10:09:45.024694Z",
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T09:17:59.329117Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 945,
-  "new_today": 3,
+  "total_stories": 949,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250808",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos Sustitutos de Piel para Úlceras por Presión",
+      "headline_en": "New Skin Substitutes for Pressure Ulcers",
+      "summary_es": "Un estudio reciente demuestra que los nuevos apósitos de membrana son efectivos para tratar úlceras por presión. Los resultados muestran una mejoría significativa en la curación de heridas crónicas.",
+      "body_es": "Las úlceras por presión son heridas graves que afectan a muchos pacientes. Un estudio nuevo evalúa un apósito especial llamado Membrane Wrap. Los resultados son positivos y muestran una buena curación. Este tratamiento protege la piel y ayuda a sanar las heridas. Los enfermeros pueden usar este apósito en pacientes con úlceras por presión. La investigación confirma que es seguro y efectivo. El mercado de sustitutos de piel crece cada año. Estos productos nuevos ofrecen mejores opciones para el cuidado de heridas.",
+      "body_en": "Pressure ulcers are serious wounds that affect many patients. A new study evaluates a special dressing called Membrane Wrap. The results are positive and show good healing. This treatment protects the skin and helps wounds heal. Nurses can use this dressing in patients with pressure ulcers. The research confirms it is safe and effective. The skin substitute market grows every year. These new products offer better options for wound care.",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVlFUTExFbUVrNlc4MGN5MFM0RHV2QzdQRm1ZcHZUN3lGZ29YVGNWZnRwamRla2lHZVpvd1o2Y2FVQ2c1ZXU4N0VjYUs3cFF5OThRSDYyMUJEUmRndkJubWtoOVRpc3A5OEEwRDhQQUVIdnFWYmE1TTFmSUxoelBtMGN4ZG8waEtHcEd0OGtJVHZKQkJiNFNTbEhWVS15OTZOUFJHOU91bm54VDNZaDBZWVJ6aDBxX1VQeTAwMjV0WFJMUXNmMFJfX2ZiQmU5aDBxeWFqM1RQRDMxYVR2MWNzWVRJWWhaZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-08/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida causada por presión prolongada en la piel",
+          "definition_en": "pressure ulcer - wound caused by prolonged pressure on skin"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se coloca sobre una herida para protegerla",
+          "definition_en": "dressing - material placed over a wound to protect it"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "sustituto de piel",
+          "definition_es": "material artificial que reemplaza la piel dañada",
+          "definition_en": "skin substitute - artificial material that replaces damaged skin"
+        }
+      ],
+      "added_at": "2026-08-08T09:17:59.329117Z"
+    },
+    {
+      "id": "diabetic-foot-20250808",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "La Onicomicosis Como Factor de Riesgo en Pacientes Diabéticos",
+      "headline_en": "Onychomycosis as a Risk Factor in Diabetic Patients",
+      "summary_es": "Un análisis reciente establece la conexión entre la onicomicosis y el riesgo de complicaciones en pacientes con diabetes. Esta infección fúngica de las uñas requiere atención especial en el cuidado del pie diabético.",
+      "body_es": "La diabetes aumenta el riesgo de desarrollar infecciones en los pies, incluyendo la onicomicosis. Esta condición, causada por hongos en las uñas, puede llevar a complicaciones más graves si no se trata adecuadamente. Los pacientes diabéticos tienen una vulnerabilidad aumentada debido a su sistema inmunológico debilitado. La onicomicosis puede progresar y afectar la integridad de la piel, facilitando infecciones bacterianas secundarias. Es fundamental realizar evaluaciones regulares de los pies en estos pacientes. El tratamiento temprano previene úlceras diabéticas y posibles amputaciones. Los profesionales de enfermería deben educar a los pacientes sobre la higiene y el cuidado preventivo de los pies. La identificación precoz de hongos es crucial para evitar complicaciones severas.",
+      "body_en": "Diabetes increases the risk of developing foot infections, including onychomycosis. This condition, caused by fungal infections in the nails, can lead to more serious complications if not properly treated. Diabetic patients have increased vulnerability due to their weakened immune system. Onychomycosis can progress and affect skin integrity, facilitating secondary bacterial infections. Regular foot evaluations are essential in these patients. Early treatment prevents diabetic ulcers and possible amputations. Nursing professionals must educate patients about hygiene and preventive foot care. Early identification of fungi is crucial to prevent severe complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNVG9xNFFsTXhlZnExY1V5X19GSFN4X29pX3VKWWViUHh5elNSOUpCTTNrMDVnTnVrSmRvZXplT0kzNWV6OU1EeWlFd2N6clFyUXF5VTBfNWJHdWxhQ3ItMVJWbXZQNUxwS0ZQR1RGSm52Q2dPMFZ0ZmZQS29QcW91ekg2SFFVTDk0U0ZJMTg5Q3Zlemp4bHl5elhqWVBKSEtUb3FSU0pabWtiVUZmSUZYbHYzaHV5ZUR1M0h2Y1YtMHVLc0U1azFwS2ktaEtGamdJZ210WURNR0FMdlR5OEVVSmVpLWszQ0YyV3VyaUVTdW1aNTJSdkpSTnJjZzRSR2x3OWJfX241UDJPalljZ3VRQWpMNlJZWUVLTE1RTnlWamo5XzhwRERZdWQ1a2RHSVVUS09J?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-08/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "onicomicosis",
+          "definition_es": "infección fúngica de las uñas causada por hongos",
+          "definition_en": "onychomycosis - fungal infection of the nails caused by fungi"
+        },
+        {
+          "word": "pie diabético",
+          "definition_es": "complicación de la diabetes que afecta los pies",
+          "definition_en": "diabetic foot - diabetes complication affecting the feet"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on the skin that does not heal easily"
+        },
+        {
+          "word": "integridad de la piel",
+          "definition_es": "estado de la piel sin roturas ni daños",
+          "definition_en": "skin integrity - condition of skin without breaks or damage"
+        }
+      ],
+      "added_at": "2026-08-08T09:17:59.329117Z"
+    },
+    {
+      "id": "burn-care-20250808",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "AVITA Medical Reporta Progreso en Tecnología de Sustitutos de Piel para Quemaduras",
+      "headline_en": "AVITA Medical Reports Progress in Skin Substitute Technology for Burns",
+      "summary_es": "AVITA Medical ha reportado resultados positivos en el segundo trimestre y espera alcanzar rentabilidad financiera en el cuarto trimestre de 2026. La compañía continúa desarrollando soluciones innovadoras para el cuidado de quemaduras.",
+      "body_es": "AVITA Medical, una empresa líder en tecnología de sustitutos de piel, ha anunciado resultados positivos en el segundo trimestre de este año. La compañía ha aumentado su proyección de ingresos para 2026 basándose en el progreso de sus productos. El objetivo es alcanzar rentabilidad en el flujo de caja durante el cuarto trimestre de 2026. Los sustitutos de piel son fundamentales en el tratamiento de quemaduras extensas. Estos materiales ayudan a restaurar la barrera protectora de la piel dañada por calor. El mercado de sustitutos de piel está en expansión debido a la demanda creciente de tratamientos avanzados. Los profesionales sanitarios valoran estas innovaciones por su eficacia en la cicatrización. La investigación continua mejora la calidad y accesibilidad de estos productos para pacientes con quemaduras graves.",
+      "body_en": "AVITA Medical, a leading company in skin substitute technology, announced positive results in the second quarter of this year. The company increased its revenue projection for 2026 based on product progress. The goal is to achieve cash flow profitability during the fourth quarter of 2026. Skin substitutes are fundamental in treating extensive burns. These materials help restore the protective barrier of heat-damaged skin. The skin substitute market is expanding due to growing demand for advanced treatments. Healthcare professionals value these innovations for their effectiveness in wound healing. Continued research improves the quality and accessibility of these products for patients with severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNWkRjQkt4OUpHMHJPZFZQRTVYRG1oS1V0WnFQRnZybGRhYlVvNGYzODdIemJZTzliVHl5ZERlbThxNTRvU1J2MDdobVN3d3RMREIxc3N2VndfbG92VTEzaVJQQXViN0Y0Y29fM0NKY3ZocnljOFVRX3FIM29EbERiTmVyZWY5eWJORWFDVDdTWm1oUXY5RDd5OWdPM3NFUHFBZTBpS29mR015WTRRblNUUW5jTzdEVU5MU0R6X2Y2SW81S2RGZVVISjFscno0UEVyc0txWG1iMUloNWtZLWNSc29UREJtT0FBYW8tN2RPdlJIbm9jYkhja2xFRERJN1FjQWM5U3ZrMHpNNU9yV3pWdlhuOTU4dk1DMDlhdWl2Z9IBpAJBVV95cUxPNk14UUxJVnlzcXZjVTNxbHdPQVd6SklNVDlJMmplRm10R0ZmazF5cl9xT0JVeUlrSGxJOHRDSm1NYjNaQnpucEhXV2FsRldOeFJJc0JMMi1CWUVkU1hWNlk4cFItT1R4Tk9pRnpsWjlVR256X3pKU3VfempjNHBBcXZ0ZzRDN1hrWjRfRXB1bVhmcG1oc2FDZWxuaFQyZlU3LVk0LW1SYnFpREU4bS1HbjBCcjJIdFBCMlc1VHZhZW5OdlVLN2xjM3poUEhtZmhScVlleExwWHN2cS1EdXlTWWZxYUdReTJUZnBPYzN3LUtmd3JiWkdyR3JEWDFQWnJZVk9yb2tnVzdGRnU0NGZRV01Kdy1sQlBJclF1WUFmc1U5aDRj?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-08/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "sustituto de piel",
+          "definition_es": "material biocompatible que reemplaza piel dañada",
+          "definition_en": "skin substitute - biocompatible material that replaces damaged skin"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y formación de tejido nuevo",
+          "definition_en": "healing/scarring - process of healing and new tissue formation"
+        },
+        {
+          "word": "barrera protectora",
+          "definition_es": "función defensiva de la piel contra infecciones",
+          "definition_en": "protective barrier - skin's defensive function against infections"
+        }
+      ],
+      "added_at": "2026-08-08T09:17:59.329117Z"
+    },
+    {
+      "id": "surgical-wounds-20250808",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Comparación de Técnicas Quirúrgicas para el Manejo del Seno Pilonidal",
+      "headline_en": "Comparison of Surgical Techniques for Pilonidal Sinus Management",
+      "summary_es": "Un estudio reciente compara tres técnicas quirúrgicas diferentes para el tratamiento del seno pilonidal: la escisión simple, el colgajo de Limberg y el colgajo de Keystone. Cada método presenta ventajas distintas en cuanto a cicatrización y recuperación.",
+      "body_es": "El seno pilonidal es una condición quirúrgica común que requiere manejo cuidadoso para evitar complicaciones postoperatorias. Una investigación comparativa analiza tres abordajes quirúrgicos diferentes. La escisión simple es la técnica más básica pero presenta mayor riesgo de recurrencia. El colgajo de Limberg es un método reconstructivo que reduce las tasas de recurrencia significativamente. El colgajo de Keystone es una técnica más moderna que ofrece excelentes resultados estéticos y funcionales. La elección de técnica depende de factores como el tamaño de la lesión y las preferencias del cirujano. Los resultados demuestran que los colgajos flap tienen menores tasas de complicaciones infecciosas. La evaluación adecuada de la herida quirúrgica es esencial para prevenir seroma, hematoma e infección postoperatoria.",
+      "body_en": "Pilonidal sinus is a common surgical condition that requires careful management to prevent postoperative complications. A comparative study analyzes three different surgical approaches. Simple excision is the most basic technique but presents greater recurrence risk. Limberg flap is a reconstructive method that significantly reduces recurrence rates. Keystone flap is a more modern technique that offers excellent aesthetic and functional results. The choice of technique depends on factors such as lesion size and surgeon preferences. Results demonstrate that flap procedures have lower rates of infectious complications. Proper surgical wound evaluation is essential to prevent seroma, hematoma, and postoperative infection.",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY2dCeGdnYlBWMlZtRnhlcXdaa19HTXNKMGZRS0ozS3F4bnBkWU8wdzhGOHNjWG9SU1FrQ2tzcVh1djNiWXNYTm5UTGRsM1NYNTRIMFFOaTBnZzlzNTkwNWxNeFpBQnU5cEhkUlVnbjJmRlU5T2tJZnJYaUpCaUpMZlF0NGRWS0JJVHFYRXA0eWRQdWtTRmFxb0VvTDc5RVNNV2JULVN2cmxaY1p2VFB5VlJQd2x3Z3luckRTNzl5NWFTWTFiM0NTdUhYRVRVZm9ONHN2blVDQ3JBbVVJMXB0TThhTWgxX2M0MjRz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-08/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "seno pilonidal",
+          "definition_es": "quiste o túnel anormal en la región sacrocoxígea",
+          "definition_en": "pilonidal sinus - abnormal cyst or tract in sacrococcygeal region"
+        },
+        {
+          "word": "colgajo flap",
+          "definition_es": "técnica quirúrgica de reconstrucción con tejido trasplantado",
+          "definition_en": "flap - surgical reconstruction technique with transplanted tissue"
+        },
+        {
+          "word": "recurrencia",
+          "definition_es": "reaparición de la enfermedad después del tratamiento",
+          "definition_en": "recurrence - reappearance of disease after treatment"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de heridas quirúrgicas",
+          "definition_en": "wound healing - process of surgical wound recovery"
+        }
+      ],
+      "added_at": "2026-08-08T09:17:59.329117Z"
+    },
     {
       "id": "chronic-wounds-20260807",
       "category": "Chronic Wounds",
@@ -34966,6 +35114,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-07T10:09:45.024694Z",
+  "last_updated": "2026-08-08T09:17:59.329117Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
