@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-08",
+      "filename": "spanish_lesson_2026-08-08.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-08.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Votantes de Tennessee rechazan al congresista apoyado por Trump",
+          "headline_en": "Tennessee voters reject Trump-backed congressman",
+          "body_es": "En Tennessee, los votantes decidieron no reelegir al congresista apoyado por el expresidente Donald Trump. Esto ocurrió durante las elecciones primarias del estado. El distrito electoral fue redibujado recientemente. El nuevo mapa incluye más partes de la ciudad de Memphis. Este cambio afectó mucho el resultado de las elecciones. El congresista que perdió tenía el apoyo público de Trump. Sin embargo, los votantes eligieron a otro candidato para las próximas elecciones de otoño. Ahora habrá una nueva competencia en el otoño para decidir quién representa a esta área en el Congreso de Estados Unidos. Los expertos dicen que el nuevo mapa electoral fue muy importante para este resultado. Tennessee es un estado que normalmente apoya al Partido Republicano. Esta victoria muestra que las elecciones locales pueden sorprender incluso cuando hay apoyo de figuras políticas muy famosas.",
+          "body_en": "In Tennessee, voters decided not to reelect the congressman supported by former President Donald Trump. This happened during the state's primary elections. The electoral district was recently redrawn. The new map includes more parts of the city of Memphis. This change greatly affected the election results. The congressman who lost had Trump's public support. However, voters chose another candidate for the upcoming fall elections. There will now be a new competition in the fall to decide who represents this area in the US Congress. Experts say the new electoral map was very important for this outcome. Tennessee is a state that normally supports the Republican Party. This victory shows that local elections can surprise even when there is support from very famous political figures.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Estados Unidos pierde empleos en julio, pero la bolsa sube con fuerza",
+          "headline_en": "United States loses jobs in July, but the stock market rises strongly",
+          "body_es": "La economía de Estados Unidos perdió 23,000 empleos durante el mes de julio. Esta es una noticia preocupante para muchos trabajadores del país. Normalmente, perder empleos es una señal negativa para la economía. Sin embargo, algo sorprendente ocurrió al mismo tiempo. La bolsa de valores subió mucho después de estas noticias. Los inversores reaccionaron de manera positiva a los datos económicos. Muchos expertos explicaron esta situación de manera diferente. Algunos creen que menos empleos significa que la economía no está creciendo demasiado rápido. Esto podría ayudar a bajar la inflación. Una inflación más baja es buena para los negocios y las inversiones. Los mercados financieros a veces reaccionan de manera opuesta a lo que la gente espera. Esta situación muestra que la economía es muy complicada y difícil de entender completamente.",
+          "body_en": "The US economy lost 23,000 jobs during the month of July. This is worrying news for many workers in the country. Normally, losing jobs is a negative sign for the economy. However, something surprising happened at the same time. The stock market rose a lot after this news. Investors reacted positively to the economic data. Many experts explained this situation differently. Some believe that fewer jobs means the economy is not growing too fast. This could help lower inflation. Lower inflation is good for businesses and investments. Financial markets sometimes react in the opposite way to what people expect. This situation shows that the economy is very complicated and difficult to fully understand.",
+          "source": "Fox Business"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "El jefe de Airbnb dice que la IA está transformando su empresa",
+          "headline_en": "Airbnb's CEO says AI is transforming his company",
+          "body_es": "Brian Chesky, el director ejecutivo de Airbnb, habló recientemente sobre la inteligencia artificial. Él admitió algo importante: antes subestimó el poder de esta tecnología. Chesky dijo que la inteligencia artificial está cambiando su empresa de manera muy positiva. Gracias a la IA, Airbnb puede trabajar de manera más rápida y eficiente. La empresa puede ofrecer mejores servicios a sus clientes. También puede resolver problemas más fácilmente. Airbnb es una plataforma muy popular donde las personas alquilan casas y apartamentos a viajeros. Millones de personas en todo el mundo usan esta aplicación. Chesky cree que la inteligencia artificial es el futuro de los negocios. Muchas otras empresas también están usando la IA para mejorar sus servicios. Esta tecnología está creciendo muy rápidamente en todo el mundo. El director de Airbnb ahora apoya completamente el uso de la inteligencia artificial en su empresa.",
+          "body_en": "Brian Chesky, the CEO of Airbnb, recently spoke about artificial intelligence. He admitted something important: he previously underestimated the power of this technology. Chesky said that artificial intelligence is changing his company in a very positive way. Thanks to AI, Airbnb can work faster and more efficiently. The company can offer better services to its customers. It can also solve problems more easily. Airbnb is a very popular platform where people rent homes and apartments to travelers. Millions of people around the world use this app. Chesky believes that artificial intelligence is the future of business. Many other companies are also using AI to improve their services. This technology is growing very quickly around the world. The Airbnb CEO now fully supports the use of artificial intelligence in his company.",
+          "source": "New York Post"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "destituir",
+          "syllables": "des-ti-tu-IR",
+          "pos": "verbo",
+          "context": "Los votantes decidieron destituir al congresista apoyado por Trump.",
+          "definition_es": "Quitar a alguien de su trabajo o posición oficial",
+          "definition_en": "To remove someone from their position or office"
+        },
+        {
+          "word": "elecciones",
+          "syllables": "e-lec-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las elecciones en Tennessee cambiaron el resultado político de la región.",
+          "definition_es": "Proceso donde la gente vota para elegir a sus representantes",
+          "definition_en": "Elections; the process of voting to choose representatives"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía de Estados Unidos perdió empleos en julio.",
+          "definition_es": "El sistema de dinero, trabajo y negocios de un país",
+          "definition_en": "Economy; a country's system of money, trade, and business"
+        },
+        {
+          "word": "bolsa de valores",
+          "syllables": "BOL-sa de va-LO-res",
+          "pos": "sustantivo",
+          "context": "La bolsa de valores subió mucho después de las noticias económicas.",
+          "definition_es": "El mercado donde se compran y venden acciones de empresas",
+          "definition_en": "Stock market; where company shares are bought and sold"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "El director de Airbnb dice que la inteligencia artificial ayuda mucho a su empresa.",
+          "definition_es": "Tecnología que permite a las máquinas pensar y aprender como humanos",
+          "definition_en": "Artificial intelligence; technology that allows machines to think and learn"
+        },
+        {
+          "word": "subestimar",
+          "syllables": "su-bes-ti-MAR",
+          "pos": "verbo",
+          "context": "El director admitió que subestimó el poder de la inteligencia artificial.",
+          "definition_es": "Pensar que algo o alguien es menos importante o poderoso de lo que es",
+          "definition_en": "To underestimate; to think something is less important than it really is"
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "Estados Unidos perdió miles de empleos durante el mes de julio.",
+          "definition_es": "Trabajo que una persona tiene y por el que recibe dinero",
+          "definition_en": "Job; work that a person does and gets paid for"
+        },
+        {
+          "word": "candidato",
+          "syllables": "can-di-DA-to",
+          "pos": "sustantivo",
+          "context": "El nuevo candidato ganó las primarias en Tennessee.",
+          "definition_es": "Persona que participa en unas elecciones para ganar un cargo",
+          "definition_en": "Candidate; a person who runs in an election for a position"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'destituir'?",
+          "options": [
+            "A) Elegir a alguien para un trabajo",
+            "B) Quitar a alguien de su posición oficial",
+            "C) Votar en unas elecciones",
+            "D) Apoyar a un candidato político"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'bolsa de valores'?",
+          "options": [
+            "A) Una tienda donde se venden acciones físicas",
+            "B) El banco central de un país",
+            "C) El mercado donde se compran y venden acciones de empresas",
+            "D) Una forma de impuesto del gobierno"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Si alguien 'subestima' algo, ¿qué hace?",
+          "options": [
+            "A) Piensa que algo es más importante de lo que es",
+            "B) Estudia algo con mucho detalle",
+            "C) Piensa que algo es menos importante o poderoso de lo que es",
+            "D) Comparte información sobre algo"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Cuál es la definición correcta de 'candidato'?",
+          "options": [
+            "A) Una persona que trabaja en el gobierno",
+            "B) Una persona que participa en unas elecciones para ganar un cargo",
+            "C) Una persona que vota en las elecciones",
+            "D) Un periodista que cubre noticias políticas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿en qué estado ocurrieron las elecciones primarias?",
+          "options": [
+            "A) Texas",
+            "B) Florida",
+            "C) Tennessee",
+            "D) California"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de Política, ¿qué ciudad es parte del nuevo mapa electoral?",
+          "options": [
+            "A) Nashville",
+            "B) Memphis",
+            "C) Atlanta",
+            "D) Louisville"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿cuántos empleos perdió Estados Unidos en julio?",
+          "options": [
+            "A) 32,000 empleos",
+            "B) 2,300 empleos",
+            "C) 230,000 empleos",
+            "D) 23,000 empleos"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿cómo reaccionó la bolsa de valores después de las noticias sobre el empleo?",
+          "options": [
+            "A) Bajó mucho",
+            "B) No cambió nada",
+            "C) Subió mucho",
+            "D) Cerró por el día"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿quién es Brian Chesky?",
+          "options": [
+            "A) El director ejecutivo de Airbnb",
+            "B) Un ingeniero de inteligencia artificial",
+            "C) Un político de Tennessee",
+            "D) El director de una empresa de bolsa de valores"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "En la historia de Tecnología, ¿qué admitió Chesky sobre la inteligencia artificial?",
+          "options": [
+            "A) Que la inteligencia artificial es muy peligrosa",
+            "B) Que antes subestimó el poder de esta tecnología",
+            "C) Que Airbnb no usa inteligencia artificial",
+            "D) Que la inteligencia artificial es demasiado cara"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-08T09:14:05.894301"
+    },
+    {
       "date": "2026-08-07",
       "filename": "spanish_lesson_2026-08-07.pdf",
       "path": "pdfs/spanish_lesson_2026-08-07.pdf",
@@ -51736,7 +51958,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-07T09:20:12.382144",
+  "last_updated": "2026-08-08T09:14:05.894331",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
