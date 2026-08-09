@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-09",
+      "filename": "spanish_lesson_2026-08-09.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-09.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Senado aprueba una ley de emergencia para evitar el cierre del gobierno",
+          "headline_en": "The Senate passes an emergency bill to prevent a government shutdown",
+          "body_es": "El Senado de los Estados Unidos aprobó una ley importante esta semana. Esta ley es de corto plazo y tiene un objetivo principal: evitar el cierre del gobierno federal. Un cierre del gobierno ocurre cuando el Congreso no aprueba un presupuesto. En ese caso, muchos servicios públicos dejan de funcionar temporalmente. Los senadores querían resolver este problema antes de las próximas elecciones de mitad de período. Estas elecciones son muy importantes para el Partido Demócrata y el Partido Republicano. Con esta ley, el gobierno tiene más tiempo para negociar un presupuesto completo. La ley recibió suficientes votos para pasar. Muchos ciudadanos están aliviados porque los servicios del gobierno van a continuar funcionando. Ahora, los políticos tienen que trabajar juntos para crear un presupuesto permanente. Esto no es fácil porque los dos partidos tienen ideas muy diferentes sobre el dinero del gobierno.",
+          "body_en": "The United States Senate approved an important bill this week. This short-term bill has one main goal: to prevent the federal government from shutting down. A government shutdown happens when Congress does not pass a budget. In that case, many public services temporarily stop functioning. Senators wanted to resolve this problem before the upcoming midterm elections. These elections are very important for both the Democratic Party and the Republican Party. With this bill, the government has more time to negotiate a complete budget. The bill received enough votes to pass. Many citizens are relieved because government services will continue operating. Now, politicians must work together to create a permanent budget. This is not easy because the two parties have very different ideas about government spending.",
+          "source": "NBC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía de EE.UU. pierde empleos inesperadamente y las hipotecas suben de precio",
+          "headline_en": "The US economy unexpectedly loses jobs and mortgage rates rise again",
+          "body_es": "La economía de los Estados Unidos tuvo malas noticias esta semana. Los empleadores eliminaron 23,000 puestos de trabajo de manera inesperada. Los economistas no esperaban esta pérdida de empleos. Esto significa que muchas personas perdieron su trabajo este mes. Además, las tasas de interés para las hipotecas subieron otra vez. Una hipoteca es el préstamo que muchas personas usan para comprar una casa. Cuando las tasas suben, es más difícil y caro comprar una vivienda. Muchas familias están preocupadas por estas noticias. Comprar una casa se está volviendo menos accesible para la mayoría de los americanos. Los expertos dicen que la economía está en un momento difícil. El banco central de los Estados Unidos ha subido las tasas de interés varias veces este año. Esto afecta directamente el costo de las hipotecas y otros préstamos. Las personas que quieren comprar una casa ahora pagan mucho más dinero cada mes.",
+          "body_en": "The United States economy received bad news this week. Employers unexpectedly eliminated 23,000 jobs. Economists did not expect this job loss. This means many people lost their jobs this month. In addition, mortgage interest rates rose again. A mortgage is the loan many people use to buy a house. When rates go up, it becomes more difficult and expensive to buy a home. Many families are worried about this news. Buying a house is becoming less accessible for most Americans. Experts say the economy is going through a difficult moment. The US central bank has raised interest rates several times this year. This directly affects the cost of mortgages and other loans. People who want to buy a house now pay much more money each month.",
+          "source": "The Journal Gazette"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La inteligencia artificial destruye empleos tecnológicos: los despidos llegan a un máximo de 20 años",
+          "headline_en": "Artificial intelligence destroys tech jobs: layoffs reach a 20-year high",
+          "body_es": "El sector tecnológico está viviendo una crisis de empleo muy seria. La tasa de despidos en tecnología llegó a su nivel más alto en 20 años. Grandes empresas como Oracle y Microsoft están eliminando miles de puestos de trabajo. Los expertos dicen que la inteligencia artificial es una razón principal de estos despidos. Las empresas usan programas de IA para hacer trabajos que antes hacían personas. Esto es más barato y rápido para las empresas, pero es muy difícil para los trabajadores. Muchos empleados de tecnología perdieron sus trabajos este año. Encontrar un nuevo empleo en este sector es ahora más complicado. Los trabajadores jóvenes están especialmente preocupados por su futuro profesional. Algunos expertos dicen que la IA va a crear nuevos tipos de empleos en el futuro. Pero otros piensan que la tecnología va a eliminar más trabajos que los que crea. Esta es una de las discusiones más importantes de nuestra época.",
+          "body_en": "The technology sector is experiencing a very serious employment crisis. The layoff rate in technology reached its highest level in 20 years. Large companies like Oracle and Microsoft are eliminating thousands of jobs. Experts say that artificial intelligence is a main reason for these layoffs. Companies use AI programs to do work that people used to do. This is cheaper and faster for companies, but it is very hard for workers. Many technology employees lost their jobs this year. Finding a new job in this sector is now more complicated. Young workers are especially worried about their professional future. Some experts say that AI will create new types of jobs in the future. But others think that technology will eliminate more jobs than it creates. This is one of the most important discussions of our time.",
+          "source": "24/7 Wall St."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cierre",
+          "syllables": "CIE-rre",
+          "pos": "sustantivo",
+          "context": "El Senado aprobó una ley para evitar el cierre del gobierno.",
+          "definition_es": "Cuando algo deja de funcionar o se para temporalmente.",
+          "definition_en": "shutdown / closure"
+        },
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "El Senado aprobó una ley de corto plazo antes de las elecciones.",
+          "definition_es": "Aceptar o votar a favor de algo oficialmente.",
+          "definition_en": "to pass / to approve"
+        },
+        {
+          "word": "despido",
+          "syllables": "des-PI-do",
+          "pos": "sustantivo",
+          "context": "Los despidos en el sector tecnológico llegaron a un máximo histórico.",
+          "definition_es": "Cuando una empresa le dice a un empleado que ya no tiene trabajo.",
+          "definition_en": "layoff / dismissal"
+        },
+        {
+          "word": "hipoteca",
+          "syllables": "hi-po-TE-ca",
+          "pos": "sustantivo",
+          "context": "Las tasas de hipoteca subieron otra vez este mes.",
+          "definition_es": "Un préstamo del banco para comprar una casa.",
+          "definition_en": "mortgage"
+        },
+        {
+          "word": "inesperadamente",
+          "syllables": "i-nes-pe-ra-da-MEN-te",
+          "pos": "adverbio",
+          "context": "Los empleadores inesperadamente eliminaron miles de empleos.",
+          "definition_es": "De una manera que nadie esperaba o anticipaba.",
+          "definition_en": "unexpectedly"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está eliminando muchos empleos en tecnología.",
+          "definition_es": "Tecnología que permite a las computadoras hacer tareas que normalmente hacen los humanos.",
+          "definition_en": "artificial intelligence (AI)"
+        },
+        {
+          "word": "tasa",
+          "syllables": "TA-sa",
+          "pos": "sustantivo",
+          "context": "La tasa de despidos en tecnología está en su nivel más alto en 20 años.",
+          "definition_es": "Un número o porcentaje que mide algo, como precios o empleos.",
+          "definition_en": "rate"
+        },
+        {
+          "word": "elecciones",
+          "syllables": "e-lec-CIO-nes",
+          "pos": "sustantivo",
+          "context": "El Congreso quería evitar el cierre del gobierno antes de las elecciones.",
+          "definition_es": "El proceso donde los ciudadanos votan para elegir a sus líderes.",
+          "definition_en": "elections"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'cierre' en el contexto del gobierno?",
+          "options": [
+            "Cuando el gobierno abre nuevas oficinas",
+            "Cuando el gobierno para de funcionar temporalmente por falta de presupuesto",
+            "Cuando el gobierno contrata más empleados",
+            "Cuando el gobierno organiza elecciones"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'hipoteca'?",
+          "options": [
+            "Un tipo de impuesto del gobierno",
+            "Un trabajo en el sector tecnológico",
+            "Un préstamo del banco para comprar una casa",
+            "Una ley aprobada por el Senado"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Si algo ocurre 'inesperadamente', ¿cómo ocurre?",
+          "options": [
+            "De una manera planeada con mucho tiempo",
+            "De una manera que nadie anticipaba",
+            "De una manera muy lenta y gradual",
+            "De una manera oficial y legal"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'despido'?",
+          "options": [
+            "Una promoción en el trabajo",
+            "Un nuevo contrato de trabajo",
+            "Un aumento de salario",
+            "Cuando una empresa elimina el trabajo de un empleado"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿por qué el Senado aprobó una ley de corto plazo?",
+          "options": [
+            "Para crear más empleos en el gobierno",
+            "Para evitar el cierre del gobierno antes de las elecciones",
+            "Para bajar las tasas de las hipotecas",
+            "Para regular la inteligencia artificial"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de Política, ¿qué ocurre cuando el Congreso no aprueba un presupuesto?",
+          "options": [
+            "Las elecciones se cancelan automáticamente",
+            "El presidente tiene que renunciar",
+            "Muchos servicios públicos dejan de funcionar temporalmente",
+            "Los senadores pierden sus salarios permanentemente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿cuántos empleos se perdieron inesperadamente?",
+          "options": [
+            "23,000 empleos",
+            "20,000 empleos",
+            "30,000 empleos",
+            "13,000 empleos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿qué efecto tienen las tasas de hipoteca más altas?",
+          "options": [
+            "Es más fácil y barato comprar una casa",
+            "Más personas pueden obtener un préstamo",
+            "Es más difícil y caro comprar una vivienda",
+            "Los precios de las casas bajan inmediatamente"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué empresas se mencionan en relación con los despidos?",
+          "options": [
+            "Apple y Google",
+            "Oracle y Microsoft",
+            "Amazon y Netflix",
+            "Meta y Twitter"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "En la historia de Tecnología, ¿cuál es la razón principal de los despidos en el sector tecnológico?",
+          "options": [
+            "La crisis de las hipotecas",
+            "Las próximas elecciones",
+            "El cierre del gobierno federal",
+            "El uso de la inteligencia artificial para reemplazar trabajadores"
+          ],
+          "answer": "D"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-09T09:14:20.848951"
+    },
+    {
       "date": "2026-08-08",
       "filename": "spanish_lesson_2026-08-08.pdf",
       "path": "pdfs/spanish_lesson_2026-08-08.pdf",
@@ -51958,7 +52180,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-08T09:14:05.894331",
+  "last_updated": "2026-08-09T09:14:20.848983",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
