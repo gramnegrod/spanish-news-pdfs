@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-10",
+      "filename": "spanish_lesson_2026-08-10.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-10.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Legisladores demócratas visitan centros de detención en Texas y describen condiciones muy difíciles",
+          "headline_en": "Democratic lawmakers visit detention centers in Texas and describe very difficult conditions",
+          "body_es": "Un grupo de legisladores demócratas del Congreso de Estados Unidos visitó varios centros de detención de ICE en el estado de Texas. ICE es la agencia del gobierno que controla la inmigración en el país. Los legisladores pudieron entrar a las instalaciones y hablar con las personas detenidas. Después de sus visitas, describieron las condiciones como muy difíciles y preocupantes. Según los legisladores, había problemas con el espacio disponible. También reportaron problemas con el acceso a comida, agua y atención médica adecuada. Los centros de detención tienen a personas que esperan decisiones sobre su situación migratoria. Esta situación es parte de un debate más grande sobre las políticas de inmigración en Estados Unidos. Los legisladores pidieron cambios urgentes para mejorar las condiciones en estos centros. El gobierno respondió que está trabajando para resolver los problemas identificados.",
+          "body_en": "A group of Democratic lawmakers from the United States Congress visited several ICE detention centers in the state of Texas. ICE is the government agency that controls immigration in the country. The lawmakers were able to enter the facilities and speak with the detained individuals. After their visits, they described the conditions as very difficult and concerning. According to the lawmakers, there were problems with available space. They also reported issues with access to food, water, and adequate medical care. The detention centers hold people who are waiting for decisions about their immigration status. This situation is part of a larger debate about immigration policies in the United States. The lawmakers called for urgent changes to improve conditions in these centers. The government responded that it is working to resolve the identified problems.",
+          "source": "San Antonio Report"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía de Estados Unidos pierde 23,000 empleos en julio de manera inesperada",
+          "headline_en": "The US economy unexpectedly loses 23,000 jobs in July",
+          "body_es": "El mercado laboral de Estados Unidos tuvo malas noticias en julio. Según un nuevo reporte económico, el país perdió 23,000 empleos durante ese mes. Esta pérdida fue completamente inesperada. Los expertos en economía esperaban que el mercado laboral continuara creciendo. Sin embargo, los números mostraron lo contrario. Esta situación preocupa a muchos economistas y trabajadores en todo el país. Algunos analistas dicen que la economía está enfrentando desafíos importantes este año. Los sectores más afectados incluyen manufactura y servicios. El gobierno federal está estudiando las causas de esta pérdida de empleos. Algunos expertos creen que la incertidumbre económica y las tasas de interés altas son factores importantes. Los trabajadores que perdieron sus empleos están buscando nuevas oportunidades. El gobierno prometió crear programas para ayudar a estas personas a encontrar trabajo nuevamente.",
+          "body_en": "The United States job market received bad news in July. According to a new economic report, the country lost 23,000 jobs during that month. This loss was completely unexpected. Economic experts expected the job market to continue growing. However, the numbers showed the opposite. This situation worries many economists and workers across the country. Some analysts say the economy is facing important challenges this year. The most affected sectors include manufacturing and services. The federal government is studying the causes of this job loss. Some experts believe that economic uncertainty and high interest rates are important factors. Workers who lost their jobs are looking for new opportunities. The government promised to create programs to help these people find work again.",
+          "source": "eciks.org"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Los jefes tecnológicos dicen que la IA reduce el trabajo, pero los empleados trabajan hasta 90 horas por semana",
+          "headline_en": "Tech leaders say AI reduces work, but employees work up to 90 hours per week",
+          "body_es": "Los líderes de las grandes empresas de tecnología dicen que la inteligencia artificial está reduciendo la cantidad de trabajo necesario. Según estos ejecutivos, la IA puede hacer muchas tareas automáticamente. Esto debería significar que los empleados trabajan menos horas. Sin embargo, la realidad es muy diferente. Los propios empleados de estas compañías dicen que trabajan más que nunca. Muchos reportan semanas laborales de hasta 90 horas. Esto es más del doble de una semana laboral normal de 40 horas. Los trabajadores dicen que la IA les da más tareas, no menos. Tienen que revisar, corregir y mejorar el trabajo que produce la inteligencia artificial. También deben aprender constantemente nuevas herramientas tecnológicas. Esta diferencia entre lo que dicen los jefes y la experiencia real de los empleados está creando tensión dentro de las empresas tecnológicas. Los trabajadores piden mejores condiciones laborales.",
+          "body_en": "The leaders of large technology companies say that artificial intelligence is reducing the amount of work needed. According to these executives, AI can do many tasks automatically. This should mean that employees work fewer hours. However, the reality is very different. The employees of these companies themselves say they work more than ever. Many report work weeks of up to 90 hours. This is more than double a normal 40-hour work week. Workers say AI gives them more tasks, not fewer. They have to review, correct, and improve the work that artificial intelligence produces. They also must constantly learn new technological tools. This difference between what the bosses say and the real experience of employees is creating tension within technology companies. Workers are asking for better working conditions.",
+          "source": "Yahoo"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "condiciones",
+          "syllables": "con-di-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Los legisladores describieron condiciones muy difíciles en los centros de detención.",
+          "definition_es": "La situación o el estado en que se encuentra algo o alguien.",
+          "definition_en": "Conditions; the state or situation in which something or someone exists."
+        },
+        {
+          "word": "detención",
+          "syllables": "de-ten-CIÓN",
+          "pos": "sustantivo",
+          "context": "Los centros de detención de ICE están en Texas.",
+          "definition_es": "El acto de mantener a una persona en un lugar bajo custodia oficial.",
+          "definition_en": "Detention; the act of keeping a person in custody."
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral de Estados Unidos perdió empleos en julio.",
+          "definition_es": "El sistema donde las empresas ofrecen trabajos y las personas buscan empleo.",
+          "definition_en": "Job market; the system where employers offer jobs and people seek employment."
+        },
+        {
+          "word": "inesperadamente",
+          "syllables": "i-nes-pe-ra-da-MEN-te",
+          "pos": "adverbio",
+          "context": "La economía perdió empleos inesperadamente en julio.",
+          "definition_es": "De una manera que nadie esperaba o anticipaba.",
+          "definition_en": "Unexpectedly; in a way that nobody anticipated."
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Los líderes tecnológicos dicen que la inteligencia artificial reduce el trabajo.",
+          "definition_es": "Tecnología que permite a las computadoras realizar tareas que normalmente hacen los humanos.",
+          "definition_en": "Artificial intelligence; technology that allows computers to perform tasks normally done by humans."
+        },
+        {
+          "word": "legislador",
+          "syllables": "le-gis-la-DOR",
+          "pos": "sustantivo",
+          "context": "Los legisladores demócratas visitaron las instalaciones de ICE en Texas.",
+          "definition_es": "Una persona que forma parte del gobierno y crea leyes.",
+          "definition_en": "Legislator; a person who is part of the government and creates laws."
+        },
+        {
+          "word": "pérdida",
+          "syllables": "PÉR-di-da",
+          "pos": "sustantivo",
+          "context": "Hubo una pérdida de 23,000 empleos en el mes de julio.",
+          "definition_es": "Cuando algo desaparece o se reduce, como dinero o trabajos.",
+          "definition_en": "Loss; when something disappears or is reduced, like money or jobs."
+        },
+        {
+          "word": "semana laboral",
+          "syllables": "se-MA-na la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "Algunos empleados trabajan 90 horas en una semana laboral.",
+          "definition_es": "El número de horas que una persona trabaja durante una semana.",
+          "definition_en": "Work week; the number of hours a person works during a week."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'detención' en español?",
+          "options": [
+            "A) El acto de mantener a una persona bajo custodia oficial",
+            "B) Un tipo de edificio gubernamental",
+            "C) Un documento de inmigración",
+            "D) Una región geográfica de Texas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'inesperadamente'?",
+          "options": [
+            "A) De una manera muy lenta",
+            "B) De una manera que nadie anticipaba",
+            "C) De una manera muy costosa",
+            "D) De una manera organizada"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es el 'mercado laboral'?",
+          "options": [
+            "A) Un lugar donde se venden productos del campo",
+            "B) El sistema donde las empresas ofrecen trabajos y las personas buscan empleo",
+            "C) Una bolsa de valores financiera",
+            "D) Un tipo de contrato de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "La palabra 'legislador' se refiere a...",
+          "options": [
+            "A) Un agente de inmigración",
+            "B) Un trabajador de tecnología",
+            "C) Una persona del gobierno que crea leyes",
+            "D) Un director de empresa privada"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿qué agencia del gobierno maneja los centros de detención en Texas?",
+          "options": [
+            "A) El FBI",
+            "B) ICE",
+            "C) La CIA",
+            "D) El Congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de Política, ¿qué problemas reportaron los legisladores en los centros de detención?",
+          "options": [
+            "A) Problemas con la seguridad y las cámaras",
+            "B) Problemas con la electricidad y el internet",
+            "C) Problemas con el espacio, la comida, el agua y la atención médica",
+            "D) Problemas con el transporte y los documentos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿cuántos empleos perdió Estados Unidos en julio?",
+          "options": [
+            "A) 90,000 empleos",
+            "B) 40,000 empleos",
+            "C) 23,000 empleos",
+            "D) 10,000 empleos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿qué esperaban los expertos antes de ver los resultados de julio?",
+          "options": [
+            "A) Esperaban que el mercado laboral continuara creciendo",
+            "B) Esperaban perder más de un millón de empleos",
+            "C) Esperaban que los salarios bajaran mucho",
+            "D) Esperaban que la economía colapsara completamente"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿cuántas horas por semana dicen trabajar algunos empleados de empresas tecnológicas?",
+          "options": [
+            "A) 40 horas por semana",
+            "B) 60 horas por semana",
+            "C) 75 horas por semana",
+            "D) 90 horas por semana"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "En la historia de Tecnología, ¿por qué los empleados dicen que trabajan más horas, no menos?",
+          "options": [
+            "A) Porque sus jefes no les permiten usar inteligencia artificial",
+            "B) Porque tienen que revisar, corregir y mejorar el trabajo de la IA, y aprender nuevas herramientas",
+            "C) Porque las empresas tecnológicas despidieron a muchos trabajadores",
+            "D) Porque el gobierno les obliga a trabajar más horas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-10T09:29:35.319735"
+    },
+    {
       "date": "2026-08-09",
       "filename": "spanish_lesson_2026-08-09.pdf",
       "path": "pdfs/spanish_lesson_2026-08-09.pdf",
@@ -52180,7 +52402,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-09T09:14:20.848983",
+  "last_updated": "2026-08-10T09:29:35.319776",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
