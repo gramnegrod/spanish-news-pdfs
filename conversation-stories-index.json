@@ -1,25 +1,30 @@
 {
-  "date": "2026-08-10",
-  "generated_at": "2026-08-10T09:37:00.814691Z",
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T09:26:41.393813Z",
   "description": "Daily conversation stories for Spanish practice",
   "stories": [
     {
-      "id": "tech-20260810",
+      "id": "tech-20250811",
       "category": "Tecnología",
       "difficulty": "A2",
       "emoji": "🤖",
       "gradient": "blue",
-      "headline_es": "Los líderes de tecnología dicen que la IA reduce el trabajo, pero los empleados trabajan 90 horas por semana",
-      "headline_en": "Tech leaders say AI means less work - but their staff say they work up to 90 hours a week",
-      "summary_es": "Los directivos de empresas tecnológicas afirman que la inteligencia artificial reduce las horas de trabajo. Sin embargo, los empleados reportan trabajar más horas que nunca.",
-      "body_es": "Los líderes de grandes empresas de tecnología dicen que la inteligencia artificial (IA) reduce el trabajo para sus empleados. Pero muchos trabajadores cuentan una historia diferente. Algunos empleados trabajan hasta 90 horas por semana. Dicen que usan la IA para hacer más trabajo en menos tiempo. Las empresas dicen que la IA es el futuro. Pero los trabajadores están cansados y estresados. Quieren trabajar menos horas y tener más tiempo para su familia. Las empresas necesitan escuchar a sus empleados. La tecnología debe mejorar la vida de las personas, no hacerla más difícil.",
-      "body_en": "Tech leaders at major technology companies say that artificial intelligence (AI) reduces work for their employees. But many workers tell a different story. Some employees work up to 90 hours a week. They say they use AI to do more work in less time. Companies say that AI is the future. But workers are tired and stressed. They want to work fewer hours and have more time for their families. Companies need to listen to their employees. Technology should improve people's lives, not make it harder.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-10/tech.mp3",
+      "headline_es": "Bernie Sanders pide a las empresas de tecnología que detengan la inteligencia artificial",
+      "headline_en": "Bernie Sanders calls on tech companies to pause AI",
+      "summary_es": "El senador Bernie Sanders quiere que las grandes empresas de tecnología pausen el desarrollo de inteligencia artificial. Dice que es importante para proteger a los trabajadores y a la sociedad.",
+      "body_es": "El senador Bernie Sanders hace un llamado a las empresas de tecnología grandes como Meta, Google y OpenAI. Pide que paren el desarrollo rápido de inteligencia artificial. Sanders dice que la IA puede eliminar muchos trabajos sin proteger a los empleados. El senador cree que es necesario crear reglas nuevas para la inteligencia artificial antes de continuar. Las empresas deben pensar en cómo afecta la IA a las personas normales. Sanders también quiere proteger la privacidad de los usuarios. Muchas personas apoyan esta idea porque tienen miedo del futuro del trabajo. Las empresas de tecnología responden que quieren desarrollar la IA de forma segura.",
+      "body_en": "Senator Bernie Sanders calls on major tech companies like Meta, Google, and OpenAI to pause the rapid development of artificial intelligence. Sanders says that AI can eliminate many jobs without protecting employees. The senator believes it is necessary to create new rules for artificial intelligence before continuing. Companies must think about how AI affects ordinary people. Sanders also wants to protect user privacy. Many people support this idea because they fear the future of work. Tech companies respond that they want to develop AI safely.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-11/tech.mp3",
       "key_vocabulary": [
         {
+          "word": "detener",
+          "definition_es": "parar o interrumpir algo",
+          "definition_en": "to stop or interrupt something"
+        },
+        {
           "word": "inteligencia artificial",
-          "definition_es": "tecnología que ayuda a las máquinas a pensar",
-          "definition_en": "technology that helps machines think"
+          "definition_es": "tecnología que piensa y aprende como las personas",
+          "definition_en": "technology that thinks and learns like humans"
         },
         {
           "word": "empleados",
@@ -27,199 +32,194 @@
           "definition_en": "people who work at a company"
         },
         {
-          "word": "horas de trabajo",
-          "definition_es": "tiempo que una persona trabaja cada día",
-          "definition_en": "time a person works each day"
-        },
-        {
-          "word": "estresados",
-          "definition_es": "cuando una persona tiene mucha presión y ansiedad",
-          "definition_en": "when a person has pressure and anxiety"
+          "word": "privacidad",
+          "definition_es": "derecho a mantener información personal secreta",
+          "definition_en": "right to keep personal information private"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-10/tech-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste la nota? Los jefes tech dicen: “la IA reduce el trabajo”…  \nCARLOS: Ajá… y luego sale la gente diciendo que trabaja ¡90 horas a la semana! ¿En serio?  \nLAURA: ¡No manches! O sea, la IA según para descansar, ¿no?  \nCARLOS: Pues parece que la usan para meter el doble de pendientes en la mitad de tiempo.  \nLAURA: Exacto, como: “si terminas rápido, aquí tienes más”. Qué padre… not.  \nCARLOS: Y lo peor: cansancio, estrés, cero vida. ¿Cuándo ven a la familia?  \nLAURA: Ni a la familia ni al sol, literal. Ya nomás conocen la luz del monitor.  \nCARLOS: La tecnología debería mejorar la vida, no exprimirla.  \nLAURA: Total. Que escuchen a los empleados: menos horas, más paz.  \nCARLOS: Si la IA es el futuro, que también sea futuro con siesta.  \nLAURA: ¡Jajaja! Brindemos por la “IA”: Inteligencia… para Aflojarle."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-11/tech-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, ¿viste que Bernie Sanders les dijo a Meta, Google y OpenAI: “¡Párenle a la IA!”?  \nCARLOS: ¿En serio? No manches… ese señor sí llega con el freno de mano.  \nLAURA: Dice que van rapidísimo y que la IA puede tumbar un buen de trabajos sin proteger a la banda.  \nCARLOS: Pues… tiene sentido. Si te reemplazan por un robot, mínimo que haya reglas y apoyo, ¿no?  \nLAURA: Ajá, y también anda preocupado por la privacidad. Tipo: “no me andes espiando, compa”.  \nCARLOS: Es que la IA aprende de todo… y luego uno ni sabe qué datos dio. Da miedito.  \nLAURA: La gente lo apoya porque el futuro del trabajo suena a “adiós quincena”.  \nCARLOS: Aunque las empresas dicen: “tranqui, lo hacemos seguro”. Mmm, ¿seguro según quién?  \nLAURA: Exacto. ¡Que primero pongan barandales y luego ya corran!  \nCARLOS: Sí… y mientras, yo aquí practicando: “Hola IA, ¿me consigues chamba?”"
     },
     {
-      "id": "sports-20260810",
+      "id": "sports-20250811",
       "category": "Deportes",
       "difficulty": "A2",
       "emoji": "⚽",
       "gradient": "green",
-      "headline_es": "Yaroslava Mahuchikh quiere ganar oro para su país en guerra",
-      "headline_en": "Yaroslava Mahuchikh wants to win gold for her country at war",
-      "summary_es": "La atleta ucraniana Yaroslava Mahuchikh compite en salto de altura mientras su país está en guerra. Ella dice que quiere ganar la medalla de oro para su pueblo.",
-      "body_es": "Yaroslava Mahuchikh es una atleta de Ucrania que salta muy alto. Ella compite en salto de altura en competiciones internacionales. Su país, Ucrania, está en guerra ahora. Pero Mahuchikh no para de entrenar. Ella quiere ganar la medalla de oro en los próximos campeonatos. \"Quiero ganar para mi gente\", dice Mahuchikh. \"Quiero mostrar al mundo que somos fuertes.\" Ella es muy valiente. Ella entrena todos los días. Ella quiere hacer historia en el deporte. Mahuchikh es una inspiración para muchas personas. Su determinación es muy grande.",
-      "body_en": "Yaroslava Mahuchikh is an athlete from Ukraine who jumps very high. She competes in high jump in international competitions. Her country, Ukraine, is at war now. But Mahuchikh does not stop training. She wants to win the gold medal in the next championships. \"I want to win for my people,\" says Mahuchikh. \"I want to show the world that we are strong.\" She is very brave. She trains every day. She wants to make history in sports. Mahuchikh is an inspiration to many people. Her determination is very strong.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-10/sports.mp3",
+      "headline_es": "Los niños menores de 12 años entran gratis a los partidos de la Universidad de San Diego",
+      "headline_en": "Children under 12 get free admission to University of San Diego sports events",
+      "summary_es": "La Universidad de San Diego anuncia una promoción especial. Los niños menores de 12 años pueden entrar gratis a los partidos de los Torero en casa.",
+      "body_es": "La Universidad de San Diego tiene una noticia excelente para las familias con niños. Todos los niños menores de 12 años entran gratis a los partidos de los Torero en el estadio. Los Torero son el equipo de fútbol de la Universidad de San Diego. Los padres pagan el precio normal, pero los niños no pagan nada. Esta promoción es para todos los partidos en casa durante toda la temporada. La universidad quiere que más familias asistan a los eventos deportivos. Es una buena oportunidad para que los niños vean fútbol en vivo. Las familias ahora pueden disfrutar del deporte sin gastar mucho dinero. Esta es una decisión muy popular entre los padres y los aficionados al fútbol.",
+      "body_en": "The University of San Diego has great news for families with children. All children under 12 years old enter free to Torero home games at the stadium. The Toreros are the soccer team of the University of San Diego. Parents pay the regular price, but children pay nothing. This promotion applies to all home games during the entire season. The university wants more families to attend sporting events. It is a good opportunity for children to watch soccer live. Families can now enjoy sports without spending much money. This is a very popular decision among parents and soccer fans.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-11/sports.mp3",
       "key_vocabulary": [
         {
-          "word": "salta",
-          "definition_es": "se mueve hacia arriba en el aire",
-          "definition_en": "moves upward in the air"
+          "word": "gratis",
+          "definition_es": "sin costo, sin pagar dinero",
+          "definition_en": "free, without paying money"
         },
         {
-          "word": "atleta",
-          "definition_es": "persona que practica deporte profesionalmente",
-          "definition_en": "person who practices sports professionally"
+          "word": "partidos",
+          "definition_es": "competencias deportivas entre dos equipos",
+          "definition_en": "sporting competitions between two teams"
         },
         {
-          "word": "medalla de oro",
-          "definition_es": "premio para el campeón en una competición",
-          "definition_en": "prize for the champion in a competition"
+          "word": "estadio",
+          "definition_es": "lugar grande donde se juegan deportes",
+          "definition_en": "large place where sports are played"
         },
         {
-          "word": "valiente",
-          "definition_es": "que tiene coraje y no tiene miedo",
-          "definition_en": "having courage and not being afraid"
+          "word": "temporada",
+          "definition_es": "período de tiempo cuando se juega un deporte",
+          "definition_en": "time period when a sport is played"
         }
       ]
     },
     {
-      "id": "culture-20260810",
+      "id": "culture-20250811",
       "category": "Cultura",
       "difficulty": "B1",
-      "emoji": "🎬",
+      "emoji": "🎵",
       "gradient": "purple",
-      "headline_es": "Muere una leyenda de la música country a los 109 años",
-      "headline_en": "Country music's oldest living legend dies at 109 years old",
-      "summary_es": "Una de las figuras más antiguas de la música country ha fallecido a la edad de 109 años, dejando un legado importante en la industria musical estadounidense.",
-      "body_es": "Una leyenda viviente de la música country ha muerto a los 109 años. Este artista fue una estrella que se hizo famoso por su propio esfuerzo y talento. Durante décadas, influyó en miles de músicos en toda América. Su carrera comenzó cuando la industria musical era muy diferente a la actual. A través de los años, mantuvo su pasión por la música y las conexiones con sus fans. Los colegas de la industria lo recuerdan como un hombre dedicado y humilde. Su familia y amigos dicen que fue una persona especial que vivió plenamente. Aunque ha desaparecido, su música y su influencia permanecerán en los corazones de quienes lo conocieron y lo admiraron.",
-      "body_en": "A living legend of country music has died at the age of 109 years. This artist was a self-made star famous for his talent and dedication. For decades, he influenced thousands of musicians throughout America. His career began when the music industry was very different from today. Through the years, he maintained his passion for music and connections with his fans. Industry colleagues remember him as a dedicated and humble man. His family and friends say he was a special person who lived fully. Although he has passed away, his music and influence will remain in the hearts of those who knew and admired him.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-10/culture.mp3",
+      "headline_es": "La música country sufre tres pérdidas en tres días",
+      "headline_en": "Country music rocked by 3 deaths in 3 days",
+      "summary_es": "La industria de la música country enfrenta un período trágico con la muerte de tres figuras importantes en apenas tres días. La comunidad musical está en duelo.",
+      "body_es": "La música country ha experimentado una semana devastadora con tres muertes de artistas prominentes ocurridas en un lapso de tres días. Estos eventos han conmocionado profundamente a los fans y colegas de la industria musical. Los artistas fallecidos eran figuras respetadas que han dejado un legado significativo en el género. Sus contribuciones a la música country los han posicionado como íconos generacionales. Los tributos han comenzado a fluir desde todos los rincones de la comunidad musical. Los colegas comparten anécdotas sobre cómo estos artistas influyeron en sus carreras. La industria se reúne para honrar sus memorias y reconocer el impacto que tuvieron. Los fans utilizan las redes sociales para expresar su dolor y compartir recuerdos de conciertos memorable. Esta tragedia ha recordado la importancia de celebrar a los artistas mientras están vivos.",
+      "body_en": "Country music has experienced a devastating week with three deaths of prominent artists occurring within three days. These events have deeply shocked fans and colleagues in the music industry. The deceased artists were respected figures who have left a significant legacy in the genre. Their contributions to country music have positioned them as generational icons. Tributes have begun to flow from all corners of the music community. Colleagues share anecdotes about how these artists influenced their careers. The industry gathers to honor their memories and recognize the impact they had. Fans use social media to express their grief and share memories of memorable concerts. This tragedy has reminded everyone of the importance of celebrating artists while they are alive.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-11/culture.mp3",
       "key_vocabulary": [
         {
-          "word": "leyenda",
-          "definition_es": "persona famosa que será recordada por su importancia",
-          "definition_en": "famous person who will be remembered for their importance"
-        },
-        {
-          "word": "fallecido",
-          "definition_es": "que ha muerto, que ya no está vivo",
-          "definition_en": "who has died, who is no longer alive"
+          "word": "duelo",
+          "definition_es": "pesar y tristeza por la muerte de alguien",
+          "definition_en": "grief and sadness at someone's death"
         },
         {
           "word": "legado",
-          "definition_es": "lo que una persona deja después de su muerte",
-          "definition_en": "what a person leaves after their death"
+          "definition_es": "lo que alguien deja después de su muerte",
+          "definition_en": "what someone leaves after their death"
         },
         {
-          "word": "influyó",
-          "definition_es": "ejercer poder o efecto sobre algo o alguien",
-          "definition_en": "to exercise power or effect on something or someone"
+          "word": "conmocionado",
+          "definition_es": "muy afectado emocionalmente por algo",
+          "definition_en": "deeply emotionally affected by something"
+        },
+        {
+          "word": "íconos",
+          "definition_es": "símbolos o figuras muy representativas",
+          "definition_en": "symbols or very representative figures"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-10/culture-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos… ¡no manches! Se murió una leyenda de la música country… ¡a los 109 años!  \nCARLOS: ¿109? Eso ya es como modo “jefe final” de la vida. ¿En serio?  \nLAURA: Sí, literal una leyenda viviente. Dicen que se hizo famoso a puro esfuerzo y talento.  \nCARLOS: Eso me encanta. Porque antes la industria era otra cosa, sin TikTok, sin playlists… puro tocar y convencer.  \nLAURA: Y aun así, influyó a miles de músicos en todo Estados Unidos. O sea, qué nivel.  \nCARLOS: También leí que nunca perdió la pasión y seguía conectando con sus fans. Eso es lo más rockstar… pero en country.  \nLAURA: Jajaja, “rockstar vaquero”. Y sus colegas lo recuerdan humilde y bien dedicado.  \nCARLOS: Ahí está el secreto: talento + constancia + no creértela.  \nLAURA: Su familia dice que vivió plenamente… suena a que sí se la pasó chido.  \nCARLOS: Pues brindemos con café: por él… y porque tú y yo lleguemos a los 109, pero con buena playlist."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-11/culture-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, ¿viste la nota? La música country tuvo tres pérdidas… ¡en tres días!  \nCARLOS: ¿En serio? No manches, eso suena bien pesado.  \nLAURA: Sí, o sea, tres artistas prominentes, uno tras otro. La banda anda en shock.  \nCARLOS: Me imagino. Cuando se van figuras así, sientes que se apaga una época, ¿no?  \nLAURA: Total. Y ya empezaron los tributos por todos lados; colegas contando historias de “él me inspiró” y así.  \nCARLOS: Eso está bonito. A veces la industria se pone bien humana cuando pasan estas cosas.  \nLAURA: Y los fans en redes… compartiendo videos de conciertos, llorando, “esa canción me salvó”.  \nCARLOS: Es que la música te acompaña en todo. Por eso cala.  \nLAURA: Pero también deja la lección: hay que celebrar a los artistas en vida, ¡sin pena!  \nCARLOS: Sí, hoy mismo me aviento una playlist country y brindo con café.  \nLAURA: Va, y si canto feo, te aguantas. ¡Qué padre homenaje!"
     },
     {
-      "id": "economy-20260810",
+      "id": "economy-20250811",
       "category": "Economía",
       "difficulty": "B1",
       "emoji": "💰",
-      "gradient": "orange",
-      "headline_es": "Los banqueros abandonan Wall Street por 'Y'all Street'",
-      "headline_en": "Bankers are leaving Wall Street for 'Y'all Street'",
-      "summary_es": "Profesionales financieros de Nueva York se trasladan al sur de Estados Unidos en busca de una mejor calidad de vida y oportunidades económicas regionales.",
-      "body_es": "Un número creciente de banqueros y profesionales financieros están dejando Wall Street, el centro financiero tradicional de Nueva York, para mudarse al sur de Estados Unidos. Esta región, conocida informalmente como \"Y'all Street\", ofrece diferentes ventajas a estos profesionales. Los banqueros buscan costos de vida más bajos y una mejor calidad de vida. También encuentran nuevas oportunidades de negocio en ciudades del sur que están creciendo económicamente. Las grandes ciudades sureñas ahora tienen más infraestructura financiera que antes. Aunque Wall Street sigue siendo importante, esta tendencia muestra un cambio en cómo funciona la industria financiera. Los expertos dicen que si esta migración continúa, podría transformar la economía regional del país.",
-      "body_en": "A growing number of bankers and financial professionals are leaving Wall Street, the traditional financial center of New York, to move to the southern United States. This region, informally known as \"Y'all Street\", offers different advantages to these professionals. Bankers are looking for lower cost of living and a better quality of life. They also find new business opportunities in southern cities that are growing economically. Major southern cities now have more financial infrastructure than before. Although Wall Street remains important, this trend shows a change in how the financial industry works. Experts say that if this migration continues, it could transform the country's regional economy.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-10/economy.mp3",
+      "gradient": "gold",
+      "headline_es": "Indonesia lanza su primer fondo de oro para expandir el mercado de metales preciosos",
+      "headline_en": "Indonesia launches first gold ETF to expand bullion market",
+      "summary_es": "Indonesia ha introducido su primer fondo cotizado en bolsa de oro para permitir que más personas inviertan en este metal precioso. El objetivo es desarrollar el mercado de oro en el país.",
+      "body_es": "Indonesia ha tomado un paso importante al lanzar su primer fondo cotizado en bolsa (ETF) de oro. Esta iniciativa busca expandir el acceso al mercado de oro para inversores comunes. El oro ha sido durante siglos un activo valioso y una protección contra la inflación. Con este nuevo fondo, los ciudadanos indonesios pueden invertir en oro de manera más fácil y accesible. El gobierno cree que esta medida fortalecerá el mercado financiero local. El ETF de oro permite que los inversores compren y vendan acciones relacionadas con el oro sin necesidad de poseer el metal físicamente. Esto reduce los costos de almacenamiento y seguros. Los expertos esperan que esta innovación atraiga más inversores al mercado de materias primas. Si la iniciativa tiene éxito, podría servir como modelo para otros países de la región.",
+      "body_en": "Indonesia has taken an important step by launching its first gold exchange-traded fund (ETF). This initiative seeks to expand access to the gold market for ordinary investors. Gold has been a valuable asset and protection against inflation for centuries. With this new fund, Indonesian citizens can invest in gold more easily and accessibly. The government believes this measure will strengthen the local financial market. The gold ETF allows investors to buy and sell gold-related shares without needing to physically own the metal. This reduces storage and insurance costs. Experts expect this innovation to attract more investors to the commodities market. If the initiative succeeds, it could serve as a model for other countries in the region.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-11/economy.mp3",
       "key_vocabulary": [
         {
-          "word": "banqueros",
-          "definition_es": "profesionales que trabajan en el sector financiero",
-          "definition_en": "professionals who work in the financial sector"
+          "word": "fondo cotizado",
+          "definition_es": "instrumento financiero que permite invertir en un grupo de activos",
+          "definition_en": "financial instrument that allows investing in a group of assets"
         },
         {
-          "word": "mudarse",
-          "definition_es": "cambiar de lugar de residencia",
-          "definition_en": "to change place of residence"
+          "word": "metales preciosos",
+          "definition_es": "minerales valiosos como oro, plata y diamantes",
+          "definition_en": "valuable minerals like gold, silver, and diamonds"
         },
         {
-          "word": "costos de vida",
-          "definition_es": "dinero necesario para vivir en un lugar",
-          "definition_en": "money needed to live in a place"
+          "word": "inflación",
+          "definition_es": "aumento general de los precios en la economía",
+          "definition_en": "general increase in prices in the economy"
         },
         {
-          "word": "infraestructura financiera",
-          "definition_es": "sistema y servicios bancarios de una región",
-          "definition_en": "banking system and services of a region"
+          "word": "materias primas",
+          "definition_es": "recursos naturales que se usan para hacer productos",
+          "definition_en": "natural resources used to make products"
         }
       ]
     },
     {
-      "id": "environment-20260810",
+      "id": "environment-20250811",
       "category": "Medio Ambiente",
       "difficulty": "B2",
       "emoji": "🌍",
-      "gradient": "cyan",
-      "headline_es": "Los océanos del mundo alcanzan la temperatura más alta registrada en julio",
-      "headline_en": "World's seas have hit hottest temperature on record for July",
-      "summary_es": "Científicos advierten que los océanos han alcanzado temperaturas récord en julio, evidenciando el impacto acelerado del cambio climático global.",
-      "body_es": "Los océanos mundiales han registrado sus temperaturas más elevadas jamás documentadas durante el mes de julio, según informan los científicos. Este fenómeno representa un hito alarmante en el cambio climático global. El calentamiento oceánico afecta significativamente los ecosistemas marinos, desde los arrecifes de coral hasta las poblaciones de peces. Los expertos advierten que si bien es cierto que los océanos naturalmente fluctúan en temperatura, la velocidad y magnitud del aumento actual es sin precedentes. Las implicaciones son profundas: cambios en las corrientes oceánicas, alteración de patrones migratorios de especies marinas y aumento del nivel del mar. Aunque los gobiernos han implementado medidas para reducir las emisiones de carbono, muchos científicos sostienen que estas acciones resultan insuficientes. La comunidad internacional necesita redoblar sus esfuerzos si pretende mitigar las consecuencias devastadoras del calentamiento global.",
-      "body_en": "The world's oceans have recorded their highest temperatures ever documented during the month of July, according to scientists. This phenomenon represents an alarming milestone in global climate change. Ocean warming significantly affects marine ecosystems, from coral reefs to fish populations. Experts warn that while it is true that oceans naturally fluctuate in temperature, the speed and magnitude of the current increase is unprecedented. The implications are profound: changes in ocean currents, alteration of migration patterns of marine species, and rising sea levels. Although governments have implemented measures to reduce carbon emissions, many scientists argue that these actions are insufficient. The international community needs to redouble its efforts if it intends to mitigate the devastating consequences of global warming.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-10/environment.mp3",
+      "gradient": "green",
+      "headline_es": "Un raro 'súper El Niño' eleva las temperaturas oceánicas a nuevos récords históricos",
+      "headline_en": "Rare 'super El Niño' spikes ocean temps to new record",
+      "summary_es": "Un fenómeno climático excepcional conocido como 'súper El Niño' está causando temperaturas oceánicas sin precedentes en todo el mundo. Los científicos advierten sobre las implicaciones para ecosistemas marinos.",
+      "body_es": "El fenómeno climático conocido como El Niño ha alcanzado intensidades excepcionalmente inusuales, generando lo que los meteorólogos denominan un 'súper El Niño'. Este evento ha provocado que las temperaturas oceánicas globales se eleven a niveles jamás registrados anteriormente. Los científicos advierten que si bien los episodios de El Niño son cíclicos y naturales, la magnitud de este evento sugiere una influencia significativa del cambio climático antropogénico. Las consecuencias para los ecosistemas marinos podrían ser catastróficas, afectando desde los arrecifes de coral hasta las cadenas alimenticias pelágicas. Se han observado blanqueamientos masivos de coral en regiones tropicales, lo cual indica un estrés ambiental sin precedentes. Aunque es probable que este fenómeno extremo remita eventualmente, los científicos advierten que los efectos residuales persistirán durante años. Es imperativo que los gobiernos y sociedades implementen medidas de mitigación más agresivas para reducir las emisiones de gases de efecto invernadero.",
+      "body_en": "The climate phenomenon known as El Niño has reached exceptionally unusual intensities, generating what meteorologists call a 'super El Niño'. This event has caused global ocean temperatures to rise to levels never previously recorded. Scientists warn that while El Niño episodes are cyclical and natural, the magnitude of this event suggests a significant influence of anthropogenic climate change. The consequences for marine ecosystems could be catastrophic, affecting everything from coral reefs to pelagic food chains. Massive coral bleaching has been observed in tropical regions, indicating environmental stress without precedent. Although it is likely that this extreme phenomenon will eventually subside, scientists warn that residual effects will persist for years. It is imperative that governments and societies implement more aggressive mitigation measures to reduce greenhouse gas emissions.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-11/environment.mp3",
       "key_vocabulary": [
         {
-          "word": "temperaturas récord",
-          "definition_es": "las más altas temperaturas nunca antes medidas",
-          "definition_en": "the highest temperatures ever previously measured"
+          "word": "antropogénico",
+          "definition_es": "causado por las actividades humanas, especialmente la contaminación",
+          "definition_en": "caused by human activities, especially pollution"
         },
         {
-          "word": "ecosistemas marinos",
-          "definition_es": "comunidades de organismos que viven en el océano",
-          "definition_en": "communities of organisms that live in the ocean"
+          "word": "blanqueamiento",
+          "definition_es": "proceso donde los arrecifes de coral pierden su color por estrés térmico",
+          "definition_en": "process where coral reefs lose their color due to thermal stress"
         },
         {
-          "word": "calentamiento global",
-          "definition_es": "aumento gradual de la temperatura del planeta",
-          "definition_en": "gradual increase in the planet's temperature"
+          "word": "cadenas alimenticias",
+          "definition_es": "secuencia de organismos donde cada uno se alimenta del anterior",
+          "definition_en": "sequence of organisms where each feeds on the previous one"
         },
         {
-          "word": "mitigar",
-          "definition_es": "hacer menos grave o intenso algo negativo",
-          "definition_en": "to make something negative less serious or intense"
+          "word": "mitigación",
+          "definition_es": "acciones para reducir o minimizar un problema o daño",
+          "definition_en": "actions to reduce or minimize a problem or damage"
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-10/environment-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? ¡Los océanos alcanzaron la temperatura más alta en julio!  \nCARLOS: ¿En serio? No manches… el mar ya anda en modo “sopita instantánea”.  \nLAURA: ¡Exacto! Y dicen que es récord, o sea, no es nomás “ay, hizo calorcito”.  \nCARLOS: Sí, los científicos andan preocupados porque subió rápido y cañón, no como las variaciones normales.  \nLAURA: Y pobres corales, peces… literal les cambias la casa y el clima al mismo tiempo.  \nCARLOS: Ajá, y se alteran corrientes, migraciones… como si el GPS del océano se descompusiera.  \nLAURA: ¡Qué fuerte! Y aparte, sube el nivel del mar… o sea, adiós playita tranquila.  \nCARLOS: Y aunque hay medidas para bajar emisiones, muchos dicen: “sí, pero insuficiente”.  \nLAURA: O sea, necesitamos ponernos las pilas, ¿no? Menos “luego veo” y más acción.  \nCARLOS: Total. Y mientras, tú y yo: cafecito y a llevar termo, porque el planeta ya no aguanta desechables.  \nLAURA: ¡Va! Y de paso, ¿armamos plan de playa antes de que se vuelva caldo?"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-11/environment-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, ¿viste lo del “súper El Niño”? ¡No manches! El océano anda rompiendo récords de calor.  \nCARLOS: Sí, lo leí. Suena como villano de película: “Súper El Niño: ahora con más calor”.  \nLAURA: Jajaja, pero está heavy. Dicen que las temperaturas del mar están en niveles jamás vistos. ¿En serio?  \nCARLOS: Ajá. El Niño pasa cada cierto tiempo, pero este está rarísimo… y muchos científicos creen que el cambio climático lo está empujando.  \nLAURA: O sea, El Niño ya existía, pero ahorita viene “vitaminado” por nuestras emisiones. Qué triste.  \nCARLOS: Exacto. Y lo peor: los corales. Hay blanqueamientos masivos, como si se “despintaran” del estrés.  \nLAURA: ¡Ay no! Sin coral, adiós a un montón de peces y a toda la cadena…  \nCARLOS: Y aunque baje después, los efectos se quedan años. Como cruda climática.  \nLAURA: Entonces sí toca apretar con lo de reducir emisiones, ¿no?  \nCARLOS: Sí… y mientras, yo ya no me quejo del café caliente. El planeta se está sirviendo uno gigante."
     },
     {
-      "id": "gastronomy-20260810",
+      "id": "gastronomy-20250811",
       "category": "Gastronomía",
       "difficulty": "B2",
       "emoji": "🍽️",
-      "gradient": "red",
-      "headline_es": "Una comida transformó este restaurante en un icono de la gastronomía americana",
-      "headline_en": "One Meal Made This Restaurant an American Dining Icon",
-      "summary_es": "Un plato icónico en un restaurante estadounidense se ha convertido en un símbolo de la cocina americana, trascendiendo su rol como simple comida para convertirse en patrimonio culinario.",
-      "body_es": "Existe un restaurante icónico en Estados Unidos cuya reputación ha sido cimentada por un plato emblemático que se ha perpetuado a lo largo de generaciones. Esta comida particular no solamente representa una receta culinaria, sino que encarna la filosofía gastronómica y cultural de una comunidad. El restaurante ha mantenido meticulosamente la autenticidad de su preparación, rechazando modernizaciones que pudieran comprometer su integridad. Aunque muchos establecimientos han intentado replicar su éxito mediante técnicas contemporáneas, pocos han logrado captar la esencia que hace única esta experiencia culinaria. Los gastrónomos reconocen que el legado de este lugar trasciende las tendencias culinarias efímeras. El compromiso del restaurante con la calidad de ingredientes y métodos tradicionales ha generado una lealtad inquebrantable entre sus clientes. En consecuencia, este establecimiento se ha consolidado no meramente como un lugar de comida, sino como patrimonio cultural gastronómico que merecería ser preservado para futuras generaciones.",
-      "body_en": "There is an iconic restaurant in the United States whose reputation has been cemented by an emblematic dish that has been perpetuated through generations. This particular meal does not only represent a culinary recipe, but embodies the gastronomic and cultural philosophy of a community. The restaurant has meticulously maintained the authenticity of its preparation, rejecting modernizations that could compromise its integrity. Although many establishments have attempted to replicate its success through contemporary techniques, few have managed to capture the essence that makes this culinary experience unique. Gastronomes recognize that the legacy of this place transcends ephemeral culinary trends. The restaurant's commitment to quality ingredients and traditional methods has generated unwavering loyalty among its customers. Consequently, this establishment has become consolidated not merely as a place to eat, but as gastronomic cultural heritage that deserves to be preserved for future generations.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-10/gastronomy.mp3",
+      "gradient": "orange",
+      "headline_es": "Tres refugiados revolucionan la escena gastronómica de Utah con sus propuestas culinarias innovadoras",
+      "headline_en": "Three refugees poised to make their mark on Utah's food scene",
+      "summary_es": "Tres empresarios refugiados están transformando el panorama culinario de Utah mediante la introducción de gastronomía auténtica y contemporánea. Sus restaurantes representan una fusión única de tradición e innovación.",
+      "body_es": "La escena culinaria de Utah está experimentando una revitalización inesperada gracias a tres emprendedores refugiados que han traído sus perspectivas gastronomías únicas a la región. Estos innovadores han establecido restaurantes que combinan técnicas culinarias ancestrales con presentaciones contemporáneas, creando propuestas que desafían las expectativas culinarias convencionales. Sus historias personales de resiliencia se entrelazan con narrativas de excelencia gastronómica, ofreciendo a los comensales no solamente alimentos de calidad excepcional, sino también experiencias que trascienden lo meramente nutritivo. La comunidad de Salt Lake City ha recibido estos establecimientos con entusiasmo notable, reconociendo que la diversidad culinaria enriquece el tejido social y cultural de la ciudad. Los chefs han ganado reconocimiento crítico por su dedicación a la autenticidad mientras experimentan con ingredientes locales e influencias globales. Sus menús reflejan una profunda comprensión de la geografía gastronómica de sus regiones de origen, reinterpretadas a través de la lente de su nueva realidad estadounidense. Esta iniciativa representa un modelo ejemplar de integración comunitaria mediante el arte culinario.",
+      "body_en": "Utah's culinary scene is experiencing unexpected revitalization thanks to three refugee entrepreneurs who have brought their unique gastronomic perspectives to the region. These innovators have established restaurants that combine ancestral culinary techniques with contemporary presentations, creating proposals that challenge conventional culinary expectations. Their personal stories of resilience intertwine with narratives of gastronomic excellence, offering diners not only food of exceptional quality, but also experiences that transcend the merely nutritional. The Salt Lake City community has received these establishments with notable enthusiasm, recognizing that culinary diversity enriches the social and cultural fabric of the city. The chefs have gained critical recognition for their dedication to authenticity while experimenting with local ingredients and global influences. Their menus reflect a deep understanding of the gastronomic geography of their regions of origin, reinterpreted through the lens of their new American reality. This initiative represents an exemplary model of community integration through the culinary arts.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-11/gastronomy.mp3",
       "key_vocabulary": [
         {
-          "word": "emblemático",
-          "definition_es": "que representa o simboliza algo importante de forma destacada",
-          "definition_en": "that represents or symbolizes something important in a prominent way"
+          "word": "emprendedores",
+          "definition_es": "personas que crean y desarrollan nuevos negocios",
+          "definition_en": "people who create and develop new businesses"
+        },
+        {
+          "word": "resiliencia",
+          "definition_es": "capacidad de recuperarse y adaptarse ante dificultades",
+          "definition_en": "ability to recover and adapt in the face of difficulties"
         },
         {
           "word": "autenticidad",
-          "definition_es": "calidad de ser genuino y original",
-          "definition_en": "quality of being genuine and original"
+          "definition_es": "cualidad de ser verdadero y genuino, sin falsificación",
+          "definition_en": "quality of being true and genuine, without falsification"
         },
         {
-          "word": "lealtad inquebrantable",
-          "definition_es": "fidelidad que no puede ser rota ni debilitada",
-          "definition_en": "loyalty that cannot be broken or weakened"
-        },
-        {
-          "word": "patrimonio cultural",
-          "definition_es": "herencia histórica y artística de un pueblo",
-          "definition_en": "historical and artistic heritage of a people"
+          "word": "tejido social",
+          "definition_es": "estructura de relaciones e instituciones de una comunidad",
+          "definition_en": "structure of relationships and institutions of a community"
         }
       ]
     }
   ],
-  "last_updated": "2026-08-10T09:37:00.814691Z",
+  "last_updated": "2026-08-11T09:26:41.393813Z",
   "generated_by": "GitHub Actions + Anthropic API"
 }
