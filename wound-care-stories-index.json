@@ -1,11 +1,159 @@
 {
-  "date": "2026-08-10",
-  "generated_at": "2026-08-10T09:35:26.016854Z",
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T09:24:22.780635Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 959,
-  "new_today": 5,
+  "total_stories": 963,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250811",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Una enfermedad rara imita úlceras infecciosas crónicas",
+      "headline_en": "Rare Disease Mimics Chronic Infectious Ulcers",
+      "summary_es": "Los médicos documentan un caso de necrobiosis lipoidea que parecía una úlcera infecciosa crónica. Este diagnóstico correcto es importante para el tratamiento adecuado de heridas.",
+      "body_es": "La necrobiosis lipoidea es una enfermedad rara de la piel. Causa úlceras que parecen infecciones crónicas. Un paciente llegó al hospital con una herida que los médicos pensaban que era una úlcera infecciosa. Después del examen detallado, descubrieron que tenía necrobiosis lipoidea. La evaluación correcta es muy importante. Los pacientes necesitan evaluación cuidadosa de sus heridas. El vendaje y la curación correcta dependen del diagnóstico. Este caso ayuda a los profesionales de salud a reconocer esta enfermedad rara. El reconocimiento temprano mejora el tratamiento y la cicatrización.",
+      "body_en": "Necrobiosis lipoidica is a rare skin disease. It causes ulcers that look like chronic infections. A patient arrived at the hospital with a wound that doctors thought was an infectious ulcer. After detailed examination, they discovered he had necrobiosis lipoidica. Correct evaluation is very important. Patients need careful assessment of their wounds. Correct dressing and healing depend on diagnosis. This case helps healthcare professionals recognize this rare disease. Early recognition improves treatment and healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXhBLXBiQl90MW1KR0QxNlF4ME1DN0VIRVB6NFlPeU1XRWxrQU51N1k4WlpJRkNMeGNtVFlHN0dEMkR0WXJiRHhxZS1JSF96MXVlTVN1RFJnTjZxRmZJLWJPbmhwOTR2ZW5yT1BUWF9MZ2FTaWpHOGxWQlpadEphcDVQblgyeW41VnEtYkh6ZHBVWDBwN3I4VzJyTllOalNFcmlDekw4N1BBeGYxUlljWDNtdVpxQ1dnUGxKQWNFNlpQZnlrcnRUZmhZQ1ZmN0xnckE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-11/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen cuidadoso del paciente y sus síntomas",
+          "definition_en": "evaluation - careful examination of patient and symptoms"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of wound getting better"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material o tela que cubre una herida",
+          "definition_en": "dressing - material or cloth that covers a wound"
+        }
+      ],
+      "added_at": "2026-08-11T09:24:22.780635Z"
+    },
+    {
+      "id": "diabetic-foot-20250811",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Soluciones móviles amplían cuidado de heridas diabéticas en Virginia",
+      "headline_en": "Mobile Solutions Expand Diabetic Wound Care in Virginia",
+      "summary_es": "Advanced Mobile Wound Solutions ha expandido sus servicios de cuidado de heridas diabéticas en Roanoke, Virginia, para mejorar la preservación de miembros y reducir amputaciones.",
+      "body_es": "Advanced Mobile Wound Solutions ha expandido significativamente sus servicios en Roanoke, Virginia. La compañía ofrece atención especializada para heridas diabéticas directamente en el hogar del paciente. El objetivo principal es prevenir amputaciones y preservar las extremidades inferiores. Los especialistas en cuidado de heridas evalúan las úlceras diabéticas del pie utilizando tecnología moderna. El programa proporciona evaluaciones regulares, cambio de apósitos especializados, y monitoreo continuo de la cicatrización. Los pacientes diabéticos enfrentan alto riesgo de infecciones y complicaciones graves en los pies. La atención móvil mejora el acceso al tratamiento especializado. Los proveedores trabajan para identificar signos de infección, edema, y necrosis tempranamente. Este servicio comunitario reduce hospitalizaciones y mejora los resultados de preservación de miembros.",
+      "body_en": "Advanced Mobile Wound Solutions has significantly expanded its services in Roanoke, Virginia. The company provides specialized care for diabetic wounds directly in the patient's home. The main objective is to prevent amputations and preserve lower extremities. Wound care specialists evaluate diabetic foot ulcers using modern technology. The program provides regular evaluations, specialized dressing changes, and continuous monitoring of healing. Diabetic patients face high risk of infections and serious foot complications. Mobile care improves access to specialized treatment. Providers work to identify signs of infection, edema, and necrosis early. This community service reduces hospitalizations and improves limb preservation outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaHRkWlBnZzdUVUphNUFwQ0s4aGVLQk9NZzdqbE1MczZYWEp6N3FNUHVHaTdfeXRJMG1ZdWpDZ0ZzaTZ1RnZxX0RqbWExMEFZb0doZmhhVmRnc2l2UXM0TTl0RDJJRkdjVXhHbU51MzFMcjdzSU94WWVTbEk0RlhkX1lNUkxMZ29kT1pEN1QtQjNxMUZUMi1Cd2EzMGFBM0Z0Slg4OVVSWC02TEFUcHM3aE9HdXctVFZ1bUdaOXZsZy1QZk5rblBQX2d2T2psQkhOWDlzWkM1VmZPLXRoZkROUGVRaUg0YXdyWUotMXo4SzZiV0pKeEVrdDZxQ3B6WVlo?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-11/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida en el pie del paciente con diabetes que cicatriza lentamente",
+          "definition_en": "diabetic ulcer - wound on foot of diabetic patient that heals slowly"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material especial que se coloca sobre la herida para protegerla",
+          "definition_en": "dressing - special material placed on wound to protect it"
+        },
+        {
+          "word": "preservación de miembros",
+          "definition_es": "prevención de amputación mediante tratamiento especializado",
+          "definition_en": "limb preservation - prevention of amputation through specialized treatment"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "examen cuidadoso de la herida para determinar su estado",
+          "definition_en": "evaluation - careful examination of wound to determine its status"
+        }
+      ],
+      "added_at": "2026-08-11T09:24:22.780635Z"
+    },
+    {
+      "id": "surgical-wounds-20250811",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "red",
+      "headline_es": "Infecciones postoperatorias en cirugía cosmética reciben atención médica urgente",
+      "headline_en": "Postoperative Infections in Cosmetic Surgery Receive Urgent Medical Attention",
+      "summary_es": "Las infecciones después de cirugía cosmética se han convertido en una preocupación importante tras la muerte de un oficial de policía de Nueva York relacionada con complicaciones quirúrgicas.",
+      "body_es": "Las complicaciones infecciosas después de cirugía cosmética han llamado la atención de profesionales médicos en todo el país. Un oficial de policía de Nueva York falleció por complicaciones relacionadas con una cirugía estética. Este trágico caso ha puesto el foco en los riesgos potenciales de infecciones postoperatorias. Las infecciones quirúrgicas pueden desarrollarse días o semanas después de la operación. Los signos de infección incluyen enrojecimiento, edema, exudado purulento, y fiebre. Los pacientes requieren evaluación temprana si presentan síntomas preocupantes. El cuidado de heridas después de cirugía es fundamental para prevenir complicaciones. Los vendajes apropiados, la higiene rigurosa, y el monitoreo constante reducen riesgos. Los profesionales de salud deben educar a los pacientes sobre signos de alarma. La vigilancia postoperatoria mejora los resultados y reduce mortalidad.",
+      "body_en": "Infectious complications after cosmetic surgery have drawn attention from medical professionals nationwide. A New York Police Department officer died from complications related to cosmetic surgery. This tragic case has focused attention on the potential risks of postoperative infections. Surgical infections can develop days or weeks after the operation. Signs of infection include redness, edema, purulent drainage, and fever. Patients require early evaluation if they present concerning symptoms. Wound care after surgery is fundamental to preventing complications. Appropriate dressings, strict hygiene, and constant monitoring reduce risks. Healthcare professionals must educate patients about warning signs. Postoperative surveillance improves outcomes and reduces mortality.",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkxMOVlydTNEUVlfRkRMNFl5dGt4YTBxTjZkUTVqMFl6ekNrbzVNek9VZGJlS1ZncTRQVW1vblZuZUpqdHR6ck9oWUUxUG9ENWZMUGVyMDg3eDVuVzNYR3R5dUNLcjhkY0lnbzFETXRZTk5OTXRTTC01VSFhSWppdk91ejF3SUtIel8wRWp1UnJpNGkxUEdtUTN6bHdmV0Ns?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-11/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección postoperatoria",
+          "definition_es": "complicación infecciosa que ocurre después de una cirugía",
+          "definition_en": "postoperative infection - infectious complication occurring after surgery"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida, puede ser claro o purulento",
+          "definition_en": "exudate - fluid draining from wound, can be clear or purulent"
+        },
+        {
+          "word": "edema",
+          "definition_es": "hinchazón causada por acumulación de líquido en los tejidos",
+          "definition_en": "edema - swelling caused by fluid accumulation in tissues"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material que se aplica sobre la herida quirúrgica para protegerla",
+          "definition_en": "dressing - material applied over surgical wound to protect it"
+        }
+      ],
+      "added_at": "2026-08-11T09:24:22.780635Z"
+    },
+    {
+      "id": "wound-research-20250811",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Inversión de 20 millones de dólares fortalece investigación en inmunoterapia celular",
+      "headline_en": "$20 Million Investment Strengthens Cellular Immunotherapy Research",
+      "summary_es": "La Universidad de Carolina del Norte en Chapel Hill recibe una donación transformacional de 20 millones de dólares para avanzar su programa de inmunoterapia celular, con aplicaciones potenciales en cuidado de heridas.",
+      "body_es": "La Universidad de Carolina del Norte en Chapel Hill ha recibido una inversión significativa de 20 millones de dólares. Este compromiso financiero transformacional fortalecerá el programa de inmunoterapia celular de UNC Lineberger. La investigación en inmunoterapia celular tiene aplicaciones importantes en el tratamiento de heridas complejas y crónicas. Los investigadores desarrollan terapias que estimulan el sistema inmunológico para mejorar la cicatrización. La inmunoterapia puede acelerar la regeneración tisular y reducir infecciones. Los científicos estudian cómo las células inmunológicas promueven la epitelización y la angiogénesis en heridas. Esta investigación podría revolucionar el tratamiento de úlceras crónicas, heridas diabéticas, y quemaduras severas. La inversión permite expandir los estudios clínicos y desarrollar nuevos protocolos de tratamiento. Los resultados beneficiarán a pacientes con heridas resistentes a tratamientos convencionales.",
+      "body_en": "The University of North Carolina at Chapel Hill has received a significant investment of $20 million. This transformational financial commitment will strengthen UNC Lineberger's cellular immunotherapy program. Research in cellular immunotherapy has important applications in treating complex and chronic wounds. Researchers develop therapies that stimulate the immune system to improve healing. Immunotherapy can accelerate tissue regeneration and reduce infections. Scientists study how immune cells promote epithelialization and angiogenesis in wounds. This research could revolutionize the treatment of chronic ulcers, diabetic wounds, and severe burns. The investment enables expansion of clinical studies and development of new treatment protocols. Results will benefit patients with wounds resistant to conventional treatments.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONmFEZ01ZMzIzV21tMWEtNEpZdHhIbG4xS0RMRkpobnlaUW9EZ0Q3TmZXRUU4RVAycWE2Z2V0ZTJLcHlRTDcwSDhNWENwTEdCcnloSmUwcTh5YkJ6dGhxTmo4ci1UV0xFTHZ3ZV9Yb1Y2OWloQ0F6c2NQU0poYWpla1ZNaUhvMnpmU2gyNTRaaVJ5Si05U1pJSmY3VzhHNFZjdkNSZk0wal8tQmMwbXJYSVBYdTdfU2RLRTBoN1lLMHA3YVRNUi1ObHJWNDRwdm1NS3c?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-11/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "inmunoterapia celular",
+          "definition_es": "tratamiento que utiliza células inmunológicas para combatir enfermedades",
+          "definition_en": "cellular immunotherapy - treatment using immune cells to fight disease"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "proceso de formación de nueva capa de piel sobre una herida",
+          "definition_en": "epithelialization - process of new skin layer formation over wound"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos en el tejido de cicatrización",
+          "definition_en": "angiogenesis - formation of new blood vessels in healing tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de recuperación y reparación de una herida",
+          "definition_en": "wound healing - natural process of recovery and wound repair"
+        }
+      ],
+      "added_at": "2026-08-11T09:24:22.780635Z"
+    },
     {
       "id": "chronic-wounds-20260810",
       "category": "Chronic Wounds",
@@ -35484,6 +35632,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-10T09:35:26.016854Z",
+  "last_updated": "2026-08-11T09:24:22.780635Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
