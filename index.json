@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-12",
+      "filename": "spanish_lesson_2026-08-12.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-12.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Demócratas exigen explicaciones sobre el vuelo secreto de Trump desde Turquía",
+          "headline_en": "Democrats demand explanations about Trump's secret flight from Turkey",
+          "body_es": "Varios políticos demócratas están muy preocupados por un viaje reciente del presidente Donald Trump. El presidente viajó en secreto desde Turquía, y muchos legisladores no sabían nada sobre este vuelo. Los demócratas piden una reunión oficial con el gobierno para recibir más información. Ellos quieren saber por qué el viaje fue secreto y qué pasó durante ese tiempo. Algunos legisladores dicen que el Congreso tiene el derecho de saber adónde viaja el presidente. El vuelo secreto causó mucha preocupación entre los miembros del partido demócrata. Ellos creen que la transparencia es muy importante en el gobierno. Por ahora, la Casa Blanca no ha dado una explicación completa sobre el viaje. Los demócratas continúan presionando para obtener más detalles sobre este asunto. La situación muestra las tensiones políticas que existen actualmente en Washington entre los dos partidos principales.",
+          "body_en": "Several Democratic politicians are very concerned about a recent trip by President Donald Trump. The president traveled secretly from Turkey, and many lawmakers knew nothing about this flight. Democrats are requesting an official meeting with the government to receive more information. They want to know why the trip was secret and what happened during that time. Some lawmakers say Congress has the right to know where the president travels. The secret flight caused great concern among Democratic Party members. They believe transparency is very important in government. For now, the White House has not given a complete explanation about the trip. Democrats continue to push for more details on this matter. The situation shows the political tensions that currently exist in Washington between the two main parties.",
+          "source": "The Washington Post"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los precios del petróleo suben mientras fracasan las negociaciones entre EE.UU. e Irán",
+          "headline_en": "Oil prices rise as negotiations between the US and Iran fail",
+          "body_es": "Los precios del petróleo están subiendo otra vez en los mercados internacionales. La razón principal es que las negociaciones entre Estados Unidos e Irán no están funcionando bien. Muchas personas esperaban un acuerdo entre los dos países, pero ese acuerdo parece cada vez más difícil. Cuando no hay acuerdo, hay menos petróleo disponible en el mercado mundial. Esto hace que los precios suban. Los expertos en energía dicen que la situación puede continuar por mucho tiempo. Ellos explican que los precios altos del petróleo afectan a muchas personas. Por ejemplo, la gasolina para los coches puede costar más dinero. También los productos que necesitan transporte pueden volverse más caros. Algunos expertos creen que otros países productores de petróleo podrían aumentar su producción para ayudar. Sin embargo, por ahora la situación es incierta y los mercados están nerviosos por las noticias entre Estados Unidos e Irán.",
+          "body_en": "Oil prices are rising again in international markets. The main reason is that negotiations between the United States and Iran are not going well. Many people hoped for a deal between the two countries, but that deal seems increasingly difficult. When there is no agreement, less oil is available on the world market. This causes prices to rise. Energy experts say the situation could continue for a long time. They explain that high oil prices affect many people. For example, gasoline for cars can cost more money. Products that need transportation can also become more expensive. Some experts believe other oil-producing countries could increase their production to help. However, for now the situation is uncertain and markets are nervous about the news between the United States and Iran.",
+          "source": "Business Insider"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Zuckerberg presenta su visión para cambiar el mundo con inteligencia artificial",
+          "headline_en": "Zuckerberg presents his vision to change the world with artificial intelligence",
+          "body_es": "Mark Zuckerberg, el jefe de la empresa Meta, escribió un documento muy importante. En ese documento, él explica sus grandes planes para la inteligencia artificial. Zuckerberg cree que la inteligencia artificial puede cambiar el mundo de manera muy positiva. Meta es la compañía que tiene Facebook, Instagram y WhatsApp. Ahora, la empresa quiere ser líder en el desarrollo de la inteligencia artificial. Zuckerberg dice que su tecnología puede ayudar a resolver problemas muy grandes de la humanidad. Por ejemplo, puede mejorar la medicina, la educación y la ciencia. Sin embargo, algunas personas están preocupadas por estos planes. Ellas creen que una inteligencia artificial tan poderosa puede ser peligrosa. El documento de Zuckerberg muestra las ambiciones enormes de Meta para el futuro. La empresa está invirtiendo mucho dinero en este proyecto. La competencia entre las grandes empresas tecnológicas por liderar la inteligencia artificial es muy intensa actualmente.",
+          "body_en": "Mark Zuckerberg, the head of the company Meta, wrote a very important document. In that document, he explains his big plans for artificial intelligence. Zuckerberg believes that artificial intelligence can change the world in a very positive way. Meta is the company that owns Facebook, Instagram, and WhatsApp. Now, the company wants to be a leader in the development of artificial intelligence. Zuckerberg says his technology can help solve very big problems for humanity. For example, it can improve medicine, education, and science. However, some people are worried about these plans. They believe such a powerful artificial intelligence could be dangerous. Zuckerberg's document shows Meta's enormous ambitions for the future. The company is investing a lot of money in this project. The competition among big technology companies to lead in artificial intelligence is very intense right now.",
+          "source": "bendbulletin.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "vuelo",
+          "syllables": "VUE-lo",
+          "pos": "sustantivo",
+          "context": "Los demócratas quieren saber más sobre el vuelo secreto de Trump desde Turquía.",
+          "definition_es": "Viaje en avión de un lugar a otro",
+          "definition_en": "Flight / airplane trip"
+        },
+        {
+          "word": "secreto",
+          "syllables": "se-CRE-to",
+          "pos": "adjetivo",
+          "context": "El vuelo secreto del presidente causó mucha preocupación en el Congreso.",
+          "definition_es": "Algo que no es público o que pocas personas saben",
+          "definition_en": "Secret / hidden"
+        },
+        {
+          "word": "petróleo",
+          "syllables": "pe-TRÓ-le-o",
+          "pos": "sustantivo",
+          "context": "Los precios del petróleo están subiendo otra vez en el mercado mundial.",
+          "definition_es": "Líquido natural del que se hace la gasolina y otros combustibles",
+          "definition_en": "Oil / petroleum"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Las esperanzas de un acuerdo entre Estados Unidos e Irán están desapareciendo.",
+          "definition_es": "Decisión o contrato entre dos o más partes",
+          "definition_en": "Deal / agreement"
+        },
+        {
+          "word": "ambición",
+          "syllables": "am-bi-CIÓN",
+          "pos": "sustantivo",
+          "context": "El manifiesto de Zuckerberg describe las ambiciones de Meta con la inteligencia artificial.",
+          "definition_es": "Deseo fuerte de lograr algo grande o importante",
+          "definition_en": "Ambition / strong desire"
+        },
+        {
+          "word": "experto",
+          "syllables": "ex-PER-to",
+          "pos": "sustantivo",
+          "context": "Los expertos en energía dicen que los precios del petróleo seguirán subiendo.",
+          "definition_es": "Persona que sabe mucho sobre un tema específico",
+          "definition_en": "Expert / specialist"
+        },
+        {
+          "word": "informar",
+          "syllables": "in-for-MAR",
+          "pos": "verbo",
+          "context": "Los demócratas piden que el gobierno los informe sobre el viaje del presidente.",
+          "definition_es": "Dar información o noticias a alguien sobre algo",
+          "definition_en": "To inform / to brief"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Zuckerberg quiere cambiar el mundo con nueva tecnología de inteligencia artificial.",
+          "definition_es": "Uso de la ciencia para crear herramientas y sistemas modernos",
+          "definition_en": "Technology"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'vuelo'?",
+          "options": [
+            "Un viaje en avión",
+            "Un tipo de comida",
+            "Una reunión política",
+            "Un documento oficial"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'acuerdo'?",
+          "options": [
+            "Un tipo de tecnología",
+            "Una decisión o contrato entre dos partes",
+            "Un precio en el mercado",
+            "Un viaje secreto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Si algo es 'secreto', significa que...",
+          "options": [
+            "Es muy famoso y todo el mundo lo sabe",
+            "Es muy caro y difícil de comprar",
+            "No es público y pocas personas lo saben",
+            "Es muy nuevo y moderno"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es un 'experto'?",
+          "options": [
+            "Una persona que no sabe nada sobre un tema",
+            "Una persona que sabe mucho sobre un tema específico",
+            "Un tipo de documento político",
+            "Un producto de petróleo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿desde qué país viajó Trump en secreto?",
+          "options": [
+            "Desde Rusia",
+            "Desde China",
+            "Desde Turquía",
+            "Desde Irán"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué piden los demócratas después del vuelo secreto de Trump?",
+          "options": [
+            "Piden cancelar el viaje",
+            "Piden una reunión oficial para recibir más información",
+            "Piden hablar directamente con Trump",
+            "Piden cerrar el aeropuerto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de economía, ¿por qué están subiendo los precios del petróleo?",
+          "options": [
+            "Porque hay demasiado petróleo en el mercado",
+            "Porque las negociaciones entre EE.UU. e Irán no funcionan bien",
+            "Porque Meta está comprando mucho petróleo",
+            "Porque Trump viajó a Turquía"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cómo afectan los precios altos del petróleo a las personas normales?",
+          "options": [
+            "Les da más dinero",
+            "La gasolina para los coches puede costar más",
+            "Les permite viajar más barato",
+            "No les afecta de ninguna manera"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿qué empresas pertenecen a Meta?",
+          "options": [
+            "Google, YouTube y Gmail",
+            "Twitter, TikTok y Snapchat",
+            "Facebook, Instagram y WhatsApp",
+            "Netflix, Spotify y Amazon"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué preocupa a algunas personas sobre los planes de inteligencia artificial de Zuckerberg?",
+          "options": [
+            "Que la tecnología sea muy cara",
+            "Que una inteligencia artificial tan poderosa pueda ser peligrosa",
+            "Que Meta no tenga suficiente dinero",
+            "Que el proyecto sea demasiado pequeño"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-12T09:29:30.381047"
+    },
+    {
       "date": "2026-08-11",
       "filename": "spanish_lesson_2026-08-11.pdf",
       "path": "pdfs/spanish_lesson_2026-08-11.pdf",
@@ -52624,7 +52846,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-11T09:19:05.138437",
+  "last_updated": "2026-08-12T09:29:30.381082",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
