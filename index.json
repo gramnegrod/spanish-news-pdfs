@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-13",
+      "filename": "spanish_lesson_2026-08-13.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-13.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Congresista acusada pide a los votantes que la devuelvan al Congreso",
+          "headline_en": "Indicted congresswoman asks voters to send her back to Congress",
+          "body_es": "Sheila Cherfilus-McCormick es una congresista del estado de Florida. Ella fue acusada formalmente de un crimen. Después de la acusación, tuvo que renunciar a su cargo en el Congreso de Estados Unidos. Sin embargo, ahora Cherfilus-McCormick quiere volver a trabajar en el Congreso. Ella les pide a los votantes de su distrito que la apoyen en las próximas elecciones. La congresista dice que es inocente y que quiere seguir ayudando a su comunidad. Muchas personas en su estado están sorprendidas por su decisión de participar en las elecciones después de estos problemas legales. Su distrito está en el sur de Florida. Los votantes deberán decidir si quieren darle otra oportunidad. Esta situación es muy inusual en la política de Estados Unidos. Las elecciones determinarán si ella puede regresar a su posición en Washington.",
+          "body_en": "Sheila Cherfilus-McCormick is a congresswoman from the state of Florida. She was formally charged with a crime. After the indictment, she had to resign from her position in the United States Congress. However, Cherfilus-McCormick now wants to return to work in Congress. She is asking voters in her district to support her in the upcoming elections. The congresswoman says she is innocent and wants to continue helping her community. Many people in her state are surprised by her decision to participate in the elections after these legal problems. Her district is in South Florida. Voters will have to decide if they want to give her another chance. This situation is very unusual in United States politics. The elections will determine whether she can return to her position in Washington.",
+          "source": "Sun Sentinel"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La inflación en Estados Unidos baja al 3.4% en julio",
+          "headline_en": "Inflation in the United States drops to 3.4% in July",
+          "body_es": "La inflación anual en Estados Unidos se redujo al 3.4% en el mes de julio. Esta es una buena noticia para muchos americanos. La inflación mide cuánto suben los precios de los productos y servicios. Cuando la inflación es alta, las personas tienen que pagar más dinero por las mismas cosas. En los últimos años, la inflación en Estados Unidos fue muy alta. Llegó a más del 9% en 2022. Ahora, los precios están subiendo más despacio. Esto significa que la economía se está estabilizando. El gobierno y el Banco Central de Estados Unidos trabajaron mucho para reducir la inflación. Subieron las tasas de interés varias veces. Muchos economistas están contentos con este progreso. Sin embargo, algunos expertos dicen que la inflación todavía no está al nivel ideal. El objetivo del gobierno es llegar al 2% de inflación.",
+          "body_en": "Annual inflation in the United States dropped to 3.4% in the month of July. This is good news for many Americans. Inflation measures how much the prices of goods and services rise. When inflation is high, people have to pay more money for the same things. In recent years, inflation in the United States was very high. It reached more than 9% in 2022. Now, prices are rising more slowly. This means the economy is stabilizing. The government and the US Central Bank worked hard to reduce inflation. They raised interest rates several times. Many economists are happy with this progress. However, some experts say inflation is still not at the ideal level. The government's goal is to reach 2% inflation.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Zuckerberg publica sus grandes planes para la inteligencia artificial de Meta",
+          "headline_en": "Zuckerberg publishes his big plans for Meta's artificial intelligence",
+          "body_es": "Mark Zuckerberg es el jefe de Meta, la compañía dueña de Facebook e Instagram. Recientemente, él publicó un documento importante llamado manifiesto. En este documento, Zuckerberg explica sus grandes ambiciones para la inteligencia artificial. Él cree que la tecnología de inteligencia artificial puede cambiar el mundo de manera positiva. Meta quiere ser una de las empresas más importantes en el desarrollo de esta tecnología. Zuckerberg dice que la inteligencia artificial puede ayudar a resolver problemas grandes en el mundo, como la medicina y la educación. También mencionó que Meta va a invertir mucho dinero en este proyecto. Muchas personas están entusiasmadas con estas ideas. Sin embargo, otras personas están preocupadas por los posibles riesgos de la inteligencia artificial. Los expertos debaten si esta tecnología es segura para la sociedad. El mundo está observando los próximos pasos de Meta con mucho interés.",
+          "body_en": "Mark Zuckerberg is the head of Meta, the company that owns Facebook and Instagram. Recently, he published an important document called a manifesto. In this document, Zuckerberg explains his big ambitions for artificial intelligence. He believes that artificial intelligence technology can change the world in a positive way. Meta wants to be one of the most important companies in the development of this technology. Zuckerberg says that artificial intelligence can help solve big problems in the world, like medicine and education. He also mentioned that Meta will invest a lot of money in this project. Many people are excited about these ideas. However, other people are worried about the possible risks of artificial intelligence. Experts debate whether this technology is safe for society. The world is watching Meta's next steps with great interest.",
+          "source": "ABC News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "acusación",
+          "syllables": "a-cu-SA-ción",
+          "pos": "sustantivo",
+          "context": "Después de la acusación, la congresista pidió a los votantes que la apoyaran de nuevo.",
+          "definition_es": "Cargo legal formal contra una persona por un crimen",
+          "definition_en": "Formal legal charge against a person for a crime"
+        },
+        {
+          "word": "renuncia",
+          "syllables": "re-NUN-cia",
+          "pos": "sustantivo",
+          "context": "La renuncia de la congresista sorprendió a muchas personas en su estado.",
+          "definition_es": "El acto de dejar voluntariamente un trabajo o posición",
+          "definition_en": "The act of voluntarily leaving a job or position"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inflación anual en Estados Unidos bajó al 3.4% en julio.",
+          "definition_es": "El aumento general de los precios de productos y servicios",
+          "definition_en": "The general increase in the prices of goods and services"
+        },
+        {
+          "word": "enfriarse",
+          "syllables": "en-friar-SE",
+          "pos": "verbo",
+          "context": "La economía comenzó a enfriarse cuando los precios dejaron de subir tan rápido.",
+          "definition_es": "Bajar la temperatura o reducir la intensidad de algo",
+          "definition_en": "To cool down or reduce the intensity of something"
+        },
+        {
+          "word": "manifiesto",
+          "syllables": "ma-ni-FIES-to",
+          "pos": "sustantivo",
+          "context": "Zuckerberg publicó un manifiesto sobre los planes de Meta para la inteligencia artificial.",
+          "definition_es": "Un documento público que explica las ideas o planes de una persona u organización",
+          "definition_en": "A public document explaining a person's or organization's ideas or plans"
+        },
+        {
+          "word": "ambición",
+          "syllables": "am-bi-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las ambiciones de Meta en tecnología de inteligencia artificial son muy grandes.",
+          "definition_es": "Un deseo fuerte de lograr algo importante",
+          "definition_en": "A strong desire to achieve something important"
+        },
+        {
+          "word": "votantes",
+          "syllables": "vo-TAN-tes",
+          "pos": "sustantivo",
+          "context": "La congresista pidió a los votantes que le dieran otra oportunidad.",
+          "definition_es": "Las personas que participan en una elección para elegir a sus representantes",
+          "definition_en": "People who participate in an election to choose their representatives"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "Zuckerberg cree que la inteligencia artificial puede cambiar el mundo.",
+          "definition_es": "La tecnología que permite a las computadoras pensar y aprender como los humanos",
+          "definition_en": "Technology that allows computers to think and learn like humans"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'renuncia'?",
+          "options": [
+            "Una acusación legal",
+            "Dejar voluntariamente un trabajo o posición",
+            "Una elección política",
+            "Un documento público"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es la 'inflación'?",
+          "options": [
+            "Una reducción de precios",
+            "Un tipo de elección",
+            "El aumento general de los precios de productos y servicios",
+            "Una tecnología nueva"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué son los 'votantes'?",
+          "options": [
+            "Personas que trabajan en el gobierno",
+            "Personas que participan en una elección para elegir representantes",
+            "Personas acusadas de un crimen",
+            "Economistas expertos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Un 'manifiesto' es...",
+          "options": [
+            "Un tipo de inteligencia artificial",
+            "Un problema económico",
+            "Una ley del Congreso",
+            "Un documento público que explica ideas o planes"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué tuvo que renunciar Cherfilus-McCormick a su cargo? (Historia de Política)",
+          "options": [
+            "Porque perdió las elecciones",
+            "Porque fue acusada formalmente de un crimen",
+            "Porque quería trabajar en otro estado",
+            "Porque se jubiló"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿De qué estado de EE.UU. es la congresista Cherfilus-McCormick? (Historia de Política)",
+          "options": [
+            "Texas",
+            "California",
+            "Nueva York",
+            "Florida"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Cuál fue el porcentaje de inflación en Estados Unidos en julio? (Historia de Economía)",
+          "options": [
+            "9.4%",
+            "5.2%",
+            "3.4%",
+            "2.0%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Cuál es el objetivo del gobierno de Estados Unidos con respecto a la inflación? (Historia de Economía)",
+          "options": [
+            "Llegar al 2%",
+            "Llegar al 5%",
+            "Mantenerla en 3.4%",
+            "Eliminar la inflación completamente"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué compañías son dueñas de Meta según la historia de Tecnología?",
+          "options": [
+            "Google y YouTube",
+            "Twitter y TikTok",
+            "Facebook e Instagram",
+            "Apple y Microsoft"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según Zuckerberg, ¿en qué áreas puede ayudar la inteligencia artificial? (Historia de Tecnología)",
+          "options": [
+            "Solo en entretenimiento y juegos",
+            "En la medicina y la educación",
+            "Solo en negocios y finanzas",
+            "En deportes y turismo"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-13T09:24:53.358059"
+    },
+    {
       "date": "2026-08-12",
       "filename": "spanish_lesson_2026-08-12.pdf",
       "path": "pdfs/spanish_lesson_2026-08-12.pdf",
@@ -52846,7 +53068,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-12T09:29:30.381082",
+  "last_updated": "2026-08-13T09:24:53.358089",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
