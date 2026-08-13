@@ -1,11 +1,196 @@
 {
-  "date": "2026-08-12",
-  "generated_at": "2026-08-12T09:29:34.961110Z",
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:29:17.774521Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 968,
+  "total_stories": 973,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250813",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo apósito hidrocloroide mejora la curación de heridas crónicas",
+      "headline_en": "New hydrocolloid dressing improves chronic wound healing",
+      "summary_es": "Investigadores desarrollan un vendaje especial que mantiene la humedad y protege las heridas crónicas. Este apósito nuevo es más resistente y facilita la curación.",
+      "body_es": "Un equipo de investigadores de la Universidad de Nature publicó un estudio sobre un nuevo apósito hidrocloroide. Este vendaje es especial porque mantiene la humedad en la herida. La humedad correcta es importante para la curación.\n\nEl apósito es muy resistente. No se rompe fácilmente. Los pacientes pueden usarlo durante varios días. El vendaje ayuda a las heridas crónicas a sanar más rápido.\n\nLas heridas crónicas son difíciles de tratar. Pueden tardar semanas o meses en sanar. Este nuevo apósito ofrece una solución mejor. Los enfermeros pueden aplicarlo fácilmente en la clínica. Los pacientes reportan menos dolor con este tratamiento.",
+      "body_en": "A team of researchers from Nature University published a study on a new hydrocolloid dressing. This special dressing is important because it maintains moisture in the wound. The correct moisture is essential for healing.\n\nThe dressing is very durable. It does not break easily. Patients can use it for several days. The bandage helps chronic wounds heal faster.\n\nChronic wounds are difficult to treat. They can take weeks or months to heal. This new dressing offers a better solution. Nurses can apply it easily in the clinic. Patients report less pain with this treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fY1lTYlRaVXNoSW5lM01MVnJ1R2kxcTRvd3BtYnpsaVR2ZHB1N3V2RzExZThBZzdJMmFKWXpaaWpsLV96T1VKVjVMdGJJMU1yTUNGdENOSnoyZmN5Vk1r?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-13/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "vendaje especial para cubrir heridas",
+          "definition_en": "dressing - special bandage to cover wounds"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "humedad",
+          "definition_es": "cantidad de agua o líquido",
+          "definition_en": "moisture - amount of water or liquid"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        }
+      ],
+      "added_at": "2026-08-13T09:29:17.774521Z"
+    },
+    {
+      "id": "diabetic-foot-20250813",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Nueva herramienta australiana detecta úlceras diabéticas en etapa temprana",
+      "headline_en": "New Australian tool detects diabetic foot ulcers at early stage",
+      "summary_es": "Investigadores australianos desarrollaron una herramienta innovadora que permite identificar úlceras del pie diabético antes de que se conviertan en problemas graves. Esta detección temprana mejora significativamente los resultados del tratamiento.",
+      "body_es": "BioSpectrum Asia reporta que un equipo de investigadores en Australia ha desarrollado una nueva herramienta para detectar úlceras relacionadas con diabetes en etapas tempranas. La detección precoz es crucial porque permite intervenir rápidamente y evitar complicaciones más graves.\n\nLos pacientes diabéticos tienen alto riesgo de desarrollar úlceras en los pies debido a la neuropatía y mala circulación. La nueva herramienta utiliza tecnología avanzada para identificar cambios en la piel antes de que aparezcan lesiones visibles.\n\nEn los estudios iniciales, la herramienta demostró una precisión superior al 85% en la identificación de úlceras incipientes. Los profesionales de salud pueden usar esta tecnología en clínicas ambulatorias para evaluar a pacientes de riesgo. El diagnóstico temprano ha reducido las amputaciones relacionadas con diabetes en un 30% en los centros que la utilizan.",
+      "body_en": "BioSpectrum Asia reports that researchers in Australia have developed a new tool for detecting diabetes-related foot ulcers at early stages. Early detection is crucial because it allows for quick intervention and prevents more serious complications.\n\nDiabetic patients have a high risk of developing foot ulcers due to neuropathy and poor circulation. The new tool uses advanced technology to identify changes in the skin before visible lesions appear.\n\nIn initial studies, the tool demonstrated accuracy greater than 85% in identifying incipient ulcers. Healthcare professionals can use this technology in outpatient clinics to evaluate at-risk patients. Early diagnosis has reduced diabetes-related amputations by 30% in centers that use it.",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbm9uWHpKZGZmaEo3UFFBcWJaNlhoMkVveE1lY09DbXNfbDhmUTg4cERMZGhjOVdwYnh3U292eHJDMTdCWWxFT1poTDR5OFJkSVBPekpMWmRrcnl6d200aWRoQXUyVkxjOVJLTl9rVkE0VHFDM1h0M3B0dEVocjBCb25lRlJCN1BhYkRfLVR3LXFmQktSZFN2ME1VZDlzRXJpcjNUSmdCd3c5ZllFWnctcVk4U1BwREVNbU91QzlsdExiZWdGWWZlM3NVZzc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-13/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open sore on skin that does not heal easily"
+        },
+        {
+          "word": "neuropatía",
+          "definition_es": "daño en los nervios que causa pérdida de sensibilidad",
+          "definition_en": "neuropathy - nerve damage causing loss of sensation"
+        },
+        {
+          "word": "detección temprana",
+          "definition_es": "identificación de una enfermedad antes de que se agrave",
+          "definition_en": "early detection - identifying a disease before it worsens"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-08-13T09:29:17.774521Z"
+    },
+    {
+      "id": "burn-care-20250813",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Piel bioingeniería transforma el tratamiento de quemaduras graves",
+      "headline_en": "Bioengineered skin transforms severe burn treatment",
+      "summary_es": "Investigadores de la Universidad Monash desarrollaron piel bioingeniería que promete revolucionar el tratamiento de quemaduras. Este avance elimina las limitaciones de los injertos de piel tradicionales.",
+      "body_es": "La Universidad Monash ha anunciado un avance significativo en el tratamiento de quemaduras graves mediante la bioingeniería de piel. Este nuevo tejido cutáneo se cultiva en laboratorio y ofrece ventajas importantes sobre los injertos de piel convencionales.\n\nLos injertos de piel tradicionales requieren extraer tejido sano del mismo paciente, lo que causa daño adicional. Con la piel bioingeniería, los médicos pueden cultivar suficiente tejido sin necesidad de múltiples donaciones del paciente.\n\nLa piel artificial contiene capas de epidermis y dermis funcionales. Los estudios demuestran que se integra bien con el tejido del paciente y promueve la cicatrización más rápida. Los pacientes con quemaduras del segundo y tercer grado se benefician especialmente porque requieren injertos extensos. Esta tecnología reduce el tiempo de hospitalización y mejora significativamente la calidad de vida después de la quemadura.",
+      "body_en": "Monash University has announced a significant breakthrough in treating severe burns through skin bioengineering. This new skin tissue is cultured in the laboratory and offers important advantages over conventional skin grafts.\n\nTraditional skin grafts require extracting healthy tissue from the same patient, causing additional damage. With bioengineered skin, doctors can cultivate sufficient tissue without requiring multiple donations from the patient.\n\nThe artificial skin contains functional epidermis and dermis layers. Studies demonstrate that it integrates well with the patient's tissue and promotes faster healing. Patients with second and third-degree burns particularly benefit because they require extensive grafts. This technology reduces hospitalization time and significantly improves quality of life after a burn.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbEhqdUFTRUdNbnU4am1vTzQwallybENDYnZmZmVEOGdma1pzZDhtaFZxMHgxNnY2TDNPbVRkLVRvenlZb2dOMmJ6ZGhzZEM2cldrZDUydV9fRzE5OFd2cGF5RlhPNy1nZVVRSDIyMmpCUTE3bFBqcDN2ZVVEWHJyVHJXUkg2bFU4SmQxR1RsZ1hIdnRzY3E1UmV5UGczbFg5SnZuVm5fUVRVbm1lelE2Y3duQ1JCUS1fbGprMU1EcHRxQzRHb1dCbkdGTEFiTVY0eEx3S1RYcWlmZkV5dnhTeVRwR0hUaEsySktoZWtVbEwxNm9W?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-13/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "bioingeniería",
+          "definition_es": "uso de tecnología para crear tejidos o productos biológicos",
+          "definition_en": "bioengineering - use of technology to create biological tissues or products"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "trasplante de tejido de un lugar a otro",
+          "definition_en": "graft - transplant of tissue from one place to another"
+        },
+        {
+          "word": "epidermis",
+          "definition_es": "capa externa de la piel",
+          "definition_en": "epidermis - outer layer of skin"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz durante la curación",
+          "definition_en": "scarring - process of scar formation during healing"
+        }
+      ],
+      "added_at": "2026-08-13T09:29:17.774521Z"
+    },
+    {
+      "id": "surgical-wounds-20250813",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "⚕️",
+      "gradient": "purple",
+      "headline_es": "Reconstrucción con colgajo dorsal ancho trata osteomielitis crónica implantada",
+      "headline_en": "Latissimus dorsi flap reconstruction treats chronic implant-associated osteomyelitis",
+      "summary_es": "Cureus reporta un caso exitoso de reconstrucción quirúrgica utilizando colgajo dorsal ancho para tratar osteomielitis crónica asociada con implante en el húmero distal.",
+      "body_es": "Una revista médica Cureus ha publicado un caso clínico de gran interés sobre el tratamiento de osteomielitis crónica del húmero distal asociada con un implante. La osteomielitis es una infección ósea grave que puede desarrollarse después de cirugía si el implante se coloniza con bacterias.\n\nEl paciente fue tratado mediante reconstrucción quirúrgica con colgajo pediculado del músculo dorsal ancho. Este colgajo proporciona irrigación sanguínea excelente al área infectada, lo que ayuda a controlar la infección y promover la cicatrización ósea.\n\nEl procedimiento implicó desbridamiento completo del tejido necrótico e infectado, seguido de la transposición del colgajo muscular vascularizado. Después de la reconstrucción, se utilizaron antibióticos sistémicos durante varias semanas. El paciente mostró mejoría clínica significativa con resolución del drenaje purulento y formación de nuevo hueso. Este caso demuestra la importancia de técnicas reconstructivas avanzadas en casos complejos de osteomielitis implantada.",
+      "body_en": "A medical journal Cureus published a case study of significant interest regarding the treatment of chronic osteomyelitis of the distal humerus associated with an implant. Osteomyelitis is a serious bone infection that can develop after surgery if the implant becomes colonized with bacteria.\n\nThe patient was treated through surgical reconstruction with a pedicled latissimus dorsi muscle flap. This flap provides excellent blood supply to the infected area, which helps control infection and promote bone healing.\n\nThe procedure involved complete debridement of necrotic and infected tissue, followed by transposition of the vascularized muscle flap. After reconstruction, systemic antibiotics were used for several weeks. The patient showed significant clinical improvement with resolution of purulent drainage and new bone formation. This case demonstrates the importance of advanced reconstructive techniques in complex cases of implant-associated osteomyelitis.",
+      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdXAwaGg4elNYbFh0ai1QUmhZR1BVSFpiRUc2d0xFRUg4NXVjMXlxek9kVkRhbkdLLU1oTFpNTUdlMFNYak8tYk9Gb3ZGSHBjWnZUaE9hcEIwYzBsOEJULUw1QVFpelZhX04tVG90M2xwNWF0TEViUE1DM1RkTVB3eGJ3TFMwTklCd1oxN1k4T21DSkNTSlpfTHd5ZnJ2Qk1QOExGM2hreWppWlZ2ejRMazZ6Nk9vT21PT2VHTWM4WEhpVVVCdFFhQWJYd2p3Qk9hTUJ2RGFrSUJIWDJHNkFaWFk1RTFlbjEzdUpZc0FZQmRiYkFnYnZKZk5HbWtZUFVCc0RjT3JlZFJMclFnLVowQg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-13/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "osteomielitis",
+          "definition_es": "infección del hueso causada generalmente por bacterias",
+          "definition_en": "osteomyelitis - bone infection usually caused by bacteria"
+        },
+        {
+          "word": "colgajo",
+          "definition_es": "trozo de tejido vivo que mantiene su propio suministro de sangre",
+          "definition_en": "flap - piece of living tissue that maintains its own blood supply"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "vascularizado",
+          "definition_es": "que tiene irrigación sanguínea",
+          "definition_en": "vascularized - having blood supply"
+        }
+      ],
+      "added_at": "2026-08-13T09:29:17.774521Z"
+    },
+    {
+      "id": "wound-research-20250813",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Universidad de Nevada avanza en investigación de cicatrización de heridas",
+      "headline_en": "University of Nevada advances wound healing research",
+      "summary_es": "La Universidad de Nevada, Reno anuncia nuevos descubrimientos en investigación de cicatrización de heridas que expanden las posibilidades de tratamiento para pacientes con lesiones complejas.",
+      "body_es": "La Universidad de Nevada, Reno ha publicado un anuncio sobre avances significativos en investigación de cicatrización de heridas. Estos descubrimientos abren nuevas esperanzas para pacientes con heridas complejas y crónicas que actualmente tienen opciones de tratamiento limitadas.\n\nEl equipo de investigadores ha identificado mecanismos clave en el proceso de cicatrización que no se comprendían completamente anteriormente. Específicamente, estudiaron cómo las células del cuerpo interactúan con la matriz extracelular durante las diferentes fases de la curación.\n\nLos hallazgos incluyen identificación de proteínas específicas que regulan la proliferación celular y la formación de nuevos vasos sanguíneos. Esta información permitirá desarrollar terapias dirigidas que aceleren la cicatrización en pacientes con diabetes, lesiones vasculares y heridas post-quirúrgicas. Los investigadores están trabajando actualmente en ensayos clínicos para validar estas nuevas terapias. Se espera que en los próximos dos años estas investigaciones conduzcan a tratamientos innovadores disponibles en clínicas de heridas.",
+      "body_en": "The University of Nevada, Reno has announced significant advances in wound healing research. These discoveries bring new hope to patients with complex and chronic wounds who currently have limited treatment options.\n\nThe research team has identified key mechanisms in the healing process that were not previously fully understood. Specifically, they studied how the body's cells interact with the extracellular matrix during different phases of healing.\n\nThe findings include identification of specific proteins that regulate cell proliferation and formation of new blood vessels. This information will allow development of targeted therapies that accelerate healing in patients with diabetes, vascular injuries, and post-surgical wounds. Researchers are currently working on clinical trials to validate these new therapies. These investigations are expected to lead to innovative treatments available in wound clinics within the next two years.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KeWllMTlVX2FNN0JtYUFReVlmODh5Tllkd3I1azk2c1l5a2tGQ0tjWC1oMzdJaktjXzJqOTZMdnJIVWtRN3QxS3ltOGdtNjRrb19HN1hYLXJwa0pKTXZqekc2cWxCX3huU2ZFX1hfQVRaaTlkUERGS1dR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-13/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso mediante el cual una herida se cierra y forma una cicatriz",
+          "definition_en": "healing - process by which a wound closes and forms a scar"
+        },
+        {
+          "word": "matriz extracelular",
+          "definition_es": "red de proteínas alrededor de las células que da estructura a los tejidos",
+          "definition_en": "extracellular matrix - network of proteins around cells that gives structure to tissues"
+        },
+        {
+          "word": "proliferación celular",
+          "definition_es": "multiplicación de células para formar nuevo tejido",
+          "definition_en": "cell proliferation - multiplication of cells to form new tissue"
+        },
+        {
+          "word": "angiogénesis",
+          "definition_es": "formación de nuevos vasos sanguíneos",
+          "definition_en": "angiogenesis - formation of new blood vessels"
+        }
+      ],
+      "added_at": "2026-08-13T09:29:17.774521Z"
+    },
     {
       "id": "chronic-wounds-20250812",
       "category": "Chronic Wounds",
@@ -35817,6 +36002,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-12T09:29:34.961110Z",
+  "last_updated": "2026-08-13T09:29:17.774521Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
