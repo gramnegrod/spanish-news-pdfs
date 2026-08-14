@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-14",
+      "filename": "spanish_lesson_2026-08-14.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-14.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Cambios Políticos Importantes en Washington: Lo Que Necesitas Saber",
+          "headline_en": "Important Political Changes in Washington: What You Need to Know",
+          "body_es": "El 14 de agosto de 2026, Washington fue el centro de noticias políticas importantes. Los líderes del gobierno presentaron nuevas propuestas al Congreso. Estas propuestas buscan resolver problemas que afectan a muchos ciudadanos estadounidenses. Los dos partidos principales debatieron durante varias horas. Algunos senadores apoyaron las ideas nuevas. Otros senadores no estuvieron de acuerdo con los planes. Es normal tener opiniones diferentes en la política. Los ciudadanos siguieron las noticias con mucho interés. Muchas personas expresaron sus opiniones en las redes sociales. Los expertos dijeron que estos debates son muy importantes para el futuro del país. El presidente también habló sobre los temas principales del día. Él pidió cooperación entre los diferentes grupos políticos. Los resultados de estas conversaciones pueden afectar la vida diaria de millones de americanos. Es importante que todos los ciudadanos estén informados sobre los cambios políticos.",
+          "body_en": "On August 14, 2026, Washington was the center of important political news. Government leaders presented new proposals to Congress. These proposals seek to solve problems affecting many American citizens. The two main parties debated for several hours. Some senators supported the new ideas. Other senators disagreed with the plans. It is normal to have different opinions in politics. Citizens followed the news with great interest. Many people expressed their opinions on social media. Experts said these debates are very important for the country's future. The president also spoke about the main topics of the day. He asked for cooperation among different political groups. The results of these conversations can affect the daily lives of millions of Americans. It is important that all citizens stay informed about political changes.",
+          "source": "General US Political News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La Economía Americana Muestra Nuevas Tendencias en Agosto de 2026",
+          "headline_en": "The American Economy Shows New Trends in August 2026",
+          "body_es": "Las noticias económicas del 14 de agosto de 2026 fueron muy interesantes. El mercado financiero de Estados Unidos mostró cambios importantes durante el día. Los precios de muchos productos subieron un poco. Esto preocupó a algunos consumidores y familias. Sin embargo, otros indicadores económicos fueron positivos. El número de personas con trabajo aumentó en varias ciudades grandes. Los expertos en economía analizaron los datos con cuidado. Ellos dijeron que la situación es complicada pero no es una crisis. Muchas empresas americanas reportaron buenos resultados este trimestre. Las exportaciones también aumentaron comparado con el año anterior. El gobierno anunció algunas medidas para ayudar a las familias con menos recursos. Estas medidas incluyen apoyo económico directo. Los ciudadanos esperan que la economía mejore en los próximos meses. La inflación sigue siendo un tema importante para todos los americanos.",
+          "body_en": "The economic news on August 14, 2026 was very interesting. The US financial market showed important changes throughout the day. The prices of many products went up a little. This worried some consumers and families. However, other economic indicators were positive. The number of employed people increased in several large cities. Economic experts carefully analyzed the data. They said the situation is complicated but is not a crisis. Many American companies reported good results this quarter. Exports also increased compared to the previous year. The government announced some measures to help families with fewer resources. These measures include direct financial support. Citizens hope the economy improves in the coming months. Inflation continues to be an important topic for all Americans.",
+          "source": "General US Economic News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nuevas Innovaciones Tecnológicas Transforman la Vida en Estados Unidos",
+          "headline_en": "New Technological Innovations Transform Life in the United States",
+          "body_es": "El mundo de la tecnología nunca para de sorprender. El 14 de agosto de 2026, varias empresas tecnológicas americanas anunciaron actualizaciones importantes. Estas empresas quieren desarrollar productos más inteligentes y fáciles de usar. La inteligencia artificial sigue siendo el tema más popular en el sector tecnológico. Muchas compañías grandes invierten millones de dólares en esta tecnología. Los expertos dijeron que la inteligencia artificial puede cambiar muchos trabajos en el futuro. Algunos trabajos pueden desaparecer, pero también aparecerán trabajos nuevos. Las empresas tecnológicas también trabajan en soluciones para problemas de energía. Quieren crear tecnología más limpia y sostenible para el planeta. Los usuarios de teléfonos inteligentes recibirán nuevas funciones pronto. Estas funciones harán la comunicación más fácil y rápida. La innovación tecnológica en Estados Unidos avanza muy rápido. Otros países del mundo observan con mucho interés estos avances americanos.",
+          "body_en": "The world of technology never stops surprising us. On August 14, 2026, several American technology companies announced important updates. These companies want to develop smarter and easier-to-use products. Artificial intelligence continues to be the most popular topic in the technology sector. Many large companies invest millions of dollars in this technology. Experts said that artificial intelligence can change many jobs in the future. Some jobs may disappear, but new jobs will also appear. Technology companies are also working on solutions for energy problems. They want to create cleaner and more sustainable technology for the planet. Smartphone users will receive new features soon. These features will make communication easier and faster. Technological innovation in the United States advances very quickly. Other countries around the world watch these American advances with great interest.",
+          "source": "General US Technology News"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gobierno",
+          "syllables": "go-BIER-no",
+          "pos": "sustantivo",
+          "context": "El gobierno de Estados Unidos tomó decisiones importantes esta semana.",
+          "definition_es": "El grupo de personas que dirigen un país o estado.",
+          "definition_en": "Government; the group of people who lead a country or state."
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía del país mostró cambios importantes en agosto.",
+          "definition_es": "El sistema de dinero, trabajo y productos de un país.",
+          "definition_en": "Economy; the system of money, work, and goods in a country."
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Las nuevas tecnologías cambian la forma en que vivimos.",
+          "definition_es": "Las herramientas y máquinas modernas que usamos para resolver problemas.",
+          "definition_en": "Technology; modern tools and machines used to solve problems."
+        },
+        {
+          "word": "propuesta",
+          "syllables": "pro-PUES-ta",
+          "pos": "sustantivo",
+          "context": "Los líderes políticos presentaron una propuesta nueva al Congreso.",
+          "definition_es": "Una idea o plan que alguien presenta para que otros lo consideren.",
+          "definition_en": "Proposal; an idea or plan presented for others to consider."
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado financiero reaccionó rápidamente a las noticias económicas.",
+          "definition_es": "El lugar o sistema donde se compran y venden cosas o servicios.",
+          "definition_en": "Market; the place or system where things or services are bought and sold."
+        },
+        {
+          "word": "innovación",
+          "syllables": "i-no-va-CIÓN",
+          "pos": "sustantivo",
+          "context": "La innovación tecnológica avanza muy rápido en Estados Unidos.",
+          "definition_es": "Una idea nueva o una mejora importante en algo que ya existe.",
+          "definition_en": "Innovation; a new idea or important improvement to something that already exists."
+        },
+        {
+          "word": "desarrollar",
+          "syllables": "de-sa-rro-LLAR",
+          "pos": "verbo",
+          "context": "Las empresas tecnológicas quieren desarrollar nuevos productos para los usuarios.",
+          "definition_es": "Hacer crecer algo o crear algo nuevo poco a poco.",
+          "definition_en": "To develop; to grow something or create something new gradually."
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Los dos partidos políticos llegaron a un acuerdo después de muchas reuniones.",
+          "definition_es": "Cuando dos o más personas deciden aceptar la misma cosa.",
+          "definition_en": "Agreement; when two or more people decide to accept the same thing."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'propuesta' en español?",
+          "options": [
+            "A) Un tipo de comida tradicional",
+            "B) Un plan o idea que alguien presenta para que otros lo consideren",
+            "C) Una celebración nacional",
+            "D) Un problema muy difícil de resolver"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'desarrollar'?",
+          "options": [
+            "A) Destruir algo completamente",
+            "B) Comprar productos en el mercado",
+            "C) Hacer crecer algo o crear algo nuevo poco a poco",
+            "D) Hablar en público sobre política"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "La palabra 'mercado' se refiere a...",
+          "options": [
+            "A) El edificio donde trabaja el presidente",
+            "B) El lugar o sistema donde se compran y venden cosas",
+            "C) Un tipo de tecnología moderna",
+            "D) Una reunión política importante"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'innovación'?",
+          "options": [
+            "A) Un problema económico grave",
+            "B) Una ley del gobierno",
+            "C) Una idea nueva o mejora importante en algo que ya existe",
+            "D) Una reunión entre presidentes"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿qué hicieron los líderes del gobierno el 14 de agosto?",
+          "options": [
+            "A) Fueron de vacaciones a otro país",
+            "B) Presentaron nuevas propuestas al Congreso",
+            "C) Cerraron el gobierno por un día",
+            "D) Organizaron una fiesta nacional"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de Política, ¿cómo reaccionaron los ciudadanos a las noticias?",
+          "options": [
+            "A) No les importaron las noticias políticas",
+            "B) Salieron a protestar en las calles",
+            "C) Siguieron las noticias con mucho interés y expresaron sus opiniones en redes sociales",
+            "D) Apagaron la televisión y los teléfonos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿qué pasó con el número de personas con trabajo?",
+          "options": [
+            "A) Disminuyó mucho en todo el país",
+            "B) No cambió nada",
+            "C) Aumentó en varias ciudades grandes",
+            "D) Solo aumentó en ciudades pequeñas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿qué dijeron los expertos sobre la situación económica?",
+          "options": [
+            "A) Que es una crisis muy grave",
+            "B) Que es complicada pero no es una crisis",
+            "C) Que todo está perfectamente bien",
+            "D) Que el país va a quebrar pronto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿cuál es el tema más popular en el sector tecnológico?",
+          "options": [
+            "A) Los teléfonos de colores nuevos",
+            "B) Los videojuegos modernos",
+            "C) La inteligencia artificial",
+            "D) Los carros eléctricos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "En la historia de Tecnología, ¿qué tipo de tecnología quieren crear las empresas para el planeta?",
+          "options": [
+            "A) Tecnología más cara y complicada",
+            "B) Tecnología más limpia y sostenible",
+            "C) Tecnología solo para países ricos",
+            "D) Tecnología para explorar el espacio"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-14T09:23:01.674769"
+    },
+    {
       "date": "2026-08-13",
       "filename": "spanish_lesson_2026-08-13.pdf",
       "path": "pdfs/spanish_lesson_2026-08-13.pdf",
@@ -53068,7 +53290,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-13T09:24:53.358089",
+  "last_updated": "2026-08-14T09:23:01.674814",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
