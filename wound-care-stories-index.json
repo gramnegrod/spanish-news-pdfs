@@ -1,11 +1,196 @@
 {
-  "date": "2026-08-13",
-  "generated_at": "2026-08-13T09:29:17.774521Z",
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T09:27:07.763110Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 973,
+  "total_stories": 978,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250814",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Cuidado avanzado de heridas cerca de casa",
+      "headline_en": "Advanced wound care, close to home",
+      "summary_es": "Los servicios de cuidado de heridas crónicas están disponibles en centros locales para mejor acceso a los pacientes. El tratamiento profesional mejora la curación y previene complicaciones.",
+      "body_es": "El cuidado avanzado de heridas ahora está disponible en centros médicos locales. Los pacientes con heridas crónicas reciben atención especializada sin viajar lejos de casa. Los médicos evalúan la herida y crean un plan de tratamiento específico. Usan apósitos modernos y técnicas de curación probadas. El equipo médico revisa el progreso regularmente. Las heridas se curan mejor con tratamiento profesional. Muchos pacientes mejoran en pocas semanas. El cuidado cercano al hogar reduce estrés y gastos. Los centros locales ofrecen seguimiento continuo para prevenir infecciones y problemas futuros.",
+      "body_en": "Advanced wound care is now available at local medical centers. Patients with chronic wounds receive specialized care without traveling far from home. Doctors evaluate the wound and create a specific treatment plan. They use modern dressings and proven healing techniques. The medical team reviews progress regularly. Wounds heal better with professional treatment. Many patients improve in just a few weeks. Care close to home reduces stress and costs. Local centers offer continuous follow-up to prevent infections and future problems.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRDBUVmdMQ181amdNczN6d2NzN3huWGR5b0c4V0tuWTNIRm1jTUV6RDlvaTVsVFFjQUhoY1VjT1puaHd0alZIeFh0aDJSMDM3UmpvTk5ON3NkSEJra21vMmR1dEVyZ0ZCU090VmRqUTFnd09LVG85RnJJSUFiSEJGejJ1WFlkQ0FxVklxdTRXMXREcjYyNVhMNUprT3puR2NtOHBILS1Ca0g1RXdIMjQ4THFMSjlUQzVoZnpmNEoyVmR0eTdIX2VmXzdHYnRoY083a1E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-14/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se pone sobre la herida",
+          "definition_en": "dressing - material applied over wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanación de la herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "infección",
+          "definition_es": "entrada de bacterias en la herida",
+          "definition_en": "infection - bacterial contamination of wound"
+        }
+      ],
+      "added_at": "2026-08-14T09:27:07.763110Z"
+    },
+    {
+      "id": "diabetic-foot-20250814",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Nueva herramienta australiana permite intervención temprana en úlceras del pie diabético",
+      "headline_en": "New tool in Australia enables early intervention for diabetes related foot ulcers",
+      "summary_es": "Australia ha desarrollado una nueva herramienta que permite detectar úlceras del pie diabético en etapas tempranas, mejorando significativamente los resultados del tratamiento. Esta tecnología facilita la intervención rápida antes de complicaciones graves.",
+      "body_es": "Una nueva herramienta diagnóstica en Australia está transformando la detección de úlceras del pie diabético. Esta tecnología permite identificar problemas en estadios tempranos, cuando el tratamiento es más efectivo. Los profesionales de salud pueden intervenir antes de que se desarrollen complicaciones graves como infecciones o necrosis. La herramienta evalúa la circulación sanguínea y la sensibilidad del pie con precisión. Los pacientes diabéticos reciben monitoreo regular para prevenir úlceras. El diagnóstico temprano reduce la necesidad de desbridamiento extenso y mejora los resultados de cicatrización. Los estudios demuestran que la intervención rápida disminuye amputaciones. Esta innovación representa un avance significativo en el cuidado del pie diabético.",
+      "body_en": "A new diagnostic tool in Australia is transforming the detection of diabetic foot ulcers. This technology enables identifying problems in early stages, when treatment is most effective. Healthcare professionals can intervene before serious complications such as infections or necrosis develop. The tool evaluates blood circulation and foot sensitivity with precision. Diabetic patients receive regular monitoring to prevent ulcers. Early diagnosis reduces the need for extensive debridement and improves healing outcomes. Studies demonstrate that rapid intervention decreases amputations. This innovation represents a significant advance in diabetic foot care.",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbm9uWHpKZGZmaEo3UFFBcWJaNlhoMkVveE1lY09DbXNfbDhmUTg4cERMZGhjOVdwYnh3U292eHJDMTdCWWxFT1poTDR5OFJkSVBPekpMWmRrcnl6d200aWRoQXUyVkxjOVJLTl9rVkE0VHFDM1h0M3B0dEVocjBCb25lRlJCN1BhYkRfLVR3LXFmQktSZFN2ME1VZDlzRXJpcjNUSmdCd3c5ZllFWnctcVk4U1BwREVNbU91QzlsdExiZWdGWWZlM3NVZzc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-14/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera del pie diabético",
+          "definition_es": "herida abierta en el pie de pacientes con diabetes",
+          "definition_en": "diabetic foot ulcer - open wound on foot in diabetic patients"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido necrótico o muerto",
+          "definition_en": "debridement - removal of dead or necrotic tissue"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido vivo",
+          "definition_en": "necrosis - death of living tissue"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz y cierre de herida",
+          "definition_en": "scarring - process of scar formation and wound closure"
+        }
+      ],
+      "added_at": "2026-08-14T09:27:07.763110Z"
+    },
+    {
+      "id": "burn-care-20250814",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Avita Medical reporta avances significativos en tratamiento de quemaduras",
+      "headline_en": "Avita Medical Q2 Earnings Call Highlights",
+      "summary_es": "Avita Medical ha presentado resultados destacados en su segundo trimestre, demostrando avances en tecnologías de regeneración de tejido para quemaduras y heridas. La compañía continúa expandiendo sus aplicaciones clínicas.",
+      "body_es": "Durante su informe financiero del segundo trimestre, Avita Medical destacó avances significativos en la tecnología de curación de quemaduras. La compañía desarrolla apósitos regenerativos que estimulan la epitelización acelerada. Sus productos utilizan células vivas autólogas para promover cicatrización natural. Los resultados clínicos demuestran reducción en tiempo de curación de quemaduras profundas. Los pacientes con quemaduras de segundo y tercer grado mostraban mejoría en la regeneración de piel. La tecnología minimiza cicatrices y mejora la función de la piel tratada. Avita Medical está expandiendo sus aplicaciones quirúrgicas en múltiples centros de quemados. El equipo médico reporta tasas altas de éxito en injertos de piel cultivados. Esta innovación representa un avance importante en quemadología.",
+      "body_en": "During its second quarter financial report, Avita Medical highlighted significant advances in burn wound healing technology. The company develops regenerative dressings that stimulate accelerated epithelialization. Its products use autologous living cells to promote natural scarring. Clinical results demonstrate reduction in healing time for deep burns. Patients with second and third-degree burns showed improvement in skin regeneration. The technology minimizes scars and improves treated skin function. Avita Medical is expanding its surgical applications across multiple burn centers. The medical team reports high success rates in cultured skin grafts. This innovation represents an important advance in burn care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTDNFUmVMMXM0TWxpOUYzUWJVMFFiSHo3ZXZmOGo3Qk1QR3Zsd00wY3M2clo1eFVyNjU0OE54NzhOZGtJWVQxbGo5VGIzbGYyb3d0MEthdlFhN2pLYks0Z1JJNUVHSDktcTY5akxaNlVRcmZiWTFtSW9mVTl4SE9QSnJhN0JwR1pjUHhfajRhM21tTndFUmNtYUZGUTQ5UkNDeVBz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-14/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por fuego, calor o sustancia química",
+          "definition_en": "burn - injury caused by fire, heat, or chemical"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - formation of new skin over wound"
+        },
+        {
+          "word": "apósito regenerativo",
+          "definition_es": "vendaje que promueve regeneración de tejido",
+          "definition_en": "regenerative dressing - bandage that promotes tissue regeneration"
+        },
+        {
+          "word": "injerto de piel",
+          "definition_es": "trasplante de piel de una zona a otra",
+          "definition_en": "skin graft - transplant of skin from one area to another"
+        }
+      ],
+      "added_at": "2026-08-14T09:27:07.763110Z"
+    },
+    {
+      "id": "surgical-wounds-20250814",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Avances integrales en medicina de emergencia y cuidado quirúrgico",
+      "headline_en": "Comprehensive Advances in General Medicine and Trauma Emergency Care",
+      "summary_es": "Un enfoque multidisciplinario está transformando el cuidado de heridas quirúrgicas de emergencia, integrando cirugía, medicina interna y medicina de estilo de vida para optimizar la recuperación del paciente.",
+      "body_es": "Los centros de trauma están implementando protocolos integrales que combinan cirugía avanzada con medicina preventiva. El cuidado de heridas quirúrgicas en pacientes de emergencia requiere evaluación rápida y estrategias de manejo optimizadas. Los equipos multidisciplinarios incluyen cirujanos, intensivistas y especialistas en medicina interna. El desbridamiento selectivo de tejido necrótico se realiza con precisión para prevenir infecciones. Los apósitos modernos mantienen un ambiente húmedo óptimo para cicatrización. El manejo del edema y la perfusión tisular son críticos en las primeras horas. La medicina de estilo de vida complementa el tratamiento quirúrgico con nutrición adecuada y movilización temprana. Los resultados muestran reducción en complicaciones y tiempo de hospitalización. Este enfoque holístico mejora significativamente la cicatrización de heridas quirúrgicas complejas.",
+      "body_en": "Trauma centers are implementing comprehensive protocols that combine advanced surgery with preventive medicine. Surgical wound care in emergency patients requires rapid evaluation and optimized management strategies. Multidisciplinary teams include surgeons, intensive care specialists, and internal medicine experts. Selective debridement of necrotic tissue is performed with precision to prevent infections. Modern dressings maintain an optimal moist environment for healing. Management of edema and tissue perfusion are critical in the first hours. Lifestyle medicine complements surgical treatment with adequate nutrition and early mobilization. Results show reduction in complications and hospitalization time. This holistic approach significantly improves complex surgical wound healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPYkRYay1qaHg5RUpfVlBWa2YxQkxFT2lpamE4RFcxM0VSaVVZeEZyRDUxZ24wc09QWW9KdTJYR25kNXJnbWk5RHpuMmtaR3kwUWpyMVhOdHhLbzA4bWVkaHRKWXBKUVNvMHBELU9rcjJ6YmJPT3RJYVk1dW5oNDZFNkJ2NGxYeTZpaDNWc3h4dV9jWFBpNHYxYzBzT0Z5RmpNSzFyMDlicnAwd0k1bXZOdGJIMWxUbWIxWUx3dlVZem1xSEZxQ1pnSkNMZWFOb29LWlFyWUd1Z1pRU0tlYS03WG1nRVVIcnRTWTRpcFhXcWd2T1EtS2FGNm83S3M0QlJ4MTRSb2Z6bFNjRGlKcC10YTlhYmJZTFlkcmdKaXNlU0tXeDBGVm9V?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-14/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión intencional realizada durante cirugía",
+          "definition_en": "surgical wound - intentional incision made during surgery"
+        },
+        {
+          "word": "edema",
+          "definition_es": "acumulación de líquido que causa hinchazón",
+          "definition_en": "edema - accumulation of fluid causing swelling"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso natural de regeneración de piel",
+          "definition_en": "scarring - natural process of skin regeneration"
+        }
+      ],
+      "added_at": "2026-08-14T09:27:07.763110Z"
+    },
+    {
+      "id": "wound-research-20250814",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Mapeo bibliométrico de investigación en terapia fotodinámica para heridas cutáneas",
+      "headline_en": "Bibliometric mapping of scientific production on photodynamic therapy in cutaneous wounds",
+      "summary_es": "Un análisis de Web of Science examina la producción científica global sobre terapia fotodinámica en heridas de piel, revelando tendencias de investigación y colaboraciones internacionales en este campo innovador.",
+      "body_es": "Los investigadores han realizado un análisis bibliométrico exhaustivo de la literatura científica sobre terapia fotodinámica en heridas cutáneas usando la base de datos Web of Science. El estudio mapea las tendencias globales en investigación, instituciones principales e investigadores líderes. La terapia fotodinámica utiliza luz y fotosensibilizadores para estimular cicatrización. Los estudios demuestran que esta técnica reduce infecciones bacterianas en heridas crónicas. Los resultados indican crecimiento significativo en publicaciones desde 2015 en este campo. Las colaboraciones internacionales entre universidades impulsan innovaciones terapéuticas. Los principales contribuyentes provienen de Europa, Asia y América del Norte. La investigación identifica oportunidades para mejorar la eficacia del tratamiento. Este análisis proporciona una visión integral del estado actual de la fotodinámica en dermatología de heridas.",
+      "body_en": "Researchers conducted a comprehensive bibliometric analysis of scientific literature on photodynamic therapy in cutaneous wounds using the Web of Science database. The study maps global research trends, leading institutions, and prominent researchers. Photodynamic therapy uses light and photosensitizers to stimulate wound healing. Studies demonstrate this technique reduces bacterial infections in chronic wounds. Results indicate significant growth in publications since 2015 in this field. International collaborations between universities drive therapeutic innovations. Major contributors come from Europe, Asia, and North America. The research identifies opportunities to improve treatment effectiveness. This analysis provides a comprehensive view of the current state of photodynamics in wound dermatology.",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04N2FnbHdja1NUYXQwLVdYY2I5bHhzSFpFY1pjQlFCVHF1MnI1cXZmSGI5M1hhYjdKZVRTRm52ejRzd3lwT0JoN093UTc4QUlRbkJV?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-14/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "terapia fotodinámica",
+          "definition_es": "tratamiento que usa luz para activar medicinas",
+          "definition_en": "photodynamic therapy - treatment using light to activate medicines"
+        },
+        {
+          "word": "fotosensibilizador",
+          "definition_es": "sustancia sensible a la luz usada en terapia",
+          "definition_en": "photosensitizer - light-sensitive substance used in therapy"
+        },
+        {
+          "word": "bibliométrico",
+          "definition_es": "análisis cuantitativo de publicaciones científicas",
+          "definition_en": "bibliometric - quantitative analysis of scientific publications"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y cierre de la herida",
+          "definition_en": "wound healing - process of healing and closure"
+        }
+      ],
+      "added_at": "2026-08-14T09:27:07.763110Z"
+    },
     {
       "id": "chronic-wounds-20250813",
       "category": "Chronic Wounds",
@@ -36002,6 +36187,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-13T09:29:17.774521Z",
+  "last_updated": "2026-08-14T09:27:07.763110Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
