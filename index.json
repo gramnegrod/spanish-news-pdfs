@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-15",
+      "filename": "spanish_lesson_2026-08-15.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-15.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Trump publica lista de personas investigadas por su gobierno",
+          "headline_en": "Trump publishes list of people investigated by his administration",
+          "body_es": "La administración del presidente Donald Trump publicó una lista de personas que son objetivos de su gobierno. Entre estas personas está James Comey, el exdirector del FBI. Comey trabajó como director del FBI hasta 2017, cuando Trump lo despidió. Ahora, el gobierno de Trump quiere investigar a Comey y a otras personas importantes. Muchos de los nombres en la lista son políticos y funcionarios que trabajaron contra Trump en el pasado. Los críticos dicen que esto es un abuso de poder. Ellos creen que el presidente está usando el gobierno para atacar a sus enemigos políticos. Los defensores de Trump dicen que estas investigaciones son necesarias y justas. Esta situación crea mucha preocupación sobre la independencia de las instituciones del gobierno en Estados Unidos. El debate continúa en el Congreso y en los medios de comunicación.",
+          "body_en": "President Donald Trump's administration published a list of people who are targets of his government. Among these people is James Comey, the former FBI director. Comey worked as FBI director until 2017, when Trump fired him. Now, Trump's government wants to investigate Comey and other important people. Many of the names on the list are politicians and officials who worked against Trump in the past. Critics say this is an abuse of power. They believe the president is using the government to attack his political enemies. Trump's supporters say these investigations are necessary and fair. This situation creates great concern about the independence of government institutions in the United States. The debate continues in Congress and in the media.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los consumidores americanos gastan menos dinero en las tiendas",
+          "headline_en": "American consumers spend less money in stores",
+          "body_es": "El mes pasado, los consumidores en Estados Unidos gastaron menos dinero en las tiendas. Los expertos dicen que muchas personas están frustradas con la economía. Los precios de los productos siguen siendo muy altos. Esto se llama inflación. La inflación hace que la vida sea más cara para las familias. Cuando los precios son altos, la gente decide gastar menos. Muchas personas también están preocupadas por su trabajo y por el futuro de la economía. Las ventas en las tiendas de ropa, electrónica y muebles bajaron de manera significativa. Sin embargo, las personas todavía gastan dinero en comida y en servicios básicos. Los economistas observan estos números con mucha atención. Si los consumidores continúan gastando menos, la economía puede tener problemas serios. El gobierno y los bancos están buscando soluciones para mejorar la situación económica del país.",
+          "body_en": "Last month, consumers in the United States spent less money in stores. Experts say that many people are frustrated with the economy. Product prices continue to be very high. This is called inflation. Inflation makes life more expensive for families. When prices are high, people decide to spend less. Many people are also worried about their jobs and the future of the economy. Sales in clothing, electronics, and furniture stores dropped significantly. However, people still spend money on food and basic services. Economists are watching these numbers very carefully. If consumers continue spending less, the economy may have serious problems. The government and banks are looking for solutions to improve the country's economic situation.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Experto advierte: la IA es una revolución real, pero también puede ser una burbuja",
+          "headline_en": "Expert warns: AI is a real revolution, but it could also be a bubble",
+          "body_es": "Hermann Hauser es el cofundador de la empresa tecnológica Arm. Él es un experto muy importante en el mundo de la tecnología. Hauser dice que la inteligencia artificial, o IA, es una revolución real y muy importante. La IA está cambiando muchas industrias y muchos trabajos en todo el mundo. Sin embargo, Hauser también advierte sobre un peligro serio. Él cree que existe el riesgo de una burbuja económica en el sector de la inteligencia artificial. Una burbuja ocurre cuando las empresas reciben demasiado dinero de los inversores, pero sus negocios no son tan fuertes como parecen. Cuando la burbuja explota, muchas empresas pierden mucho dinero. Esto pasó con las empresas de internet en el año 2000. Hauser quiere que los inversores sean cuidadosos. Es importante reconocer tanto las oportunidades como los riesgos de la inteligencia artificial.",
+          "body_en": "Hermann Hauser is the co-founder of the technology company Arm. He is a very important expert in the world of technology. Hauser says that artificial intelligence, or AI, is a real and very important revolution. AI is changing many industries and many jobs around the world. However, Hauser also warns about a serious danger. He believes there is a risk of an economic bubble in the artificial intelligence sector. A bubble happens when companies receive too much money from investors, but their businesses are not as strong as they seem. When the bubble bursts, many companies lose a lot of money. This happened with internet companies in the year 2000. Hauser wants investors to be careful. It is important to recognize both the opportunities and the risks of artificial intelligence.",
+          "source": "CNBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "objetivo",
+          "syllables": "ob-je-TI-vo",
+          "pos": "sustantivo/adjetivo",
+          "context": "El gobierno publicó una lista de personas que son objetivos de la administración.",
+          "definition_es": "Una persona o cosa a la que se dirige una acción o ataque.",
+          "definition_en": "A target or goal; a person or thing that an action is directed at."
+        },
+        {
+          "word": "consumidor",
+          "syllables": "con-su-mi-DOR",
+          "pos": "sustantivo",
+          "context": "Los consumidores estadounidenses están frustrados y gastan menos dinero.",
+          "definition_es": "Una persona que compra productos o servicios.",
+          "definition_en": "A consumer; a person who buys goods or services."
+        },
+        {
+          "word": "gasto",
+          "syllables": "GAS-to",
+          "pos": "sustantivo",
+          "context": "El gasto en las tiendas bajó el mes pasado en Estados Unidos.",
+          "definition_es": "El dinero que se usa para comprar cosas.",
+          "definition_en": "Spending; the amount of money used to buy things."
+        },
+        {
+          "word": "burbuja",
+          "syllables": "bur-BU-ja",
+          "pos": "sustantivo",
+          "context": "El experto advierte sobre el riesgo de una burbuja en el mercado de inteligencia artificial.",
+          "definition_es": "En economía, una situación donde los precios suben demasiado y después caen rápidamente.",
+          "definition_en": "A bubble; in economics, a situation where prices rise too high and then quickly collapse."
+        },
+        {
+          "word": "advertir",
+          "syllables": "ad-ver-TIR",
+          "pos": "verbo",
+          "context": "El cofundador de Arm quiso advertir al mundo sobre los riesgos de la inteligencia artificial.",
+          "definition_es": "Decirle a alguien que hay un peligro o problema posible.",
+          "definition_en": "To warn; to tell someone about a possible danger or problem."
+        },
+        {
+          "word": "frustrado",
+          "syllables": "frus-TRA-do",
+          "pos": "adjetivo",
+          "context": "Los consumidores frustrados decidieron gastar menos dinero en las tiendas.",
+          "definition_es": "Sentirse molesto porque algo no funciona como uno quiere.",
+          "definition_en": "Frustrated; feeling annoyed because something is not working as desired."
+        },
+        {
+          "word": "revolución",
+          "syllables": "re-vo-lu-CIÓN",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial representa una revolución tecnológica muy importante.",
+          "definition_es": "Un cambio muy grande e importante en la sociedad o en la tecnología.",
+          "definition_en": "A revolution; a very large and important change in society or technology."
+        },
+        {
+          "word": "administración",
+          "syllables": "ad-mi-nis-tra-CIÓN",
+          "pos": "sustantivo",
+          "context": "La administración Trump publicó una lista de personas investigadas.",
+          "definition_es": "El gobierno o grupo de personas que dirigen un país u organización.",
+          "definition_en": "Administration; the government or group of people who manage a country or organization."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'consumidor'?",
+          "options": [
+            "Una persona que vende productos en una tienda",
+            "Una persona que compra productos o servicios",
+            "Un experto en economía",
+            "Un empleado del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "En economía, ¿qué es una 'burbuja'?",
+          "options": [
+            "Un producto nuevo y popular en las tiendas",
+            "Una inversión muy segura y estable",
+            "Una situación donde los precios suben demasiado y después caen rápidamente",
+            "Un tipo de empresa de tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'advertir'?",
+          "options": [
+            "Celebrar un éxito importante",
+            "Comprar algo en una tienda",
+            "Decirle a alguien que hay un peligro o problema posible",
+            "Publicar una lista de personas"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "Si alguien está 'frustrado', ¿cómo se siente?",
+          "options": [
+            "Muy feliz y contento",
+            "Molesto porque algo no funciona como quiere",
+            "Sorprendido por una noticia importante",
+            "Cansado después de trabajar mucho"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿quién es James Comey?",
+          "options": [
+            "El presidente de Estados Unidos",
+            "Un economista importante",
+            "El exdirector del FBI",
+            "El cofundador de una empresa de tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿qué dicen los críticos sobre la lista de Trump?",
+          "options": [
+            "Dicen que es necesaria y justa",
+            "Dicen que es un abuso de poder",
+            "Dicen que la lista es demasiado corta",
+            "Dicen que el FBI debe publicar la lista"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿por qué los consumidores gastan menos dinero?",
+          "options": [
+            "Porque no hay productos en las tiendas",
+            "Porque los precios siguen siendo muy altos y están frustrados",
+            "Porque prefieren comprar en internet",
+            "Porque el gobierno les prohibió gastar"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿en qué tipo de productos bajaron más las ventas?",
+          "options": [
+            "En comida y servicios básicos",
+            "En medicamentos y productos de salud",
+            "En ropa, electrónica y muebles",
+            "En viajes y hoteles"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿quién es Hermann Hauser?",
+          "options": [
+            "El director del FBI",
+            "Un político americano importante",
+            "El cofundador de la empresa tecnológica Arm",
+            "Un economista del gobierno de Estados Unidos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué pasó en el año 2000 que Hauser menciona como ejemplo?",
+          "options": [
+            "La inteligencia artificial cambió el mundo completamente",
+            "El gobierno americano publicó una lista de empresas",
+            "Las empresas de internet perdieron mucho dinero cuando la burbuja explotó",
+            "Los consumidores dejaron de comprar productos tecnológicos"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-15T09:06:44.723728"
+    },
+    {
       "date": "2026-08-14",
       "filename": "spanish_lesson_2026-08-14.pdf",
       "path": "pdfs/spanish_lesson_2026-08-14.pdf",
@@ -53290,7 +53512,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-14T09:23:01.674814",
+  "last_updated": "2026-08-15T09:06:44.723804",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
