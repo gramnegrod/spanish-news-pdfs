@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-17",
+      "filename": "spanish_lesson_2026-08-17.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-17.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Congreso aprueba una ley y termina el cierre histórico del gobierno",
+          "headline_en": "Congress passes a law and ends the historic government shutdown",
+          "body_es": "La Cámara de Representantes de los Estados Unidos aprobó una ley importante esta semana. Esta ley da dinero al Departamento de Seguridad Nacional, conocido como DHS. Con esta decisión, el cierre parcial del gobierno llegó a su fin. Este fue el cierre más largo de la historia del país. Durante el cierre, muchos empleados del gobierno no recibieron su salario. Trabajadores de aeropuertos, agencias federales y otros servicios públicos fueron afectados. El cierre comenzó porque los legisladores no podían llegar a un acuerdo sobre el presupuesto. Después de semanas de negociaciones difíciles, finalmente encontraron una solución. Los senadores y representantes votaron a favor de la nueva ley. El presidente firmó la ley poco después. Los empleados del gobierno van a recibir su dinero de nuevo. Muchos ciudadanos están felices porque los servicios públicos pueden funcionar con normalidad otra vez. Este momento es muy importante para la política estadounidense.",
+          "body_en": "The United States House of Representatives passed an important law this week. This law provides funding to the Department of Homeland Security, known as DHS. With this decision, the partial government shutdown came to an end. This was the longest shutdown in the country's history. During the shutdown, many government employees did not receive their salaries. Workers at airports, federal agencies, and other public services were affected. The shutdown began because lawmakers could not reach an agreement on the budget. After weeks of difficult negotiations, they finally found a solution. Senators and representatives voted in favor of the new law. The president signed the law shortly after. Government employees will receive their money again. Many citizens are happy because public services can function normally once more. This moment is very important for American politics.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La bolsa alcanza niveles históricos: ¿es buen momento para invertir?",
+          "headline_en": "The stock market reaches historic levels: is it a good time to invest?",
+          "body_es": "Los mercados financieros de Estados Unidos están en niveles muy altos. Las acciones de muchas empresas tienen precios récord en este momento. Esto significa que la economía parece estar muy fuerte. Pero los expertos no están de acuerdo sobre qué hacer ahora. Algunos analistas son optimistas. Ellos creen que los precios pueden subir más todavía. Dicen que la economía americana es sólida y que las empresas ganan mucho dinero. Estos expertos recomiendan invertir ahora. Pero otros analistas son más pesimistas. Ellos piensan que los precios están demasiado altos. Creen que pronto puede haber una corrección y que los precios van a bajar. Para los inversores, esta situación es complicada. Invertir en la bolsa siempre tiene riesgos. Los expertos recomiendan estudiar bien las opciones antes de tomar una decisión. Lo más importante es no invertir dinero que necesitas para vivir. La paciencia es clave en el mundo de las inversiones.",
+          "body_en": "The US financial markets are at very high levels. Shares in many companies have record prices right now. This means the economy appears to be very strong. But experts do not agree on what to do now. Some analysts are optimistic. They believe prices can still go even higher. They say the American economy is solid and that companies are earning a lot of money. These experts recommend investing now. But other analysts are more pessimistic. They think prices are too high. They believe a correction may come soon and that prices will fall. For investors, this situation is complicated. Investing in the stock market always carries risks. Experts recommend studying the options carefully before making a decision. The most important thing is not to invest money you need to live on. Patience is key in the world of investments.",
+          "source": "Business Insider"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Expertos del Banco Central Europeo advierten: el mercado de IA puede caer pronto",
+          "headline_en": "European Central Bank experts warn: the AI market may fall soon",
+          "body_es": "El Banco Central Europeo, conocido como BCE, publicó un artículo importante esta semana. En ese artículo, sus expertos predicen que el mercado de inteligencia artificial puede tener problemas pronto. Según ellos, los precios de las empresas de IA están demasiado altos en este momento. Los inversores han puesto muchísimo dinero en compañías de inteligencia artificial. Empresas como las que desarrollan chatbots y sistemas automáticos tienen valores muy grandes. Pero el BCE cree que estos valores no reflejan la realidad económica. Por eso, predicen que va a haber una corrección en el mercado. Una corrección significa que los precios van a bajar de forma significativa. Esto puede afectar a muchos inversores que compraron acciones de empresas de IA. No todos los expertos están de acuerdo con esta predicción. Algunos piensan que la inteligencia artificial es tan importante que los precios altos están justificados. El debate continúa entre los especialistas del mundo financiero.",
+          "body_en": "The European Central Bank, known as the ECB, published an important article this week. In that article, its experts predict that the artificial intelligence market may face problems soon. According to them, the prices of AI companies are too high at this moment. Investors have put enormous amounts of money into artificial intelligence companies. Companies that develop chatbots and automated systems have very large valuations. But the ECB believes these values do not reflect economic reality. Because of this, they predict there will be a market correction. A correction means that prices will fall significantly. This could affect many investors who bought shares in AI companies. Not all experts agree with this prediction. Some think that artificial intelligence is so important that the high prices are justified. The debate continues among specialists in the financial world.",
+          "source": "Reuters"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "aprobar",
+          "syllables": "a-pro-BAR",
+          "pos": "verbo",
+          "context": "La Cámara de Representantes aprobó una ley para financiar el gobierno.",
+          "definition_es": "Dar permiso oficial a algo; aceptar una ley o propuesta",
+          "definition_en": "To approve; to pass a law or proposal"
+        },
+        {
+          "word": "cierre parcial",
+          "syllables": "CIE-rre par-CIAL",
+          "pos": "sustantivo",
+          "context": "El cierre parcial del gobierno duró muchas semanas.",
+          "definition_es": "Cuando parte del gobierno deja de funcionar por falta de dinero",
+          "definition_en": "Partial shutdown; when part of the government stops working due to lack of funding"
+        },
+        {
+          "word": "inversión",
+          "syllables": "in-ver-SIÓN",
+          "pos": "sustantivo",
+          "context": "Muchas personas quieren hacer una inversión en la bolsa ahora mismo.",
+          "definition_es": "Poner dinero en algo para ganar más dinero en el futuro",
+          "definition_en": "Investment; putting money into something to earn more in the future"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "Las acciones de las empresas tecnológicas están en niveles muy altos.",
+          "definition_es": "Partes pequeñas de una empresa que se pueden comprar y vender",
+          "definition_en": "Stocks; shares of a company that can be bought and sold"
+        },
+        {
+          "word": "corrección",
+          "syllables": "co-rrec-CIÓN",
+          "pos": "sustantivo",
+          "context": "Los expertos predicen una corrección en el mercado de inteligencia artificial.",
+          "definition_es": "Una bajada importante en los precios del mercado financiero",
+          "definition_en": "Market correction; a significant drop in financial market prices"
+        },
+        {
+          "word": "predecir",
+          "syllables": "pre-de-CIR",
+          "pos": "verbo",
+          "context": "El Banco Central Europeo predice cambios grandes en el mercado de IA.",
+          "definition_es": "Decir lo que va a pasar en el futuro antes de que ocurra",
+          "definition_en": "To predict; to say what will happen in the future"
+        },
+        {
+          "word": "financiar",
+          "syllables": "fi-nan-CIAR",
+          "pos": "verbo",
+          "context": "El Congreso votó para financiar el Departamento de Seguridad Nacional.",
+          "definition_es": "Dar dinero para pagar algo, como un proyecto o una organización",
+          "definition_en": "To fund; to provide money for something"
+        },
+        {
+          "word": "récord",
+          "syllables": "RÉ-cord",
+          "pos": "sustantivo",
+          "context": "El cierre del gobierno fue el más largo de la historia, un verdadero récord.",
+          "definition_es": "El resultado más alto o más bajo que se ha logrado hasta ahora",
+          "definition_en": "Record; the highest or lowest result achieved so far"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'aprobar' en el contexto de una ley?",
+          "options": [
+            "Criticar una propuesta",
+            "Aceptar oficialmente una ley o propuesta",
+            "Cancelar un proyecto",
+            "Estudiar un documento"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué son las 'acciones' en el mundo financiero?",
+          "options": [
+            "Decisiones del gobierno",
+            "Partes de una empresa que se pueden comprar y vender",
+            "Tipos de impuestos",
+            "Contratos de trabajo"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa una 'corrección' en el mercado financiero?",
+          "options": [
+            "Un error en los cálculos económicos",
+            "Una nueva ley económica",
+            "Una bajada importante en los precios del mercado",
+            "Un aumento en los salarios"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado del verbo 'financiar'?",
+          "options": [
+            "Gastar dinero en cosas personales",
+            "Dar dinero para pagar algo o a alguien",
+            "Calcular los precios de un producto",
+            "Invertir en la bolsa de valores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿qué organización recibió dinero gracias a la nueva ley aprobada?",
+          "options": [
+            "El Congreso de los Estados Unidos",
+            "El Banco Central Europeo",
+            "El Departamento de Seguridad Nacional (DHS)",
+            "La Cámara de Comercio"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Por qué comenzó el cierre parcial del gobierno según la historia de Política?",
+          "options": [
+            "Por un ataque terrorista",
+            "Porque los legisladores no podían llegar a un acuerdo sobre el presupuesto",
+            "Por una decisión del presidente",
+            "Por problemas económicos internacionales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿qué recomiendan los expertos pesimistas sobre la bolsa?",
+          "options": [
+            "Invertir todo el dinero posible ahora",
+            "Comprar acciones de empresas tecnológicas",
+            "Tener cuidado porque los precios pueden bajar pronto",
+            "Mover el dinero a otros países"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿qué consejo importante dan los expertos a los inversores?",
+          "options": [
+            "Invertir solo en empresas de tecnología",
+            "No invertir dinero que necesitas para vivir",
+            "Comprar acciones del gobierno",
+            "Esperar cinco años antes de invertir"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué organización predice una corrección en el mercado de IA?",
+          "options": [
+            "El Congreso de los Estados Unidos",
+            "La Reserva Federal de Estados Unidos",
+            "El Banco Central Europeo (BCE)",
+            "La Organización Mundial del Comercio"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Por qué el BCE cree que los precios de las empresas de IA son demasiado altos?",
+          "options": [
+            "Porque las empresas no tienen empleados suficientes",
+            "Porque los valores no reflejan la realidad económica",
+            "Porque la tecnología de IA no funciona bien",
+            "Porque el gobierno quiere controlar esas empresas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-17T09:13:55.310758"
+    },
+    {
       "date": "2026-08-16",
       "filename": "spanish_lesson_2026-08-16.pdf",
       "path": "pdfs/spanish_lesson_2026-08-16.pdf",
@@ -53734,7 +53956,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-16T09:06:53.534877",
+  "last_updated": "2026-08-17T09:13:55.310836",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
