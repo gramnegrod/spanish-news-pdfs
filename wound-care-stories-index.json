@@ -1,11 +1,196 @@
 {
-  "date": "2026-08-16",
-  "generated_at": "2026-08-16T09:09:53.832630Z",
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T09:19:04.560715Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 982,
-  "new_today": 4,
+  "total_stories": 987,
+  "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20260817",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevos apósitos inteligentes para curar heridas crónicas",
+      "headline_en": "New Smart Dressings for Chronic Wound Healing",
+      "summary_es": "Los investigadores desarrollan vendajes inteligentes que monitorean y ayudan a curar heridas crónicas. Estos apósitos nuevos cambian de pasivos a inteligentes.",
+      "body_es": "Las heridas crónicas son un problema importante en los hospitales. Los vendajes tradicionales solo protegen la herida. Los nuevos apósitos inteligentes hacen más. Estos apósitos monitorean la herida. Miden el fluido de la herida. Detectan infecciones. Los apósitos usan tecnología teranostica. Esto significa que diagnostican y tratan al mismo tiempo. El apósito entra en contacto con la piel dañada. Contiene materiales que liberan medicamentos. El paciente recibe tratamiento continuo. Los enfermeros ven datos en tiempo real. Pueden cambiar el apósito cuando es necesario. Esta tecnología mejora la curación. Las heridas sanan más rápido. Hay menos complicaciones e infecciones. Los investigadores continúan mejorando estos vendajes. Pronto estarán disponibles en más hospitales.",
+      "body_en": "Chronic wounds are an important problem in hospitals. Traditional dressings only protect the wound. The new smart dressings do more. These dressings monitor the wound. They measure wound fluid. They detect infections. The dressings use theranostic technology. This means they diagnose and treat at the same time. The dressing contacts damaged skin. It contains materials that release medications. The patient receives continuous treatment. Nurses see data in real time. They can change the dressing when necessary. This technology improves healing. Wounds heal faster. There are fewer complications and infections. Researchers continue improving these dressings. Soon they will be available in more hospitals.",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMXdmSTRxMy1CWWJYa1o1ckJJU0tHMzdoUnJybXpOTmI3VW44NExob0dBa2Q1RjRzNVhFUjd2VUg5aTcwaXRPWnk1aEtUNktsWVBhSjcxeXRWemtYNmJobDVVS2ZfQkhrb0RGZ2wxbmRmN1dKV2g4Qy1sdV9GWEZNWGZ4MFE5cjA4SDYtT2xpSE15dzZSakczaEdJNEttd0JCSzRRV19EZDdjT2xfcUpIS3gyZ1hBZkt1WDNuUzZsUWp4VUVRVHpVSzVEeWpHMjJld3pPLURlWTl2VHc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-17/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "vendaje o material que cubre una herida",
+          "definition_en": "dressing - bandage or material that covers a wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes from a wound"
+        },
+        {
+          "word": "teranostico",
+          "definition_es": "tecnología que diagnostica y trata al mismo tiempo",
+          "definition_en": "theranostic - technology that diagnoses and treats simultaneously"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        }
+      ],
+      "added_at": "2026-08-17T09:19:04.560715Z"
+    },
+    {
+      "id": "diabetic-foot-20260817",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "purple",
+      "headline_es": "Prevención de amputación en pacientes con pie diabético",
+      "headline_en": "Prevention of Amputation in Diabetic Foot Patients",
+      "summary_es": "Los profesionales médicos enfatizan la importancia de prevenir pérdida de miembros en pacientes con complicaciones del pie diabético mediante detección temprana y tratamiento adecuado.",
+      "body_es": "El pie diabético representa una de las complicaciones más serias de la diabetes. Las lesiones en el pie pueden llevar a infecciones graves y, en casos extremos, a la amputación del miembro. Los especialistas en cuidado de heridas advierten que la prevención es fundamental. Los pacientes diabéticos deben examinar sus pies diariamente para detectar úlceras, ampollas o cambios en la piel. Una úlcera pequeña puede desarrollarse rápidamente si no recibe tratamiento inmediato. El control glucémico es esencial para evitar complicaciones. Los enfermeros y médicos deben educar a los pacientes sobre la importancia del cuidado diario. La evaluación regular de la circulación y la sensibilidad nerviosa permite identificar riesgos temprano. El desbridamiento de tejido necrótico y el uso de apósitos especiales son tratamientos efectivos. Cuando se detecta una úlcera en las primeras etapas, el riesgo de amputación disminuye significativamente. La prevención de pérdida de miembros mejora la calidad de vida y la independencia del paciente.",
+      "body_en": "Diabetic foot represents one of the most serious complications of diabetes. Foot injuries can lead to severe infections and, in extreme cases, to limb amputation. Wound care specialists warn that prevention is essential. Diabetic patients should examine their feet daily to detect ulcers, blisters, or skin changes. A small ulcer can develop rapidly without immediate treatment. Blood glucose control is essential to prevent complications. Nurses and physicians must educate patients about the importance of daily foot care. Regular evaluation of circulation and nerve sensitivity allows early identification of risks. Debridement of necrotic tissue and use of special dressings are effective treatments. When an ulcer is detected in early stages, amputation risk decreases significantly. Prevention of limb loss improves patient quality of life and independence.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDc4WFE4RFpEMXZGNjVBMTNHdW1LeE1IRUtBWDZIclB1LWxOSzl1S3lWT2VJMDB6QUxqRDdWS1RVZU5yNFVYQllrQkpJTHZpTGRlRUx3REZsLTRDOU1LNVhFOG5ha0xnNnBCY1pLTHJJLWctNDVXTEFvNkZfUG5SdEM3QjBCemdLdm5kUFViOUt6Z0NiSXdoZXZJMkVKQVpCcFZMMG5PS09KdHNvRFM4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-17/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel que no cicatriza",
+          "definition_en": "ulcer - open wound on skin that does not heal"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "remoción de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte del tejido en el cuerpo viviente",
+          "definition_en": "necrosis - death of tissue in living body"
+        },
+        {
+          "word": "circulación",
+          "definition_es": "movimiento de sangre por las venas y arterias",
+          "definition_en": "circulation - movement of blood through veins and arteries"
+        }
+      ],
+      "added_at": "2026-08-17T09:19:04.560715Z"
+    },
+    {
+      "id": "burn-care-20260817",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "AVITA Medical reanuda el crecimiento en tratamientos de quemaduras",
+      "headline_en": "AVITA Medical Resumes Growth in Burn Treatments",
+      "summary_es": "AVITA Medical presenta avances en el crecimiento de la empresa durante la conferencia Canaccord, enfocándose en nuevas tecnologías de regeneración de piel para pacientes con quemaduras.",
+      "body_es": "AVITA Medical ha presentado resultados positivos en su conferencia de crecimiento Canaccord. La empresa desarrolla tecnologías innovadoras para el tratamiento de quemaduras y heridas traumáticas. El cuidado de quemaduras requiere enfoque multidisciplinario y apósitos avanzados. Las quemaduras profundas afectan múltiples capas de piel: la epidermis y la dermis. El tratamiento temprano previene infecciones y complicaciones severas. Los apósitos especializados mantienen el ambiente óptimo para la curación. La regeneración de tejido nuevo es crucial para restaurar la función y estética. AVITA Medical utiliza tecnología de células vivas para acelerar la cicatrización. Este tratamiento reduce el tiempo de hospitalización y mejora los resultados clínicos. Los enfermeros deben evaluar regularmente el progreso de la epitelización. El exudado y los signos de infección se monitorean constantemente. La empresa ha mostrado crecimiento sostenido en investigación y desarrollo. Estos avances prometen mejorar significativamente los resultados en pacientes quemados.",
+      "body_en": "AVITA Medical has presented positive results at its Canaccord Growth Conference. The company develops innovative technologies for treating burns and traumatic wounds. Burn care requires a multidisciplinary approach and advanced dressings. Deep burns affect multiple skin layers: the epidermis and dermis. Early treatment prevents infections and severe complications. Specialized dressings maintain the optimal environment for healing. Regeneration of new tissue is crucial to restore function and aesthetics. AVITA Medical uses live cell technology to accelerate scarring. This treatment reduces hospitalization time and improves clinical outcomes. Nurses must regularly evaluate the progress of epithelialization. Exudate and signs of infection are constantly monitored. The company has shown sustained growth in research and development. These advances promise to significantly improve outcomes in burn patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3N6cVFMczk1UjJhNTJzZmVhWVpjWXRwWXcyZVVkeWRZdnhoMk5ONzVPVGtfMlp1Wkx3aGxheTB5c2dvMjRJN0hzV3p4YWZuQzZYZVdPQ3N5MDRBY0lPSXNDX3NpS3NZOXNwcWJmb09OMlVEQTRoZTV0UTJZVjNwQ0h1bmhPa0hLUVJBU0dxbWZNRXVpazdnUjBfRTdZQlhoVjBfTVptaVRJcXJEbWdPRUF1VWpaQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-17/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemical substances"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de nueva piel sobre una herida",
+          "definition_en": "epithelialization - formation of new skin over a wound"
+        },
+        {
+          "word": "epidermis",
+          "definition_es": "capa externa de la piel",
+          "definition_en": "epidermis - outer layer of skin"
+        },
+        {
+          "word": "dermis",
+          "definition_es": "capa media de la piel bajo la epidermis",
+          "definition_en": "dermis - middle layer of skin beneath epidermis"
+        }
+      ],
+      "added_at": "2026-08-17T09:19:04.560715Z"
+    },
+    {
+      "id": "surgical-wounds-20260817",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Miastenia gravis como predictor de complicaciones en cirugía del timo",
+      "headline_en": "Myasthenia Gravis as Predictor of Thymus Surgery Complications",
+      "summary_es": "Un estudio identifica que la miastenia gravis es un factor importante que predice complicaciones en pacientes sometidos a cirugía del timo, requiriendo cuidados especiales postoperatorios.",
+      "body_es": "La miastenia gravis es una enfermedad neuromuscular que afecta la función muscular. Muchos pacientes con esta condición requieren cirugía del timo para mejorar sus síntomas. Un estudio reciente identifica que la miastenia gravis es el predictor más importante de complicaciones postoperatorias. Los pacientes con esta enfermedad tienen mayor riesgo de infecciones en la herida quirúrgica. La evaluación preoperatoria debe ser exhaustiva para identificar factores de riesgo. Durante la cirugía del timo, se crea una herida que requiere sutura cuidadosa. El cuidado postoperatorio de la herida es fundamental para prevenir complicaciones. Los enfermeros deben monitorear signos de infección: eritema, calor, exudado purulento o dehiscencia. La evaluación regular de la herida permite detectar problemas temprano. El desbridamiento de tejido necrótico puede ser necesario si la herida no cicatriza adecuadamente. Los apósitos especializados mantienen un ambiente óptimo para la curación. Los pacientes con miastenia gravis necesitan protocolos específicos de cuidado. La cicatrización adecuada es esencial para evitar complicaciones a largo plazo.",
+      "body_en": "Myasthenia gravis is a neuromuscular disease affecting muscle function. Many patients with this condition require thymus surgery to improve their symptoms. A recent study identifies myasthenia gravis as the most important predictor of postoperative complications. Patients with this disease have higher risk of surgical wound infections. Preoperative evaluation must be thorough to identify risk factors. During thymus surgery, a wound is created requiring careful suturing. Postoperative wound care is essential to prevent complications. Nurses must monitor signs of infection: erythema, warmth, purulent exudate, or dehiscence. Regular wound evaluation allows early detection of problems. Debridement of necrotic tissue may be necessary if the wound does not heal properly. Specialized dressings maintain an optimal environment for healing. Patients with myasthenia gravis need specific care protocols. Proper healing is essential to prevent long-term complications.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQU9IbUlYMHFrWHJ5NTc1Sm9TVEd2MHhEbFpvOGxiQ0hYVUxvLXYwNUJFakV3LWtwaHludWxsTFJKYUxZckhxUVU2NU5iNWRWa2xLZ3NHa2FmaVI5ek5NcFV3WjNQUUpOTlI3TFBJMkw1el9SLTRtcC1ramliMTlWbGlsWk85UTdTcHd3eDV5OUJKZUtlNGNR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-17/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dehiscencia",
+          "definition_es": "apertura o separación de una sutura quirúrgica",
+          "definition_en": "dehiscence - opening or separation of surgical sutures"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel causado por inflamación o infección",
+          "definition_en": "erythema - redness of skin caused by inflammation or infection"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "material usado para cerrar una herida quirúrgica",
+          "definition_en": "suture - material used to close a surgical wound"
+        },
+        {
+          "word": "postoperatorio",
+          "definition_es": "período después de una operación quirúrgica",
+          "definition_en": "postoperative - period after surgery"
+        }
+      ],
+      "added_at": "2026-08-17T09:19:04.560715Z"
+    },
+    {
+      "id": "wound-research-20260817",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "green",
+      "headline_es": "Investigación en curación de heridas mediante innovación biomédica",
+      "headline_en": "Wound Healing Research Through Biomedical Innovation",
+      "summary_es": "Los investigadores continúan desarrollando nuevas estrategias para mejorar la curación de heridas utilizando tecnología biomédica avanzada y enfoque multidisciplinario.",
+      "body_es": "La investigación en curación de heridas es un campo dinámico que integra medicina, ingeniería y biología. Los estudios recientes demuestran que la innovación biomédica puede transformar el tratamiento de heridas complejas. Los investigadores exploran múltiples enfoques para acelerar la epitelización y la formación de nuevo tejido. La tecnología de andamios tisulares permite cultivar tejido nuevo en laboratorio. Estos avances facilitan la regeneración de tejido dañado o perdido. El monitoreo continuo de variables como el pH, la humedad y la temperatura es crucial. Los apósitos inteligentes envían datos a dispositivos móviles para seguimiento remoto. La investigación también examina el rol de factores de crecimiento en la cicatrización. Las citoquinas y proteínas especializadas regulan el proceso de curación a nivel celular. Los estudios clínicos evalúan la eficacia de nuevos tratamientos en pacientes reales. La colaboración entre instituciones académicas y empresas acelera la innovación. Los resultados prometen mejorar significativamente los resultados clínicos y la calidad de vida. La inversión en investigación de heridas es fundamental para resolver este problema de salud global.",
+      "body_en": "Wound healing research is a dynamic field integrating medicine, engineering, and biology. Recent studies demonstrate that biomedical innovation can transform treatment of complex wounds. Researchers explore multiple approaches to accelerate epithelialization and new tissue formation. Tissue scaffold technology allows cultivation of new tissue in the laboratory. These advances facilitate regeneration of damaged or lost tissue. Continuous monitoring of variables such as pH, humidity, and temperature is crucial. Smart dressings send data to mobile devices for remote monitoring. Research also examines the role of growth factors in wound healing. Cytokines and specialized proteins regulate the healing process at cellular level. Clinical trials evaluate effectiveness of new treatments in real patients. Collaboration between academic institutions and companies accelerates innovation. Results promise to significantly improve clinical outcomes and quality of life. Investment in wound healing research is fundamental to solving this global health problem.",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTg4dzF6U1plYXFZTWJQdHlmRzJwcVp3S0lpWlEtZE9CYzhwcE55cWJfaThfd2J4OEtsZUdwRjRXb3lkNHVUSWNSOHFYby04N3dEa2o1dnY1R09JZUkxX3RUcEdMZk9rdnJuanZnbXVINUpCSUdXQWpUMWdNR29NTTZiYXoweFg5XzhuVUNtc3I?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-17/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "andamio tisular",
+          "definition_es": "estructura que soporta el crecimiento de nuevo tejido",
+          "definition_en": "tissue scaffold - structure that supports growth of new tissue"
+        },
+        {
+          "word": "citoquina",
+          "definition_es": "proteína que regula la inflamación y curación",
+          "definition_en": "cytokine - protein that regulates inflammation and healing"
+        },
+        {
+          "word": "granulación",
+          "definition_es": "formación de tejido nuevo rojo y granular en heridas",
+          "definition_en": "granulation - formation of new red granular tissue in wounds"
+        },
+        {
+          "word": "biomédica",
+          "definition_es": "aplicación de principios biológicos y médicos en tecnología",
+          "definition_en": "biomedical - application of biological and medical principles in technology"
+        }
+      ],
+      "added_at": "2026-08-17T09:19:04.560715Z"
+    },
     {
       "id": "chronic-wounds-20260816",
       "category": "Chronic Wounds",
@@ -36335,6 +36520,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-16T09:09:53.832630Z",
+  "last_updated": "2026-08-17T09:19:04.560715Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
