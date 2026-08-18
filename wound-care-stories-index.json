@@ -1,11 +1,196 @@
 {
-  "date": "2026-08-17",
-  "generated_at": "2026-08-17T09:19:04.560715Z",
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T09:13:30.230893Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 987,
+  "total_stories": 992,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250818",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Holy Cross Recibe Reconocimiento por Programa de Cicatrización de Heridas",
+      "headline_en": "Holy Cross Receives Recognition for Wound Healing Program",
+      "summary_es": "El programa de cicatrización de heridas e hiperbáricos de Holy Cross en Florida recibió el reconocimiento de Centro de Distinción 2025 por Healogics.",
+      "body_es": "Holy Cross Wound Healing and Hyperbarics Program en Florida es ahora un Centro de Distinción 2025 según Healogics. Este reconocimiento es muy importante para el hospital. El programa trata heridas crónicas que no cicatrizan normalmente. Los médicos usan tratamientos especiales como la terapia hiperbárica. La hiperbárica usa oxígeno en alta presión. Esta terapia ayuda a cicatrizar heridas difíciles. El equipo de enfermeras y especialistas trabaja con pacientes todos los días. El programa de Holy Cross cuida úlceras por presión, heridas diabéticas y lesiones complicadas. La cicatrización es un proceso importante. Cada paciente recibe un plan de curación personalizado.",
+      "body_en": "Holy Cross Wound Healing and Hyperbarics Program in Florida is now a 2025 Center of Distinction according to Healogics. This recognition is very important for the hospital. The program treats chronic wounds that do not heal normally. Doctors use special treatments like hyperbaric therapy. Hyperbaric therapy uses oxygen at high pressure. This therapy helps difficult wounds heal. The team of nurses and specialists works with patients every day. The Holy Cross program cares for pressure ulcers, diabetic wounds, and complicated injuries. Healing is an important process. Each patient receives a personalized treatment plan.",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjViOGF2amR2Ym9jT2xlTXNDYlkyWXFWTnZuY2lGX2cwaHhWSnpROUFDLTVqOTlmTmV5Y3NtXzdjRnd3TkgzYnFzUGJjaWNYS3ZxZE9KS3dHYWppVHliTTQ3Sm1XTDhsZXA1TXRKYU1FdGJuOUJvNFRnc25wVFdqbVNiX1o3TjR4U1Vpa3hYTzhudS1sVGhWa2JIOXg3SnY2RzlULWphNnY3aE83Z1dQbFlTM055QXpkdkg0VzhSeFNYV28yMFc1ektHa2lJUTA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-18/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de una herida",
+          "definition_en": "healing - process of wound recovery"
+        },
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "terapia hiperbárica",
+          "definition_es": "tratamiento con oxígeno a alta presión",
+          "definition_en": "hyperbaric therapy - treatment with high-pressure oxygen"
+        },
+        {
+          "word": "úlcera por presión",
+          "definition_es": "herida en la piel por presión prolongada",
+          "definition_en": "pressure ulcer - skin wound from prolonged pressure"
+        }
+      ],
+      "added_at": "2026-08-18T09:13:30.230893Z"
+    },
+    {
+      "id": "diabetic-foot-20250818",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "amber",
+      "headline_es": "Previniendo la Pérdida de Extremidades en Complicaciones del Pie Diabético",
+      "headline_en": "Preventing Limb Loss from Diabetic Foot Complications",
+      "summary_es": "Los profesionales de salud están desarrollando estrategias para prevenir la amputación en pacientes con complicaciones del pie diabético.",
+      "body_es": "Las complicaciones del pie diabético representan un riesgo grave de pérdida de extremidades. Los profesionales de enfermería y médicos trabajan juntos para identificar lesiones tempranamente. El pie diabético desarrolla úlceras que pueden infectarse rápidamente si no se tratan adecuadamente. La evaluación regular incluye examinar la sensibilidad, circulación y presencia de heridas. Los pacientes necesitan educación continua sobre el cuidado diario de los pies. La higiene, el calzado apropiado y el control de la glucosa son fundamentales. Las infecciones en heridas diabéticas pueden llevar a gangrena y necrosis de tejidos. El desbridamiento quirúrgico es necesario cuando hay tejido muerto. La prevención es más efectiva que el tratamiento de complicaciones avanzadas. Los centros especializados ofrecen programas multidisciplinarios para salvar extremidades.",
+      "body_en": "Diabetic foot complications represent a serious risk of limb loss. Nursing professionals and physicians work together to identify injuries early. Diabetic feet develop ulcers that can become infected quickly if not treated properly. Regular evaluation includes examining sensitivity, circulation, and presence of wounds. Patients need continuous education about daily foot care. Hygiene, appropriate footwear, and blood glucose control are fundamental. Infections in diabetic wounds can lead to gangrene and tissue necrosis. Surgical debridement is necessary when dead tissue is present. Prevention is more effective than treating advanced complications. Specialized centers offer multidisciplinary programs to save limbs.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDc4WFE4RFpEMXZGNjVBMTNHdW1LeE1IRUtBWDZIclB1LWxOSzl1S3lWT2VJODA6QUxqRDdWS1RVZU5yNFVYQllrQkpJTHZpTGRlRUx3REZsLTRDOU1LNVhFOG5ha0xnNnBCY1pLTHJJLWctNDVXTEFvNkZfUG5SdEM3QjBCemdLdm5kUFViOUt6Z0NiSXdoZXZJMkVKQVpCcFZMMG5PS09KdHNvRFM4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-18/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera diabética",
+          "definition_es": "herida abierta en el pie de persona con diabetes",
+          "definition_en": "diabetic ulcer - open wound on foot of diabetic patient"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "extirpación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        },
+        {
+          "word": "gangrena",
+          "definition_es": "muerte de tejido por falta de circulación",
+          "definition_en": "gangrene - tissue death from lack of circulation"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "reducción de flujo sanguíneo a una zona",
+          "definition_en": "ischemia - reduced blood flow to an area"
+        }
+      ],
+      "added_at": "2026-08-18T09:13:30.230893Z"
+    },
+    {
+      "id": "burn-care-20250818",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "AVITA Medical Avanza Hacia Rentabilidad con Crecimiento de Ingresos",
+      "headline_en": "AVITA Medical Advances Toward Profitability with Revenue Growth",
+      "summary_es": "AVITA Medical reporta progreso significativo en el desarrollo de tecnologías para tratamiento de quemaduras y heridas complejas.",
+      "body_es": "AVITA Medical, empresa especializada en soluciones innovadoras para quemaduras y heridas complejas, continúa expandiendo su cartera de productos. La compañía se enfoca en tecnologías de regeneración celular para acelerar la cicatrización. Durante la conferencia de crecimiento Canaccord, AVITA presentó datos sobre eficacia clínica de sus tratamientos. El objetivo es alcanzar equilibrio de flujo de caja en el cuarto trimestre de 2025. Las quemaduras requieren cuidados especializados para minimizar cicatrices y restaurar función. Los apósitos avanzados permiten mejor control de exudado y promoción de epitelización. El equipo médico evalúa profundidad de quemadura, extensión de área afectada y riesgo de infección. Los tratamientos de AVITA utilizan células autólogas para optimizar regeneración de tejido. La investigación continua mejora resultados clínicos para pacientes con quemaduras graves.",
+      "body_en": "AVITA Medical, a company specializing in innovative solutions for burns and complex wounds, continues to expand its product portfolio. The company focuses on cellular regeneration technologies to accelerate healing. During the Canaccord growth conference, AVITA presented data on clinical effectiveness of its treatments. The goal is to reach cash flow breakeven in the fourth quarter of 2025. Burns require specialized care to minimize scarring and restore function. Advanced dressings allow better control of exudate and promotion of epithelialization. The medical team evaluates burn depth, extent of affected area, and infection risk. AVITA treatments utilize autologous cells to optimize tissue regeneration. Ongoing research improves clinical outcomes for patients with severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSHBsMTk1ZHd0bU54YWlyaWZYQVg3MkdxOGtmc0VpcC1UNHdHMmFKeWZfNFNJemZWWURlcVBDcVU1aG5hVnJsR253T2Q1elR4NFhxRC1oYU5IdkwxdWtkVDRYeXZNXzhoYUtGZU10MGhpMlJQUFk2bFdhU19DQUQ5eXk5all3VzVKMl9qWGJhekFNZVFEVzVacGFKazlQXzVNT0UtTnlMOFZTUGp1Tkc4YTVDVGptWlN4ZFN6bUVYN3UzVkNDMEt3Vnh2a09neDkt?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-18/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión tisular causada por calor, fuego o radiación",
+          "definition_en": "burn - tissue injury caused by heat, fire, or radiation"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de células epiteliales durante cicatrización",
+          "definition_en": "epithelialization - formation of epithelial cells during healing"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida o tejido inflamado",
+          "definition_en": "exudate - fluid that seeps from wound or inflamed tissue"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que se aplica sobre herida para cubrirla",
+          "definition_en": "dressing - material applied over wound to cover it"
+        }
+      ],
+      "added_at": "2026-08-18T09:13:30.230893Z"
+    },
+    {
+      "id": "surgical-wounds-20250818",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Osteomielitis Crónica Asociada a Implantes: Reconstrucción Quirúrgica Avanzada",
+      "headline_en": "Chronic Implant-Associated Osteomyelitis: Advanced Surgical Reconstruction",
+      "summary_es": "Un caso clínico documenta el manejo exitoso de osteomielitis crónica del húmero distal mediante reconstrucción con colgajo miocutáneo.",
+      "body_es": "La osteomielitis crónica asociada a implantes presenta desafíos quirúrgicos significativos en la cicatrización de heridas post-operatorias. Esta complicación infecciosa requiere evaluación detallada de la vascularización del tejido óseo y de partes blandas. Los cirujanos deben realizar desbridamiento completo del tejido necrótico y material infectado antes de la reconstrucción. El colgajo miocutáneo del dorsal ancho proporciona aporte sanguíneo abundante para promover cicatrización. La técnica de reconstrucción pediculada mantiene la integridad de los vasos nutricios. La evaluación pre-operatoria incluye resonancia magnética para determinar extensión de la necrosis ósea. Durante el post-operatorio, el manejo de la herida quirúrgica es crítico para prevenir reinfección. Los apósitos antimicrobianos y antibióticos sistémicos se utilizan en forma combinada. El seguimiento prolongado evalúa epitelización completa y restauración funcional del miembro.",
+      "body_en": "Chronic implant-associated osteomyelitis presents significant surgical challenges in post-operative wound healing. This infectious complication requires detailed evaluation of bone tissue and soft tissue vascularization. Surgeons must perform complete debridement of necrotic tissue and infected material before reconstruction. The latissimus dorsi musculocutaneous flap provides abundant blood supply to promote healing. The pedicled reconstruction technique maintains integrity of nutrient vessels. Pre-operative evaluation includes magnetic resonance imaging to determine extent of bone necrosis. During post-operative care, surgical wound management is critical to prevent reinfection. Antimicrobial dressings and systemic antibiotics are used in combination. Extended follow-up evaluates complete epithelialization and functional restoration of the limb.",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTU5POHFRTjg3VkhBMWZOYThLcXhkLW9jOEppSlZxc3VtRFlHcGYzS3ZyN19DZ2xacFMyRVdPRk9pdmM4eERERW12Z2F6cHc3ZjBWbGhrOGEyR2RuZURQeS1PQnhEM1p2ZVNoR19kZVhxb29WczZ1WHoySEZUbWh4Vlh2b1dXN2xQMVlPcG9xVlpFUU9scjJfQmVUdWlOOHpvTUZTV3lISlhnNGdmU0xGbFV6N3IwTjZGNU92QTk3dmFDdFF3aUpyTm1aWW9RcHQxRDdrOFFFOWdmcU9aMFd1ZFpTWGJTOERVc1ZINTVja3FuNmVIYUdF?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-18/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "osteomielitis",
+          "definition_es": "infección del hueso y médula ósea",
+          "definition_en": "osteomyelitis - infection of bone and bone marrow"
+        },
+        {
+          "word": "colgajo",
+          "definition_es": "tejido quirúrgicamente transferido para reconstruir área dañada",
+          "definition_en": "flap - surgically transferred tissue to reconstruct damaged area"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de células y tejido vivo",
+          "definition_en": "necrosis - death of living cells and tissue"
+        },
+        {
+          "word": "vascularización",
+          "definition_es": "aporte de sangre a un tejido u órgano",
+          "definition_en": "vascularization - blood supply to tissue or organ"
+        }
+      ],
+      "added_at": "2026-08-18T09:13:30.230893Z"
+    },
+    {
+      "id": "wound-research-20250818",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Centro IMPOWR-YOU de Yale Integra Cuidado para Dolor Crónico y Adicción",
+      "headline_en": "Yale's IMPOWR-YOU Center Integrates Care for Chronic Pain and Addiction",
+      "summary_es": "Yale School of Medicine establece un nuevo centro que aborda la brecha en cuidado integrado para pacientes con trastorno por uso de opioides y dolor crónico.",
+      "body_es": "El Centro IMPOWR-YOU de la Escuela de Medicina de Yale representa un avance significativo en el tratamiento integrado de pacientes complejos. Los investigadores reconocen que el dolor crónico frecuentemente coexiste con trastorno por uso de opioides. Este centro multidisciplinario reúne especialistas en medicina del dolor, adicción y cuidado de heridas. La cicatrización de heridas se ve comprometida en pacientes con dolor crónico no controlado. El estrés prolongado y la medicación afectan la inflamación y la respuesta inmunológica. Los ensayos clínicos evalúan intervenciones integradas que mejoren tanto el dolor como la curación. La evaluación completa incluye historia médica, psicosocial y nivel de funcionalidad. Los apósitos especializados y terapias complementarias se adaptan a cada paciente. El equipo de investigación documenta tasas de cicatrización y calidad de vida a largo plazo. Este modelo colaborativo busca reducir complicaciones y mejorar resultados clínicos.",
+      "body_en": "The IMPOWR-YOU Center at Yale School of Medicine represents a significant advance in integrated treatment of complex patients. Researchers recognize that chronic pain frequently coexists with opioid use disorder. This multidisciplinary center brings together specialists in pain medicine, addiction, and wound care. Wound healing is compromised in patients with uncontrolled chronic pain. Prolonged stress and medication affect inflammation and immune response. Clinical trials evaluate integrated interventions that improve both pain and healing. Complete evaluation includes medical history, psychosocial factors, and functionality level. Specialized dressings and complementary therapies are adapted to each patient. The research team documents healing rates and quality of life long-term. This collaborative model seeks to reduce complications and improve clinical outcomes.",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalg2Ni1jM3RqbG5yd0JrUkJzaDk5d3JOY2pjQWlSdXZjd2RCTjNHTFJiMHVGbFJ1U0ZuclVpRU5BdDl4MFB6ZGdfd1lVZUN3MjBfZUZ6MmdDcFhwVjU4SFlEdEgtVDFSSW5yY3pkNXBhT0p6aFdDVjJzNmNHZUExVnFORTZRWk53SENvZnVmcWxRemROQ3VUbVZNeFRwTVlWeGZtUg?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-18/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "dolor crónico",
+          "definition_es": "dolor persistente que dura más de tres meses",
+          "definition_en": "chronic pain - persistent pain lasting more than three months"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso biológico de reparación de tejido lesionado",
+          "definition_en": "healing - biological process of repairing damaged tissue"
+        },
+        {
+          "word": "inflamación",
+          "definition_es": "respuesta del cuerpo a lesión caracterizada por calor y enrojecimiento",
+          "definition_en": "inflammation - body's response to injury with heat and redness"
+        },
+        {
+          "word": "ensayo clínico",
+          "definition_es": "estudio de investigación con participantes humanos",
+          "definition_en": "clinical trial - research study with human participants"
+        }
+      ],
+      "added_at": "2026-08-18T09:13:30.230893Z"
+    },
     {
       "id": "chronic-wounds-20260817",
       "category": "Chronic Wounds",
@@ -36520,6 +36705,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-17T09:19:04.560715Z",
+  "last_updated": "2026-08-18T09:13:30.230893Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
