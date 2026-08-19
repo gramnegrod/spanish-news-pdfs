@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-19",
+      "filename": "spanish_lesson_2026-08-19.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-19.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Nuevos Cambios Políticos Marcan el Rumbo de Estados Unidos",
+          "headline_en": "New Political Changes Shape the Direction of the United States",
+          "body_es": "El 19 de agosto de 2026, Estados Unidos vivió momentos importantes en su vida política. Los líderes del gobierno presentaron nuevas propuestas para mejorar los servicios públicos del país. Hubo debates entre los partidos sobre temas como la economía, la educación y la seguridad. Muchos ciudadanos siguieron las noticias con mucho interés. Algunos políticos llegaron a acuerdos importantes para trabajar juntos. Otros expresaron opiniones muy diferentes sobre el futuro del país. Los expertos dijeron que estas decisiones pueden afectar la vida de millones de personas. El Congreso discutió varios proyectos de ley nuevos. Los ciudadanos esperan que sus representantes tomen buenas decisiones. La situación política continúa siendo el tema más importante en los medios de comunicación. Es un momento decisivo para el futuro de la nación americana.",
+          "body_en": "On August 19, 2026, the United States experienced important moments in its political life. Government leaders presented new proposals to improve the country's public services. There were debates between parties on topics like the economy, education, and security. Many citizens followed the news with great interest. Some politicians reached important agreements to work together. Others expressed very different opinions about the future of the country. Experts said these decisions could affect the lives of millions of people. Congress discussed several new bills. Citizens hope their representatives make good decisions. The political situation continues to be the most important topic in the media. It is a decisive moment for the future of the American nation.",
+          "source": "General US political news"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La Economía Estadounidense Muestra Señales de Cambio en 2026",
+          "headline_en": "The US Economy Shows Signs of Change in 2026",
+          "body_es": "En agosto de 2026, la economía de Estados Unidos mostró cambios importantes. Los mercados financieros tuvieron movimientos significativos durante esta semana. Los precios de muchos productos cambiaron en las tiendas y supermercados. Algunas empresas anunciaron nuevos empleos para los trabajadores americanos. Otras compañías hablaron de dificultades económicas. El gobierno presentó nuevos datos sobre el desempleo en el país. Muchos expertos analizaron la situación económica con atención. Los trabajadores y las familias sintieron el impacto de estos cambios en su vida diaria. El dólar también mostró variaciones importantes en los mercados internacionales. Los economistas tienen opiniones diferentes sobre el futuro. Algunos son optimistas y creen que la situación va a mejorar. Otros piden más cambios en las políticas económicas del gobierno para ayudar a la gente.",
+          "body_en": "In August 2026, the US economy showed important changes. Financial markets experienced significant movements during this week. The prices of many products changed in stores and supermarkets. Some companies announced new jobs for American workers. Other companies talked about economic difficulties. The government presented new data on unemployment in the country. Many experts carefully analyzed the economic situation. Workers and families felt the impact of these changes in their daily lives. The dollar also showed important variations in international markets. Economists have different opinions about the future. Some are optimistic and believe the situation will improve. Others call for more changes in government economic policies to help people.",
+          "source": "General US economic news"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Grandes Avances Tecnológicos Transforman la Vida en Estados Unidos",
+          "headline_en": "Major Technological Advances Transform Life in the United States",
+          "body_es": "El 19 de agosto de 2026, el mundo de la tecnología en Estados Unidos trajo noticias muy interesantes. Varias empresas tecnológicas importantes presentaron nuevos productos y servicios digitales. La inteligencia artificial continúa desarrollándose rápidamente. Muchas compañías quieren usar esta tecnología para mejorar su trabajo. Las innovaciones en teléfonos inteligentes y computadoras también fueron noticias importantes. Los expertos hablan de cómo estas herramientas cambian la educación y el trabajo. Algunas personas están emocionadas con los nuevos avances. Otras tienen preguntas sobre la seguridad y la privacidad en el mundo digital. El gobierno también está discutiendo nuevas reglas para controlar el uso de la tecnología. Las empresas invierten mucho dinero en investigación y desarrollo. Estos cambios tecnológicos van a afectar a todos los americanos en los próximos años.",
+          "body_en": "On August 19, 2026, the world of technology in the United States brought very interesting news. Several major tech companies presented new digital products and services. Artificial intelligence continues to develop rapidly. Many companies want to use this technology to improve their work. Innovations in smartphones and computers were also important news. Experts talk about how these tools are changing education and work. Some people are excited about the new advances. Others have questions about security and privacy in the digital world. The government is also discussing new rules to control the use of technology. Companies invest a lot of money in research and development. These technological changes will affect all Americans in the coming years.",
+          "source": "General US technology news"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "elección",
+          "syllables": "e-lec-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las elecciones son muy importantes para el futuro del país.",
+          "definition_es": "El proceso de votar para elegir a una persona para un cargo",
+          "definition_en": "Election; the process of voting to choose someone for a position"
+        },
+        {
+          "word": "economía",
+          "syllables": "e-co-no-MÍ-a",
+          "pos": "sustantivo",
+          "context": "La economía del país está cambiando rápidamente este año.",
+          "definition_es": "El sistema de dinero, trabajo y recursos de un país",
+          "definition_en": "Economy; the system of money, work, and resources of a country"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "La nueva tecnología está cambiando la forma en que trabajamos.",
+          "definition_es": "Herramientas y máquinas modernas creadas por la ciencia",
+          "definition_en": "Technology; modern tools and machines created by science"
+        },
+        {
+          "word": "propuesta",
+          "syllables": "pro-PUES-ta",
+          "pos": "sustantivo",
+          "context": "El gobierno presentó una propuesta nueva para mejorar los servicios.",
+          "definition_es": "Una idea o plan que alguien ofrece para discutir o aprobar",
+          "definition_en": "Proposal; an idea or plan offered for discussion or approval"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "El mercado financiero tuvo cambios importantes esta semana.",
+          "definition_es": "El lugar o sistema donde se compran y venden productos o acciones",
+          "definition_en": "Market; the place or system where goods or stocks are bought and sold"
+        },
+        {
+          "word": "desarrollar",
+          "syllables": "de-sa-rro-LLAR",
+          "pos": "verbo",
+          "context": "Las empresas quieren desarrollar nuevas herramientas digitales.",
+          "definition_es": "Crear o hacer crecer algo nuevo poco a poco",
+          "definition_en": "To develop; to create or grow something new gradually"
+        },
+        {
+          "word": "innovación",
+          "syllables": "i-no-va-CIÓN",
+          "pos": "sustantivo",
+          "context": "La innovación tecnológica ayuda a resolver problemas difíciles.",
+          "definition_es": "Una idea nueva o un cambio importante que mejora algo",
+          "definition_en": "Innovation; a new idea or important change that improves something"
+        },
+        {
+          "word": "acuerdo",
+          "syllables": "a-CUER-do",
+          "pos": "sustantivo",
+          "context": "Los líderes llegaron a un acuerdo sobre el nuevo presupuesto.",
+          "definition_es": "Una decisión que dos o más personas o grupos aceptan juntos",
+          "definition_en": "Agreement; a decision that two or more people or groups accept together"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'propuesta'?",
+          "options": [
+            "A) Un tipo de comida tradicional",
+            "B) Un plan o idea que alguien ofrece para discutir",
+            "C) Un lugar para comprar ropa",
+            "D) Una forma de transporte público"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'desarrollar'?",
+          "options": [
+            "A) Destruir algo completamente",
+            "B) Viajar a otro país",
+            "C) Crear o hacer crecer algo nuevo poco a poco",
+            "D) Cocinar una comida especial"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "En la oración 'Los líderes llegaron a un acuerdo', ¿qué significa 'acuerdo'?",
+          "options": [
+            "A) Un problema muy difícil",
+            "B) Una decisión que varias personas aceptan juntas",
+            "C) Un tipo de reunión sin resultado",
+            "D) Un documento secreto del gobierno"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué es una 'innovación'?",
+          "options": [
+            "A) Un problema económico grave",
+            "B) Una ley muy antigua",
+            "C) Una idea nueva o cambio importante que mejora algo",
+            "D) Un tipo de elección política"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿qué presentaron los líderes del gobierno?",
+          "options": [
+            "A) Nuevas propuestas para mejorar los servicios públicos",
+            "B) Un plan para reducir la tecnología",
+            "C) Resultados de elecciones presidenciales",
+            "D) Un nuevo mercado financiero internacional"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de Política, ¿qué discutió el Congreso?",
+          "options": [
+            "A) Nuevos precios para los supermercados",
+            "B) Varios proyectos de ley nuevos",
+            "C) El uso de inteligencia artificial",
+            "D) Los resultados del mercado financiero"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿qué mostraron los mercados financieros en agosto de 2026?",
+          "options": [
+            "A) No hubo ningún cambio importante",
+            "B) Movimientos significativos durante la semana",
+            "C) Una mejora perfecta sin problemas",
+            "D) El cierre de todas las bolsas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "En la historia de Economía, ¿cómo son las opiniones de los economistas sobre el futuro?",
+          "options": [
+            "A) Todos son muy pesimistas",
+            "B) Todos están completamente de acuerdo",
+            "C) Tienen opiniones diferentes; algunos son optimistas y otros no",
+            "D) No tienen ninguna opinión sobre el tema"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué continúa desarrollándose rápidamente?",
+          "options": [
+            "A) El sistema de transporte público",
+            "B) La agricultura tradicional americana",
+            "C) La inteligencia artificial",
+            "D) Los mercados financieros internacionales"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "En la historia de Tecnología, ¿qué está discutiendo el gobierno sobre la tecnología?",
+          "options": [
+            "A) Cómo eliminar todos los teléfonos inteligentes",
+            "B) Nuevas reglas para controlar el uso de la tecnología",
+            "C) Un plan para cerrar las empresas tecnológicas",
+            "D) Cómo reducir la inversión en computadoras"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-19T09:10:36.179164"
+    },
+    {
       "date": "2026-08-18",
       "filename": "spanish_lesson_2026-08-18.pdf",
       "path": "pdfs/spanish_lesson_2026-08-18.pdf",
@@ -54178,7 +54400,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-18T09:10:10.467919",
+  "last_updated": "2026-08-19T09:10:36.179192",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
