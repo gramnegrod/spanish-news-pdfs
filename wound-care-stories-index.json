@@ -1,11 +1,196 @@
 {
-  "date": "2026-08-18",
-  "generated_at": "2026-08-18T09:13:30.230893Z",
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T09:14:39.142452Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 992,
+  "total_stories": 997,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20250819",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Dos métodos ayudan a diagnosticar infecciones en heridas crónicas",
+      "headline_en": "Two methods help diagnose infections in chronic wounds",
+      "summary_es": "Un estudio nuevo muestra que dos técnicas diferentes dan información importante sobre las bacterias en heridas crónicas de pacientes hospitalizados.",
+      "body_es": "Las heridas crónicas en las extremidades inferiores son un problema grave en los hospitales. Los médicos necesitan identificar las bacterias en estas heridas. Ahora existe un método nuevo: la secuencia 16S rRNA. Este método es diferente a los cultivos tradicionales. Los cultivos tradicionales son lentos. La secuencia 16S rRNA es más rápida. Los dos métodos dan información complementaria. Juntos, proporcionan un diagnóstico más completo. Los pacientes hospitalizados se benefician de esta combinación. El diagnóstico correcto es importante para el tratamiento efectivo. Los antibióticos correctos dependen de las bacterias identificadas. Este avance mejora la atención a pacientes con heridas crónicas.",
+      "body_en": "Chronic wounds in the lower limbs are a serious problem in hospitals. Doctors need to identify bacteria in these wounds. Now there is a new method: 16S rRNA sequencing. This method is different from traditional cultures. Traditional cultures are slow. 16S rRNA sequencing is faster. Both methods provide complementary information. Together, they provide a more complete diagnosis. Hospitalized patients benefit from this combination. Correct diagnosis is important for effective treatment. The correct antibiotics depend on identified bacteria. This advance improves care for patients with chronic wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zN0FjNC12T3d0N1BYVk9WQlVncEtfUGhtVXM3cGNsdm0xZkE4UU92ejlCUFZKcFVNR0E5c2VDUUpBWTRyaFJ5a2lFODg2WkJKTUV6U1ZSUGxLUTdZZW5kU1BKbllmTVFkMXhPeDNiLUE?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-19/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza rápidamente",
+          "definition_en": "chronic wound - injury that does not heal quickly"
+        },
+        {
+          "word": "cultivo",
+          "definition_es": "método tradicional para identificar bacterias",
+          "definition_en": "culture - traditional method to identify bacteria"
+        },
+        {
+          "word": "secuencia",
+          "definition_es": "análisis de laboratorio rápido para bacterias",
+          "definition_en": "sequencing - rapid laboratory analysis for bacteria"
+        },
+        {
+          "word": "diagnóstico",
+          "definition_es": "identificación de la enfermedad o infección",
+          "definition_en": "diagnosis - identification of disease or infection"
+        }
+      ],
+      "added_at": "2026-08-19T09:14:39.142452Z"
+    },
+    {
+      "id": "diabetic-foot-20250819",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "Prevención de amputación en el pie diabético: nuevas estrategias",
+      "headline_en": "Prevention of amputation in diabetic foot: new strategies",
+      "summary_es": "Las complicaciones del pie diabético pueden resultar en amputación de miembros. Nuevas estrategias de prevención ayudan a evitar este resultado grave.",
+      "body_es": "El pie diabético es una complicación seria de la diabetes. Las úlceras en los pies pueden progresar rápidamente si no se tratan. La infección y la gangrena son riesgos comunes. Sin intervención adecuada, la amputación puede ser necesaria. Sin embargo, existen estrategias comprobadas para prevenir la pérdida de extremidades. El control glucémico es fundamental para prevenir úlceras. Los pacientes deben inspeccionar sus pies diariamente para detectar cambios. El calzado apropiado reduce la presión en las áreas vulnerables. La educación del paciente sobre el cuidado del pie es esencial. Los profesionales de la salud deben evaluar regularmente la circulación y la sensibilidad. Las técnicas de desbridamiento temprano previenen infecciones graves. Con seguimiento regular y cuidado preventivo, muchas amputaciones pueden evitarse.",
+      "body_en": "Diabetic foot is a serious complication of diabetes. Foot ulcers can progress rapidly if untreated. Infection and gangrene are common risks. Without proper intervention, amputation may be necessary. However, proven strategies exist to prevent limb loss. Glycemic control is fundamental for preventing ulcers. Patients should inspect their feet daily for changes. Appropriate footwear reduces pressure on vulnerable areas. Patient education about foot care is essential. Healthcare professionals must regularly assess circulation and sensation. Early debridement techniques prevent serious infections. With regular follow-up and preventive care, many amputations can be avoided.",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDc4WFE4RFpEMXZGNjVBMTNHdW1LeE1IRUtBWDZIclB1LWxOSzl1S3lWT2VPODB6QUxqRDdWS1RVZU5yNFVYQllrQkpJTHZpTGRlRUx3REZsLTRDOU1LNVhFOG5ha0xnNnBCY1pLTHJJLWctNDVXTEFvNkZfUG5SdEM3QjBCemdLdm5kUFViOUt6Z0NiSXdoZXZJMkVKQVpCcFZMMG5PS09KdHNvRFM4?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-19/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta en la piel que no cicatriza fácilmente",
+          "definition_en": "ulcer - open wound on skin that does not heal easily"
+        },
+        {
+          "word": "gangrena",
+          "definition_es": "muerte del tejido por falta de circulación",
+          "definition_en": "gangrene - tissue death due to lack of circulation"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "procedimiento para remover tejido muerto o infectado",
+          "definition_en": "debridement - procedure to remove dead or infected tissue"
+        },
+        {
+          "word": "amputación",
+          "definition_es": "extirpación quirúrgica de una extremidad",
+          "definition_en": "amputation - surgical removal of a limb"
+        }
+      ],
+      "added_at": "2026-08-19T09:14:39.142452Z"
+    },
+    {
+      "id": "burn-care-20250819",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Matriz de heridas reduce el tiempo de preparación en el tratamiento de quemaduras",
+      "headline_en": "Wound matrix reduces preparation time in burn treatment",
+      "summary_es": "Una nueva matriz de heridas acelera significativamente el tiempo de preparación para el tratamiento de quemaduras, con resultados comparables a los injertos de cadáver.",
+      "body_es": "El tratamiento de quemaduras graves requiere procedimientos complejos y tiempo. Los injertos de cadáver son el estándar de atención tradicional. Sin embargo, requieren tiempo extenso para prepararse. Los médicos ahora utilizan una matriz de heridas innovadora. Esta matriz reduce el tiempo de preparación en un 96 por ciento. Anteriormente, la preparación tardaba horas. Con esta nueva tecnología, tarda solo minutos. Los resultados clínicos son comparables a los injertos de cadáver. Los pacientes se benefician de procedimientos más rápidos. La reducción del tiempo quirúrgico disminuye los riesgos anestésicos. Esta matriz promueve la cicatrización y la regeneración de la piel. Los hospitales pueden tratar más pacientes con quemaduras. Esta innovación mejora significativamente la atención de quemaduras.",
+      "body_en": "Severe burn treatment requires complex procedures and time. Cadaver grafts are the traditional standard of care. However, they require extensive time to prepare. Doctors now use an innovative wound matrix. This matrix reduces preparation time by 96 percent. Previously, preparation took hours. With this new technology, it takes only minutes. Clinical results are comparable to cadaver grafts. Patients benefit from faster procedures. Reduced surgical time decreases anesthetic risks. This matrix promotes skin healing and regeneration. Hospitals can treat more burn patients. This innovation significantly improves burn care.",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazVXQ1JUQUZ5N1luYkxqYWhSMjE3M25PV1V4Z1JTRmo1cjdZdmM2ZFBZYlFwMDVwNFhFTW1ubkZ5Q1BjQklNQmNWc29TSXR5SmQ0UVJsSElOVC1LbFdCdzJUNkk0ZWFOVVRfcGJFVTRtSElrTTVHS2VRdmFKbGtiN05DY1lURWhmcHdFOTBBam9nRVZOMnM5dVlTVHBQclZEYllVVlRhc0U5ZUV6RkJkclA5QQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-19/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión por calor en la piel y tejidos",
+          "definition_en": "burn - heat injury to skin and tissues"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "tejido transplantado para cubrir heridas",
+          "definition_en": "graft - transplanted tissue to cover wounds"
+        },
+        {
+          "word": "matriz",
+          "definition_es": "estructura de material biocompatible para cicatrización",
+          "definition_en": "matrix - structure of biocompatible material for healing"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de reparación y regeneración de la piel",
+          "definition_en": "healing - process of skin repair and regeneration"
+        }
+      ],
+      "added_at": "2026-08-19T09:14:39.142452Z"
+    },
+    {
+      "id": "surgical-wounds-20250819",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🪡",
+      "gradient": "blue",
+      "headline_es": "Suturas avanzadas transforman el cierre de heridas quirúrgicas",
+      "headline_en": "Advanced sutures are transforming surgical wound closure",
+      "summary_es": "Nuevas tecnologías en suturas están revolucionando cómo los cirujanos cierran heridas, mejorando los resultados de cicatrización y reduciendo complicaciones.",
+      "body_es": "El cierre de heridas quirúrgicas es un aspecto crítico de la cirugía. Las suturas tradicionales han sido el estándar durante décadas. Sin embargo, las suturas avanzadas ofrecen ventajas significativas. Estas nuevas suturas contienen propiedades antimicrobianas integradas. Previenen la contaminación bacteriana durante la cicatrización. Las suturas reabsorbibles aceleran el proceso de curación. Los materiales innovadores mejoran la flexibilidad y la resistencia. Los cirujanos pueden cerrar heridas con mayor precisión. La reducción de la inflamación resulta en cicatrices menos visibles. El tiempo de hospitalización se reduce cuando las heridas cierran correctamente. Los pacientes experimentan menos dolor y molestia postoperatoria. Las complicaciones como dehiscencia se minimizan significativamente. Esta tecnología avanzada mejora los resultados a largo plazo para los pacientes quirúrgicos.",
+      "body_en": "Closing surgical wounds is a critical aspect of surgery. Traditional sutures have been the standard for decades. However, advanced sutures offer significant advantages. These new sutures contain integrated antimicrobial properties. They prevent bacterial contamination during healing. Absorbable sutures accelerate the healing process. Innovative materials improve flexibility and strength. Surgeons can close wounds with greater precision. Reduced inflammation results in less visible scars. Hospital stay time is reduced when wounds close properly. Patients experience less postoperative pain and discomfort. Complications such as dehiscence are minimized significantly. This advanced technology improves long-term outcomes for surgical patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2lWQlY3a0czcl9lckFhWnNILVFucjRYcjdZVjJ5YTVMWDFQQ25HSldxNzZoRXcxT0VrdC1UcUxGZ1FMbVplb1JNRFF2YklqMkdwcWllMFJjcndXU2NrT1V4V2pUWjlJblBfbXJ4NXBwbVU4U3BhQ2JJNVZ1anlBUjBNWWM4eHFfa0VsN0NfMnNlQlFZYkJLdURJMDNlQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-19/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "sutura",
+          "definition_es": "hilo utilizado para cerrar heridas quirúrgicas",
+          "definition_en": "suture - thread used to close surgical wounds"
+        },
+        {
+          "word": "reabsorbible",
+          "definition_es": "que se disuelve naturalmente en el cuerpo",
+          "definition_en": "absorbable - dissolves naturally in the body"
+        },
+        {
+          "word": "dehiscencia",
+          "definition_es": "reapertura de una herida cerrada",
+          "definition_en": "dehiscence - reopening of a closed wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación y reparación de la herida",
+          "definition_en": "wound healing - process of wound repair"
+        }
+      ],
+      "added_at": "2026-08-19T09:14:39.142452Z"
+    },
+    {
+      "id": "wound-research-20250819",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigación en cirugía aguda: innovación y perspectivas futuras",
+      "headline_en": "State of the art in acute care surgery: application, innovation, and future perspectives",
+      "summary_es": "Una revisión completa de los avances en cirugía aguda explora la aplicación clínica, innovaciones tecnológicas y el futuro de la atención quirúrgica urgente.",
+      "body_es": "La cirugía aguda incluye el manejo de emergencias quirúrgicas y traumatismos. Los avances recientes han transformado cómo los cirujanos tratan heridas complejas. La investigación en cirugía aguda se enfoca en mejorar resultados. Los nuevos protocolos de manejo de heridas aceleran la recuperación. La tecnología de imágenes permite diagnósticos más precisos. Los cirujanos utilizan técnicas minimamente invasivas cuando es posible. La investigación demuestra que la intervención temprana salva vidas. La innovación en anestesia reduce los riesgos quirúrgicos. Las nuevas estrategias de control de infecciones mejoran la supervivencia. El entrenamiento especializado prepara a los cirujanos para emergencias complejas. El futuro incluye procedimientos guiados por robot e inteligencia artificial. La colaboración entre instituciones acelera la transferencia de conocimiento. Esta investigación continua mejora la atención de pacientes críticos.",
+      "body_en": "Acute care surgery includes management of surgical emergencies and trauma. Recent advances have transformed how surgeons treat complex wounds. Research in acute care surgery focuses on improving outcomes. New wound management protocols accelerate recovery. Imaging technology enables more precise diagnoses. Surgeons use minimally invasive techniques when possible. Research shows that early intervention saves lives. Innovation in anesthesia reduces surgical risks. New infection control strategies improve survival. Specialized training prepares surgeons for complex emergencies. The future includes robot-guided procedures and artificial intelligence. Collaboration between institutions accelerates knowledge transfer. This ongoing research improves care for critically ill patients.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGVHeDJyYmxoMzlQRzVRejZva1lqZnBhWVlqbF9MWTEyVXVPOXdzWERHZXFwZU5GaFh4YzFFUEpkcjlSVkc2cVRhVWRSdWJGbUxPeGxxYmhfa1F0Sk1iUkU4QVVlcW1IMnEtalpwbGI5NmtTT0NzU0lhUkphX25NX3hnT3ZYYmhHRHA1VzRB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-19/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cirugía aguda",
+          "definition_es": "procedimientos quirúrgicos para emergencias y traumatismos",
+          "definition_en": "acute care surgery - procedures for emergencies and trauma"
+        },
+        {
+          "word": "innovación",
+          "definition_es": "nuevas tecnologías y métodos en medicina",
+          "definition_en": "innovation - new technologies and methods in medicine"
+        },
+        {
+          "word": "protocolo",
+          "definition_es": "procedimiento estándar seguido en la atención médica",
+          "definition_en": "protocol - standard procedure followed in medical care"
+        },
+        {
+          "word": "minimamente invasivo",
+          "definition_es": "procedimiento con incisiones pequeñas",
+          "definition_en": "minimally invasive - procedure with small incisions"
+        }
+      ],
+      "added_at": "2026-08-19T09:14:39.142452Z"
+    },
     {
       "id": "chronic-wounds-20250818",
       "category": "Chronic Wounds",
@@ -36705,6 +36890,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-18T09:13:30.230893Z",
+  "last_updated": "2026-08-19T09:14:39.142452Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
