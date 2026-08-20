@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-20",
+      "filename": "spanish_lesson_2026-08-20.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-20.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "La deuda de EE.UU. supera los 40 billones de dólares por primera vez en la historia",
+          "headline_en": "US Debt Surpasses $40 Trillion for the First Time in History",
+          "body_es": "La deuda nacional de Estados Unidos llegó a un número histórico. Por primera vez en la historia, la deuda superó los 40 billones de dólares. Esto es una cantidad enorme de dinero. Para comparar, un billón tiene doce ceros. Hace solo diez años, la deuda era de 17 billones de dólares. Ahora es más del doble. El gobierno de Estados Unidos gasta más dinero del que recibe cada año. Esta diferencia se llama déficit. El dinero extra viene de préstamos. El gobierno pide dinero prestado a bancos, otros países y ciudadanos. Esto aumenta la deuda total. Muchos economistas están preocupados por esta situación. Ellos dicen que una deuda tan grande puede crear problemas en el futuro. El gobierno tiene que pagar intereses sobre esta deuda cada año. Estos pagos de intereses también cuestan mucho dinero. El debate sobre cómo reducir la deuda continúa en el Congreso.",
+          "body_en": "The United States national debt reached a historic number. For the first time in history, the debt surpassed 40 trillion dollars. This is an enormous amount of money. For comparison, one trillion has twelve zeros. Just ten years ago, the debt was 17 trillion dollars. Now it is more than double. The US government spends more money than it receives each year. This difference is called a deficit. The extra money comes from loans. The government borrows money from banks, other countries, and citizens. This increases the total debt. Many economists are worried about this situation. They say such a large debt can create problems in the future. The government has to pay interest on this debt every year. These interest payments also cost a lot of money. The debate on how to reduce the debt continues in Congress.",
+          "source": "NPR"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El empleo en junio fue menor de lo esperado, pero la Casa Blanca ve señales positivas",
+          "headline_en": "June Employment Was Lower Than Expected, but the White House Sees Positive Signs",
+          "body_es": "En el mes de junio, las empresas contrataron menos trabajadores de lo que los expertos esperaban. Los economistas pensaban que habría más nuevos empleos. Sin embargo, los números fueron más bajos. Esto preocupó a algunos analistas del mercado. A pesar de esto, la Casa Blanca tiene una opinión diferente. Los representantes del gobierno dijeron que el mercado laboral está en una trayectoria positiva. Ellos creen que la situación va a mejorar pronto. El mercado laboral es muy importante para la economía del país. Cuando más personas tienen trabajo, gastan más dinero. Esto ayuda a crecer la economía. La tasa de desempleo en Estados Unidos sigue siendo relativamente baja. Esto significa que la mayoría de las personas que buscan trabajo pueden encontrarlo. Los expertos van a observar los números de julio con mucha atención para ver si la tendencia mejora.",
+          "body_en": "In the month of June, companies hired fewer workers than experts expected. Economists thought there would be more new jobs. However, the numbers were lower. This worried some market analysts. Despite this, the White House has a different opinion. Government representatives said the labor market is on a positive trajectory. They believe the situation will improve soon. The labor market is very important to the country's economy. When more people have jobs, they spend more money. This helps the economy grow. The unemployment rate in the United States remains relatively low. This means that most people looking for work can find it. Experts will watch July's numbers very carefully to see if the trend improves.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "China se acerca a Estados Unidos en la carrera por la inteligencia artificial",
+          "headline_en": "China Is Catching Up to the United States in the Artificial Intelligence Race",
+          "body_es": "Durante muchos años, Estados Unidos fue el líder mundial en inteligencia artificial. Pero ahora esa ventaja se está reduciendo rápidamente. China está invirtiendo mucho dinero en tecnología de inteligencia artificial. El gobierno chino y las empresas privadas trabajan juntos en este campo. Según un nuevo informe, la diferencia entre los dos países es cada vez menor. La inteligencia artificial es muy importante para el futuro de la economía y la seguridad nacional. Los países que lideren esta tecnología tendrán grandes ventajas. Estados Unidos tiene empresas muy famosas como Google, Microsoft y OpenAI. Estas compañías crean modelos de inteligencia artificial muy avanzados. Pero China también tiene empresas tecnológicas muy poderosas. Además, China tiene acceso a una cantidad enorme de datos. Estos datos son muy importantes para desarrollar inteligencia artificial. El gobierno de EE.UU. está buscando maneras de mantener su liderazgo en esta área estratégica.",
+          "body_en": "For many years, the United States was the world leader in artificial intelligence. But now that advantage is shrinking rapidly. China is investing a lot of money in artificial intelligence technology. The Chinese government and private companies work together in this field. According to a new report, the difference between the two countries is getting smaller. Artificial intelligence is very important for the future of the economy and national security. The countries that lead this technology will have great advantages. The United States has very famous companies like Google, Microsoft, and OpenAI. These companies create very advanced artificial intelligence models. But China also has very powerful technology companies. In addition, China has access to an enormous amount of data. This data is very important for developing artificial intelligence. The US government is looking for ways to maintain its leadership in this strategic area.",
+          "source": "Bloomberg"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "deuda",
+          "syllables": "DEU-da",
+          "pos": "sustantivo",
+          "context": "La deuda de Estados Unidos llegó a 40 billones de dólares.",
+          "definition_es": "Dinero que una persona o un país debe pagar a otra persona o institución.",
+          "definition_en": "Debt; money owed to another person or institution."
+        },
+        {
+          "word": "récord",
+          "syllables": "RÉ-cord",
+          "pos": "sustantivo",
+          "context": "La deuda alcanzó un récord histórico nunca visto antes.",
+          "definition_es": "El nivel más alto o más bajo que algo ha llegado en la historia.",
+          "definition_en": "Record; the highest or lowest level something has ever reached."
+        },
+        {
+          "word": "contratación",
+          "syllables": "con-tra-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "La contratación de trabajadores en junio fue peor de lo esperado.",
+          "definition_es": "El proceso de dar trabajo a nuevas personas en una empresa o país.",
+          "definition_en": "Hiring; the process of employing new workers."
+        },
+        {
+          "word": "trayectoria",
+          "syllables": "tra-yec-TO-ria",
+          "pos": "sustantivo",
+          "context": "La Casa Blanca dijo que el mercado laboral está en una trayectoria positiva.",
+          "definition_es": "El camino o dirección que algo sigue con el tiempo.",
+          "definition_en": "Trajectory; the path or direction something follows over time."
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "sustantivo",
+          "context": "La carrera por la inteligencia artificial entre EE.UU. y China es muy intensa.",
+          "definition_es": "La capacidad de las computadoras para hacer tareas que normalmente hacen los humanos.",
+          "definition_en": "Artificial intelligence; the ability of computers to perform tasks normally done by humans."
+        },
+        {
+          "word": "mercado laboral",
+          "syllables": "mer-CA-do la-bo-RAL",
+          "pos": "sustantivo",
+          "context": "El mercado laboral mostró señales mixtas en el mes de junio.",
+          "definition_es": "El sistema donde las personas buscan trabajo y las empresas buscan empleados.",
+          "definition_en": "Labor market; the system where people look for jobs and companies look for employees."
+        },
+        {
+          "word": "reducirse",
+          "syllables": "re-du-CIR-se",
+          "pos": "verbo",
+          "context": "La ventaja de EE.UU. sobre China en inteligencia artificial se está reduciendo.",
+          "definition_es": "Hacerse más pequeño, disminuir en tamaño o cantidad.",
+          "definition_en": "To shrink or decrease in size or amount."
+        },
+        {
+          "word": "superar",
+          "syllables": "su-pe-RAR",
+          "pos": "verbo",
+          "context": "La deuda nacional superó los 40 billones de dólares por primera vez.",
+          "definition_es": "Ir más allá de un límite o ser mejor que algo o alguien.",
+          "definition_en": "To surpass or exceed a limit or level."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra 'deuda'?",
+          "options": [
+            "A) Dinero que un país gana por sus exportaciones",
+            "B) Dinero que una persona o país debe pagar a otros",
+            "C) El presupuesto anual del gobierno",
+            "D) Los impuestos que pagan los ciudadanos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Cuál es el significado de 'contratación' en el contexto de la economía?",
+          "options": [
+            "A) El proceso de despedir trabajadores de una empresa",
+            "B) Un acuerdo entre dos países sobre comercio",
+            "C) El proceso de dar trabajo a nuevas personas",
+            "D) La cantidad de dinero que gana un empleado"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "Si algo se está 'reduciendo', ¿qué le está pasando?",
+          "options": [
+            "A) Está creciendo rápidamente",
+            "B) Está haciéndose más pequeño o menor",
+            "C) Está manteniéndose igual",
+            "D) Está mejorando su calidad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa 'superar' un límite o récord?",
+          "options": [
+            "A) Llegar exactamente al mismo nivel",
+            "B) Quedarse por debajo de ese nivel",
+            "C) Ir más allá de ese límite o nivel",
+            "D) Regresar a un nivel anterior"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia sobre la deuda, ¿cuánto era la deuda de EE.UU. hace diez años?",
+          "options": [
+            "A) 10 billones de dólares",
+            "B) 17 billones de dólares",
+            "C) 25 billones de dólares",
+            "D) 40 billones de dólares"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la historia de política, ¿por qué aumenta la deuda nacional de EE.UU.?",
+          "options": [
+            "A) Porque el gobierno no recibe ningún dinero de impuestos",
+            "B) Porque otros países le roban dinero a EE.UU.",
+            "C) Porque el gobierno gasta más dinero del que recibe y pide préstamos",
+            "D) Porque los ciudadanos no pagan sus deudas personales"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "En la historia sobre el empleo, ¿qué dijo la Casa Blanca sobre el mercado laboral?",
+          "options": [
+            "A) Que el mercado laboral está en una situación muy grave",
+            "B) Que el mercado laboral está en una trayectoria positiva",
+            "C) Que el gobierno va a cerrar muchas empresas",
+            "D) Que la tasa de desempleo está subiendo mucho"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia de economía, ¿por qué es importante que más personas tengan trabajo?",
+          "options": [
+            "A) Porque así el gobierno puede cobrar más impuestos a las empresas",
+            "B) Porque reduce la deuda nacional inmediatamente",
+            "C) Porque cuando más personas trabajan, gastan más dinero y la economía crece",
+            "D) Porque los trabajadores pueden votar en las elecciones"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de tecnología, ¿qué ventaja tiene China para desarrollar inteligencia artificial?",
+          "options": [
+            "A) Tiene más universidades que Estados Unidos",
+            "B) Tiene acceso a una cantidad enorme de datos",
+            "C) Sus empresas son más antiguas que las de EE.UU.",
+            "D) Recibe ayuda financiera de Europa"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál de estas afirmaciones es correcta según las tres historias?",
+          "options": [
+            "A) La deuda de EE.UU. bajó y el empleo subió en junio",
+            "B) China ya superó a EE.UU. completamente en inteligencia artificial",
+            "C) EE.UU. enfrenta desafíos en su economía, empleo y competencia tecnológica con China",
+            "D) El gobierno de EE.UU. no está preocupado por ninguna de estas situaciones"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-20T09:12:27.702394"
+    },
+    {
       "date": "2026-08-19",
       "filename": "spanish_lesson_2026-08-19.pdf",
       "path": "pdfs/spanish_lesson_2026-08-19.pdf",
@@ -54400,7 +54622,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-19T09:10:36.179192",
+  "last_updated": "2026-08-20T09:12:27.702425",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
