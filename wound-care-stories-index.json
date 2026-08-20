@@ -1,11 +1,159 @@
 {
-  "date": "2026-08-19",
-  "generated_at": "2026-08-19T09:14:39.142452Z",
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T09:14:52.135223Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 997,
-  "new_today": 5,
+  "total_stories": 1001,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250820",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Las heridas crónicas afectan a casi medio millón de australianos cada año",
+      "headline_en": "Chronic wounds affect almost half a million Australians each year",
+      "summary_es": "Casi 500,000 australianos tienen heridas crónicas. Los cuidadores en casa toman decisiones complejas para el tratamiento diario.",
+      "body_es": "Las heridas crónicas son un problema importante en Australia. Casi medio millón de personas tienen heridas que no cicatrizan bien. Estas heridas requieren cuidados especiales en casa. Los cuidadores usan vendajes y apósitos para proteger la piel dañada. El tratamiento es importante para evitar infecciones. Las heridas crónicas pueden afectar la calidad de vida. Los pacientes necesitan evaluación regular del progreso de la curación. Los cuidadores deben aprender técnicas correctas de vendaje. El apoyo médico es esencial para el éxito del tratamiento.",
+      "body_en": "Chronic wounds are a significant problem in Australia. Almost half a million people have wounds that do not heal well. These wounds require special care at home. Caregivers use bandages and dressings to protect damaged skin. Treatment is important to prevent infections. Chronic wounds can affect quality of life. Patients need regular assessment of healing progress. Caregivers must learn correct dressing techniques. Medical support is essential for successful treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVpoMF8xcmNaMXE3WHprdFo3MVRubmVRTmcyRE0weTlqeU1QMmVFNzF3aG9pWklMRS05OGJVSmdkcjJBMy1ULVUwRElXWkt4WlNkSGlxa1AzcnRqZ0hQTVNYYm5uY2NMS0lPMkxicnh0MjBVRVVRVUxITm80WEwwWFk2enpDa0hkZTg1M2pB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-20/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión que no cicatriza en tiempo normal",
+          "definition_en": "chronic wound - injury that does not heal in normal time"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material para cubrir y proteger una herida",
+          "definition_en": "dressing - material to cover and protect a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de cierre y cicatrización de la herida",
+          "definition_en": "healing - process of closing and scarring of the wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "presencia de bacterias o gérmenes en la herida",
+          "definition_en": "infection - presence of bacteria or germs in the wound"
+        }
+      ],
+      "added_at": "2026-08-20T09:14:52.135223Z"
+    },
+    {
+      "id": "burn-care-20250820",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "PermeaDerm demuestra 70% de ventaja económica sobre el injerto de piel de cadáver",
+      "headline_en": "PermeaDerm demonstrates 70% economic advantage over allograft",
+      "summary_es": "AVITA Medical presentó resultados positivos del estudio de PermeaDerm. El nuevo tratamiento reduce costos en un 70% comparado con el injerto de piel de cadáver mientras mantiene resultados clínicos comparables.",
+      "body_es": "AVITA Medical anunció resultados positivos de su estudio clínico sobre PermeaDerm. Este tratamiento para quemaduras demuestra una ventaja económica significativa. El costo es 70% menor que el injerto de piel de cadáver tradicional. Los resultados clínicos son comparables entre los dos tratamientos. PermeaDerm ofrece una alternativa efectiva para pacientes con quemaduras extensas. El estudio evaluó la curación de heridas y cicatrización en pacientes quemados. Los investigadores midieron la epitelización y la regeneración de la piel. Este avance es importante para hospitales que tratan quemaduras graves. La reducción de costos permite mejor acceso al tratamiento de quemaduras.",
+      "body_en": "AVITA Medical announced positive results from its clinical study on PermeaDerm. This burn treatment demonstrates significant economic advantage. The cost is 70% lower than traditional allograft skin transplant. Clinical outcomes are comparable between both treatments. PermeaDerm offers an effective alternative for patients with extensive burns. The study evaluated wound healing and scarring in burn patients. Researchers measured epithelialization and skin regeneration. This advance is important for hospitals treating severe burns. Cost reduction allows better access to burn treatment.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMUoydV8xWUM2eVU1QnFxcjVpZjI4Y3NSVXRZM3BKV0Voa2RfZVFiS1UzMUlHQVFlWE9WWmF3d0xGdHdvbW1CS2dkM0NNWnBpa1ROZVZoN3JBbl9WRlgzYXg0dmxTckRkZWZDQ0w2cUJDR3ZXTHIzNXJybEZBWmdBU2k3cHNFbWZDSTQtdjFZbmlnaVpKbzVCV0R3czNRNHMtMXpOS2RlUEVNS29RbWhaMXYzZWMzcVFRWE8xdncxRVU5bWZ5S1E2ZWpNajJvS0h3cU1pOV9oOWRSYi1nZV9BRmtYSU1IOXFUbDFRcW1PcVVFZDdSZnlrOW16TzUyYms?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-20/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor, fuego o químicos",
+          "definition_en": "burn - injury to skin caused by heat, fire or chemicals"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "trasplante de piel de un donante a un paciente quemado",
+          "definition_en": "graft - skin transplant from a donor to a burn patient"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "crecimiento de células de piel sobre la herida",
+          "definition_en": "epithelialization - growth of skin cells over the wound"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de formación de cicatriz después de la curación",
+          "definition_en": "scarring - process of scar formation after healing"
+        }
+      ],
+      "added_at": "2026-08-20T09:14:52.135223Z"
+    },
+    {
+      "id": "surgical-wounds-20250820",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Nomograma predice problemas de cicatrización en cirugía de fractura en diabéticos",
+      "headline_en": "Nomogram predicts impaired wound healing after calcaneal fracture surgery in diabetic patients",
+      "summary_es": "Frontiers publicó un estudio sobre un nomograma para predecir cicatrización deficiente. El modelo ayuda a identificar pacientes diabéticos con riesgo de complicaciones después de cirugía de fractura de talón.",
+      "body_es": "Los investigadores de Frontiers desarrollaron un nomograma validado para predecir cicatrización deficiente. El estudio se enfoca en pacientes con diabetes tipo 2 que requieren cirugía de fractura de talón. El nomograma analiza factores de riesgo que afectan la curación de heridas quirúrgicas. Los diabéticos tienen mayor riesgo de infección y necrosis de tejidos. La evaluación preoperatoria es crucial para planificar el tratamiento. El modelo ayuda a los cirujanos a identificar pacientes de alto riesgo. Los pacientes identificados pueden recibir cuidados especiales postoperatorios. Monitorear la cicatrización en diabéticos previene complicaciones graves. Este nomograma mejora los resultados clínicos en cirugía ortopédica.",
+      "body_en": "Frontiers researchers developed a validated nomogram to predict impaired healing. The study focuses on type 2 diabetes patients requiring calcaneal fracture surgery. The nomogram analyzes risk factors affecting surgical wound healing. Diabetic patients have higher risk of infection and tissue necrosis. Preoperative assessment is crucial for treatment planning. The model helps surgeons identify high-risk patients. Identified patients can receive special postoperative care. Monitoring healing in diabetics prevents serious complications. This nomogram improves clinical outcomes in orthopedic surgery.",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FBVV95cUxOaUoxYTZreHQ0UWpVTTlaY0lvc09ocDdIVVJPT3NraU93V2MzT2JOTHJkZm81TV9QNExMODJMRGNad1FTdXJpVUkxWTFvVXhUZnhoUm5WT0EzWkJHZVNyUmZxbU1oOFdNTkN5OHBGVVdfYnVR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-20/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "lesión creada durante una operación quirúrgica",
+          "definition_en": "surgical wound - injury created during surgery"
+        },
+        {
+          "word": "cicatrización deficiente",
+          "definition_es": "proceso lento o anormal de curación de herida",
+          "definition_en": "impaired healing - slow or abnormal wound healing process"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de células o tejido vivo",
+          "definition_en": "necrosis - death of living cells or tissue"
+        },
+        {
+          "word": "nomograma",
+          "definition_es": "gráfico para calcular riesgo o predicción clínica",
+          "definition_en": "nomogram - chart to calculate risk or clinical prediction"
+        }
+      ],
+      "added_at": "2026-08-20T09:14:52.135223Z"
+    },
+    {
+      "id": "wound-research-20250820",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigadores de USF reciben fondos para avanzar tecnología médica y capacitación sanitaria",
+      "headline_en": "USF researchers earn innovation fund support to advance healthcare training and technology",
+      "summary_es": "La Universidad del Sur de Florida recibió financiamiento de innovación para proyectos de investigación. Los fondos apoyan el desarrollo de tecnología médica avanzada y programas de capacitación sanitaria.",
+      "body_es": "La Universidad del Sur de Florida fue seleccionada para recibir fondos de innovación. El programa financia proyectos que avanzan la medicina y tecnología de salud. Los investigadores de USF desarrollan nuevas técnicas para evaluación de heridas. La tecnología electroencefalografía mejora el diagnóstico de pacientes. Los fondos también apoyan capacitación de profesionales de medicina veterinaria. Este apoyo permite crear programas de entrenamiento más efectivos. Los investigadores pueden innovar en evaluación clínica y monitoreo de pacientes. La inversión en investigación mejora la calidad de atención sanitaria. USF contribuye al avance de la medicina moderna en el estado de Florida.",
+      "body_en": "University of South Florida was selected to receive innovation funding. The program finances projects that advance medical technology and healthcare. USF researchers develop new techniques for wound assessment. Electroencephalography technology improves patient diagnosis. Funds also support veterinary medicine professional training. This support enables creation of more effective training programs. Researchers can innovate in clinical assessment and patient monitoring. Investment in research improves quality of healthcare. USF contributes to advancement of modern medicine in Florida.",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORDFWWGwxMGJVX0IxbEhVb1dPMEEybzRoMDJTSE5pUm12anhyX19fT1hRTUV0eGRnMGU2b2ZMYjd2OFN6Y044aGpzbEctcUtkRk1aRVRwRUw5TUhwUFdLRDFQbmlkUFpBUmpJYnpFMldoN2pjU0xXUzBEd1dRanNnZFhLOUxsQVJjSmZhaDJEZEI5dnVHbExWQy1FVkpRQlVTSlZadWJsR014WnYwN0hCcnA3MU9BZUhYWTJhazdtZkFCak1mOVVjbzZ3UG5wS0praWEtYXBEOFVLT215Tnc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-20/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "investigación clínica",
+          "definition_es": "estudio científico en pacientes para probar nuevos tratamientos",
+          "definition_en": "clinical research - scientific study in patients to test new treatments"
+        },
+        {
+          "word": "evaluación de heridas",
+          "definition_es": "proceso de examinar y medir el progreso de curación",
+          "definition_en": "wound assessment - process of examining and measuring healing progress"
+        },
+        {
+          "word": "tecnología médica",
+          "definition_es": "dispositivos e instrumentos avanzados para diagnóstico y tratamiento",
+          "definition_en": "medical technology - advanced devices and instruments for diagnosis and treatment"
+        },
+        {
+          "word": "monitoreo",
+          "definition_es": "observación continua del estado del paciente o herida",
+          "definition_en": "monitoring - continuous observation of patient or wound status"
+        }
+      ],
+      "added_at": "2026-08-20T09:14:52.135223Z"
+    },
     {
       "id": "chronic-wounds-20250819",
       "category": "Chronic Wounds",
@@ -36890,6 +37038,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-19T09:14:39.142452Z",
+  "last_updated": "2026-08-20T09:14:52.135223Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
