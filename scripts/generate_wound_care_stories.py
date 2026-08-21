@@ -329,11 +329,16 @@ Return ONLY the JSON, no other text."""
             response = client.chat.completions.create(
                 model="gpt-5.6-luna",
                 reasoning_effort="xhigh",
-                max_completion_tokens=28000,  # 12000 output + reasoning headroom
+                max_completion_tokens=64000,  # largest payload; xhigh reasoning runs ~15-19k
                 response_format={"type": "json_object"},
                 messages=[{"role": "user", "content": prompt}]
             )
 
+            if response.choices[0].finish_reason == "length":
+                raise RuntimeError(
+                    "Token budget exhausted before any output: reasoning consumed all of "
+                    f"max_completion_tokens ({response.usage.completion_tokens}). Raise the cap."
+                )
             response_text = response.choices[0].message.content or ""
 
             # Attempt to repair truncated JSON
