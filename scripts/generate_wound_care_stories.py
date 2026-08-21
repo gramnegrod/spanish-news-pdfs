@@ -9,7 +9,7 @@ ACCUMULATIVE MODE: Only adds stories when real news exists.
 - Appends new stories to existing list (deduped by source URL)
 - List grows over time, only shrinking via manual cleanup
 
-Uses Google News RSS with medical queries for story candidates, Claude for adaptation.
+Uses Google News RSS with medical queries for story candidates, OpenAI for adaptation.
 7-day search window due to lower volume of wound care news.
 """
 
@@ -23,11 +23,9 @@ import re
 from datetime import datetime
 from typing import List, Dict, Set
 from pathlib import Path
-import anthropic
 from openai import OpenAI
 
 # Configuration
-ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 OUTPUT_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'wound-care-stories-index.json')
 AUDIO_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'audio', 'wound-care-stories')
@@ -172,7 +170,7 @@ def fetch_rss_candidates(existing_urls: Set[str]) -> Dict[str, List[Dict]]:
 def repair_truncated_json(text: str) -> str:
     """Attempt to repair truncated JSON by closing open structures.
 
-    This handles cases where Claude's response gets cut off mid-JSON,
+    This handles cases where the model's response gets cut off mid-JSON,
     leaving unterminated strings, arrays, or objects.
     """
     # If already valid, return as-is
@@ -221,12 +219,12 @@ def repair_truncated_json(text: str) -> str:
 
 
 def generate_stories_with_claude(candidates: Dict[str, List[Dict]]) -> List[Dict]:
-    """Use Claude to select and adapt wound care stories for categories with news."""
+    """Use the LLM to select and adapt wound care stories for categories with news."""
 
-    if not ANTHROPIC_API_KEY:
-        raise ValueError("ANTHROPIC_API_KEY environment variable is required")
+    if not OPENAI_API_KEY:
+        raise ValueError("OPENAI_API_KEY environment variable is required")
 
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY)
 
     # Build prompt with only categories that have NEW candidates
     prompt = """You are creating Spanish wound care news stories for healthcare professionals learning medical Spanish.
@@ -322,26 +320,21 @@ REQUIREMENTS:
 
 Return ONLY the JSON, no other text."""
 
-    print(f"\n  Calling Claude API for {len(categories_with_news)} categories with new news...")
+    print(f"\n  Calling OpenAI API for {len(categories_with_news)} categories with new news...")
 
     # Retry logic for malformed JSON responses
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            response = client.messages.create(
-                model="claude-haiku-4-5-20251001",
-                max_tokens=12000,  # Increased for 6 stories with Spanish text
+            response = client.chat.completions.create(
+                model="gpt-5.6-luna",
+                reasoning_effort="xhigh",
+                max_completion_tokens=28000,  # 12000 output + reasoning headroom
+                response_format={"type": "json_object"},
                 messages=[{"role": "user", "content": prompt}]
             )
 
-            response_text = response.content[0].text
-
-            # Clean up JSON
-            if "```" in response_text:
-                response_text = response_text.split("```")[1]
-                if response_text.startswith("json"):
-                    response_text = response_text[4:]
-            response_text = response_text.strip()
+            response_text = response.choices[0].message.content or ""
 
             # Attempt to repair truncated JSON
             response_text = repair_truncated_json(response_text)
@@ -438,8 +431,8 @@ def generate_wound_care_stories():
         print("=" * 60)
         return
 
-    # 3. Generate stories with Claude (only for new news)
-    print("\n[3/5] Generating stories with Claude...")
+    # 3. Generate stories with the LLM (only for new news)
+    print("\n[3/5] Generating stories with OpenAI...")
     new_stories = generate_stories_with_claude(candidates)
 
     if not new_stories:
@@ -478,7 +471,7 @@ def generate_wound_care_stories():
         "new_today": len(new_stories),
         "stories": all_stories,
         "last_updated": today.isoformat() + "Z",
-        "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
+        "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
     }
 
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:

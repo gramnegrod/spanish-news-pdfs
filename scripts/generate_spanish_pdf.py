@@ -4,7 +4,7 @@ Standalone Spanish News PDF Generator for GitHub Actions
 
 Generates daily Spanish learning PDFs automatically:
 1. Fetches current US news via web search
-2. Adapts stories for A2-B1 Spanish learners using Anthropic API
+2. Adapts stories for A2-B1 Spanish learners using OpenAI API
 3. Fetches relevant images from Unsplash
 4. Generates polished educational PDF
 5. Updates index.json manifest
@@ -16,7 +16,7 @@ import json
 import requests
 from datetime import datetime
 from typing import List, Dict, Optional
-import anthropic
+from openai import OpenAI
 
 # Add the scripts directory to path for imports
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -27,7 +27,7 @@ from pdf_builder import SpanishLearningPDF, fetch_unsplash_image
 # =============================================================================
 # CONFIGURATION - All keys from environment/secrets only
 # =============================================================================
-ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY')
+OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 UNSPLASH_API_KEY = os.environ.get('UNSPLASH_ACCESS_KEY')
 # Note: News fetching uses Google News RSS - no API key needed
 
@@ -36,7 +36,7 @@ INDEX_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'index.jso
 
 
 # =============================================================================
-# NEWS FETCHING (RSS + Claude Selection)
+# NEWS FETCHING (RSS + LLM Selection)
 # =============================================================================
 def fetch_rss_candidates() -> Dict[str, List[Dict]]:
     """
@@ -67,7 +67,7 @@ def fetch_rss_candidates() -> Dict[str, List[Dict]]:
             root = ET.fromstring(response.content)
             items = root.findall('.//item')
 
-            # Get up to 8 items per category for Claude to choose from
+            # Get up to 8 items per category for the model to choose from
             for item in items[:8]:
                 title = item.find('title')
                 description = item.find('description')
@@ -102,23 +102,23 @@ def fetch_rss_candidates() -> Dict[str, List[Dict]]:
 
 def fetch_news_stories() -> List[Dict]:
     """
-    Fetch news using RSS feeds, then let Claude pick the best story per category.
-    Combines free RSS with intelligent Claude selection.
+    Fetch news using RSS feeds, then let the model pick the best story per category.
+    Combines free RSS with intelligent LLM selection.
     """
     # Step 1: Get RSS candidates
     print("  Fetching RSS candidates...")
     candidates = fetch_rss_candidates()
 
-    # Step 2: Let Claude pick the best story from each category
-    print("  Asking Claude to select best stories...")
+    # Step 2: Let the model pick the best story from each category
+    print("  Asking the model to select best stories...")
 
-    if not ANTHROPIC_API_KEY:
-        print("  ⚠ No Anthropic key - using first RSS item per category")
+    if not OPENAI_API_KEY:
+        print("  ⚠ No OpenAI key - using first RSS item per category")
         return _fallback_first_items(candidates)
 
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY)
 
-    # Build prompt for Claude to select stories
+    # Build prompt for the model to select stories
     selection_prompt = """You are a news editor selecting stories for a Spanish language learning PDF.
 
 For each category below, I'll give you several news candidates. Pick the ONE best story that:
@@ -148,24 +148,19 @@ RESPOND WITH JSON ONLY - pick one story number per category:
 """
 
     try:
-        response = client.messages.create(
-            model="claude-sonnet-4-6",
-            max_tokens=500,
+        response = client.chat.completions.create(
+            model="gpt-5.6-luna",
+            reasoning_effort="xhigh",
+            max_completion_tokens=8000,  # ~500 content + xhigh reasoning headroom
+            response_format={"type": "json_object"},
             messages=[{"role": "user", "content": selection_prompt}]
         )
 
-        response_text = response.content[0].text
-
-        # Clean up JSON response
-        if "```" in response_text:
-            response_text = response_text.split("```")[1]
-            if response_text.startswith("json"):
-                response_text = response_text[4:]
-        response_text = response_text.strip()
+        response_text = response.choices[0].message.content or ""
 
         selections = json.loads(response_text)
 
-        # Build final stories list based on Claude's picks
+        # Build final stories list based on the model's picks
         stories = []
         for category in ["Política", "Economía", "Tecnología"]:
             if category in selections and category in candidates:
@@ -177,14 +172,14 @@ RESPOND WITH JSON ONLY - pick one story number per category:
                         "raw_content": f"{item['title']}\n\n{item['description']}",
                         "source": item['source']
                     })
-                    print(f"  ✓ {category}: Claude picked #{pick_idx+1} - {item['title'][:50]}...")
+                    print(f"  ✓ {category}: Model picked #{pick_idx+1} - {item['title'][:50]}...")
                     print(f"    Reason: {selections[category].get('reason', 'N/A')}")
 
         if stories:
             return stories
 
     except Exception as e:
-        print(f"  ⚠ Claude selection error: {e}")
+        print(f"  ⚠ Story selection error: {e}")
 
     # Fallback to first items
     return _fallback_first_items(candidates)
@@ -214,17 +209,17 @@ def _fallback_first_items(candidates: Dict[str, List[Dict]]) -> List[Dict]:
 
 
 # =============================================================================
-# STORY ADAPTATION (Anthropic API)
+# STORY ADAPTATION (OpenAI API)
 # =============================================================================
 def adapt_stories_for_spanish_learners(raw_stories: List[Dict]) -> Dict:
     """
-    Use Anthropic API to adapt news stories for A2-B1 Spanish learners.
+    Use OpenAI API to adapt news stories for A2-B1 Spanish learners.
     Returns structured content: vocabulary, adapted stories, quiz questions.
     """
-    if not ANTHROPIC_API_KEY:
-        raise ValueError("ANTHROPIC_API_KEY environment variable is required")
+    if not OPENAI_API_KEY:
+        raise ValueError("OPENAI_API_KEY environment variable is required")
 
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY)
 
     # Build the prompt
     stories_text = "\n\n".join([
@@ -282,21 +277,16 @@ REQUIREMENTS:
 
 Respond with ONLY the JSON, no other text."""
 
-    response = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=4000,
+    response = client.chat.completions.create(
+        model="gpt-5.6-luna",
+        reasoning_effort="xhigh",
+        max_completion_tokens=20000,  # 4000 output + reasoning headroom
+        response_format={"type": "json_object"},
         messages=[{"role": "user", "content": prompt}]
     )
 
     # Parse the response
-    response_text = response.content[0].text
-
-    # Clean up JSON if needed
-    if response_text.startswith("```"):
-        response_text = response_text.split("```")[1]
-        if response_text.startswith("json"):
-            response_text = response_text[4:]
-    response_text = response_text.strip()
+    response_text = response.choices[0].message.content or ""
 
     return json.loads(response_text)
 
@@ -321,7 +311,7 @@ def generate_daily_pdf() -> str:
         print(f"    - {s['category']}: {s['raw_content'][:50]}...")
 
     # 2. Adapt for Spanish learners
-    print("\n[2/5] Adapting stories for Spanish learners (Anthropic API)...")
+    print("\n[2/5] Adapting stories for Spanish learners (OpenAI API)...")
     lesson_content = adapt_stories_for_spanish_learners(raw_stories)
     print(f"  Vocabulary: {len(lesson_content.get('vocabulary', []))} words")
     print(f"  Stories: {len(lesson_content.get('stories', []))}")
