@@ -234,7 +234,7 @@ Return ONLY the JSON, no other text."""
         messages=[{"role": "user", "content": prompt}]
     )
 
-    response_text = response.choices[0].message.content
+    response_text = response.choices[0].message.content or ""
 
     result = json.loads(response_text)
     return result.get("stories", [])

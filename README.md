@@ -6,7 +6,7 @@ Daily Spanish learning PDFs generated automatically from current US news stories
 
 Every day at 3:00 AM Central Time, a GitHub Action:
 1. Fetches current US news (politics, economy, technology)
-2. Adapts stories for A2-B1 Spanish learners using Claude API
+2. Adapts stories for A2-B1 Spanish learners using OpenAI API
 3. Adds relevant images from Unsplash
 4. Generates a polished educational PDF
 5. Commits the PDF to this repo
@@ -43,7 +43,7 @@ Each PDF includes:
 
 1. Fork this repository
 2. Add these secrets in Settings > Secrets:
-   - `ANTHROPIC_API_KEY` (required)
+   - `OPENAI_API_KEY` (required)
    - `UNSPLASH_ACCESS_KEY` (required)
 3. Enable GitHub Actions
 

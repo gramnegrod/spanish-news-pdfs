@@ -334,7 +334,7 @@ Return ONLY the JSON, no other text."""
                 messages=[{"role": "user", "content": prompt}]
             )
 
-            response_text = response.choices[0].message.content
+            response_text = response.choices[0].message.content or ""
 
             # Attempt to repair truncated JSON
             response_text = repair_truncated_json(response_text)

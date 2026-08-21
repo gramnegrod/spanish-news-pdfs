@@ -156,7 +156,7 @@ RESPOND WITH JSON ONLY - pick one story number per category:
             messages=[{"role": "user", "content": selection_prompt}]
         )
 
-        response_text = response.choices[0].message.content
+        response_text = response.choices[0].message.content or ""
 
         selections = json.loads(response_text)
 
@@ -286,7 +286,7 @@ Respond with ONLY the JSON, no other text."""
     )
 
     # Parse the response
-    response_text = response.choices[0].message.content
+    response_text = response.choices[0].message.content or ""
 
     return json.loads(response_text)
 
