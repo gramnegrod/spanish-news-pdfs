@@ -10,7 +10,7 @@ Generates 6 daily conversation stories for Spanish practice:
 Also generates two-host podcasts for 3 categories:
 - Tecnología, Cultura, Medio Ambiente (one per CEFR level)
 
-Uses Google News RSS for story candidates, Claude for adaptation.
+Uses Google News RSS for story candidates, OpenAI for adaptation.
 """
 
 import os
@@ -24,7 +24,6 @@ import io
 from datetime import datetime
 from typing import List, Dict
 from pathlib import Path
-import anthropic
 from openai import OpenAI
 
 # Optional: pydub for audio concatenation (fallback to simple concatenation if not available)
@@ -36,7 +35,6 @@ except ImportError:
     print("  ⚠ pydub not installed - podcast audio will be concatenated without crossfades")
 
 # Configuration
-ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 OUTPUT_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'conversation-stories-index.json')
 AUDIO_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'audio', 'conversation-stories')
@@ -141,12 +139,12 @@ def fetch_rss_candidates() -> Dict[str, List[Dict]]:
 
 
 def generate_stories_with_claude(candidates: Dict[str, List[Dict]]) -> List[Dict]:
-    """Use Claude to select and adapt stories for each category/difficulty."""
+    """Use the LLM to select and adapt stories for each category/difficulty."""
 
-    if not ANTHROPIC_API_KEY:
-        raise ValueError("ANTHROPIC_API_KEY environment variable is required")
+    if not OPENAI_API_KEY:
+        raise ValueError("OPENAI_API_KEY environment variable is required")
 
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY)
 
     # Build prompt with all candidates
     prompt = """You are creating Spanish conversation stories for language learners.
@@ -226,22 +224,17 @@ REQUIREMENTS:
 
 Return ONLY the JSON, no other text."""
 
-    print("\n  Calling Claude API for story generation...")
+    print("\n  Calling OpenAI API for story generation...")
 
-    response = client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=6000,
+    response = client.chat.completions.create(
+        model="gpt-5.6-luna",
+        reasoning_effort="xhigh",
+        max_completion_tokens=16000,  # ~6000 content + xhigh reasoning headroom
+        response_format={"type": "json_object"},
         messages=[{"role": "user", "content": prompt}]
     )
 
-    response_text = response.content[0].text
-
-    # Clean up JSON
-    if "```" in response_text:
-        response_text = response_text.split("```")[1]
-        if response_text.startswith("json"):
-            response_text = response_text[4:]
-    response_text = response_text.strip()
+    response_text = response.choices[0].message.content
 
     result = json.loads(response_text)
     return result.get("stories", [])
@@ -470,8 +463,8 @@ def generate_conversation_stories():
     print("\n[1/5] Fetching news candidates...")
     candidates = fetch_rss_candidates()
 
-    # 2. Generate stories with Claude
-    print("\n[2/5] Generating stories with Claude...")
+    # 2. Generate stories with the LLM
+    print("\n[2/5] Generating stories with OpenAI...")
     stories = generate_stories_with_claude(candidates)
     print(f"  Generated {len(stories)} stories")
 
@@ -498,7 +491,7 @@ def generate_conversation_stories():
         "description": "Daily conversation stories for Spanish practice",
         "stories": stories,
         "last_updated": today.isoformat() + "Z",
-        "generated_by": "GitHub Actions + Anthropic API"
+        "generated_by": "GitHub Actions + OpenAI API"
     }
 
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:

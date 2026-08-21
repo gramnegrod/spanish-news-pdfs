@@ -30,13 +30,12 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install anthropic requests openai pydub
+          pip install -r requirements.txt
           # Install ffmpeg for pydub audio processing
           sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Generate conversation stories
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           cd scripts
@@ -114,13 +113,12 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install anthropic requests openai pydub
+          pip install -r requirements.txt
           # Install ffmpeg for pydub audio processing
           sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Generate wound care stories
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           cd scripts
