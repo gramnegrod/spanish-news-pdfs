@@ -1,11 +1,159 @@
 {
-  "date": "2026-08-20",
-  "generated_at": "2026-08-20T09:14:52.135223Z",
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T09:16:04.404126Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1001,
+  "total_stories": 1005,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20250821",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Una nanopartícula nueva acelera la curación de heridas crónicas",
+      "headline_en": "New nanoparticle speeds up healing of chronic wounds",
+      "summary_es": "Un nuevo tratamiento con nanopartículas combina dos estrategias para curar las heridas crónicas más rápidamente. Este avance ofrece esperanza a muchos pacientes con heridas que no cicatrizan bien.",
+      "body_es": "Los investigadores desarrollaron una nanopartícula especial para tratar heridas crónicas. Las heridas crónicas son lesiones en la piel que no cicatrizan normalmente. La nanopartícula combina dos métodos de tratamiento diferentes. El primer método reduce la infección. El segundo método estimula la curación natural del cuerpo. Los estudios muestran que este tratamiento acelera mucho el proceso de cicatrización. Esta tecnología es importante para pacientes con úlceras diabéticas y otras heridas difíciles. Los médicos esperan usar este tratamiento pronto en los hospitales. Es una solución nueva y prometedora para los problemas de cicatrización.",
+      "body_en": "Researchers developed a special nanoparticle to treat chronic wounds. Chronic wounds are skin injuries that do not heal normally. The nanoparticle combines two different treatment methods. The first method reduces infection. The second method stimulates the body's natural healing process. Studies show this treatment significantly speeds up the healing process. This technology is important for patients with diabetic ulcers and other difficult wounds. Doctors hope to use this treatment soon in hospitals. It is a new and promising solution for healing problems.",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2g0WFRNNUhKeExOLTFsdldraVpHM0d3UkF0V1d1YmhTdFZRQnpfaWNyM2pRUUhKb0F3Z29nd19kY04yRVlhVnlSMV8zYnZLX1lBbTZIeWdsQjA1dXAtazZmbWtXcjhLeU0xY0F5aXhlOThzT1pnUm9TbElTaWx0R0ZkMjRzOXdUaWc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-21/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida crónica",
+          "definition_es": "lesión en la piel que no cicatriza normalmente",
+          "definition_en": "chronic wound - skin injury that does not heal normally"
+        },
+        {
+          "word": "nanopartícula",
+          "definition_es": "partícula muy pequeña usada en medicina",
+          "definition_en": "nanoparticle - very small particle used in medicine"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de curación de una herida",
+          "definition_en": "healing process - wound repair and closure"
+        },
+        {
+          "word": "infección",
+          "definition_es": "contaminación de una herida por bacterias",
+          "definition_en": "infection - contamination of wound by bacteria"
+        }
+      ],
+      "added_at": "2026-08-21T09:16:04.404126Z"
+    },
+    {
+      "id": "burn-care-20250821",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "El apósito PermeaDerm reduce costos en el tratamiento de quemaduras",
+      "headline_en": "PermeaDerm dressing reduces costs in burn treatment",
+      "summary_es": "Un nuevo estudio demuestra que el apósito PermeaDerm ofrece ventajas económicas significativas comparado con los aloinjertos para tratar quemaduras. Los resultados clínicos son comparables mientras se reduce el costo hasta un 70 por ciento.",
+      "body_es": "Avita Medical realizó un estudio importante sobre el tratamiento de quemaduras. El apósito PermeaDerm es un material nuevo para cubrir y proteger las quemaduras. Los investigadores compararon este apósito con los aloinjertos, que son injertos de piel de donantes. El estudio mostró que PermeaDerm es 70 por ciento más económico que los aloinjertos. Los resultados clínicos fueron similares en ambos tratamientos. Los pacientes que usaron PermeaDerm tuvieron cicatrización comparable a los tratados con aloinjertos. Este descubrimiento es significativo porque reduce los gastos hospitalarios. El tratamiento de quemaduras es muy costoso, y una solución más económica beneficia a muchos pacientes. El apósito PermeaDerm podría cambiar la forma en que los hospitales tratan las quemaduras graves.",
+      "body_en": "Avita Medical conducted an important study on burn treatment. The PermeaDerm dressing is a new material to cover and protect burns. Researchers compared this dressing with allografts, which are skin grafts from donors. The study showed that PermeaDerm is 70 percent less expensive than allografts. Clinical outcomes were similar in both treatments. Patients who used PermeaDerm had healing comparable to those treated with allografts. This finding is significant because it reduces hospital expenses. Burn treatment is very costly, and a more economical solution benefits many patients. The PermeaDerm dressing could change how hospitals treat severe burns.",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMUoydV8xWUM2eVU1QnFxcjVpZjI4Y3NSU3RZM3BKV0Voa2RfZVFiS1UzMUlHQVFlWE9WWmF3d0xGdHdvbW1CS2dkM0NNWnBpa1ROZVZoN3JBbl9WRlgzYXg0dmxTckRkZWZDQ0w2cUJDR3ZXTHIzNXJybEZBWmdBU2k3cHNFbWZDSTQtdjFZbmlnaVpKbzVCV0R3czNRNHMtMXpOS2RlUEVNS29RbWhaMXYzZWMzcVFRWE8xdncxRVU5bWZ5S1E2ZWpNajJvS0h3cU1pOV9oOWRSYi1nZV9BRmtYSU1IOXFUbDFRcW1PcVVFZDdSZnlrOW16TzUyYms?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-21/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre una herida para protegerla",
+          "definition_en": "dressing - material that covers a wound to protect it"
+        },
+        {
+          "word": "aloinjerto",
+          "definition_es": "injerto de piel de otra persona o donante",
+          "definition_en": "allograft - skin graft from another person or donor"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por fuego o calor intenso",
+          "definition_en": "burn - injury caused by fire or intense heat"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso mediante el cual la piel se recupera de una herida",
+          "definition_en": "healing - process by which skin recovers from injury"
+        }
+      ],
+      "added_at": "2026-08-21T09:16:04.404126Z"
+    },
+    {
+      "id": "surgical-wounds-20250821",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "Nomograma predice complicaciones de cicatrización en cirugía de fractura de calcáneo",
+      "headline_en": "Nomogram predicts healing complications in calcaneal fracture surgery",
+      "summary_es": "Investigadores de Frontiers desarrollaron una herramienta que predice qué pacientes con diabetes tipo 2 tendrán problemas de cicatrización después de una cirugía de fractura de talón. Este nomograma validado ayuda a los cirujanos a identificar pacientes de alto riesgo.",
+      "body_es": "Un nuevo nomograma ha sido desarrollado para predecir complicaciones de cicatrización en pacientes sometidos a cirugía de fractura de calcáneo, especialmente aquellos con diabetes tipo 2. El nomograma es una herramienta matemática que utiliza factores de riesgo del paciente para hacer predicciones precisas. Los investigadores validaron internamente este modelo usando datos de múltiples pacientes. Los pacientes diabéticos tienen mayor riesgo de problemas de cicatrización después de la cirugía. Este nomograma identifica cuáles pacientes necesitan cuidados especiales y seguimiento más frecuente. Los cirujanos pueden usar esta herramienta para planificar mejor el tratamiento postoperatorio. El objetivo es prevenir complicaciones como infecciones, dehiscencia de herida, y necrosis tisular. Este avance mejora la calidad de la atención quirúrgica y los resultados para pacientes con fractura de talón y diabetes.",
+      "body_en": "A new nomogram has been developed to predict healing complications in patients undergoing calcaneal fracture surgery, especially those with type 2 diabetes. The nomogram is a mathematical tool that uses patient risk factors to make accurate predictions. Researchers internally validated this model using data from multiple patients. Diabetic patients have higher risk of healing problems after surgery. This nomogram identifies which patients need special care and more frequent follow-up. Surgeons can use this tool to better plan postoperative treatment. The goal is to prevent complications such as infections, wound dehiscence, and tissue necrosis. This advancement improves the quality of surgical care and outcomes for patients with calcaneal fracture and diabetes.",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aUG53NFkyQTZreHQ0UWpVTTlaY0lvc09ocDdIVVJPT3NraU93V2MzT2JOTHJkZm81TV9QNExMODJMRGNad1FTdXJpVUkxWTFvVXhUZnhoUm5WT0EzWkJHZVNyUmZxbU1oOFdNTkN5OHBGVVdfYnVR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-21/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "nomograma",
+          "definition_es": "herramienta gráfica o matemática para hacer predicciones médicas",
+          "definition_en": "nomogram - graphical or mathematical tool for medical predictions"
+        },
+        {
+          "word": "calcáneo",
+          "definition_es": "hueso del talón en el pie",
+          "definition_en": "calcaneus - heel bone in the foot"
+        },
+        {
+          "word": "dehiscencia de herida",
+          "definition_es": "reapertura de una herida quirúrgica cicatrizada",
+          "definition_en": "wound dehiscence - reopening of healed surgical wound"
+        },
+        {
+          "word": "necrosis tisular",
+          "definition_es": "muerte de células o tejido del cuerpo",
+          "definition_en": "tissue necrosis - death of body cells or tissue"
+        }
+      ],
+      "added_at": "2026-08-21T09:16:04.404126Z"
+    },
+    {
+      "id": "wound-research-20250821",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Investigadores de UConn ganan premio militar por tecnología de cicatrización de heridas traumáticas",
+      "headline_en": "UConn researchers win military award for traumatic wound healing technology",
+      "summary_es": "La Escuela Dental de la Universidad de Connecticut fue reconocida por el ejército estadounidense por desarrollar una tecnología innovadora para acelerar la cicatrización de heridas traumáticas graves. Este premio financia investigación que podría beneficiar a militares y civiles.",
+      "body_es": "Investigadores de la Escuela Dental de la Universidad de Connecticut recibieron un premio importante del ejército estadounidense por su trabajo en cicatrización de heridas traumáticas. Las heridas traumáticas son lesiones severas causadas por accidentes, combate, o trauma físico intenso. Estos tipos de heridas son particularmente difíciles de tratar y requieren innovación médica. El equipo de UConn desarrolló una tecnología que acelera significativamente el proceso de curación. El premio financiará investigación adicional para mejorar esta tecnología. Los beneficios potenciales incluyen mejor recuperación para soldados y civiles con heridas graves. La tecnología podría implementarse en hospitales militares y civiles. Este reconocimiento del ejército refleja la importancia clínica del trabajo realizado. La cicatrización mejorada de heridas traumáticas podría reducir complicaciones como infecciones y discapacidad permanente.",
+      "body_en": "Researchers from the University of Connecticut School of Dentistry received an important award from the U.S. military for their work on traumatic wound healing. Traumatic wounds are severe injuries caused by accidents, combat, or intense physical trauma. These types of wounds are particularly difficult to treat and require medical innovation. The UConn team developed a technology that significantly accelerates the healing process. The award will fund additional research to improve this technology. Potential benefits include better recovery for soldiers and civilians with severe wounds. The technology could be implemented in military and civilian hospitals. This military recognition reflects the clinical importance of the work performed. Improved healing of traumatic wounds could reduce complications such as infections and permanent disability.",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYnVwTG9RWnI5b1pIcGx3dUhnaTAyNnVvUkRmMXNMdmtUU0E4WU1VUzAwTl8zc2FoVGU1MFprVllyQUx4WVZvZjQ5YXVudG1Gd2dvZDlETDR3VldUbUpCWHVnSXVhblMtdkI5a0hDWDZtbG1NdGRlSktMZVhORlNDLTl1a3hGVXR2YUs0Mmw1NncwTFdOSlZSUWFEdjQ0VWRBWDV3VEZLUkVvNUpVYk5HYThOMXJtSVBJV213R1BCSktaQnZKLTJ1SVNNcw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-21/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida traumática",
+          "definition_es": "lesión grave causada por accidente o trauma físico intenso",
+          "definition_en": "traumatic wound - severe injury caused by accident or intense physical trauma"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso de recuperación y cierre de una herida",
+          "definition_en": "healing - process of wound recovery and closure"
+        },
+        {
+          "word": "tecnología",
+          "definition_es": "aplicación científica de métodos e instrumentos médicos",
+          "definition_en": "technology - scientific application of medical methods and instruments"
+        },
+        {
+          "word": "complicaciones",
+          "definition_es": "problemas adicionales que surgen durante la recuperación",
+          "definition_en": "complications - additional problems that arise during recovery"
+        }
+      ],
+      "added_at": "2026-08-21T09:16:04.404126Z"
+    },
     {
       "id": "chronic-wounds-20250820",
       "category": "Chronic Wounds",
@@ -37038,6 +37186,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-20T09:14:52.135223Z",
+  "last_updated": "2026-08-21T09:16:04.404126Z",
   "generated_by": "GitHub Actions + Anthropic API (accumulative mode)"
 }
