@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-23",
+      "filename": "spanish_lesson_2026-08-23.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-23.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Un juez anula la pausa de visas para 75 países",
+          "headline_en": "A judge cancels the visa pause for 75 countries",
+          "body_es": "Un juez federal anuló una política del gobierno de Donald Trump sobre visas de inmigración. La política ordenaba suspender temporalmente el procesamiento de estas visas para personas de 75 países. Muchas solicitudes quedaron detenidas, aunque algunas personas ya habían esperado meses para recibir una entrevista. El gobierno defendió la medida y dijo que necesitaba revisar mejor la información de los solicitantes. Sin embargo, grupos de inmigrantes y abogados llevaron el caso a los tribunales. El juez decidió que la política no podía continuar en esa forma. Su decisión permite que las autoridades reanuden el trabajo con esas solicitudes. La orden no significa que todos los solicitantes recibirán una visa inmediatamente. Cada caso todavía debe cumplir las reglas de inmigración de Estados Unidos. Las familias afectadas esperan ahora nuevas instrucciones de las embajadas. El caso muestra cómo una decisión judicial puede cambiar rápidamente una política federal. También refleja la discusión nacional sobre seguridad, inmigración y los poderes del presidente.",
+          "body_en": "A federal judge struck down a Donald Trump administration policy about immigration visas. The policy ordered the temporary suspension of processing these visas for people from 75 countries. Many applications were put on hold, although some people had already waited months for an interview. The government defended the measure and said it needed to review applicants’ information more carefully. However, immigrant groups and lawyers took the case to court. The judge decided that the policy could not continue in that form. The decision allows authorities to resume work on those applications. The order does not mean that all applicants will receive a visa immediately. Each case must still meet United States immigration rules. The affected families now await new instructions from the embassies. The case shows how a court decision can quickly change a federal policy. It also reflects the national debate about security, immigration, and presidential powers.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La guerra comercial con Canadá podría golpear a EE. UU.",
+          "headline_en": "Trade war with Canada could hit the U.S.",
+          "body_es": "Estados Unidos y Canadá mantienen un comercio enorme y muy conectado. Cada día, empresas de los dos países compran y venden alimentos, energía, autos y piezas. Por eso, una guerra comercial podría afectar a muchas compañías y familias estadounidenses. El conflicto comenzó cuando el gobierno de Trump anunció nuevos aranceles para productos canadienses. Canadá respondió con sus propios aranceles sobre productos de Estados Unidos. Un arancel es un impuesto sobre productos extranjeros y puede elevar sus precios. Los precios pueden subir si las empresas pagan más por materiales importados. Algunas compañías podrían reducir la producción o retrasar nuevas inversiones. Los agricultores, fabricantes y trabajadores de transporte también podrían sufrir pérdidas. Canadá es un mercado importante para las exportaciones estadounidenses, especialmente para alimentos, petróleo y productos industriales. La disputa también puede interrumpir cadenas de suministro que cruzan la frontera varias veces. Economistas advierten que un conflicto largo podría aumentar la inflación y debilitar el crecimiento. Los dos gobiernos todavía pueden negociar para reducir las medidas. Mientras tanto, las empresas preparan planes para enfrentar la incertidumbre.",
+          "body_en": "The United States and Canada maintain a huge and closely connected trading relationship. Every day, companies in both countries buy and sell food, energy, cars, and parts. For that reason, a trade war could affect many American companies and families. The conflict began when the Trump administration announced new tariffs on Canadian products. Canada responded with its own tariffs on U.S. products. A tariff is a tax on foreign products, and it can raise their prices. Prices may rise if companies pay more for imported materials. Some companies could reduce production or delay new investments. Farmers, manufacturers, and transport workers could also suffer losses. Canada is an important market for U.S. exports, especially food, oil, and industrial products. The dispute could also interrupt supply chains that cross the border several times. Economists warn that a long conflict could increase inflation and weaken growth. The two governments can still negotiate to reduce the measures. Meanwhile, companies are preparing plans to face the uncertainty.",
+          "source": "The New York Times"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Los centros de datos necesitan más que energía: necesitan frío",
+          "headline_en": "Data centers need more than power: they need cooling",
+          "body_es": "Los centros de datos necesitan mucho más que electricidad para funcionar. También necesitan sistemas de refrigeración que mantengan los servidores a una temperatura segura. Estos edificios procesan información para internet, servicios digitales y programas de inteligencia artificial. Cuando aumenta la demanda de inteligencia artificial, las compañías construyen centros más grandes y potentes. Eso crea una oportunidad para fabricantes de equipos de aire y control térmico. Trane y Carrier venden sistemas que ayudan a sacar el calor de las máquinas. Sus soluciones pueden usar aire, agua u otras tecnologías, según el diseño del centro. La refrigeración es importante porque el calor puede dañar servidores y detener servicios. Además, los operadores buscan gastar menos energía y reducir sus costos. Por eso, no solo compran más electricidad; también invierten en equipos eficientes de enfriamiento. El crecimiento de estos centros puede beneficiar a Trane y Carrier, pero también exige nuevas soluciones. La expansión de la inteligencia artificial está cambiando el mercado de edificios y tecnología.",
+          "body_en": "Data centers need much more than electricity to operate. They also need cooling systems that keep servers at a safe temperature. These buildings process information for the internet, digital services, and artificial intelligence programs. When demand for artificial intelligence increases, companies build larger and more powerful centers. This creates an opportunity for makers of air and thermal-control equipment. Trane and Carrier sell systems that help remove heat from machines. Their solutions can use air, water, or other technologies, depending on the center’s design. Cooling is important because heat can damage servers and stop services. In addition, operators want to use less energy and reduce their costs. Therefore, they do not only buy more electricity; they also invest in efficient cooling equipment. The growth of these centers could benefit Trane and Carrier, but it also requires new solutions. The expansion of artificial intelligence is changing the buildings and technology market.",
+          "source": "Currently.com"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "política",
+          "syllables": "po-LÍ-ti-ca",
+          "pos": "sustantivo",
+          "context": "La política ordenaba suspender temporalmente el procesamiento de estas visas para personas de 75 países.",
+          "definition_es": "Plan o regla que decide un gobierno o una organización.",
+          "definition_en": "Policy"
+        },
+        {
+          "word": "suspender",
+          "syllables": "sus-pen-DER",
+          "pos": "verbo",
+          "context": "La política ordenaba suspender temporalmente el procesamiento de estas visas para personas de 75 países.",
+          "definition_es": "Detener algo por un tiempo.",
+          "definition_en": "To suspend or put on hold"
+        },
+        {
+          "word": "visa",
+          "syllables": "VI-sa",
+          "pos": "sustantivo",
+          "context": "La orden no significa que todos los solicitantes recibirán una visa inmediatamente.",
+          "definition_es": "Permiso oficial para entrar o vivir temporalmente en un país.",
+          "definition_en": "Visa"
+        },
+        {
+          "word": "juez",
+          "syllables": "JUEZ",
+          "pos": "sustantivo",
+          "context": "Un juez federal anuló una política del gobierno de Donald Trump sobre visas de inmigración.",
+          "definition_es": "Persona que decide casos en un tribunal.",
+          "definition_en": "Judge"
+        },
+        {
+          "word": "arancel",
+          "syllables": "a-ran-CEL",
+          "pos": "sustantivo",
+          "context": "Un arancel es un impuesto sobre productos extranjeros y puede elevar sus precios.",
+          "definition_es": "Impuesto sobre productos que llegan de otro país.",
+          "definition_en": "Tariff"
+        },
+        {
+          "word": "comercio",
+          "syllables": "co-MER-cio",
+          "pos": "sustantivo",
+          "context": "Estados Unidos y Canadá mantienen un comercio enorme y muy conectado.",
+          "definition_es": "Actividad de comprar y vender productos o servicios.",
+          "definition_en": "Trade or commerce"
+        },
+        {
+          "word": "demanda",
+          "syllables": "de-MAN-da",
+          "pos": "sustantivo",
+          "context": "Cuando aumenta la demanda de inteligencia artificial, las compañías construyen centros más grandes y potentes.",
+          "definition_es": "Cantidad o necesidad de algo que las personas quieren.",
+          "definition_en": "Demand"
+        },
+        {
+          "word": "refrigeración",
+          "syllables": "re-fri-ge-ra-CIÓN",
+          "pos": "sustantivo",
+          "context": "La refrigeración es importante porque el calor puede dañar servidores y detener servicios.",
+          "definition_es": "Proceso o sistema para mantener algo frío.",
+          "definition_en": "Cooling or refrigeration"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué es un arancel, según la historia de Economía?",
+          "options": [
+            "Un impuesto sobre productos extranjeros",
+            "Un permiso para trabajar",
+            "Un sistema para enfriar servidores",
+            "Una decisión de un juez"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "En la historia de Política, ¿qué significa suspender el procesamiento de visas?",
+          "options": [
+            "Acelerarlo",
+            "Detenerlo temporalmente",
+            "Cambiarlo de país",
+            "Eliminar todas las visas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "En la historia de Tecnología, ¿qué significa demanda?",
+          "options": [
+            "La cantidad de electricidad que ya se usa",
+            "Una decisión de un tribunal",
+            "El interés o la necesidad de algo",
+            "Un impuesto sobre productos"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué hace un sistema de refrigeración en un centro de datos?",
+          "options": [
+            "Mantiene los servidores a una temperatura segura",
+            "Aumenta los aranceles",
+            "Decide las solicitudes de visa",
+            "Vende productos agrícolas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿a cuántos países afectaba la política sobre el procesamiento de visas?",
+          "options": [
+            "A 15 países",
+            "A 50 países",
+            "A 75 países",
+            "A 100 países"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué permite la decisión del juez en la historia de Política?",
+          "options": [
+            "Que las autoridades reanuden el trabajo con las solicitudes",
+            "Que todos reciban una visa inmediatamente",
+            "Que se eliminen las reglas de inmigración",
+            "Que cierren las embajadas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿por qué una guerra comercial con Canadá puede afectar a familias estadounidenses?",
+          "options": [
+            "Porque los dos países tienen un comercio muy conectado",
+            "Porque Canadá construye centros de datos",
+            "Porque Estados Unidos no exporta ningún producto",
+            "Porque un juez cerró la frontera"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué grupos podrían sufrir pérdidas según la historia de Economía?",
+          "options": [
+            "Jueces y abogados",
+            "Agricultores, fabricantes y trabajadores de transporte",
+            "Turistas y estudiantes",
+            "Médicos y profesores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué necesitan refrigeración los centros de datos, según la historia de Tecnología?",
+          "options": [
+            "Para reducir los aranceles",
+            "Para proteger los servidores del calor y mantener los servicios",
+            "Para vender visas",
+            "Para cruzar la frontera"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué empresas aparecen como vendedoras de sistemas de refrigeración en la historia de Tecnología?",
+          "options": [
+            "Trane y Carrier",
+            "PBS y Currently",
+            "Canadá y Estados Unidos",
+            "Google y Apple"
+          ],
+          "answer": "A"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-23T09:07:39.918835"
+    },
+    {
       "date": "2026-08-22",
       "filename": "spanish_lesson_2026-08-22.pdf",
       "path": "pdfs/spanish_lesson_2026-08-22.pdf",
@@ -55066,7 +55288,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-22T09:07:42.908688",
+  "last_updated": "2026-08-23T09:07:39.918882",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
