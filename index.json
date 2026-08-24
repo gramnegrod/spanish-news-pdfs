@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-08-24",
+      "filename": "spanish_lesson_2026-08-24.pdf",
+      "path": "pdfs/spanish_lesson_2026-08-24.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Kushner y Jeffries hablan antes de una elección clave para la Cámara",
+          "headline_en": "Kushner and Jeffries talk before a key House election",
+          "body_es": "Jared Kushner, antiguo asesor de Donald Trump, se reunió con Hakeem Jeffries, líder demócrata en la Cámara de Representantes. El encuentro ocurrió antes de las elecciones de noviembre, cuando ambos partidos luchan por controlar la Cámara. Jeffries dirige la oposición demócrata y busca ganar más escaños para su partido en el Congreso. Kushner no ocupa un cargo oficial, pero mantiene relaciones importantes dentro del movimiento republicano. Según el informe, la conversación mostró que políticos de partidos diferentes todavía pueden hablar. También reflejó la importancia de los grupos independientes y de los votantes moderados. Los republicanos tienen una mayoría muy pequeña, por lo que cada distrito puede cambiar el resultado. Los demócratas esperan aprovechar preocupaciones sobre el gobierno, la economía y los servicios públicos. Durante la campaña, los candidatos probablemente hablarán de impuestos, inmigración, empleo y seguridad nacional. El control de la Cámara definirá qué leyes pueden avanzar después de las elecciones. Por eso, esta reunión recibió atención nacional antes de noviembre.",
+          "body_en": "Jared Kushner, a former adviser to Donald Trump, met with Hakeem Jeffries, the Democratic leader in the House of Representatives. The meeting took place before the November elections, when both parties are fighting to control the House. Jeffries leads the Democratic opposition and wants to win more seats for his party in Congress. Kushner does not hold an official position, but he maintains important relationships within the Republican movement. According to the report, the conversation showed that politicians from different parties can still talk. It also reflected the importance of independent groups and moderate voters. Republicans have a very small majority, so each district can change the result. Democrats hope to use concerns about the government, the economy, and public services. During the campaign, candidates will probably discuss taxes, immigration, jobs, and national security. Control of the House will determine which laws can move forward after the elections. For this reason, the meeting received national attention before November.",
+          "source": "PBS"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El nuevo jefe de la Fed enfrenta una prueba en Jackson Hole",
+          "headline_en": "New Fed chief faces a test at Jackson Hole as inflation fears grow",
+          "body_es": "El nuevo presidente de la Reserva Federal enfrenta una prueba importante en la reunión anual de Jackson Hole. Economistas y representantes de bancos centrales de muchos países participan en este encuentro celebrado en Wyoming. El discurso del presidente puede ofrecer señales sobre el futuro de los tipos de interés. Los inversores esperan saber si la Reserva Federal bajará los tipos pronto o mantendrá una política estricta. Las preocupaciones por la inflación han aumentado porque algunos precios continúan subiendo. Factores como los aranceles, la energía y los salarios pueden aumentar los costos para las empresas y las familias. Sin embargo, unas tasas demasiado altas pueden reducir el consumo y crear problemas para el empleo. La Reserva Federal debe equilibrar dos objetivos: controlar los precios y apoyar un mercado laboral saludable. Por eso, las palabras del nuevo líder serán examinadas cuidadosamente por los mercados. Una señal inesperada podría cambiar las previsiones sobre las próximas decisiones de política monetaria. El encuentro llega en un momento de dudas para la economía estadounidense.",
+          "body_en": "The new chair of the Federal Reserve faces an important test at the annual Jackson Hole meeting. Economists and representatives of central banks from many countries take part in this meeting in Wyoming. The chair’s speech could offer signals about the future of interest rates. Investors want to know whether the Federal Reserve will lower rates soon or maintain a strict policy. Concerns about inflation have increased because some prices continue to rise. Factors such as tariffs, energy, and wages can increase costs for businesses and families. However, rates that are too high can reduce spending and create problems for employment. The Federal Reserve must balance two goals: controlling prices and supporting a healthy labor market. For this reason, the new leader’s words will be carefully examined by the markets. An unexpected signal could change forecasts about the next monetary policy decisions. The meeting comes at a time of uncertainty for the U.S. economy.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "La inteligencia artificial llega a tus gafas",
+          "headline_en": "Artificial intelligence is coming to your glasses",
+          "body_es": "La inteligencia artificial está entrando en un nuevo producto: las gafas inteligentes. Varias empresas trabajan en gafas con cámaras, micrófonos, altavoces y un asistente digital. El usuario puede hacer preguntas y recibir respuestas sin sacar el teléfono del bolsillo. El sistema también puede describir objetos, traducir señales y ayudar a una persona a encontrar lugares. Algunas gafas ya pueden resumir conversaciones o recordar información durante el día. Esta tecnología promete una experiencia más rápida y cómoda que una pantalla pequeña. Sin embargo, las cámaras pueden causar problemas de privacidad en calles, tiendas y lugares de trabajo. Las personas podrían no saber cuándo están siendo grabadas o cómo se usan sus datos. El precio, la duración de la batería y la aceptación social también son desafíos importantes. Los fabricantes esperan que las gafas sean útiles, discretas y fáciles de usar. Por ahora, los teléfonos siguen siendo centrales, pero las gafas podrían cambiar nuestra relación con la tecnología.",
+          "body_en": "Artificial intelligence is entering a new product: smart glasses. Several companies are working on glasses with cameras, microphones, speakers, and a digital assistant. Users can ask questions and receive answers without taking their phone out of their pocket. The system can also describe objects, translate signs, and help a person find places. Some glasses can already summarize conversations or remember information during the day. This technology promises an experience that is faster and more convenient than a small screen. However, cameras can cause privacy problems in streets, stores, and workplaces. People may not know when they are being recorded or how their data is being used. Price, battery life, and social acceptance are also important challenges. Manufacturers hope the glasses will be useful, discreet, and easy to use. For now, phones remain central, but glasses could change our relationship with technology.",
+          "source": "Financial Times"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "elecciones",
+          "syllables": "e-lec-CIO-nes",
+          "pos": "sustantivo",
+          "context": "El encuentro ocurrió antes de las elecciones de noviembre, cuando ambos partidos luchan por controlar la Cámara.",
+          "definition_es": "Proceso en el que las personas votan para escoger a sus representantes.",
+          "definition_en": "Elections"
+        },
+        {
+          "word": "líder",
+          "syllables": "LÍ-der",
+          "pos": "sustantivo",
+          "context": "Por eso, las palabras del nuevo líder serán examinadas cuidadosamente por los mercados.",
+          "definition_es": "Persona que dirige un grupo o una organización.",
+          "definition_en": "Leader"
+        },
+        {
+          "word": "control",
+          "syllables": "con-TROL",
+          "pos": "sustantivo",
+          "context": "El control de la Cámara definirá qué leyes pueden avanzar después de las elecciones.",
+          "definition_es": "Poder o capacidad para dirigir algo.",
+          "definition_en": "Control"
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "Las preocupaciones por la inflación han aumentado porque algunos precios continúan subiendo.",
+          "definition_es": "Aumento general de los precios de productos y servicios.",
+          "definition_en": "Inflation"
+        },
+        {
+          "word": "inversores",
+          "syllables": "in-ver-SO-res",
+          "pos": "sustantivo",
+          "context": "Los inversores esperan saber si la Reserva Federal bajará los tipos pronto o mantendrá una política estricta.",
+          "definition_es": "Personas o grupos que ponen dinero para obtener beneficios.",
+          "definition_en": "Investors"
+        },
+        {
+          "word": "gafas",
+          "syllables": "GA-fas",
+          "pos": "sustantivo",
+          "context": "La inteligencia artificial está entrando en un nuevo producto: las gafas inteligentes.",
+          "definition_es": "Objeto que se coloca delante de los ojos y puede incluir tecnología.",
+          "definition_en": "Glasses"
+        },
+        {
+          "word": "privacidad",
+          "syllables": "pri-va-ci-DAD",
+          "pos": "sustantivo",
+          "context": "Sin embargo, las cámaras pueden causar problemas de privacidad en calles, tiendas y lugares de trabajo.",
+          "definition_es": "Derecho a mantener la vida personal y los datos protegidos.",
+          "definition_en": "Privacy"
+        },
+        {
+          "word": "tecnología",
+          "syllables": "tec-no-lo-GÍ-a",
+          "pos": "sustantivo",
+          "context": "Por ahora, los teléfonos siguen siendo centrales, pero las gafas podrían cambiar nuestra relación con la tecnología.",
+          "definition_es": "Conjunto de conocimientos y herramientas para crear soluciones.",
+          "definition_en": "Technology"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra «elecciones»?",
+          "options": [
+            "Votaciones para elegir representantes",
+            "Una reunión de bancos centrales",
+            "Un tipo de gafas",
+            "Un aumento de salarios"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "En la historia de Economía, ¿qué significa «inflación»?",
+          "options": [
+            "Una bajada general de precios",
+            "Un aumento general de precios",
+            "El control de la Cámara",
+            "El uso de cámaras en gafas"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es la «privacidad»?",
+          "options": [
+            "El derecho a proteger la vida personal y los datos",
+            "La capacidad de traducir señales",
+            "Una elección para el Congreso",
+            "Una decisión sobre los tipos de interés"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué son las «gafas»?",
+          "options": [
+            "Representantes de un partido político",
+            "Un objeto para los ojos que puede incluir tecnología",
+            "Personas que invierten dinero",
+            "Los precios de los productos"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿con quién se reunió Jared Kushner?",
+          "options": [
+            "Con Hakeem Jeffries",
+            "Con el presidente de la Reserva Federal",
+            "Con varios fabricantes de gafas",
+            "Con un grupo de inversores"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "En la historia de Política, ¿qué está en juego en las elecciones de noviembre?",
+          "options": [
+            "El precio de la energía",
+            "La duración de la batería",
+            "El control de la Cámara de Representantes",
+            "La elección del jefe de la Fed"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿dónde se celebra la reunión anual?",
+          "options": [
+            "En Washington, D. C.",
+            "En Jackson Hole, Wyoming",
+            "En Nueva York",
+            "En California"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué dos objetivos debe equilibrar la Reserva Federal?",
+          "options": [
+            "Controlar los precios y apoyar el mercado laboral",
+            "Bajar los salarios y aumentar los aranceles",
+            "Vender gafas y proteger los teléfonos",
+            "Organizar elecciones y dirigir el Congreso"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué pueden hacer las gafas inteligentes?",
+          "options": [
+            "Votar en las elecciones",
+            "Traducir señales y describir objetos",
+            "Bajar los tipos de interés",
+            "Controlar el Congreso"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es una preocupación sobre las cámaras de las gafas inteligentes?",
+          "options": [
+            "Pueden cambiar las elecciones",
+            "Pueden reducir la inflación",
+            "Pueden aumentar el empleo",
+            "Las personas pueden no saber cuándo están siendo grabadas"
+          ],
+          "answer": "D"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-08-24T09:16:20.155363"
+    },
+    {
       "date": "2026-08-23",
       "filename": "spanish_lesson_2026-08-23.pdf",
       "path": "pdfs/spanish_lesson_2026-08-23.pdf",
@@ -55288,7 +55510,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-08-23T09:07:39.918882",
+  "last_updated": "2026-08-24T09:16:20.155405",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
