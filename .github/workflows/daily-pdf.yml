@@ -2,8 +2,10 @@ name: Generate Daily Spanish PDF
 
 on:
   schedule:
-    # Run at 3:00 AM Central Time (9:00 AM UTC)
-    - cron: '0 9 * * *'
+    # 09:20 UTC. Staggered 20 min after daily-conversation-stories.yml:
+    # both workflows commit and push to main, and running them in the same
+    # minute makes the loser of the race fail on a rejected push.
+    - cron: '20 9 * * *'
 
   # Allow manual trigger
   workflow_dispatch:
