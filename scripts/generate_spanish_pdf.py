@@ -151,11 +151,16 @@ RESPOND WITH JSON ONLY - pick one story number per category:
         response = client.chat.completions.create(
             model="gpt-5.6-luna",
             reasoning_effort="xhigh",
-            max_completion_tokens=8000,  # ~500 content + xhigh reasoning headroom
+            max_completion_tokens=8000,  # measured: 294 reasoning + 156 content
             response_format={"type": "json_object"},
             messages=[{"role": "user", "content": selection_prompt}]
         )
 
+        if response.choices[0].finish_reason == "length":
+            raise RuntimeError(
+                "Token budget exhausted before any output: reasoning consumed all of "
+                f"max_completion_tokens ({response.usage.completion_tokens}). Raise the cap."
+            )
         response_text = response.choices[0].message.content or ""
 
         selections = json.loads(response_text)
@@ -280,12 +285,17 @@ Respond with ONLY the JSON, no other text."""
     response = client.chat.completions.create(
         model="gpt-5.6-luna",
         reasoning_effort="xhigh",
-        max_completion_tokens=20000,  # 4000 output + reasoning headroom
+        max_completion_tokens=40000,  # measured: 14846 reasoning + 3308 content
         response_format={"type": "json_object"},
         messages=[{"role": "user", "content": prompt}]
     )
 
     # Parse the response
+    if response.choices[0].finish_reason == "length":
+        raise RuntimeError(
+            "Token budget exhausted before any output: reasoning consumed all of "
+            f"max_completion_tokens ({response.usage.completion_tokens}). Raise the cap."
+        )
     response_text = response.choices[0].message.content or ""
 
     return json.loads(response_text)
