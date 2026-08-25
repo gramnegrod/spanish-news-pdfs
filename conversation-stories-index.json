@@ -1,225 +1,225 @@
 {
-  "date": "2026-08-24",
-  "generated_at": "2026-08-24T21:12:38.606439Z",
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T09:20:43.727623Z",
   "description": "Daily conversation stories for Spanish practice",
   "stories": [
     {
-      "id": "tech-20260824",
+      "id": "tech-20260825",
       "category": "Tecnología",
       "difficulty": "A2",
       "emoji": "🤖",
       "gradient": "blue",
-      "headline_es": "Nueva York añade 30.640 trabajadores tecnológicos y adelanta a San Francisco",
-      "headline_en": "New York Adds 30,640 Tech Workers and Pulls Ahead of San Francisco",
-      "summary_es": "Nueva York añadió 30.640 trabajadores tecnológicos en tres años y adelantó a San Francisco. El aumento se relaciona con la fuerte contratación en inteligencia artificial.",
-      "body_es": "Nueva York añadió 30.640 trabajadores de tecnología en tres años. La ciudad adelanta a San Francisco en nuevas contrataciones del sector. El crecimiento está relacionado con la inteligencia artificial, conocida como IA. Muchas empresas tecnológicas abren equipos y buscan personas con nuevas habilidades. Estos trabajadores ocupan puestos en programación, datos, diseño y atención técnica. El artículo de Fortune presenta este cambio en el mercado laboral estadounidense. Nueva York ya es un centro importante para las empresas de tecnología. San Francisco mantiene una gran comunidad tecnológica, pero ahora enfrenta más competencia. La llegada de estos empleos cambia oficinas, barrios y transporte. También crea oportunidades para jóvenes y profesionales de otras ciudades. La cifra de 30.640 trabajadores cubre un periodo de tres años, no un solo año. El avance de la IA explica una parte importante de esta tendencia.",
-      "body_en": "New York added 30,640 technology workers in three years. The city is pulling ahead of San Francisco in new hiring in the sector. The growth is related to artificial intelligence, known as AI. Many technology companies are opening teams and looking for people with new skills. These workers fill positions in programming, data, design, and technical support. The Fortune article presents this change in the U.S. labor market. New York is already an important center for technology companies. San Francisco maintains a large technology community, but it now faces more competition. The arrival of these jobs changes offices, neighborhoods, and transportation. It also creates opportunities for young people and professionals from other cities. The figure of 30,640 workers covers a period of three years, not a single year. The growth of AI explains an important part of this trend.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-24/tech.mp3",
+      "headline_es": "La inteligencia artificial también necesita agua",
+      "headline_en": "Artificial Intelligence Also Needs Water",
+      "summary_es": "Los centros de datos usan agua para enfriar las máquinas que trabajan con inteligencia artificial. Un estudio calcula que entrenar GPT-3 pudo necesitar unos 700.000 litros de agua dulce.",
+      "body_es": "La inteligencia artificial usa mucha electricidad, pero también necesita agua. Los centros de datos tienen miles de computadoras. Estas máquinas producen calor y necesitan sistemas de enfriamiento. A veces, esos sistemas usan agua.\n\nUn estudio calculó que entrenar el modelo GPT-3 pudo usar unos 700.000 litros de agua dulce. La cifra depende del lugar, la temperatura y la fuente de electricidad. Además, cada pregunta a un programa de IA usa poca energía. También usa una pequeña cantidad de agua. Una pregunta usa poco, pero millones de preguntas forman un número grande.\n\nLos expertos dicen que las empresas deben medir su consumo. Algunas construyen centros en lugares más fríos o usan agua reciclada. La IA ayuda en la medicina, la educación y otros trabajos. Sin embargo, su crecimiento también crea un desafío para el ambiente y las comunidades locales.",
+      "body_en": "Artificial intelligence uses a lot of electricity, but it also needs water. Data centers have thousands of computers. These machines produce heat and need cooling systems. Sometimes those systems use water.\n\nOne study estimated that training the GPT-3 model may have used about 700,000 liters of fresh water. The amount depends on the location, the temperature, and the source of electricity. In addition, each question asked of an AI program uses a little energy. It also uses a small amount of water. One question uses little, but millions of questions make a large number.\n\nExperts say companies should measure their consumption. Some are building centers in colder places or using recycled water. AI helps in medicine, education, and other jobs. However, its growth also creates a challenge for the environment and local communities.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-25/tech.mp3",
       "key_vocabulary": [
         {
-          "word": "contrataciones",
-          "definition_es": "Nuevos empleos para trabajadores.",
-          "definition_en": "New hires or hiring."
+          "word": "enfriamiento",
+          "definition_es": "Proceso para hacer que una máquina esté menos caliente.",
+          "definition_en": "The process of making a machine less hot."
         },
         {
-          "word": "habilidades",
-          "definition_es": "Capacidades para hacer un trabajo.",
-          "definition_en": "Skills or abilities."
+          "word": "dulce",
+          "definition_es": "Agua que no tiene sal.",
+          "definition_en": "Water that does not contain salt; fresh water."
         },
         {
-          "word": "competencia",
-          "definition_es": "Situación de empresas que compiten entre sí.",
-          "definition_en": "Competition between companies."
+          "word": "consumo",
+          "definition_es": "Cantidad de algo que se usa.",
+          "definition_en": "The amount of something that is used."
         },
         {
-          "word": "tendencia",
-          "definition_es": "Cambio general que continúa durante un tiempo.",
-          "definition_en": "A general pattern or direction."
+          "word": "reciclada",
+          "definition_es": "Que se usa otra vez después de limpiarla.",
+          "definition_en": "Used again after being cleaned."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-24/tech-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, ¿viste esto? Nueva York metió 30,640 trabajadores tech en tres años y ya le ganó a San Francisco. ¡No manches!  \nCARLOS: ¿En serio? Está cañón. Y no es de un solo año, ¿eh? Tres años, pero aun así… pesado.  \nLAURA: Sí, pero igual suena a “bienvenidos, nerds”. Jajaja. ¿Será por la IA?  \nCARLOS: Ajá, la IA trae hambre de gente: programación, datos, diseño, soporte… todo mundo buscando skills nuevas.  \nLAURA: Imagínate los cafés en Brooklyn: puros laptops, matcha, y “tengo un prompt buenísimo”.  \nCARLOS: Y el metro atascado de ingenieros con audífonos. Pero también está chido: más chamba, más oportunidades.  \nLAURA: Para banda joven y gente que se muda de otras ciudades, ¿no?  \nCARLOS: Sí, aunque San Francisco sigue fuerte, nomás ya tiene competencia real.  \nLAURA: O sea, la pelea es: bagels vs. burritos.  \nCARLOS: Exacto. Y yo… me pido los dos."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-25/tech-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste la nota de que la IA también necesita… agua? ¡No manches!  \nCARLOS: ¿Agua? Yo juraba que solo tragaba electricidad y ya, como robot con café cargado.  \nLAURA: Pues no, los centros de datos tienen un montón de compus y se calientan cañón. Hay que enfriarlos.  \nCARLOS: Y a veces ese enfriamiento usa agua… ok, eso sí está medio intenso.  \nLAURA: Un estudio dice que entrenar GPT-3 pudo usar como 700 mil litros de agua dulce. ¿En serio?  \nCARLOS: Depende del lugar, el clima y de dónde sale la electricidad. Pero igual… suena a alberca olímpica chiquita.  \nLAURA: Y cada pregunta usa poquito… pero millones de preguntas: ¡boom!  \nCARLOS: Exacto, el “poquito” se vuelve un “uy, ya se fue la cisterna”.  \nLAURA: Dicen que las empresas deberían medirlo y construir en lugares fríos o usar agua reciclada.  \nCARLOS: La IA está padre para medicina y escuela, pero hay que usarla con tantita conciencia.  \nLAURA: Total: menos prompts por ansiedad y más agua para los tacos… digo, para todos."
     },
     {
-      "id": "sports-20260824",
+      "id": "sports-20260825",
       "category": "Deportes",
       "difficulty": "A2",
       "emoji": "⚽",
       "gradient": "green",
-      "headline_es": "WVU prepara su primer partido de fútbol en casa",
-      "headline_en": "WVU Prepares for Its First Home Soccer Match",
-      "summary_es": "El equipo masculino de WVU recibe a St. Bonaventure en su primer partido en casa. Una previa de WVU Sports Nation explica el encuentro y el inicio de la temporada 2026.",
-      "body_es": "El equipo masculino de fútbol de West Virginia University prepara su primer partido en casa. Los Mountaineers reciben a St. Bonaventure en el partido inaugural como locales. WVU Sports Nation publicó una previa del encuentro. El artículo presenta el partido y habla del comienzo de la temporada 2026. Para el equipo, jugar en casa ofrece una oportunidad importante frente a sus aficionados. Los jugadores entrenan para mejorar el ataque, la defensa y los pases. St. Bonaventure llega como el rival de esta jornada. Los aficionados de Morgantown esperan ver un partido intenso. El resultado todavía no aparece en la previa. Por eso, la noticia se concentra en el partido, no en un marcador final. El fútbol universitario reúne a estudiantes, familias y seguidores de la comunidad. El encuentro también marca el inicio de la campaña local de WVU.",
-      "body_en": "The men's soccer team of West Virginia University is preparing for its first home match. The Mountaineers host St. Bonaventure in the opening match at home. WVU Sports Nation published a preview of the game. The article presents the match and discusses the start of the 2026 season. For the team, playing at home offers an important opportunity in front of its fans. The players train to improve their attack, defense, and passes. St. Bonaventure is the opponent for this matchday. Fans in Morgantown expect to see an intense game. The result does not yet appear in the preview. For that reason, the news focuses on the game, not on a final score. College soccer brings together students, families, and community supporters. The match also marks the start of WVU's home campaign.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-24/sports.mp3",
+      "headline_es": "Louisville remonta y gana 3-2 a Kentucky",
+      "headline_en": "Louisville Comes Back to Beat Kentucky 3-2",
+      "summary_es": "Louisville venció a Kentucky por 3-2 después de empezar en desventaja. La victoria fuera de casa completó una remontada emocionante entre dos rivales del estado.",
+      "body_es": "El equipo de fútbol de Louisville ganó 3-2 en casa de Kentucky. El partido fue un derbi importante entre los Cardinals y los Wildcats. Kentucky tomó la ventaja al principio, pero Louisville reaccionó y marcó tres goles. Así, el equipo visitante completó una remontada emocionante.\n\nEl gol decisivo llegó antes del final y aseguró la victoria de Louisville. El equipo celebró con sus compañeros y con el cuerpo técnico. El resultado es especial porque Louisville ganó fuera de casa, en el campo de su rival. Kentucky tuvo oportunidades, pero no pudo mantener su ventaja.\n\nLos aficionados de ambos equipos vieron un encuentro con cinco goles y mucha emoción. Ahora Louisville puede usar esta victoria para ganar confianza en sus próximos partidos. Kentucky, por su parte, necesita trabajar para mejorar su defensa.",
+      "body_en": "Louisville's soccer team won 3-2 at Kentucky. The game was an important in-state rivalry between the Cardinals and the Wildcats. Kentucky took the lead early, but Louisville reacted and scored three goals. In this way, the visiting team completed an exciting comeback.\n\nThe decisive goal came before the end and secured Louisville's victory. The team celebrated with its teammates and coaching staff. The result is special because Louisville won away from home, on its rival's field. Kentucky had chances, but it could not keep its lead.\n\nFans of both teams saw a game with five goals and a lot of excitement. Now Louisville can use this victory to gain confidence in its next games. Kentucky, for its part, needs to work on improving its defense.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-25/sports.mp3",
       "key_vocabulary": [
         {
-          "word": "previa",
-          "definition_es": "Artículo que presenta un partido antes de jugarlo.",
-          "definition_en": "An article about a game before it is played."
-        },
-        {
-          "word": "aficionados",
-          "definition_es": "Personas que siguen y apoyan a un equipo.",
-          "definition_en": "Fans or supporters."
+          "word": "remontada",
+          "definition_es": "Victoria después de ir perdiendo.",
+          "definition_en": "A win after being behind."
         },
         {
           "word": "rival",
-          "definition_es": "Equipo o persona que compite contra otro.",
-          "definition_en": "Opponent or rival."
+          "definition_es": "Equipo contrario.",
+          "definition_en": "Opposing team."
         },
         {
-          "word": "marcador",
-          "definition_es": "Resultado con los puntos de un partido.",
-          "definition_en": "The score of a game."
+          "word": "ventaja",
+          "definition_es": "Situación de tener más goles o puntos.",
+          "definition_en": "A lead or advantage in points or goals."
+        },
+        {
+          "word": "aficionados",
+          "definition_es": "Personas que apoyan a un equipo.",
+          "definition_en": "People who support a team; fans."
         }
       ]
     },
     {
-      "id": "culture-20260824",
+      "id": "culture-20260825",
       "category": "Cultura",
       "difficulty": "B1",
       "emoji": "🎭",
       "gradient": "purple",
-      "headline_es": "Taste of Polonia regresa a Chicago con cuatro días de cultura",
-      "headline_en": "Taste of Polonia Returns to Chicago with Four Days of Culture",
-      "summary_es": "El festival Taste of Polonia regresará a Chicago durante cuatro días. Habrá música, comida polaca, cultura y actividades para familias.",
-      "body_es": "El festival Taste of Polonia volverá al Copernicus Center de Chicago durante cuatro días. El evento reunirá música, comida polaca, actividades culturales y diversión para las familias. La celebración tendrá lugar en Chicago, una ciudad con una comunidad polaca muy importante. Durante el festival, los visitantes podrán probar platos tradicionales y escuchar diferentes grupos musicales. También conocerán costumbres que muchas familias polacas han conservado durante generaciones. En años anteriores, Taste of Polonia ofrecía un ambiente familiar y reunía a personas de distintas edades. Los organizadores esperan que el regreso atraiga tanto a residentes como a turistas. Si el público busca una experiencia cultural completa, encontrará conciertos, comida y actividades en un mismo lugar. El festival no presentará solamente una muestra de Polonia; también mostrará cómo una comunidad mantiene sus raíces en Estados Unidos. Para muchas personas, será una oportunidad para celebrar su historia y compartirla con nuevos visitantes. La noticia destaca que el programa durará cuatro días, algo que permitirá disfrutar del evento sin prisa.",
-      "body_en": "The Taste of Polonia festival will return to Chicago's Copernicus Center for four days. The event will bring together music, Polish food, cultural activities, and fun for families. The celebration will take place in Chicago, a city with a very important Polish community. During the festival, visitors will be able to try traditional dishes and listen to different musical groups. They will also learn about customs that many Polish families have preserved for generations. In previous years, Taste of Polonia offered a family-friendly atmosphere and brought together people of different ages. Organizers hope the return will attract both residents and tourists. If the public is looking for a complete cultural experience, it will find concerts, food, and activities in one place. The festival will not present only a display of Poland; it will also show how a community maintains its roots in the United States. For many people, it will be an opportunity to celebrate their history and share it with new visitors. The news highlights that the program will last four days, which will allow people to enjoy the event without rushing.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-24/culture.mp3",
+      "headline_es": "Hadestown llega al streaming con una versión filmada",
+      "headline_en": "Hadestown Comes to Streaming with a Filmed Version",
+      "summary_es": "El musical Hadestown llega a BroadwayHD con una versión filmada de su producción teatral. La obra de Anaïs Mitchell ganó ocho premios Tony en 2019.",
+      "body_es": "El musical Hadestown fue creado por la compositora estadounidense Anaïs Mitchell. Ahora llega al streaming con una versión filmada de su producción teatral. Según el anuncio, el llamado «proshot» estará disponible en BroadwayHD, una plataforma dedicada a obras de teatro y musicales.\n\nLa historia combina dos mitos griegos: el amor de Orfeo y Eurídice y el mundo de Hades y Perséfone. La obra presenta esos relatos con música folk, jazz y una mirada moderna. Desde su estreno en Broadway, Hadestown ha recibido mucha atención. En 2019 ganó ocho premios Tony, incluido el de mejor musical.\n\nLa versión grabada permite que el público observe el escenario, las canciones y las coreografías sin viajar a Nueva York. También ofrece una oportunidad para quienes nunca consiguieron entradas. Antes, muchas personas solo podían verla en Nueva York. La llegada al streaming muestra cómo las producciones teatrales buscan nuevos espectadores. Aunque la experiencia no es igual que estar en la sala, la filmación conserva la energía de la historia y de sus intérpretes.",
+      "body_en": "The musical Hadestown was created by American composer Anaïs Mitchell. It is now coming to streaming with a filmed version of its stage production. According to the announcement, the so-called proshot will be available on BroadwayHD, a platform devoted to plays and musicals.\n\nThe story combines two Greek myths: the love of Orpheus and Eurydice and the world of Hades and Persephone. The show presents those stories with folk music, jazz, and a modern perspective. Since its Broadway premiere, Hadestown has received a lot of attention. In 2019, it won eight Tony Awards, including Best Musical.\n\nThe recorded version allows audiences to see the stage, songs, and choreography without traveling to New York. It also offers an opportunity for people who never got tickets. In the past, many people could only see it in New York. The arrival on streaming shows how theater productions seek new viewers. Although the experience is not the same as being in the theater, the filming preserves the energy of the story and its performers.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-25/culture.mp3",
       "key_vocabulary": [
         {
-          "word": "costumbres",
-          "definition_es": "Formas de vivir y actuar de una comunidad.",
-          "definition_en": "Customs or traditions."
+          "word": "producción",
+          "definition_es": "Obra preparada para presentarse ante el público.",
+          "definition_en": "A show prepared to be presented to an audience."
         },
         {
-          "word": "organizadores",
-          "definition_es": "Personas que preparan y coordinan un evento.",
-          "definition_en": "People who plan and coordinate an event."
+          "word": "mitos",
+          "definition_es": "Historias tradicionales con personajes extraordinarios.",
+          "definition_en": "Traditional stories with extraordinary characters."
         },
         {
-          "word": "raíces",
-          "definition_es": "Historia y origen cultural de una persona o grupo.",
-          "definition_en": "Cultural roots or origins."
+          "word": "coreografías",
+          "definition_es": "Movimientos de baile organizados para un espectáculo.",
+          "definition_en": "Organized dance movements for a performance."
         },
         {
-          "word": "residentes",
-          "definition_es": "Personas que viven en un lugar.",
-          "definition_en": "Residents or people who live in a place."
+          "word": "intérpretes",
+          "definition_es": "Personas que actúan, cantan o representan una obra.",
+          "definition_en": "People who act, sing, or perform in a show."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-24/culture-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¡no manches! Regresa el Taste of Polonia a Chicago… ¡y dura cuatro días!  \nCARLOS: ¿En serio? Eso ya suena a “me voy un ratito” y terminas quedándote toda la semana.  \nLAURA: Ja, total. Dicen que es en el Copernicus Center y que hay comida polaca, música, de todo.  \nCARLOS: A mí me intriga eso de las costumbres que guardan por generaciones. Como… ¿recetas secretas?  \nLAURA: ¡Obvio! Yo solo pienso en pierogis y ya se me antojó.  \nCARLOS: Y conciertos también. Está padre que no sea solo comer, sino aprender tantito.  \nLAURA: Además Chicago tiene comunidad polaca enorme, o sea, va a estar bien auténtico.  \nCARLOS: Y familiar, ¿no? Como para ir con niños, abuelitos, todos.  \nLAURA: Sí, y cuatro días es perfecto: sin prisa, sin “¡córrele que se acaba!”.  \nCARLOS: Pues armemos plan. Tú llevas el apetito…  \nLAURA: ¿Y tú la playlist polka? ¡Órale, vámonos!"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-25/culture-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos… ¡no manches! Hadestown ya llega al streaming, pero en versión filmada.  \nCARLOS: ¿En serio? ¿Tipo “proshot” de teatro? Eso está chido. ¿Dónde sale?  \nLAURA: En BroadwayHD, esa plataforma de musicales. ¡Ya no hay que vender un riñón para ir a Nueva York!  \nCARLOS: Jajaja, y ni pelearte con Ticketmaster. ¿De qué va Hadestown exactamente?  \nLAURA: Mezcla mitos griegos: Orfeo y Eurídice, y el inframundo de Hades con Perséfone… pero con folk y jazz.  \nCARLOS: Ah, o sea tragedia clásica… con vibra moderna. Eso suena peligrosamente adictivo.  \nLAURA: Y ganó ocho Tonys en 2019, incluido mejor musical. ¡Ocho!  \nCARLOS: Ok, eso ya es sello de “tienes que verla”. Aunque… ¿se siente igual en pantalla?  \nLAURA: No igual, obvio, pero dicen que se conserva la energía, las coreos, todo.  \nCARLOS: Pues plan: cafecito, cobija y Hadestown. Si lloro, fue el mito, ¿eh?  \nLAURA: Va, y si cantas, te grabo. ¡BroadwayHD no está listo para tu talento!"
     },
     {
-      "id": "economy-20260824",
+      "id": "economy-20260825",
       "category": "Economía",
       "difficulty": "B1",
-      "emoji": "📈",
+      "emoji": "💰",
       "gradient": "gold",
-      "headline_es": "El nuevo jefe de la Fed enfrenta una prueba clave en Jackson Hole",
-      "headline_en": "New Fed Chief Faces a Key Test in Jackson Hole",
-      "summary_es": "El nuevo presidente de la Reserva Federal afrontará una prueba importante en Jackson Hole mientras aumentan los temores sobre la inflación. Su mensaje podría influir en los tipos de interés y en los mercados.",
-      "body_es": "El nuevo presidente de la Reserva Federal de Estados Unidos afronta una prueba importante en Jackson Hole, Wyoming. La reunión anual reúne a economistas, banqueros y responsables de bancos centrales. Este año, los temores sobre la inflación ocupan un lugar central. Los precios todavía preocupan a las familias y a las empresas, mientras el banco analiza el estado de la economía. El nuevo jefe tendrá que explicar cómo piensa proteger la estabilidad de los precios sin debilitar demasiado el empleo. También deberá responder a las expectativas de los mercados sobre los próximos tipos de interés. Mientras se acercaba la reunión, los mercados esperaban señales claras del nuevo dirigente. En Estados Unidos, la Reserva Federal busca una inflación cercana al 2 por ciento. Si los precios siguen subiendo, el banco mantendrá una política más estricta y los préstamos podrían seguir siendo caros. Si la inflación baja, los inversores esperarán señales de posibles recortes. El discurso de Jackson Hole será observado por Wall Street y por gobiernos de todo el mundo. La noticia del Guardian presenta el encuentro como un examen decisivo para el nuevo dirigente.",
-      "body_en": "The new president of the U.S. Federal Reserve faces an important test in Jackson Hole, Wyoming. The annual meeting brings together economists, bankers, and central bank officials. This year, fears about inflation occupy a central place. Prices still worry families and businesses, while the bank analyzes the state of the economy. The new chief will have to explain how he plans to protect price stability without weakening employment too much. He will also have to respond to market expectations about upcoming interest rates. As the meeting approached, markets were waiting for clear signals from the new leader. In the United States, the Federal Reserve seeks inflation close to 2 percent. If prices continue to rise, the bank will maintain a stricter policy and loans could remain expensive. If inflation falls, investors will expect signs of possible cuts. The Jackson Hole speech will be watched by Wall Street and governments around the world. The Guardian news story presents the meeting as a decisive examination for the new leader.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-24/economy.mp3",
+      "headline_es": "La Fed enfrenta una prueba clave en Jackson Hole",
+      "headline_en": "The Fed Faces a Key Test at Jackson Hole",
+      "summary_es": "El nuevo presidente de la Reserva Federal enfrenta una prueba importante mientras la inflación vuelve a preocupar. Los mercados esperan señales sobre los tipos de interés durante la reunión de Jackson Hole.",
+      "body_es": "El nuevo presidente de la Reserva Federal de Estados Unidos enfrenta una prueba importante en Jackson Hole, Wyoming. La reunión anual reúne a banqueros centrales, economistas e inversores de todo el mundo. Este año, la inflación vuelve a ocupar el centro de la conversación.\n\nLa Fed intenta mantener la inflación cerca del 2%, pero los precios todavía preocupan a muchas familias y empresas. Para frenarlos, puede mantener altos los tipos de interés. Esa política encarece las hipotecas, las tarjetas y los préstamos empresariales. También puede reducir el consumo y el crecimiento económico.\n\nEl discurso del nuevo presidente será importante porque los mercados buscan pistas sobre las próximas decisiones. En reuniones anteriores, los inversores seguían de cerca cada comentario de la Fed. Si los datos muestran una inflación persistente, la Fed podría esperar antes de bajar los tipos. Si la economía pierde fuerza, aumentará la presión para ofrecer alivio.\n\nWall Street y los mercados de bonos reaccionarán a cada señal. Una frase sobre los tipos o el empleo puede cambiar las expectativas de los inversores. Por eso, la reunión de Jackson Hole será observada con atención durante toda la semana.",
+      "body_en": "The new president of the United States Federal Reserve faces an important test in Jackson Hole, Wyoming. The annual meeting brings together central bankers, economists, and investors from around the world. This year, inflation is once again at the center of the conversation.\n\nThe Fed is trying to keep inflation near 2%, but prices still worry many families and businesses. To slow them, it may keep interest rates high. That policy makes mortgages, credit cards, and business loans more expensive. It can also reduce spending and economic growth.\n\nThe new president's speech will be important because markets are looking for clues about upcoming decisions. At previous meetings, investors closely followed every comment from the Fed. If the data shows persistent inflation, the Fed might wait before lowering rates. If the economy loses strength, pressure to offer relief will increase.\n\nWall Street and bond markets will react to every signal. One sentence about interest rates or employment can change investors' expectations. For that reason, the Jackson Hole meeting will be watched closely throughout the week.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-25/economy.mp3",
       "key_vocabulary": [
         {
           "word": "inflación",
           "definition_es": "Aumento general de los precios.",
-          "definition_en": "A general increase in prices."
+          "definition_en": "A general rise in prices."
         },
         {
-          "word": "préstamos",
-          "definition_es": "Dinero que una persona o empresa recibe y debe devolver.",
-          "definition_en": "Money borrowed and later repaid."
+          "word": "tipos de interés",
+          "definition_es": "Coste de pedir dinero prestado.",
+          "definition_en": "The cost of borrowing money."
         },
         {
-          "word": "inversores",
-          "definition_es": "Personas o grupos que ponen dinero para ganar más.",
-          "definition_en": "People or groups that invest money."
+          "word": "hipotecas",
+          "definition_es": "Préstamos para comprar una vivienda.",
+          "definition_en": "Loans used to buy a home."
         },
         {
-          "word": "recortes",
-          "definition_es": "Reducciones, especialmente de los tipos de interés.",
-          "definition_en": "Cuts or reductions, especially in interest rates."
+          "word": "expectativas",
+          "definition_es": "Ideas sobre lo que puede ocurrir.",
+          "definition_en": "Ideas about what may happen."
         }
       ]
     },
     {
-      "id": "environment-20260824",
+      "id": "environment-20260825",
       "category": "Medio Ambiente",
       "difficulty": "B2",
-      "emoji": "🌡️",
+      "emoji": "🌍",
       "gradient": "teal",
-      "headline_es": "Una ola de calor que mata a 20 millones ya no parece solo ficción",
-      "headline_en": "A Heat Wave Killing 20 Million No Longer Seems Like Only Fiction",
-      "summary_es": "Una novela de Kim Stanley Robinson imaginó una ola de calor que mata a 20 millones de personas en la India. Científicos advierten que un episodio tan extremo ya no puede descartarse por completo.",
-      "body_es": "Una novela climática de Kim Stanley Robinson imaginó una ola de calor que mataba a 20 millones de personas en la India. La obra, El Ministerio del Futuro, presentaba ese episodio como una catástrofe extrema; sin embargo, científicos consultados por Fortune advierten que un fenómeno comparable ya no pertenece por completo a la ficción. El peligro no depende únicamente de la temperatura del aire. Cuando coinciden calor intenso y humedad elevada, el cuerpo pierde capacidad para enfriarse mediante el sudor. Si esas condiciones persisten durante varios días, incluso personas sanas pueden sufrir fallos orgánicos, especialmente cuando no tienen electricidad, agua o espacios frescos. El calentamiento global hace más probables las olas de calor peligrosas y amplía las regiones expuestas. El artículo relaciona este riesgo con la llamada temperatura de bulbo húmedo, una medida que combina ambos factores. Aunque el umbral exacto depende de la persona y del contexto, su aumento reduce el tiempo seguro al aire libre. Los investigadores no afirman que vayan a morir 20 millones de personas en un episodio real. Señalan, más bien, que la combinación de calor y humedad podría alcanzar límites antes considerados imposibles. Para evitar el peor escenario, las ciudades tendrían que fortalecer sus sistemas de alerta, abrir refugios refrigerados y reducir las emisiones. La novela funciona así como una advertencia: si la humanidad no limita el calentamiento, los extremos que parecían imaginarios podrían convertirse en riesgos concretos.",
-      "body_en": "A climate novel by Kim Stanley Robinson imagined a heat wave that killed 20 million people in India. The book, The Ministry for the Future, presented that episode as an extreme catastrophe; nevertheless, scientists consulted by Fortune warn that a comparable event no longer belongs entirely to fiction. The danger does not depend only on air temperature. When intense heat and high humidity coincide, the body loses its ability to cool itself through sweat. If those conditions persist for several days, even healthy people can suffer organ failure, especially when they lack electricity, water, or cool spaces. Global warming makes dangerous heat waves more likely and expands the regions that are exposed. The article connects this risk with the so-called wet-bulb temperature, a measure that combines both factors. Although the exact threshold depends on the person and the context, its increase reduces the safe time outdoors. Researchers do not claim that 20 million people will die in a real event. Rather, they point out that the combination of heat and humidity could reach limits previously considered impossible. To avoid the worst scenario, cities would have to strengthen their warning systems, open cooled shelters, and reduce emissions. The novel thus serves as a warning: if humanity does not limit warming, extremes that seemed imaginary could become concrete risks.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-24/environment.mp3",
+      "headline_es": "El cambio climático intensifica los fenómenos extremos",
+      "headline_en": "Climate Change Intensifies Extreme Weather Events",
+      "summary_es": "Expertos citados por PBS explican por qué el calentamiento global aumenta la frecuencia o la intensidad de varios fenómenos extremos. El calor modifica la atmósfera, los océanos y el riesgo de inundaciones y sequías.",
+      "body_es": "El cambio climático no crea todos los fenómenos extremos, pero está cambiando su probabilidad y su intensidad. Según los expertos citados por PBS, el planeta ya se ha calentado aproximadamente 1,1 °C respecto a la época preindustrial. Aunque esa cifra parezca pequeña, altera el funcionamiento de la atmósfera y los océanos.\n\nPor cada grado Celsius adicional, el aire puede retener cerca de un 7 % más de vapor de agua. Por eso, cuando llega una tormenta, puede caer más lluvia en poco tiempo y aumentar el riesgo de inundaciones. Al mismo tiempo, el calor intenso seca el suelo y favorece la sequía, especialmente en regiones que ya sufren falta de agua. Las olas de calor también se vuelven más frecuentes y duran más.\n\nLos científicos estudian cada evento mediante la atribución climática. Comparan lo que ocurrió con modelos que representan un mundo sin calentamiento causado por las personas. Así pueden calcular cuánto influyó el cambio climático, aunque no predigan exactamente cada tormenta.\n\nLos expertos recomiendan que las ciudades mejoren sus sistemas de alerta, protejan las zonas costeras y preparen hospitales y redes eléctricas. Si las emisiones continúan aumentando, será más difícil adaptarse; si se reducen pronto, algunos riesgos todavía podrán limitarse.",
+      "body_en": "Climate change does not create every extreme event, but it is changing their probability and intensity. According to experts cited by PBS, the planet has already warmed approximately 1.1°C compared with the preindustrial era. Although that number may seem small, it alters how the atmosphere and oceans work.\n\nFor each additional degree Celsius, air can hold about 7% more water vapor. Therefore, when a storm arrives, more rain can fall in a short time and increase the risk of flooding. At the same time, intense heat dries the soil and favors drought, especially in regions that already suffer from water shortages. Heat waves are also becoming more frequent and lasting longer.\n\nScientists study each event through climate attribution. They compare what happened with models representing a world without human-caused warming. In this way, they can calculate how much climate change influenced it, although they cannot predict every storm exactly.\n\nExperts recommend that cities improve warning systems, protect coastal areas, and prepare hospitals and electrical grids. If emissions continue rising, adaptation will be more difficult; if they are reduced soon, some risks can still be limited.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-25/environment.mp3",
       "key_vocabulary": [
         {
-          "word": "humedad",
-          "definition_es": "Cantidad de vapor de agua que hay en el aire.",
-          "definition_en": "The amount of water vapor in the air."
+          "word": "vapor",
+          "definition_es": "Agua en forma de gas.",
+          "definition_en": "Water in gas form."
         },
         {
-          "word": "umbral",
-          "definition_es": "Límite a partir del cual algo cambia.",
-          "definition_en": "A limit at which something begins or changes."
+          "word": "inundaciones",
+          "definition_es": "Situaciones en las que el agua cubre lugares secos.",
+          "definition_en": "Situations in which water covers normally dry places; floods."
         },
         {
-          "word": "refugios",
-          "definition_es": "Lugares seguros para protegerse.",
-          "definition_en": "Safe places where people can take shelter."
+          "word": "atribución climática",
+          "definition_es": "Estudio de cuánto influye el clima en un fenómeno.",
+          "definition_en": "The study of how much climate influences an event."
         },
         {
           "word": "emisiones",
-          "definition_es": "Gases liberados, especialmente por actividades humanas.",
-          "definition_en": "Gases released, especially by human activities."
+          "definition_es": "Gases que se liberan al aire.",
+          "definition_en": "Gases released into the air."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-24/environment-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos… leí un titular que me dejó fría: “una ola de calor que mata a 20 millones” y ya no suena a ciencia ficción.  \nCARLOS: ¿En serio? No manches… ¿20 millones como en una película?  \nLAURA: Es de una novela de Kim Stanley Robinson, *El Ministerio del Futuro*. Pero científicos dicen que algo parecido ya no está tan imposible.  \nCARLOS: Ah, por la mezcla maldita: calor + humedad. Ahí el sudor ya no te salva.  \nLAURA: Exacto, la famosa “temperatura de bulbo húmedo”. Suena a nombre de banda indie, pero es básicamente “te coces aunque estés sano”.  \nCARLOS: Y peor si no hay luz, agua o un lugar fresco… o sea, el combo apocalíptico.  \nLAURA: Lo fuerte es que no dicen “van a morir 20 millones”, pero sí que esos límites antes imposibles ya se pueden alcanzar.  \nCARLOS: Entonces: alertas, refugios con aire, y bajar emisiones… o nos rostizamos.  \nLAURA: Yo digo que empecemos por lo básico: sombra, agüita, y no hacernos los valientes al sol.  \nCARLOS: Va. Y si se pone feo, grabamos el podcast… ¡desde el refri!"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-25/environment-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste el chisme científico? El cambio climático anda “subiéndole” a los eventos extremos.  \nCARLOS: Sí, y no es que los invente, pero los pone en modo turbo. Dicen que ya vamos como 1.1°C arriba.  \nLAURA: ¡No manches! Suena poquito, pero ya con eso se alborota la atmósfera y el océano, ¿no?  \nCARLOS: Exacto. Por cada grado, el aire guarda como 7% más vapor. O sea: tormenta = lluvia en modo “cubetazo”.  \nLAURA: Y luego pum, inundaciones. Pero también el calor seca todo y ahí viene la sequía… qué combo tan feo.  \nCARLOS: Y las olas de calor más largas. Como cuando sales y sientes que el sol te está cobrando renta.  \nLAURA: Jajaja. Oye, ¿y cómo saben si fue por clima y no “mala suerte”?  \nCARLOS: Hacen atribución: comparan el mundo real con modelos sin calentamiento humano. No adivinan, pero sí miden influencia.  \nLAURA: Entonces ciudades: alertas, costas protegidas, hospitales listos, luz reforzada…  \nCARLOS: Y si bajamos emisiones, todavía se puede limitar el relajo.  \nLAURA: Va: yo pongo el café y tú pones el ventilador… por si acaso."
     },
     {
-      "id": "gastronomy-20260824",
+      "id": "gastronomy-20260825",
       "category": "Gastronomía",
       "difficulty": "B2",
-      "emoji": "🍚",
+      "emoji": "🍽️",
       "gradient": "orange",
-      "headline_es": "Rice dressing o dirty rice: el nombre depende de la región",
-      "headline_en": "Rice Dressing or Dirty Rice: The Name Depends on the Region",
-      "summary_es": "En Luisiana, rice dressing y dirty rice pueden tener nombres diferentes según la región. The Advocate explica que incluso el código de área puede influir en la respuesta.",
-      "body_es": "En Luisiana, dos platos de arroz parecidos, rice dressing y dirty rice, pueden revelar de qué zona procede una persona. Aunque ambos platos se preparan con arroz, carne y verduras, sus nombres no siempre significan exactamente lo mismo. Según The Advocate, la respuesta puede depender incluso del código de área del comensal. En muchas cocinas del sur de Luisiana, el dirty rice se asocia con arroz mezclado con hígado o carne picada, cebolla, apio y pimiento. La mezcla queda oscura y tiene un sabor profundo. El rice dressing suele describirse como un relleno de arroz más húmedo, preparado para acompañar carnes o aves, aunque las recetas familiares se cruzan constantemente. No existe una frontera culinaria perfecta: una abuela puede usar un nombre, mientras sus hijos emplean el otro. Esa diferencia demuestra que la comida también conserva identidad regional. Si un visitante pidiera el plato equivocado, probablemente recibiría una explicación, no una discusión. Los habitantes podrían corregir el término, pero seguirían reconociendo la misma tradición de reuniones, celebraciones y recetas transmitidas. En Luisiana, el vocabulario de un menú cuenta una historia sobre migraciones, familias y memoria. Por eso, preguntar qué significa cada nombre puede ser tan interesante como probar el arroz. El plato cambia según la casa, la región y la ocasión en que se sirve.",
-      "body_en": "In Louisiana, two similar rice dishes, rice dressing and dirty rice, can reveal what area a person comes from. Although both dishes are made with rice, meat, and vegetables, their names do not always mean exactly the same thing. According to The Advocate, the answer may even depend on the diner's area code. In many kitchens in southern Louisiana, dirty rice is associated with rice mixed with liver or ground meat, onion, celery, and bell pepper. The mixture becomes dark and has a deep flavor. Rice dressing is often described as a moister rice stuffing, prepared to accompany meat or poultry, although family recipes constantly overlap. There is no perfect culinary border: a grandmother may use one name, while her children use the other. This difference shows that food also preserves regional identity. If a visitor ordered the wrong dish, they would probably receive an explanation, not an argument. Residents might correct the term, but they would still recognize the same tradition of gatherings, celebrations, and recipes passed down. In Louisiana, the vocabulary of a menu tells a story about migrations, families, and memory. Therefore, asking what each name means can be as interesting as tasting the rice. The dish changes according to the home, the region, and the occasion when it is served.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-24/gastronomy.mp3",
+      "headline_es": "Cafe Notte debuta en Kitchen Nightmares",
+      "headline_en": "Cafe Notte Makes Its Debut on Kitchen Nightmares",
+      "summary_es": "Cafe Notte, un restaurante italiano de Pittsburgh, aparecerá esta semana en Kitchen Nightmares, el programa de Fox presentado por Gordon Ramsay. El episodio pondrá un negocio local ante una audiencia nacional.",
+      "body_es": "Cafe Notte, un restaurante italiano de Pittsburgh, aparecerá esta semana en Kitchen Nightmares, el programa de Fox presentado por Gordon Ramsay. Será el debut televisivo del negocio ante una audiencia nacional.\n\nEl formato del programa es conocido: Ramsay visita restaurantes que atraviesan dificultades, prueba sus platos y conversa con los propietarios y el personal. Después analiza el menú, la organización de la cocina y la experiencia de los clientes. Si encuentra problemas, propone cambios para que el establecimiento pueda recuperar su rumbo.\n\nLa visita a Cafe Notte convierte su cocina y su historia en el centro de un episodio. El público podrá conocer sus platos, observar el trabajo del equipo y descubrir qué decisiones tomó Ramsay. Sin embargo, aparecer en televisión no garantiza que un restaurante tenga éxito. Para que la transformación dure, los dueños tendrán que aplicar las recomendaciones cuando las cámaras se vayan.\n\nEl episodio también ofrece publicidad inesperada para Pittsburgh. Los espectadores de otras ciudades quizá busquen el restaurante o quieran probar su comida italiana. Si el público responde bien, el restaurante podría recibir clientes nuevos durante las próximas semanas, aunque la calidad y el servicio seguirán siendo esenciales. El debut demuestra cómo un programa gastronómico puede cambiar la conversación alrededor de un negocio local.",
+      "body_en": "Cafe Notte, an Italian restaurant in Pittsburgh, will appear this week on Kitchen Nightmares, Fox's program hosted by Gordon Ramsay. It will be the business's television debut before a national audience.\n\nThe show's format is well known: Ramsay visits restaurants that are going through difficulties, tastes their dishes, and talks with owners and staff. He then analyzes the menu, kitchen organization, and customer experience. If he finds problems, he suggests changes so the establishment can get back on track.\n\nThe visit to Cafe Notte puts its kitchen and story at the center of an episode. The audience will be able to learn about its dishes, watch the team work, and discover what decisions Ramsay made. However, appearing on television does not guarantee that a restaurant will succeed. For the transformation to last, the owners will have to apply the recommendations when the cameras leave.\n\nThe episode also offers unexpected publicity for Pittsburgh. Viewers in other cities may look for the restaurant or want to try its Italian food. If the audience responds well, the restaurant could gain new customers in the coming weeks, although quality and service will remain essential. The debut shows how a food program can change the conversation around a local business.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-08-25/gastronomy.mp3",
       "key_vocabulary": [
         {
-          "word": "comensal",
-          "definition_es": "Persona que come en una mesa o restaurante.",
-          "definition_en": "A diner or person eating a meal."
+          "word": "propietarios",
+          "definition_es": "Personas que son dueñas de un negocio.",
+          "definition_en": "People who own a business."
         },
         {
-          "word": "hígado",
-          "definition_es": "Órgano que a veces se usa en este plato.",
-          "definition_en": "Liver, an organ sometimes used in this dish."
+          "word": "menú",
+          "definition_es": "Lista de platos y bebidas de un restaurante.",
+          "definition_en": "A list of a restaurant's dishes and drinks."
         },
         {
-          "word": "relleno",
-          "definition_es": "Comida que se coloca dentro o junto a otra.",
-          "definition_en": "Stuffing or filling."
+          "word": "transformación",
+          "definition_es": "Cambio importante en la forma o el estado de algo.",
+          "definition_en": "A major change in the form or condition of something."
         },
         {
-          "word": "identidad",
-          "definition_es": "Características que hacen reconocible a una comunidad.",
-          "definition_en": "The qualities that define a community."
+          "word": "publicidad",
+          "definition_es": "Información que busca atraer clientes.",
+          "definition_en": "Information intended to attract customers."
         }
       ]
     }
   ],
-  "last_updated": "2026-08-24T21:12:38.606439Z",
+  "last_updated": "2026-08-25T09:20:43.727623Z",
   "generated_by": "GitHub Actions + OpenAI API"
 }
