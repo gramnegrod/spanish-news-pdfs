@@ -1,11 +1,159 @@
 {
-  "date": "2026-08-25",
-  "generated_at": "2026-08-25T09:17:37.251632Z",
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T09:21:44.418796Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1026,
-  "new_today": 5,
+  "total_stories": 1030,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20260826",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Revisión analiza exosomas de células madre para heridas de la piel",
+      "headline_en": "Review analyzes stem cell-derived exosomes for skin wounds",
+      "summary_es": "Una revisión de Frontiers analiza los exosomas derivados de células madre para apoyar la curación de heridas en la piel. También presenta los desafíos que existen antes del uso clínico amplio.",
+      "body_es": "Una revisión publicada en Frontiers estudia los exosomas derivados de células madre para la curación de heridas de la piel. Un exosoma es una pequeña bolsa que lleva señales entre las células. Según el artículo, estas señales pueden apoyar la formación de vasos sanguíneos y tejido nuevo. También pueden ayudar al cierre de una herida y al control de la inflamación. La publicación explica mecanismos, posibilidades y desafíos de este tratamiento experimental. No presenta todavía una terapia estándar para pacientes. Los retos incluyen una dosis segura, producción de calidad, transporte al lugar correcto y control de riesgos. Para enfermería, la evaluación de la herida y la curación habitual siguen siendo importantes. El equipo también controla infección, dolor y cambios en la piel. El artículo puede interesar a equipos que atienden heridas crónicas. La revisión indica que hacen falta más estudios antes del uso clínico amplio.",
+      "body_en": "A review published in Frontiers examines stem cell-derived exosomes for healing skin wounds. An exosome is a small vesicle that carries signals between cells. According to the article, these signals may support the formation of blood vessels and new tissue. They may also help close a wound and control inflammation. The publication explains the mechanisms, possibilities, and challenges of this experimental treatment. It does not yet present a standard therapy for patients. The challenges include a safe dose, quality production, transport to the right location, and risk control. For nursing, wound assessment and usual wound care remain important. The team also monitors infection, pain, and skin changes. The article may interest teams caring for chronic wounds. The review indicates that more studies are needed before broad clinical use.",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hYnJYZ0F2aTBNNlhfSnJhWW5zY1g4UEhnakJHM3IyVnVrYms3M2NTN2lQYW9NZnE1X29vUnJ1LXlJUlFkamUtZk1GNl85c3U1STdmZFpyeUFkcHZSWTRCYy1GNV9OVjllbTI0UkZQVWs?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-26/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "exosoma",
+          "definition_es": "pequeña vesícula que lleva señales entre células",
+          "definition_en": "exosome - small vesicle that carries signals between cells"
+        },
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o en otro tejido del cuerpo",
+          "definition_en": "wound - injury to the skin or another body tissue"
+        },
+        {
+          "word": "piel",
+          "definition_es": "capa que cubre y protege el cuerpo",
+          "definition_en": "skin - layer that covers and protects the body"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso por el que una herida sana",
+          "definition_en": "healing - process through which a wound heals"
+        }
+      ],
+      "added_at": "2026-08-26T09:21:44.418796Z"
+    },
+    {
+      "id": "burn-care-20260826",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Estudio de PermeaDerm muestra una reducción del 70 % en costos frente al aloinjerto",
+      "headline_en": "PermeaDerm study shows a 70% cost reduction compared with an allograft",
+      "summary_es": "Un estudio de Avita Medical sobre PermeaDerm comunicó una reducción del 70 % en costos frente a un aloinjerto. La comparación económica puede interesar a los equipos que atienden quemaduras.",
+      "body_es": "Avita Medical informó resultados de un estudio sobre PermeaDerm, un sustituto cutáneo temporal para el manejo de quemaduras. Según el reporte de TradingView, su uso mostró una reducción del 70 % en el costo frente a un aloinjerto. El aloinjerto utiliza piel de un donante humano y puede cubrir áreas extensas después de retirar tejido dañado. PermeaDerm ofrece una cobertura temporal mientras el equipo prepara la siguiente fase del tratamiento. El estudio comparaba los costos de ambas opciones, pero la noticia no presentó un nuevo porcentaje de curación ni demostró superioridad clínica. La decisión depende de la profundidad de la quemadura, la superficie afectada, la disponibilidad de donantes y el protocolo local. Una evaluación completa debe incluir perfusión, exudado, infección y dolor. Los futuros análisis deberán confirmar los resultados clínicos. Los profesionales deberían revisar la evidencia antes de cambiar el protocolo.",
+      "body_en": "Avita Medical reported results from a study of PermeaDerm, a temporary skin substitute for burn management. According to the TradingView report, its use showed a 70% reduction in cost compared with an allograft. An allograft uses skin from a human donor and can cover large areas after damaged tissue is removed. PermeaDerm provides temporary coverage while the team prepares the next phase of treatment. The study compared the costs of both options, but the news report did not present a new healing percentage or demonstrate clinical superiority. The decision depends on burn depth, the affected surface, donor availability, and the local protocol. A complete assessment should include perfusion, exudate, infection, and pain. Future analyses will need to confirm the clinical results. Professionals should review the evidence before changing the protocol.",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0VtWml1Z1l4QnJGYWc1Z2haM2xEaEh0WGtaM3ozSTZmMkU3ZmtQSFlrSE5TUHRhU0k1UW1hTEx4dTBjMjdla0tySi1zMUFoRS1rUVlVYzBlRWx5YXFnRnh0UksxdXdjbGNJNTVJNTN4SWVjaVVGcF9fZkZ6ZENXSkZZNVJ2aGllQmh0MTZMdlJ5R0t6Y09ScEZncXYyTWxjckxtME5iR3MzeFY5SUV4MmhoclVsUUpvMUN5UzBRN0p0c3ZEX1E?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-26/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "sustituto cutáneo",
+          "definition_es": "material que cubre temporalmente una zona de piel dañada",
+          "definition_en": "skin substitute - material that temporarily covers damaged skin"
+        },
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, sustancias químicas o electricidad",
+          "definition_en": "burn - injury caused by heat, chemicals, or electricity"
+        },
+        {
+          "word": "aloinjerto",
+          "definition_es": "piel o tejido procedente de otro donante humano",
+          "definition_en": "allograft - skin or tissue from another human donor"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "revisión clínica del estado de una herida",
+          "definition_en": "assessment - clinical review of a wound's condition"
+        }
+      ],
+      "added_at": "2026-08-26T09:21:44.418796Z"
+    },
+    {
+      "id": "surgical-wounds-20260826",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "Láser fraccionado y curación húmeda se combinan para tratar cicatrices quirúrgicas",
+      "headline_en": "Fractional laser and moist healing are combined to treat surgical scars",
+      "summary_es": "Un artículo de Dove Medical Press estudia la terapia con láser fraccionado junto con la curación húmeda para cicatrices posquirúrgicas. El enfoque combina una intervención dermatológica con protección local.",
+      "body_es": "Un artículo de Clinical, Cosmetic and Investigational Dermatology evaluaba la terapia con láser fraccionado combinada con curación húmeda para tratar cicatrices después de una cirugía. La técnica aplica energía en pequeñas zonas de la piel y mantiene después un ambiente húmedo y protegido. En el estudio, la terapia combinada se aplicaba durante la recuperación, y se observaban cambios en el color, la textura, la elevación y las molestias de la cicatriz. El enfoque podría ayudar durante la recuperación de algunas incisiones, aunque cada paciente necesita una valoración individual. El equipo debe revisar el tipo de sutura, la profundidad de la lesión, la presencia de infección y el estado de la piel. Un apósito adecuado protege la zona entre las sesiones y facilita la curación. El artículo procede de Dove Medical Press y estudia la combinación de los dos métodos; no equivale por sí solo a una guía para todas las heridas quirúrgicas. Antes de recomendar láser, los profesionales deberían confirmar que la herida está cerrada y elegir parámetros seguros. En el futuro, estudios comparativos ofrecerán más información sobre resultados y riesgos.",
+      "body_en": "An article in Clinical, Cosmetic and Investigational Dermatology evaluated fractional laser therapy combined with moist healing to treat scars after surgery. The technique applies energy to small areas of the skin and then maintains a moist, protected environment. In the study, the combined therapy was applied during recovery, and changes in the scar's color, texture, elevation, and discomfort were observed. The approach could help during recovery from some incisions, although each patient needs an individual assessment. The team should review the type of suture, the depth of the lesion, infection, and skin condition. An appropriate dressing protects the area between sessions and supports healing. The article comes from Dove Medical Press and examines the combination of the two methods; by itself, it is not a guide for all surgical wounds. Before recommending laser, professionals should confirm that the wound is closed and choose safe parameters. In the future, comparative studies will provide more information about outcomes and risks.",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT1dMbkpaTFFnc3FhblpIekFhOTdCOEtHekpleFUwTlBDU093Zm9vYlYxRTVoTkZfTk9DR0Z1QW5wSHJDUFptbllkcDc5UUptaVltbHNsekVzZlJrX0daQmUyYTllRWRYY1VDR2RSMDhUdGNjYTZleFhkM3ZWdVQyajFSTG5aV3JvcXcxaUZuVXlQalpiZ3k2aWtyV0sweFNJTUtDajJiRjF2N1BKYlQ1NDFaa05zVVc3UGNFQ05lSWdXQkdKczNOY3dBYWs?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-26/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda en la piel después de una lesión o cirugía",
+          "definition_en": "scar - mark left on the skin after an injury or surgery"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo o técnica para cerrar una herida",
+          "definition_en": "suture - thread or technique used to close a wound"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre y protege una herida",
+          "definition_en": "dressing - material that covers and protects a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de reparación de una herida",
+          "definition_en": "healing - process of repairing a wound"
+        }
+      ],
+      "added_at": "2026-08-26T09:21:44.418796Z"
+    },
+    {
+      "id": "wound-research-20260826",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "blue",
+      "headline_es": "Kyle Johnsen recibe un premio de innovación en ciencias de la vida",
+      "headline_en": "Kyle Johnsen receives a life sciences innovation award",
+      "summary_es": "Kyle Johnsen, de la Universidad de Georgia, recibió un premio de innovación de Georgia Life Sciences. El anuncio no describe un ensayo clínico de heridas, pero destaca la innovación en ciencias de la vida.",
+      "body_es": "El investigador Kyle Johnsen, de la Universidad de Georgia, recibió un Premio de Innovación de Georgia Life Sciences, según la Oficina de Investigación de UGA. La noticia destaca un reconocimiento institucional, no los resultados de un ensayo clínico. Por eso, el anuncio no presenta todavía una nueva terapia para una herida ni datos de pacientes. Para los profesionales de heridas, el punto práctico es distinguir innovación de evidencia clínica. Una futura aplicación podría ayudar a medir una lesión, observar cambios en el tejido y documentar la evaluación durante la curación. Antes de usar una tecnología en la práctica, los equipos necesitarán estudios con pacientes, criterios claros y seguimiento de seguridad. También deberán comparar la herramienta con la valoración clínica habitual. El premio muestra interés por la innovación en ciencias de la vida, pero no demuestra eficacia clínica. Los profesionales deberían esperar evidencia revisada por expertos antes de modificar los protocolos de atención.",
+      "body_en": "The researcher Kyle Johnsen of the University of Georgia received an Innovation Award from Georgia Life Sciences, according to the UGA Office of Research. The news highlights institutional recognition, not the results of a clinical trial. Therefore, the announcement does not yet present a new wound therapy or patient data. For wound care professionals, the practical point is distinguishing innovation from clinical evidence. A future application could help measure a lesion, observe changes in tissue, and document assessment during healing. Before using a technology in practice, teams will need studies with patients, clear criteria, and safety follow-up. They will also need to compare the tool with usual clinical assessment. The award shows interest in innovation in the life sciences, but it does not demonstrate clinical effectiveness. Professionals should wait for peer-reviewed evidence before modifying care protocols.",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0pfbTBfM0F4X19INWhDbHE1OG1WRDJETFJLZ1hPbFQzbGcxTjg5WGJCaUNQYW03ZTk1YWk2b2wxZ2dac2tuN3pzM3UxQ0RtYktocFdjUlR2ZHEwaU9yTEpHMENURjJMX0ZRd3k0S29VU1VIeXBLZlJkekVQZVRiQUJnMGV0b2pEdlVjSE5qMV9wRWd2eVVN?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-08-26/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "lesión",
+          "definition_es": "daño en la piel o en otro tejido",
+          "definition_en": "lesion - damage to the skin or another tissue"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "grupo de células que forma una parte del cuerpo",
+          "definition_en": "tissue - group of cells forming part of the body"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "revisión para medir el estado de una lesión",
+          "definition_en": "assessment - review used to measure the condition of a lesion"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de reparación de un tejido dañado",
+          "definition_en": "healing - process of repairing damaged tissue"
+        }
+      ],
+      "added_at": "2026-08-26T09:21:44.418796Z"
+    },
     {
       "id": "chronic-wounds-20260825",
       "category": "Chronic Wounds",
@@ -37963,6 +38111,6 @@
       ]
     }
   ],
-  "last_updated": "2026-08-25T09:17:37.251632Z",
+  "last_updated": "2026-08-26T09:21:44.418796Z",
   "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
 }
