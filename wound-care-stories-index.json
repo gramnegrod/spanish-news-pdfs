@@ -1,11 +1,196 @@
 {
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T09:17:17.326994Z",
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T09:24:55.165523Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1060,
+  "total_stories": 1065,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20260902",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Abre una clínica especializada en heridas en Evanston",
+      "headline_en": "A specialized wound clinic opens in Evanston",
+      "summary_es": "Evanston Regional Hospital abrió una clínica especializada para personas con heridas difíciles de curar. El servicio ofrece evaluación y seguimiento para úlceras y otras lesiones.",
+      "body_es": "Evanston Regional Hospital abrió una clínica especializada en heridas. El nuevo servicio atiende heridas crónicas que necesitan cuidado continuo. El personal realiza una evaluación de la piel y del tejido. También revisa el tamaño, el exudado y los signos de infección. La clínica puede tratar una úlcera del pie, úlceras por presión y otras lesiones. El tratamiento depende de cada paciente. Puede incluir limpieza, un apósito y un vendaje. Algunos pacientes necesitan desbridamiento para retirar tejido muerto. El equipo también explica cómo cuidar la herida en casa. Las visitas regulares ayudan a observar la granulación y la epitelización. La clínica ofrece atención local para personas de Evanston y del área cercana. La noticia presenta la apertura como un nuevo recurso para pacientes con heridas difíciles de curar.",
+      "body_en": "Evanston Regional Hospital opened a specialized wound clinic. The new service cares for chronic wounds that need ongoing care. Staff perform an assessment of the skin and tissue. They also check the size, exudate, and signs of infection. The clinic can treat a foot ulcer, pressure ulcers, and other injuries. Treatment depends on each patient. It may include cleaning, a dressing, and a bandage. Some patients need debridement to remove dead tissue. The team also explains how to care for the wound at home. Regular visits help observe granulation and epithelialization. The clinic provides local care for people from Evanston and nearby areas. The news presents the opening as a new resource for patients with wounds that are difficult to heal.",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRG1TRTlqM2d4bXJQb3FDVVpteTFEZURQWE15YWpMdEFVWUE2RVFNYUI3aUhlUGMxajZCSVFINlMwMUhCbnVyUTdkOHctelhyRHlUcFA0bFVRZDVfOUZ4VXhLbnM3N0tKWVFDNGpFMzNWTzBzdU9uTWp0MU9Rb2xTREZOaWZ4R09ZcXMyc2pYNXU2eGs?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-02/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o el tejido",
+          "definition_en": "wound - injury to the skin or tissue"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta que tarda en curar",
+          "definition_en": "ulcer - open wound that heals slowly"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "revisión de la herida y del paciente",
+          "definition_en": "assessment - review of the wound and patient"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre y protege una herida",
+          "definition_en": "dressing - material that covers and protects a wound"
+        }
+      ],
+      "added_at": "2026-09-02T09:24:55.165523Z"
+    },
+    {
+      "id": "diabetic-foot-20260902",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "blue",
+      "headline_es": "Las señales remotas podrían ayudar a conservar las extremidades diabéticas",
+      "headline_en": "Remote signals may help preserve diabetic limbs",
+      "summary_es": "EurekAlert! describe una investigación preclínica sobre señales remotas que podrían proteger las extremidades de personas con diabetes. El enfoque podría apoyar la circulación y la salud del tejido, pero todavía necesita ensayos clínicos.",
+      "body_es": "Una noticia de EurekAlert! describe una investigación sobre señales remotas que podrían proteger las extremidades de personas con diabetes. El enfoque se relaciona con el acondicionamiento isquémico remoto. En este procedimiento, se producen episodios breves y controlados de menor flujo sanguíneo en una extremidad. Así, el cuerpo puede enviar señales protectoras a otra zona. Los investigadores observaron este efecto en un estudio preclínico, no en un tratamiento aprobado para pacientes. El objetivo es mejorar la circulación y reducir el riesgo de lesión, necrosis y amputación. Para evaluar la respuesta, el equipo revisó cambios vasculares y el estado del tejido después de la intervención. La estrategia podría ser útil junto con la evaluación del pie, el control de la glucosa y el tratamiento de una infección. Antes de recomendarla, se necesitan ensayos clínicos que confirmen su seguridad y eficacia. El mensaje principal es actuar pronto ante eritema, edema, una herida o cambios de temperatura. La investigación todavía debe probar la duración del efecto y su utilidad en personas con enfermedad arterial periférica. Los resultados son alentadores, pero aún no demuestran que se eviten amputaciones.",
+      "body_en": "A EurekAlert! article describes research on remote signals that may protect the limbs of people with diabetes. The approach is related to remote ischemic conditioning. In this procedure, brief and controlled episodes of reduced blood flow are produced in a limb. In this way, the body can send protective signals to another area. Researchers observed this effect in a preclinical study, not in an approved treatment for patients. The goal is to improve circulation and reduce the risk of injury, necrosis, and amputation. To assess the response, the team reviewed vascular changes and tissue condition after the intervention. The strategy could be useful together with foot assessment, glucose control, and infection treatment. Before it can be recommended, clinical trials must confirm its safety and effectiveness. The main message is to act quickly when there is erythema, edema, a wound, or temperature changes. The research must still test how long the effect lasts and its usefulness in people with peripheral arterial disease. The results are encouraging, but they do not yet show that amputations can be prevented.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TWDAzdHNNUkxtck9QMlZrOEs3b3laSG14bWlnSEZnaXVzVzJnMDBtVkZySHdGVUE0UXYtTndnOWlncE1NWWNJUDZoNURack1yN3Z1ZTlSbXF0ckV3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-02/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "extremidad",
+          "definition_es": "brazo o pierna del cuerpo",
+          "definition_en": "limb - arm or leg of the body"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "revisión del pie y de sus riesgos",
+          "definition_en": "assessment - review of the foot and its risks"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de una parte del tejido",
+          "definition_en": "necrosis - death of part of the tissue"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento de la piel",
+          "definition_en": "erythema - redness of the skin"
+        }
+      ],
+      "added_at": "2026-09-02T09:24:55.165523Z"
+    },
+    {
+      "id": "burn-care-20260902",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Un niño de Dromore afronta años de tratamiento tras sufrir lesiones por escaldadura",
+      "headline_en": "Dromore boy faces years of treatment after scald injuries",
+      "summary_es": "La noticia de We Are Tyrone cuenta el caso de un niño de Dromore que sufrió lesiones por escaldadura. Su recuperación requerirá años de tratamiento y seguimiento especializado.",
+      "body_es": "El medio We Are Tyrone informa sobre un niño de Dromore, en Irlanda del Norte, que sufrió lesiones por escaldadura. Una escaldadura es una quemadura causada por líquido o vapor caliente. La noticia señala que el niño afrontará años de tratamiento durante su recuperación. La atención de una quemadura puede incluir limpieza, un apósito especial, control del dolor y cirugía. El equipo debe vigilar el eritema, el exudado y los signos de infección. Durante la recuperación, la piel nueva puede ser frágil y formar una cicatriz. La fisioterapia ayuda a conservar el movimiento cerca de la zona afectada. También pueden utilizarse prendas de presión y revisiones periódicas. La familia necesitará apoyo para cuidar el vendaje y reconocer cambios importantes. El caso recuerda que las escaldaduras requieren valoración rápida y seguimiento por un equipo especializado. No se deben retirar tejidos adheridos ni aplicar productos caseros antes de recibir atención médica profesional.",
+      "body_en": "The We Are Tyrone outlet reports on a boy from Dromore, Northern Ireland, who suffered scald injuries. A scald is a burn caused by hot liquid or steam. The article states that the boy will face years of treatment during his recovery. Burn care may include cleaning, a special dressing, pain control, and surgery. The team must monitor erythema, exudate, and signs of infection. During recovery, new skin may be fragile and form a scar. Physical therapy helps preserve movement near the affected area. Pressure garments and regular reviews may also be used. The family will need support to care for the bandage and recognize important changes. The case reminds readers that scalds require rapid assessment and follow-up by a specialized team. Attached tissue should not be removed, and household products should not be applied before professional medical care is received.",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXBoYlc5dU8tSzA1NGFqUzVBYXVjWmlMUTNUN193ZzJjQVp3TkhBOVZUUFJMbG9MV01uNlp1YzhGS3dNcHRFTG4wX1BJWWtjajZrUWxjVWg4VDN1ZVY5ZGtweXNZMGh0aTFDTlQtRlBHTnFPOTNUcUs4THloVkNuTUJJWGQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-02/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor o sustancias calientes",
+          "definition_en": "burn - injury caused by heat or hot substances"
+        },
+        {
+          "word": "escaldadura",
+          "definition_es": "quemadura causada por líquido o vapor caliente",
+          "definition_en": "scald - burn caused by hot liquid or steam"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de una lesión",
+          "definition_en": "scar - mark left after an injury"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material que cubre y protege una zona",
+          "definition_en": "bandage - material that covers and protects an area"
+        }
+      ],
+      "added_at": "2026-09-02T09:24:55.165523Z"
+    },
+    {
+      "id": "surgical-wounds-20260902",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "purple",
+      "headline_es": "El reemplazo total de tobillo requiere elegir entre una etapa o varias",
+      "headline_en": "Total ankle replacement requires choosing between single-stage and staged surgery",
+      "summary_es": "Un artículo de HMP Global Learning Network analiza el reemplazo total de tobillo acompañado de reconstrucción. Compara cuándo conviene una cirugía en una sola etapa y cuándo es mejor dividirla.",
+      "body_es": "Un artículo de HMP Global Learning Network analiza el reemplazo total de tobillo con reconstrucción adicional. La decisión principal es realizar todo en una sola etapa o dividir el tratamiento en varias operaciones. El equipo debe evaluar la deformidad, la calidad del hueso, la estabilidad de los ligamentos y el estado de la piel. Una cirugía de una etapa puede resolver varios problemas durante el mismo procedimiento. Sin embargo, una estrategia escalonada permite tratar primero una infección, corregir una deformidad o mejorar los tejidos blandos. Después, el paciente podría recibir la prótesis cuando la zona esté preparada. La evaluación también incluye radiografías y planificación de la incisión. Tras la operación, se controlan el edema, el exudado y la cicatriz. El cuidado de la herida incluye un apósito limpio, protección del tobillo y seguimiento de la sutura. Según el artículo, la elección debe adaptarse al caso y a los riesgos del paciente. Una comunicación clara ayudaría a explicar las etapas y las expectativas de recuperación.",
+      "body_en": "An article from HMP Global Learning Network examines total ankle replacement with additional reconstruction. The main decision is whether to complete everything in one stage or divide treatment into several operations. The team must assess the deformity, bone quality, ligament stability, and condition of the skin. Single-stage surgery can address several problems during the same procedure. However, a staged approach allows the team to first treat an infection, correct a deformity, or improve the soft tissues. The patient could then receive the prosthesis when the area is ready. Assessment also includes radiographs and incision planning. After surgery, the team monitors edema, exudate, and the scar. Wound care includes a clean dressing, ankle protection, and suture follow-up. According to the article, the choice should be adapted to the case and the patient’s risks. Clear communication would help explain the stages and recovery expectations.",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVXdIZW4tU0RuVFc4Ql9ZTmdUNnVwaUlsMzhJTWxOLWVqNkZhRDYtTTRNZEdRbTdZZ2VpMkk2ZGRVaU9pOGVxRXdjeGhMUUtWRzA2Z3JMMFM4QUJUUERmZXZKa0xyRTZWcUNsMWNabUdBdjRHdDhDZlczRHJ6Q1g0SHJNWHFHd2ZkYnE1QmlCY2JRRWcwcWpzU2Q1LWU0NzBPZHluUDdHZmdZcTZZbE1uVi1MLW5OT0hQQjFjUkJJN0taSXowOUszUGcxTXlUN3h2R3c?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-02/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "reconstrucción",
+          "definition_es": "cirugía para reparar una zona dañada",
+          "definition_en": "reconstruction - surgery to repair a damaged area"
+        },
+        {
+          "word": "prótesis",
+          "definition_es": "dispositivo que reemplaza una parte del cuerpo",
+          "definition_en": "prosthesis - device that replaces a body part"
+        },
+        {
+          "word": "edema",
+          "definition_es": "hinchazón causada por acumulación de líquido",
+          "definition_en": "edema - swelling caused by fluid buildup"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo o técnica para cerrar una herida",
+          "definition_en": "suture - thread or technique used to close a wound"
+        }
+      ],
+      "added_at": "2026-09-02T09:24:55.165523Z"
+    },
+    {
+      "id": "wound-research-20260902",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "indigo",
+      "headline_es": "Un candidato terapéutico muestra potencial para prevenir complicaciones de la diabetes",
+      "headline_en": "A therapeutic candidate shows promise for preventing diabetic complications",
+      "summary_es": "NYU Langone Health informó sobre un candidato terapéutico estudiado para prevenir complicaciones diabéticas. Los resultados iniciales son prometedores, pero todavía se necesita investigación antes del uso clínico.",
+      "body_es": "NYU Langone Health informó sobre un candidato terapéutico que podría prevenir complicaciones de la diabetes. El trabajo estudió cómo una intervención experimental influye en los cambios que produce la glucosa elevada en los vasos sanguíneos y otros tejidos. Los investigadores probaron el candidato en un modelo experimental y observaron señales favorables, aunque todavía no es un tratamiento estándar. Para el cuidado de heridas, estos hallazgos son relevantes porque la diabetes puede reducir la circulación, retrasar la granulación y aumentar el riesgo de infección. Una mala perfusión también puede favorecer la isquemia, la necrosis y una úlcera del pie. Antes de usar el producto en pacientes, futuros ensayos deberán confirmar la dosis, la seguridad y el beneficio clínico. Mientras tanto, el equipo de salud debe continuar con la evaluación del pie, el control de la glucosa y la protección de la piel. La investigación ofrece una posible vía nueva, pero no reemplaza la curación habitual ni el seguimiento especializado.",
+      "body_en": "NYU Langone Health reported on a therapeutic candidate that could prevent diabetic complications. The work studied how an experimental intervention affects changes caused by high glucose in blood vessels and other tissues. Researchers tested the candidate in an experimental model and observed favorable signals, although it is not yet a standard treatment. For wound care, these findings are relevant because diabetes can reduce circulation, delay granulation, and increase the risk of infection. Poor perfusion can also contribute to ischemia, necrosis, and a foot ulcer. Before the product is used in patients, future trials must confirm the dose, safety, and clinical benefit. In the meantime, healthcare teams should continue foot assessment, glucose control, and skin protection. The research offers a possible new pathway, but it does not replace usual healing care or specialized follow-up.",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUVjcDZFTlE3c2M1ZWd4ZFJPYnBYX2U2aVBRazk2Z2dYWlgwOW83R0RpVzFJYlVUZHNzczA2X1Bra3dKUDVZOEFsLWlTdkJZZ0xVTEMybEh6SzR3RV9wNmJSOUhodE1IVjFwbUcyRk9BTGlYb2lTaTdNT0NzeUlzaElYakJoWmlfem1pWnU1TkpFekExVXlrYUJhZGRrQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-02/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "granulación",
+          "definition_es": "tejido nuevo que aparece durante la curación",
+          "definition_en": "granulation - new tissue that appears during healing"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo suficiente",
+          "definition_en": "ischemia - lack of sufficient blood flow"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de tejido",
+          "definition_en": "necrosis - tissue death"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "lesión abierta que tarda en cerrar",
+          "definition_en": "ulcer - open lesion that takes a long time to close"
+        }
+      ],
+      "added_at": "2026-09-02T09:24:55.165523Z"
+    },
     {
       "id": "chronic-wounds-20260901",
       "category": "Chronic Wounds",
@@ -39221,6 +39406,6 @@
       ]
     }
   ],
-  "last_updated": "2026-09-01T09:17:17.326994Z",
+  "last_updated": "2026-09-02T09:24:55.165523Z",
   "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
 }
