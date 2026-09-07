@@ -1,11 +1,122 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T09:15:25.340005Z",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T09:20:09.659830Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1084,
-  "new_today": 4,
+  "total_stories": 1087,
+  "new_today": 3,
   "stories": [
+    {
+      "id": "chronic-wounds-20260907",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Nuevo centro de atención de heridas busca cerrar una brecha en Imperial Valley",
+      "headline_en": "New wound care center aims to close a care gap in Imperial Valley",
+      "summary_es": "The Desert Review informa sobre un nuevo centro de atención de heridas en Imperial Valley. El proyecto busca acercar servicios especializados a la comunidad.",
+      "body_es": "The Desert Review informa sobre un nuevo centro de atención de heridas en Imperial Valley. El proyecto busca reducir la falta de servicios especializados en esta región. El centro acerca la atención a las personas con problemas de piel. Atiende heridas que tardan mucho en cerrar y úlceras relacionadas con la diabetes. Cada úlcera necesita atención y control. En el centro, el personal revisa el tamaño, el color y el exudado. También observa el tejido alrededor de la herida. Después, explica el tratamiento y cambia el vendaje. La curación necesita controles regulares y buena higiene. Las personas deben avisar si tienen dolor, edema, eritema o mal olor. El equipo también puede enseñar cuidados para los pies. La noticia presenta este servicio como un nuevo recurso comunitario. Su objetivo principal es cerrar una brecha de atención en Imperial Valley.",
+      "body_en": "The Desert Review reports on a new wound care center in Imperial Valley. The project aims to reduce the lack of specialized services in this region. The center brings care closer to people with skin problems. It treats wounds that take a long time to close and ulcers related to diabetes. Each ulcer needs care and monitoring. At the center, staff examine the size, color, and exudate. They also observe the tissue around the wound. Then they explain the treatment and change the dressing. Healing requires regular checks and good hygiene. People should report pain, edema, erythema, or a bad smell. The team can also teach foot care. The news presents this service as a new community resource. Its main goal is to close a care gap in Imperial Valley.",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeHZReXFtZlVNTWNIbXlpY0c0VDViV1l4ODNvaXRTN0ttdEs0OUhpdm5TQnM5b0FteGtQNk1kblNwNmFtb1FiOXF0RFM3UE1kUldKZ3I4RGROUExsWlg4NmhEYUhVcF9WcER2RnZLTEM2MVZHUFh3blhEM0tRMnhpMlhQaVVqQ1ByOWxPUTVPdVF0Y3l2b1NfeXBTV21vS2k4TjdabjRFQmJuU0hsT3dBZlFxdFp5QUNrQzhuZjdsMzhPSXNXVEJPWVh0X3lVSWxyUjZoejRJN1BZVDlubWxCbA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-07/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o en otro tejido",
+          "definition_en": "wound - injury to the skin or another tissue"
+        },
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta que tarda en cerrar",
+          "definition_en": "ulcer - open wound that takes time to close"
+        },
+        {
+          "word": "vendaje",
+          "definition_es": "material que cubre y protege una herida",
+          "definition_en": "dressing - material that covers and protects a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso por el que una herida sana",
+          "definition_en": "healing - process through which a wound gets better"
+        }
+      ],
+      "added_at": "2026-09-07T09:20:09.659830Z"
+    },
+    {
+      "id": "surgical-wounds-20260907",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🏥",
+      "gradient": "blue",
+      "headline_es": "El sistema estandarizado de J&J podría mejorar la clasificación de sitios quirúrgicos",
+      "headline_en": "J&J's standardized surgical site system could improve classification",
+      "summary_es": "Johnson & Johnson propone un sistema estandarizado para clasificar el sitio quirúrgico. La herramienta podría mejorar la documentación, la comunicación y los resultados de los pacientes.",
+      "body_es": "Johnson & Johnson ha desarrollado un sistema estandarizado para clasificar el sitio quirúrgico. Según Medical Design & Outsourcing, la propuesta busca que los profesionales describan y documenten de forma uniforme cada herida relacionada con una operación. Una clasificación común puede facilitar la evaluación de la herida, la comunicación entre cirugía y enfermería y la comparación de resultados. El equipo podría registrar el tipo de procedimiento, el estado de la piel y la presencia de exudado. Con esos datos, sería más sencillo vigilar la evolución y detectar signos de infección. El sistema también puede apoyar decisiones sobre una sutura, un apósito y el seguimiento posterior. En el futuro, los hospitales podrán usar categorías iguales para revisar sus resultados. Sin embargo, cada institución debería comparar el modelo con sus protocolos y con la evidencia disponible antes de incorporarlo. La noticia presenta esta estandarización como una herramienta con potencial para mejorar los resultados de los pacientes. No reemplazaría la valoración clínica ni el juicio del equipo quirúrgico.",
+      "body_en": "Johnson & Johnson has developed a standardized system to classify the surgical site. According to Medical Design & Outsourcing, the proposal seeks to help professionals describe and document each wound related to an operation in a uniform way. A common classification can facilitate wound assessment, communication between surgery and nursing, and comparison of results. The team could record the procedure type, the condition of the skin, and the presence of exudate. With these data, it would be easier to monitor the course and detect signs of infection. The system could also support decisions about a suture, a dressing, and follow-up. In the future, hospitals will be able to use the same categories to review their results. However, each institution should compare the model with its protocols and available evidence before adopting it. The news presents this standardization as a tool with potential to improve patient outcomes. It would not replace clinical assessment or the surgical team's judgment.",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTWZMMkdSUkJCYzBvTHl1MlcxLTVGRlBwcGpjSFdIbkxiR2xXRTVNV2J6emh1MzFLc3QzWWpCZXlycGtZWlFNdlF1LUI1Zmw2TDItcDI5UTN6Rlg4QjktUlNEc3ZCZ2pPOHhMLU5IT2NLZzhpRnR6Y1VlbU5KMmFGYmNyZlFmczJBblNFWFlkd2ZQV1dQei11aVktVUJOd1E1NV9TN3NjRGVJeVhqRm5sTEhvaHJiNXdkU0VwRTMzcTNndm5sOWcweUlDMk04VWlJQ0ZvOVJENA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-07/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "clasificación",
+          "definition_es": "forma de ordenar un sitio o una herida por sus características",
+          "definition_en": "classification - way of organizing a site or wound by its characteristics"
+        },
+        {
+          "word": "herida",
+          "definition_es": "lesión producida en la piel o en un tejido",
+          "definition_en": "wound - injury to the skin or tissue"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "material o técnica para cerrar una herida",
+          "definition_en": "suture - material or technique used to close a wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos que puede causar enfermedad",
+          "definition_en": "infection - invasion by microorganisms that can cause illness"
+        }
+      ],
+      "added_at": "2026-09-07T09:20:09.659830Z"
+    },
+    {
+      "id": "wound-research-20260907",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Innovaciones deportivas ofrecen nuevas ideas para investigar la curación de lesiones",
+      "headline_en": "Sports innovations offer new ideas for researching injury healing",
+      "summary_es": "Stanford Medicine presenta innovaciones para mantener a los atletas en buena forma. El artículo explica que estas ideas también pueden ser útiles para otras personas con lesiones.",
+      "body_es": "Stanford Medicine presenta varias innovaciones creadas para mantener a los atletas en buena forma. Según el artículo, estas ideas también pueden beneficiar a personas con lesiones y a otros pacientes. La noticia relaciona la medicina deportiva con una evaluación más precisa, el seguimiento de la recuperación y el regreso seguro a la actividad. Para la investigación de heridas, este enfoque es útil porque permite observar cómo cambia el tejido después de una lesión. También puede ayudar a medir el dolor, la movilidad y la respuesta a la curación. El artículo reúne innovaciones médicas, pero no describe un ensayo clínico específico sobre úlceras o heridas cutáneas. Por eso, los profesionales deberían valorar cada tecnología junto con la exploración clínica y la evidencia disponible. En el futuro, algunas herramientas diseñadas para deportistas podrían complementar la rehabilitación de pacientes con heridas traumáticas o quirúrgicas. Su uso dependerá de la seguridad, el costo y los resultados en diferentes grupos de pacientes. La propuesta central de Stanford es que los avances deportivos pueden tener beneficios para toda la población.",
+      "body_en": "Stanford Medicine presents several innovations created to keep athletes in good condition. According to the article, these ideas can also benefit people with injuries and other patients. The news connects sports medicine with more precise assessment, recovery monitoring, and a safe return to activity. For wound research, this approach is useful because it allows researchers to observe how tissue changes after an injury. It can also help measure pain, mobility, and the response to healing. The article brings together medical innovations, but it does not describe a specific clinical trial on ulcers or skin wounds. Therefore, professionals should evaluate each technology together with clinical examination and available evidence. In the future, some tools designed for athletes could complement rehabilitation for patients with traumatic or surgical wounds. Their use will depend on safety, cost, and results in different patient groups. Stanford's central proposal is that advances in sports medicine can benefit the entire population.",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVE9fYkJ1VndSSHJIRG40d3hTbHVDVEpVWUdBcldZT0VEc2lvaC00aEJ5WmNxWXpOZUVzXy1LalFwcE5BOVhpbmJGUFBYRzA0TE5FNjJYdktXZExrdUFMZXRvRjg2S1BnN0tSal9Kd1BIM19rOXZELVRtakRaaDd5MWY3TzNuU0k?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-07/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "evaluación",
+          "definition_es": "revisión del estado de un paciente o una lesión",
+          "definition_en": "assessment - review of a patient's or injury's condition"
+        },
+        {
+          "word": "lesión",
+          "definition_es": "daño o cambio anormal en un tejido",
+          "definition_en": "lesion - damage or abnormal change in tissue"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "grupo de células que forma una parte del cuerpo",
+          "definition_en": "tissue - group of cells that forms part of the body"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de reparación y recuperación del cuerpo",
+          "definition_en": "healing - process of repair and recovery in the body"
+        }
+      ],
+      "added_at": "2026-09-07T09:20:09.659830Z"
+    },
     {
       "id": "chronic-wounds-20260906",
       "category": "Chronic Wounds",
@@ -40109,6 +40220,6 @@
       ]
     }
   ],
-  "last_updated": "2026-09-06T09:15:25.340005Z",
+  "last_updated": "2026-09-07T09:20:09.659830Z",
   "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
 }
