@@ -1,225 +1,225 @@
 {
-  "date": "2026-09-09",
-  "generated_at": "2026-09-09T09:19:45.298444Z",
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T09:18:59.370563Z",
   "description": "Daily conversation stories for Spanish practice",
   "stories": [
     {
-      "id": "tech-20260909",
+      "id": "tech-20260910",
       "category": "Tecnología",
       "difficulty": "A2",
       "emoji": "🤖",
       "gradient": "blue",
-      "headline_es": "Estados Unidos acusa a empresas chinas de copiar tecnología de IA",
-      "headline_en": "The United States Accuses Chinese Companies of Copying AI Technology",
-      "summary_es": "Funcionarios estadounidenses dicen que varias empresas chinas copian modelos de inteligencia artificial. Washington estudia nuevas medidas para proteger la tecnología estadounidense.",
-      "body_es": "El Gobierno de Estados Unidos acusa a varias empresas chinas. Dice que algunas intentan copiar modelos americanos. La tecnología es de inteligencia artificial (IA). Funcionarios estadounidenses dicen que algunas compañías hacen muchas preguntas a modelos americanos. Después, usan las respuestas para crear sus propios sistemas. Este proceso se llama destilación. Según Washington, la práctica ocurre a gran escala. Puede reducir el tiempo y el dinero necesarios para desarrollar un modelo.\n\nEl caso aumenta la tensión tecnológica entre Estados Unidos y China. Las autoridades estadounidenses creen que la copia puede ayudar a las empresas chinas a competir rápidamente. También dicen que la información copiada incluye secretos comerciales. Las empresas mencionadas no aceptan esas acusaciones, según los informes. El debate llega cuando compañías como DeepSeek ganan atención internacional. Sus herramientas de IA son más baratas. Washington estudia nuevas medidas para proteger la tecnología estadounidense.",
-      "body_en": "The United States government is accusing several Chinese companies. It says some are trying to copy American models. The technology is artificial intelligence (AI). U.S. officials say some companies ask American models many questions. Then they use the answers to create their own systems. This process is called distillation. According to Washington, the practice happens on a large scale. It can reduce the time and money needed to develop a model.\n\nThe case increases technological tension between the United States and China. U.S. authorities believe the copying can help Chinese companies compete quickly. They also say the copied information includes trade secrets. The companies mentioned do not accept those accusations, according to reports. The debate grows as companies such as DeepSeek gain international attention. Their AI tools are cheaper. Washington is studying new measures to protect American technology.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-09/tech.mp3",
+      "headline_es": "Un investigador deja Anthropic por miedo a una IA sin control",
+      "headline_en": "A Researcher Leaves Anthropic Over Fears of Uncontrolled AI",
+      "summary_es": "Un investigador de Anthropic ha dejado la empresa por sus temores sobre el rápido avance de la inteligencia artificial. El caso reabre el debate sobre la seguridad de modelos como Claude.",
+      "body_es": "Un investigador deja Anthropic porque teme un avance demasiado rápido de la inteligencia artificial. Anthropic es una empresa de Estados Unidos que crea modelos de IA, como Claude. Según una información exclusiva de The Wall Street Journal, el investigador cree que algunos sistemas pueden ser difíciles de controlar. También piensa que las compañías necesitan más seguridad antes de lanzar una nueva herramienta. Su salida muestra un debate dentro de la industria tecnológica. Muchas personas ven beneficios en la IA, pero otras temen errores y decisiones inesperadas. Las empresas compiten por crear programas más capaces. Por eso, el caso de Anthropic recibe atención. La noticia no presenta un accidente causado por Claude. Presenta la preocupación de una persona que trabajaba en este campo. El debate continúa: los equipos quieren avanzar, pero deben estudiar los riesgos. Para expertos, el control y la seguridad son tan importantes como la velocidad.",
+      "body_en": "A researcher is leaving Anthropic because he fears that artificial intelligence is advancing too quickly. Anthropic is a United States company that creates AI models such as Claude. According to an exclusive report by The Wall Street Journal, the researcher believes that some systems may be difficult to control. He also thinks companies need more security before launching a new tool. His departure shows a debate within the technology industry. Many people see benefits in AI, but others fear errors and unexpected decisions. Companies compete to create more capable programs. For that reason, the Anthropic case is receiving attention. The news does not present an accident caused by Claude. It presents the concern of a person who worked in this field. The debate continues: teams want to move forward, but they must study the risks. For experts, control and safety are as important as speed.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/tech.mp3",
       "key_vocabulary": [
         {
-          "word": "modelo",
-          "definition_es": "Sistema que aprende y produce respuestas.",
-          "definition_en": "A system that learns and produces answers."
+          "word": "investigador",
+          "definition_es": "Persona que estudia un tema para aprender más.",
+          "definition_en": "A person who studies a subject to learn more."
         },
         {
-          "word": "destilación",
-          "definition_es": "Método para aprender de otro modelo.",
-          "definition_en": "A method of learning from another model."
+          "word": "seguridad",
+          "definition_es": "Protección contra peligros o problemas.",
+          "definition_en": "Protection from danger or problems."
         },
         {
-          "word": "copiar",
-          "definition_es": "Hacer algo igual o muy parecido.",
-          "definition_en": "To make something the same or very similar."
+          "word": "herramienta",
+          "definition_es": "Objeto o programa que ayuda a hacer una tarea.",
+          "definition_en": "An object or program used to do a task."
         },
         {
-          "word": "competir",
-          "definition_es": "Intentar ganar frente a otros.",
-          "definition_en": "To try to win against others."
+          "word": "control",
+          "definition_es": "Capacidad de dirigir o limitar algo.",
+          "definition_en": "The ability to direct or limit something."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-09/tech-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste el chismecito tech? Estados Unidos anda acusando a empresas chinas de copiar IA.  \nCARLOS: ¿En serio? A ver, ¿copiar como “copiar-pegar” pero de robots?  \nLAURA: Más o menos. Dicen que le hacen mil preguntas a modelos gringos y con eso arman los suyos.  \nCARLOS: Ahhh, la “destilación”, ¿no? Suena fancy… como cafecito filtrado.  \nLAURA: ¡Exacto! Pero Washington dice que es a gran escala y que hasta secretos comerciales se les van.  \nCARLOS: No manches… aunque, si así ahorran tiempo y lana, entiendo la tentación.  \nLAURA: Sí, pero también está la bronca: sube la tensión EE.UU.-China otra vez.  \nCARLOS: Y justo cuando DeepSeek y otros se vuelven famosos por baratos. Eso pica el orgullo.  \nLAURA: Las empresas dicen “yo no fui”, obvio.  \nCARLOS: Y EE.UU. ya anda viendo nuevas medidas… como candado digital.  \nLAURA: Moraleja: en IA, hasta las preguntas salen carísimas. Vámonos por un panini, mejor."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/tech-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? Un investigador dejó Anthropic por miedo a una IA sin control. ¡No manches!  \nCARLOS: ¿En serio? O sea, la empresa de Claude, ¿no? Suena a “me bajo antes de que explote el cohete”.  \nLAURA: Sí, según The Wall Street Journal. El dude dice que vamos demasiado rápido y que luego ni la controlan.  \nCARLOS: Pues… tiene sentido. La banda quiere sacar cosas nuevas y a veces la seguridad queda al “ahorita vemos”.  \nLAURA: Pero qué intenso dejar tu chamba por eso. Yo a duras penas dejo mi cafecito.  \nCARLOS: Jajaja. Y ojo: no es que Claude haya causado un accidente ni nada, es más como preocupación interna.  \nLAURA: Ajá, como: “no es drama, pero sí tantito”.  \nCARLOS: Es el debate clásico: velocidad vs control. Y con tanta competencia, se ponen las pilas… o se les va la mano.  \nLAURA: Yo solo quiero una IA que me haga la tarea y no me quiera dominar, gracias.  \nCARLOS: Trato hecho: IA con freno de mano. ¿Otro café?"
     },
     {
-      "id": "sports-20260909",
+      "id": "sports-20260910",
       "category": "Deportes",
       "difficulty": "A2",
       "emoji": "⚽",
       "gradient": "green",
-      "headline_es": "El fútbol americano sigue primero, pero el soccer crece en Estados Unidos",
-      "headline_en": "American Football Remains First, but Soccer Is Growing in the United States",
-      "summary_es": "Una encuesta de Gallup confirma que el fútbol americano es el deporte favorito de Estados Unidos. El soccer todavía tiene menos seguidores, pero gana interés antes del Mundial de 2026.",
-      "body_es": "El fútbol americano sigue siendo el deporte favorito de Estados Unidos. Un informe de Gallup pregunta por el deporte preferido. El 41% de los adultos elige el fútbol americano. El béisbol ocupa el segundo lugar, con el 10%. El baloncesto recibe el 9%. El fútbol, llamado soccer en Estados Unidos, llega al 5%.\n\nEl soccer todavía es más pequeño, pero crece poco a poco. Una encuesta anterior tenía una cifra menor. Ahora atrae a más jóvenes y comunidades de inmigrantes. La Copa Mundial de 2026 aumenta el interés. Estados Unidos, Canadá y México organizan ese torneo.\n\nEl informe muestra una diferencia clara. El fútbol americano domina la televisión y los estadios. Sin embargo, el soccer gana nuevos aficionados. Gallup pregunta a los adultos por su preferencia. Los resultados hablan de gustos, no de personas que practican cada deporte.",
-      "body_en": "American football remains the favorite sport in the United States. A Gallup report asks about people’s preferred sport. Forty-one percent of adults choose American football. Baseball is second, at 10%. Basketball gets 9%. Soccer reaches 5%.\n\nSoccer is still smaller, but it is growing little by little. An earlier survey had a lower figure. It now attracts more young people and immigrant communities. The 2026 World Cup is increasing interest. The United States, Canada, and Mexico are organizing that tournament.\n\nThe report shows a clear difference. American football dominates television and stadiums. However, soccer is gaining new fans. Gallup asks adults about their preference. The results show tastes, not the number of people who play each sport.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-09/sports.mp3",
+      "headline_es": "Kean empata 0-0 contra el número 17, Scranton",
+      "headline_en": "Kean Men's Soccer Draws 0–0 with No. 17 Scranton",
+      "summary_es": "Kean University empató 0-0 con la Universidad de Scranton, número 17 del país. Los dos equipos defendieron bien y ninguno pudo marcar.",
+      "body_es": "El equipo masculino de fútbol de Kean University empató 0-0 con Scranton. Scranton ocupa el puesto número 17 del país. El partido tuvo dos tiempos intensos, pero ningún equipo marcó un gol. Kean defendió bien cerca de su portería. Scranton también creó una ocasión peligrosa durante el encuentro. Cada portero paró los tiros más peligrosos. Los Cougars buscaron el gol hasta el final. Sin embargo, la defensa de Scranton mantuvo el resultado. El empate da un punto a cada equipo. Para Kean, fue una actuación fuerte contra un rival de la clasificación nacional. El marcador muestra un partido muy igualado. Los jugadores ahora preparan su próximo encuentro. La noticia de Kean Athletics destaca el esfuerzo, la concentración y el trabajo de todo el grupo.",
+      "body_en": "Kean University's men's soccer team drew 0–0 with Scranton. Scranton is ranked No. 17 in the country. The match had two intense halves, but neither team scored. Kean defended well near its goal. Scranton also created one dangerous chance during the match. Each goalkeeper stopped the most dangerous shots. The Cougars looked for a goal until the end. However, Scranton's defense kept the result. The draw gives one point to each team. For Kean, it was a strong performance against a nationally ranked opponent. The scoreboard shows a very even match. The players are now preparing for their next game. The Kean Athletics report highlights the effort, concentration, and teamwork of the whole group.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/sports.mp3",
       "key_vocabulary": [
         {
-          "word": "encuesta",
-          "definition_es": "Preguntas hechas a un grupo de personas.",
-          "definition_en": "Questions asked to a group of people."
+          "word": "empate",
+          "definition_es": "Resultado en el que los equipos tienen los mismos puntos.",
+          "definition_en": "A result in which the teams have the same score."
         },
         {
-          "word": "torneo",
-          "definition_es": "Competición con varios partidos.",
-          "definition_en": "A competition with several matches."
+          "word": "portería",
+          "definition_es": "Lugar donde un equipo intenta marcar un gol.",
+          "definition_en": "The area where a team tries to score a goal."
         },
         {
-          "word": "estadios",
-          "definition_es": "Lugares grandes para ver deportes.",
-          "definition_en": "Large places where people watch sports."
+          "word": "ocasión",
+          "definition_es": "Momento bueno para hacer algo, como marcar un gol.",
+          "definition_en": "A good chance to do something, such as score a goal."
         },
         {
-          "word": "preferencia",
-          "definition_es": "Gusto por una opción.",
-          "definition_en": "A liking for one option."
+          "word": "marcador",
+          "definition_es": "Número que muestra el resultado de un partido.",
+          "definition_en": "The number showing the score of a game."
         }
       ]
     },
     {
-      "id": "culture-20260909",
+      "id": "culture-20260910",
       "category": "Cultura",
       "difficulty": "B1",
-      "emoji": "🎨",
+      "emoji": "🎭",
       "gradient": "purple",
-      "headline_es": "La colección de arte de Clive Davis, valorada en 35 millones, sale a subasta",
-      "headline_en": "Clive Davis’s Art Collection, Valued at $35 Million, Goes to Auction",
-      "summary_es": "El ejecutivo musical Clive Davis venderá una parte de su colección de arte. Las obras incluyen piezas de Andy Warhol y David Hockney, y podrían alcanzar unos 35 millones de dólares.",
-      "body_es": "Una colección de arte de Clive Davis, valorada en unos 35 millones de dólares, irá a una subasta. Davis es un conocido ejecutivo musical y fundador de Arista Records. Durante décadas, compraba obras para su casa y para sus oficinas. Ahora decidió vender una parte importante de ese conjunto.\n\nLa colección incluye piezas de Andy Warhol y David Hockney, dos artistas muy reconocidos. También reúne obras de otros nombres del arte moderno. Algunas pinturas podrían atraer a un coleccionista internacional, porque combinan fama, historia y un posible aumento de valor. La venta permitirá al público conocer mejor el gusto de Davis, que normalmente aparece en las noticias por su trabajo con músicos.\n\nLos expertos esperan mucho interés cuando comience la subasta. Sin embargo, el precio final dependerá de las ofertas. La cifra de 35 millones de dólares es una estimación, no una garantía. Para Davis, la venta representa el final de una etapa y una nueva oportunidad para que sus obras encuentren otros dueños.",
-      "body_en": "An art collection by Clive Davis, valued at about $35 million, will go to auction. Davis is a well-known music executive and founder of Arista Records. For decades, he bought works for his home and offices. He has now decided to sell a significant part of that group.\n\nThe collection includes pieces by Andy Warhol and David Hockney, two highly respected artists. It also brings together works by other names in modern art. Some paintings could attract an international collector because they combine fame, history, and possible growth in value. The sale will let the public learn more about Davis’s taste, although he normally appears in the news for his work with musicians.\n\nExperts expect strong interest when the auction begins. However, the final price will depend on the bids. The $35 million figure is an estimate, not a guarantee. For Davis, the sale represents the end of one stage and a new opportunity for his works to find other owners.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-09/culture.mp3",
+      "headline_es": "El concurso de drag kings de San Francisco cumple 30 años",
+      "headline_en": "San Francisco's Drag King Contest Celebrates 30 Years",
+      "summary_es": "El San Francisco Drag King Contest celebra tres décadas de actuaciones, humor y expresión artística. El concurso es considerado el más antiguo de su tipo.",
+      "body_es": "El San Francisco Drag King Contest celebra treinta años en San Francisco. El San Francisco Chronicle lo presenta como el concurso de drag king más antiguo del mundo. Durante tres décadas, artistas han usado maquillaje, ropa, música y humor para crear personajes masculinos sobre el escenario. Cada participante prepara un personaje y una actuación diferente. Algunos prefieren la comedia, mientras otros hablan de género, identidad y vida social. La competencia no busca una sola forma de ser un drag king. Su variedad es una de las razones de su importancia cultural. El evento también conecta a artistas nuevos con personas que participan desde hace muchos años. Con el tiempo, la escena de San Francisco ha cambiado, pero el concurso continúa. Si la próxima generación mantiene este espacio, la tradición seguirá creciendo. Para el público, la celebración ofrece entretenimiento y una mirada a la historia artística de la ciudad. Cumplir treinta años demuestra que esta expresión puede adaptarse sin perder su personalidad.",
+      "body_en": "The San Francisco Drag King Contest celebrates 30 years in San Francisco. The San Francisco Chronicle presents it as the world's longest-running drag king contest. For three decades, artists have used makeup, clothing, music, and humor to create masculine characters onstage. Each participant prepares a character and a different performance. Some prefer comedy, while others talk about gender, identity, and social life. The competition does not seek only one way to be a drag king. Its variety is one reason for its cultural importance. The event also connects new artists with people who have participated for many years. Over time, San Francisco's scene has changed, but the contest continues. If the next generation keeps this space alive, the tradition will continue to grow. For the public, the celebration offers entertainment and a look at the city's artistic history. Reaching 30 years shows that this expression can adapt without losing its personality.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/culture.mp3",
       "key_vocabulary": [
         {
-          "word": "colección",
-          "definition_es": "Grupo de objetos reunidos.",
-          "definition_en": "A group of collected objects."
+          "word": "concurso",
+          "definition_es": "Actividad en la que varias personas compiten.",
+          "definition_en": "An event in which several people compete."
         },
         {
-          "word": "subasta",
-          "definition_es": "Venta para quien ofrece más dinero.",
-          "definition_en": "A sale to the person who offers the most money."
+          "word": "escenario",
+          "definition_es": "Lugar donde actúan los artistas.",
+          "definition_en": "The place where performers act."
         },
         {
-          "word": "coleccionista",
-          "definition_es": "Persona que reúne objetos especiales.",
-          "definition_en": "A person who collects special objects."
+          "word": "personaje",
+          "definition_es": "Persona representada por un artista.",
+          "definition_en": "A person represented by a performer."
         },
         {
-          "word": "estimación",
-          "definition_es": "Cálculo aproximado de una cantidad.",
-          "definition_en": "An approximate calculation of an amount."
+          "word": "identidad",
+          "definition_es": "La manera en que una persona se entiende a sí misma.",
+          "definition_en": "The way a person understands themselves."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-09/culture-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? La colección de arte de Clive Davis… ¡a subasta!  \nCARLOS: ¿Clive Davis, el de la música? ¿Arista Records? No manches.  \nLAURA: Sííí, y dicen que vale como 35 millones de dólares. ¡Qué padre y qué loco!  \nCARLOS: O sea, el señor armó su museo privado en su casa y oficina, y ahora “ahí les va”.  \nLAURA: Y trae piezas de Andy Warhol y David Hockney… ¿en serio? Eso ya es nivel “tengo paredes millonarias”.  \nCARLOS: A mí me da risa pensar: tú cuelgas un póster, y él cuelga un Warhol.  \nLAURA: Jajaja. Pero ojo: esos 35 millones son estimación, ¿eh? Depende de las ofertas.  \nCARLOS: Claro, la subasta es como concierto: el público decide el hype.  \nLAURA: Y está chido porque así conocemos su gusto, no nomás sus artistas pop.  \nCARLOS: Sí… y alguien va a decir: “me llevo este cuadro y de paso una historia”.  \nLAURA: Yo nomás digo: si me sobra cambio, pujo por una esquina del marco. ¡Vámonos por un cafecito!"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/culture-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¡no manches! El concurso de drag kings de San Francisco cumple 30 años.  \nCARLOS: ¿En serio? Treinta… ya está en edad de pagar renta carísima allá.  \nLAURA: Jajaja, sí. Dicen que es el concurso de drag king más antiguo del mundo, según el Chronicle.  \nCARLOS: Está cañón. Y me late que no es solo “disfraz”, ¿no? Es personaje, show, humor, todo.  \nLAURA: Exacto: maquillaje, ropa, música… cada quien arma su propio vato ficticio. ¡Qué padre!  \nCARLOS: Y lo chido es que no buscan una sola forma de ser drag king. Hay comedia, hay temas de género, identidad…  \nLAURA: O sea, variedad total. Como menú de cafetería: uno pide “latte” y otro “chisme existencial”.  \nCARLOS: Jajaja. Además conecta a gente nueva con veteranes; eso mantiene viva la escena.  \nLAURA: Y San Francisco cambia, pero el concurso sigue. Eso es resistencia con brillantina.  \nCARLOS: Pues cuando vayamos, tú vas de manager y yo de seguridad, ¿va?  \nLAURA: Trato hecho… pero con bigote postizo obligatorio."
     },
     {
-      "id": "economy-20260909",
+      "id": "economy-20260910",
       "category": "Economía",
       "difficulty": "B1",
-      "emoji": "💳",
+      "emoji": "📈",
       "gradient": "gold",
-      "headline_es": "Visa y el Banco Mundial crean un plan para ampliar los pagos digitales",
-      "headline_en": "Visa and the World Bank Create a Plan to Expand Digital Payments",
-      "summary_es": "Visa y el Grupo Banco Mundial anunciaron una iniciativa para compartir riesgos y ampliar los pagos digitales. El plan busca ayudar a personas y negocios en mercados emergentes.",
-      "body_es": "Visa y el Grupo Banco Mundial anunciaron una nueva iniciativa para ampliar los pagos digitales y la inclusión financiera en mercados emergentes. La alianza incluye a la Corporación Financiera Internacional (IFC), parte del Grupo Banco Mundial. Su mecanismo de reparto de riesgo busca animar a bancos y otras instituciones a ofrecer más cuentas, tarjetas y servicios digitales.\n\nDurante años, muchas familias y pequeños negocios tenían dificultades para conseguir un préstamo o para usar una cuenta segura. El Banco Mundial calcula que unos 1.400 millones de adultos no tenían una cuenta bancaria en 2021.\n\nCon esta iniciativa, Visa y sus socios compartirán parte del riesgo de ciertos proyectos. Así, los bancos podrán trabajar con clientes que antes parecían demasiado difíciles o caros. Si la protección funciona, más empresas recibirán financiación y más personas usarán pagos electrónicos. Los detalles del programa, incluidos los países participantes y las cantidades disponibles, se conocerán en las próximas etapas.",
-      "body_en": "Visa and the World Bank Group announced a new initiative to expand digital payments and financial inclusion in emerging markets. The partnership includes the International Finance Corporation (IFC), which is part of the World Bank Group. Its risk-sharing mechanism aims to encourage banks and other institutions to offer more accounts, cards, and digital services.\n\nFor years, many families and small businesses had difficulty getting a loan or using a secure account. The World Bank estimates that about 1.4 billion adults did not have a bank account in 2021.\n\nWith this initiative, Visa and its partners will share part of the risk of certain projects. In this way, banks will be able to work with customers who previously seemed too difficult or expensive. If the protection works, more companies will receive financing and more people will use electronic payments. The program’s details, including participating countries and available amounts, will become known in the next stages.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-09/economy.mp3",
+      "headline_es": "La economía plateada de Asia mira más allá del consumo",
+      "headline_en": "Asia's Silver Economy Looks Beyond Older Consumers",
+      "summary_es": "HelpAge International pide que la economía plateada no vea a las personas mayores únicamente como consumidores. Asia tendrá una población mayor mucho más grande para 2050.",
+      "body_es": "Asia está envejeciendo rápidamente, y ese cambio crea nuevas preguntas para la economía. Un artículo de HelpAge International pide mirar más allá de las personas mayores como consumidores. Según el texto, más de 700 millones de personas de 60 años o más viven en Asia y el Pacífico. Para 2050, la cifra podría llegar a 1.300 millones. Muchas empresas ven oportunidades en salud, vivienda, viajes y tecnología. Sin embargo, la economía plateada también incluye empleo, cuidados y participación social. Las personas mayores pueden trabajar, cuidar familiares, enseñar, abrir negocios o ayudar en sus comunidades. El artículo dice que las políticas públicas deben escuchar sus necesidades y capacidades. Si los gobiernos mejoran el transporte, la atención médica y los servicios digitales, las personas mayores tendrán más independencia. Así, la sociedad no las verá solo como consumidores. También reconocerá su experiencia, su trabajo y su contribución económica. El envejecimiento presenta desafíos, pero puede impulsar servicios y empleos nuevos.",
+      "body_en": "Asia is aging rapidly, and this change is creating new questions for the economy. A HelpAge International article asks readers to look beyond older people as consumers. According to the text, more than 700 million people aged 60 or older live in Asia and the Pacific. By 2050, the number could reach 1.3 billion. Many companies see opportunities in health care, housing, travel, and technology. However, the silver economy also includes employment, care, and social participation. Older people can work, care for relatives, start businesses, teach, or help in their communities. The article says public policies must listen to their needs and abilities. If governments improve transportation, medical care, and digital services, older people will have more independence. Society will then not see them only as consumers. It will also recognize their experience, work, and economic contribution. Aging creates challenges, but it can drive new services and jobs.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/economy.mp3",
       "key_vocabulary": [
         {
-          "word": "iniciativa",
-          "definition_es": "Plan nuevo para lograr algo.",
-          "definition_en": "A new plan to achieve something."
+          "word": "envejecimiento",
+          "definition_es": "Proceso de hacerse mayor con el paso del tiempo.",
+          "definition_en": "The process of becoming older over time."
         },
         {
-          "word": "riesgo",
-          "definition_es": "Posibilidad de que ocurra algo malo.",
-          "definition_en": "The possibility that something bad will happen."
+          "word": "consumidores",
+          "definition_es": "Personas que compran o usan productos y servicios.",
+          "definition_en": "People who buy or use products and services."
         },
         {
-          "word": "préstamo",
-          "definition_es": "Dinero que se recibe y después se devuelve.",
-          "definition_en": "Money received and later paid back."
+          "word": "cuidados",
+          "definition_es": "Ayuda y atención para una persona.",
+          "definition_en": "Help and attention given to a person."
         },
         {
-          "word": "inclusión",
-          "definition_es": "Acción de dar oportunidades a todos.",
-          "definition_en": "The act of giving opportunities to everyone."
+          "word": "participación",
+          "definition_es": "Acción de tomar parte en una actividad.",
+          "definition_en": "The act of taking part in an activity."
         }
       ]
     },
     {
-      "id": "environment-20260909",
+      "id": "environment-20260910",
       "category": "Medio Ambiente",
       "difficulty": "B2",
-      "emoji": "🌱",
-      "gradient": "emerald",
-      "headline_es": "La agrivoltaica combina paneles solares y agricultura en una misma parcela",
-      "headline_en": "Agrivoltaics Combines Solar Panels and Farming on the Same Plot of Land",
-      "summary_es": "La agrivoltaica permite producir alimentos y electricidad en el mismo terreno. La práctica puede ahorrar agua, aunque sus resultados dependen del cultivo y del diseño de los paneles.",
-      "body_es": "La agrivoltaica busca que una misma parcela produzca alimentos y electricidad, una idea especialmente atractiva en Arizona, donde el sol abunda, pero el agua y el suelo agrícola son limitados. El concepto no consiste simplemente en instalar paneles sobre cualquier cultivo: exige elevarlos o distribuirlos de manera que las máquinas, los trabajadores y, en algunos casos, las ovejas puedan pasar por debajo.\n\nLa sombra parcial puede reducir la evaporación y proteger plantas como lechugas, tomates y bayas durante las horas más calurosas. Al mismo tiempo, la vegetación libera humedad; ese efecto puede enfriar los paneles y mejorar su rendimiento. Sin embargo, los resultados cambian según el clima, la orientación de las placas y la especie cultivada. Lo que beneficia a una lechuga quizá perjudique a un cultivo que necesita sol directo. Si se colocaran sin estudiar el terreno, podrían disminuir la cosecha en vez de ayudarla.\n\nLos especialistas sostienen que, si los proyectos se diseñan con cuidado, la agrivoltaica puede limitar la competencia entre la producción solar y la agrícola. Aun así, conviene que las comunidades evalúen el coste, el acceso al agua y el impacto sobre el paisaje antes de aprobarlos. Por eso, los investigadores comparan parcelas con paneles y sin ellos antes de sacar conclusiones. La tecnología no resolverá por sí sola la crisis energética o climática, pero ofrece una manera más eficiente de usar la tierra.",
-      "body_en": "Agrivoltaics seeks to make the same plot produce food and electricity, an idea that is especially attractive in Arizona, where sunshine is abundant but water and farmland are limited. The concept is not simply a matter of installing panels over any crop: it requires raising or distributing them so that machines, workers, and, in some cases, sheep can pass underneath.\n\nPartial shade can reduce evaporation and protect plants such as lettuce, tomatoes, and berries during the hottest hours. At the same time, vegetation releases moisture; this effect can cool the panels and improve their performance. However, results change according to the climate, the orientation of the panels, and the crop species. What benefits a lettuce plant might harm a crop that needs direct sunlight. If the panels were placed without studying the land, they could reduce the harvest instead of helping it.\n\nSpecialists argue that, if projects are designed carefully, agrivoltaics can limit competition between solar and agricultural production. Even so, communities should assess the cost, access to water, and impact on the landscape before approving them. For this reason, researchers compare plots with panels and without them before drawing conclusions. The technology will not solve the energy or climate crisis by itself, but it offers a more efficient way to use land.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-09/environment.mp3",
+      "emoji": "🌍",
+      "gradient": "green",
+      "headline_es": "Un manual explica cómo acelerar la reparación ambiental",
+      "headline_en": "A Playbook Shows How Environmental Repair Can Become Unstoppable",
+      "summary_es": "El Earthshot Prize y la Universidad de Exeter presentan un manual sobre puntos de inflexión positivos. Explica cómo una solución local puede crecer hasta producir cambios ambientales amplios.",
+      "body_es": "El Earthshot Prize y la Universidad de Exeter han presentado un nuevo manual sobre los llamados puntos de inflexión positivos. La idea es que una solución ambiental puede extenderse con mucha rapidez cuando supera un umbral: después, más personas, empresas y gobiernos la adoptan. El manual conecta esta estrategia con los cinco objetivos del Earthshot Prize: proteger y restaurar la naturaleza, limpiar el aire, recuperar los océanos, construir un mundo sin residuos y combatir el cambio climático. En la práctica, un autobús eléctrico más barato puede acelerar el transporte limpio; un manglar restaurado puede proteger costas y recuperar biodiversidad. Los autores sostienen que estos avances necesitan inversión, reglas claras, innovación y apoyo ciudadano. También recomiendan observar qué condiciones ayudan a que un proyecto local crezca en otras regiones. Si una política reduce una barrera económica o tecnológica, la solución puede volverse más accesible y atractiva. El informe no promete una fórmula mágica. Propone aprender de los proyectos que ya funcionan y repetir sus mejores elementos. La investigación será útil si quienes financian ciudades y comunidades comparten datos, resultados y errores. Para los científicos y activistas, el objetivo es que la reparación ambiental deje de ser una excepción y se convierta en la nueva norma. El mensaje resulta optimista, pero exige decisiones rápidas y cooperación internacional.",
+      "body_en": "The Earthshot Prize and the University of Exeter have presented a new playbook about so-called positive tipping points. The idea is that an environmental solution can spread very quickly when it passes a threshold: afterward, more people, companies, and governments adopt it. The playbook connects this strategy with the Earthshot Prize's five goals: protect and restore nature, clean the air, revive the oceans, build a waste-free world, and tackle climate change. In practice, a cheaper electric bus can speed up clean transportation; a restored mangrove can protect coasts and restore biodiversity. The authors argue that these advances need investment, clear rules, innovation, and public support. They also recommend watching which conditions help a local project grow in other regions. If a policy reduces an economic or technological barrier, the solution can become more accessible and attractive. The report does not promise a magic formula. It proposes learning from projects that already work and repeating their best elements. The research will be useful if people who fund cities and communities share data, results, and mistakes. For scientists and activists, the goal is for environmental repair to stop being an exception and become the new norm. The message is optimistic, but it requires quick decisions and international cooperation.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/environment.mp3",
       "key_vocabulary": [
         {
-          "word": "agrivoltaica",
-          "definition_es": "Uso conjunto de paneles solares y agricultura.",
-          "definition_en": "The combined use of solar panels and agriculture."
+          "word": "umbral",
+          "definition_es": "Punto que debe superarse para que ocurra un cambio.",
+          "definition_en": "A point that must be passed for a change to happen."
         },
         {
-          "word": "evaporación",
-          "definition_es": "Proceso por el que un líquido se convierte en vapor.",
-          "definition_en": "The process by which a liquid becomes vapor."
+          "word": "manglar",
+          "definition_es": "Bosque de árboles que crece cerca del mar.",
+          "definition_en": "A forest of trees that grows near the sea."
         },
         {
-          "word": "rendimiento",
-          "definition_es": "Cantidad o eficacia de lo que produce algo.",
-          "definition_en": "The amount or effectiveness of what something produces."
+          "word": "inversión",
+          "definition_es": "Dinero que se usa para apoyar un proyecto.",
+          "definition_en": "Money used to support a project."
         },
         {
-          "word": "parcela",
-          "definition_es": "Porción de terreno.",
-          "definition_en": "A piece of land."
+          "word": "barrera",
+          "definition_es": "Problema que hace más difícil conseguir algo.",
+          "definition_en": "A problem that makes something harder to achieve."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-09/environment-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto de la agrivoltaica? ¡Paneles solares y cultivos en la misma parcela!  \nCARLOS: ¿En serio? Suena a “dos por uno” del Oxxo, pero con lechugas.  \nLAURA: ¡No manches! Y en Arizona pega cañón: hay sol de sobra, pero el agua y la tierra agrícola… bien limitadas.  \nCARLOS: Ajá, pero no es nomás poner paneles a lo loco. Los tienen que elevar o espaciar pa’ que pasen máquinas, gente… y hasta ovejas.  \nLAURA: ¡Ovejas bajo paneles! Eso ya es spa con sombra incluida.  \nCARLOS: Y la sombra parcial ayuda: menos evaporación y las plantas como lechuga, tomate, bayas, sobreviven el calorón.  \nLAURA: Y la vegetación suelta humedad, ¿no? Entonces enfría los paneles y rinden más. ¡Qué padre!  \nCARLOS: Peeero depende: clima, orientación, y el cultivo. A uno le sirve, a otro lo friega si necesita sol directo.  \nLAURA: O sea, si lo hacen sin estudiar, bye cosecha. Qué oso.  \nCARLOS: Por eso comparan parcelas con y sin paneles, y la banda tiene que ver costos, agua y paisaje.  \nLAURA: Ok, moraleja: ciencia, no improvisación… y yo quiero ver esas ovejas solares ya. ¿Vamos?"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/environment-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿ya viste esto? Sacaron un manual para acelerar la reparación ambiental. ¡Un manual, güey!  \nCARLOS: ¿En serio? Suena como “Instrucciones para salvar el planeta” versión café. ¿De qué va?  \nLAURA: De “puntos de inflexión positivos”. O sea, una idea verde cruza un umbral y ¡pum!, se adopta por todos.  \nCARLOS: Ah, como cuando todos se subieron a la moda del termo… pero con impacto real.  \nLAURA: Exacto. Lo hicieron Earthshot Prize y la Uni de Exeter, y lo conectan con cinco metas: naturaleza, aire limpio, océanos, cero residuos y clima.  \nCARLOS: Me late. ¿Ejemplos?  \nLAURA: Un autobús eléctrico más barato: la gente lo usa, las ciudades lo compran, se vuelve normal.  \nCARLOS: Y restaurar manglares para proteger costas y traer biodiversidad… eso sí está bien padre.  \nLAURA: Pero dicen: sin inversión, reglas claras, innovación y apoyo ciudadano, nada despega.  \nCARLOS: O sea, no es magia: es copiar lo que funciona, compartir datos y hasta errores.  \nLAURA: ¡Va! Entonces nuestro “Earthshot” hoy: separar basura… y no pedir popote, ¿no?  \nCARLOS: Trato… pero tú invitas el cafecito, para acelerar mi adopción."
     },
     {
-      "id": "food-20260909",
+      "id": "gastronomy-20260910",
       "category": "Gastronomía",
       "difficulty": "B2",
       "emoji": "🍽️",
       "gradient": "orange",
-      "headline_es": "Qué ocurre cuando los restaurantes bajan sus precios durante dos semanas",
-      "headline_en": "What Happens When Restaurants Lower Their Prices for Two Weeks",
-      "summary_es": "Un análisis del Los Angeles Times examina el efecto de bajar los precios durante dos semanas. La estrategia atrae a más clientes, pero también puede reducir las ganancias de cada plato.",
-      "body_es": "Un análisis de Los Angeles Times examina qué ocurrió cuando restaurantes de Los Ángeles bajaron sus precios durante dos semanas. La experiencia está relacionada con Dine LA, un programa que reúne a muchos locales y les permite ofrecer menús especiales de precio fijo. La idea parece sencilla: si comer fuera cuesta menos, más personas pueden reservar una mesa.\n\nDurante esos 14 días, los clientes probaron restaurantes que normalmente consideraban demasiado caros. Algunos eligieron platos nuevos, pidieron postre o regresaron con amigos. Para los propietarios, sin embargo, una sala llena no siempre significa más ganancias. Un descuento puede aumentar las reservas, pero también reduce el margen de cada plato. Además, el restaurante necesita pagar al personal, comprar ingredientes y mantener la calidad.\n\nEl resultado muestra que el precio influye mucho en la clientela, aunque no es el único factor. La ubicación, el ambiente y la reputación también importan. Si una promoción consigue que un cliente vuelva después del evento, puede ser una inversión útil. Si solo atrae visitas durante 14 días, el negocio quizá no recupere el dinero perdido.\n\nEl análisis sugiere que los restaurantes no tienen que mantener precios bajos todo el año. Pueden crear un menú accesible por un tiempo limitado, siempre que calculen bien sus costes y expliquen claramente la oferta.",
-      "body_en": "An analysis by the Los Angeles Times examines what happened when restaurants in Los Angeles lowered their prices for two weeks. The experience is related to Dine LA, a program that brings together many restaurants and lets them offer special fixed-price menus. The idea seems simple: if eating out costs less, more people can book a table.\n\nDuring those 14 days, customers tried restaurants they normally considered too expensive. Some chose new dishes, ordered dessert, or returned with friends. For owners, however, a full dining room does not always mean more profit. A discount can increase reservations, but it also reduces the margin on each dish. In addition, the restaurant needs to pay staff, buy ingredients, and maintain quality.\n\nThe result shows that price strongly influences customers, although it is not the only factor. Location, atmosphere, and reputation also matter. If a promotion gets a customer to return after the event, it can be a useful investment. If it only attracts visits during the 14 days, the business may not recover the lost money.\n\nThe analysis suggests that restaurants do not have to keep prices low all year. They can create an affordable menu for a limited time, as long as they calculate their costs carefully and explain the offer clearly.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-09/gastronomy.mp3",
+      "headline_es": "Cambios en la cocina pueden mejorar la salud sin perder la tradición",
+      "headline_en": "Kitchen Changes Can Boost Health While Honoring Latin Traditions",
+      "summary_es": "UCHealth propone ajustes sencillos para que la cocina latinoamericana sea más saludable sin perder sus sabores. La clave está en cuidar el sodio, las grasas, las porciones y los métodos de cocción.",
+      "body_es": "Un artículo de UCHealth explica que la cocina latinoamericana puede apoyar la salud a largo plazo sin perder sus sabores ni su identidad. La propuesta no consiste en abandonar las recetas familiares, sino en ajustar ingredientes, métodos y cantidades. Por ejemplo, frijoles, lentejas y garbanzos aportan fibra y proteína; el maíz, la avena, las frutas y las verduras completan una alimentación variada. Como conviene vigilar el sodio, se pueden usar más ajo, cebolla, cilantro, chile, limón y otras especias en lugar de depender de sal, caldos preparados o salsas industriales. También es posible cocinar al horno, al vapor o a la parrilla cuando normalmente se fríe. Una porción moderada permite disfrutar arroz, tortillas o tamales sin que toda la comida sea pesada. Para que una tradición culinaria siga viva, debe poder adaptarse a distintas necesidades de salud. Si una familia sustituye una parte de la grasa saturada por aceite más saludable y añade una legumbre, el plato conservará sabor y ganará valor nutritivo. UCHealth anima a realizar cambios pequeños y constantes, porque la salud cardiovascular depende más de los hábitos diarios que de una comida perfecta. El objetivo es celebrar la cultura y mejorar el bienestar al mismo tiempo para toda la familia.",
+      "body_en": "An article from UCHealth explains that Latin American cooking can support long-term health without losing its flavors or identity. The proposal is not to abandon family recipes, but to adjust ingredients, methods, and amounts. For example, beans, lentils, and chickpeas provide fiber and protein; corn, oats, fruits, and vegetables complete a varied diet. Because it is useful to watch sodium, people can use more garlic, onion, cilantro, chili, lemon, and other spices instead of relying on salt, prepared broths, or industrial sauces. It is also possible to bake, steam, or grill food when it is usually fried. A moderate portion allows people to enjoy rice, tortillas, or tamales without making the whole meal heavy. For a culinary tradition to stay alive, it must be able to adapt to different health needs. If a family replaces some saturated fat with a healthier oil and adds a legume, the dish will keep its flavor and gain nutritional value. UCHealth encourages small, consistent changes because cardiovascular health depends more on daily habits than on one perfect meal. The goal is to celebrate culture and improve well-being at the same time for the whole family.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/gastronomy.mp3",
       "key_vocabulary": [
         {
-          "word": "descuento",
-          "definition_es": "Reducción del precio normal.",
-          "definition_en": "A reduction in the usual price."
+          "word": "tradición",
+          "definition_es": "Costumbre que pasa de una generación a otra.",
+          "definition_en": "A custom passed from one generation to another."
         },
         {
-          "word": "margen",
-          "definition_es": "Diferencia entre ingresos y costes.",
-          "definition_en": "The difference between income and costs."
+          "word": "sodio",
+          "definition_es": "Mineral presente en la sal y algunos alimentos.",
+          "definition_en": "A mineral found in salt and some foods."
         },
         {
-          "word": "clientela",
-          "definition_es": "Conjunto de clientes de un negocio.",
-          "definition_en": "The group of customers of a business."
+          "word": "porción",
+          "definition_es": "Cantidad de comida que se sirve para una persona.",
+          "definition_en": "The amount of food served for one person."
         },
         {
-          "word": "menú",
-          "definition_es": "Lista de platos que ofrece un restaurante.",
-          "definition_en": "A list of dishes offered by a restaurant."
+          "word": "legumbre",
+          "definition_es": "Semilla comestible, como un frijol, una lenteja o un garbanzo.",
+          "definition_en": "An edible seed, such as a bean, lentil, or chickpea."
         }
       ]
     }
   ],
-  "last_updated": "2026-09-09T09:19:45.298444Z",
+  "last_updated": "2026-09-10T09:18:59.370563Z",
   "generated_by": "GitHub Actions + OpenAI API"
 }
