@@ -1,97 +1,102 @@
 {
-  "date": "2026-09-10",
-  "generated_at": "2026-09-10T09:18:59.370563Z",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T09:18:56.606421Z",
   "description": "Daily conversation stories for Spanish practice",
   "stories": [
     {
-      "id": "tech-20260910",
+      "id": "tech-20260911",
       "category": "Tecnología",
       "difficulty": "A2",
       "emoji": "🤖",
       "gradient": "blue",
-      "headline_es": "Un investigador deja Anthropic por miedo a una IA sin control",
-      "headline_en": "A Researcher Leaves Anthropic Over Fears of Uncontrolled AI",
-      "summary_es": "Un investigador de Anthropic ha dejado la empresa por sus temores sobre el rápido avance de la inteligencia artificial. El caso reabre el debate sobre la seguridad de modelos como Claude.",
-      "body_es": "Un investigador deja Anthropic porque teme un avance demasiado rápido de la inteligencia artificial. Anthropic es una empresa de Estados Unidos que crea modelos de IA, como Claude. Según una información exclusiva de The Wall Street Journal, el investigador cree que algunos sistemas pueden ser difíciles de controlar. También piensa que las compañías necesitan más seguridad antes de lanzar una nueva herramienta. Su salida muestra un debate dentro de la industria tecnológica. Muchas personas ven beneficios en la IA, pero otras temen errores y decisiones inesperadas. Las empresas compiten por crear programas más capaces. Por eso, el caso de Anthropic recibe atención. La noticia no presenta un accidente causado por Claude. Presenta la preocupación de una persona que trabajaba en este campo. El debate continúa: los equipos quieren avanzar, pero deben estudiar los riesgos. Para expertos, el control y la seguridad son tan importantes como la velocidad.",
-      "body_en": "A researcher is leaving Anthropic because he fears that artificial intelligence is advancing too quickly. Anthropic is a United States company that creates AI models such as Claude. According to an exclusive report by The Wall Street Journal, the researcher believes that some systems may be difficult to control. He also thinks companies need more security before launching a new tool. His departure shows a debate within the technology industry. Many people see benefits in AI, but others fear errors and unexpected decisions. Companies compete to create more capable programs. For that reason, the Anthropic case is receiving attention. The news does not present an accident caused by Claude. It presents the concern of a person who worked in this field. The debate continues: teams want to move forward, but they must study the risks. For experts, control and safety are as important as speed.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/tech.mp3",
+      "headline_es": "WINT usa inteligencia artificial para ahorrar agua",
+      "headline_en": "WINT uses artificial intelligence to save water",
+      "summary_es": "La empresa israelí WINT dice que su tecnología ya ayudó a ahorrar 1,15 mil millones de galones de agua. Ahora recibe 36 millones de dólares para continuar creciendo.",
+      "body_es": "La empresa israelí WINT usa inteligencia artificial para cuidar el agua. Sus sensores controlan el agua en edificios durante todo el día. El sistema busca fugas y cambios extraños en el consumo. Cuando encuentra un problema, envía una alerta a los responsables. Así, las personas pueden cerrar una válvula antes de perder mucha agua. Según WINT, sus clientes ya ahorraron 1,15 mil millones de galones. Ahora la compañía recibe 36 millones de dólares de nuevos inversores. La financiación ayuda a WINT a crecer y ofrecer su sistema a más edificios. La tecnología puede servir para oficinas, hoteles, fábricas y otros lugares grandes. El objetivo es sencillo: gastar menos agua y evitar daños caros. Sin embargo, los sensores necesitan electricidad y una instalación correcta. Por eso, los trabajadores revisan el sistema con frecuencia. Para WINT, cada fuga pequeña importa.",
+      "body_en": "The Israeli company WINT uses artificial intelligence to protect water. Its sensors monitor water in buildings all day. The system looks for leaks and unusual changes in consumption. When it finds a problem, it sends an alert to those responsible. In this way, people can close a valve before losing a lot of water. According to WINT, its customers have already saved 1.15 billion gallons. Now the company is receiving $36 million from new investors. The funding helps WINT grow and offer its system to more buildings. The technology can serve offices, hotels, factories, and other large places. The goal is simple: use less water and prevent expensive damage. However, sensors need electricity and correct installation. For that reason, workers check the system frequently. For WINT, every small leak matters.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-11/tech.mp3",
       "key_vocabulary": [
         {
-          "word": "investigador",
-          "definition_es": "Persona que estudia un tema para aprender más.",
-          "definition_en": "A person who studies a subject to learn more."
+          "word": "sensores",
+          "definition_es": "Dispositivos que detectan o miden algo.",
+          "definition_en": "Devices that detect or measure something."
         },
         {
-          "word": "seguridad",
-          "definition_es": "Protección contra peligros o problemas.",
-          "definition_en": "Protection from danger or problems."
+          "word": "fugas",
+          "definition_es": "Salidas accidentales de agua.",
+          "definition_en": "Accidental escapes of water."
         },
         {
-          "word": "herramienta",
-          "definition_es": "Objeto o programa que ayuda a hacer una tarea.",
-          "definition_en": "An object or program used to do a task."
+          "word": "consumo",
+          "definition_es": "Cantidad de algo que se usa.",
+          "definition_en": "The amount of something that is used."
         },
         {
-          "word": "control",
-          "definition_es": "Capacidad de dirigir o limitar algo.",
-          "definition_en": "The ability to direct or limit something."
+          "word": "inversores",
+          "definition_es": "Personas o grupos que ponen dinero en una empresa.",
+          "definition_en": "People or groups that put money into a company."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/tech-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? Un investigador dejó Anthropic por miedo a una IA sin control. ¡No manches!  \nCARLOS: ¿En serio? O sea, la empresa de Claude, ¿no? Suena a “me bajo antes de que explote el cohete”.  \nLAURA: Sí, según The Wall Street Journal. El dude dice que vamos demasiado rápido y que luego ni la controlan.  \nCARLOS: Pues… tiene sentido. La banda quiere sacar cosas nuevas y a veces la seguridad queda al “ahorita vemos”.  \nLAURA: Pero qué intenso dejar tu chamba por eso. Yo a duras penas dejo mi cafecito.  \nCARLOS: Jajaja. Y ojo: no es que Claude haya causado un accidente ni nada, es más como preocupación interna.  \nLAURA: Ajá, como: “no es drama, pero sí tantito”.  \nCARLOS: Es el debate clásico: velocidad vs control. Y con tanta competencia, se ponen las pilas… o se les va la mano.  \nLAURA: Yo solo quiero una IA que me haga la tarea y no me quiera dominar, gracias.  \nCARLOS: Trato hecho: IA con freno de mano. ¿Otro café?"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-11/tech-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? Una empresa israelí, WINT, usa IA para ahorrar agua. ¡Qué padre!  \nCARLOS: ¿IA pa’ las fugas? Suena a “detective del baño”. ¿En serio funciona?  \nLAURA: Sí, ponen sensores en edificios y están checando el consumo todo el día.  \nCARLOS: Ah, entonces si alguien deja una llave goteando, ¡los del edificio se enteran!  \nLAURA: Exacto, manda alerta y pueden cerrar una válvula antes de tirar un buen de agua.  \nCARLOS: No manches… dicen que ya ahorraron 1.15 mil millones de galones. Está brutal.  \nLAURA: Y les metieron 36 millones de dólares de inversión. O sea, vienen con todo.  \nCARLOS: Me late para hoteles y fábricas… pero esos sensores necesitan luz y buena instalación, ¿no?  \nLAURA: Sí, y hay que revisarlos seguido. O sea, la IA ayuda, pero no hace magia sola.  \nCARLOS: Aun así, si cada gotita cuenta… yo quiero uno pa’ mi tinaco. ¡Y pa’ mi vecino el de la manguera!"
     },
     {
-      "id": "sports-20260910",
+      "id": "sports-20260911",
       "category": "Deportes",
       "difficulty": "A2",
       "emoji": "⚽",
       "gradient": "green",
-      "headline_es": "Kean empata 0-0 contra el número 17, Scranton",
-      "headline_en": "Kean Men's Soccer Draws 0–0 with No. 17 Scranton",
-      "summary_es": "Kean University empató 0-0 con la Universidad de Scranton, número 17 del país. Los dos equipos defendieron bien y ninguno pudo marcar.",
-      "body_es": "El equipo masculino de fútbol de Kean University empató 0-0 con Scranton. Scranton ocupa el puesto número 17 del país. El partido tuvo dos tiempos intensos, pero ningún equipo marcó un gol. Kean defendió bien cerca de su portería. Scranton también creó una ocasión peligrosa durante el encuentro. Cada portero paró los tiros más peligrosos. Los Cougars buscaron el gol hasta el final. Sin embargo, la defensa de Scranton mantuvo el resultado. El empate da un punto a cada equipo. Para Kean, fue una actuación fuerte contra un rival de la clasificación nacional. El marcador muestra un partido muy igualado. Los jugadores ahora preparan su próximo encuentro. La noticia de Kean Athletics destaca el esfuerzo, la concentración y el trabajo de todo el grupo.",
-      "body_en": "Kean University's men's soccer team drew 0–0 with Scranton. Scranton is ranked No. 17 in the country. The match had two intense halves, but neither team scored. Kean defended well near its goal. Scranton also created one dangerous chance during the match. Each goalkeeper stopped the most dangerous shots. The Cougars looked for a goal until the end. However, Scranton's defense kept the result. The draw gives one point to each team. For Kean, it was a strong performance against a nationally ranked opponent. The scoreboard shows a very even match. The players are now preparing for their next game. The Kean Athletics report highlights the effort, concentration, and teamwork of the whole group.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/sports.mp3",
+      "headline_es": "El debate sobre los nombres de los equipos continúa",
+      "headline_en": "The debate over team names continues",
+      "summary_es": "En Estados Unidos, muchas personas debaten si algunos nombres de equipos profesionales deben cambiar. Washington y Cleveland son ejemplos recientes de equipos que adoptaron nombres nuevos.",
+      "body_es": "En Estados Unidos, los nombres de los equipos profesionales vuelven a crear debate. Algunas personas dicen que ciertos nombres y símbolos no respetan a los pueblos indígenas. Otros aficionados quieren mantener la tradición de sus equipos. Washington cambió su nombre en 2020. Antes, el equipo se llamaba Redskins. En 2022, pasó a llamarse Commanders. Cleveland también cambió su nombre en 2021. Ahora el equipo se llama Guardians, no Indians. Estos cambios muestran que el deporte también cambia con la sociedad. Un cambio cuesta dinero porque necesita nuevos uniformes, carteles y productos. También puede cambiar la identidad del club. El debate continúa en televisión, redes sociales y estadios. Los jugadores normalmente no deciden el nombre, pero escuchan a sus seguidores. El objetivo para muchos es tener equipos populares y respetuosos. Por ahora, no todos los equipos quieren cambiar.",
+      "body_en": "In the United States, the names of professional teams are once again creating debate. Some people say certain names and symbols do not respect Indigenous peoples. Other fans want to keep their teams' tradition. Washington changed its name in 2020. Before that, the team was called the Redskins. In 2022, it became the Commanders. Cleveland also changed its name in 2021. The team is now called the Guardians, not the Indians. These changes show that sports also change with society. A change costs money because it requires new uniforms, signs, and products. It can also change a club's identity. The debate continues on television, social media, and in stadiums. Players normally do not decide the name, but they listen to their supporters. For many, the goal is to have popular and respectful teams. For now, not all teams want to change.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-11/sports.mp3",
       "key_vocabulary": [
         {
-          "word": "empate",
-          "definition_es": "Resultado en el que los equipos tienen los mismos puntos.",
-          "definition_en": "A result in which the teams have the same score."
+          "word": "aficionados",
+          "definition_es": "Personas que siguen y apoyan a un equipo.",
+          "definition_en": "People who follow and support a team."
         },
         {
-          "word": "portería",
-          "definition_es": "Lugar donde un equipo intenta marcar un gol.",
-          "definition_en": "The area where a team tries to score a goal."
+          "word": "tradición",
+          "definition_es": "Costumbre que continúa durante mucho tiempo.",
+          "definition_en": "A custom that continues for a long time."
         },
         {
-          "word": "ocasión",
-          "definition_es": "Momento bueno para hacer algo, como marcar un gol.",
-          "definition_en": "A good chance to do something, such as score a goal."
+          "word": "uniformes",
+          "definition_es": "Ropa oficial de un equipo.",
+          "definition_en": "Official team clothing."
         },
         {
-          "word": "marcador",
-          "definition_es": "Número que muestra el resultado de un partido.",
-          "definition_en": "The number showing the score of a game."
+          "word": "estadios",
+          "definition_es": "Lugares grandes donde se juegan partidos.",
+          "definition_en": "Large places where games are played."
         }
       ]
     },
     {
-      "id": "culture-20260910",
+      "id": "culture-20260911",
       "category": "Cultura",
       "difficulty": "B1",
       "emoji": "🎭",
       "gradient": "purple",
-      "headline_es": "El concurso de drag kings de San Francisco cumple 30 años",
-      "headline_en": "San Francisco's Drag King Contest Celebrates 30 Years",
-      "summary_es": "El San Francisco Drag King Contest celebra tres décadas de actuaciones, humor y expresión artística. El concurso es considerado el más antiguo de su tipo.",
-      "body_es": "El San Francisco Drag King Contest celebra treinta años en San Francisco. El San Francisco Chronicle lo presenta como el concurso de drag king más antiguo del mundo. Durante tres décadas, artistas han usado maquillaje, ropa, música y humor para crear personajes masculinos sobre el escenario. Cada participante prepara un personaje y una actuación diferente. Algunos prefieren la comedia, mientras otros hablan de género, identidad y vida social. La competencia no busca una sola forma de ser un drag king. Su variedad es una de las razones de su importancia cultural. El evento también conecta a artistas nuevos con personas que participan desde hace muchos años. Con el tiempo, la escena de San Francisco ha cambiado, pero el concurso continúa. Si la próxima generación mantiene este espacio, la tradición seguirá creciendo. Para el público, la celebración ofrece entretenimiento y una mirada a la historia artística de la ciudad. Cumplir treinta años demuestra que esta expresión puede adaptarse sin perder su personalidad.",
-      "body_en": "The San Francisco Drag King Contest celebrates 30 years in San Francisco. The San Francisco Chronicle presents it as the world's longest-running drag king contest. For three decades, artists have used makeup, clothing, music, and humor to create masculine characters onstage. Each participant prepares a character and a different performance. Some prefer comedy, while others talk about gender, identity, and social life. The competition does not seek only one way to be a drag king. Its variety is one reason for its cultural importance. The event also connects new artists with people who have participated for many years. Over time, San Francisco's scene has changed, but the contest continues. If the next generation keeps this space alive, the tradition will continue to grow. For the public, the celebration offers entertainment and a look at the city's artistic history. Reaching 30 years shows that this expression can adapt without losing its personality.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/culture.mp3",
+      "headline_es": "Begin Again se convierte en un musical en San Diego",
+      "headline_en": "Begin Again becomes a musical in San Diego",
+      "summary_es": "Begin Again, la película de John Carney, llega al escenario como musical en The Old Globe. El estreno mundial conecta una historia de música y nuevas oportunidades con el público de San Diego.",
+      "body_es": "El musical Begin Again llega a The Old Globe, un importante teatro de San Diego, California. La producción representa el estreno mundial de una versión teatral basada en la película de 2013. John Carney escribió y dirigió la película original. Su historia seguía a Gretta, una compositora británica, y a Dan, un productor de discos que atravesaba una etapa difícil. En el cine, Keira Knightley y Mark Ruffalo interpretaban a los personajes principales. Gretta y Dan se conocen en Nueva York y deciden trabajar juntos después de varias decepciones personales. La música les permite recuperar la confianza y mirar el futuro de otra manera. El nuevo montaje lleva esa relación al escenario, con canciones y actuaciones en directo. El equipo artístico tendrá que encontrar un equilibrio entre conservar la emoción de la película y crear una experiencia nueva. Los espectadores que ya conocen Begin Again reconocerán su banda sonora, mientras que otros descubrirán la historia por primera vez. Si el público conecta con el espectáculo, el musical tendrá posibilidades de viajar a otras ciudades. Por ahora, The Old Globe ofrece una oportunidad especial para ver cómo una película se convierte en teatro.",
+      "body_en": "The musical Begin Again has arrived at The Old Globe, an important theater in San Diego, California. The production represents the world premiere of a stage version based on the 2013 film. John Carney wrote and directed the original film. Its story followed Gretta, a British songwriter, and Dan, a record producer going through a difficult period. In the film, Keira Knightley and Mark Ruffalo played the main characters. Gretta and Dan meet in New York and decide to work together after several personal disappointments. Music allows them to regain confidence and look at the future differently. The new production brings that relationship to the stage, with songs and live performances. The artistic team will have to find a balance between preserving the film's emotion and creating a new experience. Viewers who already know Begin Again will recognize its soundtrack, while others will discover the story for the first time. If the audience connects with the show, the musical will have possibilities of traveling to other cities. For now, The Old Globe offers a special opportunity to see how a film becomes theater.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-11/culture.mp3",
       "key_vocabulary": [
         {
-          "word": "concurso",
-          "definition_es": "Actividad en la que varias personas compiten.",
-          "definition_en": "An event in which several people compete."
+          "word": "estreno",
+          "definition_es": "Primera presentación de una obra.",
+          "definition_en": "The first presentation of a work."
+        },
+        {
+          "word": "compositora",
+          "definition_es": "Mujer que crea música.",
+          "definition_en": "A woman who creates music."
         },
         {
           "word": "escenario",
@@ -99,127 +104,122 @@
           "definition_en": "The place where performers act."
         },
         {
-          "word": "personaje",
-          "definition_es": "Persona representada por un artista.",
-          "definition_en": "A person represented by a performer."
-        },
-        {
-          "word": "identidad",
-          "definition_es": "La manera en que una persona se entiende a sí misma.",
-          "definition_en": "The way a person understands themselves."
+          "word": "confianza",
+          "definition_es": "Seguridad en uno mismo o en otra persona.",
+          "definition_en": "Confidence in oneself or trust in another person."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/culture-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¡no manches! El concurso de drag kings de San Francisco cumple 30 años.  \nCARLOS: ¿En serio? Treinta… ya está en edad de pagar renta carísima allá.  \nLAURA: Jajaja, sí. Dicen que es el concurso de drag king más antiguo del mundo, según el Chronicle.  \nCARLOS: Está cañón. Y me late que no es solo “disfraz”, ¿no? Es personaje, show, humor, todo.  \nLAURA: Exacto: maquillaje, ropa, música… cada quien arma su propio vato ficticio. ¡Qué padre!  \nCARLOS: Y lo chido es que no buscan una sola forma de ser drag king. Hay comedia, hay temas de género, identidad…  \nLAURA: O sea, variedad total. Como menú de cafetería: uno pide “latte” y otro “chisme existencial”.  \nCARLOS: Jajaja. Además conecta a gente nueva con veteranes; eso mantiene viva la escena.  \nLAURA: Y San Francisco cambia, pero el concurso sigue. Eso es resistencia con brillantina.  \nCARLOS: Pues cuando vayamos, tú vas de manager y yo de seguridad, ¿va?  \nLAURA: Trato hecho… pero con bigote postizo obligatorio."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-11/culture-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¡no manches! *Begin Again* va a ser musical en San Diego.  \nCARLOS: ¿En serio? ¿En The Old Globe? Ese teatro es pesadito, ¿eh? Qué padre.  \nLAURA: Sí, y es estreno mundial. O sea, la primera vez que la peli se vuelve teatro tal cual.  \nCARLOS: La de Keira Knightley y Mark Ruffalo, ¿no? La de “vamos a grabar en la calle”.  \nLAURA: Esa misma. Gretta y Dan, dos almas medio rotas, y la música como terapia.  \nCARLOS: A mí me encanta porque no es cursi-cursi… es como “sí duele, pero seguimos”.  \nLAURA: Pero a ver, ¿cómo le van a hacer en vivo? ¡Las canciones eran súper íntimas!  \nCARLOS: Justo, el reto es no copiar la peli y aun así mantener la emoción.  \nLAURA: Y la banda sonora… si la escucho en teatro, yo lloro y aplaudo a la vez.  \nCARLOS: Y si pega, se va de gira. Imagínate: *Begin Again* en CDMX.  \nLAURA: ¡Uff! Yo ya aparté mesa en el café… digo, boleto en mi corazón."
     },
     {
-      "id": "economy-20260910",
+      "id": "economy-20260911",
       "category": "Economía",
       "difficulty": "B1",
-      "emoji": "📈",
+      "emoji": "💰",
       "gradient": "gold",
-      "headline_es": "La economía plateada de Asia mira más allá del consumo",
-      "headline_en": "Asia's Silver Economy Looks Beyond Older Consumers",
-      "summary_es": "HelpAge International pide que la economía plateada no vea a las personas mayores únicamente como consumidores. Asia tendrá una población mayor mucho más grande para 2050.",
-      "body_es": "Asia está envejeciendo rápidamente, y ese cambio crea nuevas preguntas para la economía. Un artículo de HelpAge International pide mirar más allá de las personas mayores como consumidores. Según el texto, más de 700 millones de personas de 60 años o más viven en Asia y el Pacífico. Para 2050, la cifra podría llegar a 1.300 millones. Muchas empresas ven oportunidades en salud, vivienda, viajes y tecnología. Sin embargo, la economía plateada también incluye empleo, cuidados y participación social. Las personas mayores pueden trabajar, cuidar familiares, enseñar, abrir negocios o ayudar en sus comunidades. El artículo dice que las políticas públicas deben escuchar sus necesidades y capacidades. Si los gobiernos mejoran el transporte, la atención médica y los servicios digitales, las personas mayores tendrán más independencia. Así, la sociedad no las verá solo como consumidores. También reconocerá su experiencia, su trabajo y su contribución económica. El envejecimiento presenta desafíos, pero puede impulsar servicios y empleos nuevos.",
-      "body_en": "Asia is aging rapidly, and this change is creating new questions for the economy. A HelpAge International article asks readers to look beyond older people as consumers. According to the text, more than 700 million people aged 60 or older live in Asia and the Pacific. By 2050, the number could reach 1.3 billion. Many companies see opportunities in health care, housing, travel, and technology. However, the silver economy also includes employment, care, and social participation. Older people can work, care for relatives, start businesses, teach, or help in their communities. The article says public policies must listen to their needs and abilities. If governments improve transportation, medical care, and digital services, older people will have more independence. Society will then not see them only as consumers. It will also recognize their experience, work, and economic contribution. Aging creates challenges, but it can drive new services and jobs.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/economy.mp3",
+      "headline_es": "Las tasas de las hipotecas suben por miedo a la inflación",
+      "headline_en": "Mortgage rates rise because of inflation fears",
+      "summary_es": "Las tasas hipotecarias semanales suben en Estados Unidos mientras crece el miedo a la inflación. Los compradores podrían pagar más, incluso si los precios de las viviendas no cambian.",
+      "body_es": "Las tasas hipotecarias semanales están subiendo en Estados Unidos, mientras aumenta la preocupación por la inflación. El movimiento afecta especialmente a las personas que buscan comprar una vivienda. La hipoteca fija a 30 años es una referencia importante para muchas familias. También existen préstamos con plazos de 15 años, aunque sus pagos mensuales suelen ser diferentes. Cuando sube el interés, el comprador paga más cada mes, incluso si el precio de la casa no cambia. Un aumento pequeño puede representar miles de dólares durante toda la vida del préstamo. La inflación encarece alimentos, energía, alquileres y otros gastos diarios. Por eso, los compradores tienen menos dinero disponible para una cuota hipotecaria. Los mercados siguen atentos a la Reserva Federal, que decide la política monetaria de Estados Unidos. Si la inflación sigue alta, la Reserva Federal mantendrá las tasas elevadas durante más tiempo. Si los precios se calman, las tasas podrían bajar después. Mientras tanto, los expertos recomiendan comparar ofertas y calcular el costo total antes de firmar. Una tasa más baja no siempre significa el préstamo más barato, porque también importan las comisiones y las condiciones.",
+      "body_en": "Weekly mortgage rates are rising in the United States as concern about inflation increases. The movement especially affects people who are trying to buy a home. The 30-year fixed mortgage is an important reference for many families. There are also 15-year loans, although their monthly payments are usually different. When interest rises, the buyer pays more each month, even if the home's price does not change. A small increase can represent thousands of dollars over the life of the loan. Inflation makes food, energy, rent, and other daily expenses more expensive. As a result, buyers have less money available for a mortgage payment. Markets continue to watch the Federal Reserve, which decides United States monetary policy. If inflation stays high, the Federal Reserve will keep rates elevated for longer. If prices calm down, rates could fall later. Meanwhile, experts recommend comparing offers and calculating the total cost before signing. A lower rate does not always mean the cheapest loan, because fees and conditions also matter.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-11/economy.mp3",
       "key_vocabulary": [
         {
-          "word": "envejecimiento",
-          "definition_es": "Proceso de hacerse mayor con el paso del tiempo.",
-          "definition_en": "The process of becoming older over time."
+          "word": "hipoteca",
+          "definition_es": "Préstamo para comprar una vivienda.",
+          "definition_en": "A loan used to buy a home."
         },
         {
-          "word": "consumidores",
-          "definition_es": "Personas que compran o usan productos y servicios.",
-          "definition_en": "People who buy or use products and services."
+          "word": "inflación",
+          "definition_es": "Subida general de los precios.",
+          "definition_en": "A general rise in prices."
         },
         {
-          "word": "cuidados",
-          "definition_es": "Ayuda y atención para una persona.",
-          "definition_en": "Help and attention given to a person."
+          "word": "interés",
+          "definition_es": "Dinero extra que se paga por pedir un préstamo.",
+          "definition_en": "Extra money paid for borrowing money."
         },
         {
-          "word": "participación",
-          "definition_es": "Acción de tomar parte en una actividad.",
-          "definition_en": "The act of taking part in an activity."
+          "word": "comisiones",
+          "definition_es": "Pagos adicionales por un servicio financiero.",
+          "definition_en": "Additional fees for a financial service."
         }
       ]
     },
     {
-      "id": "environment-20260910",
+      "id": "environment-20260911",
       "category": "Medio Ambiente",
       "difficulty": "B2",
-      "emoji": "🌍",
-      "gradient": "green",
-      "headline_es": "Un manual explica cómo acelerar la reparación ambiental",
-      "headline_en": "A Playbook Shows How Environmental Repair Can Become Unstoppable",
-      "summary_es": "El Earthshot Prize y la Universidad de Exeter presentan un manual sobre puntos de inflexión positivos. Explica cómo una solución local puede crecer hasta producir cambios ambientales amplios.",
-      "body_es": "El Earthshot Prize y la Universidad de Exeter han presentado un nuevo manual sobre los llamados puntos de inflexión positivos. La idea es que una solución ambiental puede extenderse con mucha rapidez cuando supera un umbral: después, más personas, empresas y gobiernos la adoptan. El manual conecta esta estrategia con los cinco objetivos del Earthshot Prize: proteger y restaurar la naturaleza, limpiar el aire, recuperar los océanos, construir un mundo sin residuos y combatir el cambio climático. En la práctica, un autobús eléctrico más barato puede acelerar el transporte limpio; un manglar restaurado puede proteger costas y recuperar biodiversidad. Los autores sostienen que estos avances necesitan inversión, reglas claras, innovación y apoyo ciudadano. También recomiendan observar qué condiciones ayudan a que un proyecto local crezca en otras regiones. Si una política reduce una barrera económica o tecnológica, la solución puede volverse más accesible y atractiva. El informe no promete una fórmula mágica. Propone aprender de los proyectos que ya funcionan y repetir sus mejores elementos. La investigación será útil si quienes financian ciudades y comunidades comparten datos, resultados y errores. Para los científicos y activistas, el objetivo es que la reparación ambiental deje de ser una excepción y se convierta en la nueva norma. El mensaje resulta optimista, pero exige decisiones rápidas y cooperación internacional.",
-      "body_en": "The Earthshot Prize and the University of Exeter have presented a new playbook about so-called positive tipping points. The idea is that an environmental solution can spread very quickly when it passes a threshold: afterward, more people, companies, and governments adopt it. The playbook connects this strategy with the Earthshot Prize's five goals: protect and restore nature, clean the air, revive the oceans, build a waste-free world, and tackle climate change. In practice, a cheaper electric bus can speed up clean transportation; a restored mangrove can protect coasts and restore biodiversity. The authors argue that these advances need investment, clear rules, innovation, and public support. They also recommend watching which conditions help a local project grow in other regions. If a policy reduces an economic or technological barrier, the solution can become more accessible and attractive. The report does not promise a magic formula. It proposes learning from projects that already work and repeating their best elements. The research will be useful if people who fund cities and communities share data, results, and mistakes. For scientists and activists, the goal is for environmental repair to stop being an exception and become the new norm. The message is optimistic, but it requires quick decisions and international cooperation.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/environment.mp3",
+      "emoji": "🌊",
+      "gradient": "teal",
+      "headline_es": "La energía eólica marina debe proteger también al océano",
+      "headline_en": "Offshore wind energy must also protect the ocean",
+      "summary_es": "La energía eólica marina puede reducir el uso de combustibles fósiles, pero su construcción también afecta al océano. Científicos y grupos ambientales piden estudios cuidadosos antes de aprobar nuevos parques.",
+      "body_es": "Los parques eólicos marinos prometen producir electricidad sin quemar carbón, petróleo o gas, pero su expansión plantea una pregunta difícil: ¿cómo se puede combatir el cambio climático sin dañar los ecosistemas del océano? Un reportaje de Mongabay examina los posibles beneficios y riesgos de esta tecnología. El reportaje distingue dos momentos especialmente delicados: la construcción y el funcionamiento. Las turbinas se instalan en el mar y pueden generar energía renovable cerca de zonas costeras. Sin embargo, la construcción exige barcos grandes, pilotes y cables submarinos. El ruido de las obras podría alterar a ballenas, delfines y otros animales que dependen del sonido para comunicarse. Además, las cimentaciones remueven sedimentos, mientras que los cables cambian el fondo marino en algunos lugares. Las aves también podrían chocar con las palas o modificar sus rutas. Al mismo tiempo, científicos recuerdan que el calentamiento del océano, la acidificación y la contaminación ya presionan a muchas especies. Por eso, el impacto de un parque dependerá de su ubicación, su diseño y la forma en que se construya. Los investigadores piden estudios independientes antes de que se apruebe cada proyecto, además de controles durante su funcionamiento. Si los gobiernos planifican con cuidado, la energía eólica marina podría reducir emisiones sin ignorar la vida marina. También será necesario que las empresas compartan datos y corrijan sus métodos cuando aparezcan daños. El objetivo no consiste en elegir entre el clima y el océano, sino en proteger ambos.",
+      "body_en": "Offshore wind farms promise to produce electricity without burning coal, oil, or gas, but their expansion raises a difficult question: how can we fight climate change without harming ocean ecosystems? A Mongabay report examines the possible benefits and risks of this technology. The report distinguishes two especially sensitive moments: construction and operation. Turbines are installed in the sea and can generate renewable energy near coastal areas. However, construction requires large ships, piles, and underwater cables. Noise from the work could disturb whales, dolphins, and other animals that depend on sound to communicate. In addition, the foundations disturb sediment, while the cables change the seafloor in some places. Birds could also collide with the blades or change their routes. At the same time, scientists point out that ocean warming, acidification, and pollution are already putting pressure on many species. Therefore, the impact of a wind farm will depend on its location, design, and construction methods. Researchers call for independent studies before each project is approved, as well as monitoring during operation. If governments plan carefully, offshore wind could reduce emissions without ignoring marine life. Companies will also need to share data and correct their methods when damage appears. The goal is not to choose between the climate and the ocean, but to protect both.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-11/environment.mp3",
       "key_vocabulary": [
         {
-          "word": "umbral",
-          "definition_es": "Punto que debe superarse para que ocurra un cambio.",
-          "definition_en": "A point that must be passed for a change to happen."
+          "word": "ecosistemas",
+          "definition_es": "Comunidades de seres vivos y su entorno.",
+          "definition_en": "Communities of living things and their environment."
         },
         {
-          "word": "manglar",
-          "definition_es": "Bosque de árboles que crece cerca del mar.",
-          "definition_en": "A forest of trees that grows near the sea."
+          "word": "cimentaciones",
+          "definition_es": "Bases que sostienen una construcción.",
+          "definition_en": "Foundations that support a structure."
         },
         {
-          "word": "inversión",
-          "definition_es": "Dinero que se usa para apoyar un proyecto.",
-          "definition_en": "Money used to support a project."
+          "word": "sedimentos",
+          "definition_es": "Materiales pequeños que se acumulan en el fondo.",
+          "definition_en": "Small materials that collect on the bottom."
         },
         {
-          "word": "barrera",
-          "definition_es": "Problema que hace más difícil conseguir algo.",
-          "definition_en": "A problem that makes something harder to achieve."
+          "word": "acidificación",
+          "definition_es": "Proceso por el que el agua se vuelve más ácida.",
+          "definition_en": "The process by which water becomes more acidic."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/environment-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿ya viste esto? Sacaron un manual para acelerar la reparación ambiental. ¡Un manual, güey!  \nCARLOS: ¿En serio? Suena como “Instrucciones para salvar el planeta” versión café. ¿De qué va?  \nLAURA: De “puntos de inflexión positivos”. O sea, una idea verde cruza un umbral y ¡pum!, se adopta por todos.  \nCARLOS: Ah, como cuando todos se subieron a la moda del termo… pero con impacto real.  \nLAURA: Exacto. Lo hicieron Earthshot Prize y la Uni de Exeter, y lo conectan con cinco metas: naturaleza, aire limpio, océanos, cero residuos y clima.  \nCARLOS: Me late. ¿Ejemplos?  \nLAURA: Un autobús eléctrico más barato: la gente lo usa, las ciudades lo compran, se vuelve normal.  \nCARLOS: Y restaurar manglares para proteger costas y traer biodiversidad… eso sí está bien padre.  \nLAURA: Pero dicen: sin inversión, reglas claras, innovación y apoyo ciudadano, nada despega.  \nCARLOS: O sea, no es magia: es copiar lo que funciona, compartir datos y hasta errores.  \nLAURA: ¡Va! Entonces nuestro “Earthshot” hoy: separar basura… y no pedir popote, ¿no?  \nCARLOS: Trato… pero tú invitas el cafecito, para acelerar mi adopción."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-11/environment-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, ¿viste esto? “La energía eólica marina debe proteger también al océano”. ¡Qué padre y qué complicado!  \nCARLOS: Sí, suena a “salvemos el planeta”, pero sin darle un codazo a las ballenas, ¿no?  \nLAURA: Exacto. O sea, no quemas carbón ni petróleo… pero poner turbinas en el mar no es como armar un Lego.  \nCARLOS: Ajá, la construcción mete barcos enormes, pilotes, cables… y el ruido puede sacar de onda a delfines y ballenas.  \nLAURA: ¡No manches! Si ellos se comunican por sonido, es como si les gritaras en plena conversación.  \nCARLOS: Y también remueves sedimentos, cambias el fondo marino… y las aves podrían chocar o cambiar rutas.  \nLAURA: Pero ojo: el océano ya está sufriendo por calentamiento, acidificación, contaminación… o sea, tampoco es que esté “bien”.  \nCARLOS: Por eso dicen: ubicación y diseño importan, y que haya estudios independientes antes de aprobar.  \nLAURA: Y monitoreo después, ¿eh? Nada de “ya lo instalé, ahí se ven”.  \nCARLOS: Y que las empresas compartan datos y corrijan si hay daño.  \nLAURA: Moraleja: no es clima vs. océano… ¡es salvar a los dos! ¿Nos echamos otro cafecito y planeamos el mundo?"
     },
     {
-      "id": "gastronomy-20260910",
+      "id": "food-20260911",
       "category": "Gastronomía",
       "difficulty": "B2",
       "emoji": "🍽️",
       "gradient": "orange",
-      "headline_es": "Cambios en la cocina pueden mejorar la salud sin perder la tradición",
-      "headline_en": "Kitchen Changes Can Boost Health While Honoring Latin Traditions",
-      "summary_es": "UCHealth propone ajustes sencillos para que la cocina latinoamericana sea más saludable sin perder sus sabores. La clave está en cuidar el sodio, las grasas, las porciones y los métodos de cocción.",
-      "body_es": "Un artículo de UCHealth explica que la cocina latinoamericana puede apoyar la salud a largo plazo sin perder sus sabores ni su identidad. La propuesta no consiste en abandonar las recetas familiares, sino en ajustar ingredientes, métodos y cantidades. Por ejemplo, frijoles, lentejas y garbanzos aportan fibra y proteína; el maíz, la avena, las frutas y las verduras completan una alimentación variada. Como conviene vigilar el sodio, se pueden usar más ajo, cebolla, cilantro, chile, limón y otras especias en lugar de depender de sal, caldos preparados o salsas industriales. También es posible cocinar al horno, al vapor o a la parrilla cuando normalmente se fríe. Una porción moderada permite disfrutar arroz, tortillas o tamales sin que toda la comida sea pesada. Para que una tradición culinaria siga viva, debe poder adaptarse a distintas necesidades de salud. Si una familia sustituye una parte de la grasa saturada por aceite más saludable y añade una legumbre, el plato conservará sabor y ganará valor nutritivo. UCHealth anima a realizar cambios pequeños y constantes, porque la salud cardiovascular depende más de los hábitos diarios que de una comida perfecta. El objetivo es celebrar la cultura y mejorar el bienestar al mismo tiempo para toda la familia.",
-      "body_en": "An article from UCHealth explains that Latin American cooking can support long-term health without losing its flavors or identity. The proposal is not to abandon family recipes, but to adjust ingredients, methods, and amounts. For example, beans, lentils, and chickpeas provide fiber and protein; corn, oats, fruits, and vegetables complete a varied diet. Because it is useful to watch sodium, people can use more garlic, onion, cilantro, chili, lemon, and other spices instead of relying on salt, prepared broths, or industrial sauces. It is also possible to bake, steam, or grill food when it is usually fried. A moderate portion allows people to enjoy rice, tortillas, or tamales without making the whole meal heavy. For a culinary tradition to stay alive, it must be able to adapt to different health needs. If a family replaces some saturated fat with a healthier oil and adds a legume, the dish will keep its flavor and gain nutritional value. UCHealth encourages small, consistent changes because cardiovascular health depends more on daily habits than on one perfect meal. The goal is to celebrate culture and improve well-being at the same time for the whole family.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-10/gastronomy.mp3",
+      "headline_es": "Seis restaurantes de Florida del Sur cierran por problemas sanitarios",
+      "headline_en": "Six South Florida restaurants close over sanitation problems",
+      "summary_es": "Inspectores encontraron 300 excrementos de roedor en una pizzería y detectaron otros problemas sanitarios. Las autoridades cerraron seis restaurantes del sur de Florida mientras sus responsables corrigen las infracciones.",
+      "body_es": "Seis restaurantes del sur de Florida fueron cerrados después de varias inspecciones sanitarias que detectaron problemas graves. El caso más llamativo ocurrió en una pizzería, donde los inspectores encontraron 300 excrementos de roedor. La evidencia indicaba que el local podía estar contaminado, por lo que el negocio tuvo que detener su actividad. En otro incidente, un chef se limpió la boca y después tocó alimentos sin lavarse las manos, según la información publicada por Sun Sentinel. Para un restaurante, la seguridad alimentaria exige controlar las plagas, mantener limpias las superficies y separar los alimentos crudos de los cocinados. Los inspectores también revisan las temperaturas, el almacenamiento y la higiene de los empleados. Si un local quiere reabrir, tendrá que corregir las infracciones y demostrar que cumple las normas. El cierre puede ser costoso, pero protege a los clientes frente a intoxicaciones. Una inspección negativa no significa necesariamente que la comida sea mala; muestra que el establecimiento no controla bien sus riesgos. Para los propietarios, la respuesta también implica capacitar al personal y registrar cada medida tomada. Para los clientes, conviene observar si el lugar parece ordenado, aunque la apariencia nunca sustituye una inspección oficial. Después de una limpieza profunda y nuevas revisiones, algunos negocios podrán volver a atender al público. El caso recuerda que el sabor no basta: una cocina profesional debe ser segura, limpia y responsable.",
+      "body_en": "Six restaurants in South Florida were closed after several health inspections detected serious problems. The most striking case occurred at a pizzeria, where inspectors found 300 rodent droppings. The evidence indicated that the business could be contaminated, so it had to stop operating. In another incident, a chef wiped his mouth and then touched food without washing his hands, according to information published by the Sun Sentinel. For a restaurant, food safety requires controlling pests, keeping surfaces clean, and separating raw foods from cooked foods. Inspectors also check temperatures, storage, and employee hygiene. If a business wants to reopen, it will have to correct the violations and show that it follows the rules. A closure can be expensive, but it protects customers from food poisoning. A negative inspection does not necessarily mean that the food is bad; it shows that the establishment is not managing its risks well. For owners, the response also involves training staff and recording every measure taken. For customers, it is useful to observe whether a place looks orderly, although appearance can never replace an official inspection. After a deep cleaning and new reviews, some businesses may be able to serve the public again. The case reminds us that taste is not enough: a professional kitchen must be safe, clean, and responsible.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-11/gastronomy.mp3",
       "key_vocabulary": [
         {
-          "word": "tradición",
-          "definition_es": "Costumbre que pasa de una generación a otra.",
-          "definition_en": "A custom passed from one generation to another."
+          "word": "inspecciones",
+          "definition_es": "Revisiones oficiales para comprobar que se cumplen las reglas.",
+          "definition_en": "Official checks to make sure rules are followed."
         },
         {
-          "word": "sodio",
-          "definition_es": "Mineral presente en la sal y algunos alimentos.",
-          "definition_en": "A mineral found in salt and some foods."
+          "word": "roedor",
+          "definition_es": "Animal como una rata o un ratón.",
+          "definition_en": "An animal such as a rat or mouse."
         },
         {
-          "word": "porción",
-          "definition_es": "Cantidad de comida que se sirve para una persona.",
-          "definition_en": "The amount of food served for one person."
+          "word": "contaminado",
+          "definition_es": "Afectado por sustancias o microbios peligrosos.",
+          "definition_en": "Affected by dangerous substances or germs."
         },
         {
-          "word": "legumbre",
-          "definition_es": "Semilla comestible, como un frijol, una lenteja o un garbanzo.",
-          "definition_en": "An edible seed, such as a bean, lentil, or chickpea."
+          "word": "infracciones",
+          "definition_es": "Acciones que no cumplen las reglas.",
+          "definition_en": "Actions that break the rules."
         }
       ]
     }
   ],
-  "last_updated": "2026-09-10T09:18:59.370563Z",
+  "last_updated": "2026-09-11T09:18:56.606421Z",
   "generated_by": "GitHub Actions + OpenAI API"
 }
