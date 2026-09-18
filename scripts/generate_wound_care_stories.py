@@ -27,6 +27,13 @@ from openai import OpenAI
 
 # Configuration
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+
+# Connection resilience: the OpenAI SDK defaults to max_retries=2 with a 5s connect
+# timeout. That was not enough - runs on 2026-09-14, 09-15 and 09-17 all died with a
+# bare "ERROR: Connection error." before the model was ever reached, losing the day's
+# content. 6 retries with the SDK's exponential backoff covers a longer blip. The
+# read timeout stays long because xhigh reasoning generations take a while.
+OPENAI_MAX_RETRIES = 6
 OUTPUT_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'wound-care-stories-index.json')
 AUDIO_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'audio', 'wound-care-stories')
 GITHUB_RAW_BASE = "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main"
@@ -224,7 +231,7 @@ def generate_stories_with_claude(candidates: Dict[str, List[Dict]]) -> List[Dict
     if not OPENAI_API_KEY:
         raise ValueError("OPENAI_API_KEY environment variable is required")
 
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY, max_retries=OPENAI_MAX_RETRIES)
 
     # Build prompt with only categories that have NEW candidates
     prompt = """You are creating Spanish wound care news stories for healthcare professionals learning medical Spanish.
@@ -376,7 +383,7 @@ def generate_tts_audio(stories: List[Dict], date_str: str) -> List[Dict]:
         print("  ⚠ OPENAI_API_KEY not set - skipping TTS generation")
         return stories
 
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY, max_retries=OPENAI_MAX_RETRIES)
 
     # Create date-specific audio directory
     audio_date_dir = os.path.join(AUDIO_DIR, date_str)

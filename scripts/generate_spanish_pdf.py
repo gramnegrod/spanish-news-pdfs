@@ -28,6 +28,13 @@ from pdf_builder import SpanishLearningPDF, fetch_unsplash_image
 # CONFIGURATION - All keys from environment/secrets only
 # =============================================================================
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+
+# Connection resilience: the OpenAI SDK defaults to max_retries=2 with a 5s connect
+# timeout. That was not enough - runs on 2026-09-14, 09-15 and 09-17 all died with a
+# bare "ERROR: Connection error." before the model was ever reached, losing the day's
+# content. 6 retries with the SDK's exponential backoff covers a longer blip. The
+# read timeout stays long because xhigh reasoning generations take a while.
+OPENAI_MAX_RETRIES = 6
 UNSPLASH_API_KEY = os.environ.get('UNSPLASH_ACCESS_KEY')
 # Note: News fetching uses Google News RSS - no API key needed
 
@@ -116,7 +123,7 @@ def fetch_news_stories() -> List[Dict]:
         print("  ⚠ No OpenAI key - using first RSS item per category")
         return _fallback_first_items(candidates)
 
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY, max_retries=OPENAI_MAX_RETRIES)
 
     # Build prompt for the model to select stories
     selection_prompt = """You are a news editor selecting stories for a Spanish language learning PDF.
@@ -224,7 +231,7 @@ def adapt_stories_for_spanish_learners(raw_stories: List[Dict]) -> Dict:
     if not OPENAI_API_KEY:
         raise ValueError("OPENAI_API_KEY environment variable is required")
 
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY, max_retries=OPENAI_MAX_RETRIES)
 
     # Build the prompt
     stories_text = "\n\n".join([
