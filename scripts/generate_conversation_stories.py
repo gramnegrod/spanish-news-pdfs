@@ -37,12 +37,19 @@ except ImportError:
 # Configuration
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 
-# Connection resilience: the OpenAI SDK defaults to max_retries=2 with a 5s connect
-# timeout. That was not enough - runs on 2026-09-14, 09-15 and 09-17 all died with a
-# bare "ERROR: Connection error." before the model was ever reached, losing the day's
-# content. 6 retries with the SDK's exponential backoff covers a longer blip. The
-# read timeout stays long because xhigh reasoning generations take a while.
-OPENAI_MAX_RETRIES = 6
+# Connection resilience: the OpenAI SDK defaults to max_retries=2. On 2026-09-17 both
+# jobs died with httpcore RemoteProtocolError ("Server disconnected without sending a
+# response") -> openai.APIConnectionError, AFTER a ~4.4 minute generation had already
+# run, losing the day's content. 4 retries covers a longer blip.
+#
+# Kept deliberately low: each retry re-runs a FULL xhigh generation (measured ~23k
+# output tokens per call), because the disconnect happens after the model has already
+# reasoned. More retries would multiply that burn on a run that may still fail.
+#
+# This does NOT help quota failures. The 2026-09-14 and 09-15 failures were
+# 429 insufficient_quota / credit_balance_exhausted - an empty OpenAI balance, which
+# the SDK also retries and which no retry count can fix.
+OPENAI_MAX_RETRIES = 4
 OUTPUT_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'conversation-stories-index.json')
 AUDIO_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'audio', 'conversation-stories')
 GITHUB_RAW_BASE = "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main"
