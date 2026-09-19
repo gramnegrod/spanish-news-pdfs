@@ -36,6 +36,20 @@ except ImportError:
 
 # Configuration
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+
+# Connection resilience: the OpenAI SDK defaults to max_retries=2. On 2026-09-17 both
+# jobs died with httpcore RemoteProtocolError ("Server disconnected without sending a
+# response") -> openai.APIConnectionError, AFTER a ~4.4 minute generation had already
+# run, losing the day's content. 4 retries covers a longer blip.
+#
+# Kept deliberately low: each retry re-runs a FULL xhigh generation (measured ~23k
+# output tokens per call), because the disconnect happens after the model has already
+# reasoned. More retries would multiply that burn on a run that may still fail.
+#
+# This does NOT help quota failures. The 2026-09-14 and 09-15 failures were
+# 429 insufficient_quota / credit_balance_exhausted - an empty OpenAI balance, which
+# the SDK also retries and which no retry count can fix.
+OPENAI_MAX_RETRIES = 4
 OUTPUT_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'conversation-stories-index.json')
 AUDIO_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'audio', 'conversation-stories')
 GITHUB_RAW_BASE = "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main"
@@ -144,7 +158,7 @@ def generate_stories_with_claude(candidates: Dict[str, List[Dict]]) -> List[Dict
     if not OPENAI_API_KEY:
         raise ValueError("OPENAI_API_KEY environment variable is required")
 
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY, max_retries=OPENAI_MAX_RETRIES)
 
     # Build prompt with all candidates
     prompt = """You are creating Spanish conversation stories for language learners.
@@ -252,7 +266,7 @@ def generate_tts_audio(stories: List[Dict], date_str: str) -> List[Dict]:
         print("  ⚠ OPENAI_API_KEY not set - skipping TTS generation")
         return stories
 
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY, max_retries=OPENAI_MAX_RETRIES)
 
     # Create date-specific audio directory
     audio_date_dir = os.path.join(AUDIO_DIR, date_str)
@@ -392,7 +406,7 @@ def generate_podcast_audio(stories: List[Dict], date_str: str) -> List[Dict]:
         print("  ⚠ Skipping podcast generation - no API key")
         return stories
 
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY, max_retries=OPENAI_MAX_RETRIES)
     audio_date_dir = os.path.join(AUDIO_DIR, date_str)
     Path(audio_date_dir).mkdir(parents=True, exist_ok=True)
 

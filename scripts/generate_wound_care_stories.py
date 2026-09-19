@@ -27,6 +27,20 @@ from openai import OpenAI
 
 # Configuration
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+
+# Connection resilience: the OpenAI SDK defaults to max_retries=2. On 2026-09-17 both
+# jobs died with httpcore RemoteProtocolError ("Server disconnected without sending a
+# response") -> openai.APIConnectionError, AFTER a ~4.4 minute generation had already
+# run, losing the day's content. 4 retries covers a longer blip.
+#
+# Kept deliberately low: each retry re-runs a FULL xhigh generation (measured ~23k
+# output tokens per call), because the disconnect happens after the model has already
+# reasoned. More retries would multiply that burn on a run that may still fail.
+#
+# This does NOT help quota failures. The 2026-09-14 and 09-15 failures were
+# 429 insufficient_quota / credit_balance_exhausted - an empty OpenAI balance, which
+# the SDK also retries and which no retry count can fix.
+OPENAI_MAX_RETRIES = 4
 OUTPUT_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'wound-care-stories-index.json')
 AUDIO_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'audio', 'wound-care-stories')
 GITHUB_RAW_BASE = "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main"
@@ -224,7 +238,7 @@ def generate_stories_with_claude(candidates: Dict[str, List[Dict]]) -> List[Dict
     if not OPENAI_API_KEY:
         raise ValueError("OPENAI_API_KEY environment variable is required")
 
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY, max_retries=OPENAI_MAX_RETRIES)
 
     # Build prompt with only categories that have NEW candidates
     prompt = """You are creating Spanish wound care news stories for healthcare professionals learning medical Spanish.
@@ -323,8 +337,8 @@ Return ONLY the JSON, no other text."""
     print(f"\n  Calling OpenAI API for {len(categories_with_news)} categories with new news...")
 
     # Retry logic for malformed JSON responses
-    max_retries = 3
-    for attempt in range(max_retries):
+    MAX_JSON_PARSE_ATTEMPTS = 3
+    for attempt in range(MAX_JSON_PARSE_ATTEMPTS):
         try:
             response = client.chat.completions.create(
                 model="gpt-5.6-luna",
@@ -359,13 +373,13 @@ Return ONLY the JSON, no other text."""
             return valid_stories
 
         except json.JSONDecodeError as e:
-            if attempt < max_retries - 1:
-                print(f"  ⚠ JSON parse error (attempt {attempt + 1}/{max_retries}): {e}")
+            if attempt < MAX_JSON_PARSE_ATTEMPTS - 1:
+                print(f"  ⚠ JSON parse error (attempt {attempt + 1}/{MAX_JSON_PARSE_ATTEMPTS}): {e}")
                 print("  Retrying...")
                 import time
                 time.sleep(2)  # Brief pause before retry
             else:
-                print(f"  ❌ JSON parse failed after {max_retries} attempts: {e}")
+                print(f"  ❌ JSON parse failed after {MAX_JSON_PARSE_ATTEMPTS} attempts: {e}")
                 raise
 
 
@@ -376,7 +390,7 @@ def generate_tts_audio(stories: List[Dict], date_str: str) -> List[Dict]:
         print("  ⚠ OPENAI_API_KEY not set - skipping TTS generation")
         return stories
 
-    client = OpenAI(api_key=OPENAI_API_KEY)
+    client = OpenAI(api_key=OPENAI_API_KEY, max_retries=OPENAI_MAX_RETRIES)
 
     # Create date-specific audio directory
     audio_date_dir = os.path.join(AUDIO_DIR, date_str)
