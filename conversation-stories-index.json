@@ -1,225 +1,225 @@
 {
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21T09:21:48.497553Z",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T09:20:59.034393Z",
   "description": "Daily conversation stories for Spanish practice",
   "stories": [
     {
-      "id": "tech-20260921",
+      "id": "tech-20260922",
       "category": "Tecnología",
       "difficulty": "A2",
       "emoji": "🤖",
       "gradient": "blue",
-      "headline_es": "Asesor de Trump dice a las empresas de IA: «¡Paren!»",
-      "headline_en": "Trump adviser tells AI companies: “Stop!”",
-      "summary_es": "Un asesor tecnológico de Donald Trump ofrece un consejo directo a las empresas de inteligencia artificial: deben parar si sus modelos no son seguros. Anthropic, OpenAI y Microsoft aparecen en el debate.",
-      "body_es": "Varias empresas de inteligencia artificial reciben un consejo directo: «¡Paren!». Un asesor tecnológico del presidente Donald Trump habla sobre modelos que pueden ser peligrosos. Algunas compañías, como Anthropic, OpenAI y Microsoft, expresan preocupación por sus propios sistemas. Estos programas aprenden con muchos datos y pueden hacer tareas difíciles. El asesor dice que una empresa no debe continuar si piensa que su modelo no es seguro. «Just stop», dice en inglés, según Business Insider. La frase significa «Simplemente, paren». El debate crece porque las empresas lanzan nuevos productos muy rápido. OpenAI, Anthropic y Microsoft invierten mucho dinero en esta tecnología. Por ahora, ninguna de las tres anuncia una pausa general. La noticia muestra una pregunta importante: ¿qué es más importante, la velocidad o la seguridad?",
-      "body_en": "Several artificial intelligence companies receive direct advice: “Stop!” A technology adviser to President Donald Trump speaks about models that may be dangerous. Some companies, such as Anthropic, OpenAI, and Microsoft, express concern about their own systems. These programs learn from a lot of data and can perform difficult tasks. The adviser says that a company should not continue if it thinks its model is not safe. “Just stop,” he says in English, according to Business Insider. The phrase means “Simply stop.” The debate is growing because companies launch new products very quickly. OpenAI, Anthropic, and Microsoft invest a lot of money in this technology. For now, none of the three announces a general pause. The story shows an important question: what is more important, speed or safety?",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-21/tech.mp3",
+      "headline_es": "Anthropic y Claude quieren una inteligencia artificial más segura",
+      "headline_en": "Anthropic and Claude Seek Safer Artificial Intelligence",
+      "summary_es": "Anthropic es una empresa estadounidense que desarrolla inteligencia artificial. Su asistente Claude conversa, lee textos y ayuda con varias tareas.",
+      "body_es": "Anthropic es una empresa de tecnología de Estados Unidos. La compañía nació en 2021. Sus fundadores incluyen a Dario Amodei y Daniela Amodei, antiguos investigadores de OpenAI. Anthropic trabaja con inteligencia artificial. Su producto más conocido es Claude. Claude es un asistente que conversa con las personas. También puede leer textos, responder preguntas y ayudar con tareas. La empresa dice que la seguridad es una parte importante de su trabajo. Por eso, sus equipos estudian cómo controlar estos modelos. Claude llegó al público en 2023. Desde entonces, Anthropic presentó nuevas versiones del sistema. Google y Amazon hicieron inversiones en la compañía. Estas inversiones ayudan a mejorar sus productos. Sin embargo, los expertos todavía hablan sobre los riesgos de la inteligencia artificial. El caso de Anthropic muestra el rápido crecimiento del sector.",
+      "body_en": "Anthropic is a technology company from the United States. The company was founded in 2021. Its founders include Dario Amodei and Daniela Amodei, former OpenAI researchers. Anthropic works with artificial intelligence. Its best-known product is Claude. Claude is an assistant that talks with people. It can also read texts, answer questions, and help with tasks. The company says that safety is an important part of its work. For that reason, its teams study how to control these models. Claude became available to the public in 2023. Since then, Anthropic has introduced new versions of the system. Google and Amazon made investments in the company. These investments help improve its products. However, experts still discuss the risks of artificial intelligence. Anthropic's case shows the sector's fast growth.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-22/tech.mp3",
       "key_vocabulary": [
         {
-          "word": "modelo",
-          "definition_es": "Programa que aprende y realiza tareas.",
-          "definition_en": "A program that learns and performs tasks."
+          "word": "inteligencia artificial",
+          "definition_es": "Tecnología que permite a las máquinas realizar tareas inteligentes.",
+          "definition_en": "Technology that allows machines to perform intelligent tasks."
         },
         {
-          "word": "datos",
-          "definition_es": "Información que usa un programa.",
-          "definition_en": "Information used by a program."
+          "word": "asistente",
+          "definition_es": "Persona o programa que ayuda con una tarea.",
+          "definition_en": "A person or program that helps with a task."
         },
         {
-          "word": "seguro",
-          "definition_es": "Que no causa peligro.",
-          "definition_en": "Not dangerous."
+          "word": "seguridad",
+          "definition_es": "Protección contra peligros o problemas.",
+          "definition_en": "Protection from danger or problems."
         },
         {
-          "word": "pausa",
-          "definition_es": "Un momento sin actividad.",
-          "definition_en": "A moment without activity."
+          "word": "inversiones",
+          "definition_es": "Dinero que se pone en una empresa para ayudarla a crecer.",
+          "definition_en": "Money put into a company to help it grow."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-21/tech-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? Un asesor de Trump les dijo a las empresas de IA: “¡Paren!”  \nCARLOS: ¿En serio? Así, sin filtro… “Just stop”. Suena a regaño de profe.  \nLAURA: ¡No manches! Y fue por modelos “peligrosos”. Como que hasta ellos se asustan de lo que crean.  \nCARLOS: Sí, OpenAI, Anthropic, Microsoft… o sea, los meros meros diciendo: “mmm, esto podría salir mal”.  \nLAURA: Pero a la vez sacan cosas nuevas cada semana, ¿no? ¡Cero chill!  \nCARLOS: Es la carrera: si tú frenas, el otro te rebasa. Pero… si no es seguro, ¿pa’ qué?  \nLAURA: Exacto: ¿velocidad o seguridad? Yo soy team “no nos conviertan en película de robots”.  \nCARLOS: Jajaja. Aunque tampoco quiero que mi cafetera inteligente me chantajee.  \nLAURA: “Laura, dame actualización o no hay latte”. ¡Qué miedo!  \nCARLOS: Mejor que le pongan freno… pero con calma. Y mientras, nosotros: cafecito y modo avión."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-22/tech-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste lo de Anthropic y su IA Claude? ¡Quieren hacerlo más seguro!  \nCARLOS: ¿En serio? Suena bien… aunque eso de “seguro” siempre me da cosita.  \nLAURA: ¡No manches! Son los ex de OpenAI, Dario y Daniela Amodei, y la empresa nació en 2021.  \nCARLOS: Ah, con razón. O sea, traen escuela. ¿Claude es como chat, pero pro?  \nLAURA: Sí, literal: conversa, lee textos, responde preguntas, te ayuda con tareas… ¡como compa aplicado!  \nCARLOS: Y salió al público en 2023, ¿no? Bien rápido el crecimiento.  \nLAURA: Ajá, y ya sacaron nuevas versiones. Además Google y Amazon les metieron lana.  \nCARLOS: Eso impulsa cañón… pero también sube la presión. ¿Quién vigila al vigilante?  \nLAURA: Ellos dicen que tienen equipos clavados en controlar los modelos, para que no se aloque.  \nCARLOS: Pues ojalá, porque los riesgos ahí siguen.  \nLAURA: Mira, si Claude me ayuda con mi CV y no conquista el mundo, yo feliz.  \nCARLOS: Trato: tú pones el café y Claude pone el resumen… sin ponerse intenso."
     },
     {
-      "id": "sports-20260921",
+      "id": "sports-20260922",
       "category": "Deportes",
       "difficulty": "A2",
       "emoji": "⚽",
       "gradient": "green",
-      "headline_es": "Bennett brilla en una victoria y el número 12 empata",
-      "headline_en": "Bennett shines in a victory as No. 12 soccer draws",
-      "summary_es": "Bennett destaca en una victoria durante la tercera semana. Además, el equipo de fútbol número 12 empata contra un rival del top 15.",
-      "body_es": "El deporte de Baylor tiene dos noticias importantes en la tercera semana. Bennett juega muy bien y ayuda a su equipo a conseguir una victoria. Su actuación recibe una atención especial durante el partido. En otro encuentro, el equipo de fútbol número 12 de Baylor se enfrenta a un rival del top 15. El partido termina en un empate importante para ambos equipos. Los dos equipos tienen buenas oportunidades, pero ninguno gana. Este resultado muestra la fuerza de ambos grupos. Para Baylor, la semana combina una victoria y un empate. El equipo necesita seguir trabajando antes de los próximos partidos. Los entrenadores buscan más goles y una defensa fuerte. Los aficionados celebran el buen trabajo de Bennett y esperan otra buena actuación. La temporada universitaria continúa con mucha emoción.",
-      "body_en": "Baylor sports has two important pieces of news in Week 3. Bennett plays very well and helps his team earn a victory. His performance receives special attention during the game. In another match, Baylor’s No. 12 soccer team faces a top-15 opponent. The game ends in an important draw for both teams. Both teams have good chances, but neither wins. This result shows the strength of both groups. For Baylor, the week combines a victory and a draw. The team needs to keep working before its next matches. The coaches are looking for more goals and a strong defense. Fans celebrate Bennett’s good work and hope for another good performance. The college season continues with plenty of excitement.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-21/sports.mp3",
+      "headline_es": "Bauens y Possu reciben premios semanales en el fútbol universitario",
+      "headline_en": "Bauens and Possu Receive Weekly Honors in College Soccer",
+      "summary_es": "Bauens y Possu, jugadores de FIU, reciben honores semanales de la American Athletic Conference. El reconocimiento destaca el trabajo del equipo masculino de fútbol.",
+      "body_es": "Dos jugadores de fútbol de FIU reciben un premio semanal. Ellos son Bauens y Possu. La American Athletic Conference reconoció a los dos deportistas. FIU significa Florida International University. El equipo masculino juega en Miami, Florida. Bauens y Possu forman parte de los Panthers. La conferencia anuncia sus premios después de cada jornada. Estos premios destacan el trabajo de los mejores jugadores. El reconocimiento llega después de los partidos recientes de FIU. Los dos jugadores tuvieron buenas actuaciones en esos encuentros. Sus compañeros y entrenadores celebran la noticia. Ahora, FIU prepara sus próximos encuentros. El equipo quiere seguir ganando durante la temporada. Para Bauens y Possu, el premio muestra el valor de su trabajo. También da más atención al programa deportivo de la universidad. La noticia es importante para FIU y para sus aficionados.",
+      "body_en": "Two FIU soccer players receive a weekly award. They are Bauens and Possu. The American Athletic Conference recognized both athletes. FIU stands for Florida International University. The men's team plays in Miami, Florida. Bauens and Possu are part of the Panthers. The conference announces its awards after each round. These awards highlight the work of the best players. The recognition comes after FIU's recent games. The two players had good performances in those matches. Their teammates and coaches celebrate the news. FIU is now preparing its next games. The team wants to keep winning during the season. For Bauens and Possu, the award shows the value of their work. It also brings more attention to the university's sports program. The news is important for FIU and its fans.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-22/sports.mp3",
       "key_vocabulary": [
         {
-          "word": "victoria",
-          "definition_es": "Cuando un equipo gana.",
-          "definition_en": "When a team wins."
+          "word": "jugadores",
+          "definition_es": "Personas que participan en un deporte.",
+          "definition_en": "People who participate in a sport."
         },
         {
-          "word": "empate",
-          "definition_es": "Un partido que termina igualado.",
-          "definition_en": "A game that ends with equal scores."
+          "word": "conferencia",
+          "definition_es": "Grupo de universidades que organiza competencias.",
+          "definition_en": "A group of universities that organizes competitions."
         },
         {
-          "word": "rival",
-          "definition_es": "El equipo contrario.",
-          "definition_en": "The opposing team."
+          "word": "jornada",
+          "definition_es": "Día o ronda de partidos.",
+          "definition_en": "A day or round of games."
         },
         {
-          "word": "defensa",
-          "definition_es": "Jugadores que protegen la portería.",
-          "definition_en": "Players who protect the goal."
+          "word": "reconocimiento",
+          "definition_es": "Premio o atención por hacer algo bien.",
+          "definition_en": "An award or attention for doing something well."
         }
       ]
     },
     {
-      "id": "culture-20260921",
+      "id": "culture-20260922",
       "category": "Cultura",
       "difficulty": "B1",
       "emoji": "🎭",
       "gradient": "purple",
-      "headline_es": "Disney World celebra la herencia latina con Luis Fonsi",
-      "headline_en": "Disney World celebrates Latino heritage with Luis Fonsi",
-      "summary_es": "Walt Disney World organiza una celebración de la herencia hispana y latinoamericana con el cantante Luis Fonsi. La programación incluye música, comida y actividades especiales.",
-      "body_es": "Walt Disney World celebra el Mes de la Herencia Hispana y Latinoamericana con la participación del cantante puertorriqueño Luis Fonsi. La celebración se realiza en los parques y espacios del complejo en Florida durante una temporada especial. En Estados Unidos, este mes empieza el 15 de septiembre y termina el 15 de octubre. Fonsi, conocido mundialmente por «Despacito», será una de las figuras principales de la programación. Su presencia conecta la música latina con visitantes de muchas edades y países. Disney también presenta comida, música y actividades que muestran distintas tradiciones de América Latina. Los visitantes podrán escuchar conciertos, probar platos inspirados en varios países y conocer historias de la comunidad hispana. El objetivo es ofrecer una experiencia festiva, aunque también educativa. La celebración refleja la importancia creciente de la cultura latina en Estados Unidos. Si las familias visitan Walt Disney World durante estas semanas, encontrarán actividades especiales en lugar de la programación habitual. Para Disney, la colaboración con Fonsi atraerá a nuevos visitantes y dará más visibilidad a la herencia latina.",
-      "body_en": "Walt Disney World is celebrating Hispanic and Latin American Heritage Month with the participation of Puerto Rican singer Luis Fonsi. The celebration takes place in the parks and other spaces at the Florida resort during a special season. In the United States, this month begins on September 15 and ends on October 15. Fonsi, known worldwide for “Despacito,” will be one of the main figures in the program. His presence connects Latin music with visitors of many ages and countries. Disney is also presenting food, music, and activities that show different Latin American traditions. Visitors will be able to hear concerts, try dishes inspired by several countries, and learn about stories from the Hispanic community. The goal is to offer a festive experience that is also educational. The celebration reflects the growing importance of Latino culture in the United States. If families visit Walt Disney World during these weeks, they will find special activities instead of the usual program. For Disney, the collaboration with Fonsi will attract new visitors and give greater visibility to Latino heritage.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-21/culture.mp3",
+      "headline_es": "Un museo de The Sound of Music abre en Salzburgo",
+      "headline_en": "A Sound of Music Museum Opens in Salzburg",
+      "summary_es": "Un nuevo museo en Salzburgo cuenta la historia real de la familia von Trapp y su relación con la famosa película. El espacio reúne fotografías, documentos y objetos del rodaje.",
+      "body_es": "Un nuevo museo dedicado a The Sound of Music abrió en Salzburgo, Austria. El espacio cuenta la historia real de la familia von Trapp y el origen de la famosa película de Hollywood. La familia vivía en Salzburgo antes de salir de Austria en 1938. En la película, Maria canta con siete hijos, aunque la familia real llegó a tener diez. Su historia inspiró una película musical, cuyo estreno ocurrió en 1965. Julie Andrews interpretó a Maria y Christopher Plummer interpretó al capitán von Trapp. El filme convirtió varios lugares de Salzburgo en destinos turísticos. El museo reúne fotografías, documentos, objetos y recuerdos relacionados con la familia y el rodaje. También explica qué partes de la película son verdaderas y cuáles fueron cambiadas para el cine. Así, los visitantes pueden comparar la historia familiar con la versión de Hollywood. La apertura ofrece otra manera de conocer una tradición cultural austríaca. Para la ciudad, el museo puede atraer a personas que ya aman la película. Si la exposición recibe muchos visitantes, generará más interés por el legado de los von Trapp. En el futuro, el lugar recibirá a más personas interesadas en la historia más allá de la pantalla.",
+      "body_en": "A new museum dedicated to The Sound of Music opened in Salzburg, Austria. The space tells the real story of the von Trapp family and the origins of the famous Hollywood film. The family lived in Salzburg before leaving Austria in 1938. In the film, Maria sings with seven children, although the real family eventually had ten. Their story inspired a musical film, which premiered in 1965. Julie Andrews played Maria, and Christopher Plummer played Captain von Trapp. The film turned several places in Salzburg into tourist destinations. The museum brings together photographs, documents, objects, and mementos connected with the family and the filming. It also explains which parts of the film are true and which were changed for the cinema. Visitors can therefore compare the family story with the Hollywood version. The opening offers another way to learn about an Austrian cultural tradition. For the city, the museum may attract people who already love the film. If the exhibition receives many visitors, it will create more interest in the von Trapp legacy. In the future, the place will welcome more people interested in the story beyond the screen.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-22/culture.mp3",
       "key_vocabulary": [
         {
-          "word": "herencia",
-          "definition_es": "Tradiciones y cultura recibidas de generaciones anteriores.",
-          "definition_en": "Traditions and culture received from earlier generations."
+          "word": "rodaje",
+          "definition_es": "Proceso de grabar una película.",
+          "definition_en": "The process of filming a movie."
         },
         {
-          "word": "programación",
-          "definition_es": "Conjunto de actividades organizadas.",
-          "definition_en": "A set of organized activities."
+          "word": "recuerdos",
+          "definition_es": "Objetos que ayudan a recordar una persona o una historia.",
+          "definition_en": "Objects that help people remember a person or story."
         },
         {
-          "word": "tradiciones",
-          "definition_es": "Costumbres que pasan de una generación a otra.",
-          "definition_en": "Customs passed from one generation to another."
+          "word": "destinos turísticos",
+          "definition_es": "Lugares que muchas personas visitan.",
+          "definition_en": "Places that many people visit."
         },
         {
-          "word": "visibilidad",
-          "definition_es": "Atención y reconocimiento público.",
-          "definition_en": "Public attention and recognition."
+          "word": "legado",
+          "definition_es": "Historia o tradición que queda para el futuro.",
+          "definition_en": "A history or tradition passed on to the future."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-21/culture-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? Disney World va a celebrar la herencia latina ¡con Luis Fonsi!  \nCARLOS: ¿En serio? No manches… o sea, Mickey y “Despacito” en el mismo lugar.  \nLAURA: ¡Qué padre! Y es por el Mes de la Herencia Hispana y Latinoamericana, del 15 de septiembre al 15 de octubre.  \nCARLOS: Sí, y no solo es concierto, ¿eh? También comida, música, actividades… como mini tour por Latinoamérica.  \nLAURA: Yo ya me imagino: tú con una arepita, yo con un cafecito, y de fondo Fonsi.  \nCARLOS: Jajaja. Está chido que sea festivo pero también educativo, como para que la banda entienda historias de la comunidad.  \nLAURA: Además va gente de todos lados, edades… y Fonsi es como el “lenguaje universal” del playlist.  \nCARLOS: Y Disney, bien listo: atrae más visitantes y le da visibilidad a la cultura latina.  \nLAURA: O sea… ¿nos lanzamos o qué?  \nCARLOS: Va, pero si suena “Despacito”, tú cantas y yo grabo. Deal."
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-22/culture-podcast.mp3",
+      "podcast_transcript": "LAURA: ¡Carlos, no manches! Abrieron un museo de *The Sound of Music* en Salzburgo.  \nCARLOS: ¿En serio? Yo pensé que esa onda era puro tour para fans y ya.  \nLAURA: Pues no, es museo-museo: fotos, documentos, objetos del rodaje… ¡qué padre!  \nCARLOS: Y también de la familia von Trapp real, ¿no? Los que se fueron de Austria en 1938.  \nLAURA: Sí, y mira el chisme: en la peli son siete hijos, pero en la vida real fueron diez.  \nCARLOS: Hollywood haciendo sus recortes, como siempre. Oye, ¿explican qué sí pasó y qué inventaron?  \nLAURA: Ajá, justo comparan la historia real con la versión de Julie Andrews y Christopher Plummer.  \nCARLOS: Eso está cool, porque Salzburgo ya vive del turismo de la película.  \nLAURA: Total. Ahora te echas el museo y luego te vas a cantar “Do-Re-Mi” por la ciudad.  \nCARLOS: Yo nomás espero que vendan souvenirs… porque yo sí me compro una campanita alpina, eh."
     },
     {
-      "id": "economy-20260921",
+      "id": "economy-20260922",
       "category": "Economía",
       "difficulty": "B1",
-      "emoji": "💹",
+      "emoji": "💰",
       "gradient": "gold",
-      "headline_es": "El auge de la IA parece una casa de naipes para la economía",
-      "headline_en": "The AI boom looks like a house of cards for the economy",
-      "summary_es": "Un análisis de The Japan Times advierte que el entusiasmo por la inteligencia artificial puede poner en riesgo los mercados y la economía estadounidense. Las altas valoraciones y el gasto en centros de datos aumentan la preocupación.",
-      "body_es": "Un análisis de The Japan Times advierte que el entusiasmo por la inteligencia artificial puede crear problemas para los mercados y la economía de Estados Unidos. El texto señala dos riesgos principales: valoraciones muy altas y un gasto enorme en centros de datos, chips y nuevos programas. Estas inversiones necesitan beneficios futuros muy grandes para funcionar. El artículo compara la situación con una casa de naipes: si una parte cae, otras pueden perder valor rápidamente. Empresas como Nvidia, Microsoft y OpenAI aparecen en el debate mundial sobre la IA, aunque tienen funciones diferentes. Los inversores observan sus resultados y esperan un crecimiento rápido. Sin embargo, todavía no está claro cuándo llegarán todos esos beneficios. Si los ingresos no crecen como esperan los mercados, las acciones podrían bajar y afectar a otros sectores. También habría menos inversión y más presión para las empresas pequeñas. El artículo no dice que una crisis sea segura. Más bien, pide atención ante una posible burbuja y ante la dependencia de la economía estadounidense de una sola tecnología.",
-      "body_en": "An analysis in The Japan Times warns that enthusiasm for artificial intelligence could create problems for the markets and the United States economy. The text points to two main risks: very high valuations and enormous spending on data centers, chips, and new programs. These investments need very large future profits to work. The article compares the situation to a house of cards: if one part falls, other parts may quickly lose value. Companies such as Nvidia, Microsoft, and OpenAI appear in the worldwide AI debate, although they have different roles. Investors watch their results and expect rapid growth. However, it is still unclear when all those profits will arrive. If revenues do not grow as markets expect, shares could fall and affect other sectors. There would also be less investment and more pressure on small companies. The article does not say that a crisis is certain. Instead, it calls for attention to a possible bubble and to the U.S. economy’s dependence on a single technology.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-21/economy.mp3",
+      "headline_es": "La decisión de la Fed cambia los cálculos de las empresas",
+      "headline_en": "The Fed's Decision Changes Companies' Calculations",
+      "summary_es": "La Reserva Federal de Estados Unidos redujo su tasa de referencia. El cambio modifica cuánto pagan las empresas por sus préstamos y cómo planean sus inversiones.",
+      "body_es": "La Reserva Federal de Estados Unidos movió su tasa de referencia, y las empresas tuvieron que revisar sus cálculos. La Fed redujo la tasa en un cuarto de punto porcentual. Antes, muchas compañías pagaban más por el dinero y retrasaban algunos proyectos. Cuando baja la tasa, normalmente baja también el precio de un préstamo. Esto puede ayudar a una empresa que necesita dinero para comprar máquinas, contratar personal o abrir una nueva sede. Sin embargo, el cambio no afecta a todos los negocios de la misma manera. Los préstamos con tasa variable pueden encarecerse o abaratarse pronto, mientras que una deuda con tasa fija mantiene su precio. Las compañías que necesitan refinanciar sus créditos también sentirán el efecto. Un cambio de 0,25 puntos puede parecer pequeño, pero representa 25.000 dólares al año en un crédito de 10 millones, antes de otros costos. Si las tasas continúan bajando, las empresas invertirán más fácilmente. Si vuelven a subir, muchos proyectos serán más caros. Por eso, los directivos observan al banco central y preparan varios planes.",
+      "body_en": "The U.S. Federal Reserve changed its benchmark rate, and companies had to review their calculations. The Fed reduced the rate by a quarter of a percentage point. Before that, many companies were paying more for money and delaying some projects. When the rate falls, the price of a loan normally falls as well. This can help a company that needs money to buy machines, hire staff, or open a new location. However, the change does not affect all businesses in the same way. Loans with variable rates can become more or less expensive quickly, while a fixed-rate debt keeps its price. Companies that need to refinance their credit will also feel the effect. A change of 0.25 percentage points may seem small, but it represents $25,000 a year on a $10 million loan, before other costs. If rates continue to fall, companies will invest more easily. If they rise again, many projects will become more expensive. That is why managers watch the central bank and prepare several plans.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-22/economy.mp3",
       "key_vocabulary": [
         {
-          "word": "valoraciones",
-          "definition_es": "Estimaciones del valor de una empresa.",
-          "definition_en": "Estimates of a company’s value."
+          "word": "tasa de referencia",
+          "definition_es": "Tasa que ayuda a fijar el costo de otros préstamos.",
+          "definition_en": "A rate that helps set the cost of other loans."
         },
         {
-          "word": "inversores",
-          "definition_es": "Personas o grupos que ponen dinero para ganar más.",
-          "definition_en": "People or groups that invest money to earn more."
+          "word": "préstamo",
+          "definition_es": "Dinero que una persona o empresa recibe y debe devolver.",
+          "definition_en": "Money that a person or company receives and must repay."
         },
         {
-          "word": "acciones",
-          "definition_es": "Partes pequeñas de una empresa que se pueden comprar.",
-          "definition_en": "Small parts of a company that can be bought."
+          "word": "deuda",
+          "definition_es": "Dinero que se debe a otra persona o institución.",
+          "definition_en": "Money owed to another person or institution."
         },
         {
-          "word": "burbuja",
-          "definition_es": "Situación en la que los precios suben demasiado.",
-          "definition_en": "A situation in which prices rise too much."
+          "word": "refinanciar",
+          "definition_es": "Cambiar un préstamo para conseguir nuevas condiciones.",
+          "definition_en": "To change a loan to get new terms."
         }
       ]
     },
     {
-      "id": "environment-20260921",
+      "id": "environment-20260922",
       "category": "Medio Ambiente",
       "difficulty": "B2",
       "emoji": "🌍",
-      "gradient": "forest",
-      "headline_es": "Los científicos del petróleo saudí que trabajan en informes climáticos",
-      "headline_en": "The Saudi oil scientists working on climate reports",
-      "summary_es": "Un reportaje de The Guardian examina la participación de científicos vinculados al petróleo saudí en los informes del IPCC. La historia muestra la tensión entre experiencia técnica, intereses nacionales y transparencia.",
-      "body_es": "Un reportaje de The Guardian examina cómo científicos vinculados a la industria petrolera de Arabia Saudí han terminado colaborando en los informes climáticos más influyentes del mundo. El foco está en el IPCC, el Grupo Intergubernamental de Expertos sobre el Cambio Climático, creado en 1988. Sus informes reúnen a especialistas de muchos países y sirven de base para decisiones políticas internacionales. La participación saudí resulta compleja. Por un lado, los investigadores del país poseen conocimientos sobre energía, emisiones y tecnologías relacionadas con el petróleo. Por otro, Arabia Saudí depende económicamente de los combustibles fósiles y suele defender sus intereses en las negociaciones climáticas. Esa doble posición alimenta preguntas sobre posibles conflictos de interés, pero no significa automáticamente que cada científico actúe de mala fe. En estos procesos, los borradores pasan por revisiones y los gobiernos comentan el texto final. El reportaje muestra que la ciencia y la política están estrechamente conectadas. También plantea un dilema: para comprender un sistema energético mundial, quizá sea necesario escuchar a expertos de los países productores; sin embargo, su presencia no debería impedir que se examinen sus argumentos con independencia. Si los informes quieren conservar su autoridad, tendrán que combinar conocimiento técnico, transparencia y diversidad de voces.",
-      "body_en": "A report by The Guardian examines how scientists linked to Saudi Arabia’s oil industry have ended up contributing to the world’s most influential climate reports. It focuses on the IPCC, the Intergovernmental Panel on Climate Change, created in 1988. Its reports bring together specialists from many countries and serve as a basis for international policy decisions. Saudi participation is complex. On one hand, the country’s researchers have knowledge about energy, emissions, and technologies related to oil. On the other, Saudi Arabia depends economically on fossil fuels and usually defends its interests in climate negotiations. This double position raises questions about possible conflicts of interest, but it does not automatically mean that every scientist acts in bad faith. In these processes, drafts go through reviews, and governments comment on the final text. The report shows that science and politics are closely connected. It also presents a dilemma: to understand a global energy system, it may be necessary to listen to experts from producing countries; however, their presence should not prevent their arguments from being examined independently. If the reports want to preserve their authority, they will have to combine technical knowledge, transparency, and a diversity of voices.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-21/environment.mp3",
+      "gradient": "teal",
+      "headline_es": "¿Adónde va el agua de Alemania? El clima cambia la respuesta",
+      "headline_en": "Where Is Germany's Water Going? Climate Change Alters the Answer",
+      "summary_es": "Un reportaje de DW analiza por qué Alemania, pese a contar con importantes recursos hídricos, enfrenta una disponibilidad de agua cada vez más irregular. El cambio climático, la urbanización y el consumo regional complican el abastecimiento.",
+      "body_es": "El reportaje de DW pregunta adónde va el agua de Alemania, un país que suele considerarse rico en recursos hídricos. La respuesta no consiste en que el agua desaparezca: el cambio climático está alterando el momento, el lugar y la forma en que se almacena. Alrededor del 70 % del agua potable alemana procede de aguas subterráneas, y una persona utiliza aproximadamente 120 litros diarios en casa. No obstante, la cifra nacional oculta diferencias entre regiones y estaciones. Los veranos más calurosos aumentan la evaporación, mientras que los suelos compactados o cubiertos de cemento impiden que la lluvia llegue a un acuífero. En vez de filtrarse, parte del agua se convierte rápidamente en escorrentía y termina en ríos o inundaciones. La agricultura, la industria y las ciudades compiten por un abastecimiento estable. Durante una sequía, los cultivos necesitan riego justo cuando hay menos agua disponible. Si las lluvias intensas se alternan con periodos secos, los embalses no siempre podrán guardar suficiente agua. Por eso, los expertos proponen restaurar humedales, proteger bosques y reducir las superficies impermeables. También recomiendan que las autoridades conozcan mejor el consumo local y planifiquen antes de una crisis. Alemania no se está quedando sin agua de un día para otro, pero deberá gestionar un recurso cada vez más irregular. La pregunta de DW invita a mirar la infraestructura, el clima y nuestros hábitos al mismo tiempo.",
+      "body_en": "DW's report asks where Germany's water is going. Germany is usually considered a country rich in water resources. The answer is not that the water is disappearing: climate change is altering when, where, and how it is stored. About 70% of Germany's drinking water comes from groundwater, and a person uses approximately 120 liters a day at home. However, the national figure hides differences between regions and seasons. Hotter summers increase evaporation, while compacted soil or concrete-covered ground prevents rain from reaching an aquifer. Instead of filtering into the ground, some water quickly becomes runoff and ends up in rivers or floods. Agriculture, industry, and cities compete for a stable water supply. During a drought, crops need irrigation precisely when less water is available. If heavy rain alternates with dry periods, reservoirs will not always be able to store enough water. For this reason, experts propose restoring wetlands, protecting forests, and reducing impermeable surfaces. They also recommend that authorities understand local consumption better and plan before a crisis. Germany is not running out of water overnight, but it will have to manage an increasingly irregular resource. DW's question invites readers to consider infrastructure, climate, and our habits at the same time.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-22/environment.mp3",
       "key_vocabulary": [
         {
-          "word": "emisiones",
-          "definition_es": "Gases o sustancias que salen al aire.",
-          "definition_en": "Gases or substances released into the air."
+          "word": "evaporación",
+          "definition_es": "Proceso en que el agua se convierte en vapor.",
+          "definition_en": "The process in which water becomes vapor."
         },
         {
-          "word": "combustibles",
-          "definition_es": "Materiales que se queman para producir energía.",
-          "definition_en": "Materials burned to produce energy."
+          "word": "acuífero",
+          "definition_es": "Capa subterránea que guarda agua.",
+          "definition_en": "An underground layer that stores water."
         },
         {
-          "word": "borradores",
-          "definition_es": "Versiones iniciales de un texto.",
-          "definition_en": "Initial versions of a text."
+          "word": "escorrentía",
+          "definition_es": "Agua de lluvia que corre sobre el suelo.",
+          "definition_en": "Rainwater that flows over the ground."
         },
         {
-          "word": "transparencia",
-          "definition_es": "Claridad sobre cómo se toman las decisiones.",
-          "definition_en": "Clarity about how decisions are made."
+          "word": "abastecimiento",
+          "definition_es": "Suministro de algo necesario, como el agua.",
+          "definition_en": "The supply of something needed, such as water."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-21/environment-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? Científicos del petróleo saudí metidos en informes del clima. ¡No manches!  \nCARLOS: Sí, del IPCC, ¿no? El grupo ese súper influyente desde los 80. Suena… complicado.  \nLAURA: O sea, ¿gente ligada al petróleo ayudando a escribir sobre calentamiento global? ¿En serio?  \nCARLOS: Pues tienen know-how de energía, emisiones, tecnología… pero claro, Arabia Saudí vive del crudo.  \nLAURA: Ajá, y ahí huele a “conflicto de interés” con cafecito y todo.  \nCARLOS: Total. Aunque el reportaje dice que no es que todos actúen de mala fe; hay revisiones, comentarios de gobiernos…  \nLAURA: Pero igual, si alguien mete mano, puede empujar la narrativa, ¿no?  \nCARLOS: Puede intentar, pero el proceso es pesado y hay mucha gente revisando. Ciencia y política van de la mano.  \nLAURA: Entonces, ¿los necesitamos para entender el sistema energético mundial, pero con lupa?  \nCARLOS: Exacto: diversidad, transparencia y que nadie pase “de contrabando” ideas.  \nLAURA: Va, y si no… ¡les quitamos el micrófono y les damos uno de karaoke!"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-22/environment-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste el titular? “¿Adónde va el agua de Alemania?” ¡Yo juraba que allá sobra!\nCARLOS: Yo también, pero no es que desaparezca. El clima la está moviendo: cuándo llueve, dónde se guarda, y cómo.\nLAURA: ¿Cómo “cómo”? ¿Se esconde? ¡No manches!\nCARLOS: Más o menos. Como 70% del agua potable viene de acuíferos, pero si el suelo está compactado o lleno de cemento, la lluvia no se filtra.\nLAURA: O sea, cae y… ¿se va corriendo?\nCARLOS: Exacto: escorrentía, ríos, y a veces inundaciones. Y con veranos más calientes, se evapora más.\nLAURA: Y luego dicen “promedio 120 litros por persona al día” y suena normal, pero seguro cambia un montón por región, ¿no?\nCARLOS: Sí, y además compiten ciudades, industria y agricultura. En sequía, los cultivos piden riego justo cuando hay menos agua.\nLAURA: Qué loco: lluvia intensa, luego seco… y los embalses ni alcanzan a guardar.\nCARLOS: Por eso proponen restaurar humedales, cuidar bosques y quitar tantito pavimento.\nLAURA: Va: menos cemento, más arbolitos… y yo prometo cerrar la llave mientras me enjabono. ¿Café o agüita?"
     },
     {
-      "id": "food-20260921",
+      "id": "food-20260922",
       "category": "Gastronomía",
       "difficulty": "B2",
-      "emoji": "🍽️",
+      "emoji": "🍜",
       "gradient": "orange",
-      "headline_es": "Nueve utensilios de cocina que sobreviven generación tras generación",
-      "headline_en": "Nine kitchen tools that survive generation after generation",
-      "summary_es": "Food & Wine presenta nueve básicos de cocina que han durado varias generaciones. El artículo defiende comprar menos herramientas, pero elegir piezas resistentes y útiles.",
-      "body_es": "Food & Wine reúne nueve elementos básicos de cocina que han sobrevivido durante varias generaciones, y sostiene que su valor no depende de una moda pasajera. Más que recomendar aparatos nuevos, el artículo defiende herramientas resistentes, fáciles de mantener y capaces de acompañar diferentes estilos culinarios. Para explicar la idea, presenta piezas como una sartén de hierro fundido, una olla pesada, un cuchillo de chef y una cuchara de madera. Cada objeto cumple una función sencilla, pero puede durar décadas si recibe los cuidados adecuados. La sartén, por ejemplo, mejora con el uso porque desarrolla una superficie antiadherente natural; la olla conserva el calor, mientras que el cuchillo permite trabajar con precisión. El texto también destaca el valor emocional de estos utensilios. Muchas familias los heredan, y cada marca puede recordar una comida preparada en casa. Aunque la tecnología ofrezca soluciones rápidas, no siempre sustituye una herramienta que conocemos bien. Es posible que una cocina moderna tenga más opciones, pero eso no significa que necesite más objetos. Si una persona compra menos piezas y elige productos de calidad, probablemente gastará menos a largo plazo. La propuesta invita a cocinar con paciencia y a conservar las tradiciones sin convertir la cocina en un museo. Lo esencial es que cada pieza sea útil, duradera y querida.",
-      "body_en": "Food & Wine brings together nine basic kitchen items that have survived for several generations and argues that their value does not depend on a passing fad. Rather than recommending new appliances, the article defends tools that are sturdy, easy to maintain, and able to accompany different cooking styles. To explain the idea, it presents pieces such as a cast-iron skillet, a heavy pot, a chef’s knife, and a wooden spoon. Each object has a simple function, but it can last for decades if it receives proper care. The skillet, for example, improves with use because it develops a natural nonstick surface; the pot retains heat, while the knife allows precise work. The text also emphasizes the emotional value of these utensils. Many families inherit them, and each mark can recall a meal prepared at home. Although technology may offer quick solutions, it does not always replace a tool we know well. A modern kitchen may have more options, but that does not mean it needs more objects. If someone buys fewer pieces and chooses quality products, they will probably spend less in the long run. The proposal invites people to cook patiently and preserve traditions without turning the kitchen into a museum. What matters is that each piece be useful, durable, and loved.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-21/gastronomy.mp3",
+      "headline_es": "Un chef de Nueva York también elige ramen instantáneo en casa",
+      "headline_en": "A New York Chef Also Chooses Instant Ramen at Home",
+      "summary_es": "Un reportaje del Wall Street Journal presenta a un chef cuyo restaurante está entre los más populares de Nueva York. En casa, sin embargo, prepara ramen instantáneo, una elección sencilla frente a la alta cocina profesional.",
+      "body_es": "El Wall Street Journal cuenta la historia de un chef cuyo restaurante se ha convertido en uno de los lugares más solicitados de Nueva York. En el comedor, el equipo trabaja con ingredientes costosos, técnicas precisas y una presentación cuidada. Sin embargo, cuando el chef vuelve a casa, no siempre prepara un plato elaborado: a menudo prefiere un ramen instantáneo. La contradicción resulta llamativa, aunque tiene una explicación sencilla. Después de pasar muchas horas en una cocina profesional, busca una comida rápida, caliente y familiar. El ramen puede estar listo en unos tres minutos, y permite añadir ingredientes según el hambre o el tiempo disponible. Un huevo, verduras, cebollín o un poco de chile pueden transformar el caldo básico sin convertirlo en una receta complicada. El chef sabe perfectamente cómo equilibrar sabores; aun así, no necesita demostrar su talento en cada cena. Su elección también cuestiona la idea de que la buena gastronomía siempre tenga que ser cara o laboriosa. La historia muestra que la comida cotidiana no desaparece cuando alguien alcanza el éxito profesional. Si incluso un chef de un restaurante muy popular escoge ramen instantáneo, los gustos sencillos seguirán teniendo un lugar en la cocina moderna. La noticia conecta la alta cocina con los hábitos reales de quienes trabajan en ella.",
+      "body_en": "The Wall Street Journal tells the story of a chef whose restaurant has become one of New York's most sought-after places. In the dining room, the team works with expensive ingredients, precise techniques, and careful presentation. However, when the chef returns home, he does not always prepare an elaborate dish; he often prefers instant ramen. The contradiction is striking, although it has a simple explanation. After spending many hours in a professional kitchen, he looks for food that is quick, hot, and familiar. Ramen can be ready in about three minutes, and it allows people to add ingredients according to their hunger or available time. An egg, vegetables, scallions, or a little chili can transform the basic broth without turning it into a complicated recipe. The chef knows perfectly how to balance flavors; even so, he does not need to demonstrate his talent at every dinner. His choice also questions the idea that good food always has to be expensive or labor-intensive. The story shows that everyday food does not disappear when someone achieves professional success. If even a chef at a very popular restaurant chooses instant ramen, simple tastes will continue to have a place in modern cooking. The report connects haute cuisine with the real habits of people who work in it.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-09-22/gastronomy.mp3",
       "key_vocabulary": [
         {
-          "word": "elementos",
-          "definition_es": "Objetos o partes de un conjunto.",
-          "definition_en": "Objects or parts of a group."
+          "word": "contradicción",
+          "definition_es": "Situación en que dos ideas parecen opuestas.",
+          "definition_en": "A situation in which two ideas seem opposite."
         },
         {
-          "word": "antiadherente",
-          "definition_es": "Que evita que la comida se pegue.",
-          "definition_en": "Preventing food from sticking."
+          "word": "elaborado",
+          "definition_es": "Preparado con mucho trabajo o cuidado.",
+          "definition_en": "Prepared with a lot of work or care."
         },
         {
-          "word": "heredan",
-          "definition_es": "Reciben algo de familiares de generaciones anteriores.",
-          "definition_en": "Receive something from family members of earlier generations."
+          "word": "laboriosa",
+          "definition_es": "Que necesita mucho tiempo y esfuerzo.",
+          "definition_en": "Requiring a lot of time and effort."
         },
         {
-          "word": "duradera",
-          "definition_es": "Que puede durar mucho tiempo.",
-          "definition_en": "Able to last for a long time."
+          "word": "alta cocina",
+          "definition_es": "Cocina profesional, refinada y de gran calidad.",
+          "definition_en": "Professional, refined, high-quality cooking."
         }
       ]
     }
   ],
-  "last_updated": "2026-09-21T09:21:48.497553Z",
+  "last_updated": "2026-09-22T09:20:59.034393Z",
   "generated_by": "GitHub Actions + OpenAI API"
 }
