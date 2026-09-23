@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-09-23",
+      "filename": "spanish_lesson_2026-09-23.pdf",
+      "path": "pdfs/spanish_lesson_2026-09-23.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Senado limita las herramientas avanzadas de IA mientras el Congreso debate su futuro",
+          "headline_en": "The Senate Limits Advanced AI Tools as Congress Debates Their Future",
+          "body_es": "Mientras el Congreso debate nuevas reglas para la inteligencia artificial, el Senado limita el acceso a herramientas avanzadas. Muchos legisladores y empleados no pueden usar los modelos más potentes en sus dispositivos oficiales. El objetivo es proteger información privada y evitar problemas de seguridad informática. Cada herramienta de inteligencia artificial puede resumir documentos, escribir textos y analizar grandes cantidades de información. Sin embargo, también puede cometer errores o revelar datos sensibles. Por eso, las oficinas del Senado deben seguir normas especiales antes de probar estos programas. Algunos usuarios tienen acceso a servicios básicos, pero no a las versiones más avanzadas. Esta situación crea una diferencia entre el debate político y el uso diario de la tecnología. Los senadores quieren entender mejor la inteligencia artificial mientras preparan posibles leyes. El caso muestra que el Congreso debe decidir cómo usar una tecnología que todavía cambia rápidamente.",
+          "body_en": "While Congress debates new rules for artificial intelligence, the Senate is limiting access to advanced tools. Many lawmakers and employees cannot use the most powerful models on their official devices. The goal is to protect private information and avoid computer-security problems. Each artificial intelligence tool can summarize documents, write texts, and analyze large amounts of information. However, it can also make mistakes or reveal sensitive data. For this reason, Senate offices must follow special rules before testing these programs. Some users have access to basic services, but not to the most advanced versions. This situation creates a difference between the political debate and the daily use of technology. Senators want to understand artificial intelligence better while preparing possible laws. The case shows that Congress must decide how to use a technology that is still changing quickly.",
+          "source": "NPR"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Barkin ve una economía firme, pero advierte sobre la inflación y los aranceles",
+          "headline_en": "Barkin Sees a Firm Economy but Warns About Inflation and Tariffs",
+          "body_es": "El presidente de la Reserva Federal de Richmond, Thomas Barkin, ve señales de que la economía estadounidense puede estar fortaleciéndose. Dijo que las familias y las empresas todavía muestran una actividad bastante firme. Sin embargo, la inflación sigue siendo una preocupación importante para el banco central. Barkin explicó que el aumento de los precios no depende solamente de la energía. Los precios de otros productos y servicios también pueden mantener alta la inflación. Además, un arancel nuevo puede elevar el costo de los bienes importados. Ese efecto podría aparecer rápidamente, aunque algunos aumentos podrían ser temporales. Barkin señaló que la Reserva Federal necesita observar los datos antes de cambiar las tasas de interés. El banco busca controlar la inflación sin causar una caída fuerte del empleo. Sus comentarios muestran que las decisiones futuras dependerán de la economía y de los precios.",
+          "body_en": "The president of the Federal Reserve Bank of Richmond, Thomas Barkin, sees signs that the U.S. economy may be strengthening. He said families and businesses still show fairly firm activity. However, inflation remains an important concern for the central bank. Barkin explained that rising prices do not depend only on energy. Prices for other products and services can also keep inflation high. In addition, a new tariff can raise the cost of imported goods. That effect could appear quickly, although some increases could be temporary. Barkin said the Federal Reserve needs to watch the data before changing interest rates. The bank seeks to control inflation without causing a sharp drop in employment. His comments show that future decisions will depend on the economy and prices.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Nueva York supera al área de San Francisco en trabajadores tecnológicos",
+          "headline_en": "New York Surpasses San Francisco Bay Area in Tech Workers",
+          "body_es": "Un nuevo informe compara los mercados de talento tecnológico más importantes de Estados Unidos. Según sus datos, Nueva York superó al área de la bahía de San Francisco. Ahora, el mercado de Nueva York reúne la mayor fuerza laboral tecnológica del país. La ciudad cuenta con empleos de programación, datos, diseño y otros servicios digitales. El resultado cambia la imagen tradicional de Silicon Valley como centro tecnológico principal. San Francisco y sus ciudades cercanas todavía reúnen empresas famosas, inversiones y especialistas muy preparados. Nueva York también aprovecha sus sectores de finanzas, medios, salud y comercio. Esas industrias necesitan programas, servicios digitales y expertos en tecnología. El informe compara además los salarios, la educación y la capacidad de innovación regional. Ser el mercado más grande no significa ganar todas las categorías del estudio. Las dos regiones compiten por trabajadores, nuevas empresas y proyectos de inteligencia artificial. Para Nueva York, el resultado refuerza su posición como centro tecnológico nacional.",
+          "body_en": "A new report compares the most important technology talent markets in the United States. According to its data, New York surpassed the San Francisco Bay Area. Now, New York's market has the largest technology workforce in the country. The city has jobs in programming, data, design, and other digital services. The result changes Silicon Valley's traditional image as the main technology center. San Francisco and nearby cities still bring together famous companies, investments, and highly trained specialists. New York also benefits from its finance, media, health, and commerce sectors. These industries need software, digital services, and technology experts. The report also compares salaries, education, and the region's ability to innovate. Being the biggest market does not mean winning every category in the study. The two regions compete for workers, new companies, and artificial intelligence projects. For New York, the result strengthens its position as a national technology center.",
+          "source": "Fox Business"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Congreso",
+          "syllables": "con-GRE-so",
+          "pos": "sustantivo",
+          "context": "Mientras el Congreso debate nuevas reglas para la inteligencia artificial, el Senado limita el acceso a herramientas avanzadas.",
+          "definition_es": "Institución que debate y aprueba leyes en un país.",
+          "definition_en": "Congress; the institution that debates and approves laws."
+        },
+        {
+          "word": "acceso",
+          "syllables": "ac-CE-so",
+          "pos": "sustantivo",
+          "context": "Mientras el Congreso debate nuevas reglas para la inteligencia artificial, el Senado limita el acceso a herramientas avanzadas.",
+          "definition_es": "Posibilidad de entrar, usar o conseguir algo.",
+          "definition_en": "Access; the possibility of entering, using, or obtaining something."
+        },
+        {
+          "word": "herramienta",
+          "syllables": "he-rra-MIEN-ta",
+          "pos": "sustantivo",
+          "context": "Cada herramienta de inteligencia artificial puede resumir documentos, escribir textos y analizar grandes cantidades de información.",
+          "definition_es": "Objeto o programa que sirve para hacer un trabajo.",
+          "definition_en": "Tool; an object or program used to do a task."
+        },
+        {
+          "word": "inflación",
+          "syllables": "in-fla-CIÓN",
+          "pos": "sustantivo",
+          "context": "Sin embargo, la inflación sigue siendo una preocupación importante para el banco central.",
+          "definition_es": "Aumento general de los precios con el tiempo.",
+          "definition_en": "Inflation; a general increase in prices over time."
+        },
+        {
+          "word": "arancel",
+          "syllables": "a-ran-CEL",
+          "pos": "sustantivo",
+          "context": "Además, un arancel nuevo puede elevar el costo de los bienes importados.",
+          "definition_es": "Impuesto que se cobra a ciertos productos importados.",
+          "definition_en": "Tariff; a tax charged on certain imported products."
+        },
+        {
+          "word": "empleo",
+          "syllables": "em-PLE-o",
+          "pos": "sustantivo",
+          "context": "El banco busca controlar la inflación sin causar una caída fuerte del empleo.",
+          "definition_es": "Trabajo que una persona realiza, normalmente por un salario.",
+          "definition_en": "Employment or job; work that a person does, usually for pay."
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "Ahora, el mercado de Nueva York reúne la mayor fuerza laboral tecnológica del país.",
+          "definition_es": "Sector donde se ofrecen y se compran productos, servicios o trabajo.",
+          "definition_en": "Market; a sector where products, services, or labor are offered and bought."
+        },
+        {
+          "word": "talento",
+          "syllables": "ta-LEN-to",
+          "pos": "sustantivo",
+          "context": "Un nuevo informe compara los mercados de talento tecnológico más importantes de Estados Unidos.",
+          "definition_es": "Personas con habilidades especiales para una actividad o trabajo.",
+          "definition_en": "Talent; people with special skills for an activity or job."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "En la historia política, ¿qué es una herramienta de inteligencia artificial?",
+          "options": [
+            "Un programa que ayuda a realizar tareas",
+            "Un impuesto para productos importados",
+            "Un grupo de senadores",
+            "Una tasa de interés"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "En la historia económica, ¿qué es un arancel?",
+          "options": [
+            "Un impuesto sobre ciertos productos importados",
+            "Un tipo de empleo",
+            "Un programa de computadora",
+            "Una empresa tecnológica"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué significa empleo en la frase una caída fuerte del empleo?",
+          "options": [
+            "El precio de la energía",
+            "El acceso a una herramienta",
+            "El trabajo de las personas",
+            "La cantidad de leyes"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "En la historia tecnológica, ¿qué significa talento tecnológico?",
+          "options": [
+            "Dinero para comprar computadoras",
+            "Personas con habilidades para trabajos de tecnología",
+            "Una regla del Congreso",
+            "Un producto importado"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Por qué el Senado limita el acceso a las herramientas avanzadas de IA en la historia política?",
+          "options": [
+            "Para reducir el número de senadores",
+            "Para proteger información privada y evitar problemas de seguridad",
+            "Para cerrar empresas de tecnología",
+            "Para aumentar la inflación"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué pueden hacer las herramientas de inteligencia artificial mencionadas en la historia política?",
+          "options": [
+            "Resumir documentos, escribir textos y analizar información",
+            "Cambiar las tasas de interés",
+            "Crear nuevos aranceles",
+            "Elegir la ciudad con más trabajadores"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿Qué combinación describe la opinión de Barkin en la historia económica?",
+          "options": [
+            "La economía puede fortalecerse, pero la inflación sigue preocupando",
+            "La economía está cerrada y los precios bajan",
+            "La energía es el único problema económico",
+            "El empleo desaparecerá inmediatamente"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "Según la historia económica, ¿qué puede hacer un arancel nuevo?",
+          "options": [
+            "Reducir el costo de todos los bienes",
+            "Dar acceso a modelos de inteligencia artificial",
+            "Elevar el costo de los bienes importados",
+            "Aumentar la fuerza laboral de Nueva York"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Qué región fue superada por Nueva York en tamaño de fuerza laboral tecnológica?",
+          "options": [
+            "Richmond",
+            "El área de la bahía de San Francisco",
+            "Washington",
+            "Chicago"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué sectores ayudan a Nueva York a necesitar más expertos tecnológicos?",
+          "options": [
+            "Solo agricultura y pesca",
+            "Energía y transporte únicamente",
+            "Finanzas, medios, salud y comercio",
+            "Congreso y Reserva Federal"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-09-23T09:34:35.998900"
+    },
+    {
       "date": "2026-09-22",
       "filename": "spanish_lesson_2026-09-22.pdf",
       "path": "pdfs/spanish_lesson_2026-09-22.pdf",
@@ -61495,7 +61717,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-09-22T09:32:50.948740",
+  "last_updated": "2026-09-23T09:34:35.998961",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
