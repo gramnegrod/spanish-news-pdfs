@@ -1,11 +1,159 @@
 {
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25T09:16:06.912521Z",
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T09:16:00.020444Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1159,
+  "total_stories": 1163,
   "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20260926",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Investigadores del Instituto Terasaki reciben una ayuda del NIH para curar heridas",
+      "headline_en": "Terasaki Institute Researchers Receive an NIH Grant to Develop a Wound-Healing Platform",
+      "summary_es": "Varios investigadores del Instituto Terasaki recibieron una subvención NIH R01. El proyecto estudia una plataforma que regula la respuesta inmunitaria durante la curación de heridas.",
+      "body_es": "Varios investigadores del Instituto Terasaki recibieron una subvención R01 de los Institutos Nacionales de Salud (NIH). El equipo desarrollará una nueva plataforma para la curación de heridas. La plataforma busca controlar la respuesta inmunitaria en el lugar de la herida. Esta respuesta influye en la inflamación y la reparación del tejido. El proyecto está en una etapa de investigación. La noticia no informa resultados en pacientes todavía. El trabajo puede ser útil para heridas que tardan mucho en cerrar. Estas heridas incluyen algunas úlceras crónicas y lesiones después de una operación. Los investigadores observan cómo las células de defensa ayudan o dificultan la curación. El objetivo es crear un tratamiento más preciso en el futuro. Por ahora, los profesionales continúan con la evaluación, la limpieza y el vendaje habituales. La subvención permite avanzar en este trabajo del Instituto Terasaki.",
+      "body_en": "Several researchers at the Terasaki Institute received an R01 grant from the National Institutes of Health (NIH). The team will develop a new platform for wound healing. The platform aims to control the immune response at the wound site. This response influences inflammation and tissue repair. The project is at a research stage. The news does not yet report results in patients. The work may be useful for wounds that take a long time to close. These wounds include some chronic ulcers and injuries after an operation. The researchers observe how defense cells help or hinder healing. The goal is to create a more precise treatment in the future. For now, professionals continue with usual assessment, cleaning, and dressing. The grant allows this work at the Terasaki Institute to advance.",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yVS1QR0dpMjBCSTM5SWZRZU9HeEdTd0hwZkdaM3FNbURSbEJXaHZnZi00SDVINnN0RGlWYTFrU1pKeUNHN0pYMTlqSnlkbGJKRFFPQVlqQmduTEIz?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-26/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o en otro tejido",
+          "definition_en": "wound - injury to skin or other tissue"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "conjunto de células que forma una parte del cuerpo",
+          "definition_en": "tissue - group of cells forming part of the body"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método para cuidar o curar una enfermedad",
+          "definition_en": "treatment - method used to care for or cure an illness"
+        }
+      ],
+      "added_at": "2026-09-26T09:16:00.020444Z"
+    },
+    {
+      "id": "burn-care-20260926",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "Un estudio revisa diez años de quemaduras en adultos encarcelados",
+      "headline_en": "Study Reviews Ten Years of Burns in Incarcerated Adults",
+      "summary_es": "Una revisión retrospectiva de diez años analizó quemaduras en adultos encarcelados en un centro australiano de quemados de nivel cuaternario. El estudio ofrece datos sobre la atención especializada de esta población.",
+      "body_es": "Un equipo de un centro australiano de quemados de nivel cuaternario publicó una revisión retrospectiva de diez años sobre quemaduras en adultos encarcelados. Durante el periodo revisado, el centro recibía estos casos y registraba su atención. El estudio examinó los casos tratados en ese centro y describió las características de las lesiones, la atención recibida y los resultados clínicos. La noticia presenta una población que necesita atención especializada después de una quemadura. Por eso, la evaluación inicial debe registrar la profundidad, la extensión y la localización de cada lesión. El personal también debe revisar la piel cercana, el dolor, el edema y los signos de infección. Según la gravedad, el tratamiento puede incluir limpieza, apósitos, analgesia, desbridamiento o cirugía. Una escara profunda puede requerir valoración por especialistas en quemaduras. La revisión aporta datos de un centro australiano especializado, pero esos resultados no representan automáticamente a todos los sistemas penitenciarios. La atención debe mantener la comunicación entre el centro de quemados y los servicios de salud de la prisión. En el futuro, estos datos podrán orientar protocolos y facilitar la continuidad de la curación y el seguimiento.",
+      "body_en": "A team from an Australian quaternary burns center published a retrospective ten-year review of burns in incarcerated adults. During the reviewed period, the center was receiving these cases and recording their care. The study examined cases treated at that center and described injury characteristics, care received, and clinical outcomes. The news presents a population that needs specialized care after a burn. Therefore, the initial assessment should record the depth, extent, and location of each injury. Staff should also check the nearby skin, pain, edema, and signs of infection. Depending on severity, treatment may include cleansing, dressings, analgesia, debridement, or surgery. A deep eschar may require assessment by burn specialists. The review provides data from a specialized Australian center, but those results do not automatically represent all prison systems. Care should maintain communication between the burns center and prison health services. In the future, these data may guide protocols and support continuity of healing and follow-up.",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jbjdjeHpuSVcxLVd2MDAwLXNJLVktVG9YdlZpX0lTUGdCb2w3WFdYekxXR1hvODREeDVZLXk5bEZrMGpIN2h0NnRJZGNfSnZYOU1ra1NFc2tOQTZPRXI1ajZoT2o3Q2hUdXc?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-26/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión de la piel causada por calor u otra energía",
+          "definition_en": "burn - skin injury caused by heat or another energy"
+        },
+        {
+          "word": "piel",
+          "definition_es": "capa que cubre y protege el cuerpo",
+          "definition_en": "skin - layer that covers and protects the body"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto de una herida",
+          "definition_en": "debridement - removal of dead tissue from a wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "entrada y crecimiento de microbios dañinos en el cuerpo",
+          "definition_en": "infection - entry and growth of harmful microbes in the body"
+        }
+      ],
+      "added_at": "2026-09-26T09:16:00.020444Z"
+    },
+    {
+      "id": "surgical-wounds-20260926",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🩺",
+      "gradient": "blue",
+      "headline_es": "Cien casos de medicina deportiva no registraron complicaciones documentadas de heridas",
+      "headline_en": "One Hundred Sports Medicine Cases Had No Documented Wound Complications",
+      "summary_es": "Un comunicado de PR Newswire informó cero complicaciones documentadas en 100 casos consecutivos de medicina deportiva en los que se utilizaron Brijjit® Tissue Bridges. El resultado corresponde a una serie reportada y no a un ensayo comparativo.",
+      "body_es": "Un comunicado de PR Newswire informó resultados de 100 casos consecutivos de medicina deportiva en los que se utilizaron Brijjit® Tissue Bridges. En esa serie, no se documentaron complicaciones de la herida. La noticia presenta el dispositivo como una opción para el cierre de tejidos, pero no ofrece un ensayo aleatorizado ni un grupo de comparación. La serie reflejaba una experiencia concreta; por eso, no garantiza el mismo resultado en cada hospital. En una herida quirúrgica, el equipo debe realizar una evaluación antes y después del procedimiento. La valoración clínica incluye el tamaño de la lesión, el estado de la piel, el exudado, el eritema y los signos de infección. El profesional también debe comprobar la estabilidad de la sutura y la formación de la cicatriz. El seguimiento permite detectar dehiscencia, dolor o edema. Estos datos podrán orientar nuevas investigaciones sobre técnicas de cierre en medicina deportiva. Sin embargo, se necesitan estudios independientes y series más amplias para comparar el dispositivo con una sutura convencional. La comunicación ofrece una señal inicial, no una recomendación universal.",
+      "body_en": "A PR Newswire release reported results from 100 consecutive sports medicine cases in which Brijjit® Tissue Bridges were used. In that series, no wound complications were documented. The article presents the device as an option for tissue closure, but it does not provide a randomized trial or comparison group. The series reflected a specific experience; therefore, it does not guarantee the same result at every hospital. In a surgical wound, the team should perform an assessment before and after the procedure. Clinical evaluation includes lesion size, skin condition, exudate, erythema, and signs of infection. The professional should also check suture stability and scar formation. Follow-up can detect dehiscence, pain, or edema. These data may guide new research on closure techniques in sports medicine. However, independent studies and larger series are needed to compare the device with a conventional suture. The communication offers an initial signal, not a universal recommendation.",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaUNMaDhJMmlRTVFtM1BWd1hyQ242MnlkVS02em16RmxYclNYendvSURTVHIwUHVzZDJDMUtaTk5pU0JvaHNZanFpTFFfNlI5NjhDUnhsVWljOWM5QmVMczVzX2x2V2lxSC1DTVcyVFB4aHhMT0o5ZkhxaVZQQ01OMDlldGVXbl93eE9tTWc1WHNKNE9FM09zZW1YXzlPSVBXaU9XZ0sxcHZGTmJrS3BQdGV5R3NBVnU4eWR4ZzRFN0ZaZnpnR2E4U2RmT0g1VTdfOG4zbFpDR1M4czlsV0g0c0t2NDBiWk05cWVwd0JB?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-26/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o en otro tejido",
+          "definition_en": "wound - injury to the skin or another tissue"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "revisión del estado de una persona o lesión",
+          "definition_en": "assessment - review of a person's or wound's condition"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "material o técnica para cerrar una herida",
+          "definition_en": "suture - material or technique used to close a wound"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de una herida",
+          "definition_en": "scar - mark left after a wound"
+        }
+      ],
+      "added_at": "2026-09-26T09:16:00.020444Z"
+    },
+    {
+      "id": "wound-research-20260926",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Doernbecher celebra 100 años de atención e innovación pediátrica",
+      "headline_en": "Doernbecher Celebrates 100 Years of Pediatric Care and Innovation",
+      "summary_es": "OHSU Doernbecher Children's Hospital celebra un siglo de atención, curación e innovación. La noticia destaca la trayectoria del hospital y el valor de la investigación pediátrica.",
+      "body_es": "OHSU Doernbecher Children's Hospital celebra 100 años de atención, curación e innovación. La noticia presenta al hospital como un centro pediátrico con una larga trayectoria en asistencia, educación e investigación. Durante un siglo, sus equipos han trabajado con niños y familias que necesitaban atención especializada. Este aniversario también permite revisar cómo la investigación cambia la práctica clínica. En el cuidado de una lesión, los profesionales deben medir el tamaño, observar el tejido, registrar el exudado y valorar la epitelización. Una evaluación ordenada ayuda a comparar la evolución y a detectar infección, necrosis o isquemia. La experiencia de un hospital académico puede apoyar nuevos estudios y mejores protocolos, aunque la noticia no anuncia un ensayo específico sobre heridas. Para enfermería, el mensaje es claro: la innovación necesita datos, colaboración y seguimiento. En el futuro, los equipos podrán aplicar herramientas más precisas para estudiar la curación y reducir complicaciones. El centenario de Doernbecher recuerda que la investigación pediátrica se construye con atención continua y trabajo multidisciplinario.",
+      "body_en": "OHSU Doernbecher Children's Hospital celebrates 100 years of care, healing, and innovation. The news presents the hospital as a pediatric center with a long history in care, education, and research. For a century, its teams have worked with children and families needing specialized care. This anniversary also provides an opportunity to review how research changes clinical practice. In wound care, professionals should measure size, observe tissue, record exudate, and assess epithelialization. An organized assessment helps compare progress and detect infection, necrosis, or ischemia. The experience of an academic hospital can support new studies and better protocols, although the news does not announce a specific wound trial. For nursing, the message is clear: innovation needs data, collaboration, and follow-up. In the future, teams will be able to apply more precise tools to study healing and reduce complications. Doernbecher's centennial recalls that pediatric research is built through continuous care and multidisciplinary work.",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXkwQWFob0dJR1FrVmp1THMwYm43dFMzcXF5Nlo1VGJyaXFPSDZoT0lONjc2ZjVRUHBpMVdXSVZNUDdKZGJwRzNDdmtseVJ6X3EtRjhxRjRURDVPRXUzM1poZ0MxSTh2akRVWlY1QzVKeW4xenBLS3BINndaYm5ZYm1pdlZzNk1iMlhYcWctQksybHg2d2FKc1VBN1J3Q3ZVVmlGc3RCS3pXM1FNaFZ3TDB3?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-09-26/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "lesión",
+          "definition_es": "daño en la piel o en otra parte del cuerpo",
+          "definition_en": "lesion - damage to the skin or another body part"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "conjunto de células que forma una parte del cuerpo",
+          "definition_en": "tissue - group of cells forming part of the body"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "revisión del estado de una lesión o paciente",
+          "definition_en": "assessment - review of a wound or patient's condition"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida o lesión",
+          "definition_en": "healing - process of a wound or lesion getting better"
+        }
+      ],
+      "added_at": "2026-09-26T09:16:00.020444Z"
+    },
     {
       "id": "chronic-wounds-20260925",
       "category": "Chronic Wounds",
@@ -42884,6 +43032,6 @@
       ]
     }
   ],
-  "last_updated": "2026-09-25T09:16:06.912521Z",
+  "last_updated": "2026-09-26T09:16:00.020444Z",
   "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
 }
