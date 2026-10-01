@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-10-01",
+      "filename": "spanish_lesson_2026-10-01.pdf",
+      "path": "pdfs/spanish_lesson_2026-10-01.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "El Senado bloquea un plan sobre las acciones de congresistas",
+          "headline_en": "Senate Blocks Plan on Congress Members’ Stock Trading",
+          "body_es": "El Senado de Estados Unidos bloqueó un proyecto republicano para limitar las operaciones financieras de los miembros del Congreso. El proyecto quería impedir que los legisladores compraran o vendieran acciones individuales durante su mandato. La medida también habría afectado a sus cónyuges y a algunos familiares dependientes. Para avanzar, necesitaba una mayoría especial de votos, pero no consiguió suficiente apoyo. Los demócratas dijeron que la propuesta era demasiado limitada y necesitaba reglas más fuertes. También pidieron estudiar normas que incluyeran a más funcionarios y evitaran posibles conflictos de interés. Los republicanos respondieron que el Congreso debe dar un ejemplo claro al público. La votación muestra que existe apoyo general para la idea, pero no para este texto. El debate continuará, porque muchos ciudadanos creen que las inversiones de los políticos necesitan más transparencia. Por ahora, los miembros del Congreso pueden seguir comprando acciones bajo las reglas actuales.",
+          "body_en": "The US Senate blocked a Republican bill to limit financial trades by members of Congress. The bill would have stopped lawmakers from buying or selling individual stocks while in office. The measure would also have affected their spouses and some dependent family members. To move forward, it needed a special majority of votes, but it did not receive enough support. Democrats said the proposal was too limited and needed stronger rules. They also asked lawmakers to study rules covering more officials and preventing possible conflicts of interest. Republicans replied that Congress must set a clear example for the public. The vote shows there is general support for the idea, but not for this text. The debate will continue because many citizens believe politicians’ investments need more transparency. For now, members of Congress can continue buying stocks under the current rules.",
+          "source": "The Guardian"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "La economía estadounidense crece más de lo esperado en primavera",
+          "headline_en": "US Economy Grows More Than Expected in Spring",
+          "body_es": "Una nueva estimación indica que la economía de Estados Unidos creció a un ritmo anualizado del 2,2% durante la primavera. El resultado fue mejor que el cálculo inicial publicado por el gobierno. Los datos miden el producto interno bruto, conocido como PIB, durante ese trimestre. El gasto de los consumidores fue una de las principales razones del avance económico. Las familias compraron servicios y algunos productos, aunque muchas enfrentaron precios todavía altos. La inversión de las empresas y las exportaciones también ayudaron al crecimiento. Sin embargo, el informe no significa que todos los problemas económicos hayan desaparecido. Las tasas de interés, la inflación y la situación laboral siguen siendo importantes preocupaciones. Los economistas observarán si las personas mantienen su gasto en los próximos meses. Por ahora, la revisión presenta una economía más fuerte de lo que se pensaba.",
+          "body_en": "A new estimate says the US economy grew at an annualized rate of 2.2% during the spring. The result was better than the initial calculation published by the government. The data measure the gross domestic product, known as GDP, during that quarter. Consumer spending was one of the main reasons for the economic advance. Families bought services and some products, although many still faced high prices. Business investment and exports also helped growth. However, the report does not mean all economic problems have disappeared. Interest rates, inflation, and the labor situation remain important concerns. Economists will watch whether people maintain their spending in the coming months. For now, the revision presents an economy that is stronger than previously thought.",
+          "source": "CNN"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "China endurece el control sobre las relaciones con la inteligencia artificial",
+          "headline_en": "China Tightens Control over Relationships with Artificial Intelligence",
+          "body_es": "China ha empezado a regular con más fuerza la relación entre las personas y los sistemas de inteligencia artificial. Algunas aplicaciones permiten hablar con una pareja o un amigo virtual durante muchas horas. Las autoridades temen que los usuarios desarrollen una dependencia emocional de estas herramientas. También les preocupa el contenido peligroso y el efecto de estos servicios en los menores. Por eso, las empresas deben mejorar las advertencias, la protección infantil y el control de conversaciones. Algunas reglas piden que los programas reconozcan situaciones de crisis y orienten a los usuarios. China cree que una regulación rápida puede reducir daños antes de que el sector crezca más. Sus defensores dicen que el país está adelantado frente a Estados Unidos y Europa. Sus críticos responden que las normas pueden limitar la innovación y aumentar la censura. El debate continúa: proteger a las personas será tan importante como desarrollar mejores sistemas. El caso chino ofrece lecciones para otros gobiernos que todavía buscan una respuesta común.",
+          "body_en": "China has begun to regulate more strongly the relationship between people and artificial intelligence systems. Some apps let users talk with a virtual partner or friend for many hours. Authorities fear that users may develop emotional dependence on these tools. They are also concerned about dangerous content and the effect of these services on minors. For this reason, companies must improve warnings, child protection, and conversation controls. Some rules ask programs to recognize crisis situations and guide users. China believes quick regulation can reduce harm before the sector grows further. Supporters say the country is ahead of the US and Europe. Critics respond that the rules may limit innovation and increase censorship. The debate continues: protecting people will be as important as developing better systems. China’s case offers lessons for other governments still seeking a common response.",
+          "source": "BBC"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "senado",
+          "syllables": "se-NA-do",
+          "pos": "sustantivo",
+          "context": "El Senado de Estados Unidos bloqueó un proyecto republicano para limitar las operaciones financieras de los miembros del Congreso.",
+          "definition_es": "Cámara alta del Congreso de Estados Unidos.",
+          "definition_en": "Senate"
+        },
+        {
+          "word": "proyecto",
+          "syllables": "pro-YEC-to",
+          "pos": "sustantivo",
+          "context": "El proyecto quería impedir que los legisladores compraran o vendieran acciones individuales durante su mandato.",
+          "definition_es": "Plan o propuesta para hacer algo.",
+          "definition_en": "Project, proposal, or bill"
+        },
+        {
+          "word": "acciones",
+          "syllables": "ac-CIO-nes",
+          "pos": "sustantivo",
+          "context": "El proyecto quería impedir que los legisladores compraran o vendieran acciones individuales durante su mandato.",
+          "definition_es": "Partes de una empresa que se pueden comprar y vender.",
+          "definition_en": "Stocks or shares"
+        },
+        {
+          "word": "estimación",
+          "syllables": "es-ti-ma-CIÓN",
+          "pos": "sustantivo",
+          "context": "Una nueva estimación indica que la economía de Estados Unidos creció a un ritmo anualizado del 2,2% durante la primavera.",
+          "definition_es": "Cálculo aproximado de una cantidad o resultado.",
+          "definition_en": "Estimate"
+        },
+        {
+          "word": "gasto",
+          "syllables": "GAS-to",
+          "pos": "sustantivo",
+          "context": "El gasto de los consumidores fue una de las principales razones del avance económico.",
+          "definition_es": "Dinero que se usa para comprar algo.",
+          "definition_en": "Spending or expense"
+        },
+        {
+          "word": "crecimiento",
+          "syllables": "cre-ci-MIEN-to",
+          "pos": "sustantivo",
+          "context": "La inversión de las empresas y las exportaciones también ayudaron al crecimiento.",
+          "definition_es": "Aumento de una economía, una cantidad o una actividad.",
+          "definition_en": "Growth"
+        },
+        {
+          "word": "relación",
+          "syllables": "re-la-CIÓN",
+          "pos": "sustantivo",
+          "context": "China ha empezado a regular con más fuerza la relación entre las personas y los sistemas de inteligencia artificial.",
+          "definition_es": "Vínculo o conexión entre personas o cosas.",
+          "definition_en": "Relationship or connection"
+        },
+        {
+          "word": "regular",
+          "syllables": "re-gu-LAR",
+          "pos": "verbo",
+          "context": "China ha empezado a regular con más fuerza la relación entre las personas y los sistemas de inteligencia artificial.",
+          "definition_es": "Controlar una actividad mediante reglas.",
+          "definition_en": "To regulate"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué son las acciones en la primera historia?",
+          "options": [
+            "Partes de una empresa que se pueden comprar y vender",
+            "Reglas del Senado",
+            "Personas que trabajan en el Congreso",
+            "Impuestos sobre los productos"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es una estimación?",
+          "options": [
+            "Una decisión completamente final",
+            "Un cálculo aproximado",
+            "Una compra en una tienda",
+            "Una ley nueva"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "En la historia sobre tecnología, ¿qué significa regular?",
+          "options": [
+            "Aumentar la velocidad de un programa",
+            "Eliminar todas las aplicaciones",
+            "Controlar algo mediante reglas",
+            "Comprar acciones de una empresa"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa crecimiento en la historia económica?",
+          "options": [
+            "Una caída de los precios",
+            "Una discusión entre políticos",
+            "Una regla para las empresas",
+            "Un aumento de la economía o de una actividad"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "¿Qué ocurrió con el proyecto republicano de la historia política?",
+          "options": [
+            "Fue aprobado por unanimidad",
+            "Fue bloqueado porque no consiguió suficiente apoyo",
+            "Fue enviado a China para su estudio",
+            "Eliminó las reglas actuales inmediatamente"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué dijeron los demócratas sobre el proyecto del Senado?",
+          "options": [
+            "Que era demasiado limitado y necesitaba reglas más fuertes",
+            "Que ayudaba demasiado a la economía",
+            "Que protegía todas las aplicaciones de inteligencia artificial",
+            "Que debía aumentar las exportaciones"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "¿A qué ritmo anualizado creció la economía estadounidense en primavera?",
+          "options": [
+            "0,2%",
+            "1,2%",
+            "2,2%",
+            "5,2%"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué ayudó especialmente al crecimiento de la economía?",
+          "options": [
+            "El gasto de los consumidores",
+            "El bloqueo del proyecto del Senado",
+            "Las relaciones con amigos virtuales",
+            "La censura de las aplicaciones"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "¿Por qué quiere China controlar las relaciones con la inteligencia artificial?",
+          "options": [
+            "Para aumentar la compra de acciones",
+            "Para reducir la dependencia emocional y proteger a los menores",
+            "Para mejorar las exportaciones",
+            "Para eliminar el producto interno bruto"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué tensión aparece en la historia sobre China?",
+          "options": [
+            "Elegir entre consumidores y empresas",
+            "Elegir entre el Senado y la Cámara de Representantes",
+            "Proteger a las personas sin limitar demasiado la innovación",
+            "Elegir entre acciones y exportaciones"
+          ],
+          "answer": "C"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-10-01T09:38:47.291214"
+    },
+    {
       "date": "2026-09-30",
       "filename": "spanish_lesson_2026-09-30.pdf",
       "path": "pdfs/spanish_lesson_2026-09-30.pdf",
@@ -63271,7 +63493,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-09-30T09:37:35.626596",
+  "last_updated": "2026-10-01T09:38:47.291249",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
