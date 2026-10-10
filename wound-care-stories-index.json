@@ -1,11 +1,196 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T09:19:42.893463Z",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T09:15:17.580743Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1227,
+  "total_stories": 1232,
   "new_today": 5,
   "stories": [
+    {
+      "id": "chronic-wounds-20261010",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Una posible razón por la que las heridas diabéticas no sanan",
+      "headline_en": "A possible reason why diabetic wounds do not heal",
+      "summary_es": "Un estudio busca una causa biológica para las heridas diabéticas que tardan en cerrar. El hallazgo es inicial y todavía no presenta un tratamiento nuevo.",
+      "body_es": "Una noticia de ScienceDaily presenta una posible explicación. Habla de heridas diabéticas que tardan mucho en cerrar. La investigación estudia el proceso dentro de la herida. Con diabetes, la reparación de la piel puede cambiar. El equipo buscó una causa biológica del problema. El hallazgo todavía es inicial y no ofrece una cura. Tampoco presenta un tratamiento listo para pacientes. El personal debe hacer una evaluación frecuente. Debe medir la herida y observar el exudado. También debe revisar el tejido y los signos de infección. Una úlcera puede empeorar sin causar mucho dolor. El control de la glucosa sigue siendo importante. La limpieza y la protección ayudan durante la curación. Este trabajo puede apoyar nuevos tratamientos en el futuro.",
+      "body_en": "A ScienceDaily news report presents a possible explanation. It discusses diabetic wounds that take a long time to close. The research studies the process inside the wound. With diabetes, skin repair can change. The team looked for a biological cause of the problem. The finding is still early and does not offer a cure. It also does not present a treatment ready for patients. Staff should perform frequent assessment. They should measure the wound and observe exudate. They should also check the tissue and signs of infection. An ulcer can worsen without causing much pain. Blood glucose control remains important. Cleaning and protection help during healing. This work may support new treatments in the future.",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIVGJIUmhwMFlRSVdmM2JNT3NaZ3hVSUdZdzV4djhaZC1JRFItNHZ0cG5UZV9nbVNmUUVPTmpiVWRISFJJNzQzX0hDVW1uVW1sUmRUYU0tVmVjcnY2X2w0bk1vWHh5Qld1NFF3QnZMYw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-10/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o en otro tejido",
+          "definition_en": "wound - injury to the skin or another tissue"
+        },
+        {
+          "word": "tejido",
+          "definition_es": "grupo de células que forma una parte del cuerpo",
+          "definition_en": "tissue - group of cells forming part of the body"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método o cuidado para tratar una enfermedad",
+          "definition_en": "treatment - method or care used to treat an illness"
+        }
+      ],
+      "added_at": "2026-10-10T09:15:17.580743Z"
+    },
+    {
+      "id": "diabetic-foot-20261010",
+      "category": "Diabetic Foot",
+      "difficulty": "B1",
+      "emoji": "🦶",
+      "gradient": "orange",
+      "headline_es": "La edad y el sexo influyen en el riesgo del pie diabético",
+      "headline_en": "Age and sex influence diabetic foot risk",
+      "summary_es": "Una investigación comparó la edad, el sexo y la glucosa para estudiar el riesgo de úlceras del pie diabético. La glucosa no explicó por sí sola todo el riesgo.",
+      "body_es": "Bioengineer.org resume una investigación sobre el riesgo de úlcera del pie diabético. Los investigadores compararon tres factores: la edad, el sexo y la glucosa en sangre. El análisis mostró que la edad y el sexo tenían un papel importante. En cambio, la glucosa no explicó todo el riesgo. Una cifra alta de glucosa sigue siendo peligrosa, pero no calcula por sí sola el riesgo de una lesión. Por eso, la evaluación del pie debe ser completa. El personal debe revisar la piel, la sensibilidad, los pulsos y posibles signos de isquemia. También debe buscar callos, cambios de color, edema y exudado. Una úlcera pequeña puede crecer si el paciente no la nota. La educación, el calzado adecuado y las revisiones regulares ayudan a prevenir complicaciones. Si aparece una lesión, convendría medirla, protegerla y derivar al paciente según el protocolo local. En el futuro, estos datos podrán mejorar la evaluación del riesgo. El estudio no sustituye la valoración clínica individual, pero recuerda que el riesgo depende de varios factores, no solo de la glucosa.",
+      "body_en": "Bioengineer.org summarizes research on diabetic foot ulcer risk. Researchers compared three factors: age, sex, and blood glucose. The analysis showed that age and sex had important roles. In contrast, glucose did not explain all of the risk. A high glucose level remains dangerous, but it cannot calculate a person's risk of a lesion by itself. Therefore, foot assessment should be comprehensive. Staff should check the skin, sensation, pulses, and possible signs of ischemia. They should also look for calluses, color changes, edema, and exudate. A small ulcer may grow if the patient does not notice it. Education, proper footwear, and regular checkups help prevent complications. If a lesion appears, it would be advisable to measure it, protect it, and refer the patient according to the local protocol. In the future, these data may improve risk assessment. The study does not replace individual clinical assessment, but it reminds us that risk depends on several factors, not only glucose.",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEFWN2VMbEdKOHB2YXRyNl9FR0c0alJoal9nTGhScS1yQzZLbWVKM01MMG4xc0xxYmhBX2tFVVhpTC1nZW5zd2lxWGg2NmVWMWthNVIwQVk2YzZwWXowMkpqMjJxdkNRVVc5ZVZMTS1Cd2tnZnE3bjlJbEVvMFB1ajVfVzhvZzdNSDlMWG9Wc1U2dUg1VGZGUHR3RW5hdDFFN0dfcFp4bw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-10/diabetic-foot.mp3",
+      "key_vocabulary": [
+        {
+          "word": "úlcera",
+          "definition_es": "herida abierta que tarda en sanar",
+          "definition_en": "ulcer - open sore that heals slowly"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "revisión del estado de una persona o herida",
+          "definition_en": "assessment - review of a person's or wound's condition"
+        },
+        {
+          "word": "isquemia",
+          "definition_es": "falta de flujo sanguíneo en un tejido",
+          "definition_en": "ischemia - lack of blood flow to tissue"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes out of a wound"
+        }
+      ],
+      "added_at": "2026-10-10T09:15:17.580743Z"
+    },
+    {
+      "id": "burn-care-20261010",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "red",
+      "headline_es": "Una inyección sencilla puede mejorar la toma de los injertos de piel",
+      "headline_en": "A simple injection may improve skin graft take",
+      "summary_es": "Una técnica inyecta líquido en el sitio donante para ayudar a que los injertos de piel se adhieran mejor. La noticia también describe una curación más rápida de las heridas.",
+      "body_es": "Bioengineer.org describe una técnica para mejorar los injertos de piel. El método usa una inyección sencilla de líquido en el sitio donante. Esta zona es el lugar donde el equipo obtiene piel para cubrir otra herida. Al inflar el sitio, los investigadores buscan preparar mejor la superficie y ayudar a que el injerto se adhiera. El objetivo principal era mejorar la toma del injerto y acelerar la reparación. Según la noticia, el procedimiento consiguió una integración más firme y una curación más rápida. El equipo también valoró el cierre de la herida y la epitelización. La técnica podría ser útil cuando una quemadura necesita cobertura y hay poca piel disponible. Sin embargo, la información describe una investigación, no un protocolo universal. El personal debe evaluar el sitio donante, controlar el dolor y proteger la zona después de la operación. También debe vigilar infección, sangrado y pérdida del injerto. Los próximos estudios tendrán que confirmar su seguridad y sus beneficios. La técnica ofrece una opción simple para mejorar la cirugía reconstructiva.",
+      "body_en": "Bioengineer.org describes a technique to improve skin grafts. The method uses a simple fluid injection in the donor site. This area is where the team obtains skin to cover another wound. By inflating the site, the researchers aim to prepare the surface better and help the graft adhere. The main objective was to improve graft take and speed repair. According to the report, the procedure produced firmer integration and faster healing. The team also assessed wound closure and epithelialization. The technique could be useful when a burn needs coverage and little skin is available. However, the information describes research, not a universal protocol. Staff should assess the donor site, control pain, and protect the area after surgery. They should also monitor infection, bleeding, and graft loss. Future studies will need to confirm its safety and benefits. The technique offers a simple option for improving reconstructive surgery.",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeElCNVlidUJQZDJTNjBUZVZidzlqYkRtWnIwUXloRC1sTmVhamVaLVE0UG9rc3pIT0puNzJ4Zks3clA2YmdCUjRYTHdLTHRqRzllckRpMnA3SnR6ZjVScmE5aHZUS2pMRXRFT19WSkFkeU1DSGdteFZrVi1iXzZxRlpha1oyUWJFRk5XY2p3T3VJUk5GdHVFQk1RN1A4RXJzV3ZBX2NwUFR3U1VCdDVmdTdLSVFsWmtCNWMxRkpUZUYyZw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-10/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, fuego o sustancias químicas",
+          "definition_en": "burn - injury caused by heat, fire, or chemicals"
+        },
+        {
+          "word": "injerto",
+          "definition_es": "piel o tejido colocado para cubrir una herida",
+          "definition_en": "graft - skin or tissue placed to cover a wound"
+        },
+        {
+          "word": "epitelización",
+          "definition_es": "formación de piel nueva sobre una herida",
+          "definition_en": "epithelialization - growth of new skin over a wound"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida",
+          "definition_en": "healing - process of a wound getting better"
+        }
+      ],
+      "added_at": "2026-10-10T09:15:17.580743Z"
+    },
+    {
+      "id": "surgical-wounds-20261010",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🧵",
+      "gradient": "purple",
+      "headline_es": "Cureus describe siete infecciones posoperatorias en el este de India",
+      "headline_en": "Cureus describes seven postoperative infections in eastern India",
+      "summary_es": "Una serie publicada en Cureus describe siete casos de infección por Mycobacterium fortuitum después de procedimientos en el este de India. El informe destaca la importancia de cultivos específicos.",
+      "body_es": "Una serie publicada por Cureus describe siete casos de infección por Mycobacterium fortuitum después de procedimientos en el este de India. Esta bacteria es una micobacteria no tuberculosa y de crecimiento rápido. El informe muestra que una herida quirúrgica puede mantener signos de infección durante mucho tiempo. Los casos necesitaron cultivos específicos para identificar el microorganismo. La infección podía parecer una complicación común, pero no respondía bien a los antibióticos habituales. El equipo destaca la importancia de tomar muestras profundas cuando la herida no mejora. La evaluación debe incluir la piel, el exudado y la evolución de la sutura. Si existe necrosis, el cirujano puede valorar desbridamiento y ajustar el tratamiento según el cultivo. La comunicación entre enfermería, cirugía, microbiología e infectología ayudaría a reducir retrasos. Esta serie no representa a todos los pacientes, pero alerta sobre una causa poco frecuente de infección posoperatoria. Los profesionales deberían revisar los antecedentes del procedimiento y vigilar la herida durante la curación.",
+      "body_en": "A series published by Cureus describes seven cases of infection with Mycobacterium fortuitum after procedures in eastern India. This bacterium is a rapidly growing nontuberculous mycobacterium. The report shows that a surgical wound can maintain signs of infection for a long time. The cases required specific cultures to identify the microorganism. The infection could look like a common complication, but it did not respond well to usual antibiotics. The team highlights the importance of taking deep samples when a wound does not improve. Assessment should include the skin, exudate, and the condition of the suture. If necrosis is present, the surgeon may consider debridement and adjust treatment according to the culture. Communication among nursing, surgery, microbiology, and infectious disease teams would help reduce delays. This series does not represent all patients, but it alerts clinicians to an uncommon cause of postoperative infection. Professionals should review the procedure history and monitor the wound during healing.",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakxoVU1OY1NDellMWmhsVHdQclR2WnJCbWxUTDNRRjV2aEowMWViT0tyY3gydnZxc0lvZnpLSWNCTk5TcFQxT0YyRzRlS2t4SWVqcUNDTnBaNUpwVVk0TGJEcGUzX000NmdjWFRkZHYzZG5YTktkeHU2RnNCMWZGX3lPUzk0b3NNby0yMm1sYmVNTUJIcU91QzYxV1NrTUxYRTRySVlxTkdLY3JPRkljeTFBcWZHREg1bjhfSEJSX2NBQzNvWF9ybVpYSjYycm1sZFZnLU00U1k?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-10/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección",
+          "definition_es": "entrada y crecimiento de microorganismos dañinos",
+          "definition_en": "infection - entry and growth of harmful microorganisms"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "material o técnica para cerrar una herida",
+          "definition_en": "suture - material or technique used to close a wound"
+        },
+        {
+          "word": "necrosis",
+          "definition_es": "muerte de células o tejido",
+          "definition_en": "necrosis - death of cells or tissue"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "eliminación de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        }
+      ],
+      "added_at": "2026-10-10T09:15:17.580743Z"
+    },
+    {
+      "id": "wound-research-20261010",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "blue",
+      "headline_es": "El estudio SPIN explora el cuidado del suelo pélvico",
+      "headline_en": "The SPIN study explores pelvic floor care",
+      "summary_es": "La Universidad de Miami presenta el estudio SPIN sobre el cuidado del suelo pélvico en mujeres con cáncer de vejiga. La investigación puede aportar información para una atención más coordinada.",
+      "body_es": "La Universidad de Miami informó sobre el estudio SPIN, que explora la atención del suelo pélvico en mujeres con cáncer de vejiga. La noticia describe una investigación clínica, no resultados finales ni un protocolo universal. El proyecto examina cómo la atención del suelo pélvico puede acompañar el tratamiento oncológico. Esta zona se relaciona con el control urinario y la función física, por lo que sus problemas pueden afectar la recuperación. Para los profesionales, la evaluación debe considerar síntomas, dolor, movilidad y efectos del tratamiento. Aunque SPIN no estudia directamente una herida cutánea, su enfoque recuerda la importancia del trabajo interdisciplinario. Si existe una lesión quirúrgica, enfermería debe observar la piel, el tejido y la curación según el protocolo local. Oncología, rehabilitación y enfermería podrían compartir información. En el futuro, los resultados del estudio ayudarán a definir qué pacientes necesitan apoyo especializado. Esta investigación amplía la conversación sobre los cuidados después del cáncer de vejiga.",
+      "body_en": "The University of Miami reported on the SPIN study, which explores pelvic floor care for women with bladder cancer. The article describes clinical research, not final results or a universal protocol. The project examines how pelvic floor care can accompany cancer treatment. This area is related to urinary control and physical function, so its problems may affect recovery. For professionals, assessment should consider symptoms, pain, mobility, and treatment effects. Although SPIN does not directly study a skin wound, its approach highlights the importance of interdisciplinary work. If a patient has a surgical lesion, nursing staff should observe the skin, tissue, and healing according to local protocol. Oncology, rehabilitation, and nursing could share information. In the future, the study's results will help define which patients need specialized support. This research broadens the discussion of care after bladder cancer.",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWJ6R3ZBaXE0d25VRUQwMUs3YU1iQllMZ1pnNENLUzNKRVg0dFk3ZFBMUkpVOTNxZ3dqcVBEbnlJNWxPVXE3UEpKZ3EycS1OX243bUJtekxtcU9sZkt0XzFCSGxTUHhWSGZrY3VsbkcwdkJEUkM1eFRNUDN0WkwyaURHNDBvandBT2dFLTI2TjdCRnlwQU1xNDd0aw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-10/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "evaluación",
+          "definition_es": "revisión del estado de una persona o herida",
+          "definition_en": "assessment - review of a person's or wound's condition"
+        },
+        {
+          "word": "tratamiento",
+          "definition_es": "método o cuidado para tratar una enfermedad",
+          "definition_en": "treatment - method or care used to treat an illness"
+        },
+        {
+          "word": "lesión",
+          "definition_es": "daño en la piel, un órgano o un tejido",
+          "definition_en": "lesion - injury to the skin, an organ, or tissue"
+        },
+        {
+          "word": "curación",
+          "definition_es": "proceso de sanar una herida o lesión",
+          "definition_en": "healing - process of repairing a wound or injury"
+        }
+      ],
+      "added_at": "2026-10-10T09:15:17.580743Z"
+    },
     {
       "id": "chronic-wounds-20261009",
       "category": "Chronic Wounds",
@@ -45400,6 +45585,6 @@
       ]
     }
   ],
-  "last_updated": "2026-10-09T09:19:42.893463Z",
+  "last_updated": "2026-10-10T09:15:17.580743Z",
   "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
 }
