@@ -1,225 +1,225 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T09:18:36.984819Z",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T09:18:29.166087Z",
   "description": "Daily conversation stories for Spanish practice",
   "stories": [
     {
-      "id": "tech-20261010",
+      "id": "tech-20261011",
       "category": "Tecnología",
       "difficulty": "A2",
       "emoji": "🤖",
       "gradient": "blue",
-      "headline_es": "Agentes de Anthropic intentan llenar formularios de visa",
-      "headline_en": "Anthropic Agents Try to Fill Out Visa Forms",
-      "summary_es": "Anthropic probó agentes de inteligencia artificial en la página del Departamento de Estado de Estados Unidos. Los programas intentaron llenar formularios de visa y mostraron nuevos retos de seguridad.",
-      "body_es": "Anthropic, una empresa de inteligencia artificial, probó agentes digitales en la página web del Departamento de Estado de Estados Unidos. Los agentes intentaron llenar formularios para visas. La noticia no anuncia una visa automática.\n\nUn agente de IA es un programa que realiza tareas. Puede abrir una página, leer preguntas y escribir respuestas. En este caso, el experimento muestra una nueva capacidad de estos programas.\n\nLa prueba plantea preguntas sobre seguridad y responsabilidad. Un formulario de visa contiene información personal importante. Por eso, una empresa debe revisar el trabajo del agente antes de enviarlo. Las personas todavía necesitan controlar los datos y tomar decisiones finales.\n\nEl caso también muestra que la IA sale de los chats normales. Ahora intenta hacer tareas prácticas en sitios oficiales. Anthropic y otras empresas trabajan para mejorar estos sistemas. El debate continúa sobre sus límites y su uso responsable.",
-      "body_en": "Anthropic, an artificial intelligence company, tested digital agents on the website of the United States Department of State. The agents tried to fill out visa forms. The report is not about an automatic visa.\n\nAn AI agent is a program that performs tasks. It can open a page, read questions, and write answers. In this case, the experiment shows a new ability of these programs.\n\nThe test raises questions about safety and responsibility. A visa form contains important personal information. Therefore, a company must review the agent’s work before sending it. People still need to control the data and make final decisions.\n\nThe case also shows that AI is moving beyond normal chats. It now tries to perform practical tasks on official websites. Anthropic and other companies are working to improve these systems. The debate continues about their limits and responsible use.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-10/tech.mp3",
+      "headline_es": "La inteligencia artificial domina la Tech Week de San Francisco",
+      "headline_en": "Artificial intelligence dominates San Francisco Tech Week",
+      "summary_es": "En la San Francisco Tech Week, los participantes hablan de cómo la IA cambia el trabajo, la creatividad y la seguridad. También debaten sus riesgos y sus usos diarios.",
+      "body_es": "En San Francisco, la inteligencia artificial es el tema principal de la Tech Week. Durante esta reunión, personas de empresas, universidades y nuevas compañías hablan sobre su futuro. En los encuentros aparecen tres temas: el trabajo, la seguridad y la creatividad.\n\nMuchos participantes dicen que la IA ya ayuda a escribir, crear imágenes y ordenar información. También hablan de sus problemas. Los trabajadores preguntan cómo cambia su empleo. Las empresas buscan reglas claras y datos seguros. Algunas personas creen que esta herramienta permite trabajar más rápido. Otras revisan cada respuesta antes de usarla.\n\nLa semana muestra una idea importante. La inteligencia artificial no es solo un producto para expertos. También cambia la forma de trabajar y aprender. El debate continúa en San Francisco, una ciudad famosa por sus empresas de tecnología. NPR informa sobre las ideas que aparecen en estos encuentros.",
+      "body_en": "In San Francisco, artificial intelligence is the main topic of Tech Week. During this gathering, people from companies, universities, and new companies talk about its future. Three topics appear in the meetings: work, safety, and creativity.\n\nMany participants say AI already helps write, create images, and organize information. They also talk about its problems. Workers ask how it changes their jobs. Companies seek clear rules and safe data. Some people believe this tool allows them to work faster. Others check each answer before using it.\n\nThe week shows an important idea. Artificial intelligence is not only a product for experts. It also changes the way people work and learn. The debate continues in San Francisco, a city famous for its technology companies. NPR reports on the ideas that appear in these meetings.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-11/tech.mp3",
       "key_vocabulary": [
         {
-          "word": "agentes",
-          "definition_es": "Programas que realizan tareas.",
-          "definition_en": "Programs that perform tasks."
+          "word": "reunión",
+          "definition_es": "Encuentro de personas para hablar o trabajar.",
+          "definition_en": "A gathering of people to talk or work."
         },
         {
-          "word": "formularios",
-          "definition_es": "Documentos con preguntas para completar.",
-          "definition_en": "Documents with questions to complete."
+          "word": "empleo",
+          "definition_es": "Trabajo que tiene una persona.",
+          "definition_en": "A job that a person has."
         },
         {
-          "word": "visas",
-          "definition_es": "Permisos para entrar en otro país.",
-          "definition_en": "Permits to enter another country."
+          "word": "herramienta",
+          "definition_es": "Objeto o recurso que ayuda a hacer algo.",
+          "definition_en": "An object or resource that helps do something."
         },
         {
-          "word": "responsabilidad",
-          "definition_es": "Deber de responder por una acción.",
-          "definition_en": "The duty to answer for an action."
+          "word": "respuesta",
+          "definition_es": "Información que se da a una pregunta.",
+          "definition_en": "Information given to a question."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-10/tech-podcast.mp3",
-      "podcast_transcript": "LAURA: ¡Oye, Carlos! ¿Viste esto? Anthropic puso agentes de IA a llenar formularios de visa en la web del Departamento de Estado. ¡No manches!  \nCARLOS: ¿En serio? O sea, la IA ya anda de godín, pero digital.  \nLAURA: Sí, pero ojo: no es “visa automática”. No se emocionen, raza.  \nCARLOS: Ajá, más bien es que el agente puede abrir la página, leer preguntas y teclear respuestas. Como asistente bien aplicado.  \nLAURA: ¡Qué padre… y qué miedito! Porque ahí metes datos súper personales.  \nCARLOS: Exacto. ¿Y si se equivoca o manda algo raro? La empresa tiene que revisar antes de enviar.  \nLAURA: Total, todavía nos toca a nosotros decidir y confirmar todo. Nada de “ahí te lo dejo, robot”.  \nCARLOS: Lo interesante es que la IA ya salió del chat. Ahora hace tareas reales en sitios oficiales.  \nLAURA: Sí, como que ya está tocando puertas… literalmente.  \nCARLOS: Próximo episodio: “IA haciendo fila en el consulado”.  \nLAURA: Jajaja, con cafecito y todo. ¡Que no se le olvide la foto tamaño pasaporte!"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-11/tech-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste que en la Tech Week de San Francisco la IA ya se robó el show?  \nCARLOS: Sí, güey. Es como “IA Week” oficialmente. ¿En serio no hablan de otra cosa?  \nLAURA: Dicen que los temas que más salen son trabajo, seguridad y creatividad. O sea… lo básico de la vida moderna.  \nCARLOS: Lo del trabajo me pega. Imagínate: “Hola, soy tu reemplazo, pero en forma de chatbot”.  \nLAURA: ¡No manches! Pero también dicen que ayuda cañón: escribir, hacer imágenes, ordenar info…  \nCARLOS: Ajá, pero luego la gente revisa todo antes de usarlo. O sea, “te creo… pero tantito”.  \nLAURA: Y las empresas: “Queremos reglas claras y datos seguros”. Suena a “sí la uso, pero con cinturón”.  \nCARLOS: Me late que ya no es cosa de expertos; está cambiando cómo trabajamos y aprendemos.  \nLAURA: Total. Aunque yo solo quiero que me haga la tarea y no me delate.  \nCARLOS: Jajaja, tú dale, pero revisa… no vaya a inventarte bibliografía de Hogwarts."
     },
     {
-      "id": "sports-20261010",
+      "id": "sports-20261011",
       "category": "Deportes",
       "difficulty": "A2",
       "emoji": "⚽",
       "gradient": "green",
-      "headline_es": "Maryland, número 7, juega contra Michigan State, número 19",
-      "headline_en": "No. 7 Maryland Plays No. 19 Michigan State",
-      "summary_es": "El equipo masculino de Maryland, número 7, juega contra Michigan State, número 19. El encuentro promete una competencia importante en la temporada universitaria.",
-      "body_es": "El equipo masculino de fútbol de Maryland juega contra Michigan State. Maryland aparece en el puesto número 7 del país. Michigan State ocupa el puesto número 19. Por eso, el partido reúne a dos equipos muy fuertes.\n\nEl encuentro forma parte de la temporada universitaria. Los dos programas buscan una victoria importante. Maryland necesita controlar el balón y crear oportunidades. Michigan State puede responder con una defensa organizada. Cada equipo tiene jugadores rápidos y mucha energía.\n\nLos aficionados pueden esperar un partido intenso en el campus de Maryland. El resultado puede cambiar la posición de los equipos en la clasificación. También puede ayudar a un equipo durante la parte final de la temporada. La previa presenta el encuentro como una prueba importante para ambos grupos. Los entrenadores preparan planes sencillos: atacar con cuidado y defender juntos.",
-      "body_en": "Maryland’s men’s soccer team plays against Michigan State. Maryland is ranked No. 7 in the country. Michigan State is ranked No. 19. For that reason, the match brings together two very strong teams.\n\nThe game is part of the college season. Both programs are looking for an important victory. Maryland needs to control the ball and create opportunities. Michigan State can respond with an organized defense. Each team has fast players and a lot of energy.\n\nFans can expect an intense match on Maryland’s campus. The result can change the teams’ position in the rankings. It can also help a team during the final part of the season. The preview presents the match as an important test for both groups. The coaches are preparing simple plans: attack carefully and defend together.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-10/sports.mp3",
+      "headline_es": "UAB prepara su partido de fútbol contra FIU",
+      "headline_en": "UAB prepares for its soccer match against FIU",
+      "summary_es": "UAB prepara su partido de fútbol masculino contra FIU. La previa destaca la defensa, los pases y la necesidad de mantener energía durante 90 minutos.",
+      "body_es": "El equipo masculino de fútbol de UAB prepara un partido contra FIU. UAB Athletics publica una previa con información sobre este encuentro. Los Blazers de UAB juegan contra los Panthers de Florida International University. UAB representa a la Universidad de Alabama en Birmingham, en Estados Unidos.\n\nEl partido tiene dos partes de 45 minutos. Por eso, cada equipo necesita energía desde el inicio. UAB practica pases, tiros y defensa durante los entrenamientos. FIU también prepara su estrategia para el encuentro.\n\nLos jugadores quieren controlar el balón y crear oportunidades. La defensa será importante cerca de la portería. Los aficionados esperan un partido rápido y emocionante. La previa no anuncia un resultado, porque el juego todavía no empieza. Después de 90 minutos, el marcador mostrará qué equipo fue mejor.",
+      "body_en": "The UAB men's soccer team is preparing for a match against FIU. UAB Athletics has published a preview with information about this game. The UAB Blazers will play against the Florida International University Panthers. UAB represents the University of Alabama at Birmingham in the United States.\n\nThe match has two 45-minute halves. For this reason, each team needs energy from the beginning. UAB practices passes, shots, and defense during training. FIU is also preparing its strategy for the match.\n\nThe players want to control the ball and create opportunities. Defense will be important near the goal. Fans expect a fast and exciting match. The preview does not announce a result because the game has not started yet. After 90 minutes, the scoreboard will show which team played better.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-11/sports.mp3",
       "key_vocabulary": [
         {
-          "word": "encuentro",
-          "definition_es": "Partido o competencia entre dos equipos.",
-          "definition_en": "A game or competition between two teams."
+          "word": "previa",
+          "definition_es": "Información que aparece antes de un partido.",
+          "definition_en": "Information that appears before a match."
         },
         {
-          "word": "puesto",
-          "definition_es": "Lugar de un equipo en una lista.",
-          "definition_en": "A team’s place on a list."
+          "word": "pases",
+          "definition_es": "Movimientos para enviar el balón a un compañero.",
+          "definition_en": "Moves used to send the ball to a teammate."
         },
         {
           "word": "defensa",
-          "definition_es": "Acciones para evitar que el rival marque.",
-          "definition_en": "Actions to stop the opponent from scoring."
+          "definition_es": "Acción de proteger la propia portería.",
+          "definition_en": "The action of protecting one's own goal."
         },
         {
-          "word": "clasificación",
-          "definition_es": "Lista que muestra la posición de los equipos.",
-          "definition_en": "A list showing teams’ positions."
+          "word": "marcador",
+          "definition_es": "Resultado que muestra los goles de un partido.",
+          "definition_en": "The score showing the goals in a match."
         }
       ]
     },
     {
-      "id": "culture-20261010",
+      "id": "culture-20261011",
       "category": "Cultura",
       "difficulty": "B1",
       "emoji": "🎬",
       "gradient": "purple",
-      "headline_es": "Una película explora la cultura de los refrescos en Utah",
-      "headline_en": "A Film Explores Utah’s Soda Culture",
-      "summary_es": "La película Saints + Sodas explora por qué las tiendas de refrescos son tan populares en Utah. También presenta la bebida conocida como «dirty soda».",
-      "body_es": "Una nueva película llamada Saints + Sodas explora la cultura de los refrescos en Utah. El filme presenta una costumbre que muchas personas conocen como «dirty soda»: mezclar refresco con jarabes, crema u otros sabores. Estas bebidas se venden en tiendas especializadas y también aparecen en reuniones familiares y sociales.\n\nLa película conecta esta tendencia con la vida cultural de Utah. Allí, las tiendas de refrescos se han convertido en lugares populares para reunirse. Antes, muchas eran pequeños negocios locales. En vez de centrarse solamente en la bebida, la producción pregunta por qué este negocio creció tanto y qué dice sobre la comunidad.\n\nEl filme también muestra cómo una costumbre local puede transformarse en una industria reconocida. Las redes sociales ayudaron a difundir las mezclas fuera del estado. Ahora, personas de otras regiones conocen expresiones como «dirty soda» y visitan estos negocios cuando viajan.\n\nSaints + Sodas ofrece una mirada entretenida a una parte particular de la cultura popular estadounidense. Si la tendencia continúa, más ciudades abrirán tiendas parecidas y adaptarán las recetas a sus propios gustos.",
-      "body_en": "A new film called Saints + Sodas explores Utah’s soda culture. The film presents a custom that many people know as “dirty soda”: mixing soda with syrups, cream, or other flavors. These drinks are sold in specialty shops and also appear at family and social gatherings.\n\nThe film connects this trend with Utah’s cultural life. There, soda shops have become popular places to meet. In the past, many were small local businesses. Instead of focusing only on the drink, the production asks why this business grew so much and what it says about the community.\n\nThe film also shows how a local custom can become a recognized industry. Social media helped spread the mixtures outside the state. Now, people from other regions know expressions such as “dirty soda” and visit these businesses when they travel.\n\nSaints + Sodas offers an entertaining look at a particular part of American popular culture. If the trend continues, more cities will open similar shops and adapt the recipes to their own tastes.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-10/culture.mp3",
+      "headline_es": "The Pitt lidera los primeros premios de Artes y Cultura de la Discapacidad",
+      "headline_en": "The Pitt leads the first Disability Arts and Culture Awards",
+      "summary_es": "The Pitt encabezó la lista de ganadores de los primeros DARCYS, los premios de Easterseals para las artes y la cultura relacionadas con la discapacidad. Horsegirls y All Her Fault también fueron reconocidas.",
+      "body_es": "La primera edición de los Premios de Artes y Cultura de la Discapacidad, conocidos como DARCYS, ya tiene sus ganadores. Easterseals organizó estos premios para reconocer obras y profesionales que presentan la discapacidad de una manera más visible y respetuosa.\n\nLa serie The Pitt encabezó la lista de ganadores. También recibieron reconocimiento Horsegirls y All Her Fault, dos producciones que aparecen entre los títulos destacados. La noticia llamó la atención porque la ceremonia amplía la conversación sobre quién cuenta historias culturales y cómo las cuenta.\n\nDurante mucho tiempo, muchas personas con discapacidad tenían poca representación en la televisión y en otros medios. Estos premios muestran que el panorama estaba cambiando. En las próximas ediciones, el público podrá conocer más proyectos y artistas. Si los DARCYS mantienen este objetivo, otros creadores tendrán una oportunidad para presentar experiencias diferentes.\n\nPara Easterseals, el reconocimiento no solo celebra obras concretas. También anima a la industria cultural a incluir voces diversas desde el comienzo de cada proyecto.",
+      "body_en": "The first edition of the Disability Arts and Culture Awards, known as the DARCYS, now has its winners. Easterseals organized these awards to recognize works and professionals that present disability in a more visible and respectful way.\n\nThe series The Pitt led the list of winners. Horsegirls and All Her Fault also received recognition, and both productions appear among the highlighted titles. The news drew attention because the ceremony broadens the conversation about who tells cultural stories and how they tell them.\n\nFor a long time, many people with disabilities had little representation on television and in other media. These awards show that the landscape was changing. In future editions, the public will be able to learn about more projects and artists. If the DARCYS maintain this goal, other creators will have an opportunity to present different experiences.\n\nFor Easterseals, the recognition does not only celebrate specific works. It also encourages the cultural industry to include diverse voices from the beginning of each project.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-11/culture.mp3",
       "key_vocabulary": [
         {
-          "word": "jarabes",
-          "definition_es": "Líquidos dulces para añadir sabor.",
-          "definition_en": "Sweet liquids used to add flavor."
+          "word": "ganadores",
+          "definition_es": "Personas u obras que reciben un premio.",
+          "definition_en": "People or works that receive an award."
         },
         {
-          "word": "tendencia",
-          "definition_es": "Costumbre o idea que se vuelve popular.",
-          "definition_en": "A custom or idea that becomes popular."
+          "word": "discapacidad",
+          "definition_es": "Condición que puede afectar las actividades de una persona.",
+          "definition_en": "A condition that can affect a person's activities."
         },
         {
-          "word": "comunidad",
-          "definition_es": "Grupo de personas que comparte un lugar o una cultura.",
-          "definition_en": "A group of people sharing a place or culture."
+          "word": "representación",
+          "definition_es": "Presencia de un grupo o una experiencia en los medios.",
+          "definition_en": "The presence of a group or experience in the media."
         },
         {
-          "word": "mezclas",
-          "definition_es": "Combinaciones de varios ingredientes.",
-          "definition_en": "Combinations of several ingredients."
+          "word": "reconocimiento",
+          "definition_es": "Premio o atención positiva por un trabajo.",
+          "definition_en": "An award or positive attention for someone's work."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-10/culture-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste que salió una peli de… refrescos en Utah? ¡Se llama *Saints + Sodas*!  \nCARLOS: ¿En serio? Utah y refrescos… suena random. ¿De qué va?  \nLAURA: De la cultura de la “dirty soda”: mezclan refresco con jarabes, crema, sabores… ¡como coctel pero sin alcohol!  \nCARLOS: ¡No manches! O sea, un Sprite con vainilla y cremita… eso ya es postre líquido.  \nLAURA: Y hay tiendas especiales, tipo cafeterías pero de soda. La banda va a cotorrear ahí.  \nCARLOS: Tiene sentido: si no hay alcohol, buscas tu “ritual social”. La soda como punto de reunión.  \nLAURA: Exacto, la peli no solo dice “qué rico”, sino “¿por qué pegó tanto?” en la comunidad.  \nCARLOS: Y las redes lo explotaron, ¿no? Ya todo mundo conoce “dirty soda”.  \nLAURA: Sí, y hasta turistas van por su vasote.  \nCARLOS: Pues cuando vayamos, tú pides la más rara…  \nLAURA: Y tú la “light” para sentirte sano. ¡Trato!"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-11/culture-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, ¿viste esto? Ya salieron los primeros premios DARCYS, de Artes y Cultura de la Discapacidad. ¡Qué padre!  \nCARLOS: ¿En serio? No sabía. ¿Quién los armó?  \nLAURA: Easterseals. La idea es reconocer series y proyectos que muestran la discapacidad con respeto y más visibilidad.  \nCARLOS: Ah, eso sí hace falta. Luego la tele se pasa de dramática o… ni aparece.  \nLAURA: Exacto. Y mira: la serie *The Pitt* lideró los ganadores.  \nCARLOS: ¡No manches! ¿Y qué tal está?  \nLAURA: Dicen que buena, y también premiaron *Horsegirls* y *All Her Fault*. Suena a que viene fuerte la conversación, ¿no?  \nCARLOS: Sí, como quién cuenta las historias y desde dónde. Si no hay voces diversas desde el inicio, se nota.  \nLAURA: Y estos premios justo empujan eso: “inclúyelos desde el guion”.  \nCARLOS: Ojalá se ponga de moda… pero de la buena.  \nLAURA: Jajaja, total. Próxima edición la vemos con cafecito y chismecito cultural, ¿va?"
     },
     {
-      "id": "economy-20261010",
+      "id": "economy-20261011",
       "category": "Economía",
       "difficulty": "B1",
-      "emoji": "💶",
+      "emoji": "💰",
       "gradient": "gold",
-      "headline_es": "La UE acuerda reforzar la vigilancia de sus mercados financieros",
-      "headline_en": "EU Agrees to Strengthen Oversight of Its Financial Markets",
-      "summary_es": "Los 27 Estados miembros de la Unión Europea acordaron reforzar ESMA, el organismo que vigila los mercados financieros. La reforma busca una supervisión más coordinada.",
-      "body_es": "Los países de la Unión Europea han acordado reforzar el organismo que vigila los mercados financieros europeos. La decisión busca que exista una supervisión más fuerte y coordinada para bancos, inversiones y otras actividades financieras.\n\nEl organismo es la Autoridad Europea de Valores y Mercados, conocida como ESMA. Los 27 Estados miembros apoyan una estructura con más capacidad para observar riesgos y responder a problemas. La medida llega después de varios años de cambios en los mercados y de debates sobre la estabilidad financiera.\n\nHasta ahora, muchas decisiones dependían de autoridades nacionales. Con el nuevo acuerdo, ESMA tendrá un papel más importante en algunos asuntos europeos. Sin embargo, los países conservarán responsabilidades dentro de sus propias fronteras. El objetivo es encontrar un equilibrio entre reglas comunes y control nacional.\n\nLa reforma todavía necesita pasos formales antes de aplicarse. Si el acuerdo entra en vigor, los inversores y las empresas recibirán un marco más claro. Los gobiernos esperan que una vigilancia coordinada reduzca sorpresas y proteja la confianza en el sistema financiero.",
-      "body_en": "The countries of the European Union have agreed to strengthen the body that monitors European financial markets. The decision seeks stronger and more coordinated oversight for banks, investments, and other financial activities.\n\nThe body is the European Securities and Markets Authority, known as ESMA. The 27 member states support a structure with more capacity to observe risks and respond to problems. The measure comes after several years of changes in the markets and debates about financial stability.\n\nUntil now, many decisions depended on national authorities. With the new agreement, ESMA will have a more important role in some European matters. However, the countries will keep responsibilities within their own borders. The goal is to find a balance between common rules and national control.\n\nThe reform still needs formal steps before it can be applied. If the agreement enters into force, investors and companies will receive a clearer framework. Governments hope that coordinated oversight will reduce surprises and protect confidence in the financial system.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-10/economy.mp3",
+      "headline_es": "Las hipotecas de EE. UU. alcanzan su nivel más alto en casi tres años",
+      "headline_en": "U.S. mortgages reach their highest level in nearly three years",
+      "summary_es": "La tasa promedio de las hipotecas a largo plazo en Estados Unidos subió por séptima semana consecutiva y alcanzó su nivel más alto en casi tres años. El aumento puede encarecer las cuotas de los compradores.",
+      "body_es": "El costo de comprar una vivienda en Estados Unidos vuelve a subir. La tasa promedio de las hipotecas a largo plazo alcanzó su nivel más alto en casi tres años, después de aumentar durante siete semanas seguidas. La noticia fue publicada por Eagle-Tribune.\n\nLa cifra se refiere especialmente a los préstamos fijos a treinta años, una referencia importante para el mercado. Cuando la tasa sube, también puede subir la cuota mensual de una familia. Por eso, muchos compradores comparaban precios y calculaban su presupuesto antes de firmar.\n\nEl aumento llega en un momento difícil para quienes buscan su primera vivienda. Los precios de las casas siguen siendo altos en muchas ciudades, y una hipoteca más cara reduce el dinero disponible para otros gastos. Si las tasas continúan subiendo, los compradores pagarán más a largo plazo. Si bajan, algunas familias tendrán más posibilidades de comprar.\n\nLos economistas observan ahora las próximas decisiones económicas. La séptima subida consecutiva cambia las expectativas de muchas familias y prestamistas. Para los vendedores, las tasas altas también pueden reducir el número de visitas y ofertas.",
+      "body_en": "The cost of buying a home in the United States is rising again. The average rate for long-term mortgages reached its highest level in nearly three years after increasing for seven consecutive weeks. The news was published by the Eagle-Tribune.\n\nThe figure refers especially to 30-year fixed loans, an important reference for the market. When the rate rises, a family's monthly payment can also rise. For this reason, many buyers were comparing prices and calculating their budgets before signing.\n\nThe increase comes at a difficult time for people looking for their first home. House prices remain high in many cities, and a more expensive mortgage reduces the money available for other expenses. If rates continue to rise, buyers will pay more over the long term. If they fall, some families will have more opportunities to buy.\n\nEconomists are now watching the next economic decisions. The seventh consecutive increase is changing the expectations of many families and lenders. For sellers, high rates can also reduce the number of visits and offers.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-11/economy.mp3",
       "key_vocabulary": [
         {
-          "word": "organismo",
-          "definition_es": "Institución que realiza una función.",
-          "definition_en": "An institution that performs a function."
+          "word": "tasa",
+          "definition_es": "Porcentaje que se paga por pedir dinero prestado.",
+          "definition_en": "The percentage paid for borrowing money."
         },
         {
-          "word": "supervisión",
-          "definition_es": "Control y observación de una actividad.",
-          "definition_en": "The control and observation of an activity."
+          "word": "hipotecas",
+          "definition_es": "Préstamos usados para comprar una vivienda.",
+          "definition_en": "Loans used to buy a home."
         },
         {
-          "word": "inversores",
-          "definition_es": "Personas o entidades que ponen dinero para ganar.",
-          "definition_en": "People or organizations that invest money to earn a return."
+          "word": "cuota",
+          "definition_es": "Cantidad que se paga regularmente por un préstamo.",
+          "definition_en": "An amount paid regularly for a loan."
         },
         {
-          "word": "fronteras",
-          "definition_es": "Límites entre países o territorios.",
-          "definition_en": "Borders between countries or territories."
+          "word": "compradores",
+          "definition_es": "Personas que quieren comprar una vivienda.",
+          "definition_en": "People who want to buy a home."
         }
       ]
     },
     {
-      "id": "environment-20261010",
+      "id": "environment-20261011",
       "category": "Medio Ambiente",
       "difficulty": "B2",
-      "emoji": "🌍",
+      "emoji": "🐅",
       "gradient": "teal",
-      "headline_es": "El IPCC enfrenta un bloqueo sobre su próximo informe climático",
-      "headline_en": "IPCC Faces Deadlock Over Its Next Climate Report",
-      "summary_es": "El IPCC enfrenta un bloqueo mientras sus gobiernos miembros discuten el próximo ciclo de informes. El desacuerdo puede retrasar una síntesis científica importante para las políticas climáticas.",
-      "body_es": "El Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) atraviesa un bloqueo mientras sus gobiernos miembros discuten el próximo ciclo de informes científicos. El IPCC, creado por la ONU, no realiza experimentos propios: reúne y evalúa investigaciones publicadas para explicar qué está ocurriendo con el clima y qué opciones existen.\n\nLa organización cuenta con 195 gobiernos miembros. Para aprobar sus informes, científicos y representantes nacionales deben revisar cuidadosamente cada frase. Ese método busca producir documentos aceptados por muchos países, pero también puede volver lentas las decisiones. En la discusión actual, los gobiernos no coinciden plenamente sobre el calendario, las prioridades y la forma del próximo informe.\n\nEl desacuerdo importa porque los informes del IPCC orientan políticas sobre energía, adaptación y reducción de emisiones. Si el bloqueo continúa, la comunidad internacional podría recibir tarde una síntesis científica que necesita para tomar decisiones. Sin embargo, un proceso rápido no sería suficiente si disminuyera la confianza en sus resultados.\n\nAlgunos gobiernos prefieren un plan más amplio, mientras otros piden decisiones rápidas que respondan a la emergencia climática. Para avanzar, sería necesario que los países encontraran un punto común y que escucharan a los científicos. El IPCC tendrá que equilibrar urgencia, rigor y cooperación. Mientras tanto, la evidencia climática seguirá creciendo, aunque las negociaciones avancen con dificultad.",
-      "body_en": "The Intergovernmental Panel on Climate Change (IPCC) is facing a deadlock while its member governments discuss the next cycle of scientific reports. The IPCC, created by the UN, does not conduct its own experiments: it gathers and evaluates published research to explain what is happening to the climate and what options exist.\n\nThe organization has 195 member governments. To approve its reports, scientists and national representatives must carefully review every sentence. This method seeks to produce documents accepted by many countries, but it can also make decisions slow. In the current discussion, governments do not fully agree on the timetable, priorities, and form of the next report.\n\nThe disagreement matters because IPCC reports guide policies on energy, adaptation, and emissions reduction. If the deadlock continues, the international community could receive too late a scientific synthesis that it needs to make decisions. However, a fast process would not be enough if it reduced confidence in the results.\n\nSome governments prefer a broader plan, while others ask for quick decisions that respond to the climate emergency. To move forward, it would be necessary for countries to find common ground and listen to scientists. The IPCC will have to balance urgency, rigor, and cooperation. Meanwhile, climate evidence will continue to grow, although negotiations advance with difficulty.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-10/environment.mp3",
+      "headline_es": "Sariska celebra 18 años del regreso de los tigres",
+      "headline_en": "Sariska celebrates 18 years since tigers returned",
+      "summary_es": "La Reserva de Tigres de Sariska celebra 18 años desde el regreso de los tigres. El ministro Bhupender Yadav reconoció el trabajo de conservación realizado en esta reserva india.",
+      "body_es": "India celebra dieciocho años de la reintroducción del tigre en la Reserva de Tigres de Sariska, en el estado de Rajastán. Bhupender Yadav, ministro indio de Medio Ambiente, felicitó a las personas que han participado en este esfuerzo y destacó su importancia para la conservación.\n\nLos primeros tigres regresaron a Sariska en 2008, después de que la población local desapareciera. Desde entonces, guardabosques y biólogos han seguido los animales mediante cámaras, patrullas y otros sistemas de vigilancia. El objetivo no consiste únicamente en aumentar el número de tigres: también es necesario proteger el hábitat, mantener suficientes presas y reducir los conflictos con las comunidades cercanas.\n\nLa reserva se convirtió así en un caso seguido por especialistas, porque combina protección de fauna, participación local y presión humana sobre el territorio.\n\nLa recuperación demuestra que una reintroducción puede funcionar cuando existe planificación a largo plazo. Sin embargo, el éxito no está garantizado. Para que la población se mantenga saludable, las autoridades deben controlar las enfermedades, evitar la caza furtiva y conservar los corredores que conectan las zonas boscosas. Si esos espacios se fragmentaran, los tigres tendrían más dificultades para desplazarse y reproducirse.\n\nEl aniversario ofrece una razón para celebrar, pero también recuerda una responsabilidad. Sariska necesitará recursos y vigilancia constante para que el regreso del tigre sea duradero.",
+      "body_en": "India is celebrating eighteen years since the reintroduction of tigers in Sariska Tiger Reserve, in the state of Rajasthan. Bhupender Yadav, India's environment minister, congratulated the people who have participated in this effort and highlighted its importance for conservation.\n\nThe first tigers returned to Sariska in 2008, after the local population disappeared. Since then, forest guards and biologists have followed the animals using cameras, patrols, and other monitoring systems. The goal is not only to increase the number of tigers; it is also necessary to protect the habitat, maintain enough prey, and reduce conflicts with nearby communities.\n\nThe reserve thus became a case followed by specialists because it combines wildlife protection, local participation, and human pressure on the land.\n\nThe recovery shows that a reintroduction can work when there is long-term planning. However, success is not guaranteed. For the population to remain healthy, authorities must control diseases, prevent poaching, and preserve the corridors that connect forested areas. If those spaces became fragmented, the tigers would have more difficulty moving and reproducing.\n\nThe anniversary offers a reason to celebrate, but it also reminds people of a responsibility. Sariska will need resources and constant monitoring so that the return of the tiger lasts.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-11/environment.mp3",
       "key_vocabulary": [
         {
-          "word": "bloqueo",
-          "definition_es": "Situación en la que no se puede avanzar.",
-          "definition_en": "A situation in which progress is not possible."
+          "word": "reintroducción",
+          "definition_es": "Regreso de una especie a un lugar donde vivía antes.",
+          "definition_en": "The return of a species to a place where it lived before."
         },
         {
-          "word": "investigaciones",
-          "definition_es": "Estudios para descubrir información.",
-          "definition_en": "Studies conducted to discover information."
+          "word": "reserva",
+          "definition_es": "Área protegida para cuidar animales y naturaleza.",
+          "definition_en": "A protected area for caring for animals and nature."
         },
         {
-          "word": "emisiones",
-          "definition_es": "Gases o sustancias que salen al ambiente.",
-          "definition_en": "Gases or substances released into the environment."
+          "word": "vigilancia",
+          "definition_es": "Observación continua para proteger o controlar algo.",
+          "definition_en": "Continuous observation to protect or control something."
         },
         {
-          "word": "rigor",
-          "definition_es": "Gran cuidado y precisión.",
-          "definition_en": "Great care and precision."
+          "word": "hábitat",
+          "definition_es": "Lugar natural donde vive una especie.",
+          "definition_en": "The natural place where a species lives."
         }
       ],
-      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-10/environment-podcast.mp3",
-      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste que el IPCC anda atorado con su próximo informe climático?  \nCARLOS: ¿En serio? No manches. ¿Atorado cómo, de “no nos ponemos de acuerdo”?  \nLAURA: Ajá. Son 195 países y literal revisan frase por frase. ¡Imagínate ese chat grupal!  \nCARLOS: Uf, el infierno: “Propongo cambiar ‘urgente’ por ‘muy urgente’”.  \nLAURA: Y eso que el IPCC ni hace experimentos; nomás junta lo que ya publicaron los científicos.  \nCARLOS: Está chido por el rigor… pero también se vuelve lentísimo.  \nLAURA: Ahorita discuten calendario, prioridades, formato… o sea, todo.  \nCARLOS: Y sí importa, porque esos informes guían políticas de energía y recorte de emisiones.  \nLAURA: Exacto, si se tardan, llega tarde la “chuleta” científica para decidir.  \nCARLOS: Pero si lo hacen a las carreras, igual pierden confianza.  \nLAURA: O sea: urgencia vs. consenso… el eterno drama.  \nCARLOS: Pues que les pongan timer y cafecito, como nosotros. ¿Otro refill?"
+      "podcast_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-11/environment-podcast.mp3",
+      "podcast_transcript": "LAURA: Oye, Carlos, ¿viste esto? ¡Sariska anda celebrando 18 años del regreso de los tigres!  \nCARLOS: ¿En serio? No manches, pensé que eso tardaba décadas… bueno, creo que sí, pero suena a logro.  \nLAURA: Sí, porque en esa reserva de Rajastán se habían quedado en cero. ¡Cero tigres!  \nCARLOS: Qué fuerte. Y los reintrodujeron en 2008, ¿no? Eso es como… “segunda oportunidad felina”.  \nLAURA: Exacto. Y no es nomás soltarlos y ya: los siguen con cámaras, patrullas, todo el chisme tecnológico.  \nCARLOS: Y aparte tienen que cuidar el hábitat, que haya presas… porque si no, el tigre: “¿y mi cena, o qué?”  \nLAURA: Jajaja, literal. Y también bajar broncas con las comunidades cerca, porque luego hay conflicto.  \nCARLOS: Lo interesante es lo de los corredores, esos pasillos de bosque para que se muevan y se reproduzcan.  \nLAURA: Sí, si se fragmenta, valió. Y obvio: enfermedades, caza furtiva… ahí está el reto.  \nCARLOS: Pero qué padre celebrar y a la vez acordarse: esto necesita chamba constante.  \nLAURA: Total. Brindis cafecito por los tigres… y por los guardabosques que no duermen."
     },
     {
-      "id": "food-20261010",
+      "id": "gastronomy-20261011",
       "category": "Gastronomía",
       "difficulty": "B2",
-      "emoji": "🍽️",
+      "emoji": "🍳",
       "gradient": "orange",
-      "headline_es": "Michelin destaca restaurantes de Houston",
-      "headline_en": "Michelin Highlights Houston Restaurants",
-      "summary_es": "La Guía Michelin reúne varios restaurantes de Houston y muestra distintas formas de reconocimiento. Entre los nombres mencionados están Tatemó, March, BCN Taste & Tradition y Le Jardinier.",
-      "body_es": "Houston se ha convertido en una de las ciudades de Texas cuya escena gastronómica recibe más atención, y la Guía Michelin reúne varios restaurantes locales en su selección. La guía no reconoce solamente los establecimientos que reciben una estrella: también distingue lugares con Bib Gourmand y restaurantes recomendados. Así, el lector puede encontrar experiencias muy diferentes, desde una comida de lujo hasta una opción informal con buena relación entre calidad y precio.\n\nEntre los nombres asociados con el reconocimiento de Michelin en Houston aparecen Tatemó, March, BCN Taste & Tradition y Le Jardinier. Cada restaurante tiene una identidad distinta. Tatemó presenta una cocina mexicana creativa; March presenta una cocina de inspiración mediterránea; BCN se inspira en la tradición catalana, mientras Le Jardinier combina técnicas francesas con productos de temporada. Estas descripciones ayudan a entender por qué la ciudad atrae a chefs y comensales de muchos lugares.\n\nLa guía también puede cambiar la economía de un barrio. Una mención importante atrae reservas, visitantes y nuevos negocios, aunque aumenta la presión sobre los equipos de cocina. Para los clientes, la lista sirve como punto de partida, no como una orden. Si un restaurante aparece en ella, eso no significa que sea el mejor para todos; significa que merece una visita y una opinión propia.",
-      "body_en": "Houston has become one of the Texas cities whose food scene receives the most attention, and the Michelin Guide includes several local restaurants in its selection. The guide does not only recognize establishments that receive a star; it also distinguishes places with Bib Gourmand and recommended restaurants. Thus, readers can find very different experiences, from a luxury meal to an informal option with good value for money.\n\nAmong the names associated with Michelin recognition in Houston are Tatemó, March, BCN Taste & Tradition, and Le Jardinier. Each restaurant has a distinct identity. Tatemó presents creative Mexican cuisine; March presents Mediterranean-inspired cuisine; BCN draws on Catalan tradition, while Le Jardinier combines French techniques with seasonal products. These descriptions help explain why the city attracts chefs and diners from many places.\n\nThe guide can also change a neighborhood’s economy. An important mention attracts reservations, visitors, and new businesses, although it increases pressure on kitchen teams. For customers, the list serves as a starting point, not an order. If a restaurant appears on it, that does not mean it is the best for everyone; it means it deserves a visit and an opinion of one’s own.",
-      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-10/gastronomy.mp3",
+      "headline_es": "Los peligros ocultos de las cocinas de los restaurantes",
+      "headline_en": "The hidden dangers of restaurant kitchens",
+      "summary_es": "The Washington Post examina los peligros que enfrentan chefs y otros trabajadores en las cocinas de restaurantes. El calor, los cuchillos, los suelos mojados y la presión del servicio pueden causar lesiones.",
+      "body_es": "Las cocinas de los restaurantes parecen lugares llenos de energía, pero también esconden peligros para quienes trabajan allí. Un reportaje de The Washington Post examina los riesgos que enfrentan chefs, cocineros, lavaplatos y otros empleados durante una jornada normal.\n\nEn estos espacios se combinan cuchillos afilados, aceite hirviendo, hornos calientes, suelos mojados y equipos pesados. Además, muchos trabajadores pasan horas de pie y deben servir platos con rapidez. Tres problemas aparecen con frecuencia: cortes, quemaduras y resbalones. La presión del servicio puede hacer que alguien ignore una lesión o continúe trabajando aunque necesite atención.\n\nEl reportaje plantea que la seguridad no debería depender solo de la prudencia individual. Los propietarios tienen que ofrecer capacitación, guantes adecuados, ventilación y descansos suficientes. También deben mantener los suelos secos y revisar los equipos. En Estados Unidos, las normas de OSHA sirven como referencia para la seguridad laboral, aunque cumplir una norma no elimina todos los riesgos.\n\nPara que una cocina sea realmente segura, los gerentes deben escuchar a sus equipos y corregir los problemas antes de que causen daños. Si un restaurante invierte en prevención, protegerá a sus trabajadores y también reducirá interrupciones costosas. La buena comida necesita organización, pero ninguna mesa merece poner una vida en peligro.",
+      "body_en": "Restaurant kitchens seem like energetic places, but they also hide dangers for the people who work there. A report from The Washington Post examines the risks faced by chefs, cooks, dishwashers, and other employees during a normal workday.\n\nThese spaces combine sharp knives, boiling oil, hot ovens, wet floors, and heavy equipment. In addition, many workers spend hours standing and must serve dishes quickly. Three problems appear frequently: cuts, burns, and slips. The pressure of service can make someone ignore an injury or continue working even when they need medical attention.\n\nThe report argues that safety should not depend only on individual caution. Owners have to provide training, appropriate gloves, ventilation, and enough breaks. They must also keep floors dry and inspect the equipment. In the United States, OSHA regulations serve as a reference for workplace safety, although following one regulation does not eliminate every risk.\n\nFor a kitchen to be truly safe, managers must listen to their teams and correct problems before they cause harm. If a restaurant invests in prevention, it will protect its workers and also reduce costly interruptions. Good food requires organization, but no meal is worth putting a life in danger.",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/conversation-stories/2026-10-11/gastronomy.mp3",
       "key_vocabulary": [
         {
-          "word": "selección",
-          "definition_es": "Lista de lugares elegidos.",
-          "definition_en": "A list of chosen places."
+          "word": "riesgos",
+          "definition_es": "Posibles peligros o daños.",
+          "definition_en": "Possible dangers or harm."
         },
         {
-          "word": "estrella",
-          "definition_es": "Distinción que Michelin da a algunos restaurantes.",
-          "definition_en": "A distinction Michelin gives to some restaurants."
+          "word": "quemaduras",
+          "definition_es": "Lesiones causadas por el calor o el fuego.",
+          "definition_en": "Injuries caused by heat or fire."
         },
         {
-          "word": "comensales",
-          "definition_es": "Personas que comen en un restaurante.",
-          "definition_en": "People who eat at a restaurant."
+          "word": "capacitación",
+          "definition_es": "Entrenamiento para aprender a hacer un trabajo.",
+          "definition_en": "Training to learn how to do a job."
         },
         {
-          "word": "reservas",
-          "definition_es": "Solicitudes para guardar una mesa.",
-          "definition_en": "Requests to hold a table."
+          "word": "prevención",
+          "definition_es": "Acciones para evitar problemas o daños.",
+          "definition_en": "Actions taken to prevent problems or harm."
         }
       ]
     }
   ],
-  "last_updated": "2026-10-10T09:18:36.984819Z",
+  "last_updated": "2026-10-11T09:18:29.166087Z",
   "generated_by": "GitHub Actions + OpenAI API"
 }
