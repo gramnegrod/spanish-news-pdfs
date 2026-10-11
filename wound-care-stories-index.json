@@ -1,11 +1,159 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T09:15:17.580743Z",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T09:15:18.241056Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1232,
-  "new_today": 5,
+  "total_stories": 1236,
+  "new_today": 4,
   "stories": [
+    {
+      "id": "chronic-wounds-20261011",
+      "category": "Chronic Wounds",
+      "difficulty": "A2",
+      "emoji": "🩹",
+      "gradient": "teal",
+      "headline_es": "Los apósitos inteligentes detectan la acidez de las heridas crónicas",
+      "headline_en": "Smart Bandages That Sense Wound Acidity Could Transform Chronic Wound Care",
+      "summary_es": "Una noticia presenta un prototipo de apósito inteligente que mide la acidez de las heridas crónicas. La tecnología podría ayudar a vigilar la curación sin retirar siempre la cubierta.",
+      "body_es": "Una noticia de Bioengineer.org describe un prototipo de apósito inteligente para heridas crónicas. El dispositivo observa la acidez de la herida. Esta medida también se llama pH. Los investigadores explican que una acidez anormal puede indicar problemas de curación. El apósito usa sensores pequeños. Estos sensores envían información sobre el estado de la piel y el tejido. Así, el equipo podría revisar la herida sin retirar siempre la cubierta. El exudado y otros cambios todavía necesitan una evaluación clínica. La tecnología está en etapa de investigación y no sustituye el tratamiento habitual. Los profesionales limpian la herida, miden su tamaño y revisan signos de infección. En el futuro, el vendaje puede ayudar a elegir mejor el tratamiento. La noticia presenta esta idea como una posible ayuda para pacientes con heridas que duran mucho tiempo.",
+      "body_en": "A Bioengineer.org news report describes a prototype smart dressing for chronic wounds. The device monitors the wound’s acidity. This measurement is also called pH. The researchers explain that unusual acidity may indicate healing problems. The dressing uses small sensors. These sensors send information about the condition of the skin and tissue. In this way, the team could examine the wound without always removing the cover. Exudate and other changes still need clinical assessment. The technology is at the research stage and does not replace standard treatment. Professionals clean the wound, measure its size, and check for signs of infection. In the future, the bandage may help choose treatment more effectively. The report presents this idea as possible help for patients with wounds that last a long time.",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnRETzlmdW1sOGdyT3YyZWo4UkZIVnppUXpONWI4VVplQnZYV1JhbEZyZ2ZYaE9RNU1oZEVGWEJFNDg5SkY2QUZRMkhKYkFCOVBub0MzSVRaZTdXa0ZuTTFBRDFjRGxJOXM2bHhqUG9fZ000RkxPSGZvT2pIMUJfWkFJbk9QWnh6NWNQMU5TUTJhbmtZck5Ydjd5M2I3NV9Y?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-11/chronic-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o el tejido",
+          "definition_en": "wound - injury to the skin or tissue"
+        },
+        {
+          "word": "acidez",
+          "definition_es": "nivel de ácido de una sustancia, medido con pH",
+          "definition_en": "acidity - acid level of a substance, measured by pH"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre y protege una herida",
+          "definition_en": "dressing - material that covers and protects a wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that leaves a wound"
+        }
+      ],
+      "added_at": "2026-10-11T09:15:18.241056Z"
+    },
+    {
+      "id": "burn-care-20261011",
+      "category": "Burn Care",
+      "difficulty": "B1",
+      "emoji": "🔥",
+      "gradient": "orange",
+      "headline_es": "La atención de las quemaduras debe pasar de la cicatriz a la fuerza",
+      "headline_en": "Time to Move Beyond Scars to Strength",
+      "summary_es": "Deccan Chronicle explica que la atención de las quemaduras debe continuar después del cierre de la piel. La rehabilitación busca recuperar fuerza, movimiento y autonomía, no solo reducir la cicatriz.",
+      "body_es": "Un artículo de Deccan Chronicle sostiene que la atención de las quemaduras debe ir más allá de cerrar la piel. El objetivo será recuperar fuerza, movimiento y confianza, además de reducir la cicatriz. La noticia describe la quemadura como una lesión que puede dañar la epidermis, la dermis y tejidos más profundos. En etapas anteriores, la atención se concentraba principalmente en salvar la vida y cubrir la herida. Actualmente, los equipos combinan cirugía, control del dolor, fisioterapia y seguimiento prolongado. La movilización temprana ayuda a conservar el movimiento cerca de la lesión. El cuidado de la cicatriz también puede incluir presión, masaje y prendas especiales, según la evaluación clínica. La rehabilitación funcional puede empezar durante la hospitalización y continuar después del alta, con objetivos revisados. Un programa completo debería incluir apoyo psicológico y educación para la familia. El mensaje central es claro: una persona no solo necesita sobrevivir a la quemadura; también necesita recuperar independencia y fuerza.",
+      "body_en": "A Deccan Chronicle article argues that burn care must go beyond closing the skin. The goal will be to recover strength, movement, and confidence, as well as reduce the scar. The report describes a burn as an injury that can damage the epidermis, dermis, and deeper tissues. In earlier stages, care focused mainly on saving life and covering the wound. Today, teams combine surgery, pain control, physiotherapy, and long-term follow-up. Early mobilization helps preserve movement near the injury. Scar care may also include pressure, massage, and special garments, according to clinical assessment. Functional rehabilitation can begin during hospitalization and continue after discharge, with reviewed goals. A complete program should include psychological support and education for the family. The central message is clear: a person needs not only to survive the burn, but also to regain independence and strength.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHN0RVdzR2cyT2Rfak5xT2xUSl8yRE1fRFI0SFU4UnZZbjZ3RkR4TFVtaEgwa3RIVE1ObW1Odm9vTmxsV2ZjMV9qNkpWLVBsSzF3NmZBRmRvYmJUM1dSNjNPcDBYdzFHaC1wTFlzTGJkTFRwU2luVWQyV1I4UzU0R1ZYNnNFNW5tbVJzQ0lhaERGZV9PZjBJRXV4N0dBYTdJTGdsYVFlTVJmd9IBqgFBVV95cUxQOHN0RVdzR2cyT2Rfak5xT2xUSl8yRE1fRFI0SFU4UnZZbjZ3RkR4TFVtaEgwa3RIVE1ObW1Odm9vTmxsV2ZjMV9qNkpWLVBsSzF3NmZBRmRvYmJUM1dSNjNPcDBYdzFHaC1wTFlzTGJkTFRwU2luVWQyV1I4UzU0R1ZYNnNFNW5tbVJzQ0lhaERGZV9PZjBJRXV4N0dBYTdJTGdsYVFlTVJmdw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-11/burn-care.mp3",
+      "key_vocabulary": [
+        {
+          "word": "quemadura",
+          "definition_es": "lesión causada por calor, químicos o electricidad",
+          "definition_en": "burn - injury caused by heat, chemicals, or electricity"
+        },
+        {
+          "word": "cicatriz",
+          "definition_es": "marca que queda después de una lesión",
+          "definition_en": "scar - mark left after an injury"
+        },
+        {
+          "word": "epidermis",
+          "definition_es": "capa externa de la piel",
+          "definition_en": "epidermis - outer layer of the skin"
+        },
+        {
+          "word": "rehabilitación",
+          "definition_es": "proceso para recuperar una función o capacidad",
+          "definition_en": "rehabilitation - process of recovering a function or ability"
+        }
+      ],
+      "added_at": "2026-10-11T09:15:18.241056Z"
+    },
+    {
+      "id": "surgical-wounds-20261011",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🧵",
+      "gradient": "red",
+      "headline_es": "Infecciones posquirúrgicas por Mycobacterium fortuitum: siete casos en el este de India",
+      "headline_en": "Post-procedural Wound Infections Caused by Mycobacterium fortuitum: Seven Cases from Eastern India",
+      "summary_es": "Cureus describe siete infecciones de heridas después de procedimientos en el este de India. La identificación de Mycobacterium fortuitum exigió cultivos y un tratamiento ajustado.",
+      "body_es": "Una serie de casos publicada en Cureus revisó siete infecciones de heridas después de procedimientos en el este de India. El microorganismo identificado fue Mycobacterium fortuitum, una micobacteria no tuberculosa de crecimiento rápido. Los pacientes presentaban problemas persistentes después de la intervención, y el cuadro podía confundirse con una infección bacteriana común. Algunas heridas tenían inflamación, secreción o una apertura cerca de la sutura. Para confirmar la causa, los equipos enviaron muestras para cultivo y realizaron pruebas de sensibilidad. El diagnóstico podía requerir atención porque los cultivos habituales no siempre detectaban fácilmente este microorganismo. El tratamiento se ajustaba a los resultados y podía incluir antibióticos durante un periodo prolongado. En varios casos, el desbridamiento ayudaba a retirar tejido afectado. La serie recuerda que una herida quirúrgica que no mejora necesita evaluación repetida. Los profesionales deberían preguntar por procedimientos recientes, revisar la sutura y recoger muestras antes de cambiar el tratamiento. La experiencia de estos siete casos apoya una sospecha temprana de micobacterias no tuberculosas.",
+      "body_en": "A case series published in Cureus reviewed seven wound infections after procedures in eastern India. The identified microorganism was Mycobacterium fortuitum, a rapidly growing nontuberculous mycobacterium. The patients had persistent problems after the intervention, and the condition could be confused with a common bacterial infection. Some wounds had inflammation, drainage, or an opening near the suture. To confirm the cause, the teams sent samples for culture and performed susceptibility testing. Diagnosis could require careful attention because routine cultures did not always easily detect this microorganism. Treatment was adjusted according to the results and could include antibiotics for an extended period. In several cases, debridement helped remove affected tissue. The series reminds clinicians that a surgical wound that does not improve needs repeated assessment. Professionals should ask about recent procedures, examine the suture, and collect samples before changing treatment. The experience from these seven cases supports early suspicion of nontuberculous mycobacteria.",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWmgxN1FTZ3FzcklsZmFOdFBKYWRfOHgwbDRvdjZoNHl5a0dfYWM4NjA1c0NRM0Z2VjF0T2QtVHFUUUV3RExBUWJqT1hOUHFxZkdmNmdNMEk3YVFKQ3VidUZLSUw3bHMxN1VkMmtzb1FyZmdHcFVKaWVCVW1Kam14MWxDc3Q1cWJYaU9WQlBrQ3BMdkdIcW1HMFBFQnJkQW1SSk9zTm05Qi03cUZpMnlLR2ZteVpCOTF6aFVDaGJNc1BOQjZmSG1pM3J3b2pYZGUwbEItQzVxN3hlZFExQmVlTUNhUGtuY1psTzVOOFRyR1Bvdw?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-11/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "infección",
+          "definition_es": "presencia y multiplicación de microbios dañinos",
+          "definition_en": "infection - presence and multiplication of harmful microbes"
+        },
+        {
+          "word": "cultivo",
+          "definition_es": "prueba que permite crecer e identificar microbios",
+          "definition_en": "culture - test that grows and identifies microbes"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo o técnica para cerrar una herida",
+          "definition_en": "suture - thread or technique used to close a wound"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "retirada de tejido muerto o dañado",
+          "definition_en": "debridement - removal of dead or damaged tissue"
+        }
+      ],
+      "added_at": "2026-10-11T09:15:18.241056Z"
+    },
+    {
+      "id": "wound-research-20261011",
+      "category": "Wound Research",
+      "difficulty": "B1",
+      "emoji": "🔬",
+      "gradient": "purple",
+      "headline_es": "Un material innovador usa luz visible para desinfectar heridas crónicas",
+      "headline_en": "Innovative Material Uses Visible Light to Disinfect Chronic Wounds",
+      "summary_es": "News-Medical informa sobre un material que usa luz visible para desinfectar heridas crónicas. La propuesta intenta controlar bacterias y biofilms sin depender solamente de los métodos habituales.",
+      "body_es": "News-Medical informó sobre un material innovador que usa luz visible para la desinfección de heridas crónicas. La propuesta intenta combatir bacterias en lesiones que suelen tardar mucho en cerrar. El equipo estudió el material como una posible superficie para un apósito. Cuando recibe luz visible, el material activa una acción antimicrobiana sobre la zona tratada. Esto podría ayudar a reducir una infección sin usar únicamente antibióticos. La investigación también considera el biofilm, una capa que protege a las bacterias y dificulta la curación. Las pruebas descritas pertenecen todavía a la fase de investigación, no a un protocolo clínico rutinario. Por eso, el material necesitará más evaluaciones de seguridad, duración y eficacia antes de llegar a pacientes. Para el personal de heridas, el avance es interesante porque utiliza luz visible en lugar de depender solo de métodos tradicionales. El futuro tratamiento combinaría limpieza, evaluación del tejido y un apósito adecuado, según la condición de cada herida.",
+      "body_en": "News-Medical reported on an innovative material that uses visible light to disinfect chronic wounds. The proposal aims to fight bacteria in injuries that often take a long time to close. The team studied the material as a possible surface for a dressing. When it receives visible light, the material activates an antimicrobial action on the treated area. This could help reduce an infection without relying only on antibiotics. The research also considers biofilm, a layer that protects bacteria and makes healing more difficult. The described tests are still in the research phase, not a routine clinical protocol. Therefore, the material will need further evaluations of safety, duration, and effectiveness before reaching patients. For wound-care staff, the advance is interesting because it uses visible light instead of relying only on traditional methods. Future treatment would combine cleaning, tissue assessment, and an appropriate dressing, depending on each wound’s condition.",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2p0WkU4TlJjMjZGaENUdzA4WHB3QlZjLV81RnQwUjd1TlJRZlhvMkk5LXZtMGxlSWxoZnV0X05Ucng2Z2hqWHE1ZjBfWFNpQ1I1YlE5NUM0OWdidjZVWlhDSFlLekRfOGJEMnp6b3B6a0ZvaFJWY0NqcmxZaUdBM292TXRCdzhBRDMxVjA1Ylp3MzRXUWtfUDBNQTdqQU9hcnZ1a0ZhdVQ5YjU0QmNld2N3MVA?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-11/wound-research.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o el tejido",
+          "definition_en": "wound - injury to the skin or tissue"
+        },
+        {
+          "word": "biofilm",
+          "definition_es": "capa de microbios que se adhiere a una superficie",
+          "definition_en": "biofilm - layer of microbes that sticks to a surface"
+        },
+        {
+          "word": "desinfección",
+          "definition_es": "proceso para reducir o eliminar microbios",
+          "definition_en": "disinfection - process of reducing or eliminating microbes"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material que cubre y protege una herida",
+          "definition_en": "dressing - material that covers and protects a wound"
+        }
+      ],
+      "added_at": "2026-10-11T09:15:18.241056Z"
+    },
     {
       "id": "chronic-wounds-20261010",
       "category": "Chronic Wounds",
@@ -45585,6 +45733,6 @@
       ]
     }
   ],
-  "last_updated": "2026-10-10T09:15:17.580743Z",
+  "last_updated": "2026-10-11T09:15:18.241056Z",
   "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
 }
