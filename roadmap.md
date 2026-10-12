@@ -14,6 +14,10 @@ Failure registry and decision journal. Entries: `[YYYY-MM-DD HH:MM] CATEGORY - d
 [2026-10-12 16:10] FAILURE - PR #5 blocklist leaked: The Financial World (.com) India amputation story reached the feed the same day; this week's results also had .com/.net outlets from the Philippines, Nigeria, Guyana. The story model sees only the headline, so it cannot catch an unnamed location.
 [2026-10-12 16:10] DECISION - Switched to a publisher allowlist (US .edu/.gov/.mil, European country TLDs, named US/EU outlets); excluded global research reposters (Cureus, Frontiers, EurekAlert, Bioengineer, ScienceDaily, Phys.org, News-Medical), wires, market-research sites. Added an on-topic rule. Live test: 7 candidates passed, 1 story generated (was 4-6/day). Fewer stories is the accepted cost.
 
+[2026-10-12 16:45] FOLLOW-UP - PR #6 review (score 50): allowlist entry "abcnews.go.com" never matches; Google News reports ABC News as abcnews.com. Add "abcnews.com".
+[2026-10-12 16:45] FOLLOW-UP - PR #6 review (score 35): first 3 allowlisted items fill the slots even when off-topic, and the off-topic rule now rejects them often; raise the cap or persist rejected URLs (same fix as the PR #5 follow-ups).
+[2026-10-12 16:45] FOLLOW-UP - PR #6 review (score 25): whole-feed scan reaches listicles (Forbes CBD) that get re-judged daily until they age out.
+
 ## Next:
 
 - Optional one-time cleanup of existing non-US/EU stories in wound-care-stories-index.json.
