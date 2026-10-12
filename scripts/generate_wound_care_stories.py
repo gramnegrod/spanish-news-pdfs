@@ -82,39 +82,52 @@ CATEGORY_SLUGS = {
     "Wound Research": "wound-research"
 }
 
-# Publisher filter: US and European outlets only (requested 2026-10-12).
-# gl=US in the feed URL picks the US edition, but that edition still returns
-# publishers from India, South Africa, Australia, etc. A publisher passes when its
-# domain ends in a generic TLD or a European country TLD, and is not a known
-# non-US/EU outlet that uses a generic TLD. Anything else (.in, .co.za, .com.au,
-# a missing source URL) is dropped.
-GENERIC_TLDS = {"com", "org", "net", "edu", "gov", "mil", "us", "io", "news", "info", "health"}
+# Publisher filter: US and European news only (requested 2026-10-12).
+# A blocklist on top of generic TLDs failed the same day: .com/.net sites from
+# India, the Philippines, Nigeria and Guyana passed, and the story model, which
+# sees only the headline, could not tell an India story from a US one. So this is
+# an allowlist. A publisher passes when it is:
+#   - a US .edu/.gov/.mil site (university and agency press offices report their own work),
+#   - a European country-TLD site, or
+#   - a named US or European outlet below.
+# Deliberately left out: sites that repost research from anywhere (Cureus, Frontiers,
+# EurekAlert, Bioengineer, ScienceDaily, Phys.org, News-Medical), press-release
+# wires, and market-research report mills.
+US_TLDS = {"edu", "gov", "mil"}
 EUROPEAN_TLDS = {
     "eu", "uk", "ie", "fr", "de", "es", "pt", "it", "nl", "be", "lu", "ch", "at",
     "dk", "se", "no", "fi", "is", "pl", "cz", "sk", "hu", "si", "hr", "ro", "bg",
     "gr", "cy", "mt", "ee", "lv", "lt",
 }
-NON_US_EU_PUBLISHERS = {
-    # India
-    "indiatimes.com", "ndtv.com", "hindustantimes.com", "thehindu.com", "news18.com",
-    "livemint.com", "business-standard.com", "financialexpress.com", "indianexpress.com",
-    "newindianexpress.com", "deccanherald.com", "tribuneindia.com", "thestatesman.com",
-    "firstpost.com", "outlookindia.com", "dnaindia.com", "india.com", "indiatvnews.com",
-    "thehansindia.com", "telanganatoday.com", "devdiscourse.com", "pharmabiz.com",
-    # Pakistan
-    "dawn.com",
+US_EU_OUTLETS = {
+    # US general news
+    "nbcnews.com", "cbsnews.com", "abcnews.go.com", "cnn.com", "nytimes.com",
+    "washingtonpost.com", "wsj.com", "apnews.com", "npr.org", "usatoday.com",
+    "latimes.com", "foxnews.com", "time.com", "axios.com", "forbes.com",
+    "bizjournals.com", "oregonlive.com", "beaconjournal.com", "courier-journal.com",
+    # US health and medical press
+    "statnews.com", "medpagetoday.com", "medscape.com", "healio.com", "ajmc.com",
+    "fiercehealthcare.com", "biospace.com", "modernhealthcare.com",
+    "healthleadersmedia.com", "beckershospitalreview.com", "curetoday.com",
+    "health.com", "healthday.com", "webmd.com", "everydayhealth.com",
+    "docwirenews.com", "kffhealthnews.org", "mcknights.com", "woundsource.com",
+    "hmpgloballearningnetwork.com", "mayoclinic.org", "clevelandclinic.org",
+    "hopkinsmedicine.org",
+    # UK and Europe on generic TLDs
+    "bbc.com", "theguardian.com", "reuters.com", "ft.com", "euronews.com",
+    "nationalhealthexecutive.com", "nursingtimes.net",
 }
 
 
 def is_us_or_european_publisher(source_url: str) -> bool:
-    """True when the Google News <source url=...> belongs to a US or European outlet."""
+    """True when the Google News <source url=...> is an allowed US or European publisher."""
     host = (urlparse(source_url).hostname or "").lower()
     if not host:
         return False
-    if any(host == d or host.endswith("." + d) for d in NON_US_EU_PUBLISHERS):
-        return False
     tld = host.rsplit(".", 1)[-1]
-    return tld in GENERIC_TLDS or tld in EUROPEAN_TLDS
+    if tld in US_TLDS or tld in EUROPEAN_TLDS:
+        return True
+    return any(host == d or host.endswith("." + d) for d in US_EU_OUTLETS)
 
 
 def load_existing_stories() -> tuple[List[Dict], Set[str]]:
@@ -168,7 +181,7 @@ def fetch_rss_candidates(existing_urls: Set[str]) -> Dict[str, List[Dict]]:
             skipped_count = 0
             foreign_count = 0
 
-            for item in items[:10]:  # Check up to 10 per category
+            for item in items:  # Allowlist passes few items, so scan the whole feed
                 title = item.find('title')
                 description = item.find('description')
                 source = item.find('source')
@@ -290,7 +303,7 @@ TARGET AUDIENCE: Nurses, wound care specialists, and healthcare workers who need
 
 For each category below, select the best news story and adapt it to Spanish at the specified CEFR level.
 
-GEOGRAPHY: Use only stories from United States or European publishers about United States or European patients, hospitals, research, or health policy. Skip any candidate whose publisher is based elsewhere or whose study, cases, or events are set elsewhere (for example a case series from India, a program in South Africa, or a study in Pakistan). If no candidate in a category qualifies, leave that category out.
+GEOGRAPHY: Use only stories from United States or European publishers about United States or European patients, hospitals, research, or health policy. Skip any candidate whose publisher is based elsewhere or whose study, cases, or events are set elsewhere (for example a case series from India, a program in South Africa, or a study in Pakistan). Also skip any candidate that is not actually about wounds or wound care (for example a product listicle or an unrelated research gift). If no candidate in a category qualifies, leave that category out.
 
 NEWS CANDIDATES BY CATEGORY:
 """
@@ -316,7 +329,7 @@ NEWS CANDIDATES BY CATEGORY:
 
     prompt += """
 
-OUTPUT FORMAT - Return valid JSON with at most ONE story per category listed above (omit categories with no qualifying US/European candidate):
+OUTPUT FORMAT - Return valid JSON with at most ONE story per category listed above (omit categories with no qualifying candidate):
 
 {
   "stories": [
