@@ -11,6 +11,9 @@ Failure registry and decision journal. Entries: `[YYYY-MM-DD HH:MM] CATEGORY - d
 [2026-10-12 15:05] DECLINED - PR #5 review (score 10): wasted generations when everything is rejected; not a regression, the domain filter only removes candidates.
 [2026-10-12 15:05] FAILURE - URL dedup misses the same article under a different Google News URL (pre-existing). The India M. fortuitum case series was adapted 3 days running (10-09 to 10-11); a bone infection story 4 days (09-28 to 10-01). Dedup by normalized headline or publisher URL would fix it.
 
+[2026-10-12 16:10] FAILURE - PR #5 blocklist leaked: The Financial World (.com) India amputation story reached the feed the same day; this week's results also had .com/.net outlets from the Philippines, Nigeria, Guyana. The story model sees only the headline, so it cannot catch an unnamed location.
+[2026-10-12 16:10] DECISION - Switched to a publisher allowlist (US .edu/.gov/.mil, European country TLDs, named US/EU outlets); excluded global research reposters (Cureus, Frontiers, EurekAlert, Bioengineer, ScienceDaily, Phys.org, News-Medical), wires, market-research sites. Added an on-topic rule. Live test: 7 candidates passed, 1 story generated (was 4-6/day). Fewer stories is the accepted cost.
+
 ## Next:
 
 - Optional one-time cleanup of existing non-US/EU stories in wound-care-stories-index.json.
