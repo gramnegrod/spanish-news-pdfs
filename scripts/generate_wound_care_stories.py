@@ -23,6 +23,7 @@ import re
 from datetime import datetime
 from typing import List, Dict, Set
 from pathlib import Path
+from urllib.parse import urlparse
 from openai import OpenAI
 
 # Configuration
@@ -81,6 +82,40 @@ CATEGORY_SLUGS = {
     "Wound Research": "wound-research"
 }
 
+# Publisher filter: US and European outlets only (requested 2026-10-12).
+# gl=US in the feed URL picks the US edition, but that edition still returns
+# publishers from India, South Africa, Australia, etc. A publisher passes when its
+# domain ends in a generic TLD or a European country TLD, and is not a known
+# non-US/EU outlet that uses a generic TLD. Anything else (.in, .co.za, .com.au,
+# a missing source URL) is dropped.
+GENERIC_TLDS = {"com", "org", "net", "edu", "gov", "mil", "us", "io", "news", "info", "health"}
+EUROPEAN_TLDS = {
+    "eu", "uk", "ie", "fr", "de", "es", "pt", "it", "nl", "be", "lu", "ch", "at",
+    "dk", "se", "no", "fi", "is", "pl", "cz", "sk", "hu", "si", "hr", "ro", "bg",
+    "gr", "cy", "mt", "ee", "lv", "lt",
+}
+NON_US_EU_PUBLISHERS = {
+    # India
+    "indiatimes.com", "ndtv.com", "hindustantimes.com", "thehindu.com", "news18.com",
+    "livemint.com", "business-standard.com", "financialexpress.com", "indianexpress.com",
+    "newindianexpress.com", "deccanherald.com", "tribuneindia.com", "thestatesman.com",
+    "firstpost.com", "outlookindia.com", "dnaindia.com", "india.com", "indiatvnews.com",
+    "thehansindia.com", "telanganatoday.com", "devdiscourse.com", "pharmabiz.com",
+    # Pakistan
+    "dawn.com",
+}
+
+
+def is_us_or_european_publisher(source_url: str) -> bool:
+    """True when the Google News <source url=...> belongs to a US or European outlet."""
+    host = (urlparse(source_url).hostname or "").lower()
+    if not host:
+        return False
+    if any(host == d or host.endswith("." + d) for d in NON_US_EU_PUBLISHERS):
+        return False
+    tld = host.rsplit(".", 1)[-1]
+    return tld in GENERIC_TLDS or tld in EUROPEAN_TLDS
+
 
 def load_existing_stories() -> tuple[List[Dict], Set[str]]:
     """Load existing stories from JSON file and extract source URLs for deduplication."""
@@ -131,6 +166,7 @@ def fetch_rss_candidates(existing_urls: Set[str]) -> Dict[str, List[Dict]]:
 
             new_count = 0
             skipped_count = 0
+            foreign_count = 0
 
             for item in items[:10]:  # Check up to 10 per category
                 title = item.find('title')
@@ -150,6 +186,11 @@ def fetch_rss_candidates(existing_urls: Set[str]) -> Dict[str, List[Dict]]:
                 if not link_text:
                     continue
 
+                source_url = source.get('url', '') if source is not None else ''
+                if not is_us_or_european_publisher(source_url):
+                    foreign_count += 1
+                    continue
+
                 desc_text = ""
                 if description is not None and description.text:
                     desc_text = html.unescape(description.text)
@@ -162,6 +203,7 @@ def fetch_rss_candidates(existing_urls: Set[str]) -> Dict[str, List[Dict]]:
                         "title": title_text,
                         "description": desc_text,
                         "source": source_text,
+                        "source_domain": urlparse(source_url).hostname,
                         "url": link_text
                     })
                     new_count += 1
@@ -170,10 +212,11 @@ def fetch_rss_candidates(existing_urls: Set[str]) -> Dict[str, List[Dict]]:
                     if new_count >= 3:
                         break
 
+            skipped = f"skipped {skipped_count} existing, {foreign_count} non-US/EU publishers"
             if new_count > 0:
-                print(f"  ✓ {category}: {new_count} NEW candidates (skipped {skipped_count} existing)")
+                print(f"  ✓ {category}: {new_count} NEW candidates ({skipped})")
             else:
-                print(f"  - {category}: No new news (skipped {skipped_count} existing)")
+                print(f"  - {category}: No new news ({skipped})")
 
         except Exception as e:
             print(f"  ✗ {category}: RSS error - {e}")
@@ -247,6 +290,8 @@ TARGET AUDIENCE: Nurses, wound care specialists, and healthcare workers who need
 
 For each category below, select the best news story and adapt it to Spanish at the specified CEFR level.
 
+GEOGRAPHY: Use only stories from United States or European publishers about United States or European patients, hospitals, research, or health policy. Skip any candidate whose publisher is based elsewhere or whose study, cases, or events are set elsewhere (for example a case series from India, a program in South Africa, or a study in Pakistan). If no candidate in a category qualifies, leave that category out.
+
 NEWS CANDIDATES BY CATEGORY:
 """
 
@@ -259,7 +304,7 @@ NEWS CANDIDATES BY CATEGORY:
             difficulty = DIFFICULTY_MAP[category]
             prompt += f"\n## {category} (Target: {difficulty} level)\n"
             for i, item in enumerate(candidates[category], 1):
-                prompt += f"{i}. [{item['source']}] {item['title']}\n"
+                prompt += f"{i}. [{item['source']} - {item['source_domain']}] {item['title']}\n"
                 prompt += f"   URL: {item['url']}\n"
                 if item['description']:
                     prompt += f"   {item['description'][:150]}...\n"
@@ -271,7 +316,7 @@ NEWS CANDIDATES BY CATEGORY:
 
     prompt += """
 
-OUTPUT FORMAT - Return valid JSON with ONE story per category listed above (only categories with news candidates):
+OUTPUT FORMAT - Return valid JSON with at most ONE story per category listed above (omit categories with no qualifying US/European candidate):
 
 {
   "stories": [
@@ -323,7 +368,7 @@ Include vocabulary from these domains:
 - Conditions: infección, necrosis, edema, eritema, isquemia
 
 REQUIREMENTS:
-1. ONLY create stories for categories listed above (those with news candidates)
+1. ONLY create stories for categories listed above (those with news candidates), and only from candidates that meet the GEOGRAPHY rule
 2. Each story must have exactly 4 vocabulary words
 3. Vocabulary should be medical terms that appear in the story
 4. Use today's date in the id field: """ + datetime.now().strftime("%Y%m%d") + """
