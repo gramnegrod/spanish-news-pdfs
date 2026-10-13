@@ -1,11 +1,48 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T09:29:41.643931Z",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T09:19:30.841356Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1240,
-  "new_today": 4,
+  "total_stories": 1241,
+  "new_today": 1,
   "stories": [
+    {
+      "id": "surgical-wounds-20261013",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🩹",
+      "gradient": "amber",
+      "headline_es": "La USU sigue la rápida resistencia antimicrobiana en heridas de combate de Ucrania",
+      "headline_en": "USU Tracks Rapid Antimicrobial Resistance in Ukraine Combat Wounds",
+      "summary_es": "Investigadores de la Uniformed Services University (USU) estudian la resistencia antimicrobiana en heridas de combate de Ucrania. El análisis de muestras y cultivos puede ayudar a seleccionar antibióticos adecuados y mejorar la atención.",
+      "body_es": "Un equipo de la Uniformed Services University (USU) estudia cómo cambia rápidamente la resistencia antimicrobiana en las heridas de combate de Ucrania. El trabajo analiza muestras de pacientes ucranianos y sigue las bacterias encontradas durante la atención médica. La información puede ayudar a elegir antibióticos adecuados para los soldados heridos y para otros pacientes con lesiones graves.\n\nLas heridas de combate suelen tener tierra, tejido dañado y contaminación bacteriana. Además, los pacientes pueden recibir varios antibióticos antes de llegar a un hospital. Por eso, el equipo compara los resultados de los cultivos con los medicamentos usados. El personal también observa signos de infección, necrosis y retraso en la curación.\n\nEl objetivo de USU es reconocer pronto los microorganismos resistentes y apoyar protocolos de tratamiento. Un equipo clínico podría ajustar el antibiótico después de recibir el antibiograma. También tendría que limpiar la herida, retirar tejido muerto mediante desbridamiento y controlar el exudado. Los resultados de Ucrania podrían orientar la preparación de las fuerzas estadounidenses y la atención de futuras lesiones de guerra. El estudio muestra que la vigilancia continua es importante en heridas complejas.",
+      "body_en": "A team from the Uniformed Services University (USU) is studying how antimicrobial resistance is changing rapidly in combat wounds in Ukraine. The work analyzes samples from Ukrainian patients and tracks the bacteria found during medical care. This information may help clinicians choose appropriate antibiotics for wounded soldiers and other patients with serious injuries.\n\nCombat wounds often contain dirt, damaged tissue, and bacterial contamination. In addition, patients may receive several antibiotics before arriving at a hospital. Therefore, the team compares culture results with the medications used. Staff also watch for signs of infection, necrosis, and delayed healing.\n\nUSU’s goal is to identify resistant microorganisms early and support treatment protocols. A clinical team could adjust the antibiotic after receiving the antibiogram. It would also need to clean the wound, remove dead tissue through debridement, and control exudate. Results from Ukraine could guide preparation for U.S. forces and care for future war injuries. The study shows that continuous surveillance is important in complex wounds.",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yc0NXS2c1RWc5ZUtTcHVOTndOY21qTmpkRDdRVnJieTE4UXEtdVVOYzZHbUpYREhxeXZyV0w4MXNxOWFNejdlNEZ2ZHRYQkZzNklJVjRuR2Qydm1xal9XWWp6OHhqRFpYT2tEOWphOEtVcURR?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-13/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o en el tejido",
+          "definition_en": "wound - injury to the skin or tissue"
+        },
+        {
+          "word": "resistencia antimicrobiana",
+          "definition_es": "capacidad de los microbios para sobrevivir a los medicamentos",
+          "definition_en": "antimicrobial resistance - ability of microbes to survive medicines"
+        },
+        {
+          "word": "desbridamiento",
+          "definition_es": "procedimiento para retirar tejido muerto de una herida",
+          "definition_en": "debridement - procedure to remove dead tissue from a wound"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes out of a wound"
+        }
+      ],
+      "added_at": "2026-10-13T09:19:30.841356Z"
+    },
     {
       "id": "diabetic-foot-20261012",
       "category": "Diabetic Foot",
@@ -45881,6 +45918,6 @@
       ]
     }
   ],
-  "last_updated": "2026-10-12T09:29:41.643931Z",
+  "last_updated": "2026-10-13T09:19:30.841356Z",
   "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
 }
