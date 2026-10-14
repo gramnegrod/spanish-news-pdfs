@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-10-14",
+      "filename": "spanish_lesson_2026-10-14.pdf",
+      "path": "pdfs/spanish_lesson_2026-10-14.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "La Cámara aprueba un gran proyecto para reforzar el control migratorio",
+          "headline_en": "The House Approves a Major Bill to Strengthen Immigration Enforcement",
+          "body_es": "La Cámara de Representantes de Estados Unidos aprobó un proyecto de ley. El plan tiene un valor de 70.000 millones de dólares. Su objetivo principal es reforzar el control migratorio en todo el país. El texto ofrece más dinero para agentes de inmigración y operaciones en la frontera. También financia centros de detención, nuevas barreras y tecnología para vigilar los cruces. Los republicanos dicen que el plan mejorará la seguridad y hará cumplir las leyes. Muchos demócratas critican su costo y temen daños para las familias inmigrantes. Ellos piden más atención para las personas que buscan asilo en Estados Unidos. El proyecto todavía necesita la aprobación del Senado y la firma del presidente. Por eso, su futuro no está asegurado y el debate continúa en Washington. Los grupos defensores de inmigrantes también preparan críticas al texto.",
+          "body_en": "The U.S. House of Representatives approved a bill. The plan is worth $70 billion. Its main goal is to strengthen immigration enforcement across the country. The bill provides more money for immigration agents and operations at the border. It also funds detention centers, new barriers, and technology to monitor crossings. Republicans say the plan will improve security and enforce the laws. Many Democrats criticize its cost and fear harm to immigrant families. They want more attention for people seeking asylum in the United States. The bill still needs approval from the Senate and the president’s signature. Therefore, its future is not certain, and the debate continues in Washington. Immigrant-rights groups are also preparing criticism of the bill.",
+          "source": "ABC News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "El FMI advierte de riesgos para la economía mundial",
+          "headline_en": "IMF Warns of Risks to the Global Economy",
+          "body_es": "El Fondo Monetario Internacional (FMI) advierte sobre varios riesgos para la economía mundial. Uno de ellos es una posible corrección en el mercado de la inteligencia artificial. En los últimos años, muchas empresas tecnológicas han recibido grandes inversiones por el entusiasmo por la IA. Si sus precios bajan rápidamente, los inversores podrían perder dinero y reducir sus gastos. El FMI también señala los efectos de nuevas guerras y otros conflictos internacionales. Una guerra puede aumentar los precios de la energía y afectar el comercio entre países. Otro problema importante es la deuda pública y privada, que continúa creciendo en muchas economías. Los gobiernos necesitan pagar intereses más altos, especialmente cuando las tasas de interés suben. El informe recomienda mantener planes claros y preparar respuestas para momentos difíciles. También pide cooperación entre países para proteger la estabilidad financiera mundial. El FMI no anuncia una crisis inmediata, pero considera que cada riesgo merece atención.",
+          "body_en": "The International Monetary Fund (IMF) warns about several risks to the global economy. One of them is a possible correction in the artificial intelligence market. In recent years, many technology companies have received large investments because of enthusiasm about AI. If their prices fall quickly, investors could lose money and reduce their spending. The IMF also points to the effects of new wars and other international conflicts. A war can raise energy prices and affect trade between countries. Another important problem is public and private debt, which continues to grow in many economies. Governments need to pay higher interest, especially when interest rates rise. The report recommends keeping clear plans and preparing responses for difficult times. It also calls for cooperation among countries to protect global financial stability. The IMF does not announce an immediate crisis, but it says every risk deserves attention.",
+          "source": "Reuters"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "Massachusetts podría aprobar la ley de seguridad de IA más estricta de EE. UU.",
+          "headline_en": "Massachusetts May Pass the Strictest AI Safety Law in the U.S.",
+          "body_es": "El estado de Massachusetts estudia aprobar una nueva ley sobre la seguridad de la inteligencia artificial. Sus defensores dicen que podría ser la norma más estricta del país. El proyecto busca controlar los sistemas de IA que pueden causar daños importantes. Por ejemplo, considera problemas relacionados con la privacidad, el empleo y la seguridad pública. Las empresas tendrían que evaluar algunos sistemas antes de ofrecerlos al público. También podrían tener que informar sobre riesgos, errores y medidas de protección. La propuesta daría más poder a las autoridades para investigar posibles abusos. Los partidarios creen que estas reglas protegerán a los ciudadanos y aumentarán la confianza. Algunas empresas tecnológicas temen costos altos y reglas diferentes en cada estado. Dicen que una norma muy dura podría frenar la innovación. Los legisladores todavía negocian los detalles y el proyecto no es una ley. Si recibe suficientes votos, Massachusetts podría convertirse en un modelo para otros estados. El debate muestra la dificultad de avanzar rápidamente sin olvidar la seguridad.",
+          "body_en": "The state of Massachusetts is considering passing a new law about artificial intelligence safety. Supporters say it could be the strictest rule in the country. The bill seeks to control AI systems that can cause serious harm. For example, it considers problems related to privacy, employment, and public safety. Companies would have to evaluate some systems before offering them to the public. They might also have to report risks, errors, and protective measures. The proposal would give authorities more power to investigate possible abuses. Supporters believe these rules will protect citizens and increase trust. Some technology companies fear high costs and different rules in each state. They say a very strict rule could slow innovation. Lawmakers are still negotiating the details, and the proposal is not a law yet. If it receives enough votes, Massachusetts could become a model for other states. The debate shows how difficult it is to move quickly without forgetting safety.",
+          "source": "GovTech"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "frontera",
+          "syllables": "fron-TE-ra",
+          "pos": "sustantivo",
+          "context": "El texto ofrece más dinero para agentes de inmigración y operaciones en la frontera.",
+          "definition_es": "Línea que separa dos países o regiones.",
+          "definition_en": "Border"
+        },
+        {
+          "word": "inmigración",
+          "syllables": "in-mi-gra-CIÓN",
+          "pos": "sustantivo",
+          "context": "El texto ofrece más dinero para agentes de inmigración y operaciones en la frontera.",
+          "definition_es": "Movimiento de personas hacia otro país para vivir allí.",
+          "definition_en": "Immigration"
+        },
+        {
+          "word": "ley",
+          "syllables": "LEY",
+          "pos": "sustantivo",
+          "context": "La Cámara de Representantes de Estados Unidos aprobó un proyecto de ley.",
+          "definition_es": "Regla oficial que deben seguir las personas.",
+          "definition_en": "Law"
+        },
+        {
+          "word": "deuda",
+          "syllables": "DEU-da",
+          "pos": "sustantivo",
+          "context": "Otro problema importante es la deuda pública y privada, que continúa creciendo en muchas economías.",
+          "definition_es": "Dinero que una persona, empresa o país debe pagar.",
+          "definition_en": "Debt"
+        },
+        {
+          "word": "riesgo",
+          "syllables": "RIES-go",
+          "pos": "sustantivo",
+          "context": "El FMI no anuncia una crisis inmediata, pero considera que cada riesgo merece atención.",
+          "definition_es": "Posibilidad de que ocurra algo malo o peligroso.",
+          "definition_en": "Risk"
+        },
+        {
+          "word": "mercado",
+          "syllables": "mer-CA-do",
+          "pos": "sustantivo",
+          "context": "Uno de ellos es una posible corrección en el mercado de la inteligencia artificial.",
+          "definition_es": "Lugar o sistema donde se compran y venden productos o inversiones.",
+          "definition_en": "Market"
+        },
+        {
+          "word": "inteligencia artificial",
+          "syllables": "in-te-li-GEN-cia ar-ti-fi-CIAL",
+          "pos": "locución sustantiva",
+          "context": "El estado de Massachusetts estudia aprobar una nueva ley sobre la seguridad de la inteligencia artificial.",
+          "definition_es": "Tecnología que permite a las máquinas realizar tareas parecidas a las humanas.",
+          "definition_en": "Artificial intelligence"
+        },
+        {
+          "word": "seguridad",
+          "syllables": "se-gu-ri-DAD",
+          "pos": "sustantivo",
+          "context": "Los republicanos dicen que el plan mejorará la seguridad y hará cumplir las leyes.",
+          "definition_es": "Protección frente a peligros, daños o problemas.",
+          "definition_en": "Safety; security"
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué significa la palabra «frontera»?",
+          "options": [
+            "Línea que separa dos países",
+            "Lugar donde se estudia",
+            "Tipo de inversión",
+            "Regla para las empresas"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué es una deuda?",
+          "options": [
+            "Una inversión nueva",
+            "Dinero que se debe pagar",
+            "Una barrera en la frontera",
+            "Una medida de seguridad"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "En la noticia de Economía, ¿qué es un riesgo?",
+          "options": [
+            "Un aumento de salario",
+            "Un tipo de mercado",
+            "La posibilidad de un problema",
+            "Una ley nacional"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa «seguridad» en las noticias?",
+          "options": [
+            "Velocidad para cambiar una ley",
+            "Una guerra entre países",
+            "Dinero que se debe pagar",
+            "Protección frente a peligros"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "En la noticia de Política, ¿cuánto dinero tiene el proyecto de ley?",
+          "options": [
+            "7.000 millones de dólares",
+            "17.000 millones de dólares",
+            "70.000 millones de dólares",
+            "700.000 millones de dólares"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "Según la noticia de Política, ¿qué necesita el proyecto después de la aprobación de la Cámara?",
+          "options": [
+            "La aprobación del Senado y la firma del presidente",
+            "La aprobación de todos los estados",
+            "Una nueva elección nacional",
+            "El permiso de otros países"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la noticia de Economía, ¿qué podría pasar si bajan rápidamente los precios del mercado de IA?",
+          "options": [
+            "Los gobiernos cerrarían sus fronteras",
+            "Los inversores podrían perder dinero y gastar menos",
+            "Las guerras terminarían inmediatamente",
+            "La deuda desaparecería"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué efecto puede tener una guerra según la noticia de Economía?",
+          "options": [
+            "Puede reducir todos los precios",
+            "Puede eliminar la deuda privada",
+            "Puede aumentar la energía y afectar el comercio",
+            "Puede aprobar nuevas leyes de IA"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la noticia de Tecnología, ¿qué podrían tener que hacer las empresas?",
+          "options": [
+            "Construir centros de detención",
+            "Pagar toda la deuda pública",
+            "Cerrar sus oficinas en Massachusetts",
+            "Evaluar sistemas e informar sobre riesgos"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Cuál es la situación actual del proyecto de ley de Massachusetts?",
+          "options": [
+            "Ya es una ley nacional",
+            "Los legisladores todavía negocian sus detalles",
+            "El Senado de Estados Unidos lo rechazó",
+            "Las empresas ya deben cumplir todas sus reglas"
+          ],
+          "answer": "B"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-10-14T09:35:17.708905"
+    },
+    {
       "date": "2026-10-13",
       "filename": "spanish_lesson_2026-10-13.pdf",
       "path": "pdfs/spanish_lesson_2026-10-13.pdf",
@@ -66157,7 +66379,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-10-13T10:04:25.052641",
+  "last_updated": "2026-10-14T09:35:17.708927",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
