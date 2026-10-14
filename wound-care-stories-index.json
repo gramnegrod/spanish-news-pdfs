@@ -1,11 +1,48 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T09:19:30.841356Z",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T09:15:30.554780Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1241,
+  "total_stories": 1242,
   "new_today": 1,
   "stories": [
+    {
+      "id": "surgical-wounds-20261014",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🩹",
+      "gradient": "orange",
+      "headline_es": "Guía equilibra el riesgo de infección y el control reumático antes de una cirugía",
+      "headline_en": "Guideline balances infection risk and rheumatic disease control before surgery",
+      "summary_es": "Las recomendaciones de 2022 para reemplazos totales de cadera y rodilla explican cuándo continuar o suspender medicamentos antirreumáticos. El tratamiento suele reiniciarse unos 14 días después, cuando la herida está curada y no hay signos de infección.",
+      "body_es": "Una guía clínica actualizada revisa cómo manejar los medicamentos antirreumáticos alrededor del reemplazo total de cadera o rodilla. Su objetivo es proteger la herida quirúrgica y mantener controlada la enfermedad.\n\nLas recomendaciones de 2022 del American College of Rheumatology y la American Association of Hip and Knee Surgeons indican que muchos pacientes pueden continuar metotrexato, hidroxicloroquina, sulfasalazina, leflunomida y apremilast durante la operación. Los medicamentos biológicos suelen suspenderse durante un intervalo de dosis. La cirugía se programa después de omitir una dosis. Los inhibidores de JAK, como tofacitinib, baricitinib y upadacitinib, se suspenden tres días antes. En la evaluación preoperatoria, el equipo revisaba cada dosis.\n\nEl tratamiento suspendido debe reiniciarse cuando la herida muestre buena curación, no quede ninguna sutura o grapa y no exista eritema, secreción ni infección. Esto suele ocurrir cerca de 14 días después de la cirugía. Si hay inflamación o la herida permanece abierta, el equipo debería retrasar el reinicio y hacer una nueva evaluación. Durante el seguimiento, enfermería controlará la herida y comunicará cualquier cambio al cirujano y al reumatólogo. Así, el plan equilibrará el riesgo de infección con el control de la enfermedad.",
+      "body_en": "An updated clinical guideline reviews how to manage antirheumatic medications around total hip or knee replacement. Its goal is to protect the surgical wound and keep the disease under control.\n\nThe 2022 recommendations from the American College of Rheumatology and the American Association of Hip and Knee Surgeons state that many patients can continue methotrexate, hydroxychloroquine, sulfasalazine, leflunomide, and apremilast during surgery. Biologic medications are usually withheld for one dosing interval. Surgery is scheduled after skipping one dose. JAK inhibitors, such as tofacitinib, baricitinib, and upadacitinib, are stopped three days beforehand. During the preoperative assessment, the team reviewed each dose.\n\nThe withheld treatment should be restarted when the wound shows good healing, no suture or staple remains, and there is no erythema, drainage, or infection. This usually occurs about 14 days after surgery. If inflammation is present or the wound remains open, the team should delay restarting the treatment and conduct a new assessment. During follow-up, nursing staff will monitor the wound and report any change to the surgeon and rheumatologist. In this way, the plan will balance infection risk with disease control.",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTVB6blFVT2tEcmJnc0o1VjJ0bEttOGZuck5zUUY0TW93WE1FYXdvSk9FRzdXSTFxUUl6SHl1WHBZekkyMk5XajdKWkt4eGxyVURsS1J1ODR2VnFVcldldi16NXZzMV92aEw3TWhvZDEydjJ3cmYtNlFLYXQ4Qm5wV1JKclVZT19BNW14bEFHWmhmR1d4b2V6WmJRWTZLa1ZFY1piRDAxLV9mMjVpb21LNHF3NlU4cGdNQ1B0d0dBbFZldmhpX1d6M1ZpRndLTU0?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-14/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o el tejido",
+          "definition_en": "wound - injury to skin or tissue"
+        },
+        {
+          "word": "infección",
+          "definition_es": "entrada y crecimiento de microbios que causan enfermedad",
+          "definition_en": "infection - invasion by harmful microorganisms"
+        },
+        {
+          "word": "eritema",
+          "definition_es": "enrojecimiento visible de la piel",
+          "definition_en": "erythema - visible redness of the skin"
+        },
+        {
+          "word": "sutura",
+          "definition_es": "hilo o técnica para cerrar una herida",
+          "definition_en": "suture - thread or technique used to close a wound"
+        }
+      ],
+      "added_at": "2026-10-14T09:15:30.554780Z"
+    },
     {
       "id": "surgical-wounds-20261013",
       "category": "Surgical Wounds",
@@ -45918,6 +45955,6 @@
       ]
     }
   ],
-  "last_updated": "2026-10-13T09:19:30.841356Z",
+  "last_updated": "2026-10-14T09:15:30.554780Z",
   "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
 }
