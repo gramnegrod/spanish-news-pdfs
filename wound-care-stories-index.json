@@ -1,11 +1,48 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T09:15:30.554780Z",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T09:13:50.335013Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1242,
+  "total_stories": 1243,
   "new_today": 1,
   "stories": [
+    {
+      "id": "surgical-wounds-20261015",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🩹",
+      "gradient": "red",
+      "headline_es": "Una guía equilibra la infección y el control de la enfermedad durante la cirugía",
+      "headline_en": "A guideline balances infection and disease control during surgery",
+      "summary_es": "DocWireNews revisa las recomendaciones del ACR y la AAHKS para manejar medicamentos antirreumáticos durante operaciones de cadera y rodilla. El protocolo busca reducir la infección de la herida sin provocar un brote de la enfermedad.",
+      "body_es": "Un artículo de DocWireNews revisa cómo manejar los medicamentos antirreumáticos alrededor de una operación. Las recomendaciones proceden de la guía conjunta del American College of Rheumatology (ACR) y la American Association of Hip and Knee Surgeons (AAHKS) para personas con enfermedades reumáticas que reciben una artroplastia total electiva de cadera o rodilla.\n\nEl objetivo es reducir la infección de la herida sin perder el control de la enfermedad. La guía recomienda continuar durante el periodo perioperatorio medicamentos convencionales como metotrexato, hidroxicloroquina, sulfasalazina y leflunomida. En cambio, los pacientes suelen suspender los fármacos biológicos y programar la operación cuando termina el intervalo de la siguiente dosis. Los inhibidores de JAK se suspenden tres días antes de la cirugía.\n\nEl tratamiento antirreumático puede reiniciarse cuando la herida muestra cicatrización, las grapas o suturas fueron retiradas y no hay eritema, drenaje ni infección; esto suele ocurrir alrededor de 14 días después. El equipo debe realizar una evaluación individual, porque el riesgo de brote y las enfermedades asociadas varían. Enfermería debe observar la incisión, registrar exudado y comunicar cambios al cirujano y al reumatólogo.",
+      "body_en": "A DocWireNews article reviews how to manage antirheumatic medications around surgery. The recommendations come from a joint guideline by the American College of Rheumatology (ACR) and the American Association of Hip and Knee Surgeons (AAHKS) for people with rheumatic diseases receiving elective total hip or knee arthroplasty.\n\nThe goal is to reduce wound infection without losing control of the disease. The guideline recommends continuing conventional medicines such as methotrexate, hydroxychloroquine, sulfasalazine, and leflunomide during the perioperative period. In contrast, patients usually stop biologic drugs and schedule surgery when the interval before the next dose has ended. JAK inhibitors are stopped three days before surgery.\n\nAntirheumatic treatment may restart when the wound shows healing, staples or sutures have been removed, and there is no erythema, drainage, or infection; this usually occurs around 14 days later. The team should perform an individual assessment because flare risk and associated conditions vary. Nurses should observe the incision, record exudate, and report changes to the surgeon and rheumatologist.",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTVB6blFVT2tEcmJnc0o1VjJ0bEttOGZuck5zUUY0TW93WE1FYXdvSk9FRzdXSTFxUUl6SHl1WHBZekkyMk5XajdKWkt4eGxyVURsS1J1ODR2VnFVcldldi16NXZzMV92aEw3TWhvZDEydjJ3cmYtNlFLYXQ4Qm5wV1JKclVZT19BNW14bEFHWmhmR1d4b2V6WmJRWTZLa1ZFY1piRDAxLV9mMjVpb21LNHF3NlU4cGdNQ1B0d0dBbFZldmhpX1d6M1ZpRndLT0pKTUQ3UC1rVzlxNUdITG0yTDNJNmVfTHJfSE1Z?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-15/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión en la piel o el tejido",
+          "definition_en": "wound - injury to the skin or tissue"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos que causa enfermedad",
+          "definition_en": "infection - invasion by microorganisms that causes disease"
+        },
+        {
+          "word": "cicatrización",
+          "definition_es": "proceso por el que una herida se repara",
+          "definition_en": "healing - process through which a wound repairs itself"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes out of a wound"
+        }
+      ],
+      "added_at": "2026-10-15T09:13:50.335013Z"
+    },
     {
       "id": "surgical-wounds-20261014",
       "category": "Surgical Wounds",
@@ -45955,6 +45992,6 @@
       ]
     }
   ],
-  "last_updated": "2026-10-14T09:15:30.554780Z",
+  "last_updated": "2026-10-15T09:13:50.335013Z",
   "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
 }
