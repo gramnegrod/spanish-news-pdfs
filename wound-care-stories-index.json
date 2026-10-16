@@ -1,11 +1,48 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T09:13:50.335013Z",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T09:14:42.238306Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1243,
+  "total_stories": 1244,
   "new_today": 1,
   "stories": [
+    {
+      "id": "surgical-wounds-20261016",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🩹",
+      "gradient": "blue",
+      "headline_es": "Cleveland Clinic analiza la cirugía TECAB para pacientes seleccionados",
+      "headline_en": "Cleveland Clinic examines TECAB surgery for selected patients",
+      "summary_es": "Cleveland Clinic analiza la cirugía de bypass coronario totalmente endoscópica (TECAB) para pacientes seleccionados. El abordaje utiliza pequeñas incisiones torácicas, por lo que el seguimiento de la herida quirúrgica es especialmente importante.",
+      "body_es": "Cleveland Clinic analiza la cirugía de bypass coronario totalmente endoscópica, conocida como TECAB, para pacientes seleccionados que necesitan revascularización. El procedimiento utiliza pequeñas incisiones en el tórax, en lugar de abrir completamente el esternón. Por eso, puede reducir el trauma de la pared torácica y cambiar la recuperación después de la cirugía. Para enfermería, esta técnica exige una evaluación cuidadosa de cada herida quirúrgica. Tras la intervención, el equipo revisará el aspecto de la piel, la sutura, el dolor, la respiración y el edema. También medirá el exudado y observará eritema, calor o separación de los bordes. Estos signos podrían indicar una infección y deben comunicarse con rapidez. La selección del paciente será esencial, porque no todas las anatomías coronarias permiten TECAB. El equipo valorará las arterias afectadas, los riesgos anestésicos y la experiencia quirúrgica disponible. Si el paciente resulta adecuado, la técnica podría facilitar una recuperación con incisiones más pequeñas. Aun así, el personal seguirá el protocolo local y enseñará cómo protegerlas después del alta. Cleveland Clinic destaca que la decisión requiere coordinación entre cardiología, cirugía y enfermería.",
+      "body_en": "Cleveland Clinic examines totally endoscopic coronary artery bypass surgery, known as TECAB, for selected patients who need revascularization. The procedure uses small incisions in the chest instead of completely opening the sternum. Therefore, it may reduce trauma to the chest wall and change recovery after surgery. For nursing staff, this technique requires a careful assessment of each surgical wound. After the procedure, the team will review the appearance of the skin, the suture, pain, breathing, and edema. It will also measure exudate and look for erythema, warmth, or separation of the edges. These signs could indicate an infection and should be reported promptly. Patient selection will be essential because not every coronary anatomy allows TECAB. The team will assess the affected arteries, anesthetic risks, and available surgical experience. If the patient is appropriate, the technique could support recovery with smaller incisions. Even so, staff will follow the local protocol and teach patients how to protect them after discharge. Cleveland Clinic emphasizes that the decision requires coordination among cardiology, surgery, and nursing.",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUwwd1dUeUtWQnRDR25ZUTByT1VHdENQTVRlZWQ0WHU4eENDaEVaUzc5RHBpZW9LdDJhdXVVNmx3MTBLRDhvLTdHXzliZVlUODlFdE1yWTNNTlBZbGQyTkppaTlZNW1kUDJBZ1cyeWpYZHhaVV9QV3dESi01M1B4SWNUWnptbjZINkgyX0ktNlBfb1d1RG43VmU4Tkd5V0d4bDVudW5KT0RjQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-16/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida",
+          "definition_es": "lesión de la piel o de un tejido",
+          "definition_en": "wound - injury to the skin or tissue"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "revisión clínica del estado de una lesión",
+          "definition_en": "assessment - clinical review of a wound's condition"
+        },
+        {
+          "word": "exudado",
+          "definition_es": "líquido que sale de una herida",
+          "definition_en": "exudate - fluid that comes out of a wound"
+        },
+        {
+          "word": "infección",
+          "definition_es": "entrada y crecimiento de microorganismos dañinos",
+          "definition_en": "infection - entry and growth of harmful microorganisms"
+        }
+      ],
+      "added_at": "2026-10-16T09:14:42.238306Z"
+    },
     {
       "id": "surgical-wounds-20261015",
       "category": "Surgical Wounds",
@@ -45992,6 +46029,6 @@
       ]
     }
   ],
-  "last_updated": "2026-10-15T09:13:50.335013Z",
+  "last_updated": "2026-10-16T09:14:42.238306Z",
   "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
 }
