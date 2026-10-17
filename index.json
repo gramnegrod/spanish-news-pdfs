@@ -1,6 +1,228 @@
 {
   "pdfs": [
     {
+      "date": "2026-10-17",
+      "filename": "spanish_lesson_2026-10-17.pdf",
+      "path": "pdfs/spanish_lesson_2026-10-17.pdf",
+      "stories": [
+        {
+          "category": "Política",
+          "headline_es": "Los votos sobre Irán llegan a los anuncios electorales",
+          "headline_en": "Iran votes reach campaign advertisements",
+          "body_es": "En Estados Unidos, los votos sobre una posible guerra con Irán ahora ocupan un lugar importante en las campañas políticas. El Congreso ha debatido si el presidente necesita permiso para realizar ciertas operaciones militares. Cada voto puede afectar la imagen de un representante ante sus ciudadanos. Los anuncios electorales presentan esos votos de manera negativa ante los votantes del estado. Un partido puede acusar a otro de apoyar una guerra peligrosa. También puede decir que su rival no protegió a los soldados ni limitó al presidente. Los defensores de los legisladores responden que las decisiones fueron responsables y necesarias. Ellos explican que los votos buscaban limitar una acción militar sin suficiente debate. En algunas elecciones, la política exterior puede influir en los votantes. Sin embargo, muchas personas también se preocupan por empleos, precios y servicios públicos. Por eso, los candidatos intentan conectar el debate sobre Irán con problemas de la vida diaria. La campaña y los anuncios mostrarán si estos votos cambian las decisiones de los ciudadanos.",
+          "body_en": "In the United States, votes about a possible war with Iran now occupy an important place in political campaigns. Congress has debated whether the president needs permission to carry out certain military operations. Each vote can affect a representative's image among citizens. Election advertisements present those votes negatively to voters in the state. A party can accuse another of supporting a dangerous war. It can also say that its rival did not protect soldiers or limit the president. Supporters of the lawmakers respond that the decisions were responsible and necessary. They explain that the votes sought to limit military action without enough debate. In some elections, foreign policy can influence voters. However, many people also worry about jobs, prices, and public services. For that reason, candidates try to connect the Iran debate with problems of daily life. The campaign and advertisements will show whether these votes change citizens' decisions.",
+          "source": "WTOP News"
+        },
+        {
+          "category": "Economía",
+          "headline_es": "Los consumidores resisten los precios altos, pero ¿por cuánto tiempo?",
+          "headline_en": "Consumers withstand high prices, but for how long?",
+          "body_es": "En Estados Unidos, muchas familias siguen comprando cosas aunque los precios han subido. El precio de los alimentos, la vivienda y los servicios reduce el dinero disponible en los hogares. Sin embargo, los consumidores todavía gastan en restaurantes, viajes y actividades diarias. Este consumo ayuda a mantener abiertas muchas empresas y sostiene parte de la economía. Los salarios han aumentado para algunos trabajadores, pero no para todos. Las familias con menos ingresos sienten el cambio con mayor rapidez. Ellas pueden reducir compras, usar ahorros o pagar más con tarjetas de crédito. Los economistas preguntan cuánto tiempo continuará esta resistencia de los consumidores. Si los precios siguen subiendo, el presupuesto mensual podría quedarse corto. Entonces, las personas podrían posponer compras importantes y cambiar sus hábitos. El gasto actual muestra fuerza, pero también oculta preocupaciones sobre deudas y ahorro. El futuro dependerá de los precios, los empleos y la confianza de los hogares.",
+          "body_en": "In the United States, many families continue buying things even though prices have risen. The price of food, housing, and services reduces the money available in households. However, consumers still spend on restaurants, travel, and daily activities. This consumption helps keep many businesses open and supports part of the economy. Wages have increased for some workers, but not for everyone. Families with lower incomes feel the change more quickly. They can reduce purchases, use savings, or pay more with credit cards. Economists ask how long this consumer strength will continue. If prices keep rising, the monthly budget could come up short. Then people might postpone important purchases and change their habits. Current spending shows strength, but it also hides concerns about debt and savings. The future will depend on prices, jobs, and household confidence.",
+          "source": "WVUA 23"
+        },
+        {
+          "category": "Tecnología",
+          "headline_es": "China quiere controlar más sus exportaciones de inteligencia artificial",
+          "headline_en": "China seeks tighter control of its artificial intelligence exports",
+          "body_es": "China está estudiando controles más estrictos para algunas exportaciones relacionadas con la inteligencia artificial. El gobierno quiere conocer mejor qué tecnología sale del país y quién la recibe. Una exportación puede incluir programas, servicios, modelos avanzados o equipos especializados. Las nuevas reglas podrían exigir permisos y revisiones antes de cerrar ciertos acuerdos. Beijing dice que necesita proteger la seguridad nacional y sus conocimientos importantes. También quiere evitar que tecnologías sensibles ayuden a otros países sin supervisión. El plan aparece durante una rivalidad cada vez mayor entre China y Estados Unidos. Washington ya limita el acceso chino a algunos chips y herramientas avanzadas. Las empresas temen que reglas diferentes aumenten sus costos y retrasen sus negocios. Los compradores extranjeros también podrían buscar proveedores de otros lugares. China deberá equilibrar la protección tecnológica con el crecimiento de sus exportaciones. El resultado puede cambiar la competencia mundial en inteligencia artificial.",
+          "body_en": "China is studying stricter controls for some exports related to artificial intelligence. The government wants to know better what technology leaves the country and who receives it. An export can include programs, services, advanced models, or specialized equipment. New rules could require permits and reviews before certain agreements are completed. Beijing says it needs to protect national security and its important expertise. It also wants to prevent sensitive technologies from helping other countries without oversight. The plan appears during a growing rivalry between China and the United States. Washington already limits China's access to some advanced chips and tools. Companies fear different rules will increase their costs and delay their business. Foreign buyers could also look for suppliers in other places. China will have to balance technological protection with the growth of its exports. The result can change worldwide competition in artificial intelligence.",
+          "source": "Reuters"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "voto",
+          "syllables": "VÓ-to",
+          "pos": "sustantivo",
+          "context": "Cada voto puede afectar la imagen de un representante ante sus ciudadanos.",
+          "definition_es": "Decisión que una persona expresa en una elección.",
+          "definition_en": "A vote; a choice expressed in an election."
+        },
+        {
+          "word": "campaña",
+          "syllables": "cam-PA-ña",
+          "pos": "sustantivo",
+          "context": "La campaña y los anuncios mostrarán si estos votos cambian las decisiones de los ciudadanos.",
+          "definition_es": "Serie de actividades para ganar una elección o apoyar una idea.",
+          "definition_en": "Campaign; a series of activities to win an election or support an idea."
+        },
+        {
+          "word": "acusar",
+          "syllables": "a-cu-SAR",
+          "pos": "verbo",
+          "context": "Un partido puede acusar a otro de apoyar una guerra peligrosa.",
+          "definition_es": "Decir que otra persona hizo algo malo o tiene responsabilidad.",
+          "definition_en": "To accuse; to say that someone did something wrong or is responsible."
+        },
+        {
+          "word": "precio",
+          "syllables": "PRE-cio",
+          "pos": "sustantivo",
+          "context": "El precio de los alimentos, la vivienda y los servicios reduce el dinero disponible en los hogares.",
+          "definition_es": "Cantidad de dinero que cuesta un producto o servicio.",
+          "definition_en": "Price; the amount of money that something costs."
+        },
+        {
+          "word": "consumo",
+          "syllables": "con-SU-mo",
+          "pos": "sustantivo",
+          "context": "Este consumo ayuda a mantener abiertas muchas empresas y sostiene parte de la economía.",
+          "definition_es": "Dinero que las personas gastan en bienes y servicios.",
+          "definition_en": "Consumption; money people spend on goods and services."
+        },
+        {
+          "word": "presupuesto",
+          "syllables": "pre-su-PUES-to",
+          "pos": "sustantivo",
+          "context": "Si los precios siguen subiendo, el presupuesto mensual podría quedarse corto.",
+          "definition_es": "Plan del dinero disponible para pagar gastos.",
+          "definition_en": "Budget; a plan for the money available to pay expenses."
+        },
+        {
+          "word": "exportación",
+          "syllables": "ex-por-ta-CIÓN",
+          "pos": "sustantivo",
+          "context": "Una exportación puede incluir programas, servicios, modelos avanzados o equipos especializados.",
+          "definition_es": "Producto, servicio o tecnología que sale de un país para otro.",
+          "definition_en": "Export; a product, service, or technology sent from one country to another."
+        },
+        {
+          "word": "rivalidad",
+          "syllables": "ri-va-li-DAD",
+          "pos": "sustantivo",
+          "context": "El plan aparece durante una rivalidad cada vez mayor entre China y Estados Unidos.",
+          "definition_es": "Competencia fuerte entre dos personas, grupos o países.",
+          "definition_en": "Rivalry; strong competition between two people, groups, or countries."
+        }
+      ],
+      "quiz": [
+        {
+          "number": 1,
+          "type": "vocab",
+          "question_es": "¿Qué es un voto?",
+          "options": [
+            "Una tecnología avanzada",
+            "Una deuda familiar",
+            "Una decisión expresada en una elección",
+            "Un permiso para exportar"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 2,
+          "type": "vocab",
+          "question_es": "¿Qué significa presupuesto en la historia de Economía?",
+          "options": [
+            "Plan del dinero disponible para pagar gastos",
+            "Una campaña política",
+            "Una rivalidad entre países",
+            "Un producto que sale de un país"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 3,
+          "type": "vocab",
+          "question_es": "¿Qué es una exportación?",
+          "options": [
+            "Una decisión de los votantes",
+            "Un producto, servicio o tecnología que sale de un país",
+            "Un anuncio electoral",
+            "Una deuda de los consumidores"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 4,
+          "type": "vocab",
+          "question_es": "¿Qué significa acusar en la historia de Política?",
+          "options": [
+            "Comprar un producto",
+            "Controlar un presupuesto",
+            "Viajar a otro país",
+            "Decir que otra persona tiene responsabilidad por algo malo"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 5,
+          "type": "comprehension",
+          "question_es": "Según la historia de Política, ¿por qué usan los partidos los votos sobre Irán en los anuncios?",
+          "options": [
+            "Para hablar solamente de los precios",
+            "Para criticar las decisiones o la imagen de un rival",
+            "Para elegir nuevos soldados",
+            "Para vender tecnología"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 6,
+          "type": "comprehension",
+          "question_es": "¿Qué dicen los defensores de los legisladores sobre las decisiones del Congreso?",
+          "options": [
+            "Que todos los ciudadanos apoyaron la guerra",
+            "Que no hubo ningún debate",
+            "Que los votos no eran importantes",
+            "Que las decisiones fueron responsables y necesarias"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": 7,
+          "type": "comprehension",
+          "question_es": "Según la historia de Economía, ¿qué ayuda a mantener abiertas muchas empresas?",
+          "options": [
+            "El consumo continuo de los ciudadanos",
+            "La reducción de los salarios",
+            "La disminución de los viajes",
+            "La falta de compras"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": 8,
+          "type": "comprehension",
+          "question_es": "¿Qué familias sienten más rápidamente el aumento de los precios?",
+          "options": [
+            "Las familias con muchos ahorros",
+            "Las familias de otros países",
+            "Las familias con menos ingresos",
+            "Las familias que venden tecnología"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": 9,
+          "type": "comprehension",
+          "question_es": "Según la historia de Tecnología, ¿qué podrían exigir las nuevas reglas chinas?",
+          "options": [
+            "Menos competencia entre empresas",
+            "Permisos y revisiones antes de ciertos acuerdos",
+            "Más viajes internacionales",
+            "Nuevos anuncios electorales"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": 10,
+          "type": "comprehension",
+          "question_es": "¿Qué equilibrio deberá buscar China en la historia de Tecnología?",
+          "options": [
+            "Entre los empleos y los precios",
+            "Entre los anuncios y los votos",
+            "Entre los restaurantes y los viajes",
+            "Entre proteger la tecnología y aumentar sus exportaciones"
+          ],
+          "answer": "D"
+        }
+      ],
+      "vocabulary_count": 8,
+      "quiz_count": 10,
+      "generated_at": "2026-10-17T09:30:43.462447"
+    },
+    {
       "date": "2026-10-16",
       "filename": "spanish_lesson_2026-10-16.pdf",
       "path": "pdfs/spanish_lesson_2026-10-16.pdf",
@@ -66823,7 +67045,7 @@
       "generated_at": "2025-12-07T15:51:03.528259"
     }
   ],
-  "last_updated": "2026-10-16T09:36:44.378510",
+  "last_updated": "2026-10-17T09:30:43.462470",
   "description": "Daily Spanish learning PDFs from US news",
   "level": "A2-B1",
   "generated_by": "GitHub Actions + Anthropic API"
