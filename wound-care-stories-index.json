@@ -1,11 +1,48 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T09:14:42.238306Z",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T09:12:23.321363Z",
   "description": "Accumulative wound care news for Spanish medical professionals",
   "content_type": "wound-care",
-  "total_stories": 1244,
+  "total_stories": 1245,
   "new_today": 1,
   "stories": [
+    {
+      "id": "surgical-wounds-20261017",
+      "category": "Surgical Wounds",
+      "difficulty": "B1",
+      "emoji": "🩹",
+      "gradient": "blue",
+      "headline_es": "Los niveles altos de HbA1c se relacionan con más riesgos tras una cirugía ocular",
+      "headline_en": "Higher HbA1c Levels Linked to Greater Risks After Eye Surgery",
+      "summary_es": "MedPage Today informa que un estudio relacionó niveles altos de HbA1c con mayores riesgos después de cirugías de catarata y glaucoma. El hallazgo destaca la evaluación preoperatoria y la vigilancia de la herida quirúrgica en personas con diabetes.",
+      "body_es": "Un informe publicado por MedPage Today relacionó los niveles altos de hemoglobina A1c (HbA1c) con más riesgos después de la cirugía de catarata y glaucoma. El estudio comparó los resultados posoperatorios según el control de la glucosa en sangre. La investigación incluyó estos dos tipos de cirugía ocular y describió una asociación entre HbA1c elevada y complicaciones quirúrgicas.\n\nPara enfermería, este hallazgo apoya una evaluación preoperatoria completa. El equipo debe revisar la piel alrededor del ojo, el edema, el eritema y cualquier signo de infección. Después de la intervención, conviene observar la herida quirúrgica, registrar el dolor y controlar la visión. Un apósito indicado protege la zona cuando el cirujano lo prescribe. La curación requiere seguimiento cuidadoso en personas con diabetes mal controlada. También se deben documentar secreciones, inflamación y cambios en la cicatriz. Si aparecen pérdida visual, dolor intenso o enrojecimiento creciente, el paciente necesita valoración urgente. Mejorar el control metabólico podría disminuir riesgos, aunque cada plan debe adaptarse al estado clínico.",
+      "body_en": "A report published by MedPage Today linked high hemoglobin A1c (HbA1c) levels with greater risks after cataract and glaucoma surgery. The study compared postoperative outcomes according to blood-glucose control. The research included these two types of eye surgery and described an association between elevated HbA1c and surgical complications.\n\nFor nursing staff, this finding supports a complete preoperative assessment. The team should examine the skin around the eye, edema, erythema, and any sign of infection. After the procedure, staff should observe the surgical wound, record pain, and monitor vision. An indicated dressing protects the area when the surgeon prescribes it. Healing requires careful follow-up in people with poorly controlled diabetes. The team should also document drainage, inflammation, and changes in the scar. If visual loss, severe pain, or increasing redness appears, the patient needs urgent assessment. Improving metabolic control could reduce risks, although each plan should be adapted to the patient’s clinical condition.",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13WTRvd3ZObElEQXBranBXdURzVlU5dVpnY3lWUmN5azBtdnpFSWh4S3Zaa3UyWUZINkdKeTE5UTdHT2FpZ1lVZmNJZUIyY1NVX3VzMXZnX3lDSHFvaFU4SlEwdHRMQQ?oc=5",
+      "audio_url": "https://raw.githubusercontent.com/gramnegrod/spanish-news-pdfs/main/audio/wound-care-stories/2026-10-17/surgical-wounds.mp3",
+      "key_vocabulary": [
+        {
+          "word": "herida quirúrgica",
+          "definition_es": "incisión o lesión causada por una operación",
+          "definition_en": "surgical wound - incision or injury caused by an operation"
+        },
+        {
+          "word": "evaluación",
+          "definition_es": "revisión clínica antes o después del tratamiento",
+          "definition_en": "assessment - clinical review before or after treatment"
+        },
+        {
+          "word": "infección",
+          "definition_es": "invasión de microorganismos que puede causar enfermedad",
+          "definition_en": "infection - invasion by microorganisms that can cause illness"
+        },
+        {
+          "word": "apósito",
+          "definition_es": "material estéril que cubre y protege una herida",
+          "definition_en": "dressing - sterile material that covers and protects a wound"
+        }
+      ],
+      "added_at": "2026-10-17T09:12:23.321363Z"
+    },
     {
       "id": "surgical-wounds-20261016",
       "category": "Surgical Wounds",
@@ -46029,6 +46066,6 @@
       ]
     }
   ],
-  "last_updated": "2026-10-16T09:14:42.238306Z",
+  "last_updated": "2026-10-17T09:12:23.321363Z",
   "generated_by": "GitHub Actions + OpenAI API (accumulative mode)"
 }
